@@ -1,0 +1,23 @@
+Section: 1
+----
+Title: Yalding
+----
+County: Kent
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/maidstone
+----
+Meta: Distance from station, 1&#189; mile.
+
+A telegraph station.
+
+Fair
+: October 15th.
+
+Money Order Office
+: at Maidstone.
+----
+Text: The village of Yalding is not remarkable for anything of interest to the traveller. A short distance from it are Yalding Downs and Barnes Hill; and to the left of the station there are several country seats and mansions, in most beautiful parks.

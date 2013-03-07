@@ -1,0 +1,22 @@
+Section: 1
+----
+Title: Gray's Thurrocks
+----
+County: Essex
+----
+Company:
+- companies/london-tilbury-and-southend
+----
+Line:
+- lines/stepney-and-ilford-to-tilbury
+----
+Meta: Population
+: 2,209
+
+Market Day
+: Thursday.
+
+Fair
+: May 23rd.
+----
+Text:

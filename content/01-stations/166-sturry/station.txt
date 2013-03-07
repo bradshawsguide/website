@@ -1,0 +1,27 @@
+Section: 1
+----
+Title: Sturry
+----
+County: Kent
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/ashford-and-canterbury
+----
+Meta: A telegraph station,
+
+Hotel
+: The Swan.
+
+Omnibuses
+: to and from the station.
+
+Fair
+: Whit-Monday.
+
+Money Order Office
+: at Canterbury
+----
+Text: &#32;

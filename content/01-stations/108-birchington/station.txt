@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Birchington
+----
+County: Kent
+----
+Company:
+- companies/london-chatham-and-dover
+----
+Line:
+- lines/kent-coast
+----
+Meta: A telegraph station.
+----
+Text: A pleasantly situated sea side village, which must soon rise to the dignity of a watering place. Here is a church of the 15th century, foil of brasses and monuments. About three miles further is the station at [Margate](margate).

@@ -1,0 +1,59 @@
+Section: 1
+----
+Title: Staplehurst
+----
+County: Kent
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/south-eastern
+----
+Meta: A telegraph station.
+
+Hotels
+: South Eastern, King's Head.
+
+Fairs
+: Monday after July 20th, Wednesday after September 20th.
+----
+Text: The village of the same name is near the station; its fine old church and quaint antique houses are much admired.
+
+The village of Cranbrook, in the heart of the Weald of Kent is remarkable for its handsome church, considered one of the most interesting edifices in the county. The remains of Sissinghurst Castle, four miles, are also well worthy a visit.
+
+## Distances of Places from the Station
+
+|                          | Miles  |
+| ------------------------ | ------ |
+| Bennendon                | 7      |
+| Chart Hill               | 3      |
+| Chart Sutton             | 3      |
+| Chiddendcen Wood         | 5&#189;|
+| Cranbrook                | 6      |
+| Dingle Dale              | 8      |
+| Dellingden Farm          | 6&#190;|
+| East Sutton              | 3&#190;|
+| Elderton                 | 1&#190;|
+| Foxcarthwood             | 5      |
+| Frittenden               | 4      |
+| Goddard's Green          | 6&#189;|
+| Great Dunbury            | 1&#188;|
+| Hangley Wood             | 5&#188;|
+| Hartley                  | 6&#189;|
+| Hawkhurst                | 8&#188;|
+| Hempstead Park           | 6      |
+| Hersfield Place          | 2&#188;|
+| Highgate                 | 8&#188;|
+| Hockenbury Green         | 1      |
+| Kilsom                   | 1      |
+| Love House               | 1&#189;|
+| Milk House Street        | 4      |
+| Postern Plain            | 2&#188;|
+| Sandhurst Green          | 9&#190;|
+| Standing Street          | 8&#188;|
+| Sutton Valenee           | 3&#188;|
+| Swallenden Farm          | 7&#189;|
+| Switliland               | 2&#189;|
+| Wanthurst                | 1&#188;|
+| Winsley Green            | 4&#189;|

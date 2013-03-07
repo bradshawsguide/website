@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Chalk Farm
+----
+County: Middlesex
+----
+Company:
+- company/north-london
+----
+Line:
+- lines/fenchurch-street-and-bow-to-camden-and-chalk-farm
+----
+Meta:
+----
+Text:

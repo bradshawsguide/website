@@ -1,0 +1,17 @@
+Section: 1
+----
+Title: Acton
+----
+County: Middlesex
+----
+Company:
+- company/north-and-south-western-junction
+----
+Line:
+- lines/willesden-junction-to-kew
+- lines/hammersmith
+----
+Meta: Population
+: 3,151.
+----
+Text: Here Sir Mathew Hale, Bishop Lloyd, and Baxter lived. The old Catholic church is worth a visit.

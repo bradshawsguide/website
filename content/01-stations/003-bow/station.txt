@@ -1,0 +1,19 @@
+Section: 1
+----
+Title: Bow
+----
+County: Middlesex
+----
+Company:
+- company/north-london
+----
+Line:
+- lines/fenchurch-street-and-bow-to-camden-and-chalk-farm
+----
+Meta: A telegraph station.
+
+Money Order Office
+: No. 28, Southside.
+----
+Text:  At Bow the train receives and puts down passengers; and soon after starting from which we find
+ourselves in an open country; on the left is <span class="smcp">Victoria Park</span>, and a little to the right an extensive view over the Hackney marshes, terminating with a considerable portion of the well-wooded scenery of Essex. Passing onward, through the verdant fields, we come to the retired village of *Homerton*, the church and parsonage house of which are pleasing specimens of architecture.

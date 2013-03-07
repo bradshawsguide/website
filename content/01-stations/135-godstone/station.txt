@@ -1,0 +1,80 @@
+Section: 1
+----
+Title: Godstone
+----
+County: Surrey
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/south-eastern
+----
+Meta: Distance from station, 3 miles.
+
+A telegraph station.
+
+Hotel
+: White Hart.
+
+Fair
+: July 22.
+----
+Text: The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked. There was formerly a mineral spring of some repute a short distance, from Godstone. The parks and mansions in this neighbourhood are much admired, and from some of the hills there are beautiful views of the surrounding country of Surrey and Kent. Tandridge and Limpsfield are pretty villages, about two miles distant.
+
+## Distances of Places from the Station
+
+|                    | Miles  |
+| ------------------ | ------ |
+| Anchor Farm        | 2&#189;|
+| Blackgrove         | 3&#189;|
+| Bletchingley       | 2&#189;|
+| Blendley Heath     | 2&#189;|
+| Bradfield          | 3&#189;|
+| Byes               | 3      |
+| Comforts Place     | 3&#189;|
+| Cross Ways         | 0&#188;|
+| Dog Kennel         | 3      |
+| Felbridge Park     | 5      |
+| Flower House       | 2&#188;|
+| Gassous House      | 2&#188;|
+| Godstone           | 3      |
+| Godstone Green     | 4      |
+| Goulds             | 3      |
+| Hedge Court        | 7      |
+| Hill Farm          | 1&#189;|
+| Hobbs              | 3      |
+| Hook               | 3      |
+| Home               | 4      |
+| Ivy House          | 2&#188;|
+| Jenkins' Land      | 2&#189;|
+| Live House         | 0&#190;|
+| Lee Place          | 2&#188;|
+| Legham             | 2      |
+| Lingneld           | 4      |
+| Moat Farm          | 3&#190;|
+| Nagshall           | 2&#189;|
+| Nashes             | 3&#189;|
+| Nobright           | 3&#189;|
+| North Park         | 4      |
+| Oxted              | 3      |
+| Park Farm          | 3      |
+| Postergate         | 4&#189;|
+| Peartree           | 4&#189;|
+| Peny's Farm        | 2      |
+| Periy's            | 3      |
+| Priory House       | 4      |
+| Quarry House       | 4      |
+| Rook's Nest        | 2&#189;|
+| Snout's Farm       | 2      |
+| Starborough Castle | 8      |
+| Stile              | 3      |
+| Stockwood          | 3      |
+| Stratton House     | 2&#188;|
+| Tandridge Park     | 2      |
+| Tilberstow Hill    | 2&#189;|
+| Tyler's Green      | 2&#188;|
+| Woldingham         | 4&#189;|
+| Wonham             | 3      |
+
+Passing over Stafford's Wood Common, the line now traverses a fine and open country, entering the county of Kent at a spot bearing the diminutive cognomen of "Little Browns." The intervening miles are rapidly left behind, and we again pause for a few brief minutes at [Edenbridge](edenbridge), the first station in the county of [Kent](/counties/kent).

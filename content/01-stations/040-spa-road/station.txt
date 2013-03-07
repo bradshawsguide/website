@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Spa Road
+----
+County: Surrey
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/greenwich
+----
+Meta: A telegraph station.
+----
+Text:

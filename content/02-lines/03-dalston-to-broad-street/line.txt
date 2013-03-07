@@ -1,0 +1,9 @@
+﻿Section: 1
+----
+Title: Dalston to Broad Street
+----
+Company: North London Railway
+----
+Type: Branch
+----
+Text: *[Bradshaw [notes](/stations/hackney) that this is 'a very great convenience for city traffic']*

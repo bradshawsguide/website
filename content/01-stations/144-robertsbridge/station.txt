@@ -1,0 +1,23 @@
+Section: 1
+----
+Title: Robertsbridge
+----
+County: Sussex
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/tunbridge-wells-and-hastings
+----
+Meta: Distance from station, &#188; mile.
+
+A telegraph station.
+
+Hotel
+: Old George.
+
+Market Day
+: Thursday.
+----
+Text: The village is situated on the banks of the river Rother, and only remarkable for the houses being constructed of red brick, which gives the place a peculiar appearance.

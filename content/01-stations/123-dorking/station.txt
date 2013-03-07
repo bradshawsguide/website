@@ -1,0 +1,85 @@
+Section: 1
+----
+Title: Dorking
+----
+County: Surrey
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/reading-guildford-and-reigate
+----
+Meta: A telegraph station.
+
+Population
+: 4,161.
+
+Hotels
+: Red Lion, and White Horse.
+
+Omnibuses
+: to and from the station; to Epsom station several times daily.
+
+Market Day
+: Thursday.
+
+Fair
+: The day before Holy Thursday.
+----
+Text: Dorking is situated in a valley near the river Mole, nearly surrounded with hills, and commands some of the finest views in the kingdom. This town is of considerable antiquity, and so conveniently situated that it carries on a large trade in flour and corn and employs several mills on the Mole. The church is a fine old edifice and contains several handsome monuments. It is celebrated for its poultry, particularly for a five-toed breed, called Dorkings, supposed to have been introduced by the Romans.
+
+It is a favourite summer resort of invalids and lovers of rural scenery, and it would be difficult to name any place better calculated for both classes, as the salubrity of the air and the beauty of the surrounding country cannot be surpassed or equalled within so short a distance of the metropolis. There are several very beautiful country-seats villas, and mansions around the town, too numerous, however, to be enumerated in our pages.
+
+## Distances of Places from the Station
+
+|                          | Miles  |
+| ------------------------ | ------ |
+| Abinger Hall             | 3      |
+| Anstie Bury              | 4&#189;|
+| Ashstead                 | 8      |
+| Bay Hill                 | 1&#189;|
+| Bench                    | 2      |
+| Bookham                  | 2      |
+| Boxhill                  | 2      |
+| Brickham Common          | 2&#189;|
+| Broadmoor                | 2      |
+| Burforcl Grove           | 2      |
+| Capet                    | 7      |
+| Chardhurst               | 2      |
+| Cold Harbour             | 4&#189;|
+| Collickmoor              | 2      |
+| Combe                    | 1&#190;|
+| Deepdene                 | 3      |
+| Denhies                  | 2      |
+| Etnngham                 | 4      |
+| Folly                    | 1&#189;|
+| Freeshurst               | 2      |
+| Holloway                 | 1&#189;|
+| Holmbury Hill            | 1&#189;|
+| Holmwood Common          | 2&#189;|
+| Leith Hill               | 5      |
+| Livesome Bridge          | 2&#189;|
+| Menidone                 | 1&#189;|
+| Mickleham                | 3      |
+| Norbury Park             | 3      |
+| Ockley                   | 7      |
+| Park Farm                | 1&#189;|
+| Parkpale                 | 2&#189;|
+| Pexham                   | 1&#189;|
+| Pit brook Bridge         | 1&#189;|
+| Polesden                 | 3      |
+| Ridland                  | 1&#189;|
+| Rookery                  | 1&#189;|
+| Scammels                 | 2&#189;|
+| Shrub Hill               | 2      |
+| Store Bridge             | 2      |
+| Stubbs                   | 2      |
+| Stumble Hole             | 2      |
+| Tanhurst near Leith Hill | 5      |
+| Upper Laylands           | 2&#189;|
+| Wescott                  | 2&#189;|
+| Wescott Parsonage        | 1&#189;|
+| Wotten                   | 2      |
+
+The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](gomshall-and-sheire).

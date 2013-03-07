@@ -1,0 +1,49 @@
+Section: 1
+----
+Title: Whitstable
+----
+County: Kent
+----
+Company:
+- companies/london-chatham-and-dover
+- companies/south-eastern
+----
+Line:
+- lines/kent-coast
+- lines/canterbury-and-whitstable
+----
+Meta: A telegraph station.
+
+Hotels
+: Two Brewers; Bear and Key.
+
+Omnibuses
+: to and from the station.
+
+Fair
+: Thursday before Whit-Sunday.
+----
+Text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
+
+## Distances of Places from the Station
+
+|                       | Miles  |
+| --------------------- | ------ |
+| Balls Street & Bodkin | 2      |
+| Bostall               | 1      |
+| Broad Street          | 1&#189;|
+| Canterbury            | 6      |
+| Chestfield            | 2      |
+| Church Street         | 0&#189;|
+| Coleward              | 2      |
+| Elensden              | 2&#190;|
+| Faversham             | 7      |
+| Herne Bay             | 5      |
+| Rucking               | 3      |
+| Ryeham                | 1&#189;|
+| Sea Salter            | 3      |
+| Studhill              | 2&#190;|
+| Swalecliffe           | 2      |
+| Tankerton Castle      | 0&#189;|
+| Thompson's Farm       | 2&#190;|
+| Thorndean Wood        | 2&#190;|

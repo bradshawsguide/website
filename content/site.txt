@@ -1,0 +1,17 @@
+Title: Bradshaw's Handbook for Tourists in Great Britain &#38; Ireland
+----
+ShortTitle: Bradshaw's
+----
+Author: George Bradshaw
+----
+Publisher: Paul Robert Lloyd
+----
+PublisherURL: http://paulrobertlloyd.com/
+----
+License: Public domain
+---- 
+LicenseURL: http://creativecommons.org/publicdomain/mark/1.0/
+----
+Description: Bradshaw's Handbook for Tourists in Great Britain & Ireland
+----
+Keywords: railway, guide,

@@ -1,0 +1,35 @@
+Section: 1
+----
+Title: Paddock Wood Junction
+----
+County: Kent
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/south-eastern
+- lines/maidstone
+----
+Meta: A telegraph station.
+
+Money Order Office
+: at Tunbridge
+----
+Text: ## Distances of Places from the Station
+
+|                                     | Miles  |
+| ----------------------------------- | ------ |
+| Bowling Green                       | 1&#190;|
+| Brenchley                           | 3      |
+| Great Brainden                      | 3      |
+| Homebush Green                      | 2      |
+| Horsemondean                        | 4&#189;|
+| Lamberhurst                         | 5&#189;|
+| Matfield Green                      | 4&#189;|
+| Mereworth Castle (Lady Despencer's) | 5      |
+| Pigfish                             | 2&#189;|
+| Snoll Hatch                         | 1&#190;|
+| Wested                              | 1      |
+| Woodfall                            | 1&#190;|
+| Yaldiug                             | 3&#189;|

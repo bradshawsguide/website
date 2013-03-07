@@ -1,0 +1,56 @@
+Section: 1
+----
+Title: Ash
+----
+County: Surrey
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/reading-guildford-and-reigate
+----
+Meta: Distance from the station, 1 mile.
+
+A telegraph station.
+
+Omnibuses
+: to and from the station.
+
+Money Order Office
+: at Farnham.
+----
+Text: ## Distances of Places from the Station.
+
+|                    | Miles   |
+| ------------------ | ------- |
+| Aldershott         | 3       |
+| Ash Common         | 1&#188; |
+| Bagshot Green      | 2&#190; |
+| College Farm       | 0&#190; |
+| Compton            | 4       |
+| Crondall           | 7       |
+| Farnham            | 5       |
+| Fox Hills          | 1&#189; |
+| Frog Grove Green   | 2&#189; |
+| Godalming          | 5&#190; |
+| Henley Park        | 3       |
+| Hunter's Hole      | 2       |
+| Mitchet Farm       | 2       |
+| Normandy           | 2       |
+| Perbright          | 5       |
+| Poyle Park         | 1&#189; |
+| Puttenham          | 2&#190; |
+| Romping Downs      | 2       |
+| Seal               | 2       |
+| Tongham            | 1       |
+| Warren Hill        | 4       |
+| Waverley Abbey     | 4       |
+| Week               | 1       |
+| Westwood           | 1&#188; |
+| Weyburn House      | 3       |
+| Winchfield Station | 9       |
+
+The line now diverges or turns more towards the north, to [Aldershott](aldershot) station (North Camp), and thence to [Farnborough](farnborough), about a mile from the station of the same name on the [South Western](/lines/south-western) line.
+
+The line then proceeds through the valley of the Blackwater to [Blackwater](blackwater).

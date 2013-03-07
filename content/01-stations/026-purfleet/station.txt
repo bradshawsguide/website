@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Purfleet
+----
+County: Essex
+----
+Company:
+- companies/london-tilbury-and-southend
+----
+Line:
+- lines/stepney-and-ilford-to-tilbury
+----
+Meta:
+----
+Text: Here are immense powder magazines belonging to Government; also *Belvedere*, seat of R. Webb, Esq.

@@ -1,0 +1,24 @@
+Section: 1
+----
+Title: Strood
+----
+County: Kent
+----
+Company:
+- companies/south-eastern
+- companies/london-chatham-and-dover
+----
+Line:
+- lines/north-kent
+- lines/london-to-chatham-and-dover
+- lines/maidstone
+----
+Meta: A telegraph station.
+
+Hotel
+: Old George.
+
+Steam Boats
+: to Sheerness several times daily.
+----
+Text: A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](rochester).

@@ -1,0 +1,25 @@
+Section: 1
+----
+Title: Marden
+----
+County: Kent
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/south-eastern
+----
+Meta: Distance from station, &#188 mile.
+
+A telegraph station.
+
+Fair
+: October 11.
+
+Money Order Office
+: at Staplehurst.
+----
+Text: The only object worthy of notice is Marden church. *Boughton Place* in the neighbourhood is a very fine estate, from some points of which may be obtained several extensive views over the Weald of Kent.
+
+Two miles more and the train reaches the station at [Staplehurst](staplehurst).

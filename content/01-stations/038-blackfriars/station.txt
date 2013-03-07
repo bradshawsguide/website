@@ -1,0 +1,17 @@
+Section: 1
+----
+Title: Blackfriars
+----
+County: Middlesex
+----
+Company:
+- companies/south-eastern
+- companies/london-chatham-and-dover
+----
+Line:
+- lines/greenwich
+- lines/london-to-chatham-and-dover
+----
+Meta: A telegraph station.
+----
+Text: Whence it steams over the Borough market (St. Saviour's fine church on our left), to [London Bridge](london-bridge).

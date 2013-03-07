@@ -1,0 +1,310 @@
+/* ============================================================
+    Helpers
+============================================================ */
+/* Visibly hidden */
+.hidden {
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    position: absolute;
+}
+
+/* Centered container with max-width of 800px */
+.container {
+    margin: 0 auto;
+    padding: 1em 5%;
+    max-width: 50em; /* 800px */
+    /*overflow: hidden;*/
+}
+@media screen and (min-width: 30em) {
+    .container {
+        padding: 1em 2.5%;
+    }
+}
+
+/* Bulletless list */
+.no-bullets li {
+    list-style: none;
+    margin-left: 0;
+}
+
+
+/* ============================================================
+    Text
+============================================================ */
+.lede {
+    color: #666;
+    font-weight: 300;
+    font-size: 1.5em; /* 24px */
+    line-height: 1; /* 24px */
+    margin: 0.6667em 0 1em; /* 16px 0 24px */
+}
+.caption {
+    color: #888;
+    font-size: 0.75em; /* 12px */
+    line-height: 1.25; /* 16px */
+    margin: 0.6667em 0; /* 8px 0 */
+}
+.smcp, p > .first-word {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 400;
+}
+
+
+/* ============================================================
+    Cover
+============================================================ */
+.cover {
+    text-align: center;
+    padding-bottom: 4em;
+    .title {
+        margin-bottom: 2em; /* 32px */
+        h1 {
+            margin-bottom: 0.2em; /* 8px */
+        }
+        p:last-of-type {
+            font-size: 0.75em; /* 12px */
+        }
+        span {
+            display: block;
+        }
+        hgroup {
+            margin-bottom: 0;
+        }
+        .broad {
+            font-family: 'Playfair Display SC', serif;
+            font-weight: 900;
+            letter-spacing: 1px;
+            text-transform: none;
+        }
+        .narrow {
+            font-size: 1.1em;
+        }
+        .in {
+            font-size: 14px;
+            margin: 8px 0 0;
+        }
+    }
+    h2 {
+        font-size: 16px;
+        margin: 32px 0 0;
+    }
+    h3 {
+        font-weight: 700;
+        margin: 12px 0 8px;
+    }
+    .pubdate {
+        font-size: 1.125em; /* 18px */
+        line-height: 0.8889; /* 16px */
+        text-transform: uppercase;
+        margin: 0 auto;
+        width: 10em;
+    }
+    abbr {
+        font-weight: 400;
+        border: 0;
+    }
+}
+
+/* ============================================================
+    Layout
+============================================================ */
+/* Pull left */
+.pull-left {
+    float: left;
+}
+img.pull-left {
+    margin: 0 1em 0.5em 0; /* 0 16px 8px 0 */
+}
+
+/* Pull right */
+.pull-right {
+    float: right;
+}
+img.pull-right {
+    margin: 0 0 0.5em 1em; /* 0 0 8px 16px */
+}
+
+
+/* ============================================================
+    Link
+============================================================ */
+/* External */
+a[rel="external"] {
+    background: url(data:image/svg+xml;charset=utf-8;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCw0IEw4LDQgTDYsNiBMMiw2IEwyLDE0IEwxMCwxNCBMMTAsMTAuNSBMMTIsOC41IEwxMiwxNiBMMCwxNiBaIE0wLDQiIGZpbGw9InJnYmEoMCwwLDAsMC4zMykiPjwvcGF0aD48cGF0aCBkPSJNNiwwIEwxNiwwIEwxNiwxMCBMMTQsMTAgTDE0LDMuNSBMNy41LDEwIEw2LDguNSBMMTIuNSwyIEw2LDIgWiBNNiwwIiBmaWxsPSJyZ2JhKDAsMCwwLDAuMzMpIj48L3BhdGg+PC9zdmc+) no-repeat right 40%;
+    background-size: 12px;
+    padding-right: 1em;
+}
+
+/* Links to page without remarks */
+a.unremarkable {
+    color: fade(@color-text, 75%);
+    border: 0;
+}
+
+
+/* ============================================================
+    Navigation
+============================================================ */
+.prevnext {
+    line-height: 1.5; /* 24px */
+    margin: 0.5em -1.25em; /* 8px -20px */
+    overflow:hidden;
+    a {
+        border: 0;
+    }
+    a[rel="prev"] {
+        float: left;
+        &::before {
+            content: "\261C\0020";
+        }
+    }
+    a[rel="next"] {
+        float: right;
+        &::after {
+            content: "\0020\261E";
+        }
+    }
+}
+
+/* ============================================================
+    Lists
+============================================================ */
+/* Railway line */
+ol.line {
+    list-style:none;
+    border-left:0.25em solid lighten(@color-text, 50%);
+    margin-left:0.25em;
+    position:relative;
+    > li {
+        color:fade(@color-text, 66%);
+        text-indent:0;
+        margin-left:0;
+        &::before {
+            content:"\0020";
+            background-color:lighten(@color-text, 50%);
+            margin:0.75em 0.75em 0 0;
+            display:block;
+            width:0.25em;
+            height:0.25em;
+            float:left;
+        }
+        &:first-child,
+        &:last-child {
+            font-weight:700;
+            &::before {
+                margin:0.75em 0.5em 0.75em -0.75em;
+                width:1.25em;
+                
+            }
+        }
+        &.interchange {
+            &::before {
+                content:"\0020";
+                background-color:@color-beige;
+                margin:0.25em 0.5em 0 -0.75em; /* 4px 8px 0 -12px */
+                border:0.25em solid lighten(@color-text, 50%);
+                border-radius:1em;
+                display:block;
+                width:0.75em; /* 12px */
+                height:0.75em; /* 12px */
+                position:relative;
+                z-index:1;
+            }
+        }
+        ul {
+            margin-top:0;
+        }
+        ul li {
+            font-weight:400;
+            font-size:0.75em;
+            text-indent:0;
+            margin-left:3.25em;
+            position:relative;
+            &::before {
+                content:"\261E";
+                font-size:1.5em;
+                position:absolute;
+                left:-1.25em;
+                top:-0.3334em;
+            }
+        }
+    }
+    &::before,
+    &::after {
+        content:"";
+        width:1.25em;
+        height:0.75em;
+        background-color:@color-beige;
+        position:absolute;
+        top:0;
+        left:-0.75em;
+        z-index:0;
+    }
+    &::after {
+        top:inherit;
+        bottom:0;
+    }
+}
+
+/* County/station/line listing */
+ul.listing {
+    margin: 0 0 4em 0;
+    border-top: 1px solid fade(@color-text, 25%);
+    padding-top: 1em;
+    overflow:hidden;
+    li {
+        color:fade(@color-text, 66%);
+        line-height: 1.5;
+        text-indent: 0;
+        margin-left: 0;
+    }
+}
+@media screen and (min-width: 20em) {
+    ul.counties, ul.stations {
+        li {
+            width: 50%;
+            float: left;
+        }
+    }
+}
+@media screen and (min-width: 30em) {
+    ul.counties, ul.stations {
+        li {
+            width: 33%;
+        }
+    }
+}
+@media screen and (min-width: 40em) {
+    ul.counties, ul.stations {
+        li {
+            width: 25%;
+        }
+    }
+    ul.lines {
+        li {
+            width: 50%;
+            float: left;
+        }
+    }
+}
+
+/* Index */
+h2.index {
+    font-size: 2em; /* 32px */
+    font-weight: 400;
+}
+@media screen and (min-width: 55em) {
+    h2.index {
+        line-height: 1.5; /* 48px */
+        margin: 0 0 0 -1.5em; /* 0 0 0 -48px */
+        border-top: 1px solid fade(@color-text, 25%);
+        padding-top: 0.375em; /* 12px */
+        width: 1.5em; /* 48px */
+        float: left;
+    }
+}

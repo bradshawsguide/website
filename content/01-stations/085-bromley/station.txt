@@ -1,0 +1,18 @@
+Section: 1
+----
+Title: Bromley
+----
+County: Kent
+----
+Company:
+- companies/london-chatham-and-dover
+----
+Line:
+- lines/london-to-chatham-and-dover
+----
+Meta: A telegraph station.
+
+Population
+: 5,505.
+----
+Text: Principally composed of one long street; market house, supported on pillars. Dr. Johnson's wife and Hawkesworth, the author of the "Adventurer" lie buried here.

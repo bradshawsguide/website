@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Dalston
+----
+County: Middlesex
+----
+Company:
+- company/north-london
+----
+Line:
+- lines/dalston-to-broad-street
+----
+Meta:
+----
+Text:

@@ -1,0 +1,67 @@
+Section: 1
+----
+Title: Edenbridge
+----
+County: Kent
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/south-eastern
+----
+Meta: A telegraph station.
+
+Hotel
+: Albion (at the station).
+
+Omnibuses
+: at the station; also to Westerham
+
+Fair
+: May 6th.
+
+Money Order Office
+: at East Grinstead.
+----
+Text: The village of Edenbridge, situated 1 mile from the station, derives its name from the little river Eden, one of the tributary streams of the Medway. There are several chalybeate springs in the neighbourhood. The church of Edenbridge is a fine ancient edifice, containing several handsome tombs; also a curious monument of the Earl of Wiltshire. A few miles distant is the village of Westerham; and a short distance south of the line is
+
+*Hever Castle*, once the residence of the unfortunate Queen Anne Boleyn. The castle was erected in the reign of Edward III. by William de Hean. It subsequently fell into the hands of the Cobhams, who disposed of it to Sir Geoffrey Boleyn, a rich mercer of London, and great grandfather of the unfortunate Queen Anne Boleyn. It is still an imposing building, and many of the rooms present the same appearance as during the happy visits of Henry VIII. Various shields, with the arms and alliances of the Boleyn family, are displayed on the windows. The castle is still inhabited; it is surrounded by a moat, the entrance embattled and defended by a drawbridge and portcullis. Anne of Cleves died here in 1557.
+
+The village of Chiddingstone, near Hever, is one of the prettiest in the county, and the whole district is remarkable for most beautiful scenery.
+
+The neighbourhood here begins to get thronged with objects of attraction sufficient to draw the tourist from his main route.
+
+## Distances of Places from the Station
+
+|                                            | Miles  |
+| ------------------------------------------ | ------ |
+| Brook House                                | 1&#189;|
+| Brusted                                    | 5      |
+| Brusted Place                              | 4&#189;|
+| Buckhurst Park                             | 7&#189;|
+| Chiddingstone                              | 3&#189;|
+| Chartwell                                  | 3&#189;|
+| Comb Bank                                  | 6      |
+| Cowden                                     | 4&#189;|
+| Cubham Wood                                | 7      |
+| Foundling House                            | 3      |
+| Four Elms                                  | 1&#190;|
+| Hall Farm                                  | 4      |
+| Hole Farm                                  | 1&#190;|
+| Hill Park                                  | 5      |
+| Hartfield                                  | 7&#189;|
+| Hever Castle (Ralph Waldo, Esq.), in ruins | 4      |
+| Ivy House                                  | 3&#188;|
+| Limpsfield                                 | 5      |
+| Linhurst                                   | 1      |
+| Mapledon                                   | 2      |
+| Marsh Green                                | 1&#190;|
+| Oakhams                                    | 2&#189;|
+| Seven Oaks                                 | 7&#189;|
+| Squerries, The                             | 3&#189;|
+| Stanfords End                              | 1&#190;|
+| Sunbridge                                  | 8      |
+| Westerham                                  | 5      |
+
+From Edenbridge station to the next, there are succession of agreeable prospects, diversified by a few impediments to a good view in the form of an intervening cutting.

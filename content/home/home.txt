@@ -1,0 +1,29 @@
+Text:
+<hgroup class="title">
+    <h1>
+        <span class="broad">Bradshaw's</span>
+        <span class="narrow">Handbook For Tourists</span>
+        <span class="in">in</span>
+        <span class="broad">Great Britain <abbr title="and">&</abbr>&#160;Ireland</span>
+    </h1>
+    <p class="pubdate">1866 Edition</p>
+    <p class="smcp">Electronically Re-mastered</p>
+</hgroup>
+
+*(in four sections), adapted to the railway system:*
+
+## [Section I](/stations/section:1)
+### [London and its Environs](/stations/section:1);
+including the Crystal Palace, Windsor, Hampton Court <abbr title="ecetera">&c</abbr>.
+
+## Section II
+### North <abbr title="and">&</abbr> South Wales, Ireland and the Lakes of Killarney
+*Arriving late 2013*
+
+## Section III
+### English and Scotch Lake Districts and Ayr (the Land of Burns)
+*Arriving early 2014*
+
+## Section IV
+### The great manufacturing districts of Lancashire and Yorkshire
+*Arriving late 2014*

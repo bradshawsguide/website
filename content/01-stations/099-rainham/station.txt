@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Rainham
+----
+County: Kent
+----
+Company:
+- companies/london-chatham-and-dover
+----
+Line:
+- lines/london-to-chatham-and-dover
+----
+Meta: A telegraph station
+----
+Text: One of the villages on the Old Roman road, Watling Street, passing which, and the station of [Newington](newington), we arrive at that of [Sittingbourne](sittingbourne).

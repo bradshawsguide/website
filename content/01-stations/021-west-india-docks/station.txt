@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: West India Docks
+----
+County: Middlesex
+----
+Company:
+- companies/london-and-blackwall
+----
+Line:
+- lines/london-and-blackwall
+----
+Meta:
+----
+Text: Particulars of which [can be found here](/counties/london/london-bridge-to-herne-bay#west-india-docks).

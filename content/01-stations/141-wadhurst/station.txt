@@ -1,0 +1,23 @@
+Section: 1
+----
+Title: Wadhurst
+----
+County: Sussex
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/tunbridge-wells-and-hastings
+----
+Meta: Distance from station, &#188; mile.
+
+A telegraph station.
+
+Market Day
+: Saturday.
+
+Fairs
+: April 29th and November 1st.
+----
+Text: &#32;

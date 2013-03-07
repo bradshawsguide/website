@@ -1,0 +1,31 @@
+Section: 1
+----
+Title: Headcorn
+----
+County: Kent
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/south-eastern
+----
+Meta: Distance from station, &#188; mile.
+
+A telegraph station.
+
+Hotels
+: The George, King's Anns.
+
+Market Day
+: Wednesday.
+
+Fair
+: June 12th.
+
+Money Order Office
+: at Staplehurst.
+----
+Text: This village possesses no feature of particular or general interest, beyond the splendid old oak tree in the churchyard. The churches of Chart Sutton, Sutton Valence, and Sutton Castle, are worth visiting.
+
+From Headcorn the railway passes the villages of Smarden and Bedenham on the right side, and then reaches [Pluckley](pluckley).

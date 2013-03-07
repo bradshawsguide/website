@@ -1,0 +1,16 @@
+Section: 1
+----
+Title: Sevenoaks Junction
+----
+County: Kent
+----
+Company:
+- companies/london-chatham-and-dover
+----
+Line:
+- lines/london-to-chatham-and-dover
+- lines/sevenoaks
+----
+Meta:
+----
+Text: A [line](/lines/sevenoaks) here turns off to the right, 8 miles long, passing through [Eynesford](eynesford) and [Shoreham](shoreham), to [Sevenoaks](sevenoaks).

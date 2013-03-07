@@ -1,0 +1,17 @@
+Section: 1
+----
+Title: Brixton
+----
+County: Surrey
+----
+Company:
+- companies/london-chatham-and-dover
+----
+Line:
+- lines/london-to-chatham-and-dover
+- lines/metropolitan-extension
+- lines/crystal-palace
+----
+Meta: 
+----
+Text: 

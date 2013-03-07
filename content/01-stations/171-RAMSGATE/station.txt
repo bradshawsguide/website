@@ -1,0 +1,17 @@
+Section: 1
+----
+Title: Ramsgate
+----
+County: Kent
+----
+Company:
+- companies/london-chatham-and-dover
+- companies/south-eastern
+----
+Line:
+- lines/kent-coast
+- lines/ashford-and-canterbury
+----
+Meta: A telegraph station.
+----
+Text: Ramsgate, and the sea side, without the need of walking another step. A short continuation of the line will ultimately have a terminus on the Pier.

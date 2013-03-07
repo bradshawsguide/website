@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Kentish Town
+----
+County: Middlesex
+----
+Company:
+- company/hampstead-junction
+----
+Line:
+- lines/hampstead-junction
+----
+Meta:
+----
+Text:

@@ -1,0 +1,58 @@
+Section: 1
+----
+Title: Wokingham
+----
+County: Berkshire
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/reading-guildford-and-reigate
+----
+Meta: A telegraph station.
+
+Population
+: 2,404.
+
+Hotel
+: Bush.
+
+Post Horses, Flys, &c
+: at the station and hotels.
+
+Fair
+: Whit Tuesday.
+----
+Text: Wokingham is situated on the River Wey, on the borders of Windsor Forest. The town consists of three streets, with a handsome new Town Hall (modern Gothic) and Market Place in the centre. The Parish Church is picturesque, and undergoing restoration. A new church is also being built by J. Walter, Esq., proprietor of the Times. The railways have given considerable impetus to trade here, and house property has become valuable.
+
+## Distances of Places from the Station.
+
+|                    | Miles  |
+| ------------------ | ------ |
+| Bisley             | 3      |
+| Chobham            | 2&#189;|
+| Chobham Hall       | 3&#189;|
+| Chobham Park       | 3      |
+| Cross Stock        | 2      |
+| Dudsall Court      | 3&#190;|
+| Grove Heath        | 3      |
+| Hale End           | 3      |
+| Hermitage, The     | 2      |
+| Hide Farm          | 2&#190;|
+| Hoe Bridge         | 1      |
+| Hook Hill          | 1&#189;|
+| Horshill           | 1      |
+| Knapp Hill         | 3      |
+| London Necropolis  | 2&#189;|
+| Mayford            | 3      |
+| Newark Abbey Ruins | 2      |
+| Ottershaw          | 3&#188;|
+| Pirford            | 2      |
+| Ripley Park        | 3      |
+| Shackleford        | 3      |
+| Sutton Park        | 3      |
+| Westfield          | 2&#189;|
+| Wokingham          | 1      |
+
+From this station the railway passes that of [Earley](earley) and over a level but highly cultivated country, interspersed with villages and country-seats, until it reach the terminus at [Reading](reading).

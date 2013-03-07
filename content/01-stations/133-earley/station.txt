@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Earley
+----
+County: Berkshire
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/reading-guildford-and-reigate
+----
+Meta:
+----
+Text:

@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Sevenoaks
+----
+County: Kent
+----
+Company:
+- companies/london-chatham-and-dover
+----
+Line:
+- lines/sevenoaks
+----
+Meta: A telegraph station.
+----
+Text: A town if some importance, deriving its name from that of its found, Sir W. Sevenocke.

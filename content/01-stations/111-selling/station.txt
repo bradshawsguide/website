@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Selling
+----
+County: Kent
+----
+Company:
+- companies/london-chatham-and-dover
+----
+Line:
+- lines/london-to-chatham-and-dover
+----
+Meta:
+----
+Text: Selling, and a distance of 6&#189; miles further, archiepiscopal city of [Canterbury](canterbury).

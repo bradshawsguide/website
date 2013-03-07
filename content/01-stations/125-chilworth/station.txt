@@ -1,0 +1,19 @@
+Section: 1
+----
+Title: Chilworth
+----
+County: Surrey
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/reading-guildford-and-reigate
+----
+Meta: Distance from station, &#189; mile.
+
+A telegraph station.
+----
+Text: On an eminence in the vicinity, and towards the south, is St. Martha's ancient chapel. *Chilworth Manor* is the property of Godwin Austin, Esq.
+
+About two miles further is [Shalford](shalford).

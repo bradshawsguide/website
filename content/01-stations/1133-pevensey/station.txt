@@ -1,0 +1,29 @@
+Section: 1
+----
+Title: Pevensey
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/hastings
+----
+Meta: Telegraph station at Polegate, 3 &#189; miles.
+
+Hotel
+: Royal Oak.
+
+Market Day
+: Thursday (Southdown Sheep).
+
+Fairs
+: July 5th and Sept. 15th.
+
+----
+Text: Though formerly a place of so much importance as to give name to the hundred, it has now dwindled to an inconsiderable village; and the sea, which formerly laved the castle walls, has now receded to a distance of two miles. A number of martello towers, erected at the time of the last war--we hope the phrase will be just as applicable for a hundred generations yet to come--remain as memorials of the means resorted to for the defence of the coast. The history of Pevensey might be easily expanded by a skilful topographist into a volume, but a brief enumeration of the leading features will suffice to acquaint the visitor with its bygone glories. It first appears in our chronicles in A.D. 792, when honourable mention is made of it as having been generously given by Bervald, a general of Offa, to the Abbey of St. Denis at Paris. In the reign of Edward the Confessor it was dignified by twenty-four burgesses, and was ravaged by Earl Godwin, falling shortly-after the reign of Henry <span class="smcp">III</span>. into hopeless decay. The castle was attacked by Simon de Montfort in 1265, and, in 1339, by the partisans of Richard <span class="smcp">II</span>. when it was bravely defended by the Lady Jane Pelham. The outer walls of the castle enclose an area of seven acres, and are about twenty feet in height. Within is a smaller fortification, moated on the north and west, and of a quadrangular form, with round towers. The entrance was formerly by a drawbridge. The eastern wall of both is the same, and stands upon a shelving eminence. The circumference of the inner wall is about 25 rods, andof the outer walls 250. When entire it must have been of great strength. Antiquaries differ about its first builders, but if not of Roman origin it is at any rate constructed of Roman materials, and, though the adjective savours somewhat of a pun, it may be added that its present aspect is decidedly romantic. The church is but an ordinary looking structure, with a square tower at the west end. It is dedicated to St. Nicholas. The rich pastures of Pevensey level afford fine grazing for cattle, and have contributed much to the profit and renown of the graziers surrounding.
+
+The Castle of Hurstmonceaux, on an eminence fire miles distant, at the end of a long valley, looks a noble and imposing structure, and, although a ruin, is in very good preservation. It was built in 1423, by Sir Roger Fiennes, and was one of the first brick buildings after the reintroduction of that material. It is 214 feet from east to west, and 206 feet from north to south, with an octangular tower at each corner, and a fifth in the centre of the east and west sides. A handsome gateway, with flanking towers 84 feet high, and a moat with drawbridge, make the whole appear noble and imposing. The present proprietor bas a laudible anxiety to preserve it in its original form, for which the tourist and the antiquarian are somewhat indebted to him. Near it is a mansion commanding some fine views.
+
+Proceeding eastward we pass along the coast on the very beach as it were, the view relieved only by the Martello towers, which here line the shore. A short distance to the left of the line is the retired village of *Hove* and its interesting church.

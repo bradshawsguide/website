@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Pitsea
+----
+County: Essex
+----
+Company:
+- companies/london-tilbury-and-southend
+----
+Line:
+- lines/stepney-and-ilford-to-tilbury
+----
+Meta:
+----
+Text:
