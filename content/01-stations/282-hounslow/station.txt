@@ -1,0 +1,29 @@
+Section: 1
+----
+Title: Hounslow
+----
+County: Middlesex
+----
+Company:
+- company/london-and-south-western
+----
+Line:
+- lines/hounslow-loop
+----
+Meta: Distance from station, 1 mile.
+
+A telegraph station.
+
+Population
+: 5,760.
+
+Hotel
+: George.
+
+Omnibuses
+: to and from Harlington and London, daily.
+
+Fairs
+: Trinity Monday and Monday after Michaelmas Day.
+----
+Text: The Powder Mills and the Cavalry Barracks are about a mile distant. A short distance beyond is *Whitton Park*, which we skirt, and soon after join the Windsor line. We will, however, now retrace our steps to Barnes.

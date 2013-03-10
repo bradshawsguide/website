@@ -173,6 +173,12 @@ blockquote {
         &:first-letter {
             margin-left: -0.5em;
         }
+        &::before {
+            content: "\201C\0020";
+        }
+        &::after {
+            content: "\0020\201D";
+        }
     }
 }
 

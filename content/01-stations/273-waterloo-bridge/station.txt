@@ -1,0 +1,17 @@
+Section: 1
+----
+Title: Waterloo Bridge
+----
+County: Surrey
+----
+Company:
+- company/london-and-south-western
+----
+Line:
+- lines/london-and-south-western
+----
+Wiki: http://en.wikipedia.org/wiki/London_Waterloo_station
+----
+Meta:
+----
+Text: The <span class="smcp">Metropolitan terminus</span> of the [South Western](/companies/london-and-south-western) is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company.
