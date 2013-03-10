@@ -1,0 +1,21 @@
+Section: 1
+----
+Title: Bognor
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/bognor
+----
+Meta: A telegraph station.
+
+Population
+: 2,523.
+ 
+Hotels
+: York and Norfolk.
+----
+Text: Bognor is a pleasant bathing place, with good beach, crecent, &c., and much frequented, the air being very pure, and the situation delightful. It was made a market town in 1822, and owes its rise to Sir Richard Hotham, in 1785.

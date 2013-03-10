@@ -1,0 +1,22 @@
+Section: 1
+----
+Title: Glynde
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/hastings
+----
+Meta: Distance from station, &#189; mile.
+
+Telegraph station at Lewes, 3 miles.
+
+Money Order Office
+: at Lewes.
+----
+Text: The station is near the village of Glyndebourne, in the vicinity of which is *Glynde Place*, the seat of Sir J. Langharn, and *Firle Place*, the property of Viscount Gage, The South Downs, at Firle Beacon, rise to the height of 820 feet.
+
+The line then passes the villages of Selmeston and Alceston to the station at [Berwick](berwick).

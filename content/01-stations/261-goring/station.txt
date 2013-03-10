@@ -1,0 +1,18 @@
+Section: 1
+----
+Title: Goring
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/portsmouth
+----
+Meta: Telegraph station at Worthing, 2&#189; miles.
+
+Money Order Office
+: Worthing.
+----
+Text: After which an additional four miles bring us to the station at [Angmering](angmering)

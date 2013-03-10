@@ -1,0 +1,18 @@
+Section: 1
+----
+Title: Uckfield
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/uckfield
+----
+Meta: A telegraph station.
+
+Hotels
+: Maidenhead; Bell.
+----
+Text: Besides its two chalybeate springs in the neighbourhood it has no particular attractions.

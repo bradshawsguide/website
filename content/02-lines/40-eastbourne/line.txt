@@ -1,0 +1,9 @@
+﻿Section: 1
+----
+Title: Eastbourne
+----
+Company: London, Brighton and South Coast Railway
+----
+Type: Branch
+----
+Text:

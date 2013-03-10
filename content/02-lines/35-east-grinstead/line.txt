@@ -1,0 +1,9 @@
+﻿Section: 1
+----
+Title: East Grinstead
+----
+Company: London, Brighton, and South Coast Railway
+----
+Type: Branch
+----
+Text: This branch is 68&#189; miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of [East Grinstead](/stations/east-grinstead).

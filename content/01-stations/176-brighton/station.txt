@@ -1,0 +1,64 @@
+Section: 1
+----
+Title: Brighton
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/brighton
+- lines/portsmouth
+- lines/lewes
+----
+Meta: A telegraph station.
+
+Population
+: 77,693.
+
+Hotels
+: The Grand Hotel; The Bedford; Royal York; Bristol; Old Ship; Pier; the Clarence, &c.
+
+Omnibuses
+: to and from the station and Hove every train.
+
+Market Days
+: Tuesday (corn), and Saturday.
+
+Fairs
+: Holy Thursday, and September 4th.
+
+Bankers
+: Hall, Lloyd, Bevan, and West; London and County Bank; J. G. Cockburn.
+
+----
+Text: The <span class="smcp">Brighton Terminus</span> is an elegant structure, fitted up in the most convenient manner. There is a portico in the Roman architectural style, which projects on pillars into the street, and is surmounted by an illuminated clock.
+
+This once famous resort of royalty and fashion may now, through the literal as well as metaphorical levelling of the railroad, be fairly entitled to the appellation of the Marine Metropolis. Merchants who formerly made Dulwich or Dalston the boundaries of their suburban residences, now have got their mansions on the south coast, and still get in less time, by a less expensive conveyance, to their counting-houses in the city. Excursions are now made with greater facility, and possibly more enjoyment, to Brighton, than would have, a few years back, sufficed for the common-place pilgrimage to Hampton Court; and a constant succession of trains, conveying a host of pleasure-seekers and businessmen to and fro, now traverse with marvellous frequency and precision the line that has sprung, by the magical enterprise of man, from tracts of waving corn-fields and boundless breadths of pasture.
+
+About two miles from Brighton, Hollingbury Hill--no mean eminence of itself--stretches northward towards Lewes, and occupies a conspicuous position in the landscape. Before you is a majestic range of buildings--such as perhaps no other town in the kingdom can boast--sweeping down the sides of the cliff in every direction, and sheltering the three miles of architectural magnificence which forms the sea frontage, whilst beyond spreads the swelling sea, an object of such grandeur as in its ever-changeful expanse to outvie the lavish richness with which art has fringed its cliffs and shingled shores.
+
+As will be at once apparent on descending the street leading from the station, the town is seated on an eminence that declines gradually towards the south-east, with a sloping undulation towards the Steyne, and then again ascends to the eastward. The twang of saltness that greets the lip, and the freshening, invigorating tone of the breeze, are agreeable proofs, on your first entrance, of the bracing bleak atmosphere that characterises the climate, though in various portions of the town, more sheltered, the air will be found adapted to the exigencies of the most delicate invalid. The panoramic view that first bursts upon the eye is so striking of itself, that it may be worth while glancing at it in detail, for the benefit of the visitor's future peregrinations.
+
+To the left are seen two noble turfed enclosures, both thickly planted with shrubs, and laid out in the style of our metropolitan squares. The further section, intersected by a road, is the old Steyne, in the northern enclosure of which is Chantrey's bronze statue of His Majesty the fourth George, erected in 1828, at a cost of £3,000, collected among the visitors and inhabitants. This memorial crowns the square, and, as it were, points out the actual founder of the magnificence and prosperity of the place. The building which rises with domes and minarets, and is fretted with greater variety than taste, is--we cannot say how long it will remain--the Marine Pavilion of her Majesty, erected for George the Fourth, after a fanciful oriental model, which, despite its supposed resemblance to the Moscow Kremlin, has had no precedent before or since. Adjoining are the royal stables, the main architecture of which is a vast glazed dome, lighting a circle of about 250 feet. It will be seen that the chief streets are not only wide and handsome, but well paved and brilliantly lighted, whilst the shops are of absolute metropolitan magnificence, with goods equalling in quality, and, on the average, not much excelling in price, the wares destined for a London sale. The profusion of squares, terraces, crescents, and steynes, with the bold beauty of the esplanade itself, produces a pleasing impression of variety, enhanced by the amphitheatre of hills that enclose the town beneath, and loom out in startling relief against the summer sky. The groups of animated nature identified at the corner of every thoroughfare, and the busy stragglers of the streets, are all of the marked watering-place description--pleasure seekers, out for the day, and eager to be ubiquitous, hurrying to and fro, through the market, to the spa, the race-course, the windmill, the beach, the shops, and the chain-pier, in as rapid succession as the most ingenious locomotion could devise. Then appear invalids, trundled out in bath chairs on to the Parade, to catch the earliest sunbeams; scores of laughing, chubby, thoughtless children, skilled manifestly in the art of ingeniously tormenting maids, tutors, governesses, and mammas; prawn-sellers and shell-fish hawkers a few, and flymen a multitude, all idly vociferating, whilst, intent upon their customary constitutional walk, the morning *habitués* of the promenade swing lustily past. Let us mingle with the throng, and obtain a closer intimacy with the principal features of the place.
+
+Kemp Town--the most magnificent range of private dwellings in the kingdom--is on the estate of Thomas Read Kemp, Esq., of Black Rock, at the eastern extremity of Brighton, and is fronted by an esplanade, which is a delectable spot whereon to cultivate the intellectual. On a clear day the eye may reach from Beachy Head to the Isle of Wight, catching between the points many a bold outline of cliff and crag. The cliff here is 150 feet high, and the tunnel under the road, cut through the rock from the centre of the crescent lawn, is a very ingenious mode of shortening the distance to the lower esplanade. From Kemp Town a brisk walk over odoriferous downs brings us to Rottingdean, a village rather peculiar than either pretty or picturesque. It is famous chiefly for its wells, which are empty at high water, and full to overflowing at ebb tide. There is, however, an excellent inn for the accommodation of company, unexceptionable in the quality of its fare.
+
+Returning past the old Steyne, we arrive opposite Mahomed's baths, in the busiest part of Brighton. Here we find fishermen mending their nets, boats laid up for repair, the fish-market and vendors engaged in every characteristic employment to be met with in a maritime town. Here also are pleasure-boats and sailing-vessels to be hired, where, if a party club together, a few hours' sail may be compassed for a dozen shillings. From here the Market Hall is but a short distance; it stands on the site of the old Town Hall, and was built in 1830. It answers every purpose in being spacious, unconfined, and well supplied daily with fresh and fine comestibles. The new Town Hall--avast pile of building, with three double porticoes--cost £30,000, and has a handsome assembly-room on the upper story, rendered available for divers purposes of provincial legislation and amusement.
+
+A few, very few, years back, the battery was on the western verge of the town, and beyond it the several houses seemed to be fairly in the country. A quiet hotel or two, and a bathing establishment, reminded us that we were still in Brighton, and a solitary villa, belonging to the Countess St. Antonio--a kind of Italianized cottage, with two wings, then the scene of many a gay rout notwithstanding its humility--just kept the fashion of the place in mind as, many a time and oft, we lingered on the rough and barren road to Shoreham, strewn with the flowers of hoar antiquity. The line of extension has now become almost interminable, and most conspicuous in the elongation of the western esplanade is Brunswick-terrace, built from the designs of Mr. Busby, a son of Dr Busby, of musical memory. The terrace consists of forty-two splendid houses, and has a very majestic aspect. Between the two great divisions of the frontal line lies Brunswick-square, open to the sea towards the south, and the whole is fronted by an artificial esplanade, which extends a mile in length. Along this delightful walk the votaries of fashion are wont to exercise their "recreant limbs," and recruit their wasted energies with the invigorating sea-breeze.
+
+The chain-pier, which has been for years entitled to the first consideration of the Brighton visitor is well worthy of being still considered its greatest lion.
+
+A new pier is in course of construction in the westerly direction, opposite Regency Square; it will surpass in elegance and convenience the celebrated Chain Pier, thus adding another source of attraction and convenience to this great and fashionable marine metropolis.
+
+Hazlitt has said, "there is something in being near the sea like the confines of eternity. It is a new element, a pure abstraction." The mind loves to hover on that which is endless and ever the same, and the wide expanse which is here visible gratifies his feeling to the uttermost. The approaches to the pier are handsome and spacious, and the reading-room at the north end, with its camera above, is a delightful lounge for the promenader, who, having inhaled health by instalments of breathing, may therein plunge into the world of fiction, and enjoy a perusal of the last new novel with the zest of a marine atmosphere.
+
+Churches, chapels, and meeting-houses, of all ages and for all denominations, are plentifully strewn over the town. The most modern is the handsome church of St. Peter's, erected about twenty years ago, in the best pointed style, by Sir C. Barry, the well-known architect of the new Houses of Parliament. But the oldest, and perhaps the most interesting, is the ancient parish church of St. Nicholas, standing on the summit of a hill at the north-west extremity of the town. It is an excellent sea and land-mark, and is said to be as old as the reign of Henry <span class="smcp">VII</span>. From this pleasant locality the esplanade and parade are seen to much advantage. Gay loiterers of pleasure, and donkey parties, regiments of schools, and old bathing women, literary loungers, who read out of doors, and stumble against lamp-posts in interesting passages—these, and a host of other peripatetic humanities, make the beach populous between Hove and Kemp Town.
+
+With regard to inns, taverns, hotels, lodging and boarding-houses, nowhere are they more numerous than here, their excellence of accommodation of course varying with price. Bathing establishments, too, are almost as numerous, whilst, for amusements, there is no provincial town in the kingdom that can offer such a variety of assembly and concert-rooms, libraries, bazaars, and other expedients for slaughtering our common enemy--Time, In the New-road is the theatre—one of the prettiest out of London--and close adjoining is the. Post-office, concerning which, in these economical days of epistolary communication, it may be as well to know the precise hours of dispatch and delivery.
+
+The race-course is about a mile and a half northward of the town, on the summit of one of the loftiest and most commanding downs in the neighbourhood. The races generally take place early in August.
+
+As the Brighton excursionist will go to the Devil's Dyke, as a matter of course, we do not stay to tell him how he shall behold therefrom the Isle of Wight, spread beneath him like a map, or Beechy Head, looming like a snow-peak to the east, and the Downs for away, mingling with the horizon. But be it gently whispered, that on the margin of this demoniacal defile there standeth a small hostel, the glories of whose bread and cheese and ale have been sung by many an aristocratic voice. Everybody that ever was there assures you that for baking and brewing it stands unrivalled, although we shrewdly suspect that the preparatory course of Southdown oxygen hath a wonderful agency in eliciting this appreciation of a fare so humble.

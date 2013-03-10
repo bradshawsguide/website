@@ -1,0 +1,11 @@
+﻿Section: 1
+----
+Title: Uckfield
+----
+Company: London, Brighton and South Coast Railway
+----
+Type: Branch
+----
+Text: ## Lewes to Uckfield
+
+From [Lewes](/stations/lewes) this line, 7 miles long, passes through the villages of [Barcombe](/stations/barcombe) and [Isfield](/stations/isfield) to [Uckfield](/stations/uckfield).

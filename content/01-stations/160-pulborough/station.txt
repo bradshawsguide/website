@@ -1,0 +1,16 @@
+Section: 1
+----
+Title: Pulborough
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/horsham
+- lines/petworth
+----
+Meta:
+----
+Text: The junction of a short line to [Petworth](petworth).

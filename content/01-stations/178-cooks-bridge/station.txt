@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Cook's Bridge
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/hastings
+----
+Meta: 
+----
+Text: Cook's Bridge, in the vicinity of which is *Coneyburrow Park*. We have here a full view of the lofty range of the south downs, the highest point of which, *Ditching Beacon*, a little to the right, is 858 feet above the sea.

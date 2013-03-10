@@ -10,7 +10,7 @@ Company:
 Line:
 - lines/brighton
 - lines/croydon-to-epsom
-- lines/croydon-to-wimbledon
+- lines/wimbledon
 ----
 Meta: Distance from station, 1 mile,
 
