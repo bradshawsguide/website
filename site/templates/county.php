@@ -5,7 +5,7 @@
         <div class="container">
             <h1><?= smartypants($page->title()) ?></h1>
 
-            <?= kirbytext($page->text()) ?>
+            <?= preg_replace('/^(<.+?>\s*)+?(\w+)/i', '\1<span class="first-word">\2</span>', kirbytext($page->text())); ?>
 
             <? if($page->related()): ?>
             <section>
