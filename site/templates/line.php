@@ -13,8 +13,8 @@
             <section role="complementary">
                 <h1>Route Map</h1>
                 <?
-                    $line = $site->uri->path(2);
-                    $items = $pages->find('stations')->children()->filterBy('line', '*=', "$line");
+                    $line = "- lines/".$site->uri->path(2);
+                    $items = $pages->find('stations')->children()->filterBy('line', '*=', $line);
                 ?>
                 <ol class="line">
                 <? foreach($items as $item): ?>
