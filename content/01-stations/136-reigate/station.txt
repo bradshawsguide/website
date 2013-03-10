@@ -1,0 +1,76 @@
+Section: 1
+----
+Title: Reigate
+----
+County: Surrey
+----
+Company:
+- companies/south-eastern
+----
+Line:
+- lines/reading-guildford-and-reigate
+----
+Meta: A telegraph station.
+
+Population
+: 9,975.
+
+Hotels
+: White Hart, and Swan.
+
+Post Horses, Flys, &c.
+: at the station and hotels
+
+Market Days
+: Tuesdays.
+
+Fairs
+: Whit-Monday and December 9th.
+
+<span class="smcp">Money Order Office</span>.
+----
+Text: Reigate, situated near the River Mole, in the valley of Holmesdale, at the foot of the ridge of chalk hills which traverse the country from east to west, consists of a main street of well-built houses, crossed at the eastern end by the Old Brighton Road, which, for upwards of a mile out of town, is adorned by the detached residences of the gentry.
+
+The houses of the lower classes present models of architecture, and are beautifully decorated with imbricated tiles of various patterns, a style of cottage ornament characteristic of this part of the country. The church stands on a gentle eminence east of the town, and is a spacious structure of almost every period of Gothic architecture, some parts of which are extremely beautiful. From the summit of Park Hill an extensive view is obtained of the wealds of Surrey and Sussex; and that of Reigate, with the priory and its park, is of singular beauty.
+
+On the north side of the town, in the principal street, was situated the castle, some few traces of which are yet visible. It was one of the principal seats of the powerful Earls of Warwick and Surrey; and here the insurgent barons are reported to have held frequent meetings, preceding the celebrated Congress of Runnymede. There is a long passage under the castle mound leading into a vaulted room, called the Baron's Cave, which is said to have been used by the barons as a hiding-place for arms. The church has a few curious and ancient tombs.
+
+## Distances of Places from the Station
+
+|                   | Miles  |
+| ----------------- | ------ |
+| Brickland         | 2      |
+| Buckland          | 1&#190;|
+| Calley Farm       | 0&#190;|
+| Chalmead Farm     | 2      |
+| Cophill Farm      | 4      |
+| Couler's Hole     | 1      |
+| Dean's Farm       | 7      |
+| Ewood Mill        | 5      |
+| Gadbrook Common   | 3      |
+| Galton Park       | 1      |
+| Hamon's Copse     | 5      |
+| Hartswood         | 1&#188;|
+| Hatch Farm        | 1      |
+| Headley           | 4      |
+| Henfold Farm      | 4      |
+| Hill House        | 4      |
+| Kingswood Garden  | 3&#190;|
+| Kinnersley House  | 3      |
+| Leatherhead       | 6      |
+| Leigh             | 3      |
+| Littleton Farm    | 1      |
+| Mason Bridge East | 3      |
+| Mead House        | 1      |
+| Newdigate         | 7      |
+| Nork House        | 5      |
+| Norwood Place     | 4      |
+| Parkfall Place    | 4      |
+| Park House        | 4&#190;|
+| Red Hill Farm     | 1      |
+| Reigate Mills     | 1      |
+| Reigate Park      | 0&#190;|
+| Rice Bridge       | 2      |
+| Upper Galton      | 2      |
+| Walton            | 3&#189;|
+| Walton Park       | 2      |

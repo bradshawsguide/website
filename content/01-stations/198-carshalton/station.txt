@@ -1,0 +1,21 @@
+Section: 1
+----
+Title: Carshalton
+----
+County: Surrey
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/croydon-to-epsom
+----
+Meta: A telegraph station.
+
+Hotels
+: Greyhound, King's Arms.
+
+Fairs
+: July 1st and 2nd.
+----
+Text: Carshalton Church is a venerable structure, of the early English style. Close by is *Carshalton Park*. Proceeding thence, we come to [Sutton](sutton).

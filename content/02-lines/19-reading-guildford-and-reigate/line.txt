@@ -4,7 +4,7 @@ Title: Reading, Guildford, and Reigate
 ----
 Company: South Eastern Railway
 ----
-Type: Line
+Type: Branch
 ----
 Text: ## Reigate to Reading
 

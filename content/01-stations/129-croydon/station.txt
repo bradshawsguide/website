@@ -1,0 +1,35 @@
+Section: 1
+----
+Title: Croydon
+----
+County: Surrey
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/brighton
+- lines/croydon-to-epsom
+- lines/croydon-to-wimbledon
+----
+Meta: Distance from station, 1 mile,
+
+A telegraph station.
+
+Population
+: 20,325.
+
+Hotels
+: Greyhound, Crown.
+
+Market Days
+: Thursday and Saturday.
+
+Fairs
+: Jury 6th and October 2nd.
+----
+Text: The town of Croydon derives its name from *croie*, chalk, and "dune", or hill, from which latter term we obtain our English word "downs" as signifying an extensive range of hills. It is situated in the midst of a beautiful country, and is a place of considerable antiquity. It consists of one principal street more than a mile in length, and a number of smaller ones. The church is a noble building, and has a lofty square tower adorned with pinnacles
+
+The Archbishops of Canterbury, for several centuries made the old manor house, near the church, then occasional residence A mile and a half from the town is Addiscombe, at which there is a college for the education of military students. In the vicinity likewise, is *Addington Park* (2 &#189; miles), the present residence of the archbishops, in a very retired and rural neighbourhood.
+
+At this point there are four distinct lines of rails, an arrangement which insures the safety of travellers at the station, the main line being left free for the passage of any express or special train, and the current train turned off into what are technically termed the "sidings."

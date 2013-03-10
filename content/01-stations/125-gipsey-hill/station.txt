@@ -1,17 +1,15 @@
 Section: 1
 ----
-Title: Victoria
+Title: Gipsey Hill
 ----
-County: Middlesex
+County: Surrey
 ----
 Company:
-- companies/london-chatham-and-dover
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/metropolitan-extension
 - lines/west-end-of-london-and-crystal-palace
 ----
-Meta: 
+Meta:
 ----
-Text: 
+Text:

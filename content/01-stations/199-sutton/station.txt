@@ -1,0 +1,16 @@
+Section: 1
+----
+Title: Sutton
+----
+County: Surrey
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/croydon-to-epsom
+- lines/epsom-downs
+----
+Meta:
+----
+Text: 1&#189; mile from which is the Oaks, giving its name to the race, the seat of the Earl of Derby.
