@@ -10,7 +10,7 @@ The Alphabetise plugin will alphabetise a given [Kirby CMS](http://getkirby.com/
 
 ## Installation 
 
-Put the **alphabetise.php** and **alphabetise.mdown** files in your **site/plugins/alphabetise** folder.  If the 'alphabetise' plugin folder doesn't exist then create it.
+Put all the files into your **site/plugins/alphabetise** folder.  If the 'alphabetise' plugin folder doesn't exist then create it.
 
 ## How to use it?
 
