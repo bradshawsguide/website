@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Teddington
+----
+County: Middlesex
+----
+Company:
+- company/london-and-south-western
+----
+Line:
+- lines/kingston
+----
+Meta: 
+----
+Text: 

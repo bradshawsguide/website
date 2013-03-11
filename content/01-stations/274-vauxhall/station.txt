@@ -9,7 +9,7 @@ Company:
 ----
 Line:
 - lines/london-and-south-western
-- lines/windsor-and-richmond
+- lines/richmond
 ----
 Meta: A telegraph station.
 ----

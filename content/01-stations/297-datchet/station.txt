@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Datchet
+----
+County: Buckinghamshire
+----
+Company:
+- company/london-and-south-western
+----
+Line:
+- lines/windsor
+----
+Meta:
+----
+Text:
