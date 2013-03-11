@@ -2,17 +2,20 @@
 <? snippet('banner') ?>
 
     <main role="main">
-        <div class="container">
+        <section class="container">
             <hgroup>
                 <h1><?= smartypants($page->title()) ?></h1>
                 <h2><a href="/counties/<?= str::urlify($page->county()) ?>"><?= smartypants($page->county()) ?></a></h2>
             </hgroup>
 
+            <? if ($page->text() != ''): ?>
             <div class="prose">
                 <?= preg_replace('/^(<.+?>\s*)+?(\w+)/i', '\1<span class="first-word">\2</span>', kirbytext($page->text())); ?>
             </div>
+            <? endif ?>
 
             <footer class="meta">
+                <? if ($page->meta() != ''): ?>
                 <section>
                     <h1 class="hidden">About this station</h1>
                     <?= kirbytext($page->meta()) ?>
@@ -28,10 +31,11 @@
                     </figure>
                     <? endif ?>
                 </section>
+                <? endif ?>
 
                 <nav role="navigation">
                     <h1 class="hidden">Connecting lines</h1>
-                    <p>Change here for:</p>
+                    <p>Lines serving this station:</p>
                     <ul>
                     <? foreach(related($page->line()) as $lines): ?>
                         <li><a href="<?= $lines->url() ?>"><?= smartypants($lines->title().' '.$lines->type()) ?></a></li>
@@ -49,7 +53,7 @@
                 <a href="<?= $page->prev()->url() ?>" rel="prev"><?= $page->prev()->title() ?></a>
                 <a href="<?= $page->next()->url() ?>" rel="next"><?= $page->next()->title() ?></a>
             </nav>
-        </div>
+        </section>
     </main><!--/@main-->
 
 <? snippet('navigation') ?>
