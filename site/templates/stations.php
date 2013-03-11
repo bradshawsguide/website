@@ -3,10 +3,12 @@
 <? $type = "stations"?>
 
     <main role="main">
-        <div class="container">
-            <h1><?= smartypants($page->title()) ?></h1>
+        <section class="container">
+            <header>
+                <h1><?= smartypants($page->title()) ?></h1>
+            </header>
 <? snippet('alphabetise', array('type' => $type)) ?>
-        </div>
+        </section>
     </main><!--/@main-->
 
 <? snippet('navigation') ?>

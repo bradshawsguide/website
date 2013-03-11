@@ -105,31 +105,42 @@ h6 {
     margin: 1.7143em 0 0.5714em; /* 24px 0 8px */
    -webkit-font-smoothing: antialiased;
 }
-hgroup {
-    margin: 2em 0;
+header {
+    margin: 2em 0 4em;
     h1 {
-        text-align: center;
         margin-bottom: -0.3em; /* 0 0 12px 0 */
-        &::after {
-            content: "";
-            background-color: fade(@color-text, 50%);
-            width: 40%;
-            height: 0.025em;
-            display: block;
-            margin: 0.5em auto;
-        }
     }
     h2 {
         font-size: 1em;
         font-weight: 400;
         text-align: center;
         text-transform: uppercase;
-        margin: 2em 0;
+        margin: 2em 0 0;
+        &::before {
+            content: "";
+            background-color: fade(@color-text, 50%);
+            width: 40%;
+            height: 0.0625em;
+            display: block;
+            margin: 1em auto;
+        }
+    }
+    hgroup {
+        text-align: center;
     }
 }
 @media screen and (min-width: 40em) {
     h1 {
         font-size: 3em;
+    }
+}
+@media screen and (min-width: 40em) {
+    aside {
+        padding-left: 5%;
+        float: right;
+        figure {
+            margin: 0.5em 0;
+        }
     }
 }
 nav ul li {
@@ -231,19 +242,18 @@ dd {
 
 /* Grouping > Figures */
 figure {
-    margin:2em 0 2em 1.5em; /* 32px 0 32px 24px */
+    margin: 2em 0; /* 32px 0 */
     img {
-        outline:1px solid #888;
-        padding:1px;
+        outline: 1px solid #888;
+        padding: 1px;
     }
 }
 figcaption {
-    color:#666;
-    font-family:pt-serif-caption,serif;
-    font-size:0.8125em; /* 13px */
-    line-height:1.2308; /* 16px */
-    margin:0.6154em 0; /* 8px 0 */
-    text-transform:uppercase;
+    color: #666;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 0.8125em; /* 13px */
+    line-height: 1.2308; /* 16px */
+    margin: 0.6154em 0; /* 8px 0 */
     p {
         text-indent:0;
     }

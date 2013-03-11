@@ -47,8 +47,10 @@
     </style>
 
     <main role="main">
-        <section>
-            <h1><?= smartypants($page->title()) ?></h1>
+        <section class="container">
+            <header>
+                <h1><?= smartypants($page->title()) ?></h1>
+            </header>
 
             <?= kirbytext($page->text()) ?>
 

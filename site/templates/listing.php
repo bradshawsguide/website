@@ -2,8 +2,10 @@
 <? snippet('banner') ?>
 
     <main role="main">
-        <div class="container">
-            <h1><?= smartypants($page->title()) ?></h1>
+        <section class="container">
+            <header>
+                <h1><?= smartypants($page->title()) ?></h1>
+            </header>
             <? $items = $pages->findOpen()->children->sortBy('title', 'asc'); ?>
             <? if($items && $items->count()): ?>
             <ul class="listing">
@@ -12,7 +14,7 @@
             <? endforeach ?>
             </ul>
             <? endif ?>
-        </div>
+        </section>
     </main><!--/@main-->
 
 <? snippet('navigation') ?>

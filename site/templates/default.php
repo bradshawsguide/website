@@ -2,8 +2,10 @@
 <? snippet('banner') ?>
 
     <main role="main">
-        <div class="container">
-            <h1><?= smartypants($page->title()) ?></h1>
+        <section class="container">
+            <header>
+                <h1><?= smartypants($page->title()) ?></h1>
+            </header>
 
             <?= kirbytext($page->text()) ?>
 
@@ -17,7 +19,7 @@
                 </ul>
             </section>
             <? endif ?>
-        </div>
+        </section>
     </main><!--/@main-->
 
 <? snippet('navigation') ?>

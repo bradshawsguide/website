@@ -1,5 +1,5 @@
 Text:
-<hgroup class="title">
+<header class="title">
     <h1>
         <span class="broad">Bradshaw's</span>
         <span class="narrow">Handbook For Tourists</span>
@@ -8,7 +8,7 @@ Text:
     </h1>
     <p class="pubdate">1866 Edition</p>
     <p class="smcp">Electronically Re-mastered</p>
-</hgroup>
+</header>
 
 *(in four sections), adapted to the railway system:*
 

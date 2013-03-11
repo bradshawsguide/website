@@ -2,9 +2,9 @@
 <? snippet('banner') ?>
 
     <main role="main">
-        <div class="container cover">
+        <section class="container cover">
             <?= kirbytext($page->text()) ?>
-        </div>
+        </section>
     </main><!--/@main-->
 
 <? snippet('navigation') ?>

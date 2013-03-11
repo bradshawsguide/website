@@ -2,8 +2,10 @@
 <? snippet('banner') ?>
 
     <main role="main">
-        <div class="container">
-            <h1><?= smartypants($page->title()) ?></h1>
+        <section class="container">
+            <header>
+                <h1><?= smartypants($page->title()) ?></h1>
+            </header>
 
             <?= preg_replace('/^(<.+?>\s*)+?(\w+)/i', '\1<span class="first-word">\2</span>', kirbytext($page->text())); ?>
 
@@ -34,7 +36,8 @@
                 </ul>
                 <?php endforeach ?>
             </section>
-        </div>
+            <? snippet('prevnext') ?>
+        </section>
     </main><!--/@main-->
 
 <? snippet('navigation') ?>

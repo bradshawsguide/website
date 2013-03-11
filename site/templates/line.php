@@ -3,10 +3,12 @@
 
     <main role="main">
         <section class="container">
-            <hgroup>
-                <h1><?= smartypants($page->title().' '.$page->type()) ?></h1>
-                <h2><a href="/companies/<?= preg_replace('/-railway$/', '', str::urlify($page->company())) ?>"><?= smartypants($page->company()) ?></a></h2>
-            </hgroup>
+            <header>
+                <hgroup>
+                    <h1><?= smartypants($page->title().' '.$page->type()) ?></h1>
+                    <h2><a href="/companies/<?= preg_replace('/-railway$/', '', str::urlify($page->company())) ?>"><?= smartypants($page->company()) ?></a></h2>
+                </hgroup>
+            </header>
 
             <? if ($page->text() != ''): ?>
             <div role="article">

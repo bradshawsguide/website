@@ -3,13 +3,27 @@
 
     <main role="main">
         <section class="container">
-            <hgroup>
-                <h1><?= smartypants($page->title()) ?></h1>
-                <h2><a href="/counties/<?= str::urlify($page->county()) ?>"><?= smartypants($page->county()) ?></a></h2>
-            </hgroup>
+            <header>
+                <hgroup>
+                    <h1><?= smartypants($page->title()) ?></h1>
+                    <h2><a href="/counties/<?= str::urlify($page->county()) ?>"><?= smartypants($page->county()) ?></a></h2>
+                </hgroup>
+            </header>
 
             <? if ($page->text() != ''): ?>
             <div class="prose">
+                <? if($page->hasImages()): ?>
+                <aside>
+                    <figure>
+                        <? foreach($page->images() as $image): ?>
+                        <img src="<?= $image->url() ?>" alt="<?= $image->title() ?>" width="360"/> 
+                        <figcaption>
+                            <p><?= $image->caption() ?></p>
+                        </figcaption>
+                        <? endforeach ?>
+                    </figure>
+                </aside>
+                <? endif ?>
                 <?= preg_replace('/^(<.+?>\s*)+?(\w+)/i', '\1<span class="first-word">\2</span>', kirbytext($page->text())); ?>
             </div>
             <? endif ?>
@@ -19,17 +33,6 @@
                 <section>
                     <h1 class="hidden">About this station</h1>
                     <?= kirbytext($page->meta()) ?>
-
-                    <? if($page->hasImages()): ?>
-                    <figure>
-                        <? foreach($page->images() as $image): ?>
-                        <img src="<?= $image->url() ?>" alt="<?= $image->title() ?>" width="360"/> 
-                        <figcaption>
-                            <p><?= $image->caption() ?></p>
-                        </figcaption>
-                        <? endforeach ?>
-                    </figure>
-                    <? endif ?>
                 </section>
                 <? endif ?>
 
@@ -44,15 +47,8 @@
                 </nav>
             </footer>
 
-            <section class="shorturl">
-                <h1>Short URL</h1>
-                <a href="<?= $page->tinyurl() ?>"><?= str::shorturl($page->tinyurl()) ?></a>
-            </section>
-
-            <nav class="prevnext">
-                <a href="<?= $page->prev()->url() ?>" rel="prev"><?= $page->prev()->title() ?></a>
-                <a href="<?= $page->next()->url() ?>" rel="next"><?= $page->next()->title() ?></a>
-            </nav>
+            <? snippet('shorturl') ?>
+            <? snippet('prevnext') ?>
         </section>
     </main><!--/@main-->
 

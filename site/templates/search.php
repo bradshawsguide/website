@@ -13,8 +13,10 @@
     ?>
 
     <main role="main">
-        <div class="container">
-            <h1><?= smartypants($page->title()) ?></h1>
+        <section class="container">
+            <header>
+                <h1><?= smartypants($page->title()) ?></h1>
+            </header>
 
             <form action="<?= thisURL() ?>">
                 <input type="search" class="input" name="q" placeholder="Search&#8230;" value="<?= html($search->query()) ?>"/><!--
@@ -36,7 +38,7 @@
             <? elseif($search->query()): ?>
                 <p>No results for <strong><?= html($search->query()) ?></strong></p>
             <? endif ?>
-        </div>
+        </section>
     </main><!--/@main-->
 
 <? snippet('navigation') ?>
