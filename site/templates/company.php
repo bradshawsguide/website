@@ -10,6 +10,19 @@
             <?= kirbytext($page->text()) ?>
 
             <section>
+                <h1>Lines Operated</h1>
+                <?
+                    $company2 = $page->title();
+                    $items2 = $pages->find('lines')->children()->filterBy('company', "$company2")->sortBy('title', 'asc');
+                ?>
+                <ul class="lines listing">
+                <? foreach($items2 AS $item2): ?>
+                    <li><a href="<?= $item2->url() ?>"><?= smartypants($item2->title().' '.$item2->type()) ?></a></li>
+                <? endforeach ?>
+                </ul>
+            </section>
+
+            <section>
                 <h1>Stations Served</h1>
                 <?php
                     $company = $site->uri->path(2);
@@ -24,19 +37,6 @@
                     <?php endforeach ?>
                 </ul>
                 <?php endforeach ?>
-            </section>
-
-            <section>
-                <h1>Lines Operated</h1>
-                <?
-                    $company2 = $page->title();
-                    $items2 = $pages->find('lines')->children()->filterBy('company', "$company2")->sortBy('title', 'asc');
-                ?>
-                <ul class="lines listing">
-                <? foreach($items2 AS $item2): ?>
-                    <li><a href="<?= $item2->url() ?>"><?= smartypants($item2->title().' '.$item2->type()) ?></a></li>
-                <? endforeach ?>
-                </ul>
             </section>
         </section>
     </main><!--/@main-->

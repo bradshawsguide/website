@@ -31,13 +31,13 @@
             <footer class="meta">
                 <? if ($page->meta() != ''): ?>
                 <section>
-                    <h1 class="hidden">About this station</h1>
+                    <h1 class="hidden">About This Station</h1>
                     <?= kirbytext($page->meta()) ?>
                 </section>
                 <? endif ?>
 
                 <nav role="navigation">
-                    <h1 class="hidden">Connecting lines</h1>
+                    <h1 class="hidden">Connecting Lines</h1>
                     <p>Lines serving this station:</p>
                     <ul>
                     <? foreach(related($page->line()) as $lines): ?>

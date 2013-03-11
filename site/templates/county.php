@@ -21,7 +21,7 @@
             <? endif ?>
 
             <section class="stations index">
-                <h1>Stations in this county</h1>
+                <h1>Stations in This County</h1>
                 <?php
                     $county = $page->title();
                     $alphabetise = alphabetise($pages->find('stations')->children->filterBy('county', "$county")->sortBy('title', 'asc'));
