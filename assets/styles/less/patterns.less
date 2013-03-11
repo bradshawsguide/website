@@ -18,7 +18,14 @@
     margin: 0 auto;
     padding: 1em 5%;
     max-width: 50em; /* 800px */
-    /*overflow: hidden;*/
+    &::before,
+    &::after {
+        content: " ";
+        display: table;
+    }
+    &::after {
+        clear: both;
+    }
 }
 @media screen and (min-width: 30em) {
     .container {
@@ -149,14 +156,92 @@ a.unremarkable {
 
 
 /* ============================================================
+    Prose
+============================================================ */
+.prose {
+    
+}
+@media screen and (min-width: 40em) {
+    .prose > * {
+        font-size: 125%; /* 20px */
+        line-height: 1.8; /* 36px */
+    }
+}
+
+/* ============================================================
+    Footer Meta
+============================================================ */
+footer.meta {
+    margin-top: 2em; /* 32px */
+    border-top: 3px double fade(@color-text, 25%);
+    padding-top: 1em;
+    nav {
+        a::before {
+            content: "\261E\0020";
+        }
+    }
+}
+@media screen and (min-width: 40em) {
+    footer.meta {
+        border-top: 1px solid fade(@color-text, 25%);
+        padding-top: 1.5em; /* 24px */
+        overflow: hidden;
+        section,
+        nav {
+            width: 50%;
+            h1 {
+                margin-top: 0;
+            }
+        }
+        section {
+            border-right: 3px double fade(@color-text, 25%);
+            padding-right: 5%;
+            float: left;
+        }
+        nav {
+            padding-left: 5%;
+            float: right;
+        }
+    }
+}
+
+
+/* ============================================================
+    Short URL
+============================================================ */
+.shorturl {
+    text-align: center;
+    margin-top: 1.5em; /* 24px */
+    border-top: 1px solid fade(@color-text, 25%);
+    padding-top: 1em;
+    h1 {
+        font-size: 0.875em; /* 14px */
+        line-height: 1.1429; /* 16px */
+        margin: 1.1429em 0 0.5714em; /* 16px 0 8px */
+    }
+    a {
+        line-height: 1.5; /* 24px */
+        border: 0;
+    }
+}
+@media screen and (min-width: 50em) {
+    .shorturl {
+        margin-bottom: -1.75em; /* -28px */
+        margin-bottom: -32px;
+    }
+}
+
+
+/* ============================================================
     Navigation
 ============================================================ */
 .prevnext {
     line-height: 1.5; /* 24px */
-    margin: 0.5em -1.25em; /* 8px -20px */
+    margin: 0.5em 0; /* 8px 0 */
     overflow:hidden;
     a {
         border: 0;
+        width: 45%;
     }
     a[rel="prev"] {
         float: left;
@@ -165,9 +250,18 @@ a.unremarkable {
         }
     }
     a[rel="next"] {
+        text-align: right;
         float: right;
         &::after {
             content: "\0020\261E";
+        }
+    }
+}
+@media screen and (min-width: 50em) {
+    .prevnext {
+        margin: 0.5em -1.25em; /* 8px -20px */
+        a {
+            width: 33%;
         }
     }
 }

@@ -72,6 +72,21 @@
         inset 0 -8px @color-beige;
         padding: 3em 0 1em; /* 48px 0 16px */
 }
+@media screen and (min-width: 40em) {
+    [role="article"] {
+        padding-right: 5%;
+        width: 66%;
+        float: left;
+    }
+    [role="article"]+[role="complementary"] {
+        width: 33%;
+        float: right;
+    }
+    [role="article"] > :first-child,
+    [role="complementary"] > :first-child {
+        margin-top: 0;
+    }
+}
 
 
 /* ============================================================

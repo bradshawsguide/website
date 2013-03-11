@@ -2,13 +2,17 @@
 <? snippet('banner') ?>
 
     <main role="main">
-        <div class="container">
+        <section class="container">
             <hgroup>
                 <h1><?= smartypants($page->title().' '.$page->type()) ?></h1>
                 <h2><a href="/companies/<?= preg_replace('/-railway$/', '', str::urlify($page->company())) ?>"><?= smartypants($page->company()) ?></a></h2>
             </hgroup>
 
-            <?= kirbytext($page->text()) ?>
+            <? if ($page->text() != ''): ?>
+            <div role="article">
+                <?= kirbytext($page->text()) ?>
+            </div><!--/@article-->
+            <? endif ?>
 
             <section role="complementary">
                 <h1>Route Map</h1>
@@ -43,8 +47,8 @@
                     <? endif ?>
                 <? endforeach ?>
                 </ol>
-            </section>
-        </div>
+            </section><!--/@complementary-->
+        </section>
     </main><!--/@main-->
 
 <? snippet('navigation') ?>

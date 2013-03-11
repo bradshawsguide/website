@@ -60,16 +60,19 @@ h1 {
 
 }
 h2,
-section h1,
-aside h1,
-nav h1 {
-    color: @color-link;
+section > h1,
+aside > h1,
+nav > h1 {
+    color: #111;
   -webkit-font-smoothing: antialiased;
-    font-size: 1.5em; /* 24px */
-    line-height: 1.1667; /* 28px */
+    font-family: 'Playfair Display SC', serif;
+    font-size: 1.25em; /* 20px */
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 1.2; /* 24px */
     letter-spacing: normal;
-    margin: 1.3334em 0 0.6667em; /* 32px 0 16px */
-    text-transform: capitalize;
+    text-transform: none;
+    margin: 1.6em 0 0.8em; /* 32px 0 16px */
 }
 h3 {
    -webkit-font-smoothing: antialiased;
@@ -104,7 +107,7 @@ h6 {
    -webkit-font-smoothing: antialiased;
 }
 hgroup {
-    margin: 2em 0 4em;
+    margin: 2em 0 5em;
     h1 {
         text-align: center;
         margin-bottom: -0.3em; /* 0 0 12px 0 */
@@ -123,6 +126,11 @@ hgroup {
         text-align: center;
         text-transform: uppercase;
         margin: 2em 0;
+    }
+}
+@media screen and (min-width: 40em) {
+    h1 {
+        font-size: 3em;
     }
 }
 nav ul li {
