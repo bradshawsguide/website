@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Elephant and Castle
+Title: Elephant & Castle
 ----
 County: Surrey
 ----

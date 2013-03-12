@@ -2,6 +2,8 @@ Section: 1
 ----
 Title: Polegate (Willingdon)
 ----
+ShortTitle: Polegate
+----
 County: Sussex
 ----
 Company:

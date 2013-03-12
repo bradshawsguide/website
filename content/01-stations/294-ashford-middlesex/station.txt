@@ -2,6 +2,8 @@ Section: 1
 ----
 Title: Ashford (Middlesex)
 ----
+ShortTitle: Ashford (Middx.)
+----
 County: Middlesex
 ----
 Company:
