@@ -1,0 +1,19 @@
+Section: 1
+----
+Title: Coombe and Malden
+----
+ShortTitle: Coombe & Malden
+----
+County: Surrey
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/london-and-south-western
+----
+Wiki: http://en.wikipedia.org/wiki/New_Malden_railway_station
+----
+Meta:
+----
+Text: The line passes under two bridges, and we reach the station of [Surbiton](surbiton)

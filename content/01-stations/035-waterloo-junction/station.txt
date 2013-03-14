@@ -2,6 +2,8 @@ Section: 1
 ----
 Title: Waterloo Junction
 ----
+ShortTitle: Waterloo Jct.
+----
 County: Surrey
 ----
 Company:

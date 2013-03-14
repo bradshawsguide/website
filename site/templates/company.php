@@ -7,7 +7,9 @@
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>
 
-            <?= kirbytext($page->text()) ?>
+            <div class="prose">
+                <?= kirbytext($page->text()) ?>
+            </div>
 
             <section>
                 <h1>Lines Operated</h1>

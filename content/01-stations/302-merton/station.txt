@@ -1,0 +1,20 @@
+Section: 1
+----
+Title: Merton
+----
+County: Surrey
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/london-and-south-western
+----
+Meta: Distance from the Wimbledon station, &#190; mile.
+
+Telegraph station at Wimbledon, &#190; mile.
+
+Hotel
+: White Hart.
+----
+Text: The pretty village of Merton, where Lord Nelson lived, is a favourite resort of excursionists.

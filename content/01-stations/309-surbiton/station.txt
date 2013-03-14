@@ -1,0 +1,16 @@
+Section: 1
+----
+Title: Surbiton
+----
+County: Surrey
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/london-and-south-western
+- lines/hampton-court
+----
+Meta:
+----
+Text: A mile north of the modern town of [Kingston](kingston).

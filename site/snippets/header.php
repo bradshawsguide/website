@@ -12,7 +12,7 @@
 
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
     <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic|Playfair+Display+SC:400,900">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic|Playfair+Display+SC:400,900|Gentium+Basic">
     <? $lesscss = lesscss('/assets/styles/less/styles.less','/assets/styles/styles.css') ?>
 <?= css('assets/styles/styles.css') ?>
 </head>

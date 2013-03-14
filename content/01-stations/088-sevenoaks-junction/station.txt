@@ -2,6 +2,8 @@ Section: 1
 ----
 Title: Sevenoaks Junction
 ----
+ShortTitle: Sevenoaks Jct.
+----
 County: Kent
 ----
 Company:

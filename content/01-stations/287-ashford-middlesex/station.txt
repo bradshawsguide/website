@@ -1,0 +1,17 @@
+Section: 1
+----
+Title: Ashford (Middlesex)
+----
+ShortTitle: Ashford (Middx.)
+----
+County: Middlesex
+----
+Company:
+- company/london-and-south-western
+----
+Line:
+- lines/richmond-staines-and-windsor
+----
+Meta: 
+----
+Text: 

@@ -41,7 +41,7 @@
                     <p>Lines serving this station:</p>
                     <ul>
                     <? foreach(related($page->line()) as $lines): ?>
-                        <li><a href="<?= $lines->url() ?>"><?= smartypants($lines->title().' '.$lines->type()) ?></a></li>
+                        <li>&#8212; <a href="<?= $lines->url() ?>"><?= smartypants($lines->title().' '.$lines->type()) ?></a></li>
                     <? endforeach ?>
                     </ul>
                 </nav>
