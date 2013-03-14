@@ -17,7 +17,7 @@
 .container {
     margin: 0 auto;
     padding: 1em 5%;
-    max-width: 50em; /* 800px */
+    max-width: 45em; /* 800px */
     &::before,
     &::after {
         content: " ";
@@ -29,7 +29,7 @@
 }
 @media screen and (min-width: 30em) {
     .container {
-        padding: 1em 2.5%;
+        /*padding: 1em 2.5%;*/
     }
 }
 
@@ -60,6 +60,57 @@
 p > .first-word {
     font-family: 'Playfair Display SC', serif;
     font-weight: 400;
+}
+
+
+/* ============================================================
+    Prose
+============================================================ */
+.prose {
+    text-align: justify;
+   -webkit-font-feature-settings: "onum" 1, "pnum" 1, "kern" 1, "liga" 1;
+   -moz-font-feature-settings: "onum" 1, "pnum" 1, "kern" 1, "liga" 1;
+   -ms-font-feature-settings: "onum" 1, "pnum" 1, "kern" 1, "liga" 1;
+   -o-font-feature-settings: "onum" 1, "pnum" 1, "kern" 1, "liga" 1;
+    font-feature-settings: "onum" 1, "pnum" 1, "kern" 1, "liga" 1;
+   -webkit-hyphens: auto;
+   -moz-hyphens: auto;
+    hyphens: auto;
+    p + p {
+        text-indent: 1em;
+    }
+}
+@media screen and (max-width: 44.9375em) {
+    .prose > * {
+        font-family: 'Georgia', serif;
+        line-height: 1.5; /* 24px */
+    }
+}
+@media screen and (min-width: 40em) {
+    .prose > * {
+        font-size: 112.5%; /* 18px */
+        line-height: 1.7778; /* 27px */
+    }
+}
+
+
+/* ============================================================
+    Layout
+============================================================ */
+/* Pull left */
+.pull-left {
+    float: left;
+}
+img.pull-left {
+    margin: 0 1em 0.5em 0; /* 0 16px 8px 0 */
+}
+
+/* Pull right */
+.pull-right {
+    float: right;
+}
+img.pull-right {
+    margin: 0 0 0.5em 1em; /* 0 0 8px 16px */
 }
 
 
@@ -118,25 +169,6 @@ p > .first-word {
     }
 }
 
-/* ============================================================
-    Layout
-============================================================ */
-/* Pull left */
-.pull-left {
-    float: left;
-}
-img.pull-left {
-    margin: 0 1em 0.5em 0; /* 0 16px 8px 0 */
-}
-
-/* Pull right */
-.pull-right {
-    float: right;
-}
-img.pull-right {
-    margin: 0 0 0.5em 1em; /* 0 0 8px 16px */
-}
-
 
 /* ============================================================
     Link
@@ -154,19 +186,6 @@ a.unremarkable {
     border: 0;
 }
 
-
-/* ============================================================
-    Prose
-============================================================ */
-.prose {
-    
-}
-@media screen and (min-width: 40em) {
-    .prose > * {
-        font-size: 125%; /* 20px */
-        line-height: 1.8; /* 36px */
-    }
-}
 
 /* ============================================================
     Footer Meta
