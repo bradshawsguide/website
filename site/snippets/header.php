@@ -12,7 +12,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
 
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
-    <link rel="apple-touch-startup-image" href="<?= url('assets/images/apple-touch-startup-image-640x920') ?>" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" href="<?= url('assets/images/apple-touch-startup-image-640x920') ?>" sizes="640x960">
     <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic|Playfair+Display+SC:400,900|Gentium+Basic">
     <? $lesscss = lesscss('/assets/styles/less/styles.less','/assets/styles/styles.css') ?>
