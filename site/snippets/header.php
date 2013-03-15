@@ -33,7 +33,7 @@
                     // if you want all links, use if('href' in curnode) instead.
                     if(
                         'href' in curnode && // is a link
-                        (chref=curnode.href).replace(location.href,'').indexOf('#') && // is not an anchor
+                        // (chref=curnode.href).replace(location.href,'').indexOf('#') && is not an anchor
                         (    !(/^[a-z\+\.\-]+:/i).test(chref) ||                       // either does not have a proper scheme (relative links)
                             chref.indexOf(location.protocol+'//'+location.host)===0 ) // or is in the same protocol and domain
                     ) {
