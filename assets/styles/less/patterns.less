@@ -138,34 +138,47 @@ img.pull-right {
             font-family: 'Playfair Display SC', serif;
             font-weight: 900;
             letter-spacing: 1px;
-            text-transform: none;
+            text-transform: uppercase;
         }
         .narrow {
-            font-size: 1.1em;
+
         }
         .in {
-            font-size: 14px;
-            margin: 8px 0 0;
+            font-size: 0.4em;
+            margin: 0.5em 0;
         }
     }
     h2 {
-        font-size: 16px;
-        margin: 32px 0 0;
+        font-size: 1em;
+        line-height: 1;
+        margin: 2em 0 0;
     }
     h3 {
         font-weight: 700;
-        margin: 12px 0 8px;
+        margin: 0.3810em 0 -0.3810em; /* 8px 0 -8px */
     }
     .pubdate {
-        font-size: 1.125em; /* 18px */
-        line-height: 0.8889; /* 16px */
+        font-size: 1em; /* 18px */
+        line-height: 1; /* 16px */
         text-transform: uppercase;
-        margin: 0 auto;
+        margin: 1em auto -0.5em;
         width: 10em;
+        border-top: 1px solid fade(@color-text, 25%);
+        padding-top: 1em;
     }
     abbr {
         font-weight: 400;
         border: 0;
+    }
+}
+@media screen and (max-width: 30em) {
+    .cover {
+        .title {
+            h1 {
+                font-size: 1.75em; /* 28px */
+                margin-bottom: 0.1429em; /* 4px */
+            }
+        }
     }
 }
 
