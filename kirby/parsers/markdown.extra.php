@@ -1360,7 +1360,7 @@ class Markdown_Parser {
 		$bq = preg_replace('/^[ ]*>[ ]?|^[ ]+$/m', '', $bq);
 		$bq = $this->runBlockGamut($bq);		# recurse
 
-		$bq = preg_replace('/^/m', "  ", $bq);
+		$bq = preg_replace('/^/m', "    ", $bq);
 		# These leading spaces cause problem with <pre> content, 
 		# so we need to fix that:
 		$bq = preg_replace_callback('{(\s*<pre>.+?</pre>)}sx', 
