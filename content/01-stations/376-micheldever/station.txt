@@ -1,0 +1,15 @@
+﻿Section: 1
+----
+Title: Micheldever
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/london-and-south-western
+----
+Meta:
+----
+Text: The line passes through a country bearing the true Hampshire characteristics of forest scenery, until we reach [Winchester](winchester).

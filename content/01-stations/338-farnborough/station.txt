@@ -1,0 +1,15 @@
+﻿Section: 1
+----
+Title: Farnborough
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/london-and-south-western
+----
+Meta: A telegraph station.
+----
+Text: At this station the Farnborough cutting ends, and we proceed along an embankment which again reveals some pleasing rural scenery, but the country between here and Winchfield does not demand any lengthened description. This is the nearest station for the Camp at Aldershott.

@@ -1,0 +1,17 @@
+﻿Section: 1
+----
+Title: Templecombe Junction
+----
+ShirtTitle: Templecombe
+----
+County: Somerset
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/west-of-england
+----
+Meta:
+----
+Text:

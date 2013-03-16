@@ -1,0 +1,9 @@
+﻿Section: 1
+----
+Title: Andover and Redbridge
+----
+Company: London and South Western Railway
+----
+Type: Branch
+----
+Text: A deviation of the Andover and Redbridge, a line 22&#189; miles long, takes place at [Andover](/stations/andover).

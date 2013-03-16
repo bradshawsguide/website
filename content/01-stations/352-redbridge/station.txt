@@ -1,0 +1,15 @@
+﻿Section: 1
+----
+Title: Redbridge
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/andover-and-redbridge
+----
+Meta:
+----
+Text: A station between Southampton and Dorchester.

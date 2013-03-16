@@ -1,0 +1,15 @@
+﻿Section: 2
+----
+Title: Exeter
+----
+County: Devon
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/west-of-england
+----
+Meta:
+----
+Text: TBD

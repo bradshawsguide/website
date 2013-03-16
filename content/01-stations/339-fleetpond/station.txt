@@ -1,0 +1,15 @@
+﻿Section: 1
+----
+Title: Fleetpond
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/london-and-south-western
+----
+Meta: A telegraph station.
+----
+Text:
