@@ -1,0 +1,16 @@
+Section: 1
+----
+Title: Petersfield
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/portsmouth
+- lines/midhurst
+----
+Meta:
+----
+Text: Petersfield, a neat little town of great antiquity. It has a population of 5,655, and returns one member to parliament. Near the chapel there is an equestrian statue of William III, built by the Joliffes of Merstham.

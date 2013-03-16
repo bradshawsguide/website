@@ -1,0 +1,20 @@
+Section: 1
+----
+Title: Drayton
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/west-coastway
+----
+Meta: Telegraph station at Chichester, 2 miles.
+
+Distance from station, &#189; mile.
+
+Money Order Office
+: Chichester.
+----
+Text: 

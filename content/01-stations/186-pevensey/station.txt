@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/hastings
+- lines/east-coastway
 ----
 Meta: Telegraph station at Polegate, 3 &#189; miles.
 

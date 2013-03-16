@@ -1,0 +1,60 @@
+﻿Section: 1
+----
+Title: Barnham
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/west-coastway
+- lines/bognor
+----
+Meta: A telegraph station. Distance from station, &#190; mile.
+
+Hotels
+: Claremont, Norfolk.
+
+Money Order Office
+: Arundel.
+
+----
+Text: ## Distances of Places from the Station
+
+|                     | Miles.  |
+|---------------------|---------|
+| Aldingbourne        | 1       |
+| Aldwick             | 5       |
+| Arundel             | 5&#188; |
+| Bognor              | 4       |
+| Calworth            | 2       |
+| Castle Hill         | 1&#189; |
+| Eastham             | 3       |
+| East Dean           | 6       |
+| Eastergate          | 0&#190; |
+| Feltham             | 2&#189; |
+| Goodwood            | 4       |
+| Guildford           | 24      |
+| Halnaker            | 3       |
+| Halnaker House      | 3&#189; |
+| Head Wane           | 2&#189; |
+| Houghton            | 6       |
+| Kneighton Park      | 1&#190; |
+| Lidsey              | 2       |
+| Limner Pond         | 2       |
+| Little Bognor       | 2       |
+| Night Timber        | 2&#189; |
+| North Bersted       | 2       |
+| North Field         | 1&#189; |
+| Norton              | 1&#190; |
+| Nudhurst & Petworth | 12      |
+| Poor House          | 1&#188; |
+| Shripland           | 2       |
+| Shripudy            | 2       |
+| South Bersted       | 2       |
+| Tangmere            | 2&#189; |
+| Upper Waltham       | 6       |
+| Westergate          | 1&#188; |
+
+This station forms the junction of a short line to [Bognor](bognor).

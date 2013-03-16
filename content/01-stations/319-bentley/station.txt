@@ -1,0 +1,26 @@
+Section: 1
+----
+Title: Bentley
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/alton
+----
+Meta: Distance from station, 1 mile.
+
+A telegraph station.
+
+Market Day
+: Saturday.
+
+Fairs
+: January 25th, June 22nd, Saturday in Easter Week, October 25th.
+
+Money Order Office
+: at Alton.
+----
+Text:

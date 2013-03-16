@@ -10,7 +10,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/hastings
+- lines/east-coastway
 - lines/hailsham
 - lines/eastbourne
 ----

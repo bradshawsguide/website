@@ -1,0 +1,17 @@
+Section: 1
+----
+Title: Cliftonville
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/west-coastway
+----
+Meta:
+----
+Wiki: http://en.wikipedia.org/wiki/Hove_railway_station
+----
+Text:

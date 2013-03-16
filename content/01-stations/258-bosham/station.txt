@@ -1,0 +1,15 @@
+Section: 1
+----
+Title: Bosham
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/west-coastway
+----
+Meta:
+----
+Text: Soon after leaving this station we enter the county of Hants, and arrive at the station of [Emsworth](emsworth).

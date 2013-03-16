@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/hastings
+- lines/east-coastway
 - lines/uckfield
 - lines/newhaven
 - lines/lewes

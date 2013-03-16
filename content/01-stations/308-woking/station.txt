@@ -1,0 +1,26 @@
+Section: 1
+----
+Title: Woking
+----
+County: Surrey
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/london-and-south-western
+- lines/portsmouth
+----
+Meta: Distance from station, 1 mile
+
+A telegraph station
+
+Hotels
+: White Hart; Railway.
+
+Fair
+: Whit Tuesday.
+----
+Text: On both sides of the line Woking Common is seen to extend for miles, only broken by the windings of the Basingstoke Canal, and terminated by a long range of woodland scenery, which stands out in picturesque relief against the horizon.
+
+Three-quarters of a mile beyond Woking a line branches off to the left to Guildford and Godalming, direct to Portsmouth, from which another branch diverges at Guildford and extends to Ash, Farnham, and Alton.

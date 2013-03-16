@@ -9,7 +9,7 @@ Company:
 ----
 Line:
 - lines/brighton
-- lines/portsmouth
+- lines/west-coastway
 - lines/lewes
 ----
 Meta: A telegraph station.

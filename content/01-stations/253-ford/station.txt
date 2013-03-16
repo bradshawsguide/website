@@ -1,0 +1,20 @@
+Section: 1
+----
+Title: Ford
+----
+County: Sussex
+----
+Company:
+- companies/london-brighton-and-south-coast
+----
+Line:
+- lines/west-coastway
+----
+Meta: A telegraph station.
+
+Money Order Office
+: Arundel.
+----
+Text: In the vicinity if *Tortington*, a very pretty English village, with an old Norman church, and the remains of its priory, founded by Lady Hadwisa Corbet in the 13th century. The neighbourhood is very agreeable, and we conjecture that the old Monks were very delightful situated.
+
+The line passes on a level, with the open sea on one side and the South Downs on the other, and reaches the station at [Barnham](barnham).

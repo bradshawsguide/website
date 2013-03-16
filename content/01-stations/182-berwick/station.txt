@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/hastings
+- lines/east-coastway
 ----
 Meta: A little to the north of the village of the same name.
 
