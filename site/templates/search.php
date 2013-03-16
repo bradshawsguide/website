@@ -1,16 +1,16 @@
 <? snippet('header') ?>
 <? snippet('banner') ?>
 
-    <?
-        $search = new search(array(
-            'searchfield' => 'q',
-            'ignore' => array('search', 'error'),
-            'words' => true,
-            'paginate' => 10
-        ));
+<?
+    $search = new search(array(
+        'searchfield' => 'q',
+        'ignore' => array('search', 'error'),
+        'words' => true,
+        'paginate' => 10
+    ));
 
-        $results = $search->results();
-    ?>
+    $results = $search->results();
+?>
 
     <main role="main">
         <section class="container">
@@ -23,22 +23,21 @@
              --><input type="submit" class="button" value="Search"/>
             </form>
 
-            <? if($results): ?>
-
-            <? snippet('pagination', array('pagination' => $results->pagination())) ?>
+<?          if($results): ?>
+<?          snippet('pagination', array('pagination' => $results->pagination())) ?>
 
             <ul>
-            <? foreach($results as $row): ?>
+<?              foreach($results as $row): ?>
                 <li><a href="<?= $row->url() ?>"><?= html($row->title()) ?></a></li>
-            <? endforeach ?>
+<?              endforeach ?>
             </ul>
 
-            <? snippet('pagination', array('pagination' => $results->pagination())) ?>
+<?          snippet('pagination', array('pagination' => $results->pagination())) ?>
 
-            <? elseif($search->query()): ?>
-                <p>No results for <strong><?= html($search->query()) ?></strong></p>
-            <? endif ?>
-        </section>
+<?          elseif($search->query()): ?>
+            <p>No results for <strong><?= html($search->query()) ?></strong></p>
+<?          endif ?>
+        </section><!--/.container-->
     </main><!--/@main-->
 
 <? snippet('navigation') ?>

@@ -7,19 +7,19 @@
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>
 
-            <?= kirbytext($page->text()) ?>
+<?=         kirbytext($page->text()) ?>
 
-            <? if($page->related()): ?>
+<?          if($page->related()): ?>
             <section>
                 <h1>Related</h1>
                 <ul class="listing">
-                <? foreach(related($page->related()) as $related): ?>
+<?                  foreach(related($page->related()) as $related): ?>
                     <li><a href="<?= $related->url() ?>"><?= smartypants($related->title()) ?></a></li>
-                <? endforeach ?>
+<?                  endforeach ?>
                 </ul>
             </section>
-            <? endif ?>
-        </section>
+<?          endif ?>
+        </section><!--/.container-->
     </main><!--/@main-->
 
 <? snippet('navigation') ?>

@@ -7,37 +7,37 @@
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>
 
-            <?= preg_replace('/^(<.+?>\s*)+?(\w+)/i', '\1<span class="first-word">\2</span>', kirbytext($page->text())); ?>
+<?=         preg_replace('/^(<.+?>\s*)+?(\w+)/i', '\1<span class="first-word">\2</span>', kirbytext($page->text())); ?>
 
-            <? if($page->related()): ?>
+<?          if($page->related()): ?>
             <section>
                 <h1>Related</h1>
                 <ul>
-                <? foreach(related($page->related()) as $related): ?>
+<?                  foreach(related($page->related()) as $related): ?>
                     <li><a href="<?= $related->url() ?>"><?= smartypants($related->title()) ?></a></li>
-                <? endforeach ?>
+<?                  endforeach ?>
                 </ul>
             </section>
-            <? endif ?>
+<?          endif ?>
 
             <section class="stations index">
                 <h1>Stations in This County</h1>
-                <?php
-                    $county = $page->title();
-                    $alphabetise = alphabetise($pages->find('stations')->children->filterBy('county', "$county")->sortBy('title', 'asc'));
-                    
-                    foreach($alphabetise as $letter => $items):
-                ?>
+<?php
+                $county = $page->title();
+                $alphabetise = alphabetise($pages->find('stations')->children->filterBy('county', "$county")->sortBy('title', 'asc'));
+    
+                foreach($alphabetise as $letter => $items):
+?>
                 <h2 class="index"><?php echo str::upper($letter) ?></h2>
                 <ul class="stations listing">
-                    <?php foreach($items as $item): ?>
+<?php               foreach($items as $item): ?>
                     <li><a href="<?= $item->url() ?>"<? if ($item->text() == ''): ?> class="unremarkable"<? endif ?>><?= smartypants($item->title()) ?></a></li>
-                    <?php endforeach ?>
+<?php               endforeach ?>
                 </ul>
-                <?php endforeach ?>
+<?php           endforeach ?>
             </section>
-            <? snippet('prevnext') ?>
-        </section>
+<?          snippet('prevnext') ?>
+        </section><!--/.container-->
     </main><!--/@main-->
 
 <? snippet('navigation') ?>

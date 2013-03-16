@@ -7,7 +7,7 @@
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>
-<? snippet('alphabetise', array('type' => $type)) ?>
+<?          snippet('alphabetise', array('type' => $type)) ?>
         </section>
     </main><!--/@main-->
 

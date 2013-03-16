@@ -3,8 +3,8 @@
 
     <main role="main">
         <section class="container cover">
-            <?= kirbytext($page->text()) ?>
-        </section>
+<?=         kirbytext($page->text()) ?>
+        </section><!--/.container-->
     </main><!--/@main-->
 
 <? snippet('navigation') ?>

@@ -10,45 +10,45 @@
                 </hgroup>
             </header>
 
-            <? if ($page->text() != ''): ?>
+<?          if ($page->text() != ''): ?>
             <div class="prose">
-                <? if($page->hasImages()): ?>
+<?              if($page->hasImages()): ?>
                 <aside>
                     <figure>
-                        <? foreach($page->images() as $image): ?>
+<?                      foreach($page->images() as $image): ?>
                         <img src="<?= $image->url() ?>" alt="<?= $image->title() ?>" width="360"/> 
                         <figcaption>
                             <p><?= $image->caption() ?></p>
                         </figcaption>
-                        <? endforeach ?>
+<?                      endforeach ?>
                     </figure>
                 </aside>
-                <? endif ?>
-                <?= preg_replace('/^(<.+?>\s*)+?(\w+)/i', '\1<span class="first-word">\2</span>', kirbytext($page->text())); ?>
+<?              endif ?>
+<?=             preg_replace('/^(<.+?>\s*)+?(\w+)/i', '\1<span class="first-word">\2</span>', kirbytext($page->text())); ?>
             </div>
-            <? endif ?>
+<?          endif ?>
 
             <footer class="meta">
-                <? if ($page->meta() != ''): ?>
+<?              if ($page->meta() != ''): ?>
                 <section>
                     <h1 class="hidden">About This Station</h1>
                     <?= kirbytext($page->meta()) ?>
                 </section>
-                <? endif ?>
+<?              endif ?>
 
                 <nav role="navigation">
                     <h1 class="hidden">Connecting Lines</h1>
                     <p>Lines serving this station:</p>
                     <ul>
-                    <? foreach(related($page->line()) as $lines): ?>
+<?                      foreach(related($page->line()) as $lines): ?>
                         <li>&#8212; <a href="<?= $lines->url() ?>"><?= smartypants($lines->title().' '.$lines->type()) ?></a></li>
-                    <? endforeach ?>
+<?                      endforeach ?>
                     </ul>
                 </nav>
             </footer>
 
-            <? snippet('shorturl') ?>
-            <? snippet('prevnext') ?>
+<?          snippet('shorturl') ?>
+<?          snippet('prevnext') ?>
         </section>
     </main><!--/@main-->
 

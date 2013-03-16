@@ -6,9 +6,9 @@
 <? if($items && $items->count()): ?>
 <nav role="navigation">
     <ul>
-    <? foreach($items AS $item): ?>
+<?      foreach($items AS $item): ?>
         <li><a<?= ($item->isOpen()) ? ' class="active"' : '' ?> href="<?= $item->url() ?>"><?= html($item->title()) ?></a></li>
-    <? endforeach ?>
+<?      endforeach ?>
     </ul>
 </nav>
 <? endif ?>
