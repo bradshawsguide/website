@@ -2,6 +2,8 @@ Section: 1
 ----
 Title: Wandsworth Road
 ----
+ShortTitle: Wandsworth Rd.
+----
 County: Surrey
 ----
 Company:

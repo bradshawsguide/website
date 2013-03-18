@@ -2,6 +2,8 @@ Section: 1
 ----
 Title: Newington Road
 ----
+ShortTitle: Newington Rd.
+----
 County: Middlesex
 ----
 Company:

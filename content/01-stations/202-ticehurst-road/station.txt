@@ -2,6 +2,8 @@ Section: 1
 ----
 Title: Ticehurst Road
 ----
+ShortTitle: Ticehurst Rd.
+----
 County: Sussex
 ----
 Company:
