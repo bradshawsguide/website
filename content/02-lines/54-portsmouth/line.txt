@@ -4,7 +4,7 @@ Title: Portsmouth
 ----
 Company: London and South Western Railway
 ----
-Type: Line
+Type: Direct Line
 ----
 Text: ## Godalming to Portsmouth.
 

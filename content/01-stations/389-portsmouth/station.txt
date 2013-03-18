@@ -11,6 +11,7 @@ Company:
 Line:
 - lines/west-coastway
 - lines/portsmouth
+- lines/fareham-to-portsmouth
 ----
 Meta: A telegraph station.
 

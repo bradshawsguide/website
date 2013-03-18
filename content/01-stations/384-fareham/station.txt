@@ -1,0 +1,29 @@
+﻿Section: 1
+----
+Title: Fareham
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/bishopstoke-to-fareham
+- lines/fareham-to-gosport
+- lines/fareham-to-portsmouth
+----
+Meta: A telegraph station.
+
+Population
+: 4,O11.
+
+Hotel
+: Red Lion.
+
+Market Day
+: Tuesday.
+
+Fare
+: June 29th.
+----
+Text: The trade of this place consists of coal, corn, canvas, and ropes. Much resorted to in the sea-bathing season.

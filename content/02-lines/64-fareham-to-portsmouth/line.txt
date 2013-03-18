@@ -1,0 +1,9 @@
+﻿Section: 1
+----
+Title: Fareham to Portsmouth
+----
+Company: London and South Western Railway
+----
+Type: Line
+----
+Text:

@@ -1,14 +1,14 @@
 ﻿Section: 1
 ----
-Title: Salisbury
+Title: Chandler's Ford
 ----
-County: Wiltshire
+County: Hampshire
 ----
 Company:
 - companies/london-and-south-western
 ----
 Line:
-- lines/west-of-england
+- lines/sailsbury
 ----
 Meta:
 ----

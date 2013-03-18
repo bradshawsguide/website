@@ -1,0 +1,18 @@
+﻿Section: 1
+----
+Title: Porchester
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/fareham-to-portsmouth
+----
+Meta: Telegraph station at Fareham, 3 miles.
+
+Money Order Office
+: at Fareham.
+----
+Text: This place has an ancient castle, which serves for prisoners of war and ordnance stores.

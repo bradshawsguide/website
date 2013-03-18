@@ -1,0 +1,16 @@
+﻿Section: 1
+----
+Title: Botley
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/bishopstoke-to-fareham
+- lines/bishops-waltham
+----
+Meta:
+----
+Text: Here the line diverges to the south-east, in order to preserve a connecting link between two towns which must ever be the focus of our military and maritime interest.
