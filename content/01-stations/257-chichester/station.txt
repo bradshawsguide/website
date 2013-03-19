@@ -36,7 +36,7 @@ The cathedral is a cross building of the 12th century, 314 feet long, or 377 fee
 ## Distances of Places from the Station
 
 |                                | Miles.  |
-|--------------------------------|---------|
+| ------------------------------ | ------- |
 | Aldingbourne                   | 5       |
 | Ahnoudington Green             | 6       |
 | Applesham                      | 1&#189; |

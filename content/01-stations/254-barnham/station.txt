@@ -23,7 +23,7 @@ Money Order Office
 Text: ## Distances of Places from the Station
 
 |                     | Miles.  |
-|---------------------|---------|
+| ------------------- | ------- |
 | Aldingbourne        | 1       |
 | Aldwick             | 5       |
 | Arundel             | 5&#188; |

@@ -1,0 +1,38 @@
+﻿Section: 1
+----
+Title: Sandown
+----
+County: Isle of Wight
+----
+Company:
+- companies/isle-of-wight
+----
+Line:
+- lines/isle-of-wight
+----
+Meta: A telegraph station.
+
+Hotels
+: Star and Garter (Hale's).
+
+Coaches
+: to and from Ryde and Newport, daily.
+
+Money Order Office
+: at Shanklin.
+----
+Text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
+
+## Distances of Places from Sandown
+
+|                               | Miles.  |
+| ----------------------------- | ------- |
+| Adgeton                       | 1       |
+| Brading                       | 2       |
+| Culver Cliff                  | 2       |
+| Knighton                      | 3       |
+| Ryde                          | 6       |
+| Sandown Cottage <sup>*</sup>  | 1       |
+| Sandown Lake                  | 1       |
+
+<small>*&#160;Was the seat of Wilkes. The pillar there was set up by him to his friend Churchill.</small>

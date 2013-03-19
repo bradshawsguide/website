@@ -1,0 +1,9 @@
+﻿Section: 1
+----
+Title: Cowes and Newport
+----
+Company: Cowes and Newport Railway
+----
+Type: Line
+----
+Text:

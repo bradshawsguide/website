@@ -1,0 +1,45 @@
+﻿Section: 1
+----
+Title: Shanklin
+----
+County: Isle of Wight
+----
+Company:
+- companies/isle-of-wight
+----
+Line:
+- lines/isle-of-wight
+----
+Meta: A telegraph station.
+
+Hotels
+: Daish's and Williams'.
+
+Coaches
+: to and from Ryde and Newport, daily.
+----
+Text: This beautiful retreat is hid away among trees and corn-fields in summer, and is close to a chine or gash in the cliff, filled in with shrubs and trees, with a good beach for bathing and walking on below. Cook's Castle, a ruined tower, 2 miles to the right. The road winds over the bold headland of Dunnose, with Shanklin Down on one side, 780 ft. high, Luccombe Chine on the other. Notice the views of Sandown Bay and the country behind you. Upon descending, the first glimpse of Undercliff appears on the right, looking something like the entrance to Matlock, while the broad blue stretches away to the left.
+
+## Distances of Places from Sandown
+
+|                   | Miles.  |
+| ----------------- | ------- |
+| Allen             | 2       |
+| Beacon (Shanklin) | 1       |
+| Bonchurch         | 3       |
+| Boniface Down     | 0&#188; |
+| Brenston          | 2       |
+| Chiverton         | 1&#189; |
+| Cook's Castle     | 2       |
+| Dunnose           | 1&#188; |
+| Great Kennedy     | 4       |
+| Horse Ledge       | 0&#189; |
+| Langard           | 1       |
+| Luccombe Chine    | 1       |
+| Shanklin Chine    | 0&#189; |
+| Steephill Cove    | 2       |
+| Strattle          | 3&#189; |
+| Winham            | 1&#189; |
+| Wroncate          | 2       |
+
+The railway at present (1865) terminates at this point. The rest of the way to Ventnor must be travelled by coach.

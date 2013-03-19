@@ -34,7 +34,7 @@ In the immediate vicinity is *Broadwater*, with its beautiful church in the rich
 ## Distances of Places from the Station
 
 |               | Miles.  |
-|---------------|---------|
+| ------------- | ------- |
 | Charmaii Dean | 3       |
 | Cisbury Hall  | 2&#189; |
 | Clapham       | 6       |

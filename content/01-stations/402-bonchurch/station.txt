@@ -1,0 +1,48 @@
+﻿Section: 1
+----
+Title: Bonchurch
+----
+County: Isle of Wight
+----
+Company:
+----
+Line:
+----
+Meta: Distance from station at Shanklin, 3 miles.
+
+Telegraph station at Ventnor, 2 miles.
+
+Hotel
+: Bonchurch.
+
+Coaches
+: to and from Ryde and Newport, daily.
+
+Money Order Office
+: at Shanklin.
+----
+Text: Bonchurch, so called because the church is dedicated to St. Boniface. An exemplary young clergyman, the author of "Shadows of the Cross," and John Stirling, whose Life, written by Carlyle, has excited considerable interest, are buried in it. The road is overshadowed with trees, and passes a lake and the Pulpit Rock. There is a charming path from Shanklin to Bonchurch, through the Sand-slip. Boniface Down, near Ventnor, rises steeply up 700 or 800 ft above the sea.
+
+## Distances of Places from Bonchurch
+
+|                   | Miles.  |
+| ----------------- | ------- |
+| Appuldercombe     | 2       |
+| Beacon, The       | 1&#188; |
+| Binnel Point      | 1       |
+| St. Boniface Down | 1&#189; |
+| Dunnose           | 0&#190; |
+| Godshill          | 3       |
+| Lake, The         | 2&#189; |
+| Luccombe          | 1       |
+| Mill Cove         | 0&#189; |
+| Nettlecomb        | 2       |
+| Puckester Cove    | 3&#189; |
+| Pulpit Rock       | 1&#189; |
+| Rind              | 3&#189; |
+| Sandford          | 2&#189; |
+| Steephill         | 0&#190; |
+| Steephill Cove    | 0&#189; |
+| St. Lawrence      | 2       |
+| Ventnor           | 2       |
+| Wroncate          | 0&#190; |

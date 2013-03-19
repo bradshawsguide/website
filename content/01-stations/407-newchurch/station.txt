@@ -1,0 +1,42 @@
+﻿Section: 1
+----
+Title: Newchurch
+----
+County: Isle of Wight
+----
+Company:
+----
+Line:
+----
+Meta: Distance from station at Sandown, 3 miles.
+
+Telegraph station at Newport, 6 miles.
+
+Coaches
+: to and from Newport and Ryde, daily.
+
+Money Order Office at Newport.
+----
+Text: Newchurch, with its white spire, stands at the end of a short village, near the stream which runs into Brading harbour. The parish is the largest in the island, with a population of 14,003, stretching across it so as to take in both Ryde and Ventnor. Fine views on both sides of the Down, which is 6 miles from Ryde.
+
+## Distances of Places from Newchurch
+
+|                      | Miles.  |
+| -------------------- | ------- |
+| Adgeton              | 2       |
+| Arreton              | 1&#189; |
+| Arreton Street       | 1       |
+| Brading              | 3       |
+| Chiverton            | 1&#189; |
+| Gatcombe House       | 4       |
+| Great Kennerley      | 2&#189; |
+| Long Down            | 3       |
+| Queen's Bower        | 1&#188; |
+| Rookley              | 3&#189; |
+| Ryde                 | 6       |
+| Sandown and Sandford | 3       |
+| Shitle Bridge        | 3&#189; |
+| Spicer's Hall        | 1       |
+| Stone                | 1&#188; |
+| Strattle             | 2       |
+| Winham               | 2       |
