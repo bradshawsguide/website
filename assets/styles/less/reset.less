@@ -383,7 +383,7 @@ td, th {
     font-weight: 400;
     text-align: left;
     vertical-align: top;
-    padding: 0.25em 0; /* 4px 0 */
+    padding: 0.125em 0; /* 2px 0 */
 }
 th {
     font-size: 0;
@@ -409,6 +409,9 @@ td:first-child + td:after {
     content: " miles";
 }
 @media screen and (min-width:32em) {
+    td, th {
+        padding: 0;
+    }
     th {
         font-size: 1em;
     }
