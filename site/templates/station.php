@@ -2,7 +2,7 @@
 <? snippet('banner') ?>
 
     <main role="main">
-        <section class="container">
+        <article class="container">
             <header>
                 <hgroup>
                     <h1><?= smartypants($page->title()) ?></h1>
@@ -35,7 +35,7 @@
                     <?= kirbytext($page->meta()) ?>
                 </section>
 <?              endif ?>
-
+<?              if ($page->line() != ''): ?>
                 <nav role="navigation">
                     <h1 class="hidden">Connecting Lines</h1>
                     <p>Lines serving this station:</p>
@@ -45,11 +45,12 @@
 <?                      endforeach ?>
                     </ul>
                 </nav>
+<?              endif ?>
             </footer>
 
 <?          snippet('shorturl') ?>
 <?          snippet('prevnext') ?>
-        </section>
+        </article>
     </main><!--/@main-->
 
 <? snippet('navigation') ?>
