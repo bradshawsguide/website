@@ -8,7 +8,7 @@ Company:
 - companies/london-and-south-western
 ----
 Line:
-- lines/london-and-south-western
+- lines/south-western
 ----
 Meta: A telegraph station.
 ----

@@ -1,0 +1,35 @@
+﻿Section: 1
+----
+Title: Alum Bay
+----
+County: Isle of Wight
+----
+Company:
+----
+Line:
+----
+Meta: Hotels
+: Needles Hotel and boarding house.
+
+Steamers
+: to Lymington, thence per rail to Brockenhurst.
+----
+Text: The cliffs on one side are white, and on the other are curiously variegated with strata of ochre, fuller's earth, grey and white sand, &c. Here large prawns are found. The cliffs gradually fall to Gary's Sconce, where a strong fort is being constructed. Copperas stones, lignite, or wood coal, alum, pipe day, shells, and fossils are discovered in this quarter of the Island.
+
+## Distances of Places from Freshwater Gate
+
+|                                   | Miles.  |
+| --------------------------------- | ------- |
+| Alum Bay <sup>*</sup>             | 2&#190; |
+| Cary's Stone <sup>&#8224;</sup>   | 2       |
+| Light House <sup>&#8225;</sup>    | 2&#189; |
+| Neptune's Cave <sup>&#167;</sup>  | 3&#188; |
+| Neshanter Cave                    | 3&#189; |
+| Parsonage, The <sup>&#9674;</sup> | 2       |
+| Scratchell's Cave                 | 2       |
+
+<small>*&#160;Arched Rock (600 feet)
+&#8224;&#160;A Fort has been erected here.
+&#8225;&#160;715 feet above the level of the sea.
+&#167;&#160;200 feet.
+&#9674;&#160;Birth place of Dr. Hook, the philosopher.</small>

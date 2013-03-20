@@ -9,7 +9,7 @@ Company:
 ----
 Line:
 - lines/kingston
-- lines/london-and-south-western
+- lines/south-western
 ----
 Meta: A telegraph station.
 

@@ -1,0 +1,61 @@
+﻿Section: 1
+----
+Title: West Cowes
+----
+County: Isle of Wight
+----
+Company:
+- companies/cowes-and-newport
+----
+Line:
+- lines/cowes-and-newport
+----
+Meta: Distance from station at Southampton, 11 miles.
+
+A telegraph station.
+
+Population
+: 5,482.
+
+Hotel
+: Fountain.
+
+Coaches
+: to and from Ryde and Newport, daily.
+
+Vessels
+: The rendezvous of ships of all nations for orders.
+
+Steam Vessels
+: to Portsmouth, Ryde, and Southampton, six times a day; to Yarmouth, once daily.
+
+Regatta
+: in August.
+----
+Text: Cowes, five miles from Newport. An immense quantity of shipping call off here annually, from all parts of the globe, for orders from their owners or consignees, as to the destination of their cargoes; and in the winter months fleets of merchantmen of all nations rendezvous here weatherbound.
+
+It lies at the mouth of the Medina and is a stirring port, noted for its shipbuilding (especially at White's yard), and yachting. There is deep water here; the Royal Yacht Club hold their *regatta* in August. Handsome Club house, Old castle, built by Henry VIII., from which Cowes derives its name. Dr. Arnold was a native of Cowes. There is a ferry to East Cowes, across the Medina, beyond which *Norris Castle* and *Osborne House* are visible. Sailing boats 2s. per hour.
+
+On the beach are bathing machines, and it is much visited by fashionable company.
+
+## Distances of Places from Cowes
+
+|                                    | Miles.  |
+| ---------------------------------- | ------- |
+| Barton                             | 2       |
+| Baskets                            | 1&#190; |
+| East Cowes                         | 0&#190; |
+| East Cowes Castle <sup>*</sup>     | 1&#189; |
+| Egypt                              | 1       |
+| Gurnet Farm                        | 1       |
+| King's Key                         | 3       |
+| Kingston                           | 1&#189; |
+| Noder                              | 1&#189; |
+| Northwood                          | 1&#189; |
+| Northwood House <sup>&#8224;</sup> | 0&#189; |
+| Osborne                            | 1&#188; |
+| West Cowes House                   | 0&#188; |
+| Yacht Club House                   | 0&#189; |
+
+<small>*&#160;Earl of Shannon.
+&#8224;&#160;Now a School.</small>

@@ -1,0 +1,65 @@
+﻿Section: 1
+----
+Title: Newport
+----
+County: Isle of Wight
+----
+Company:
+- companies/cowes-and-newport
+----
+Line:
+- lines/cowes-and-newport
+----
+Meta: Distance from station at Portsmouth, 15 miles.
+
+A telegraph station.
+
+Hotel
+: Bugle; Star; Green Dragon.
+
+Coaches
+: to and from Cowes: Ryde, Yarmouth, and the places on the Eastern Route of the Island.
+
+Boat
+: between Wootton Bridge and Portsmouth, daily.
+
+Market Day
+: Saturday (Corn), and every other Saturday (Cattle)
+
+Fairs
+: Whitsuntide and Michaelmas.
+----
+Text: Newport, the capital of the Island, a clean, we built, country town, in a hollow, on the river Medina which divides the Island nearly in halves. Cracknell biscuits are manufactured here; but Cowes is the real place where they were first made. Population 8,047. It sends two members to parliament. Town Hall built 1816, by Nash. Old church, in which Charles I.'s daughter Elizabeth is buried. Large House of Industry for the Island, on the Cowes road; not far from the Albany barracks, whither recruits are sent for exercise, and the Parkhurst Reformatory for boys.
+
+## Distances of Places from Newport
+
+|                                   | Miles.  |
+| --------------------------------- | ------- |
+| Albany Barracks                   | 0&#189; |
+| Alvington                         | 2       |
+| Arreton                           | 2&#189; |
+| Barton Point                      | 4       |
+| Birchmore                         | 2&#189; |
+| Blackland                         | 2&#189; |
+| Brettleford                       | 2&#189; |
+| Carisbrooke                       | 1       |
+| Carisbrooke Castle <sup>*</sup>   | 1&#189; |
+| Carisbrooke Church                | 1&#188; |
+| Carisbrooke Priory, Ruins of      | 1       |
+| Church, Old <sup>&#8224;</sup>    | 0&#188; |
+| King's Forest                     | 0&#189; |
+| Kite Hill                         | 5       |
+| Marcliff                          | 4&#189; |
+| Node Hill <sup>&#8225;</sup>      | 2       |
+| Norris Castle                     | 0&#189; |
+| Park Cross                        | 4       |
+| Parkhurst Reformatory Institution | 0&#189; |
+| Thorness                          | 4       |
+| West Cowes                        | 5       |
+| Wootton and Bridge.               | 3&#189; |
+
+<small>*&#160;Built before the Conquest
+&#8224;&#160;Tomb of Charles First's daughter, Princess Elizabeth
+&#8225;&#160;Monument to Tyerman the Missionary, and lines by Montgomery</small>
+
+For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.

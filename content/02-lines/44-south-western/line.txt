@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: London and South Western
+Title: South Western
 ----
 Company: London and South Western Railway
 ----
@@ -29,3 +29,7 @@ The line now passes through a country bearing the true Hampshire characteristics
 ## Bishopstoke to Southampton
 
 The line traverses a country skirted in each direction by thick woody undulations. On passing [Portswood](/stations/portswood), near to which are the remains of St. Dennis's Priory, and approaching the town, however, the scenery becomes somewhat less interesting.
+
+## Southampton to Dorchester and Weymouth.
+
+This line of railway passes through a country of picturesque character and antiquarian interest. It branches off from the South Western Railway at the upper end of the town of Southampton, and passes through a tunnel under the old road to London. The tunnel is nearly 531 yards in length, and is cut through a soil of gravel and clay. The railway then passes on *vi&#226;* the stations of [Redbridge](/stations/redbridge), [Totton](/stations/totton) (for Eling), and [Lyndhurst Road](/stations/lyndhurst-road), (none of which require special notice), to [Brockenhurst](/stations/brockenhurst).

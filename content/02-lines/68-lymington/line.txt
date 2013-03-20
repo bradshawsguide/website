@@ -1,0 +1,9 @@
+﻿Section: 1
+----
+Title: Lymington
+----
+Company: London and South Western Railway
+----
+Type: Branch
+----
+Text: Turning to the left from [Brockenhurst](/stations/brokenhurst), a run of about twenty minutes brings us to the parliamentary borough of [Lymington](/stations/lymington).
