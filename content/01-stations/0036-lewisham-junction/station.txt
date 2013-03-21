@@ -8,6 +8,7 @@ County: Kent
 ----
 Company:
 - companies/south-eastern
+- companies/mid-kent
 ----
 Line:
 - lines/north-kent

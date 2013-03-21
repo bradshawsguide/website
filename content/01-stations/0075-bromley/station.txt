@@ -5,9 +5,11 @@ Title: Bromley
 County: Kent
 ----
 Company:
+- companies/london-tilbury-and-southend
 - companies/london-chatham-and-dover
 ----
 Line:
+- lines/stepney-and-ilford-to-tilbury
 - lines/london-to-chatham-and-dover
 ----
 Meta: A telegraph station.

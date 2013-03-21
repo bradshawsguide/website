@@ -5,7 +5,7 @@ Title: Beckenham
 County: Kent
 ----
 Company:
-- companies/south-eastern
+- companies/mid-kent
 - companies/london-chatham-and-dover
 ----
 Line:

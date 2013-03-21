@@ -1,11 +1,13 @@
 Section: 1
 ----
-Title: Lower Sydenham
+Title: Addiscombe Road
+----
+ShortTitle: Addicombe Rd.
 ----
 County: Kent
 ----
 Company:
-- companies/south-eastern
+- companies/mid-kent
 ----
 Line:
 - lines/mid-kent

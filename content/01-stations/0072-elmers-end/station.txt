@@ -1,13 +1,11 @@
 Section: 1
 ----
-Title: Addiscombe Road
-----
-ShortTitle: Addicombe Rd.
+Title: Elmer's End
 ----
 County: Kent
 ----
 Company:
-- companies/south-eastern
+- companies/mid-kent
 ----
 Line:
 - lines/mid-kent

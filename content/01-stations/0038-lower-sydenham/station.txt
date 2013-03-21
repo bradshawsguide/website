@@ -1,11 +1,11 @@
 Section: 1
 ----
-Title: Elmer's End
+Title: Lower Sydenham
 ----
 County: Kent
 ----
 Company:
-- companies/south-eastern
+- companies/mid-kent
 ----
 Line:
 - lines/mid-kent
