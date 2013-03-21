@@ -15,7 +15,6 @@
     <link rel="apple-touch-startup-image" href="<?= url('assets/images/apple-touch-startup-image.png') ?>" media="(device-width: 320px)"/>
     <link rel="apple-touch-startup-image" href="<?= url('assets/images/apple-touch-startup-image@2x.png') ?>" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)">
     <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic|Playfair+Display+SC:400,900|Gentium+Basic">
     <? $lesscss = lesscss('/assets/styles/less/styles.less','/assets/styles/styles.css') ?>
 <?= css('assets/styles/styles.css') ?>
 
