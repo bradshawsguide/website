@@ -10,7 +10,7 @@ Company:
 - companies/london-and-south-western
 ----
 Line:
-- lines/hampton-court
+- lines/surbiton-to-hampton-court
 ----
 Meta: A telegraph station.
 

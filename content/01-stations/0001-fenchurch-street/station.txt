@@ -6,10 +6,12 @@ County: Middlesex
 ----
 Company:
 - companies/london-and-blackwall
+- companies/london-tilbury-and-southend
 ----
 Line:
-- lines/london-and-blackwall
-- lines/fenchurch-street-and-bow-to-camden-and-chalk-farm
+- lines/fenchurch-street-to-blackwall
+- lines/bow-to-chalk-farm
+- lines/fenchurch-street-to-tilbury-and-southend
 ----
 Meta:
 ----

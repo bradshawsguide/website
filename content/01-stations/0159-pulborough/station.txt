@@ -8,8 +8,8 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/horsham
-- lines/petworth
+- lines/three-bridges-to-horsham-and-arundel
+- lines/pullborough-to-petworth
 ----
 Meta:
 ----

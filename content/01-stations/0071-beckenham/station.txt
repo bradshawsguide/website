@@ -9,7 +9,7 @@ Company:
 - companies/london-chatham-and-dover
 ----
 Line:
-- lines/mid-kent
+- lines/lewisham-to-beckenham-and-croydon
 - lines/london-to-chatham-and-dover
 ----
 Meta: A telegraph station.

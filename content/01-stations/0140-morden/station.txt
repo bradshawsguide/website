@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/wimbledon
+- lines/croydon-to-wimbledon
 ----
 Meta:
 ----

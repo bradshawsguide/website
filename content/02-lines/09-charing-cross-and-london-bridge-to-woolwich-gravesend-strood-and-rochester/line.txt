@@ -1,0 +1,9 @@
+﻿Section: 1
+----
+Title: Charing Cross and London Bridge to Woolwich, Gravesend, Strood and Rochester
+----
+Company: South Eastern Railway
+----
+Type: Line
+----
+Text: The North Kent line commences at [New Cross](/stations/new-cross).

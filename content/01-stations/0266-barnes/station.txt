@@ -9,7 +9,7 @@ Company:
 ----
 Line:
 - lines/richmond-staines-and-windsor
-- lines/hounslow-loop
+- lines/barnes-to-hounslow-and-feltham
 ----
 Meta: Distance from station, &#189; mile.
 

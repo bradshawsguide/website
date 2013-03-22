@@ -9,7 +9,7 @@ Company:
 ----
 Line:
 - lines/south-western
-- lines/chertsey
+- lines/weybridge-to-chertsey
 ----
 Meta: Distance from station, &#190; mile.
 

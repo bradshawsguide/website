@@ -8,8 +8,8 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/west-coastway
-- lines/steyning
+- lines/brighton-to-worthing-chichester-and-portsmouth
+- lines/horsham-to-steyning-and-shoreham
 ----
 Meta: A telegraph station.
 

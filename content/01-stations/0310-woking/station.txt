@@ -9,7 +9,7 @@ Company:
 ----
 Line:
 - lines/south-western
-- lines/portsmouth
+- lines/godalming-to-portsmouth
 ----
 Meta: Distance from station, 1 mile
 
@@ -22,5 +22,3 @@ Fair
 : Whit Tuesday.
 ----
 Text: On both sides of the line Woking Common is seen to extend for miles, only broken by the windings of the Basingstoke Canal, and terminated by a long range of woodland scenery, which stands out in picturesque relief against the horizon.
-
-Three-quarters of a mile beyond Woking a line branches off to the left to Guildford and Godalming, direct to Portsmouth, from which another branch diverges at Guildford and extends to Ash, Farnham, and Alton.

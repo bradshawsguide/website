@@ -8,7 +8,7 @@ Company:
 - companies/south-eastern
 ----
 Line:
-- lines/greenwich
+- lines/charing-cross-and-london-bridge-to-greenwich
 ----
 Meta: A telegraph station.
 ----

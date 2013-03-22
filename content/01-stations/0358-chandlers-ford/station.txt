@@ -1,0 +1,15 @@
+﻿Section: 1
+----
+Title: Chandler's Ford
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/bishopstoke-to-salisbury
+----
+Meta:
+----
+Text:

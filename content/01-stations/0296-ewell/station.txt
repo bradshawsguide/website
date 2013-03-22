@@ -10,7 +10,7 @@ Company:
 ----
 Line:
 - lines/croydon-to-epsom
-- lines/leatherhead
+- lines/wimbledon-to-epsom-and-leatherhead
 ----
 Meta:
 ----

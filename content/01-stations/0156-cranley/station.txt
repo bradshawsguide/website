@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/guildford
+- lines/horsham-to-guildford
 ----
 Wiki: http://en.wikipedia.org/wiki/Cranleigh_railway_station
 ----

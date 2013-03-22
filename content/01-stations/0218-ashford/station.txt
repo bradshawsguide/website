@@ -8,9 +8,9 @@ Company:
 - companies/south-eastern
 ----
 Line:
-- lines/south-eastern
-- lines/ashford-and-canterbury
-- lines/marshlink
+- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
+- lines/ashford-to-canterbury-and-ramsgate
+- lines/ashford-to-hastings
 ----
 Meta: A telegraph station.
 

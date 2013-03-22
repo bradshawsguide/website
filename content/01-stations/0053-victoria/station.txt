@@ -9,7 +9,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/metropolitan-extension
+- lines/victoria-to-herne-hill
 - lines/west-end-of-london-and-crystal-palace
 ----
 Meta: 

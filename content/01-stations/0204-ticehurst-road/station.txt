@@ -10,7 +10,7 @@ Company:
 - companies/south-eastern
 ----
 Line:
-- lines/tunbridge-wells-and-hastings
+- lines/tunbridge-to-hastings
 ----
 Meta: A telegraph station.
 

@@ -9,7 +9,7 @@ Company:
 ----
 Line:
 - lines/london-to-chatham-and-dover
-- lines/kent-coast
+- lines/faversham-to-ramsgate
 ----
 Meta: A telegraph station
 

@@ -8,9 +8,9 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/brighton
-- lines/west-coastway
-- lines/lewes
+- lines/london-to-brighton
+- lines/brighton-to-worthing-chichester-and-portsmouth
+- lines/brighton-to-lewes
 ----
 Meta: A telegraph station.
 

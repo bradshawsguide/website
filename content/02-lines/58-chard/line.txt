@@ -1,9 +1,0 @@
-﻿Section: 1
-----
-Title: Chard
-----
-Company: London and South Western Railway
-----
-Type: Branch
-----
-Text: At [Chard Road](/stations/chard-road) the railway diverges to the right, three miles long, to the town of [Chard](/stations/chard).

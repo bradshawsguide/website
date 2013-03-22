@@ -9,7 +9,7 @@ Company:
 ----
 Line:
 - lines/croydon-to-epsom
-- lines/epsom-downs
+- lines/sutton-to-epsom-downs
 ----
 Meta:
 ----

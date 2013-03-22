@@ -9,9 +9,9 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/south-eastern
-- lines/reading-guildford-and-reigate
-- lines/brighton
+- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
+- lines/reigate-to-reading
+- lines/london-to-brighton
 ----
 Meta: A telegraph station.
 

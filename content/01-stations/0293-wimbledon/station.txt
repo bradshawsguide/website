@@ -9,9 +9,9 @@ Company:
 - companies/london-and-south-western
 ----
 Line:
-- lines/wimbledon
+- lines/croydon-to-wimbledon
 - lines/south-western
-- lines/leatherhead
+- lines/wimbledon-to-epsom-and-leatherhead
 ----
 Meta: Distance from station, &#188; mile.
 

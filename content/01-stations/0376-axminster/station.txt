@@ -1,0 +1,18 @@
+﻿Section: 1
+----
+Title: Axminster
+----
+County: Devon
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/basingstoke-to-salisbury-and-exeter
+----
+Meta: A telegraph station.
+
+Population
+: 2,896.
+----
+Text: Situated on the river Axe. Some of the best and finest description of carpets are made here.

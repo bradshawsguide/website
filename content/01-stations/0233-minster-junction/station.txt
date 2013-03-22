@@ -10,7 +10,7 @@ Company:
 - companies/south-eastern
 ----
 Line:
-- lines/ashford-and-canterbury
+- lines/ashford-to-canterbury-and-ramsgate
 - lines/deal
 ----
 Meta: Distance from station, &#188; mile.

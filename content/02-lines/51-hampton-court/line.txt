@@ -1,9 +1,0 @@
-﻿Section: 1
-----
-Title: Hampton Court
-----
-Company: London and South Western Railway
-----
-Type: Branch
-----
-Text:

@@ -8,7 +8,7 @@ Company:
 - companies/london-and-south-western
 ----
 Line:
-- lines/chertsey
+- lines/weybridge-to-chertsey
 ----
 Meta:
 ----

@@ -8,8 +8,9 @@ Company:
 - company/north-london
 ----
 Line:
+- lines/bow-to-chalk-farm
 - lines/dalston-to-broad-street
 ----
 Meta:
 ----
-Text:
+Text: The junction of a short branch running to [Shoreditch](shoreditch) and [Broad Street](broad-street).

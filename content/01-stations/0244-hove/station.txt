@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/west-coastway
+- lines/brighton-to-worthing-chichester-and-portsmouth
 ----
 Meta:
 Telegraph Station at Brighton, 1 mile.

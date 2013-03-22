@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/brighton
+- lines/london-to-brighton
 ----
 Meta: A telegraph station.
 

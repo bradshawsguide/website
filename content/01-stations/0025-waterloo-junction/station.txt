@@ -10,7 +10,7 @@ Company:
 - companies/south-eastern
 ----
 Line:
-- lines/greenwich
+- lines/charing-cross-and-london-bridge-to-greenwich
 ----
 Wiki: http://en.wikipedia.org/wiki/Waterloo_East_railway_station
 ----

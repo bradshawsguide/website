@@ -1,9 +1,0 @@
-﻿Section: 1
-----
-Title: Canterbury and Whitstable
-----
-Company: South Eastern Railway
-----
-Type: Branch
-----
-Text:

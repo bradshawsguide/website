@@ -8,7 +8,7 @@ Company:
 - companies/london-and-blackwall
 ----
 Line:
-- lines/london-and-blackwall
+- lines/fenchurch-street-to-blackwall
 ----
 Meta:
 ----

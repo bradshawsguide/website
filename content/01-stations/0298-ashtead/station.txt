@@ -8,7 +8,7 @@ Company:
 - companies/london-and-south-western
 ----
 Line:
-- lines/leatherhead
+- lines/wimbledon-to-epsom-and-leatherhead
 ----
 Meta:
 ----

@@ -8,7 +8,7 @@ Company:
 - companies/london-chatham-and-dover
 ----
 Line:
-- lines/metropolitan-extension
+- lines/victoria-to-herne-hill
 ----
 Meta: 
 ----

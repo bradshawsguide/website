@@ -8,7 +8,7 @@ Company:
 - company/north-london
 ----
 Line:
-- lines/fenchurch-street-and-bow-to-camden-and-chalk-farm
+- lines/bow-to-chalk-farm
 ----
 Meta: Distance from station, &#189; mile.
 

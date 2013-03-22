@@ -8,7 +8,7 @@ Company:
 - companies/london-chatham-and-dover
 ----
 Line:
-- lines/sheerness
+- lines/sittingbourne-to-sheerness
 ----
 Meta:
 ----

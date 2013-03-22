@@ -8,8 +8,8 @@ Company:
 - companies/south-eastern
 ----
 Line:
-- lines/south-eastern
-- lines/tunbridge-wells-and-hastings
+- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
+- lines/tunbridge-to-hastings
 ----
 Meta: A telegraph station.
 

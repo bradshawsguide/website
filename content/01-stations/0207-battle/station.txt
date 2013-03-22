@@ -8,7 +8,7 @@ Company:
 - companies/south-eastern
 ----
 Line:
-- lines/tunbridge-wells-and-hastings
+- lines/tunbridge-to-hastings
 ----
 Meta: Distance from station, 3 mile.
 

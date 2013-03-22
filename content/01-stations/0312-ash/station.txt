@@ -9,8 +9,8 @@ Company:
 - companies/london-and-south-western
 ----
 Line:
-- lines/reading-guildford-and-reigate
-- lines/alton
+- lines/reigate-to-reading
+- lines/guildford-to-farnham-and-alton
 ----
 Meta: Distance from the station, 1 mile.
 

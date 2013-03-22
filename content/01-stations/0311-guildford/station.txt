@@ -10,9 +10,10 @@ Company:
 - companies/london-and-south-western
 ----
 Line:
-- lines/reading-guildford-and-reigate
-- lines/portsmouth
-- lines/alton
+- lines/reigate-to-reading
+- lines/horsham-to-guildford
+- lines/godalming-to-portsmouth
+- lines/guildford-to-farnham-and-alton
 ----
 Meta: A telegraph station.
 

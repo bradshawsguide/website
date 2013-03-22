@@ -8,8 +8,8 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/west-coastway
-- lines/bognor
+- lines/brighton-to-worthing-chichester-and-portsmouth
+- lines/barnham-to-bognor
 ----
 Meta: A telegraph station. Distance from station, &#190; mile.
 

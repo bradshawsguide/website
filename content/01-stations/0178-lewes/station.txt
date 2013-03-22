@@ -9,9 +9,9 @@ Company:
 ----
 Line:
 - lines/east-coastway
-- lines/uckfield
+- lines/lewes-to-uckfield
 - lines/newhaven
-- lines/lewes
+- lines/brighton-to-lewes
 ----
 Meta: Distance from station, &#189; mile. A telegraph station.
 

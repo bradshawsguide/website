@@ -9,8 +9,8 @@ Company:
 ----
 Line:
 - lines/richmond-staines-and-windsor
-- lines/kingston
-- lines/thames-valley
+- lines/twickenham-to-kingston
+- lines/twickenham-to-shepperton
 ----
 Meta: A telegraph station.
 

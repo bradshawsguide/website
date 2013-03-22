@@ -8,7 +8,7 @@ Company:
 - companies/london-tilbury-and-southend
 ----
 Line:
-- lines/stepney-and-ilford-to-tilbury
+- lines/fenchurch-street-to-tilbury-and-southend
 ----
 Meta:
 ----

@@ -1,0 +1,15 @@
+﻿Section: 1
+----
+Title: Chard
+----
+County: Somerset
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/chard-road-to-chard
+----
+Meta:
+----
+Text: A well-built market town, trading in silks and broad cloths.

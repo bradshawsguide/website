@@ -8,7 +8,7 @@ Company:
 - companies/london-chatham-and-dover
 ----
 Line:
-- lines/kent-coast
+- lines/faversham-to-ramsgate
 ----
 Meta: Distance from Sturry station, &#32; miles.
 

@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/steyning
+- lines/horsham-to-steyning-and-shoreham
 ----
 Meta:
 ----

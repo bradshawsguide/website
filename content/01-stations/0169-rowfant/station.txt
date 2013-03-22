@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/east-grinstead
+- lines/three-bridges-to-east-grinstead
 ----
 Meta:
 ----

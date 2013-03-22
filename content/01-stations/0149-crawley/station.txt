@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/horsham
+- lines/three-bridges-to-horsham-and-arundel
 ----
 Meta: A telegraph station.
 ----

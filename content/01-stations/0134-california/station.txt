@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/epsom-downs
+- lines/sutton-to-epsom-downs
 ----
 Meta:
 ----

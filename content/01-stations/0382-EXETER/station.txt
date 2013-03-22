@@ -1,0 +1,15 @@
+﻿Section: 2
+----
+Title: Exeter
+----
+County: Devon
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/basingstoke-to-salisbury-and-exeter
+----
+Meta:
+----
+Text: TBD

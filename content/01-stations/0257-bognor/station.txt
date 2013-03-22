@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/bognor
+- lines/barnham-to-bognor
 ----
 Meta: A telegraph station.
 

@@ -9,7 +9,7 @@ Company:
 ----
 Line:
 - lines/london-to-chatham-and-dover
-- lines/sheerness
+- lines/sittingbourne-to-sheerness
 ----
 Meta: Market Day
 : Saturday. Much corn is shipped here.

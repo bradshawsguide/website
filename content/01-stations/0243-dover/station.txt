@@ -10,7 +10,7 @@ Company:
 ----
 Line:
 - lines/london-to-chatham-and-dover
-- lines/south-eastern
+- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
 Meta: A telegraph station.
 

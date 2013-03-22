@@ -8,7 +8,7 @@ Company:
 - companies/south-eastern
 ----
 Line:
-- lines/reading-guildford-and-reigate
+- lines/reigate-to-reading
 ----
 Meta: Distance from station, &#189; mile.
 

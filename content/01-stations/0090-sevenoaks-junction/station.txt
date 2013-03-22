@@ -11,7 +11,7 @@ Company:
 ----
 Line:
 - lines/london-to-chatham-and-dover
-- lines/sevenoaks
+- lines/sevenoaks-junction-to-sevenoaks
 ----
 Meta:
 ----

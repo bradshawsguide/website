@@ -9,7 +9,7 @@ Company:
 - company/london-and-south-western
 ----
 Line:
-- lines/reading-guildford-and-reigate
+- lines/reigate-to-reading
 - lines/richmond-staines-and-windsor
 ----
 Meta:

@@ -1,9 +1,0 @@
-﻿Section: 1
-----
-Title: North Kent
-----
-Company: South Eastern Railway
-----
-Type: Line
-----
-Text: The North Kent line commences at [New Cross](/stations/new-cross), from which also a short line of about six miles runs down by *Birkley Park* to [Chislehurst](/stations/chislehurst).

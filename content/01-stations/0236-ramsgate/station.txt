@@ -9,8 +9,8 @@ Company:
 - companies/south-eastern
 ----
 Line:
-- lines/kent-coast
-- lines/ashford-and-canterbury
+- lines/faversham-to-ramsgate
+- lines/ashford-to-canterbury-and-ramsgate
 ----
 Meta: A telegraph station.
 

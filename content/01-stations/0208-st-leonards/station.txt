@@ -9,7 +9,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Line:
-- lines/tunbridge-wells-and-hastings
+- lines/tunbridge-to-hastings
 - lines/east-coastway
 ----
 Meta: A telegraph station.

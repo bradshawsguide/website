@@ -8,7 +8,7 @@ Company:
 - companies/london-and-south-western
 ----
 Line:
-- lines/alton
+- lines/guildford-to-farnham-and-alton
 ----
 Meta:
 ----

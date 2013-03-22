@@ -1,9 +1,0 @@
-﻿Section: 1
-----
-Title: Sevenoaks
-----
-Company: London, Chatham, and Dover Railway
-----
-Type: Branch
-----
-Text:

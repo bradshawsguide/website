@@ -8,7 +8,7 @@ Company:
 - companies/london-and-south-western
 ----
 Line:
-- lines/hampton-court
+- lines/surbiton-to-hampton-court
 ----
 Meta: Telegraph station at Kingston, 2 miles.
 

@@ -10,8 +10,8 @@ Company:
 ----
 Line:
 - lines/london-to-chatham-and-dover
-- lines/ashford-and-canterbury
-- lines/canterbury-and-whitstable
+- lines/ashford-to-canterbury-and-ramsgate
+- lines/canterbury-to-whitstable
 ----
 Meta: In the western suburb. A telegraph station,
 

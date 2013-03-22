@@ -1,0 +1,15 @@
+﻿Section: 1
+----
+Title: Semley
+----
+County: Wiltshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/basingstoke-to-salisbury-and-exeter
+----
+Meta:
+----
+Text:

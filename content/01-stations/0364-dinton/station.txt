@@ -1,0 +1,15 @@
+﻿Section: 1
+----
+Title: Dinton
+----
+County: Wiltshire
+----
+Company:
+- companies/london-and-south-western
+----
+Line:
+- lines/basingstoke-to-salisbury-and-exeter
+----
+Meta:
+----
+Text: Dinton. *Dinton House*, seat of W. Wyndham, Esq., is on the river Nadder, and was the birth-place of the great Lord Clarendon, 1608. Wickhall Camp, an ancient encampment, is near.
