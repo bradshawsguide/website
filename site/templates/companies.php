@@ -16,7 +16,7 @@
                 $lines = $pages->find('lines')->children()->filterBy('company', "$company")->sortBy('title', 'asc'); ?>
                 <ul class="listing">
 <?                  foreach($lines as $line): ?>
-                    <li><a href="<?= $line->url() ?>"><?= smartypants($line->title().' '.$line->type()) ?></a></li>
+                    <li><a href="<?= $line->url() ?>"<? if ($line->text() == ''): ?> class="unremarkable"<? endif ?>><?= smartypants($line->title()) ?></a></li>
 <?                  endforeach ?>
                 </ul>
 <?              endforeach ?>

@@ -5,7 +5,7 @@
         <section class="container">
             <header>
                 <hgroup>
-                    <h1><?= smartypants($page->title().' '.$page->type()) ?></h1>
+                    <h1><?= smartypants($page->title()) ?></h1>
                     <h2><a href="/companies/<?= preg_replace('/-railway$/', '', str::urlify($page->company())) ?>"><?= smartypants($page->company()) ?></a></h2>
                 </hgroup>
             </header>
@@ -43,7 +43,7 @@
 <?                      endif ?>
 <?                      foreach ($lines as $connection): ?>
 <?                          if ($connection->title() !== $page->title()): ?>
-                            <li><a href="<?= $connection->url() ?>"><?= smartypants($connection->title().' '.$connection->type()) ?></a></li>
+                            <li><a href="<?= $connection->url() ?>"><?= smartypants($connection->title()) ?></a></li>
 <?                          endif ?>
 <?                      endforeach ?>
 <?                      if ($type == 'interchange'): ?>

@@ -12,14 +12,14 @@
             </div>
 
             <section>
-                <h1>Lines Operated</h1>
+                <h1>Routes Operated</h1>
 <?
                 $company2 = $page->title();
                 $items2 = $pages->find('lines')->children()->filterBy('company', "$company2")->sortBy('title', 'asc');
 ?>
                 <ul class="lines listing">
 <?                  foreach($items2 AS $item2): ?>
-                    <li><a href="<?= $item2->url() ?>"><?= smartypants($item2->title().' '.$item2->type()) ?></a></li>
+                    <li><a href="<?= $item2->url() ?>"><?= smartypants($item2->title()) ?></a></li>
 <?                  endforeach ?>
                 </ul>
             </section>
