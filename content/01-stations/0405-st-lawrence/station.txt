@@ -25,18 +25,18 @@ Text: There is a spring of deliriously cool water on the road side, under an alc
 
 ## Distances of Places from St. Lawrence
 
-|                       | Miles.  |
-| --------------------- | ------- |
-| Appuldercombe         | 1&#190; |
-| Binnel Point          | 0&#189; |
-| Bonchurch             | 2       |
-| Church, The           | 0&#188; |
-| Nettlecomb            | 2       |
-| Newport               | 11      |
-| Sea View              | 0&#189; |
-| Spring, The           | 0&#188; |
-| Vineyard <sup>*</sup> | 3       |
-| Wolverton             | 2       |
-| Wroncate              | 2&#190; |
+|                | Miles.  |
+| ---------------| ------- |
+| Appuldercombe  | 1&#190; |
+| Binnel Point   | 0&#189; |
+| Bonchurch      | 2       |
+| Church, The    | 0&#188; |
+| Nettlecomb     | 2       |
+| Newport        | 11      |
+| Sea View       | 0&#189; |
+| Spring, The    | 0&#188; |
+| Vineyard [^1]  | 3       |
+| Wolverton      | 2       |
+| Wroncate       | 2&#190; |
 
-<small>*&#160;Inigo Jones' Gate from Hampton Court.</small>
+[^1]: Inigo Jones' Gate from Hampton Court.

@@ -33,14 +33,14 @@ Godshill church, in which the Worsleys are buried, has a good pinnacled tower. *
 
 ## Distances of Places from Chale
 
-|                                          | Miles.  |
-| ---------------------------------------- | ------- |
-| Chale Bay <sup>*</sup>                   | 0&#190; |
-| Churchyard <sup>&#8224;</sup>            | 0&#188; |
-| Pitland Land Slip <sup>&#8225;</sup>     | 1       |
-| St. Catharine's Pillar <sup>&#167;</sup> | 0&#190; |
+|                             | Miles.  |
+| --------------------------- | ------- |
+| Chale Bay [^1]              | 0&#190; |
+| Churchyard [^2]             | 0&#188; |
+| Pitland Land Slip [^3]      | 1       |
+| St. Catharine's Pillar [^4] | 0&#190; |
 
-<small>*&#160;Where the Clarendon was lost.
-&#8224;&#160;Graves of the crew of the Clarendon
-&#8225;&#160;Took place in 1799
-&#167;&#160;In honour of the visit of a Russian Prince to the Island.</small>
+[^1]: Where the Clarendon was lost.
+[^2]: Graves of the crew of the Clarendon
+[^3]: Took place in 1799
+[^4]: In honour of the visit of a Russian Prince to the Island.

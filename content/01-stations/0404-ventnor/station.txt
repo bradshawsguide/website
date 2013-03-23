@@ -31,19 +31,19 @@ From Ventnor to Black Gang the road winds along through *Undercliff*, among rock
 
 ## Distances of Places from Ventnor
 
-|                                      | Miles.  |
-| ------------------------------------ | ------- |
-| Blackgang                            | 7       |
-| Luccombe Chine <sup>*</sup>          | 0&#189; |
-| Mirables                             | 3&#189; |
-| Sand Rock <sup>&#8224;</sup>         | 4       |
-| Shanklin                             | 2       |
-| Steephill                            | 0&#189; |
-| St. Boniface Down <sup>&#8225;</sup> | 0&#189; |
-| Undercliff                           | 2       |
-| Ventnor Cove                         | 0&#189; |
-| Wishing Well                         | 0&#190; |
+|                         | Miles.  |
+| ----------------------- | ------- |
+| Blackgang               | 7       |
+| Luccombe Chine [^1]     | 0&#189; |
+| Mirables                | 3&#189; |
+| Sand Rock [^2]          | 4       |
+| Shanklin                | 2       |
+| Steephill               | 0&#189; |
+| St. Boniface Down [^3]  | 0&#189; |
+| Undercliff              | 2       |
+| Ventnor Cove            | 0&#189; |
+| Wishing Well            | 0&#190; |
 
-<small>*&#160;Visited by the Queen and Prince Albert.
-&#8224;&#160;Here is a capital Hotel.
-&#8225;&#160;600 feet high.</small>
+[^1]: Visited by the Queen and Prince Albert.
+[^2]: Here is a capital Hotel.
+[^3]: 600 feet high.

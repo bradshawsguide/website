@@ -25,21 +25,21 @@ Text: Niton has an old church, a little inland from the road, to the right. The 
 
 ## Distances of Places from Niton
 
-|                             | Miles.  |
-| --------------------------- | ------- |
-| Black Gang Chine            | 2       |
-| Chale                       | 2       |
-| Cripple Path, The           | 0&#188; |
-| Nettlecomb                  | 1&#189; |
-| Niton House                 | 0&#189; |
-| Old Castle, The             | 1       |
-| Pitland Land Slip           | 1&#189; |
-| Puckester Cove <sup>*</sup> | 1       |
-| Sandrock Spring             | 1&#189; |
-| St. Catharine's Down        | 1       |
-| St. Catharine's Point       | 1&#189; |
-| St. Catharine's Tower       | 1&#188; |
-| Whitwell                    | 1       |
-| Woolverton                  | 1       |
+|                       | Miles.  |
+| --------------------- | ------- |
+| Black Gang Chine      | 2       |
+| Chale                 | 2       |
+| Cripple Path, The     | 0&#188; |
+| Nettlecomb            | 1&#189; |
+| Niton House           | 0&#189; |
+| Old Castle, The       | 1       |
+| Pitland Land Slip     | 1&#189; |
+| Puckester Cove [^1]   | 1       |
+| Sandrock Spring       | 1&#189; |
+| St. Catharine's Down  | 1       |
+| St. Catharine's Point | 1&#189; |
+| St. Catharine's Tower | 1&#188; |
+| Whitwell              | 1       |
+| Woolverton            | 1       |
 
-<small>*&#160;Where Charles the Second landed in a Storm in 1675.</small>
+[^1]: Where Charles the Second landed in a Storm in 1675.

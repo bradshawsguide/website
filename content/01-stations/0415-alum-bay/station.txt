@@ -18,18 +18,18 @@ Text: The cliffs on one side are white, and on the other are curiously variegate
 
 ## Distances of Places from Freshwater Gate
 
-|                                   | Miles.  |
-| --------------------------------- | ------- |
-| Alum Bay <sup>*</sup>             | 2&#190; |
-| Cary's Stone <sup>&#8224;</sup>   | 2       |
-| Light House <sup>&#8225;</sup>    | 2&#189; |
-| Neptune's Cave <sup>&#167;</sup>  | 3&#188; |
-| Neshanter Cave                    | 3&#189; |
-| Parsonage, The <sup>&#9674;</sup> | 2       |
-| Scratchell's Cave                 | 2       |
+|                      | Miles.  |
+| ---------------------| ------- |
+| Alum Bay [^1]        | 2&#190; |
+| Cary's Stone [^2]    | 2       |
+| Light House [^3]     | 2&#189; |
+| Neptune's Cave [^4]  | 3&#188; |
+| Neshanter Cave       | 3&#189; |
+| Parsonage, The [^5]  | 2       |
+| Scratchell's Cave    | 2       |
 
-<small>*&#160;Arched Rock (600 feet)
-&#8224;&#160;A Fort has been erected here.
-&#8225;&#160;715 feet above the level of the sea.
-&#167;&#160;200 feet.
-&#9674;&#160;Birth place of Dr. Hook, the philosopher.</small>
+[^1]: Arched Rock (600 feet)
+[^2]: A Fort has been erected here.
+[^3]: 715 feet above the level of the sea.
+[^4]: 200 feet.
+[^5]: Birth place of Dr. Hook, the philosopher.
