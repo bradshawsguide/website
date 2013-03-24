@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
+Route:
+- routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 ----
 Meta:
 ----

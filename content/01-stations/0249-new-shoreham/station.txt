@@ -7,9 +7,9 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/brighton-to-worthing-chichester-and-portsmouth
-- lines/horsham-to-steyning-and-shoreham
+Route:
+- routes/brighton-to-worthing-chichester-and-portsmouth
+- routes/horsham-to-steyning-and-shoreham
 ----
 Meta: A telegraph station.
 

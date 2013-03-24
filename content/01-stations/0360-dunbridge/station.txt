@@ -7,8 +7,8 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/bishopstoke-to-salisbury
+Route:
+- routes/bishopstoke-to-salisbury
 ----
 Wiki: http://en.wikipedia.org/wiki/Mottisfont_%26_Dunbridge_railway_station
 ----

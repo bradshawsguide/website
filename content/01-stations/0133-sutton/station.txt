@@ -7,9 +7,9 @@ County: Surrey
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/croydon-to-epsom
-- lines/sutton-to-epsom-downs
+Route:
+- routes/croydon-to-epsom
+- routes/sutton-to-epsom-downs
 ----
 Meta:
 ----

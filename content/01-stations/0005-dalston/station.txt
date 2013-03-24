@@ -5,11 +5,11 @@ Title: Dalston
 County: Middlesex
 ----
 Company:
-- company/north-london
+- companies/north-london
 ----
-Line:
-- lines/bow-to-chalk-farm
-- lines/dalston-to-broad-street
+Route:
+- routes/bow-to-chalk-farm
+- routes/dalston-to-broad-street
 ----
 Meta:
 ----

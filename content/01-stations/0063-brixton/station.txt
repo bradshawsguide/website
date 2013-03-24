@@ -7,10 +7,10 @@ County: Surrey
 Company:
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/london-to-chatham-and-dover
-- lines/victoria-to-herne-hill
-- lines/crystal-palace
+Route:
+- routes/london-to-chatham-and-dover
+- routes/victoria-to-herne-hill
+- routes/brixton-to-crystal-palace
 ----
 Meta: 
 ----

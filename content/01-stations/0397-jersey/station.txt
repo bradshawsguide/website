@@ -6,7 +6,7 @@ County: Channel Islands
 ----
 Company:
 ----
-Line:
+Route:
 ----
 Meta: A telegraph station
 ----

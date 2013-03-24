@@ -7,10 +7,10 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/three-bridges-to-horsham-and-arundel
-- lines/horsham-to-guildford
-- lines/horsham-to-steyning-and-shoreham
+Route:
+- routes/three-bridges-to-horsham-and-arundel
+- routes/horsham-to-guildford
+- routes/horsham-to-steyning-and-shoreham
 ----
 Meta: A telegraph station.
 

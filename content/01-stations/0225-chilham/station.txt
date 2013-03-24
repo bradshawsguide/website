@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/ashford-to-canterbury-and-ramsgate
+Route:
+- routes/ashford-to-canterbury-and-ramsgate
 ----
 Meta: A telegraph station.
 

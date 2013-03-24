@@ -15,9 +15,9 @@
                 <h1>Routes Operated</h1>
 <?
                 $company2 = $page->title();
-                $items2 = $pages->find('lines')->children()->filterBy('company', "$company2")->sortBy('title', 'asc');
+                $items2 = $pages->find('routes')->children()->filterBy('company', "$company2")->sortBy('title', 'asc');
 ?>
-                <ul class="lines listing">
+                <ul class="listing">
 <?                  foreach($items2 AS $item2): ?>
                     <li><a href="<?= $item2->url() ?>"><?= smartypants($item2->title()) ?></a></li>
 <?                  endforeach ?>

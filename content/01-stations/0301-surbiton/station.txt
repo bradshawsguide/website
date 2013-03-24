@@ -7,9 +7,9 @@ County: Surrey
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/south-western
-- lines/surbiton-to-hampton-court
+Route:
+- routes/london-to-southampton-dorchester-and-weymouth
+- routes/surbiton-to-hampton-court
 ----
 Meta:
 ----

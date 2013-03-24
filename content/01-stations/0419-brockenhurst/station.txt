@@ -7,9 +7,9 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/south-western
-- lines/brockenhurst-to-lymington
+Route:
+- routes/london-to-southampton-dorchester-and-weymouth
+- routes/brockenhurst-to-lymington
 ----
 Meta: Distance from station, 1 mile.
 

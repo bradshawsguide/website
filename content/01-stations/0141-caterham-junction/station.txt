@@ -10,10 +10,10 @@ Company:
 - companies/south-eastern
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
-- lines/london-to-brighton
-- lines/caterham-junction-to-caterham
+Route:
+- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
+- routes/london-to-brighton
+- routes/caterham-junction-to-caterham
 ----
 Meta: A telegraph station.
 ----

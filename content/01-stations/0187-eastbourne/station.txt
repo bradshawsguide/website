@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/eastbourne
+Route:
+- routes/polegate-to-eastbourne
 ----
 Meta: Distance from station, 1 mile.
 

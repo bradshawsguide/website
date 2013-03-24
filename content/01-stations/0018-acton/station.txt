@@ -5,11 +5,11 @@ Title: Acton
 County: Middlesex
 ----
 Company:
-- company/north-and-south-western-junction
+- companies/north-and-south-western-junction
 ----
-Line:
-- lines/willesden-junction-to-kew
-- lines/hammersmith
+Route:
+- routes/willesden-junction-to-kew
+- routes/acton-to-hammersmith
 ----
 Meta: Population
 : 3,151.

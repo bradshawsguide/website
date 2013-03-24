@@ -7,8 +7,8 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/brockenhurst-to-lymington
+Route:
+- routes/brockenhurst-to-lymington
 ----
 Meta: A telegraph station.
 ----

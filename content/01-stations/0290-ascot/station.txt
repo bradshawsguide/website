@@ -5,10 +5,10 @@ Title: Ascot
 County: Berkshire
 ----
 Company:
-- company/london-and-south-western
+- companies/london-and-south-western
 ----
-Line:
-- lines/richmond-staines-and-windsor
+Route:
+- routes/london-to-richmond-staines-wokingham-and-reading
 ----
 Meta: Telegraph station at Sunningdale, 2 miles.
 

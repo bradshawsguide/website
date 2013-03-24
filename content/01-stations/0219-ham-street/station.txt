@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/ashford-to-hastings
+Route:
+- routes/ashford-to-hastings
 ----
 Meta:
 ----

@@ -7,9 +7,8 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/fareham-to-gosport
-- lines/stokes-bay
+Route:
+- routes/fareham-to-gosport
 ----
 Meta: A telegraph station.
 

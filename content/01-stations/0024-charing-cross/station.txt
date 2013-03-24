@@ -7,10 +7,10 @@ County: Middlesex
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/charing-cross-and-london-bridge-to-greenwich
-- lines/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
-- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
+Route:
+- routes/charing-cross-and-london-bridge-to-greenwich
+- routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
+- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
 Meta: A telegraph station.
 ----

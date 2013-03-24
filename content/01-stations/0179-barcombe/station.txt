@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/lewes-to-uckfield
+Route:
+- routes/lewes-to-uckfield
 ----
 Meta:
 ----

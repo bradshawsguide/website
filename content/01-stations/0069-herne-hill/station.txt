@@ -7,9 +7,9 @@ County: Surrey
 Company:
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/london-to-chatham-and-dover
-- lines/victoria-to-herne-hill
+Route:
+- routes/london-to-chatham-and-dover
+- routes/victoria-to-herne-hill
 ----
 Meta: 
 ----

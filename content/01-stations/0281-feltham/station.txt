@@ -5,11 +5,11 @@ Title: Feltham
 County: Middlesex
 ----
 Company:
-- company/london-and-south-western
+- companies/london-and-south-western
 ----
-Line:
-- lines/richmond-staines-and-windsor
-- lines/barnes-to-hounslow-and-feltham
+Route:
+- routes/london-to-richmond-staines-wokingham-and-reading
+- routes/barnes-to-hounslow-and-feltham
 ----
 Meta: 
 ----

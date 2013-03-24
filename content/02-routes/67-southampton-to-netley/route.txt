@@ -1,0 +1,9 @@
+﻿Section: 1
+----
+Title: Southampton to Netley
+----
+Company: London and South Western Railway
+----
+Type: Branch
+----
+Text: A line of railway, about three miles long, extends along the eastern shores of the Southampton Water to Netley Abbey, a place of universal attraction to Southampton visitors. We cross the Itchen, near to which has been erected a noble Military College, and pass by the stations of [Portswood](/stations/portswood), [Bitterne Road](/stations/bitterne-road), and [Woolston](/stations/woolston), to [Netley Abbey](/stations/netley-abbey).

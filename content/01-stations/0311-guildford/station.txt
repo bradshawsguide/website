@@ -9,11 +9,11 @@ Company:
 - companies/london-brighton-and-south-coast
 - companies/london-and-south-western
 ----
-Line:
-- lines/reigate-to-reading
-- lines/horsham-to-guildford
-- lines/godalming-to-portsmouth
-- lines/guildford-to-farnham-and-alton
+Route:
+- routes/reigate-to-reading
+- routes/horsham-to-guildford
+- routes/woking-to-godalming-and-portsmouth
+- routes/guildford-to-farnham-and-alton
 ----
 Meta: A telegraph station.
 

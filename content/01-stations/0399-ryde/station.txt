@@ -7,8 +7,8 @@ County: Isle of Wight
 Company:
 - companies/isle-of-wight
 ----
-Line:
-- lines/isle-of-wight
+Route:
+- routes/isle-of-wight
 ----
 Wiki: http://en.wikipedia.org/wiki/Ryde_St_John's_Road_railway_station
 ----

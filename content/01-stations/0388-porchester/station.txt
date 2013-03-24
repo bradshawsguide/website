@@ -7,8 +7,8 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/fareham-to-portsmouth
+Route:
+- routes/fareham-to-portsmouth
 ----
 Meta: Telegraph station at Fareham, 3 miles.
 

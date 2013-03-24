@@ -7,8 +7,8 @@ County: Isle of Wight
 Company:
 - companies/cowes-and-newport
 ----
-Line:
-- lines/cowes-and-newport
+Route:
+- routes/cowes-and-newport
 ----
 Meta: Distance from station at Southampton, 11 miles.
 

@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/hailsham
+Route:
+- routes/polegate-to-hailsham
 ----
 Meta: A telegraph station.
 

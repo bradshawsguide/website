@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/sevenoaks-junction-to-sevenoaks
+Route:
+- routes/sevenoaks-junction-to-sevenoaks
 ----
 Meta:
 ----

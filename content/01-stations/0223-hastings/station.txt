@@ -8,10 +8,10 @@ Company:
 - companies/south-eastern
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/tunbridge-to-hastings
-- lines/east-coastway
-- lines/ashford-to-hastings
+Route:
+- routes/tunbridge-to-hastings
+- routes/haywards-heath-to-lewes-and-hastings
+- routes/ashford-to-hastings
 ----
 Meta: A telegraph station.
 

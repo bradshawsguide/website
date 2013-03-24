@@ -9,8 +9,8 @@ County: Sussex
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/tunbridge-to-hastings
+Route:
+- routes/tunbridge-to-hastings
 ----
 Meta: A telegraph station.
 

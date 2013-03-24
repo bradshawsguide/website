@@ -7,9 +7,9 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/basingstoke-to-salisbury-and-exeter
-- lines/andover-and-redbridge
+Route:
+- routes/basingstoke-to-salisbury-and-exeter
+- routes/andover-and-redbridge
 ----
 Meta: Distance from station, 1 mile.
 

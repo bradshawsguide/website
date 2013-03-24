@@ -8,9 +8,9 @@ Company:
 - companies/london-and-blackwall
 - companies/london-tilbury-and-southend
 ----
-Line:
-- lines/fenchurch-street-to-blackwall
-- lines/fenchurch-street-to-tilbury-and-southend
+Route:
+- routes/fenchurch-street-to-blackwall
+- routes/fenchurch-street-to-tilbury-and-southend
 ----
 Meta: A telegraph station.
 

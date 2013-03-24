@@ -5,10 +5,10 @@ Title: Hampton Wick
 County: Middlesex
 ----
 Company:
-- company/london-and-south-western
+- companies/london-and-south-western
 ----
-Line:
-- lines/twickenham-to-kingston
+Route:
+- routes/twickenham-to-kingston
 ----
 Meta: 
 ----

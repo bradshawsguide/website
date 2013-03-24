@@ -5,10 +5,10 @@ Title: Kentish Town
 County: Middlesex
 ----
 Company:
-- company/hampstead-junction
+- companies/hampstead-junction
 ----
-Line:
-- lines/hampstead-junction
+Route:
+- routes/camden-road-to-willesden-junction
 ----
 Meta:
 ----

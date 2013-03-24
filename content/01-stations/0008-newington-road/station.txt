@@ -7,10 +7,10 @@ ShortTitle: Newington Rd.
 County: Middlesex
 ----
 Company:
-- company/north-london
+- companies/north-london
 ----
-Line:
-- lines/bow-to-chalk-farm
+Route:
+- routes/bow-to-chalk-farm
 ----
 Meta: 
 ----

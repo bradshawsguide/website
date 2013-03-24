@@ -1,9 +1,0 @@
-﻿Section: 1
-----
-Title: Isle of Wight
-----
-Company: Isle of Wight Railway
-----
-Type: Line
-----
-Text:

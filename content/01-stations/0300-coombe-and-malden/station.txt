@@ -9,8 +9,8 @@ County: Surrey
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/south-western
+Route:
+- routes/london-to-southampton-dorchester-and-weymouth
 ----
 Wiki: http://en.wikipedia.org/wiki/New_Malden_railway_station
 ----

@@ -5,12 +5,12 @@ Title: Kew
 County: Surrey
 ----
 Company:
-- company/north-and-south-western-junction
-- company/london-and-south-western
+- companies/north-and-south-western-junction
+- companies/london-and-south-western
 ----
-Line:
-- lines/willesden-junction-to-kew
-- lines/barnes-to-hounslow-and-feltham
+Route:
+- routes/willesden-junction-to-kew
+- routes/barnes-to-hounslow-and-feltham
 ----
 Meta: Distance from station, &#189; mile.
 

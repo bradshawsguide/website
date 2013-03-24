@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/brighton-to-lewes
+Route:
+- routes/brighton-to-lewes
 ----
 Meta: 
 Population

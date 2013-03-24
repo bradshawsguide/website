@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/horsham-to-steyning-and-shoreham
+Route:
+- routes/horsham-to-steyning-and-shoreham
 ----
 Meta: A telegraph station.
 

@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
+Route:
+- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
 Meta: Distance from station, &#188; mile.
 

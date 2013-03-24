@@ -5,10 +5,10 @@ Title: Hammersmith
 County: Middlesex
 ----
 Company:
-- company/north-and-south-western-junction
+- companies/north-and-south-western-junction
 ----
-Line:
-- lines/hammersmith
+Route:
+- routes/acton-to-hammersmith
 ----
 Meta: Population
 : 24,519.

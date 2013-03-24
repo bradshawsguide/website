@@ -7,8 +7,8 @@ County: Isle of Wight
 Company:
 - companies/isle-of-wight
 ----
-Line:
-- lines/isle-of-wight
+Route:
+- routes/isle-of-wight
 ----
 Meta: Telegraph station at Sandown, 2 miles.
 

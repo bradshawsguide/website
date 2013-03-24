@@ -7,8 +7,8 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/guildford-to-farnham-and-alton
+Route:
+- routes/guildford-to-farnham-and-alton
 ----
 Meta:
 ----

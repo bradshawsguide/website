@@ -5,12 +5,12 @@ Title: Twickenham
 County: Middlesex
 ----
 Company:
-- company/london-and-south-western
+- companies/london-and-south-western
 ----
-Line:
-- lines/richmond-staines-and-windsor
-- lines/twickenham-to-kingston
-- lines/twickenham-to-shepperton
+Route:
+- routes/london-to-richmond-staines-wokingham-and-reading
+- routes/twickenham-to-kingston
+- routes/twickenham-to-shepperton
 ----
 Meta: A telegraph station.
 

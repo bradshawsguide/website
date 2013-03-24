@@ -7,9 +7,9 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/godalming-to-portsmouth
-- lines/midhurst
+Route:
+- routes/woking-to-godalming-and-portsmouth
+- routes/petersfield-to-midhurst
 ----
 Meta:
 ----

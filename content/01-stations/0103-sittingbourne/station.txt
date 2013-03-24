@@ -7,9 +7,9 @@ County: Kent
 Company:
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/london-to-chatham-and-dover
-- lines/sittingbourne-to-sheerness
+Route:
+- routes/london-to-chatham-and-dover
+- routes/sittingbourne-to-sheerness
 ----
 Meta: Market Day
 : Saturday. Much corn is shipped here.

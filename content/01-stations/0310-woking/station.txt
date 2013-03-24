@@ -7,9 +7,9 @@ County: Surrey
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/south-western
-- lines/godalming-to-portsmouth
+Route:
+- routes/london-to-southampton-dorchester-and-weymouth
+- routes/woking-to-godalming-and-portsmouth
 ----
 Meta: Distance from station, 1 mile
 

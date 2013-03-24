@@ -9,9 +9,9 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/ashford-to-canterbury-and-ramsgate
-- lines/deal
+Route:
+- routes/ashford-to-canterbury-and-ramsgate
+- routes/minster-junction-to-deal
 ----
 Meta: Distance from station, &#188; mile.
 

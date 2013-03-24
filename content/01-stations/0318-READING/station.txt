@@ -6,11 +6,11 @@ County: Berkshire
 ----
 Company:
 - companies/south-eastern
-- company/london-and-south-western
+- companies/london-and-south-western
 ----
-Line:
-- lines/reigate-to-reading
-- lines/richmond-staines-and-windsor
+Route:
+- routes/reigate-to-reading
+- routes/london-to-richmond-staines-wokingham-and-reading
 ----
 Meta:
 ----

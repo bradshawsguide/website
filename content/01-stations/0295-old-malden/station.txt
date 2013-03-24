@@ -7,8 +7,8 @@ County: Surrey
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/wimbledon-to-epsom-and-leatherhead
+Route:
+- routes/wimbledon-to-epsom-and-leatherhead
 ----
 Meta:
 ----

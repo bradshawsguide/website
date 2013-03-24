@@ -7,13 +7,13 @@ ShortTitle: Willesden Jct.
 County: Middlesex
 ----
 Company:
-- company/hampstead-junction
-- company/north-and-south-western-junction
+- companies/hampstead-junction
+- companies/north-and-south-western-junction
 ----
-Line:
-- lines/hampstead-junction
-- lines/willesden-junction-to-kew
+Route:
+- routes/camden-road-to-willesden-junction
+- routes/willesden-junction-to-kew
 ----
 Meta:
 ----
-Text:
+Text: *[Junction point of the [Hampstead Junction](/companies/hampstead-junction) and [North and South Western Junction](companies/north-and-south-western-junction) railways]*

@@ -9,10 +9,10 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/east-coastway
-- lines/hailsham
-- lines/eastbourne
+Route:
+- routes/haywards-heath-to-lewes-and-hastings
+- routes/polegate-to-hailsham
+- routes/polegate-to-eastbourne
 ----
 Meta: Distance from station, 1 mile. A telegraph station.
 

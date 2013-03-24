@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/tunbridge-to-hastings
+Route:
+- routes/tunbridge-to-hastings
 ----
 Meta: Distance from station, 3 mile.
 

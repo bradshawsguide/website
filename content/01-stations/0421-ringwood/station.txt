@@ -7,9 +7,9 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/south-western
-- lines/ringwood-to-christchurch
+Route:
+- routes/london-to-southampton-dorchester-and-weymouth
+- routes/ringwood-to-christchurch
 ----
 Meta: A telegraph station.
 

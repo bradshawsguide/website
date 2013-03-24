@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/deal
+Route:
+- routes/minster-junction-to-deal
 ----
 Meta: A telegraph station.
 

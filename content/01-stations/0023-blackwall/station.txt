@@ -7,8 +7,8 @@ County: Middlesex
 Company:
 - companies/london-and-blackwall
 ----
-Line:
-- lines/fenchurch-street-to-blackwall
+Route:
+- routes/fenchurch-street-to-blackwall
 ----
 Meta: Distance from station, &#188; mile.
 

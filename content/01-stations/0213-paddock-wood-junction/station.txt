@@ -9,9 +9,9 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
-- lines/maidstone
+Route:
+- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
+- routes/strood-to-maidstone-and-paddock-wood
 ----
 Meta: A telegraph station.
 

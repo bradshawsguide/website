@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/london-to-chatham-and-dover
+Route:
+- routes/london-to-chatham-and-dover
 ----
 Meta:
 ----

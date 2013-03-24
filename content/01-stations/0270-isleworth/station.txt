@@ -5,10 +5,10 @@ Title: Isleworth
 County: Middlesex
 ----
 Company:
-- company/london-and-south-western
+- companies/london-and-south-western
 ----
-Line:
-- lines/barnes-to-hounslow-and-feltham
+Route:
+- routes/barnes-to-hounslow-and-feltham
 ----
 Meta: Distance from station, &#190; mile.
 

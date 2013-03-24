@@ -7,9 +7,9 @@ County: Wiltshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/basingstoke-to-salisbury-and-exeter
-- lines/bishopstoke-to-salisbury
+Route:
+- routes/basingstoke-to-salisbury-and-exeter
+- routes/bishopstoke-to-salisbury
 ----
 Meta: Distance from station, &#188; mile. A telegraph station,
 

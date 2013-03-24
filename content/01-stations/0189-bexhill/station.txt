@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/east-coastway
+Route:
+- routes/haywards-heath-to-lewes-and-hastings
 ----
 Meta: Telegraph station at St. Leonards, 3 miles.
 

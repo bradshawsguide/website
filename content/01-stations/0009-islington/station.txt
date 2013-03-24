@@ -5,10 +5,10 @@ Title: Islington
 County: Middlesex
 ----
 Company:
-- company/north-london
+- companies/north-london
 ----
-Line:
-- lines/bow-to-chalk-farm
+Route:
+- routes/bow-to-chalk-farm
 ----
 Meta: Distance from station, &#189; mile.
 

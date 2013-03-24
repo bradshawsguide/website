@@ -7,8 +7,8 @@ County: Essex
 Company:
 - companies/london-tilbury-and-southend
 ----
-Line:
-- lines/fenchurch-street-to-tilbury-and-southend
+Route:
+- routes/fenchurch-street-to-tilbury-and-southend
 ----
 Meta: Telegraph station at Southend, 2&#189; miles.
 

@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/east-coastway
+Route:
+- routes/haywards-heath-to-lewes-and-hastings
 ----
 Meta: Distance from station, &#189; mile.
 

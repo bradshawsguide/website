@@ -8,9 +8,9 @@ Company:
 - companies/south-eastern
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
-- lines/london-to-brighton
+Route:
+- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
+- routes/london-to-brighton
 ----
 Meta: A telegraph station.
 ----

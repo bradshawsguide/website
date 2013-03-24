@@ -7,9 +7,9 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/south-western
-- lines/basingstoke-to-salisbury-and-exeter
+Route:
+- routes/london-to-southampton-dorchester-and-weymouth
+- routes/basingstoke-to-salisbury-and-exeter
 ----
 Meta: A telegraph station.
 

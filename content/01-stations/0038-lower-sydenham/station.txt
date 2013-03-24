@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/mid-kent
 ----
-Line:
-- lines/lewisham-to-beckenham-and-croydon
+Route:
+- routes/lewisham-to-beckenham-and-croydon
 ----
 Meta:
 ----

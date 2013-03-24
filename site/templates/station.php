@@ -24,7 +24,7 @@
                     </figure>
                 </aside>
 <?              endif ?>
-<?=             preg_replace('/^(<.+?>\s*)+?(\w+)/i', '\1<span class="first-word">\2</span>', kirbytext($page->text())); ?>
+<?=             kirbytext($page->text()); ?>
             </div>
 <?          endif ?>
 
@@ -40,8 +40,8 @@
                     <h1 class="hidden">Connecting Lines</h1>
                     <p>Lines serving this station:</p>
                     <ul>
-<?                      foreach(related($page->line()) as $lines): ?>
-                        <li>&#8212; <a href="<?= $lines->url() ?>"><?= smartypants($lines->title()) ?></a></li>
+<?                      foreach(related($page->line()) as $routes): ?>
+                        <li>&#8212; <a href="<?= $routes->url() ?>"><?= smartypants($routes->title()) ?></a></li>
 <?                      endforeach ?>
                     </ul>
                 </nav>

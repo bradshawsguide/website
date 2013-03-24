@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/newhaven
+Route:
+- routes/lewes-to-newhaven
 ----
 Meta: A telegraph station.
 

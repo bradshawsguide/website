@@ -8,10 +8,10 @@ Company:
 - companies/south-eastern
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
-- lines/london-to-chatham-and-dover
-- lines/maidstone
+Route:
+- routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
+- routes/london-to-chatham-and-dover
+- routes/strood-to-maidstone-and-paddock-wood
 ----
 Meta: A telegraph station.
 

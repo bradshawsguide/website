@@ -7,8 +7,8 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/netley
+Route:
+- routes/southampton-to-netley
 ----
 Meta:
 ----

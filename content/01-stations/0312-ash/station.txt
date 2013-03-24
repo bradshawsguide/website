@@ -8,9 +8,9 @@ Company:
 - companies/south-eastern
 - companies/london-and-south-western
 ----
-Line:
-- lines/reigate-to-reading
-- lines/guildford-to-farnham-and-alton
+Route:
+- routes/reigate-to-reading
+- routes/guildford-to-farnham-and-alton
 ----
 Meta: Distance from the station, 1 mile.
 
@@ -53,6 +53,6 @@ Text: ## Distances of Places from the Station.
 | Weyburn House      | 3       |
 | Winchfield Station | 9       |
 
-The line now diverges or turns more towards the north, to [Aldershott](aldershot) station (North Camp), and thence to [Farnborough](farnborough), about a mile from the station of the same name on the [South Western](/lines/south-western) line.
+The line now diverges or turns more towards the north, to [Aldershott](aldershot) station (North Camp), and thence to [Farnborough](farnborough), about a mile from the station of the same name on the [South Western](/routes/south-western) line.
 
 The line then proceeds through the valley of the Blackwater to [Blackwater](blackwater).

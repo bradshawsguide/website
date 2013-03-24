@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/sittingbourne-to-sheerness
+Route:
+- routes/sittingbourne-to-sheerness
 ----
 Meta:
 ----

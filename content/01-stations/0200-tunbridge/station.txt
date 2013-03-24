@@ -7,9 +7,9 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
-- lines/tunbridge-to-hastings
+Route:
+- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
+- routes/tunbridge-to-hastings
 ----
 Meta: A telegraph station.
 

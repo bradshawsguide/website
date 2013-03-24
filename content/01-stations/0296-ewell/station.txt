@@ -8,9 +8,9 @@ Company:
 - companies/london-brighton-and-south-coast
 - companies/london-and-south-western
 ----
-Line:
-- lines/croydon-to-epsom
-- lines/wimbledon-to-epsom-and-leatherhead
+Route:
+- routes/croydon-to-epsom
+- routes/wimbledon-to-epsom-and-leatherhead
 ----
 Meta:
 ----

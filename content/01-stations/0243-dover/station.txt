@@ -8,9 +8,9 @@ Company:
 - companies/london-chatham-and-dover
 - companies/south-eastern
 ----
-Line:
-- lines/london-to-chatham-and-dover
-- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
+Route:
+- routes/london-to-chatham-and-dover
+- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
 Meta: A telegraph station.
 

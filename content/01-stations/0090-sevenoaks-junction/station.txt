@@ -9,10 +9,10 @@ County: Kent
 Company:
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/london-to-chatham-and-dover
-- lines/sevenoaks-junction-to-sevenoaks
+Route:
+- routes/london-to-chatham-and-dover
+- routes/sevenoaks-junction-to-sevenoaks
 ----
 Meta:
 ----
-Text: A [line](/lines/sevenoaks) here turns off to the right, 8 miles long, passing through [Eynesford](eynesford) and [Shoreham](shoreham), to [Sevenoaks](sevenoaks).
+Text: A [line](/routes/sevenoaks) here turns off to the right, 8 miles long, passing through [Eynesford](eynesford) and [Shoreham](shoreham), to [Sevenoaks](sevenoaks).

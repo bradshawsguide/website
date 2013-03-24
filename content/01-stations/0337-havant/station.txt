@@ -8,9 +8,9 @@ Company:
 - companies/london-brighton-and-south-coast
 - companies/london-and-south-western
 ----
-Line:
-- lines/west-coastway
-- lines/godalming-to-portsmouth
+Route:
+- routes/west-coastway
+- routes/woking-to-godalming-and-portsmouth
 ----
 Meta: A telegraph station.
 

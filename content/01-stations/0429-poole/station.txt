@@ -7,8 +7,8 @@ County: Dorsetshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/poole-junction-to-poole
+Route:
+- routes/poole-junction-to-poole
 ----
 Meta: Distance from station, 2 miles.
 

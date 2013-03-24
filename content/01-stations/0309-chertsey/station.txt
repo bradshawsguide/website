@@ -7,8 +7,8 @@ County: Surrey
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/weybridge-to-chertsey
+Route:
+- routes/weybridge-to-chertsey
 ----
 Meta: Distance from station, &#189; mile.
 

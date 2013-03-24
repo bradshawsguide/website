@@ -7,9 +7,9 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/bishopstoke-to-fareham
-- lines/bishops-waltham
+Route:
+- routes/bishopstoke-to-fareham
+- routes/bishops-waltham
 ----
 Meta:
 ----

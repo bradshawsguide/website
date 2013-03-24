@@ -1,9 +1,0 @@
-﻿Section: 1
-----
-Title: Hampstead Junction
-----
-Company: Hampstead Junction Railway
-----
-Type: Line
-----
-Text:

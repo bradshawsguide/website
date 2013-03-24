@@ -9,8 +9,8 @@ County: Somerset
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/basingstoke-to-salisbury-and-exeter
+Route:
+- routes/basingstoke-to-salisbury-and-exeter
 ----
 Meta:
 ----

@@ -5,10 +5,10 @@ Title: Wraysbury
 County: Berkshire
 ----
 Company:
-- company/london-and-south-western
+- companies/london-and-south-western
 ----
-Line:
-- lines/windsor
+Route:
+- routes/staines-to-windsor
 ----
 Meta:
 ----

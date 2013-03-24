@@ -7,8 +7,9 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/south-western
+Route:
+- routes/london-to-southampton-dorchester-and-weymouth
+- routes/southampton-to-netley
 ----
 Meta: A telegraph station.
 

@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/lewisham-to-chislehurst
+Route:
+- routes/lewisham-to-chislehurst
 ----
 Meta:
 ----

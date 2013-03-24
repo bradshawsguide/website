@@ -8,9 +8,9 @@ Company:
 - companies/london-chatham-and-dover
 - companies/south-eastern
 ----
-Line:
-- lines/faversham-to-ramsgate
-- lines/ashford-to-canterbury-and-ramsgate
+Route:
+- routes/faversham-to-ramsgate
+- routes/ashford-to-canterbury-and-ramsgate
 ----
 Meta: A telegraph station.
 

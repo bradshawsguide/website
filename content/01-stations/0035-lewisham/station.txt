@@ -10,10 +10,10 @@ Company:
 - companies/south-eastern
 - companies/mid-kent
 ----
-Line:
-- lines/north-kent
-- lines/lewisham-to-chislehurst
-- lines/lewisham-to-beckenham
+Route:
+- routes/north-kent
+- routes/lewisham-to-chislehurst
+- routes/lewisham-to-beckenham
 ----
 Meta: A telegraph station.
 

@@ -7,9 +7,9 @@ County: Kent
 Company:
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/london-to-chatham-and-dover
-- lines/faversham-to-ramsgate
+Route:
+- routes/london-to-chatham-and-dover
+- routes/faversham-to-ramsgate
 ----
 Meta: A telegraph station
 

@@ -7,10 +7,10 @@ County: Hampshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/bishopstoke-to-fareham
-- lines/fareham-to-gosport
-- lines/fareham-to-portsmouth
+Route:
+- routes/bishopstoke-to-fareham
+- routes/fareham-to-gosport
+- routes/fareham-to-portsmouth
 ----
 Meta: A telegraph station.
 

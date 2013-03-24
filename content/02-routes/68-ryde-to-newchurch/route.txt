@@ -1,0 +1,26 @@
+﻿Section: 1
+----
+Title: First Route--Ryde to Newchurch
+----
+Company: Isle of Wight
+----
+Type: Line
+----
+Text:
+
+The best part of the first or eastern route may be done by means of the Ryde and Cowes coaches in one day, for 9s. or 10s.; or fly to hold four may be had for a guinea a day.
+
+|                                                                          | Miles    |
+| ------------------------------------------------------------------------ | -------- |
+| [Ryde](/stations/ryde) to Brading                                        | 4        |
+| [Brading](/stations/brading) to Sandown                                  | 2        |
+| [Sandown](/stations/sandown) to Shanklin                                 | 3        |
+| [Shanklin](/stations/shanklin) to Succombe                               | 2        |
+| Succombe to Bonchurch                                                    | 1        |
+| [Bonchurch](/stations/bonchurch) to Ventnor                              | 2        |
+| [Ventnor](/stations/ventnor) to St. Lawrence                             | 2        |
+| [St. Lawrence](/stations/st-lawrence) to Niton                           | 3        |
+| [Niton](/stations/niton) to Blackgang                                    | 2        |
+| [Blackgang](/stations/chale) to Gatcombe                                 | 4        |
+| Gatcombe to Ryde                                                         | 8        |
+| N.B.--[Blackgang](/stations/chale) to [Freshwater](/stations/freshwater) | 14&#189; |

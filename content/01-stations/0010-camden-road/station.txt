@@ -7,11 +7,11 @@ ShortTitle: Camden Rd.
 County: Middlesex
 ----
 Company:
-- company/north-london
+- companies/north-london
 ----
-Line:
-- lines/bow-to-chalk-farm
-- lines/hampstead-junction
+Route:
+- routes/bow-to-chalk-farm
+- routes/camden-road-to-willesden-junction
 ----
 Meta: Telegraph station at Camden Town.
 

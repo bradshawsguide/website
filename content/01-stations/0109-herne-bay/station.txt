@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/faversham-to-ramsgate
+Route:
+- routes/faversham-to-ramsgate
 ----
 Meta: Distance from Sturry station, &#32; miles.
 

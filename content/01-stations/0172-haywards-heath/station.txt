@@ -7,9 +7,9 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/london-to-brighton
-- lines/east-coastway
+Route:
+- routes/london-to-brighton
+- routes/haywards-heath-to-lewes-and-hastings
 ----
 Meta: A telegraph station.
 ----

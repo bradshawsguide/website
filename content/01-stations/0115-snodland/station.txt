@@ -7,8 +7,8 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/maidstone
+Route:
+- routes/strood-to-maidstone-and-paddock-wood
 ----
 Meta: A telegraph station.
 ----

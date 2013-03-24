@@ -7,8 +7,8 @@ County: Hampshire
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/reigate-to-reading
+Route:
+- routes/reigate-to-reading
 ----
 Meta: A telegraph station.
 

@@ -9,8 +9,8 @@ County: Surrey
 Company:
 - companies/london-chatham-and-dover
 ----
-Line:
-- lines/crystal-palace
+Route:
+- routes/brixton-to-crystal-palace
 ----
 Meta: 
 ----

@@ -1,0 +1,18 @@
+﻿Section: 1
+----
+Title: Portswood
+----
+County: Hampshire
+----
+Company:
+- companies/london-and-south-western
+----
+Route:
+- routes/london-to-southampton-dorchester-and-weymouth
+- routes/southampton-to-netley
+----
+Wiki: http://en.wikipedia.org/wiki/St_Denys_railway_station
+----
+Meta:
+----
+Text: A line of railway, about three miles long, extends from here along the eastern shores of the Southampton Water to [Netley Abbey](netley-abbey).

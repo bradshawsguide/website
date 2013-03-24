@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/three-bridges-to-horsham-and-arundel
+Route:
+- routes/three-bridges-to-horsham-and-arundel
 ----
 Meta:
 ----

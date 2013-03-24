@@ -7,10 +7,10 @@ County: Kent
 Company:
 - companies/south-eastern
 ----
-Line:
-- lines/charing-cross-and-london-bridge-to-folkestone-and-dover
-- lines/ashford-to-canterbury-and-ramsgate
-- lines/ashford-to-hastings
+Route:
+- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
+- routes/ashford-to-canterbury-and-ramsgate
+- routes/ashford-to-hastings
 ----
 Meta: A telegraph station.
 

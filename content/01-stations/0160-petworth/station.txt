@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/pullborough-to-petworth
+Route:
+- routes/pullborough-to-petworth
 ----
 Meta: A telegraph station.
 

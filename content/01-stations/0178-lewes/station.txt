@@ -7,11 +7,11 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/east-coastway
-- lines/lewes-to-uckfield
-- lines/newhaven
-- lines/brighton-to-lewes
+Route:
+- routes/haywards-heath-to-lewes-and-hastings
+- routes/lewes-to-uckfield
+- routes/lewes-to-newhaven
+- routes/brighton-to-lewes
 ----
 Meta: Distance from station, &#189; mile. A telegraph station.
 

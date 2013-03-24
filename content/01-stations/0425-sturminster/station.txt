@@ -7,8 +7,8 @@ County: Dorsetshire
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/wimborne-to-blandford
+Route:
+- routes/wimborne-to-blandford
 ----
 Meta:
 ----

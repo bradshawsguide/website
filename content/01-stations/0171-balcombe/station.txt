@@ -7,8 +7,8 @@ County: Sussex
 Company:
 - companies/london-brighton-and-south-coast
 ----
-Line:
-- lines/london-to-brighton
+Route:
+- routes/london-to-brighton
 ----
 Meta: Distance from station, 1 mile.
 

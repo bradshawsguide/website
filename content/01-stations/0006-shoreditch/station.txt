@@ -5,10 +5,10 @@ Title: Shoreditch
 County: Middlesex
 ----
 Company:
-- company/north-london
+- companies/north-london
 ----
-Line:
-- lines/dalston-to-broad-street
+Route:
+- routes/dalston-to-broad-street
 ----
 Meta:
 ----

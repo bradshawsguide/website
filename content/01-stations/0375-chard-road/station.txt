@@ -9,9 +9,9 @@ County: Somerset
 Company:
 - companies/london-and-south-western
 ----
-Line:
-- lines/west-of-england
-- lines/chard-road-to-chard
+Route:
+- routes/west-of-england
+- routes/chard-road-to-chard
 ----
 Meta:
 ----
