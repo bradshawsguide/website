@@ -1,11 +1,10 @@
 var addEvent=function(){return document.addEventListener?function(a,c,d){if(a&&a.nodeName||a===window)a.addEventListener(c,d,!1);else if(a&&a.length)for(var b=0;b<a.length;b++)addEvent(a[b],c,d)}:function(a,c,d){if(a&&a.nodeName||a===window)a.attachEvent("on"+c,function(){return d.call(a,window.event)});else if(a&&a.length)for(var b=0;b<a.length;b++)addEvent(a[b],c,d)}}();
 
 // History Ajax Links
-historyAjax = [
-    'config' => [
-        'title' => 'History AJAX'
-    ]
-];
+historyAjax = [];
+historyAjax.config = {
+	title: "Bradshaw’s Handbook for Tourists in Great Britain & Ireland"
+};
 (function() {
     function findUpTag(el, tag) {
         while (el.parentNode) {
@@ -57,7 +56,7 @@ historyAjax = [
               document.getElementById('main').innerHTML = req.responseText;
               var title = main.getElementsByTagName('h1')[0];
               if (title) {
-                  document.title = historyAjax.config.title+' - '+title.innerHTML.replace('&amp;', '&');
+                  document.title = title.innerHTML.replace('&#38;', '&')+' - '+historyAjax.config.title;
               }
           }
         }
