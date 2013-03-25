@@ -1,5 +1,7 @@
 Title: London Summary
 ----
+Type: child
+----
 Text: Which we intend shall include, irrespective of  position, whatever characteristics give London its individuality.
 
 ## Size

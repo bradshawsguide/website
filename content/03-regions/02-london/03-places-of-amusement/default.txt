@@ -1,5 +1,7 @@
 Title: Places of Amusement, &c.
 ----
+Type: child
+----
 Text: ## Terms and Times of Admission to the following Buildings, Institutions, &c., in London and its suburbs.
 
 * Antiquarian Society, Somerset House, by letter to the Secretary.

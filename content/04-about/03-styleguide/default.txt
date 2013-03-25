@@ -1,5 +1,7 @@
 Title: Style Guide
 ----
+Type: child
+----
 Text: Base markup styles used throughout this site.
 
 ## Second-Level Header [Linked](#)

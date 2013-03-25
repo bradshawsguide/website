@@ -1,5 +1,7 @@
 Title: About
 ----
+Type: parent
+----
 Text: Much like the BBC television series 'Great British Train Journeys' presented by Michael Portillo, this site is inspired by the work of Victoria cartographer George Bradshaw (29 July 1801 - 6 September 1853).
 
 ## Publisher's Note:
