@@ -1,6 +1,5 @@
-<? snippet('_header') ?>
+<? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
 
-    <main role="main" id="main">
         <article class="container">
             <header>
                 <hgroup>
@@ -57,6 +56,5 @@
 <?          snippet('shorturl') ?>
 <?          snippet('prevnext') ?>
         </article>
-    </main><!--/@main-->
 
-<? snippet('_footer') ?>
+<? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>

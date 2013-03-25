@@ -1,4 +1,4 @@
-<? snippet('_header') ?>
+<? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
 
 <?
     $search = new search(array(
@@ -11,7 +11,6 @@
     $results = $search->results();
 ?>
 
-    <main role="main" id="main">
         <section class="container">
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
@@ -37,6 +36,5 @@
             <p>No results for <strong><?= html($search->query()) ?></strong></p>
 <?          endif ?>
         </section><!--/.container-->
-    </main><!--/@main-->
 
-<? snippet('_footer') ?>
+<? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>

@@ -1,6 +1,5 @@
-<? snippet('_header') ?>
+<? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
 
-    <main role="main" id="main">
         <section class="container">
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
@@ -40,6 +39,5 @@
 <?php           endforeach ?>
             </section>
         </section><!--/.container-->
-    </main><!--/@main-->
 
-<? snippet('_footer') ?>
+<? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>
