@@ -86,8 +86,8 @@
 }
 @media screen and (min-width: 40em) {
     .prose > * {
-        font-size: 112.5%; /* 18px */
-        line-height: 1.7778; /* 27px */
+        font-size: 125%; /* 20px */
+        line-height: 1.6; /* 27px */
     }
 }
 
@@ -210,22 +210,6 @@ footer.meta {
         border-top: 1px solid fade(@color-text, 25%);
         padding-top: 1.5em; /* 24px */
         overflow: hidden;
-        section,
-        nav {
-            width: 50%;
-            h1 {
-                margin-top: 0;
-            }
-        }
-        section {
-            border-right: 3px double fade(@color-text, 25%);
-            padding-right: 5%;
-            float: left;
-        }
-        section + nav {
-            padding-left: 5%;
-            float: right;
-        }
     }
 }
 
@@ -385,7 +369,7 @@ ul.listing {
     }
 }
 @media screen and (min-width: 20em) {
-    ul.counties, ul.stations {
+    ul.regions, ul.stations {
         li {
             width: 50%;
             float: left;
@@ -393,14 +377,14 @@ ul.listing {
     }
 }
 @media screen and (min-width: 30em) {
-    ul.counties, ul.stations {
+    ul.regions, ul.stations {
         li {
             width: 33%;
         }
     }
 }
 @media screen and (min-width: 40em) {
-    ul.counties, ul.stations {
+    ul.regions, ul.stations {
         li {
             width: 25%;
         }
