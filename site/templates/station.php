@@ -5,7 +5,7 @@
             <header>
                 <hgroup>
                     <h1><?= smartypants($page->title()) ?></h1>
-                    <h2><a href="/counties/<?= str::urlify($page->region()) ?>"><?= smartypants($page->region()) ?></a></h2>
+                    <h2><a href="/regions/<?= str::urlify($page->region()) ?>"><?= smartypants($page->region()) ?></a></h2>
                 </hgroup>
             </header>
 
