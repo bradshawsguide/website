@@ -1,4 +1,33 @@
-var addEvent=function(){return document.addEventListener?function(a,c,d){if(a&&a.nodeName||a===window)a.addEventListener(c,d,!1);else if(a&&a.length)for(var b=0;b<a.length;b++)addEvent(a[b],c,d)}:function(a,c,d){if(a&&a.nodeName||a===window)a.attachEvent("on"+c,function(){return d.call(a,window.event)});else if(a&&a.length)for(var b=0;b<a.length;b++)addEvent(a[b],c,d)}}();
+// Open links in place in standalone mode
+// https://gist.github.com/irae/1042167
+(function(document,navigator,standalone) {
+    if ((standalone in navigator) && navigator[standalone]) {
+        var curnode, location=document.location, stop=/^(a|html)$/i;
+        document.addEventListener('click', function(e) {
+            curnode=e.target;
+            while (!(stop).test(curnode.nodeName)) {
+                curnode=curnode.parentNode;
+            }
+            if('href' in curnode) {
+                e.preventDefault();
+                location.href = curnode.href;
+            }
+        },false);
+    }
+})(document,window.navigator,'standalone');
+
+// Add Event
+var addEvent = function () {
+    return document.addEventListener ? function (a, c, d) {
+        if (a && a.nodeName || a === window) a.addEventListener(c, d, !1);
+        else if (a && a.length) for (var b = 0; b < a.length; b++) addEvent(a[b], c, d)
+    } : function (a, c, d) {
+        if (a && a.nodeName || a === window) a.attachEvent("on" + c, function () {
+                return d.call(a, window.event)
+            });
+        else if (a && a.length) for (var b = 0; b < a.length; b++) addEvent(a[b], c, d)
+    }
+}();
 
 // History Ajax Links
 historyAjax = [];
