@@ -2,7 +2,7 @@
 ----
 Title: Bridport
 ----
-County: Dorsetshire
+Region: Dorsetshire
 ----
 Company:
 ----

@@ -2,7 +2,7 @@
 ----
 Title: Spettisbury
 ----
-County: Dorsetshire
+Region: Dorsetshire
 ----
 Company:
 - companies/london-and-south-western

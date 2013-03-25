@@ -4,7 +4,7 @@ Title: Poole Junction
 ----
 ShortTitle: Poole Jct.
 ----
-County: Dorsetshire
+Region: Dorsetshire
 ----
 Company:
 - companies/london-and-south-western

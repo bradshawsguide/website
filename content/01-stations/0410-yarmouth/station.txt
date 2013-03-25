@@ -2,7 +2,7 @@
 ----
 Title: Yarmouth
 ----
-County: Isle of Wight
+Region: Isle of Wight
 ----
 Company:
 ----

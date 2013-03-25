@@ -2,7 +2,7 @@
 ----
 Title: Calbourne
 ----
-County: Isle of Wight
+Region: Isle of Wight
 ----
 Company:
 ----
