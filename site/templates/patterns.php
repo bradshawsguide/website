@@ -45,7 +45,7 @@
         }
     </style>
 
-    <main role="main">
+    <main role="main" id="main">
         <section class="container">
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>

@@ -1,6 +1,6 @@
 <? snippet('_header') ?>
 
-    <main role="main">
+    <main role="main" id="main">
         <section class="container cover">
 <?=         kirbytext($page->text()) ?>
         </section><!--/.container-->

@@ -1,6 +1,6 @@
 <? snippet('_header') ?>
 
-    <main role="main">
+    <main role="main" id="main">
         <article class="container">
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
