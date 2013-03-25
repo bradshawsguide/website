@@ -70,7 +70,7 @@ historyAjax.config = {
                 if (link.tagName !== 'A') {
                     link = findUpTag(link, "A");
                 }
-                if (link && link.href.indexOf(document.domain) !== -1 && link.target == '') {
+                if (link && link.href.indexOf(document.domain) !== -1 && link.target == '' && link.href.indexOf('#') == -1) {
                     history.pushState({ajax: true}, null, link.href);
                     loadPage(link.href);
                     e.preventDefault();
