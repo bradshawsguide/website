@@ -1,48 +1,151 @@
-# Kirby .htaccess
-
-# rewrite rules
+# ----------------------------------------------------------------------
+# Kirby URL rewrite rules
+# ----------------------------------------------------------------------
 <IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteBase /
 
-# enable awesome urls. i.e.: 
-# http://yourdomain.com/about-us/team
-RewriteEngine on
+# Block text files in the content folder from being accessed directly
+  RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
 
-# make sure to set the RewriteBase correctly
-# if you are running the site in a subfolder.
-# Otherwise links or the entire site will break.
-# 
-# If your homepage is http://yourdomain.com/mysite
-# Set the RewriteBase to:
-# 
-# RewriteBase /mysite
-# 
-RewriteBase /
+# Block all files in the site folder from being accessed directly
+  RewriteRule ^site/(.*) error [R=301,L]
 
-# block text files in the content folder from being accessed directly
-RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
+# Block all files in the kirby folder from being accessed directly
+  RewriteRule ^kirby/(.*) error [R=301,L]
 
-# block all files in the site folder from being accessed directly
-RewriteRule ^site/(.*) error [R=301,L]
+# Make panel links work
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^panel/(.*) panel/index.php [L]
 
-# block all files in the kirby folder from being accessed directly
-RewriteRule ^kirby/(.*) error [R=301,L]
-
-# make panel links work
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^panel/(.*) panel/index.php [L]
-
-# make site links work
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*) index.php [L]
- 
+# Make site links work
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*) index.php [L]
 </IfModule>
 
 
-# Additional recommended values
-# Remove comments for those you want to use. 
+# ----------------------------------------------------------------------
+# UTF-8 Encoding
+# ----------------------------------------------------------------------
+# Use utf-8 encoding for anything served text/plain or text/html
+  AddDefaultCharset utf-8
 
-AddDefaultCharset UTF-8
+# Force utf-8 for a number of file formats
+  AddCharset utf-8 .html .php .css .js .xml .json .rss
 
-php_flag short_open_tag on 
+
+# ----------------------------------------------------------------------
+# PHP Settings
+# ----------------------------------------------------------------------
+# Use php5
+  AddHandler php5-script .php
+
+# Don't allow PHP short tags
+  php_flag short_open_tag on
+
+# Close a major security hole that is abused by most XSS attacks
+  php_flag register_globals Off
+
+
+# ----------------------------------------------------------------------
+# Better website experience for IE users
+# ----------------------------------------------------------------------
+# Force the latest IE version, in various cases when it may fall back to IE7 mode
+# Use ChromeFrame if it's installed for a better experience for the poor IE folk
+
+<IfModule mod_headers.c>
+  Header set X-UA-Compatible "IE=Edge,chrome=1"
+  <FilesMatch "\.(js|css|gif|png|jpe?g|pdf|xml|oga|ogg|m4a|ogv|mp4|m4v|webm|svg|svgz|eot|ttf|otf|woff|ico|webp|appcache|manifest|htc|crx|xpi|safariextz|vcf)$" >
+  # mod_headers can't match by content-type, but we don't want to send this header on everything...
+    Header unset X-UA-Compatible
+  </FilesMatch>
+</IfModule>
+
+
+# ----------------------------------------------------------------------
+# Proper MIME type for all files
+# ----------------------------------------------------------------------
+# Images
+  AddType image/x-icon                             ico
+  AddType image/webp                               webp
+  AddType image/svg+xml                            svg
+
+# Other
+  AddType application/javascript                   js
+  AddType application/atom+xml                     xml
+  AddType application/opensearchdescription+xml    xml
+  AddType text/cache-manifest                      appcache manifest
+
+
+# ----------------------------------------------------------------------
+# Performance
+# ----------------------------------------------------------------------
+<IfModule mod_headers.c>
+# FileETag None is not enough for every server.
+  Header unset ETag
+</IfModule>
+
+# Since we're sending far-future expires, we don't need ETags for static content.
+  FileETag None
+
+<IfModule mod_expires.c>
+# Set expires headers
+  ExpiresActive on
+
+# Perhaps better to whitelist expires rules? Perhaps.
+  ExpiresDefault                          "access plus 1 month"
+
+# HTML
+  ExpiresByType text/html                 "access plus 10 minutes"
+  
+# Data
+  ExpiresByType text/xml                  "access plus 0 seconds"
+  ExpiresByType application/xml           "access plus 0 seconds"
+  ExpiresByType application/json          "access plus 0 seconds"
+
+# RSS feeds
+  ExpiresByType application/rss+xml       "access plus 1 hour"
+  ExpiresByType application/atom+xml      "access plus 1 hour"
+
+# Favicon (cannot be renamed)
+  ExpiresByType image/x-icon              "access plus 1 month" 
+
+# Images
+  ExpiresByType image/gif                 "access plus 1 month"
+  ExpiresByType image/png                 "access plus 1 month"
+  ExpiresByType image/jpeg                "access plus 1 month"
+
+# CSS and JavaScript
+# ExpiresByType text/css                  "access plus 2 months"
+# ExpiresByType application/javascript    "access plus 2 months"
+</IfModule>
+
+
+# ----------------------------------------------------------------------
+# GZIP Compression
+# ----------------------------------------------------------------------
+<IfModule mod_deflate.c>
+# Force deflate for mangled headers
+  <IfModule mod_setenvif.c>
+    <IfModule mod_headers.c>
+      SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+      RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
+    </IfModule>
+  </IfModule>
+
+# Compress all output labeled with one of the following MIME-types
+  AddOutputFilterByType DEFLATE application/atom+xml \
+                                application/javascript \
+                                application/json \
+                                application/rss+xml \
+                                application/xhtml+xml \
+                                application/xml \
+                                image/svg+xml \
+                                image/x-icon \
+                                text/css \
+                                text/html \
+                                text/plain \
+                                text/xml
+</IfModule>
