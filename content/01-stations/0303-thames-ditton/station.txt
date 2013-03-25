@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Thames Ditton
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-and-south-western

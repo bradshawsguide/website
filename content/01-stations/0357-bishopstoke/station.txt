@@ -2,7 +2,7 @@
 ----
 Title: Bishopstoke
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western
@@ -12,7 +12,8 @@ Route:
 - routes/bishopstoke-to-salisbury
 - routes/bishopstoke-to-fareham
 ----
-Wiki: http://en.wikipedia.org/wiki/Eastleigh_railway_station
+Related:
+- (link: http://en.wikipedia.org/wiki/Eastleigh_railway_station text: Eastleigh railway station)
 ----
 Meta: A telegraph station.
 ----

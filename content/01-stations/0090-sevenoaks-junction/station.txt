@@ -4,7 +4,7 @@ Title: Sevenoaks Junction
 ----
 ShortTitle: Sevenoaks Jct.
 ----
-County: Kent
+Region: Kent
 ----
 Company:
 - companies/london-chatham-and-dover

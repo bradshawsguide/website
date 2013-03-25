@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Waterloo Bridge
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-and-south-western
@@ -10,8 +10,9 @@ Company:
 Route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/london-to-richmond-staines-wokingham-and-reading
-----
-Wiki: http://en.wikipedia.org/wiki/London_Waterloo_station
+---- 
+Related:
+- (link: http://en.wikipedia.org/wiki/London_Waterloo_station text: London Waterloo railway station)
 ----
 Meta:
 ----

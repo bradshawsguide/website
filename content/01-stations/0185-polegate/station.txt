@@ -4,7 +4,7 @@ Title: Polegate (Willingdon)
 ----
 ShortTitle: Polegate
 ----
-County: Sussex
+Region: Sussex
 ----
 Company:
 - companies/london-brighton-and-south-coast

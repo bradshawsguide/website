@@ -2,7 +2,7 @@ Section: 2
 ----
 Title: Reading
 ----
-County: Berkshire
+Region: Berkshire
 ----
 Company:
 - companies/south-eastern

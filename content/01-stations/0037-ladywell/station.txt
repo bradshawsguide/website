@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Ladywell
 ----
-County: Kent
+Region: Kent
 ----
 Company:
 - companies/mid-kent

@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: New Brompton
 ----
-County: Kent
+Region: Kent
 ----
 Company:
 - companies/london-chatham-and-dover

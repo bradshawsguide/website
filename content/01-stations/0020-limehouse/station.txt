@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Limehouse
 ----
-County: Middlesex
+Region: Middlesex
 ----
 Company:
 - companies/london-and-blackwall
@@ -12,4 +12,4 @@ Route:
 ----
 Meta:
 ----
-Text: Particulars of which [can be found here](/counties/london/london-bridge-to-herne-bay#limehouse).
+Text: Particulars of which [can be found here](/regions/london/london-bridge-to-herne-bay#limehouse).

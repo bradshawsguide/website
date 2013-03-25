@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Hammersmith
 ----
-County: Middlesex
+Region: Middlesex
 ----
 Company:
 - companies/north-and-south-western-junction

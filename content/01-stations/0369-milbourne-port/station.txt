@@ -2,7 +2,7 @@
 ----
 Title: Milbourne Port
 ----
-County: Somerset
+Region: Somerset
 ----
 Company:
 - companies/london-and-south-western

@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Wokingham
 ----
-County: Berkshire
+Region: Berkshire
 ----
 Company:
 - companies/south-eastern

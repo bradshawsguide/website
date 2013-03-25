@@ -2,14 +2,14 @@
 ----
 Title: Andover
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western
 ----
 Route:
 - routes/basingstoke-to-salisbury-and-exeter
-- routes/andover-and-redbridge
+- routes/andover-to-redbridge
 ----
 Meta: Distance from station, 1 mile.
 

@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Peckham Rye
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-chatham-and-dover

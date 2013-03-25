@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Staplehurst
 ----
-County: Kent
+Region: Kent
 ----
 Company:
 - companies/south-eastern

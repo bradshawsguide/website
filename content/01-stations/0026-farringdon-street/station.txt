@@ -4,7 +4,7 @@ Title: Farringdon Street
 ----
 ShortTitle: Farringdon St.
 ----
-County: 
+Region: 
 ----
 Company:
 - companies/london-chatham-and-dover

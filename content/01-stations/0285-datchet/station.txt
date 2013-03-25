@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Datchet
 ----
-County: Buckinghamshire
+Region: Buckinghamshire
 ----
 Company:
 - companies/london-and-south-western

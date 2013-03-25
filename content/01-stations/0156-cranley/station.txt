@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Cranley
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-brighton-and-south-coast
@@ -10,7 +10,8 @@ Company:
 Route:
 - routes/horsham-to-guildford
 ----
-Wiki: http://en.wikipedia.org/wiki/Cranleigh_railway_station
+Related:
+- (link: http://en.wikipedia.org/wiki/Cranleigh_railway_station text: Cranleigh railway station)
 ----
 Meta:
 ----

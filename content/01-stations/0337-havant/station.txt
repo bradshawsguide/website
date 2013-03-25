@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Havant
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-brighton-and-south-coast

@@ -2,7 +2,7 @@
 ----
 Title: Portswood
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western
@@ -11,7 +11,8 @@ Route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/southampton-to-netley
 ----
-Wiki: http://en.wikipedia.org/wiki/St_Denys_railway_station
+Related:
+- (link: http://en.wikipedia.org/wiki/St_Denys_railway_station text: St. Denys railway station)
 ----
 Meta:
 ----

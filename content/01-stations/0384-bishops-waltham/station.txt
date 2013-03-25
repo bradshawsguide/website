@@ -2,13 +2,13 @@
 ----
 Title: Bishop's Waltham
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western
 ----
 Route:
-- routes/bishops-waltham
+- routes/botley-to-bishops-waltham
 ----
 Meta: Telegraph station at Botley.
 ----

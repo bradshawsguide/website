@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Norwood, Upper
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/south-eastern
@@ -12,7 +12,8 @@ Route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 - routes/london-to-brighton
 ----
-Wiki: http://en.wikipedia.org/wiki/Norwood_Junction_railway_station
+Related:
+- (link: http://en.wikipedia.org/wiki/Norwood_Junction_railway_station text: Norwood Junction railway station)
 ----
 Meta: Distance from station, 1 &#189; mile.
 

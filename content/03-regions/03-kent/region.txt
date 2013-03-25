@@ -1,0 +1,11 @@
+Title: Kent
+----
+Country: England
+----
+Text: This county forms the south-eastern extremity of the island of Great Britain, bounded on the north by the Thames; on the east and south-east by the German Ocean and the Straits of Dover; on the south-west by the English Channel and county of Sussex; and on the west by that of Surrey.
+
+From the diversity of its surface, the noble rivers by which it is watered, the richness and variety of its inland scenery, and the more sublime beauties of its sea coast, this county may be said to rank among the most interesting portions of our island; while the numerous remains of antiquity, the splendid cathedrals, venerable castles, and the mouldering monastic edifices, are connected with some of the most remarkable events in English history.
+
+Two chains of hills, called the Upper and Lower, run though the middle of the county from east to west, generally about eight miles asunder; the northern range is part of the extensive ridge which runs through Hampshire and Surrey to Dover, where it terminates in the well known white cliffs. Beyond the southern or lower range is what is called the Weald of Kent, a large tract of rich and fertile land. Kent is essentially and almost solely an agricultural county. The Isle of Thanet is remarkably fertile, but in the Isle of Sheppey only one-fifth of the land is arable; the rest consists of marsh and pasture land, and is used for breeding and fattening sheep and cattle.
+
+The Thames, the Medway, the Stour, the Rother, and the Darent and the principle rivers; while numerous small streams diffuse fertility in every direction.

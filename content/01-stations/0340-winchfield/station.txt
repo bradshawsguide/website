@@ -2,7 +2,7 @@
 ----
 Title: Winchfield
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western

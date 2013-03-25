@@ -2,7 +2,7 @@
 ----
 Title: Netley Abbey
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western

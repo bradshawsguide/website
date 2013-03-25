@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Broad Street
 ----
-County: Middlesex
+Region: Middlesex
 ----
 Company:
 - companies/north-london

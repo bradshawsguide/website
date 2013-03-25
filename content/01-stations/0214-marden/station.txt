@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Marden
 ----
-County: Kent
+Region: Kent
 ----
 Company:
 - companies/south-eastern

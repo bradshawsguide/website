@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Barking
 ----
-County: Essex
+Region: Essex
 ----
 Company:
 - companies/london-tilbury-and-southend

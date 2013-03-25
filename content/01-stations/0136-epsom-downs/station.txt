@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Epsom Downs
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-brighton-and-south-coast

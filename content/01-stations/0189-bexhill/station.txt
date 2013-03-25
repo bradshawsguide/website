@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Bexhill
 ----
-County: Sussex
+Region: Sussex
 ----
 Company:
 - companies/london-brighton-and-south-coast

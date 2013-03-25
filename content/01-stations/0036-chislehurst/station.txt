@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Chislehurst
 ----
-County: Kent
+Region: Kent
 ----
 Company:
 - companies/south-eastern

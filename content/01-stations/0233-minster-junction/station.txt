@@ -4,7 +4,7 @@ Title: Minster Junction
 ----
 ShortTitle: Minster Jct.
 ----
-County: Kent
+Region: Kent
 ----
 Company:
 - companies/south-eastern

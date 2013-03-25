@@ -4,7 +4,7 @@ Title: Ashford (Middlesex)
 ----
 ShortTitle: Ashford (Middx.)
 ----
-County: Middlesex
+Region: Middlesex
 ----
 Company:
 - companies/london-and-south-western

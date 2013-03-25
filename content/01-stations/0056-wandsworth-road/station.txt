@@ -4,7 +4,7 @@ Title: Wandsworth Road
 ----
 ShortTitle: Wandsworth Rd.
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-chatham-and-dover

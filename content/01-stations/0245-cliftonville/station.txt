@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Cliftonville
 ----
-County: Sussex
+Region: Sussex
 ----
 Company:
 - companies/london-brighton-and-south-coast
@@ -10,8 +10,9 @@ Company:
 Route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 ----
-Meta:
+Related:
+- (link: http://en.wikipedia.org/wiki/Hove_railway_station text: Hove railway station)
 ----
-Wiki: http://en.wikipedia.org/wiki/Hove_railway_station
+Meta:
 ----
 Text:

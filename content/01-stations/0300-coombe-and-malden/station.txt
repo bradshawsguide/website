@@ -4,7 +4,7 @@ Title: Coombe and Malden
 ----
 ShortTitle: Coombe & Malden
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-and-south-western
@@ -12,7 +12,8 @@ Company:
 Route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-Wiki: http://en.wikipedia.org/wiki/New_Malden_railway_station
+Related:
+- (link: http://en.wikipedia.org/wiki/New_Malden_railway_station text: New Malden railway station)
 ----
 Meta:
 ----

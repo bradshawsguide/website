@@ -2,7 +2,7 @@
 ----
 Title: Axminster
 ----
-County: Devon
+Region: Devon
 ----
 Company:
 - companies/london-and-south-western

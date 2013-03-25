@@ -2,14 +2,14 @@
 ----
 Title: Botley
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western
 ----
 Route:
 - routes/bishopstoke-to-fareham
-- routes/bishops-waltham
+- routes/botley-to-bishops-waltham
 ----
 Meta:
 ----

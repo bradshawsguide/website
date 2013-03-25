@@ -4,7 +4,7 @@ Title: Edgware Road
 ----
 ShortTitle: Edgware Rd.
 ----
-County: Middlesex
+Region: Middlesex
 ----
 Company:
 - companies/hampstead-junction

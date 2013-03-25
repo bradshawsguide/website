@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Gipsey Hill
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-brighton-and-south-coast

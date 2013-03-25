@@ -2,7 +2,7 @@
 ----
 Title: Dunbridge
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western
@@ -10,7 +10,8 @@ Company:
 Route:
 - routes/bishopstoke-to-salisbury
 ----
-Wiki: http://en.wikipedia.org/wiki/Mottisfont_%26_Dunbridge_railway_station
+Related:
+- (link: http://en.wikipedia.org/wiki/Mottisfont_%26_Dunbridge_railway_station text: Mottisfont & Dunbridge railway station)
 ----
 Meta: Telegraph station at Romsey, 4&#189; miles.
 

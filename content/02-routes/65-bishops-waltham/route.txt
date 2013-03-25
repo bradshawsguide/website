@@ -1,9 +1,0 @@
-﻿Section: 1
-----
-Title: Bishop's Waltham
-----
-Company: London and South Western Railway
-----
-Type: Branch
-----
-Text: From Botley the line diverges to the south-east, in order to preserve a connecting link between two towns which must ever be the focus of our military and maritime interest.

@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Kensal Green
 ----
-County: Middlesex
+Region: Middlesex
 ----
 Company:
 - companies/hampstead-junction

@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Brighton
 ----
-County: Sussex
+Region: Sussex
 ----
 Company:
 - companies/london-brighton-and-south-coast
@@ -11,6 +11,9 @@ Route:
 - routes/london-to-brighton
 - routes/brighton-to-worthing-chichester-and-portsmouth
 - routes/brighton-to-lewes
+----
+Related:
+- (link: http://en.wikipedia.org/wiki/Brighton_railway_station text: Brighton railway station)
 ----
 Meta: A telegraph station.
 

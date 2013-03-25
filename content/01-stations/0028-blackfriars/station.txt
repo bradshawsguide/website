@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Blackfriars
 ----
-County: Middlesex
+Region: Middlesex
 ----
 Company:
 - companies/south-eastern

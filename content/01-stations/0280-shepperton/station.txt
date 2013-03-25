@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Shepperton
 ----
-County: Middlesex
+Region: Middlesex
 ----
 Company:
 - companies/london-and-south-western

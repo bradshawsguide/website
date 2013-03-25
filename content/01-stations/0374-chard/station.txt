@@ -2,7 +2,7 @@
 ----
 Title: Chard
 ----
-County: Somerset
+Region: Somerset
 ----
 Company:
 - companies/london-and-south-western

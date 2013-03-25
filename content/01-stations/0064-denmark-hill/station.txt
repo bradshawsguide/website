@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Denmark Hill
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-chatham-and-dover

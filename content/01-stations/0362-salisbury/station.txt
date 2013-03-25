@@ -2,7 +2,7 @@
 ----
 Title: Salisbury
 ----
-County: Wiltshire
+Region: Wiltshire
 ----
 Company:
 - companies/london-and-south-western

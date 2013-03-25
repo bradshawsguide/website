@@ -4,7 +4,7 @@ Title: Caterham Junction
 ----
 ShortTitle: Caterham Jct.
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/south-eastern

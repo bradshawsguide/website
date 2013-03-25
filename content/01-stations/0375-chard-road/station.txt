@@ -4,7 +4,7 @@ Title: Chard Road
 ----
 ShortTitle: Chard Rd.
 ----
-County: Somerset
+Region: Somerset
 ----
 Company:
 - companies/london-and-south-western

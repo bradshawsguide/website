@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Farnborough
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/south-eastern

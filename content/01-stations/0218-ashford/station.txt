@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Ashford
 ----
-County: Kent
+Region: Kent
 ----
 Company:
 - companies/south-eastern

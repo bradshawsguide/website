@@ -2,7 +2,7 @@
 ----
 Title: Worthing
 ----
-County: Sussex
+Region: Sussex
 ----
 Company:
 - companies/london-brighton-and-south-coast

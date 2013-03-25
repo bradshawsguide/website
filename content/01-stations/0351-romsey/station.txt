@@ -2,13 +2,13 @@
 ----
 Title: Romsey
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western
 ----
 Route:
-- routes/andover-and-redbridge
+- routes/andover-to-redbridge
 ----
 Meta:
 ----

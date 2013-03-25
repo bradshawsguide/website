@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Kentish Town
 ----
-County: Middlesex
+Region: Middlesex
 ----
 Company:
 - companies/hampstead-junction

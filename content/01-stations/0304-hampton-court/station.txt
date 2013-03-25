@@ -4,7 +4,7 @@ Title: Hampton Court (East&#160;Moulsey)
 ----
 ShortTitle: Hampton Court
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-and-south-western

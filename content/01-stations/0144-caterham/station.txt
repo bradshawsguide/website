@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Caterham
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/south-eastern

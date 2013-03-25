@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Islington
 ----
-County: Middlesex
+Region: Middlesex
 ----
 Company:
 - companies/north-london

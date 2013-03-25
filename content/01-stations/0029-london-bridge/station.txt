@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: London Bridge
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/south-eastern

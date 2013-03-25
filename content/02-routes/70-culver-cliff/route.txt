@@ -11,7 +11,7 @@ Text: This route, seldom taken by visitors, but a most attractive one for walker
 | To:                           | Miles.   |
 | ----------------------------- | -------- |
 | Afton Down                    | 19       |
-| Ashcy Mark                    | 4        |
+| Ashey Mark                    | 4        |
 | Brading Down                  | 3        |
 | Brixton Down                  | 15       |
 | Carisbrook                    | 10&#189; |

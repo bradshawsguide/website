@@ -4,7 +4,7 @@ Title: Loughborough Road
 ----
 ShortTitle: Loughborough Rd.
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-chatham-and-dover

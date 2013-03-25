@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Sevenoaks
 ----
-County: Kent
+Region: Kent
 ----
 Company:
 - companies/london-chatham-and-dover

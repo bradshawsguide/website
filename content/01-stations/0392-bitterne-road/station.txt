@@ -4,7 +4,7 @@ Title: Bitterne Road
 ----
 ShortTitle: Bitterne Rd.
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western

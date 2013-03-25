@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Sunningdale
 ----
-County: Berkshire
+Region: Berkshire
 ----
 Company:
 - companies/london-and-south-western

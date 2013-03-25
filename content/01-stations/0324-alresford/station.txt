@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Alresford
 ----
-County: Hampshire
+Region: Hampshire
 ----
 Company:
 - companies/london-and-south-western

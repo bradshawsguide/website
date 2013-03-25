@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Kew
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/north-and-south-western-junction

@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: Bramley
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/london-brighton-and-south-coast

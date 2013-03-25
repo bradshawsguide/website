@@ -4,7 +4,7 @@ Title: Paddock Wood Junction
 ----
 ShortTitle: Paddock Wood Jct.
 ----
-County: Kent
+Region: Kent
 ----
 Company:
 - companies/south-eastern

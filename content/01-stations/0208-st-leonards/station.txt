@@ -2,7 +2,7 @@ Section: 1
 ----
 Title: St. Leonards
 ----
-County: Sussex
+Region: Sussex
 ----
 Company:
 - companies/south-eastern

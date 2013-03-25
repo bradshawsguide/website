@@ -4,7 +4,7 @@ Title: Waterloo Junction
 ----
 ShortTitle: Waterloo Jct.
 ----
-County: Surrey
+Region: Surrey
 ----
 Company:
 - companies/south-eastern
@@ -12,7 +12,8 @@ Company:
 Route:
 - routes/charing-cross-and-london-bridge-to-greenwich
 ----
-Wiki: http://en.wikipedia.org/wiki/Waterloo_East_railway_station
+Related:
+- (link: http://en.wikipedia.org/wiki/Waterloo_East_railway_station text: Waterloo East railway station)
 ----
 Meta:
 ----
