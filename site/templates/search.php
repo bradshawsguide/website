@@ -1,5 +1,4 @@
-<? snippet('header') ?>
-<? snippet('banner') ?>
+<? snippet('_header') ?>
 
 <?
     $search = new search(array(
@@ -40,7 +39,4 @@
         </section><!--/.container-->
     </main><!--/@main-->
 
-<? snippet('navigation') ?>
-<? snippet('search') ?>
-<? snippet('contentinfo') ?>
-<? snippet('footer') ?>
+<? snippet('_footer') ?>

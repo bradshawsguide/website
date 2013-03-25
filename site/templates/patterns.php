@@ -1,5 +1,4 @@
-<? snippet('header') ?>
-<? snippet('banner') ?>
+<? snippet('_header') ?>
 
     <style>
         .pattern {
@@ -80,7 +79,4 @@
         </section>
     </main><!--/@main-->
 
-<? snippet('navigation') ?>
-<? snippet('search') ?>
-<? snippet('contentinfo') ?>
-<? snippet('footer') ?>
+<? snippet('_footer') ?>

@@ -1,6 +1,4 @@
-<? snippet('header') ?>
-<? snippet('banner') ?>
-<? $type = "stations"?>
+<? snippet('_header') ?>
 
     <main role="main">
         <section class="container">
@@ -24,7 +22,4 @@
         </section>
     </main><!--/@main-->
 
-<? snippet('navigation') ?>
-<? snippet('search') ?>
-<? snippet('contentinfo') ?>
-<? snippet('footer') ?>
+<? snippet('_footer') ?>

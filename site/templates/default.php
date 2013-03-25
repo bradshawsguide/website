@@ -1,13 +1,14 @@
-<? snippet('header') ?>
-<? snippet('banner') ?>
+<? snippet('_header') ?>
 
     <main role="main">
-        <section class="container">
+        <article class="container">
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>
 
-<?=         kirbytext($page->text()) ?>
+            <div class="prose">
+<?=             kirbytext($page->text()) ?>
+            </div>
 
 <?          if($page->related()): ?>
             <section>
@@ -19,10 +20,21 @@
                 </ul>
             </section>
 <?          endif ?>
-        </section><!--/.container-->
+
+<?          
+            $items = $page->siblings()->visible();
+            if($items && $items->count()): ?>
+            <nav role="navigation">
+                <h1><a href="<?= $page->parent()->url(); ?>"><?= $page->parent()->title(); ?></a></h1>
+                <ul>
+<?                  foreach($items as $item): ?>
+                    <li><a<?= ($item->isOpen()) ? ' class="is-active"' : '' ?> href="<?= $item->url() ?>"><?= html($item->title()) ?></a></li>
+<?                  endforeach ?>
+                </ul>
+            </nav>
+<?          endif ?>
+
+        </article><!--/.container-->
     </main><!--/@main-->
 
-<? snippet('navigation') ?>
-<? snippet('search') ?>
-<? snippet('contentinfo') ?>
-<? snippet('footer') ?>
+<? snippet('_footer') ?>

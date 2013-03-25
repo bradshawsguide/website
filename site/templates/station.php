@@ -1,12 +1,11 @@
-<? snippet('header') ?>
-<? snippet('banner') ?>
+<? snippet('_header') ?>
 
     <main role="main">
         <article class="container">
             <header>
                 <hgroup>
                     <h1><?= smartypants($page->title()) ?></h1>
-                    <h2><a href="/counties/<?= str::urlify($page->county()) ?>"><?= smartypants($page->county()) ?></a></h2>
+                    <h2><a href="/counties/<?= str::urlify($page->region()) ?>"><?= smartypants($page->region()) ?></a></h2>
                 </hgroup>
             </header>
 
@@ -32,19 +31,26 @@
 <?              if ($page->meta() != ''): ?>
                 <section>
                     <h1 class="hidden">About This Station</h1>
-                    <?= kirbytext($page->meta()) ?>
+<?=                 kirbytext($page->meta()) ?>
                 </section>
 <?              endif ?>
-<?              if ($page->line() != ''): ?>
-                <nav role="navigation">
-                    <h1 class="hidden">Connecting Lines</h1>
-                    <p>Lines serving this station:</p>
+
+<?              if ($page->route() != ''): ?>
+                <details open>
+                    <summary>Lines serving this station:</summary>
                     <ul>
-<?                      foreach(related($page->line()) as $routes): ?>
-                        <li>&#8212; <a href="<?= $routes->url() ?>"><?= smartypants($routes->title()) ?></a></li>
+<?                      foreach(related($page->route()) as $routes): ?>
+                        <li><a href="<?= $routes->url() ?>"><?= smartypants($routes->title()) ?></a></li>
 <?                      endforeach ?>
                     </ul>
-                </nav>
+                </details>
+<?              endif ?>
+
+<?              if ($page->related() != ''): ?>
+                <details>
+                    <summary>Related Links</summary>
+<?=                 kirbytext($page->related()) ?>
+                </details>
 <?              endif ?>
             </footer>
 
@@ -53,7 +59,4 @@
         </article>
     </main><!--/@main-->
 
-<? snippet('navigation') ?>
-<? snippet('search') ?>
-<? snippet('contentinfo') ?>
-<? snippet('footer') ?>
+<? snippet('_footer') ?>

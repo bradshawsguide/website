@@ -1,10 +1,12 @@
-<? snippet('header') ?>
-<? snippet('banner') ?>
+<? snippet('_header') ?>
 
     <main role="main">
         <section class="container">
             <header>
-                <h1><?= smartypants($page->title()) ?></h1>
+                <hgroup>
+                    <h1><?= smartypants($page->title()) ?></h1>
+                    <h2><?= smartypants($page->country()) ?></h2>
+                </hgroup>
             </header>
 
             <div class="prose">
@@ -25,8 +27,8 @@
             <section class="stations index">
                 <h1>Stations in This County</h1>
 <?php
-                $county = $page->title();
-                $alphabetise = alphabetise($pages->find('stations')->children->filterBy('county', "$county")->sortBy('title', 'asc'));
+                $region = $page->title();
+                $alphabetise = alphabetise($pages->find('stations')->children->filterBy('region', "$region")->sortBy('title', 'asc'));
     
                 foreach($alphabetise as $letter => $items):
 ?>
@@ -42,7 +44,4 @@
         </section><!--/.container-->
     </main><!--/@main-->
 
-<? snippet('navigation') ?>
-<? snippet('search') ?>
-<? snippet('contentinfo') ?>
-<? snippet('footer') ?>
+<? snippet('_footer') ?>
