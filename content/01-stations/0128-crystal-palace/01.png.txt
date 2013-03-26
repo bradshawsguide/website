@@ -1,6 +1,1 @@
-Section: 1
-----
-Title: Crystal Palace Sydenham
-----
 Caption: Crystal Palace Sydenham
-----
