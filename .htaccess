@@ -39,14 +39,16 @@
 # ----------------------------------------------------------------------
 # PHP Settings
 # ----------------------------------------------------------------------
+<IfModule php5_module>
 # Use php5
   AddHandler php5-script .php
 
-# Don't allow PHP short tags
+# Allow PHP short tags
   php_flag short_open_tag on
 
 # Close a major security hole that is abused by most XSS attacks
   php_flag register_globals Off
+</IfModule>
 
 
 # ----------------------------------------------------------------------
