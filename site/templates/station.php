@@ -8,17 +8,19 @@
                 </hgroup>
             </header>
 
-<?          if ($page->text() != ''): ?>
+<?          if (!isset($page->text)): ?>
             <div class="prose">
 <?              if($page->hasImages()): ?>
                 <aside>
                     <figure>
-<?                      foreach($page->images() as $image): ?>
-                        <img src="<?= $image->url() ?>" alt="<?= $image->title() ?>" width="360"/> 
+<?                  foreach($page->images() as $image): ?>
+                        <img src="<?= $image->url() ?>" alt="<?= $page->title() ?>" width="320"/>
+<?                      if ($image->caption): ?>
                         <figcaption>
-                            <p><?= $image->caption() ?></p>
+                            <p><?= smartypants($image->caption) ?></p>
                         </figcaption>
-<?                      endforeach ?>
+<?                      endif ?>
+<?                  endforeach ?>
                     </figure>
                 </aside>
 <?              endif ?>
@@ -27,14 +29,14 @@
 <?          endif ?>
 
             <footer class="meta">
-<?              if ($page->meta() != ''): ?>
+<?              if (!isset($page->meta)): ?>
                 <section>
                     <h1 class="hidden">About This Station</h1>
 <?=                 kirbytext($page->meta()) ?>
                 </section>
 <?              endif ?>
 
-<?              if ($page->route() != ''): ?>
+<?              if (!isset($page->route)): ?>
                 <details open>
                     <summary>Lines serving this station:</summary>
                     <ul>
@@ -45,7 +47,7 @@
                 </details>
 <?              endif ?>
 
-<?              if ($page->related() != ''): ?>
+<?              if (!isset($page->related)): ?>
                 <details>
                     <summary>Related Links</summary>
 <?=                 kirbytext($page->related()) ?>

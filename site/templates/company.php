@@ -27,7 +27,6 @@
 <?php
                 $company = $site->uri->path(2);
                 $alphabetise = alphabetise($pages->find('stations')->children()->filterBy('company', '*=', "$company")->sortBy('title', 'asc'));
-
                 foreach($alphabetise as $letter => $items):
 ?>
                 <h2 class="index"><?php echo str::upper($letter) ?></h2>

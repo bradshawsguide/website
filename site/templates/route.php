@@ -8,7 +8,7 @@
                 </hgroup>
             </header>
 
-<?          if ($page->text() != ''): ?>
+<?          if (!isset($page->text)): ?>
             <div class="prose">
 <?=             kirbytext($page->text()) ?>
             </div><!--/@article-->
@@ -17,7 +17,7 @@
 <?
             $route = "- routes/".$site->uri->path(2);
             $items = $pages->find('stations')->children()->filterBy('route', '*=', $route);
-            if ($items != ''):
+            if (isset($items)):
 ?>
             <section role="complementary">
                 <h1>Route Map</h1>
@@ -25,8 +25,7 @@
 <?              foreach ($items as $item): ?>
 <?                  if ($item->text() == ''): ?>
                     <li><a href="<?= $item->url() ?>"<? if ($item->text() == ''): ?> class="unremarkable"<? endif ?>><?= smartypants($item->title()) ?></a></li>
-<?                  else: ?>
-<?
+<?                  else:
                         $routes = related($item->route());
                         $type = 'station';
                         foreach ($routes as $connection) {
@@ -37,7 +36,7 @@
 ?>
                     <li class="<?= $type ?>">
                         <a href="<?= $item->url() ?>"><?= smartypants($item->title()) ?></a>
-<?                      if ($type == 'interchange'):?>
+<?                      if ($type == 'interchange'): ?>
                         <ul>
 <?                      endif ?>
 <?                      foreach ($routes as $connection): ?>
