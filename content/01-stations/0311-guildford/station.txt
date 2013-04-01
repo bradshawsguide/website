@@ -44,27 +44,27 @@ Two miles to the eastward of the town is a fine circular race-course. The roads 
 ## Distances of Places from the Station.
 
 |                    | Miles   |
-| ------------------ | ------- |
-| Arlington          | 1&#190; |
-| Catherine's Hill   | 0&#190; |
-| Compton            | 2&#189; |
-| Clandon Park       | 2&#190; |
-| Gang Hill          | 1&#189; |
-| Gosden             | 3       |
-| Halfpenny House    | 1&#189; |
-| Henley Park        | 3&#190; |
-| Hog's Back         | 3&#188; |
-| Littleton          | 1&#189; |
-| Losely House       | 2       |
-| Merrow Race Course | 2&#189; |
-| Newark Abbey       | 5       |
-| New Warren         | 1&#189; |
-| Northbrook Place   | 3&#188; |
-| Pepper Harrow      | 6       |
-| Puttenham          | 4&#189; |
-| Shalford House     | 2       |
-| Stoke              | 1       |
-| Sutton Park        | 2&#190; |
-| Westbrook Place    | 3       |
-| Wonersh            | 3       |
-| Worplesdon         | 3       |
+| ------------------ | ------ |
+| Arlington          | 1¾     |
+| Catherine's Hill   | 0¾     |
+| Compton            | 2½     |
+| Clandon Park       | 2¾     |
+| Gang Hill          | 1½     |
+| Gosden             | 3      |
+| Halfpenny House    | 1½     |
+| Henley Park        | 3¾     |
+| Hog's Back         | 3¼     |
+| Littleton          | 1½     |
+| Losely House       | 2      |
+| Merrow Race Course | 2½     |
+| Newark Abbey       | 5      |
+| New Warren         | 1½     |
+| Northbrook Place   | 3¼     |
+| Pepper Harrow      | 6      |
+| Puttenham          | 4½     |
+| Shalford House     | 2      |
+| Stoke              | 1      |
+| Sutton Park        | 2¾     |
+| Westbrook Place    | 3      |
+| Wonersh            | 3      |
+| Worplesdon         | 3      |

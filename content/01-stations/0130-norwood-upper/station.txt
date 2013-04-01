@@ -15,7 +15,7 @@ Route:
 Related:
 - (link: http://en.wikipedia.org/wiki/Norwood_Junction_railway_station text: Norwood Junction railway station)
 ----
-Meta: Distance from station, 1 &#189; mile.
+Meta: Distance from station, 1½ mile.
 
 A telegraph station.
 

@@ -20,18 +20,18 @@ Money Order Office
 ----
 Text: ## Distances of Places from the Station
 
-|                                     | Miles  |
+|                                     | Miles. |
 | ----------------------------------- | ------ |
-| Bowling Green                       | 1&#190;|
+| Bowling Green                       | 1¾     |
 | Brenchley                           | 3      |
 | Great Brainden                      | 3      |
 | Homebush Green                      | 2      |
-| Horsemondean                        | 4&#189;|
-| Lamberhurst                         | 5&#189;|
-| Matfield Green                      | 4&#189;|
+| Horsemondean                        | 4½     |
+| Lamberhurst                         | 5½     |
+| Matfield Green                      | 4½     |
 | Mereworth Castle (Lady Despencer's) | 5      |
-| Pigfish                             | 2&#189;|
-| Snoll Hatch                         | 1&#190;|
+| Pigfish                             | 2½     |
+| Snoll Hatch                         | 1¾     |
 | Wested                              | 1      |
-| Woodfall                            | 1&#190;|
-| Yaldiug                             | 3&#189;|
+| Woodfall                            | 1¾     |
+| Yaldiug                             | 3½     |

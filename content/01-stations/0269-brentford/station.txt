@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/barnes-to-hounslow-and-feltham
 ----
-Meta: Distance from station &#189; mile.
+Meta: Distance from station ½ mile.
 
 A telegraph station.
 

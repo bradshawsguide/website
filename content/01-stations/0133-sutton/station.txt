@@ -13,4 +13,4 @@ Route:
 ----
 Meta:
 ----
-Text: 1&#189; mile from which is the Oaks, giving its name to the race, the seat of the Earl of Derby.
+Text: 1½ mile from which is the Oaks, giving its name to the race, the seat of the Earl of Derby.

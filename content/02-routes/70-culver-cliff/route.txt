@@ -8,21 +8,21 @@ Type: Line
 ----
 Text: This route, seldom taken by visitors, but a most attractive one for walkers, is towards Head-on-Hill (where fine white sand is dug for the glassmakers), and along the Downs, through the middle of Wight. The distances from Culver Cliff are:--
 
-| To:                           | Miles.   |
-| ----------------------------- | -------- |
-| Afton Down                    | 19       |
-| Ashey Mark                    | 4        |
-| Brading Down                  | 3        |
-| Brixton Down                  | 15       |
-| Carisbrook                    | 10&#189; |
-| Freshwater Gate               | 20&#188; |
-| Gallyberry Down               | 13       |
-| Hare & Hounds on Arreton Down | 6&#190;  |
-| Motteston Down                | 16&#189; |
-| Needles Light                 | 23&#189; |
-| Newport                       | 9        |
-| Shalcombe Down                | 18       |
-| Yarborough Pillar             | 1        |
+| To:                           | Miles. |
+| ----------------------------- | ------ |
+| Afton Down                    | 19     |
+| Ashey Mark                    | 4      |
+| Brading Down                  | 3      |
+| Brixton Down                  | 15     |
+| Carisbrook                    | 10½    |
+| Freshwater Gate               | 20¼    |
+| Gallyberry Down               | 13     |
+| Hare & Hounds on Arreton Down | 6¾     |
+| Motteston Down                | 16½    |
+| Needles Light                 | 23½    |
+| Newport                       | 9      |
+| Shalcombe Down                | 18     |
+| Yarborough Pillar             | 1      |
 
 **Culver Cliff,** 400 feet high. View over White Cliff Bay, Spithead, &c. Yarborough Pillar, on Bembridge Down, overlooks the harbour. It was built up in 1849, in honour of the late earl; and serves as a landmark.
 

@@ -27,23 +27,23 @@ Text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster 
 
 ## Distances of Places from the Station
 
-|                       | Miles  |
+|                       | Miles. |
 | --------------------- | ------ |
 | Balls Street & Bodkin | 2      |
 | Bostall               | 1      |
-| Broad Street          | 1&#189;|
+| Broad Street          | 1½     |
 | Canterbury            | 6      |
 | Chestfield            | 2      |
-| Church Street         | 0&#189;|
+| Church Street         | 0½     |
 | Coleward              | 2      |
-| Elensden              | 2&#190;|
+| Elensden              | 2¾     |
 | Faversham             | 7      |
 | Herne Bay             | 5      |
 | Rucking               | 3      |
-| Ryeham                | 1&#189;|
+| Ryeham                | 1½     |
 | Sea Salter            | 3      |
-| Studhill              | 2&#190;|
+| Studhill              | 2¾     |
 | Swalecliffe           | 2      |
-| Tankerton Castle      | 0&#189;|
-| Thompson's Farm       | 2&#190;|
-| Thorndean Wood        | 2&#190;|
+| Tankerton Castle      | 0½     |
+| Thompson's Farm       | 2¾     |
+| Thorndean Wood        | 2¾     |

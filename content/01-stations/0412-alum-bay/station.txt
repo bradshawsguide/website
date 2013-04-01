@@ -18,15 +18,15 @@ Text: The cliffs on one side are white, and on the other are curiously variegate
 
 ## Distances of Places from Freshwater Gate
 
-|                      | Miles.  |
-| ---------------------| ------- |
-| Alum Bay [^1]        | 2&#190; |
-| Cary's Stone [^2]    | 2       |
-| Light House [^3]     | 2&#189; |
-| Neptune's Cave [^4]  | 3&#188; |
-| Neshanter Cave       | 3&#189; |
-| Parsonage, The [^5]  | 2       |
-| Scratchell's Cave    | 2       |
+|                     | Miles. |
+| --------------------| ------ |
+| Alum Bay [^1]       | 2¾     |
+| Cary's Stone [^2]   | 2      |
+| Light House [^3]    | 2½     |
+| Neptune's Cave [^4] | 3¼     |
+| Neshanter Cave      | 3½     |
+| Parsonage, The [^5] | 2      |
+| Scratchell's Cave   | 2      |
 
 [^1]: Arched Rock (600 feet)
 [^2]: A Fort has been erected here.

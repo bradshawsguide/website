@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/haywards-heath-to-lewes-and-hastings
 ----
-Meta: Distance from station, &#189; mile.
+Meta: Distance from station, ½ mile.
 
 Telegraph station at Lewes, 3 miles.
 

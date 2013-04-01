@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/fenchurch-street-to-blackwall
 ----
-Meta: Distance from station, &#188; mile.
+Meta: Distance from station, 1/4 mile.
 
 Telegraph station.
 

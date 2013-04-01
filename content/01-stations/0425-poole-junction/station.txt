@@ -15,4 +15,4 @@ Route:
 ----
 Meta:
 ----
-Text: A *branch rail* of 1&#190; mile runs to the town of [Poole](poole).
+Text: A *branch rail* of 1¾ mile runs to the town of [Poole](poole).

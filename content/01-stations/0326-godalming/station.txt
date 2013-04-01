@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/woking-to-godalming-and-portsmouth
 ----
-Meta: Distance from station, &#188; mile.
+Meta: Distance from station, ¼ mile.
 
 A telegraph station.
 

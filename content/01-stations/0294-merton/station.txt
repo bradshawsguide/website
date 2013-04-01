@@ -10,9 +10,9 @@ Company:
 Route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-Meta: Distance from the Wimbledon station, &#190; mile.
+Meta: Distance from the Wimbledon station, ¾ mile.
 
-Telegraph station at Wimbledon, &#190; mile.
+Telegraph station at Wimbledon, ¾ mile.
 
 Hotel
 : White Hart.

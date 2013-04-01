@@ -21,22 +21,22 @@ Text: Newchurch, with its white spire, stands at the end of a short village, nea
 
 ## Distances of Places from Newchurch
 
-|                      | Miles.  |
-| -------------------- | ------- |
-| Adgeton              | 2       |
-| Arreton              | 1&#189; |
-| Arreton Street       | 1       |
-| Brading              | 3       |
-| Chiverton            | 1&#189; |
-| Gatcombe House       | 4       |
-| Great Kennerley      | 2&#189; |
-| Long Down            | 3       |
-| Queen's Bower        | 1&#188; |
-| Rookley              | 3&#189; |
-| Ryde                 | 6       |
-| Sandown and Sandford | 3       |
-| Shitle Bridge        | 3&#189; |
-| Spicer's Hall        | 1       |
-| Stone                | 1&#188; |
-| Strattle             | 2       |
-| Winham               | 2       |
+|                      | Miles. |
+| -------------------- | ------ |
+| Adgeton              | 2      |
+| Arreton              | 1½     |
+| Arreton Street       | 1      |
+| Brading              | 3      |
+| Chiverton            | 1½     |
+| Gatcombe House       | 4      |
+| Great Kennerley      | 2½     |
+| Long Down            | 3      |
+| Queen's Bower        | 1¼     |
+| Rookley              | 3½     |
+| Ryde                 | 6      |
+| Sandown and Sandford | 3      |
+| Shitle Bridge        | 3½     |
+| Spicer's Hall        | 1      |
+| Stone                | 1¼     |
+| Strattle             | 2      |
+| Winham               | 2      |

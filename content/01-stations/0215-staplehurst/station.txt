@@ -24,36 +24,36 @@ The village of Cranbrook, in the heart of the Weald of Kent is remarkable for it
 
 ## Distances of Places from the Station
 
-|                          | Miles  |
+|                          | Miles. |
 | ------------------------ | ------ |
 | Bennendon                | 7      |
 | Chart Hill               | 3      |
 | Chart Sutton             | 3      |
-| Chiddendcen Wood         | 5&#189;|
+| Chiddendcen Wood         | 5½     |
 | Cranbrook                | 6      |
 | Dingle Dale              | 8      |
-| Dellingden Farm          | 6&#190;|
-| East Sutton              | 3&#190;|
-| Elderton                 | 1&#190;|
+| Dellingden Farm          | 6¾     |
+| East Sutton              | 3¾     |
+| Elderton                 | 1¾     |
 | Foxcarthwood             | 5      |
 | Frittenden               | 4      |
-| Goddard's Green          | 6&#189;|
-| Great Dunbury            | 1&#188;|
-| Hangley Wood             | 5&#188;|
-| Hartley                  | 6&#189;|
-| Hawkhurst                | 8&#188;|
+| Goddard's Green          | 6½     |
+| Great Dunbury            | 1¼     |
+| Hangley Wood             | 5¼     |
+| Hartley                  | 6½     |
+| Hawkhurst                | 8¼     |
 | Hempstead Park           | 6      |
-| Hersfield Place          | 2&#188;|
-| Highgate                 | 8&#188;|
+| Hersfield Place          | 2¼     |
+| Highgate                 | 8¼     |
 | Hockenbury Green         | 1      |
 | Kilsom                   | 1      |
-| Love House               | 1&#189;|
+| Love House               | 1½     |
 | Milk House Street        | 4      |
-| Postern Plain            | 2&#188;|
-| Sandhurst Green          | 9&#190;|
-| Standing Street          | 8&#188;|
-| Sutton Valenee           | 3&#188;|
-| Swallenden Farm          | 7&#189;|
-| Switliland               | 2&#189;|
-| Wanthurst                | 1&#188;|
-| Winsley Green            | 4&#189;|
+| Postern Plain            | 2¼     |
+| Sandhurst Green          | 9¾     |
+| Standing Street          | 8¼     |
+| Sutton Valenee           | 3¼     |
+| Swallenden Farm          | 7½     |
+| Switliland               | 2½     |
+| Wanthurst                | 1¼     |
+| Winsley Green            | 4½     |

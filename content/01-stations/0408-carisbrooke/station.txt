@@ -29,13 +29,13 @@ At *Swainstone*, the seat of J. Simeon, Esq., a road turns off to *Newtown*, on 
 
 ## Distances of Places from Carisbrooke
 
-|              | Miles.  |
-| ------------ | ------- |
-| Atherfield   | 6       |
-| Calbourne    | 4       |
-| Castle, The  | 0&#189; |
-| Chillerton   | 3       |
-| Church, Old  | 0&#188; |
-| Gatcombe     | 2       |
-| Newport      | 1       |
-| Well, The    | 6&#189; |
+|              | Miles. |
+| ------------ | ------ |
+| Atherfield   | 6      |
+| Calbourne    | 4      |
+| Castle, The  | 0½     |
+| Chillerton   | 3      |
+| Church, Old  | 0¼     |
+| Gatcombe     | 2      |
+| Newport      | 1      |
+| Well, The    | 6½     |

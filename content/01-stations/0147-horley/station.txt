@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/london-to-brighton
 ----
-Meta: Distance from station, &#190; mile.
+Meta: Distance from station, ¾ mile.
 
 A telegraph station.
 

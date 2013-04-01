@@ -37,11 +37,11 @@ On the north side of the town, in the principal street, was situated the castle,
 
 ## Distances of Places from the Station
 
-|                   | Miles  |
+|                   | Miles. |
 | ----------------- | ------ |
 | Brickland         | 2      |
-| Buckland          | 1&#190;|
-| Calley Farm       | 0&#190;|
+| Buckland          | 1¾     |
+| Calley Farm       | 0¾     |
 | Chalmead Farm     | 2      |
 | Cophill Farm      | 4      |
 | Couler's Hole     | 1      |
@@ -50,12 +50,12 @@ On the north side of the town, in the principal street, was situated the castle,
 | Gadbrook Common   | 3      |
 | Galton Park       | 1      |
 | Hamon's Copse     | 5      |
-| Hartswood         | 1&#188;|
+| Hartswood         | 1¼     |
 | Hatch Farm        | 1      |
 | Headley           | 4      |
 | Henfold Farm      | 4      |
 | Hill House        | 4      |
-| Kingswood Garden  | 3&#190;|
+| Kingswood Garden  | 3¾     |
 | Kinnersley House  | 3      |
 | Leatherhead       | 6      |
 | Leigh             | 3      |
@@ -66,11 +66,11 @@ On the north side of the town, in the principal street, was situated the castle,
 | Nork House        | 5      |
 | Norwood Place     | 4      |
 | Parkfall Place    | 4      |
-| Park House        | 4&#190;|
+| Park House        | 4¾     |
 | Red Hill Farm     | 1      |
 | Reigate Mills     | 1      |
-| Reigate Park      | 0&#190;|
+| Reigate Park      | 0¾     |
 | Rice Bridge       | 2      |
 | Upper Galton      | 2      |
-| Walton            | 3&#189;|
+| Walton            | 3½     |
 | Walton Park       | 2      |

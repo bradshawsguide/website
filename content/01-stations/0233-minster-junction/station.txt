@@ -13,7 +13,7 @@ Route:
 - routes/ashford-to-canterbury-and-ramsgate
 - routes/minster-junction-to-deal
 ----
-Meta: Distance from station, &#188; mile.
+Meta: Distance from station, ¼ mile.
 
 A telegraph station.
 

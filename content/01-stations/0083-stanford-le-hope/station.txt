@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/fenchurch-street-to-tilbury-and-southend
 ----
-Meta: Telegraph station at Tilbury, 5&#189; miles.
+Meta: Telegraph station at Tilbury, 5½ miles.
 
 Population
 : 504

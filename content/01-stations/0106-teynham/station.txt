@@ -12,4 +12,4 @@ Route:
 ----
 Meta: A telegraph station
 ----
-Text: In the vicinity of which are *Rodmersham Lodge* (2 miles); *Teynham Lodge* (2&#189; miles); *Norton Court* (2 miles); and arrive at [Faversham](faversham).
+Text: In the vicinity of which are *Rodmersham Lodge* (2 miles); *Teynham Lodge* (2½ miles); *Norton Court* (2 miles); and arrive at [Faversham](faversham).

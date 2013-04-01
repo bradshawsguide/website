@@ -34,33 +34,33 @@ The neighbourhood here begins to get thronged with objects of attraction suffici
 
 ## Distances of Places from the Station
 
-|                                            | Miles  |
+|                                            | Miles. |
 | ------------------------------------------ | ------ |
-| Brook House                                | 1&#189;|
+| Brook House                                | 1½     |
 | Brusted                                    | 5      |
-| Brusted Place                              | 4&#189;|
-| Buckhurst Park                             | 7&#189;|
-| Chiddingstone                              | 3&#189;|
-| Chartwell                                  | 3&#189;|
+| Brusted Place                              | 4½     |
+| Buckhurst Park                             | 7½     |
+| Chiddingstone                              | 3½     |
+| Chartwell                                  | 3½     |
 | Comb Bank                                  | 6      |
-| Cowden                                     | 4&#189;|
+| Cowden                                     | 4½     |
 | Cubham Wood                                | 7      |
 | Foundling House                            | 3      |
-| Four Elms                                  | 1&#190;|
+| Four Elms                                  | 1¾     |
 | Hall Farm                                  | 4      |
-| Hole Farm                                  | 1&#190;|
+| Hole Farm                                  | 1¾     |
 | Hill Park                                  | 5      |
-| Hartfield                                  | 7&#189;|
+| Hartfield                                  | 7½     |
 | Hever Castle (Ralph Waldo, Esq.), in ruins | 4      |
-| Ivy House                                  | 3&#188;|
+| Ivy House                                  | 3¼     |
 | Limpsfield                                 | 5      |
 | Linhurst                                   | 1      |
 | Mapledon                                   | 2      |
-| Marsh Green                                | 1&#190;|
-| Oakhams                                    | 2&#189;|
-| Seven Oaks                                 | 7&#189;|
-| Squerries, The                             | 3&#189;|
-| Stanfords End                              | 1&#190;|
+| Marsh Green                                | 1¾     |
+| Oakhams                                    | 2½     |
+| Seven Oaks                                 | 7½     |
+| Squerries, The                             | 3½     |
+| Stanfords End                              | 1¾     |
 | Sunbridge                                  | 8      |
 | Westerham                                  | 5      |
 

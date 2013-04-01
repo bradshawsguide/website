@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/tunbridge-to-hastings
 ----
-Meta: Distance from station, &#188; mile.
+Meta: Distance from station, ¼ mile.
 
 A telegraph station.
 

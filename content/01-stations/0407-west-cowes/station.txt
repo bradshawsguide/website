@@ -40,22 +40,22 @@ On the beach are bathing machines, and it is much visited by fashionable company
 
 ## Distances of Places from Cowes
 
-|                        | Miles.  |
-| ---------------------- | ------- |
-| Barton                 | 2       |
-| Baskets                | 1&#190; |
-| East Cowes             | 0&#190; |
-| East Cowes Castle [^1] | 1&#189; |
-| Egypt                  | 1       |
-| Gurnet Farm            | 1       |
-| King's Key             | 3       |
-| Kingston               | 1&#189; |
-| Noder                  | 1&#189; |
-| Northwood              | 1&#189; |
-| Northwood House [^2]   | 0&#189; |
-| Osborne                | 1&#188; |
-| West Cowes House       | 0&#188; |
-| Yacht Club House       | 0&#189; |
+|                        | Miles. |
+| ---------------------- | ------ |
+| Barton                 | 2      |
+| Baskets                | 1¾     |
+| East Cowes             | 0¾     |
+| East Cowes Castle [^1] | 1½     |
+| Egypt                  | 1      |
+| Gurnet Farm            | 1      |
+| King's Key             | 3      |
+| Kingston               | 1½     |
+| Noder                  | 1½     |
+| Northwood              | 1½     |
+| Northwood House [^2]   | 0½     |
+| Osborne                | 1¼     |
+| West Cowes House       | 0¼     |
+| Yacht Club House       | 0½     |
 
 [^1]: Earl of Shannon.
 [^2]: Now a School.

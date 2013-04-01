@@ -12,7 +12,7 @@ Route:
 ----
 Meta: Telegraph station at Chichester, 2 miles.
 
-Distance from station, &#189; mile.
+Distance from station, ½ mile.
 
 Money Order Office
 : Chichester.

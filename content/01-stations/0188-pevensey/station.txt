@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/haywards-heath-to-lewes-and-hastings
 ----
-Meta: Telegraph station at Polegate, 3 &#189; miles.
+Meta: Telegraph station at Polegate, 3½ miles.
 
 Hotel
 : Royal Oak.

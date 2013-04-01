@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
-Meta: Telegraph station at Richmond, 1&#189; mile.
+Meta: Telegraph station at Richmond, 1½ mile.
 
 Inn: Kings Arms.
 

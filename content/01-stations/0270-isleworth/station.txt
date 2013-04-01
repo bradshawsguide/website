@@ -10,9 +10,9 @@ Company:
 Route:
 - routes/barnes-to-hounslow-and-feltham
 ----
-Meta: Distance from station, &#190; mile.
+Meta: Distance from station, ¾ mile.
 
-Telegraph station at Brentford, 1&#189; mile.
+Telegraph station at Brentford, 1½ mile.
 
 Fair
 : First Monday in July.

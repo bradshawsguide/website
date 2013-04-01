@@ -24,4 +24,4 @@ Fair
 Money Order Office
 : at Canterbury
 ----
-Text: &#32;
+Text:

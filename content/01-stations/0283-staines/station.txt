@@ -11,7 +11,7 @@ Route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 - routes/staines-to-windsor
 ----
-Meta: Distance from station, &#190; mile,
+Meta: Distance from station, ¾ mile,
 
 A telegraph station.
 

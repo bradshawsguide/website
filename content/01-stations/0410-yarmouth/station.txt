@@ -31,24 +31,24 @@ Text: Yarmouth, another decayed borough, originally founded by the Rivers family
 
 ## Distances of Places from Yarmouth
 
-|                   | Miles.  |
-| ----------------- | ------- |
-| Afton Down        | 2&#189; |
-| Calbourne         | 4&#189; |
-| Church, The [^1]  | 0&#188; |
-| Clanmore          | 1       |
-| Compton           | 3       |
-| Curlew            | 4&#189; |
-| East Hamstead     | 3       |
-| Forts, The        | 1       |
-| Freshwater        | 2       |
-| Freshwater Gate   | 3       |
-| Hurst Castle      | 2&#189; |
-| Lingwood          | 2       |
-| Lymington         | 5       |
-| Newtown Harbour   | 4       |
-| Norton            | 0&#190; |
-| Scone Point       | 1       |
-| Tapnel            | 2&#189; |
+|                   | Miles. |
+| ----------------- | ------ |
+| Afton Down        | 2½     |
+| Calbourne         | 4½     |
+| Church, The [^1]  | 0¼     |
+| Clanmore          | 1      |
+| Compton           | 3      |
+| Curlew            | 4½     |
+| East Hamstead     | 3      |
+| Forts, The        | 1      |
+| Freshwater        | 2      |
+| Freshwater Gate   | 3      |
+| Hurst Castle      | 2½     |
+| Lingwood          | 2      |
+| Lymington         | 5      |
+| Newtown Harbour   | 4      |
+| Norton            | 0¾     |
+| Scone Point       | 1      |
+| Tapnel            | 2½     |
 
 [^1]: Sir Richard Holmes' Monument--Governor of the Island in 1671, when visited by Charles II.

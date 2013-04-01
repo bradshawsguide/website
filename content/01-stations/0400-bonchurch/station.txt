@@ -25,24 +25,24 @@ Text: Bonchurch, so called because the church is dedicated to St. Boniface. An e
 
 ## Distances of Places from Bonchurch
 
-|                   | Miles.  |
-| ----------------- | ------- |
-| Appuldercombe     | 2       |
-| Beacon, The       | 1&#188; |
-| Binnel Point      | 1       |
-| St. Boniface Down | 1&#189; |
-| Dunnose           | 0&#190; |
-| Godshill          | 3       |
-| Lake, The         | 2&#189; |
-| Luccombe          | 1       |
-| Mill Cove         | 0&#189; |
-| Nettlecomb        | 2       |
-| Puckester Cove    | 3&#189; |
-| Pulpit Rock       | 1&#189; |
-| Rind              | 3&#189; |
-| Sandford          | 2&#189; |
-| Steephill         | 0&#190; |
-| Steephill Cove    | 0&#189; |
-| St. Lawrence      | 2       |
-| Ventnor           | 2       |
-| Wroncate          | 0&#190; |
+|                   | Miles. |
+| ----------------- | ------ |
+| Appuldercombe     | 2      |
+| Beacon, The       | 1¼     |
+| Binnel Point      | 1      |
+| St. Boniface Down | 1½     |
+| Dunnose           | 0¾     |
+| Godshill          | 3      |
+| Lake, The         | 2½     |
+| Luccombe          | 1      |
+| Mill Cove         | 0½     |
+| Nettlecomb        | 2      |
+| Puckester Cove    | 3½     |
+| Pulpit Rock       | 1½     |
+| Rind              | 3½     |
+| Sandford          | 2½     |
+| Steephill         | 0¾     |
+| Steephill Cove    | 0½     |
+| St. Lawrence      | 2      |
+| Ventnor           | 2      |
+| Wroncate          | 0¾     |

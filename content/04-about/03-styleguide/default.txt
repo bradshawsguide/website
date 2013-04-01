@@ -298,26 +298,26 @@ Tables should be used when displaying tabular data. The `thead`, `tfoot` and `tb
 If you use these elements, you must use every element. They should appear in this order: `thead`, `tfoot` and `tbody`, so that browsers can render the foot before receiving all the data. You must use these tags within the table element.
 
 <div class="example" markdown="1">
-|                   | Miles  |
-| ----------------- | ------ |
-| Brickland         | 2      |
-| Calley Farm       | 0&#190;|
-| Cophill Farm      | 4      |
-| Dean's Farm       | 7      |
-| Gadbrook Common   | 3      |
-| Hamon's Copse     | 5      |
-| Hatch Farm        | 1      |
-| Henfold Farm      | 4      |
-| Kingswood Garden  | 3&#190;|
-| Leatherhead       | 6      |
-| Littleton Farm    | 1      |
-| Mead House        | 1      |
-| Nork House        | 5      |
-| Parkfall Place    | 4      |
-| Red Hill Farm     | 1      |
-| Reigate Mills     | 1      |
-| Reigate Park      | 0&#190;|
-| Rice Bridge       | 2      |
-| Upper Galton      | 2      |
-| Walton            | 3&#189;|
+|                  | Miles. |
+| ---------------- | ------ |
+| Brickland        | 2      |
+| Calley Farm      | 0¾     |
+| Cophill Farm     | 4      |
+| Dean's Farm      | 7      |
+| Gadbrook Common  | 3      |
+| Hamon's Copse    | 5      |
+| Hatch Farm       | 1      |
+| Henfold Farm     | 4      |
+| Kingswood Garden | 3¾     |
+| Leatherhead      | 6      |
+| Littleton Farm   | 1      |
+| Mead House       | 1      |
+| Nork House       | 5      |
+| Parkfall Place   | 4      |
+| Red Hill Farm    | 1      |
+| Reigate Mills    | 1      |
+| Reigate Park     | 0¾     |
+| Rice Bridge      | 2      |
+| Upper Galton     | 2      |
+| Walton           | 3½     |
 </div>

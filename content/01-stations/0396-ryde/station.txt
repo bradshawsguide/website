@@ -46,30 +46,30 @@ Text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by stea
 
 ## Distances of Places from Ryde
 
-|                  | Miles.  |
-| ---------------- | ------- |
-| Apley            | 0&#190; |
-| Bamsley          | 1&#189; |
-| Binstead         | 0&#190; |
-| Copping Bridge   | 5&#189; |
-| Fairy Hill       | 1&#188; |
-| Fearlee          | 5       |
-| Fishburn Rock    | 2&#190; |
-| Haven Street     | 2&#189; |
+|                  | Miles. |
+| ---------------- | ------ |
+| Apley            | 0¾     |
+| Bamsley          | 1½     |
+| Binstead         | 0¾     |
+| Copping Bridge   | 5½     |
+| Fairy Hill       | 1¼     |
+| Fearlee          | 5      |
+| Fishburn Rock    | 2¾     |
+| Haven Street     | 2½     |
 | Needles, The     | 18      |
-| Nettleston Point | 2       |
-| Pier, The        | 0&#188; |
-| Place Street     | 0&#189; |
-| Portsmouth       | 8       |
-| Priory, The      | 0&#190; |
-| Quarr Abbey      | 2       |
-| Ryde House       | 1&#189; |
-| Ryde Park        | 1&#189; |
-| St. Clare        | 1&#189; |
-| St. John's       | 1       |
-| Stokes Bay       | 3       |
-| Troublefield     | 0&#190; |
-| West Cowes       | 8       |
-| West Mount       | 1&#189; |
-| Whippingham      | 3&#189; |
-| White Mark       | 2&#189; |
+| Nettleston Point | 2      |
+| Pier, The        | 0¼     |
+| Place Street     | 0½     |
+| Portsmouth       | 8      |
+| Priory, The      | 0¾     |
+| Quarr Abbey      | 2      |
+| Ryde House       | 1½     |
+| Ryde Park        | 1½     |
+| St. Clare        | 1½     |
+| St. John's       | 1      |
+| Stokes Bay       | 3      |
+| Troublefield     | 0¾     |
+| West Cowes       | 8      |
+| West Mount       | 1½     |
+| Whippingham      | 3½     |
+| White Mark       | 2½     |

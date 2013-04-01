@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/strood-to-maidstone-and-paddock-wood
 ----
-Meta: Distance from station, 1&#189; mile.
+Meta: Distance from station, 1½ mile.
 
 A telegraph station.
 

@@ -33,25 +33,25 @@ In the immediate vicinity is *Broadwater*, with its beautiful church in the rich
 
 ## Distances of Places from the Station
 
-|               | Miles.  |
-| ------------- | ------- |
-| Charmaii Dean | 3       |
-| Cisbury Hall  | 2&#189; |
-| Clapham       | 6       |
-| Cokeham       | 2       |
-| Finding       | 4&#190; |
-| Goring        | 3&#190; |
-| Heene         | 1       |
-| Lancing       | 2       |
-| Michel Grove  | 3&#189; |
-| Ofiington     | 1&#189; |
-| Salvington    | 1&#189; |
-| Sheep Combe   | 4       |
-| Sompting      | 2&#189; |
-| Steyning      | 6&#189; |
-| Warminghurst  | 5&#189; |
-| Washington    | 5&#189; |
-| West Ferring  | 5       |
-| West Tailing  | 1       |
+|               | Miles. |
+| ------------- | ------ |
+| Charmaii Dean | 3      |
+| Cisbury Hall  | 2½     |
+| Clapham       | 6      |
+| Cokeham       | 2      |
+| Finding       | 4¾     |
+| Goring        | 3¾     |
+| Heene         | 1      |
+| Lancing       | 2      |
+| Michel Grove  | 3½     |
+| Ofiington     | 1½     |
+| Salvington    | 1½     |
+| Sheep Combe   | 4      |
+| Sompting      | 2½     |
+| Steyning      | 6½     |
+| Warminghurst  | 5½     |
+| Washington    | 5½     |
+| West Ferring  | 5      |
+| West Tailing  | 1      |
 
 The line proceeds three miles further on, and reaches the station at [Goring](goring).

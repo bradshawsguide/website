@@ -22,24 +22,24 @@ Text: This beautiful retreat is hid away among trees and corn-fields in summer, 
 
 ## Distances of Places from Sandown
 
-|                   | Miles.  |
-| ----------------- | ------- |
-| Allen             | 2       |
-| Beacon (Shanklin) | 1       |
-| Bonchurch         | 3       |
-| Boniface Down     | 0&#188; |
-| Brenston          | 2       |
-| Chiverton         | 1&#189; |
-| Cook's Castle     | 2       |
-| Dunnose           | 1&#188; |
-| Great Kennedy     | 4       |
-| Horse Ledge       | 0&#189; |
-| Langard           | 1       |
-| Luccombe Chine    | 1       |
-| Shanklin Chine    | 0&#189; |
-| Steephill Cove    | 2       |
-| Strattle          | 3&#189; |
-| Winham            | 1&#189; |
-| Wroncate          | 2       |
+|                   | Miles. |
+| ----------------- | ------ |
+| Allen             | 2      |
+| Beacon (Shanklin) | 1      |
+| Bonchurch         | 3      |
+| Boniface Down     | 0¼     |
+| Brenston          | 2      |
+| Chiverton         | 1½     |
+| Cook's Castle     | 2      |
+| Dunnose           | 1¼     |
+| Great Kennedy     | 4      |
+| Horse Ledge       | 0½     |
+| Langard           | 1      |
+| Luccombe Chine    | 1      |
+| Shanklin Chine    | 0½     |
+| Steephill Cove    | 2      |
+| Strattle          | 3½     |
+| Winham            | 1½     |
+| Wroncate          | 2      |
 
 The railway at present (1865) terminates at this point. The rest of the way to Ventnor must be travelled by coach.

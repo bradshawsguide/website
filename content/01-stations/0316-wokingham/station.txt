@@ -30,31 +30,31 @@ Text: Wokingham is situated on the River Wey, on the borders of Windsor Forest. 
 
 ## Distances of Places from the Station.
 
-|                    | Miles  |
+|                    | Miles. |
 | ------------------ | ------ |
 | Bisley             | 3      |
-| Chobham            | 2&#189;|
-| Chobham Hall       | 3&#189;|
+| Chobham            | 2½     |
+| Chobham Hall       | 3½     |
 | Chobham Park       | 3      |
 | Cross Stock        | 2      |
-| Dudsall Court      | 3&#190;|
+| Dudsall Court      | 3¾     |
 | Grove Heath        | 3      |
 | Hale End           | 3      |
 | Hermitage, The     | 2      |
-| Hide Farm          | 2&#190;|
+| Hide Farm          | 2¾     |
 | Hoe Bridge         | 1      |
-| Hook Hill          | 1&#189;|
+| Hook Hill          | 1½     |
 | Horshill           | 1      |
 | Knapp Hill         | 3      |
-| London Necropolis  | 2&#189;|
+| London Necropolis  | 2½     |
 | Mayford            | 3      |
 | Newark Abbey Ruins | 2      |
-| Ottershaw          | 3&#188;|
+| Ottershaw          | 3¼     |
 | Pirford            | 2      |
 | Ripley Park        | 3      |
 | Shackleford        | 3      |
 | Sutton Park        | 3      |
-| Westfield          | 2&#189;|
+| Westfield          | 2½     |
 | Wokingham          | 1      |
 
 From this station the railway passes that of [Earley](earley) and over a level but highly cultivated country, interspersed with villages and country-seats, until it reach the terminus at [Reading](reading).

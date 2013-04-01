@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
-Meta: Distance from station, &#189; mile.
+Meta: Distance from station, ½ mile.
 
 A telegraph station.
 

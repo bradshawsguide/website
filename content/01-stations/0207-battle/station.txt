@@ -35,13 +35,13 @@ The mingled scene of hill and dale, wood and village, presents one of those fair
 
 ## Distances of Places from the Station
 
-|                               | Miles  |
+|                               | Miles. |
 | ----------------------------- | ------ |
 | Ashburnham                    | 5      |
 | Ashburnham Park               | 4      |
 | Battle                        | 1      |
 | Battle Abbey (Lady Webster's) | 1      |
-| Battle Powder Mills           | 2&#189;|
+| Battle Powder Mills           | 2½     |
 | Beaufort                      | 2      |
 | Bohemy House                  | 3      |
 | Brede                         | 4      |
@@ -53,10 +53,10 @@ The mingled scene of hill and dale, wood and village, presents one of those fair
 | New House                     | 5      |
 | Ore Place                     | 4      |
 | Peiishurst                    | 4      |
-| Sedlescombe                   | 2&#190;|
-| Udimore                       | 6&#189;|
-| Watch Gate                    | 1&#189;|
-| Westfield                     | 3&#190;|
+| Sedlescombe                   | 2¾     |
+| Udimore                       | 6½     |
+| Watch Gate                    | 1½     |
+| Westfield                     | 3¾     |
 | Whatlington                   | 3      |
 
 Four miles further is [St. Leonards](st-leonards) station.

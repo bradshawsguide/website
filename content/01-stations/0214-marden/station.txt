@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-Meta: Distance from station, &#188 mile.
+Meta: Distance from station, ¼ mile.
 
 A telegraph station.
 

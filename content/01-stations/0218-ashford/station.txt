@@ -36,41 +36,41 @@ All this east end of the Weald of Kent is thick with woodlands, like the rest of
 
 ## Distances of Places from the Station
 
-|                             | Miles  |
+|                             | Miles. |
 | --------------------------- | ------ |
 | Badlesmere                  | 8      |
-| Beaver Green                | 1&#188;|
+| Beaver Green                | 1¼     |
 | BeechboroughPark            | 1      |
 | Blackwall                   | 2      |
-| Bromley Green               | 3&#188;|
+| Bromley Green               | 3¼     |
 | Brooke                      | 4      |
-| Cable Hook                  | 3&#188;|
+| Cable Hook                  | 3¼     |
 | Challock                    | 5      |
 | Cheeseman's Green           | 2      |
 | Coleman Green               | 4      |
 | Conings Brooke              | 2      |
-| Dean Court                  | 4&#189;|
-| Godmersham                  | 5&#188;|
+| Dean Court                  | 4½     |
+| Godmersham                  | 5¼     |
 | Hastingleigh                | 8      |
 | Hinxhill                    | 3      |
 | Kenardington                | 7      |
 | Kennington                  | 2      |
-| Kingsford Street            | 1&#189;|
+| Kingsford Street            | 1½     |
 | Kingsnorth                  | 3      |
 | Mount Norris, (Lord Rokeby) | 5      |
-| New Street                  | 2&#189;|
+| New Street                  | 2½     |
 | Plumbton                    | 2      |
 | Sevington                   | 2      |
-| Shaddenden Lodge            | 3&#189;|
-| Shadoxhurst                 | 4&#189;|
-| Sheldwick                   | 9&#188;|
-| Shottmgton                  | 3&#188;|
+| Shaddenden Lodge            | 3½     |
+| Shadoxhurst                 | 4½     |
+| Sheldwick                   | 9¼     |
+| Shottmgton                  | 3¼     |
 | Smeeth                      | 5      |
 | Snell Hatch                 | 2      |
-| Stone Cross Green           | 3&#188;|
+| Stone Cross Green           | 3¼     |
 | Tenterden                   | 12     |
 | Warehorne                   | 6      |
-| West Hauk                   | 1&#189;|
-| Westwell                    | 3&#188;|
+| West Hauk                   | 1½     |
+| Westwell                    | 3¼     |
 | Woodchurch                  | 7      |
-| Yousel                      | 2&#189;|
+| Yousel                      | 2½     |

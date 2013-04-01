@@ -10,7 +10,7 @@ Company:
 Route:
 - routes/strood-to-maidstone-and-paddock-wood
 ----
-Meta: Distance from station, &#189; mile.
+Meta: Distance from station, ½ mile.
 
 A telegraph station.
 
@@ -24,22 +24,22 @@ Text: This is a large and handsome village, retaining its rural character, combi
 
 ## Distances of Places from the Station
 
-|                                            | Miles  |
+|                                            | Miles. |
 | ------------------------------------------ | ------ |
-| Addington Place (Hon. Wingfield Stratford) | 4&#189;|
+| Addington Place (Hon. Wingfield Stratford) | 4½     |
 | Barming                                    | 2      |
 | Birling (Hon. & Rev. J. Neville)           | 5      |
-| Bradburn Park (Capt. Twisden's)            | 3&#188;|
+| Bradburn Park (Capt. Twisden's)            | 3¼     |
 | Broadwater                                 | 2      |
-| Cannon Heath                               | 1&#189;|
+| Cannon Heath                               | 1½     |
 | Clare House (J. A. Wigan, Esq.)            | 3      |
 | Delton Place (Jno. Golding, Esq.)          | 3      |
 | East Mailing Wood                          | 2      |
 | Great Leonard Street (Lunatic Asylum)      | 2      |
 | Larkfield                                  | 3      |
 | Mereworth Castle                           | 3      |
-| Offham Green                               | 4&#188;|
-| Oxenbeath                                  | 3&#188;|
+| Offham Green                               | 4¼     |
+| Oxenbeath                                  | 3¼     |
 | West Farleigh                              | 1      |
 | West Malling                               | 4      |
 | West Peckham                               | 4      |

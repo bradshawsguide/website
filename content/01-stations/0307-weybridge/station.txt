@@ -11,7 +11,7 @@ Route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/weybridge-to-chertsey
 ----
-Meta: Distance from station, &#190; mile.
+Meta: Distance from station, ¾ mile.
 
 A telegraph station.
 

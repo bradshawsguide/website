@@ -6,4 +6,4 @@ Company: London, Brighton, and South Coast Railway
 ----
 Type: Branch
 ----
-Text: This branch is 8&#189; miles in length. The line proceeds from [Three Bridges](/stations/crawley) in a west-south-west direction to the station at [Crawley](/stations/crawley).
+Text: This branch is 8½ miles in length. The line proceeds from [Three Bridges](/stations/crawley) in a west-south-west direction to the station at [Crawley](/stations/crawley).

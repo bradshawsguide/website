@@ -13,7 +13,7 @@ Route:
 - routes/lewes-to-newhaven
 - routes/brighton-to-lewes
 ----
-Meta: Distance from station, &#189; mile. A telegraph station.
+Meta: Distance from station, ½ mile. A telegraph station.
 
 Population
 : 9,716.
