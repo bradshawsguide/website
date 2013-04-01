@@ -7,7 +7,7 @@
         foreach($alphabetise as $letter => $items):
 ?>
     
-            <h2 class="index"><?php echo str::upper($letter) ?></h2>
+            <h2 class="index" id="<?= $letter ?>"><?= str::upper($letter) ?></h2>
             <ul class="<?= $type ?> listing">
 <?php
             foreach($items as $item):

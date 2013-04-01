@@ -29,15 +29,15 @@
 <?          endif ?>
 
             <footer class="meta">
-<?              if (!isset($page->meta)): ?>
+<?              if ($page->meta): ?>
                 <section>
                     <h1 class="hidden">About This Station</h1>
 <?=                 kirbytext($page->meta()) ?>
                 </section>
 <?              endif ?>
 
-<?              if (!isset($page->route)): ?>
-                <details open>
+<?              if ($page->route): ?>
+                <details>
                     <summary>Lines serving this station:</summary>
                     <ul>
 <?                      foreach(related($page->route()) as $routes): ?>
@@ -47,7 +47,7 @@
                 </details>
 <?              endif ?>
 
-<?              if (!isset($page->related)): ?>
+<?              if ($page->related): ?>
                 <details>
                     <summary>Related Links</summary>
 <?=                 kirbytext($page->related()) ?>
