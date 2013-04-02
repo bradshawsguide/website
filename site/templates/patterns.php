@@ -45,7 +45,7 @@
             }
         </style>
 
-        <section class="container">
+        <article>
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>
@@ -75,6 +75,6 @@
                     echo '</section><!--/.pattern-->';
                 endforeach;
             ?>
-        </section>
+        </article>
 
 <? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>

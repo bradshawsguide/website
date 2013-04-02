@@ -1,6 +1,6 @@
 <? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
 
-        <section class="container">
+        <article>
             <header>
                 <hgroup>
                     <h1><?= smartypants($page->title()) ?></h1>
@@ -53,6 +53,17 @@
                 </ol><!--/.route-->
             </section><!--/@complementary-->
 <?          endif ?>
-        </section><!--/.container-->
+
+<?          if ($page->related): ?>
+            <footer>
+                <details class="related-links">
+                    <summary>Related Links</summary>
+<?=                 kirbytext($page->related()) ?>
+                </details>
+            </footer>
+<?          endif ?>
+
+<?          snippet('shorturl') ?>
+        </article>
 
 <? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>

@@ -1,6 +1,6 @@
 <? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
 
-        <section class="container">
+        <section>
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>

@@ -1,6 +1,6 @@
 <? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
 
-        <section class="container">
+        <article>
             <header>
                 <hgroup>
                     <h1><?= smartypants($page->title()) ?></h1>
@@ -40,6 +40,6 @@
 <?php           endforeach ?>
             </section>
 <?          snippet('prevnext') ?>
-        </section><!--/.container-->
+        </article>
 
 <? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>

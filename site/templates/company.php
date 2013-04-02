@@ -1,6 +1,6 @@
 <? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
 
-        <section class="container">
+        <article>
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>
@@ -37,6 +37,19 @@
                 </ul>
 <?php           endforeach ?>
             </section>
-        </section><!--/.container-->
+
+            <footer>
+                <details class="related-links">
+                    <summary>Related Links</summary>
+<?                  if ($page->related): ?>
+<?=                     kirbytext($page->related()) ?>
+<?                  else: ?>
+                    <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>"><?= smartypants($page->title()) ?> on Wikipedia</a></p>
+<?                  endif ?>
+                </details>
+            </footer>
+
+<?          snippet('shorturl') ?>
+        </article>
 
 <? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>

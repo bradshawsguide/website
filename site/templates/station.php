@@ -1,6 +1,6 @@
 <? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
 
-        <article class="container">
+        <article>
             <header>
                 <hgroup>
                     <h1><?= smartypants($page->title()) ?></h1>
@@ -10,6 +10,10 @@
 
 <?          if (!isset($page->text)): ?>
             <div class="prose">
+<?              if ($page->meta): ?>
+<?=                 kirbytext($page->meta()) ?>
+<?              endif ?>
+
 <?              if($page->hasImages()): ?>
                 <aside>
                     <figure>
@@ -28,17 +32,10 @@
             </div>
 <?          endif ?>
 
-            <footer class="meta">
-<?              if ($page->meta): ?>
-                <section>
-                    <h1 class="hidden">About This Station</h1>
-<?=                 kirbytext($page->meta()) ?>
-                </section>
-<?              endif ?>
-
+            <footer>
 <?              if ($page->route): ?>
-                <details>
-                    <summary>Lines serving this station:</summary>
+                <details class="related-routes">
+                    <summary>Lines Serving This Station</summary>
                     <ul>
 <?                      foreach(related($page->route()) as $routes): ?>
                         <li><a href="<?= $routes->url() ?>"><?= smartypants($routes->title()) ?></a></li>
@@ -47,12 +44,14 @@
                 </details>
 <?              endif ?>
 
-<?              if ($page->related): ?>
-                <details>
+                <details class="related-links">
                     <summary>Related Links</summary>
-<?=                 kirbytext($page->related()) ?>
+<?                  if ($page->related): ?>
+<?=                     kirbytext($page->related()) ?>
+<?                  else: ?>
+                    <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>+railway+station"><?= smartypants($page->title()) ?> railway station on Wikipedia</a></p>
+<?                  endif ?>
                 </details>
-<?              endif ?>
             </footer>
 
 <?          snippet('shorturl') ?>

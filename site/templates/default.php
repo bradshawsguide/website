@@ -1,6 +1,6 @@
 <? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
 
-        <article class="container">
+        <article>
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>
@@ -45,6 +45,6 @@
             </nav>
 <?          endif ?>
 <?      endif ?>
-        </article><!--/.container-->
+        </article>
 
 <? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>
