@@ -2,6 +2,6 @@
 
         <section class="cover">
 <?=         kirbytext($page->text()) ?>
-        </section><!--/.container-->
+        </section>
 
 <? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>
