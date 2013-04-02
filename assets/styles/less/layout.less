@@ -4,6 +4,7 @@ html {
 }
 [role="banner"],
 [role="main"],
+[role="navigation"]#nav,
 [role="contentinfo"] {
     margin: 0 auto;
     padding: 0 8%;
@@ -22,7 +23,7 @@ html {
     top: 0;
     right: 0;
     left: 0;
-    z-index: 999;
+    z-index: 998;
     h1 {
         font-weight: 400;
         font-size: 1.25em; /* 20px */
@@ -38,7 +39,6 @@ html {
     }
     a[href^="#"],
     a[href="/search"] {
-        background-color: #852;
         text-indent: 100%;
         white-space: nowrap;
         overflow: hidden;
@@ -57,14 +57,30 @@ html {
         background-size: @@image-sprite-size;
         float: right;
     }
-    .container {
-        padding-top: 0;
-        padding-bottom: 0;
-    }
 }
 @media screen and (max-width: 25em) {
     [role="banner"] a span {
         display: none;
+    }
+}
+@media screen and (min-width: 40em) {
+    [role="banner"] {
+        h1 {
+            font-size: 1em;
+            background: url(@image-sprite) no-repeat 0 -4em;
+            background-size: @@image-sprite-size;
+            margin: 0.375em 0;
+            width: 2em;
+            height: 2em;
+            overflow: hidden;
+            a {
+                text-indent: 100%;
+                display: block;
+            }
+        }
+        a[href="#nav"] {
+            display: none;
+        }
     }
 }
 
@@ -109,81 +125,101 @@ html {
     Navigation
 ============================================================ */
 [role="navigation"]#nav {
-    width: 100%;
-    overflow: hidden;
     position: fixed;
     top: 0;
     left: 0;
+    right: 0;
     z-index: 999;
-    .container {
-        background-color: blue;
-        padding-top: 0;
-        padding-bottom: 0;
-        position: relative;
-        z-index: 0;
-    }
-    &:target {
-        padding-top: 2.75em;
-        height: 100%;
-    }
-    &:not(:target) {
-        height: 0;
-        z-index: 998;
-    }
-    &:target #return {
-        margin: 0;
-        height: auto;
-        position: absolute;
-        outline: 1px solid red;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        z-index: -1;
-        &:before {
-            content: "";
-            display: block;
-            width: 0;
-            height: 150%;
-        }
-    }
     a {
+        .smcp;
         border: 0;
+        display: inline-block;
     }
-    ul {
-        background-color: #fa5;
-        box-shadow:
-            0 2px 2px rgba(0,0,0,0.2),
-            0 4px 4px rgba(0,0,0,0.1);
-        margin: 0 -1em;
-        position: relative;
-        &::before {
-            content: "";
-            border: 0.5em solid;
-            border-color: transparent transparent #fa5;
-            width: 0;
-            display: block;
-            position: absolute;
-            left: 1.5em;
-            top: -1em;
+}
+@media screen and (max-width: 39.9375em) {
+    [role="navigation"]#nav {
+        &:target {
+            padding-top: 2.75em;
+            height: 100%;
         }
-        li {
-            border-top: 1px solid rgba(255,255,255,0.15);
-            border-bottom: 1px solid rgba(0,0,0,0.1);
-            &:first-of-type {
-                border-top: 0;
+        &:not(:target) {
+            height: 0;
+            overflow: hidden;
+        }
+        &:target #return {
+            margin: 0;
+            height: auto;
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: -1;
+            &:before {
+                content: "";
+                display: block;
+                width: 0;
+                height: 150%;
             }
+        }
+        ul {
+            background-color: #fa5;
+            box-shadow:
+                0 2px 2px rgba(0,0,0,0.2),
+                0 4px 4px rgba(0,0,0,0.1);
+            margin: 0 -1em;
+            position: relative;
+            &::before {
+                content: "";
+                border: 0.5em solid;
+                border-color: transparent transparent #fa5;
+                width: 0;
+                display: block;
+                position: absolute;
+                left: 1.5em;
+                top: -1em;
+            }
+            li {
+                border-top: 1px solid rgba(255,255,255,0.15);
+                border-bottom: 1px solid rgba(0,0,0,0.1);
+                &:first-of-type {
+                    border-top: 0;
+                }
+            }
+            a {
+                padding: 0.5em 1em; /* 8px 16px */
+                width: 100%;
+                &:hover {
+                    background-image: -webkit-linear-gradient(top, transparent 0, rgba(0,0,0,0.05) 100%);
+                    background-image: -moz-linear-gradient(top, transparent 0, rgba(0,0,0,0.05) 100%);
+                    background-image: -ms-linear-gradient(top, transparent 0, rgba(0,0,0,0.05) 100%);
+                    background-image: -o-linear-gradient(top, transparent 0, rgba(0,0,0,0.05) 100%);
+                    background-image: linear-gradient(top, transparent 0, rgba(0,0,0,0.05) 100%);
+                }
+            }
+        }
+    }
+}
+@media screen and (min-width: 40em) {
+    [role="navigation"]#nav {
+        text-align: center;
+        padding: 0;
+        max-width: 29em;
+        li {
+            display: inline;
         }
         a {
-            padding: 0.5em 1em; /* 8px 16px */
-            display: block;
-            &:hover {
-                background-image: -webkit-linear-gradient(top, transparent 0, rgba(0,0,0,0.05) 100%);
-                background-image: -moz-linear-gradient(top, transparent 0, rgba(0,0,0,0.05) 100%);
-                background-image: -ms-linear-gradient(top, transparent 0, rgba(0,0,0,0.05) 100%);
-                background-image: -o-linear-gradient(top, transparent 0, rgba(0,0,0,0.05) 100%);
-                background-image: linear-gradient(top, transparent 0, rgba(0,0,0,0.05) 100%);
+            color: lighten(@color-text, 50%);
+            font-size: 1.25em; /* 20px */
+            line-height: 1;
+            text-shadow: 0 1px #fff;
+            padding: 0.6em; /* 12px */
+            &.is-active {
+                color: @color-text;
             }
+        }
+        #return {
+            display: none;
         }
     }
 }
@@ -219,7 +255,7 @@ html {
         font-size: 1.3334em;
         text-indent: 100%;
         white-space: nowrap;
-        background: url(@image-sprite) no-repeat 0 -4em;
+        background: url(@image-sprite) no-repeat 0 -6em;
         background-size: @@image-sprite-size;
         margin-top: -2.5em;
         border: 0;
