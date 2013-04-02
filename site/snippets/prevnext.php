@@ -1,22 +1,22 @@
 <?php
             if ($page->hasPrev() == true) {
-                if ($page->prev()->shorttitle() != null) {
-                    $prevTitle = $page->prev()->shorttitle();
+                if ($page->prev->shorttitle != null) {
+                    $prevTitle = $page->prev->shorttitle;
                 } else {
-                    $prevTitle = $page->prev()->title();
+                    $prevTitle = $page->prev->title;
                 }
             }
 
             if ($page->hasNext() == true) {
-                if ($page->next()->shorttitle() != null) {
-                    $nextTitle = $page->next()->shorttitle();
+                if ($page->next->shorttitle != null) {
+                    $nextTitle = $page->next->shorttitle;
                 } else {
-                    $nextTitle = $page->next()->title();
+                    $nextTitle = $page->next->title;
                 }
             }
 ?>
             <nav class="prevnext">
-                <h1 class="hidden">Previous and Next <?= $page->parent()->title() ?></h1>
+                <h1 class="hidden">Previous and Next <?= $page->parent->title ?></h1>
 <?              if ($page->hasPrev() == true): ?>
                 <a href="<?= $page->prev()->url() ?>" rel="prev"><?= $prevTitle ?></a>
 <?              endif ?>
