@@ -42,12 +42,19 @@ h1 {
    -webkit-font-smoothing: antialiased;
     font-family: kameron, serif;
     font-weight: 400;
-    font-size: 2.5em; /* 40px */
-    line-height: 1; /* 40px */
-    letter-spacing: 0.025em; /* 1px */
+    font-size: 2em; /* 32px */
+    line-height: 1; /* 32px */
+    letter-spacing: 0.03125em; /* 1px */
     text-transform: uppercase;
     text-rendering: optimizeLegibility;
-    margin: 0.8em 0; /* 32px 0 */
+    margin: 1em 0; /* 32px 0 */
+}
+@media screen and (min-width: 30em) {
+    h1 {
+        font-size: 2.5em; /* 40px */
+        letter-spacing: 0.025em; /* 1px */
+        margin: 0.8em 0; /* 32px 0 */
+    }
 }
 h2,
 section > h1,
@@ -185,8 +192,8 @@ blockquote {
 
 /* Grouping > Lists */
 li {
-    margin: 0.25em 0 0.25em 1em; /* 4px 0 4px 16px */
     line-height: 1.25; /* 20px */
+    margin: 0.25em 0 0.25em 1em; /* 4px 0 4px 16px */
     p {
         text-indent: 0;
     }
@@ -196,10 +203,18 @@ ol {
     margin-bottom: 0.5em;
     padding: 0;
     li {
-        list-style-position: outside;
+        list-style-position: inside;
         margin-left: 0;
     }
 }
+@media screen and (min-width: 25em) {
+    ol {
+        li {
+            list-style-position: outside;
+        }
+    }
+}
+
 ul {
     list-style-type: none;
     margin-bottom: 0.5em;
