@@ -13,13 +13,13 @@ var addEvent = function () {
 
 // Open links in place in standalone mode
 // https://gist.github.com/irae/1042167
-(function(document,navigator,standalone) {
-    if ((standalone in navigator) && navigator[standalone]) {
-        var curnode, location=document.location, stop=/^(a|html)$/i;
-        document.addEventListener('click', function(e) {
-            curnode=e.target;
+(function(doc,nav,standalone) {
+    if ((standalone in nav) && nav[standalone]) {
+        var curnode, location=doc.location, stop=/^(a|html)$/i;
+        doc.addEventListener('click', function(e) {
+            curnode = e.target;
             while (!(stop).test(curnode.nodeName)) {
-                curnode=curnode.parentNode;
+                curnode = curnode.parentNode;
             }
             if('href' in curnode) {
                 e.preventDefault();
@@ -27,22 +27,22 @@ var addEvent = function () {
             }
         },false);
     }
-})(document,window.navigator,'standalone');
+})(this.document,window.navigator,'standalone');
 
 
 // Add class to body on scroll
-addEvent(window, 'scroll', function(e) {
-    var scroll = (document.documentElement.scrollTop)? document.documentElement.scrollTop : document.body.scrollTop,
-        html = document.getElementsByTagName('html')[0],
-        scrollClass = ' scrolled';
-    if (scroll > 40) {
-        if (html.className.indexOf(scrollClass) == -1) {
-            html.className += scrollClass;
-        }
-    } else {
-        html.className = html.className.replace(scrollClass, '');
-    }
-});
+(function(win, doc) {
+    var start = 10,
+        step = 10,
+        max = 10,
+        color = 'rgba(0,0,0,0.25)',
+        top = doc.getElementById('top');
+    addEvent(win, 'scroll', function(e) {
+        var scroll = (doc.documentElement.scrollTop)? doc.documentElement.scrollTop : doc.body.scrollTop,
+            amount = Math.min((scroll-start)/step, max);
+        top.style.boxShadow = '0 0 '+amount+'px '+color;
+    });
+}(this, this.document));
 
 
 // History Ajax Links
