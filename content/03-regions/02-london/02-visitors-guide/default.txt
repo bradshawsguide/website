@@ -88,4 +88,4 @@ The Tower of London, erected by William the Conqueror, connects itself with ever
 
 On quitting the Tower, the visitor can proceed to inspect some of the magnificent docks and warehouses further down the river--which are of surpassing importance to the Port of London, and the great commercial interests of the Kingdom, all of which cannot fail to prove of interest to the observant and inquiring traveller.
 
-In the "Guide through London" just concluded, we have indicated the most noticeable objects in the several principal thoroughfares and resorts, but as this route-plan compelled us to omit many disconnected features which yet give a character to the town, we now furnish a [London Summary](/london/summary/).
+In the "Guide through London" just concluded, we have indicated the most noticeable objects in the several principal thoroughfares and resorts, but as this route-plan compelled us to omit many disconnected features which yet give a character to the town, we now furnish a [London Summary](summary).
