@@ -67,8 +67,8 @@ historyAjax.config = {
         }
         return parts;
     }
-    function updateNav(nav, active) {
-        var nav = document.getElementById(navName);
+    function updateNav(navName, active) {
+        var nav = document.getElementById(nav);
         if (nav) {
             var navLinks = nav.getElementsByTagName('a'),
                 navActive = document.getElementById(navName+'-'+active);
