@@ -1,3 +1,16 @@
+// Add Event
+var addEvent = function () {
+    return document.addEventListener ? function (a, c, d) {
+        if (a && a.nodeName || a === window) a.addEventListener(c, d, !1);
+        else if (a && a.length) for (var b = 0; b < a.length; b++) addEvent(a[b], c, d)
+    } : function (a, c, d) {
+        if (a && a.nodeName || a === window) a.attachEvent("on" + c, function () {
+                return d.call(a, window.event)
+            });
+        else if (a && a.length) for (var b = 0; b < a.length; b++) addEvent(a[b], c, d)
+    }
+}();
+
 // Open links in place in standalone mode
 // https://gist.github.com/irae/1042167
 (function(document,navigator,standalone) {
@@ -16,18 +29,21 @@
     }
 })(document,window.navigator,'standalone');
 
-// Add Event
-var addEvent = function () {
-    return document.addEventListener ? function (a, c, d) {
-        if (a && a.nodeName || a === window) a.addEventListener(c, d, !1);
-        else if (a && a.length) for (var b = 0; b < a.length; b++) addEvent(a[b], c, d)
-    } : function (a, c, d) {
-        if (a && a.nodeName || a === window) a.attachEvent("on" + c, function () {
-                return d.call(a, window.event)
-            });
-        else if (a && a.length) for (var b = 0; b < a.length; b++) addEvent(a[b], c, d)
+
+// Add class to body on scroll
+addEvent(window, 'scroll', function(e) {
+    var scroll = (document.documentElement.scrollTop)? document.documentElement.scrollTop : document.body.scrollTop,
+        html = document.getElementsByTagName('html')[0],
+        scrollClass = ' scrolled';
+    if (scroll > 40) {
+        if (html.className.indexOf(scrollClass) == -1) {
+            html.className += scrollClass;
+        }
+    } else {
+        html.className = html.className.replace(scrollClass, '');
     }
-}();
+});
+
 
 // History Ajax Links
 historyAjax = [];
