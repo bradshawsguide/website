@@ -34,29 +34,33 @@ audio, video, canvas {
     Sectioning
 ============================================================ */
 html {
-    height: 100%;
+    
 }
 body {
     color: @color-text;
-    font-family: serif;
+   -webkit-font-feature-settings:"onum" 1, "frac" 1, "kern" 1, "liga" 1; 
+   -moz-font-feature-settings:"onum" 1, "frac" 1, "kern" 1, "liga" 1; 
+   -ms-font-feature-settings:"onum" 1, "frac" 1, "kern" 1, "liga" 1; 
+   -o-font-feature-settings:"onum" 1, "frac" 1, "kern" 1, "liga" 1; 
+    font-feature-settings:"onum" 1, "frac" 1, "kern" 1, "liga" 1;
+    font-family: libertine, serif;
     font-weight: 400;
     font-size: 1em; /* 16px */
     line-height: 1; /* 16px */
-    background: #333 url(@image-noise);
-    text-rendering: optimizeLegibility;
     margin: 0 auto;
     height: 100%;
 }
 h1 {
     color: @color-link;
    -webkit-font-smoothing: antialiased;
+    font-family: kameron, serif;
     font-weight: 400;
     font-size: 2.5em; /* 40px */
-    line-height: 1; /* 32px */
-    letter-spacing: -0.03125em; /* -1px */
+    line-height: 1; /* 40px */
+    letter-spacing: 0.025em; /* 1px */
     text-transform: uppercase;
+    text-rendering: optimizeLegibility;
     margin: 0.8em 0; /* 32px 0 */
-
 }
 h2,
 section > h1,
@@ -64,17 +68,22 @@ aside > h1,
 nav > h1 {
     color: #111;
    -webkit-font-smoothing: antialiased;
-    font-size: 1.25em; /* 20px */
-    font-weight: 900;
+    font-family: kameron, serif;
+    font-size: 1.125em; /* 18px */
+    font-weight: 700;
     letter-spacing: 1px;
-    line-height: 1.2; /* 24px */
-    letter-spacing: normal;
-    text-transform: none;
-    margin: 1.6em 0 0.8em; /* 32px 0 16px */
+    line-height: 1.1111; /* 20px */
+    letter-spacing: 0.0556em; /* 1px */
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
+    margin: 1.7778em 0 0.4444em; /* 32px 0 8px */
+    a {
+        border: 0;
+    }
 }
 h3 {
    -webkit-font-smoothing: antialiased;
-    font-weight: 400;
+    font-weight: 700;
     font-size: 1.3125em; /* 21px */
     line-height: 1.1429; /* 24px */
     margin: 1.1429em 0 0.3810em; /* 24px 0 8px */
@@ -85,6 +94,7 @@ h4 {
     font-size: 1.125em; /* 18px */
     line-height: 1.3334; /* 24px */
     margin: 1.3334em 0 0.4444em; /* 24px 0 8px */
+    text-rendering: optimizeLegibility;
 }
 h5, legend {
    -webkit-font-smoothing: antialiased;
@@ -93,28 +103,29 @@ h5, legend {
     font-size: 1em; /* 16px */
     line-height: 1; /* 16px */
     margin: 1.5em 0 0.5em; /* 24px 0 8px */
+    text-rendering: optimizeLegibility;
 }
 h6 {
     color: #666;
+   -webkit-font-smoothing: antialiased;
     font-weight: 700;
     font-size: 0.875em; /* 14px */
     line-height: 1.1429; /* 16px */
     text-transform: uppercase;
     letter-spacing: 0.1429em; /* 2px */
     margin: 1.7143em 0 0.5714em; /* 24px 0 8px */
-   -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
 }
 header {
-    margin: 2em 0 4em;
+    margin: 3em 0;
     h1 {
-        margin-bottom: -0.3em; /* 0 0 12px 0 */
+        margin-bottom: -0.1em; /* -4px */
     }
     h2 {
         font-size: 1em;
         font-weight: 400;
         text-align: center;
-        text-transform: uppercase;
-        margin: 2em 0 0;
+        margin: 0 0 2em 0;
         &::before {
             content: "";
             background-color: fade(@color-text, 50%);
@@ -126,11 +137,6 @@ header {
     }
     hgroup {
         text-align: center;
-    }
-}
-@media screen and (min-width: 40em) {
-    h1 {
-        font-size: 3em;
     }
 }
 @media screen and (min-width: 40em) {
@@ -154,15 +160,18 @@ nav ul li {
 ============================================================ */
 p, pre, blockquote, ul, ol, dl, figure, figcaption, table, fieldset {
     font-size: 1em; /* 16px */
-    line-height: 1.75; /* 28px */
+    line-height: 1.5; /* 24px */
     margin: 1em 0; /* 16px 0 */
+}
+p {
+    text-indent: 1em;
 }
 hr {
     font-weight: 700;
     font-size: 2em; /* 32px */
     line-height: 1; /* 32px */
     text-align: center;
-    margin: 1em 0 2em; /* 0 0 32px */
+    margin: 0.5em 0 1.5em; /* 16px 0 48px */
     border: 0;
     padding: 0;
     height: 0;
@@ -181,17 +190,21 @@ pre {
     white-space:  pre-wrap;
 }
 blockquote {
-    margin:1em 0 1em 3em; /* 16px 0 16px 48px */
+    margin: 1em 4em; /* 16px 64px */
     p {
         font-size: 0.875em; /* 14px */
         line-height: 1.1429; /* 16px */
         text-indent: 0;
         margin: 0.5714em 0; /* 8px 0 */
         &:first-letter {
-            margin-left: -0.5em;
+            //margin-left: -1.1429em; /* -16px */
         }
         &::before {
+            width: 0.7143em; /* 10px */
+            margin-left: -0.7143em; /* -10px */
             content: "\201C\0020";
+            display: block;
+            float: left;
         }
         &::after {
             content: "\0020\201D";
@@ -202,6 +215,10 @@ blockquote {
 /* Grouping > Lists */
 li {
     margin: 0.25em 0 0.25em 1em; /* 4px 0 4px 16px */
+    line-height: 1.25; /* 20px */
+    p {
+        text-indent: 0;
+    }
 }
 ol {
     list-style-type: decimal;
@@ -225,15 +242,18 @@ ul {
 }
 dl {
     overflow: hidden;
+    margin-bottom: 1.5em;
 }
 dt {
+    .smcp;
     margin-left: 1em; /* 16px */
     float: left;
     clear: left;
-    }
-    dt::after {
+    &::after {
         content: ".\2014";
+        margin-right: 0.25em;
     }
+}
 dd {
     margin-left: 0;
 }
@@ -268,11 +288,11 @@ a {
     a:focus {
         outline: 1px solid fade(@color-link, 30%);
     }
-    a:hover {
+    a:hover, summary:hover {
         color: @color-hover;
         border-bottom-color: fade(@color-hover, 20%);
     }
-    a:active {
+    a:active, summary:active {
         color: @color-active;
         border-bottom: 1px solid fade(@color-active, 25%);
     }
@@ -295,39 +315,21 @@ small {
     color: lighten(@color-text, 10%);
     font-size: 0.75em; /* 12px */
     line-height: 1.3334; /* 16px */
-    display: inline-block;
 }
 abbr {
-    color: lighten(@color-text, 10%);
-    font-family:'Playfair Display SC', serif;
-    font-size: 0.875em; /* 14px */
-    line-height: 90%;
-    letter-spacing: 0.0357em; /* 0.5px */
+    .c2sc;
 }
-abbr[title],
 dfn[title] {
-    border-bottom: 1px dotted fade(@color-text, 30%);
+    border-bottom: 1px dotted fade(@color-text, 20%);
     cursor: help;
 }
-kbd {
-    color: lighten(@color-text, 20%);
-    font-family: inherit;
-    font-size: 87.5%;
-    line-height: 90%;
-    background-color: #f9f9f9;
-    margin: 0 0.25em; /* 0 4px */
-    border: 1px solid #e9e9e9;
-    border-radius: 4px;
-    padding: 0.3334em 0.5em;
-    box-shadow: inset 0 1px 0 #fff;
-}
 sub {
-    font-size: smaller;
+    font-size: 0.75em; /* 12px */
     line-height: 90%;
     vertical-align: sub;
 }
 sup {
-    font-size: smaller;
+    font-size: 0.75em; /* 12px */
     line-height: 90%;
     vertical-align: super;
 }
@@ -363,11 +365,11 @@ img {
     Tabular data
 ============================================================ */
 table {
-   -webkit-font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1, "frac";
-   -moz-font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1, "frac";
-   -ms-font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1, "frac";
-   -o-font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1, "frac";
-    font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1, "frac"; 
+   -webkit-font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1;
+   -moz-font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1;
+   -ms-font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1;
+   -o-font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1;
+    font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1; 
     margin: 0 0 1em 0; /* 16px 0 */
     border-collapse: collapse;
     border-spacing: 0;
@@ -395,6 +397,7 @@ td:first-child {
     background-color: @color-beige;
     padding-right: 0.25em;
     position: relative;
+    white-space: nowrap;
 }
 td:first-child::after {
     float: right;
@@ -452,79 +455,54 @@ td:first-child + td:after {
 /* ============================================================
     Forms
 ============================================================ */
-fieldset {
-    border: 0;
-    padding: 0;
-}
-legend {
-    margin: 0;
-}
-label {
-    line-height: 1.5;
-    cursor: pointer;
-}
-button,
-input,
-select,
-textarea {
-    color: inherit;
-    font-family: inherit;
-    font-size: 100%;
-    margin: 0;
-    outline: 0;
-}
-select {
-    -webkit-appearance: button;
-    appearance: normal;
-}
-button,
-input[type="button"],
-input[type="submit"] {
-    -webkit-appearance: button;
-    line-height: normal;
-    width: auto;
-    cursor: pointer;
-    }
-    button::-moz-focus-inner,
-    input::-moz-focus-inner {
-        border: 0;
-        padding: 0;
-    }
-input[type="radio"],
-input[type="checkbox"] {
-    margin-right: 0.25em;
-}
-input[type="search"] {
-    -webkit-appearance: none;
-}
-input[type="search"]::-webkit-search-cancel-button,
-input[type="search"]::-webkit-search-decoration {
-    -webkit-appearance: none;
-}
-[disabled] {
-    cursor:  default;
-}
-
-
 /* Placeholder */
 ::-webkit-input-placeholder {
-   color: #999;
+    color: #999;
     }
     :focus::-webkit-input-placeholder {
         color: #ccc;
     }
 :-moz-placeholder {
-   color: #999;
+    color: #999;
     }
     :focus:-moz-placeholder {
         color: #ccc;
     }
 :-ms-input-placeholder {
-   color: #999;
+    color: #999;
     }
     :focus:-ms-input-placeholder {
        color: #ccc;
     }
+
+
+/* ============================================================
+    Interactive
+============================================================ */
+details {
+    .fine-line;
+    padding-top: 1em;
+    margin-top: 1em;
+}
+summary {
+    .smcp;
+    font-size: 1.25em; /* 20px */
+    font-weight: 400;
+    line-height: 1.25em;
+    display: inline-block;
+    white-space: nowrap;
+    cursor: pointer;
+    &::-webkit-details-marker {
+        color: fade(@color-text, 20%);
+        font-size: 0.8em; /* 16px */
+        position: relative;
+        top: -0.125em; /* -2px */
+    }
+    &:focus {
+        border: 0;
+        outline: 0;
+    }
+}
 
 
 /* ============================================================
