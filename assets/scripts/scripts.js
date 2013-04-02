@@ -32,7 +32,7 @@ var addEvent = function () {
 // History Ajax Links
 historyAjax = [];
 historyAjax.config = {
-	title: "Bradshaw’s Handbook for Tourists in Great Britain & Ireland"
+    title: "Bradshaw’s Handbook for Tourists in Great Britain & Ireland"
 };
 (function() {
     function findUpTag(el, tag) {
