@@ -70,37 +70,18 @@ nav > h1 {
 }
 h3 {
    -webkit-font-smoothing: antialiased;
+    .smcp;
     font-weight: 700;
     font-size: 1.3125em; /* 21px */
     line-height: 1.1429; /* 24px */
-    margin: 1.1429em 0 0.3810em; /* 24px 0 8px */
+    margin: 1.1429em 0 -0.3810em; /* 24px 0 -8px */
 }
-h4 {
+h4, legend {
    -webkit-font-smoothing: antialiased;
-    font-weight: 400;
-    font-size: 1.125em; /* 18px */
-    line-height: 1.3334; /* 24px */
-    margin: 1.3334em 0 0.4444em; /* 24px 0 8px */
-    text-rendering: optimizeLegibility;
-}
-h5, legend {
-   -webkit-font-smoothing: antialiased;
-    color: #555;
     font-weight: 700;
     font-size: 1em; /* 16px */
-    line-height: 1; /* 16px */
-    margin: 1.5em 0 0.5em; /* 24px 0 8px */
-    text-rendering: optimizeLegibility;
-}
-h6 {
-    color: #666;
-   -webkit-font-smoothing: antialiased;
-    font-weight: 700;
-    font-size: 0.875em; /* 14px */
-    line-height: 1.1429; /* 16px */
-    text-transform: uppercase;
-    letter-spacing: 0.1429em; /* 2px */
-    margin: 1.7143em 0 0.5714em; /* 24px 0 8px */
+    line-height: 1.25; /* 20px */
+    margin: 1.25em 0 -0.4em; /* 20px 0 -8px */
     text-rendering: optimizeLegibility;
 }
 header {
@@ -286,7 +267,7 @@ a {
         color: @color-active;
         border-bottom: 1px solid fade(@color-active, 25%);
     }
-em, i, cite, var {
+em, i, cite {
     font-style: italic;
     line-height: 90%;
 }

@@ -15,12 +15,6 @@ The header above is an `h3` element, which may be used for any form of page-leve
 #### Fourth-Level Header [Linked](#)
 The header above is an `h4` element, which may be used for any form of page-level header which falls below the `h3` header in a document hierarchy.
 
-##### Fifth-Level Header [Linked](#)
-The header above is an `h5` element, which may be used for any form of page-level header which falls below the `h4` header in a document hierarchy.
-
-###### Sixth-Level Header [Linked](#)
-The header above is an `h6` element, which may be used for any form of page-level header which falls below the `h5` header in a document hierarchy.
-
 ## Grouping content
 ### Paragraphs
 All paragraphs are wrapped in `p` tags. Additionally, `p` elements can be wrapped with a `blockquote` element *if the `p` element is indeed a quote*. Historically, `blockquote` has been used purely to force indents, but this is now achieved using CSS. Reserve `blockquote` for quotes.
@@ -217,42 +211,6 @@ The `time` element is used to represent either a time on a 24 hour clock, or a p
 
 <div class="example" markdown="1">
 Queen Elizabeth II was proclaimed sovereign of each of the Commonwealth realms on <time datetime="1952-02-6">6</time> and <time datetime="1952-02-7">7 February 1952</time>, after the death of her father, King George VI.
-</div>
-
-### Code
-The `code` element is used to represent fragments of computer code. Useful for technology-oriented sites, not so useful otherwise. Example:
-
-<div class="example" markdown="1">
-When you call the `activate()` method on the `robotSnowman` object, the eyes glow.
-</div>
-
-Used in conjunction with the `pre` element:
-
-<div class="example" markdown="1">
-<pre><code>function getJelly() {
-&#160;&#160;&#160;&#160;echo $aDeliciousSnack;
-}</code></pre>
-</div>
-
-### Variable
-The `var` element is used to denote a variable in a mathematical expression or programming context, but can also be used to indicate a placeholder where the contents should be replaced with your own value. Example:
-
-<div class="example" markdown="1">
-If there are <var>n</var> pipes leading to the ice cream factory then I expect at <em>least</em> <var>n</var> flavours of ice cream to be available for purchase!
-</div>
-
-### Sample output
-The `samp` element is used to represent (sample) output from a program or computing system. Useful for technology-oriented sites, not so useful otherwise. Example:
-
-<div class="example" markdown="1">
-The computer said <samp>Too much cheese in tray two</samp> but I didn't know what that meant.
-</div>
-
-### Keyboard entry
-The `kbd` element is used to denote user input (typically via a keyboard, although it may also be used to represent other input methods, such as voice commands). Example:
-
-<div class="example" markdown="1">
-To take a screenshot on your Mac, press <kbd>&#8984; Cmd</kbd> + <kbd>&#8679; Shift</kbd> + <kbd>3</kbd>.
 </div>
 
 ### Superscript and subscript text
