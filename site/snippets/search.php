@@ -4,4 +4,3 @@
          --><input type="submit" class="button" value="Search"/>
         </div>
     </form><!--/@search-->
-

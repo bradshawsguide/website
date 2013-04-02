@@ -1,5 +1,4 @@
 <? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
-
         <article>
             <header>
                 <hgroup>
@@ -11,7 +10,7 @@
 <?          if (!isset($page->text)): ?>
             <div class="prose">
 <?=             kirbytext($page->text()) ?>
-            </div><!--/@article-->
+            </div>
 <?          endif ?>
 
 <?
@@ -65,5 +64,4 @@
 
 <?          snippet('shorturl') ?>
         </article>
-
 <? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>

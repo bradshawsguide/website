@@ -10,7 +10,6 @@
 
     $results = $search->results();
 ?>
-
         <section>
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
@@ -36,5 +35,4 @@
             <p>No results for <strong><?= html($search->query()) ?></strong></p>
 <?          endif ?>
         </section>
-
 <? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>

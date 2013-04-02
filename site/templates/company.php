@@ -1,5 +1,4 @@
 <? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
-
         <article>
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
@@ -51,5 +50,4 @@
 
 <?          snippet('shorturl') ?>
         </article>
-
 <? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>
