@@ -25,11 +25,11 @@ audio, video, canvas {
 ============================================================ */
 body {
     color: @color-text;
-   -webkit-font-feature-settings:"onum" 1, "frac" 1, "kern" 1, "liga" 1; 
-   -moz-font-feature-settings:"onum" 1, "frac" 1, "kern" 1, "liga" 1; 
-   -ms-font-feature-settings:"onum" 1, "frac" 1, "kern" 1, "liga" 1; 
-   -o-font-feature-settings:"onum" 1, "frac" 1, "kern" 1, "liga" 1; 
-    font-feature-settings:"onum" 1, "frac" 1, "kern" 1, "liga" 1;
+   -webkit-font-feature-settings: "frac" 1, "kern" 1, "liga" 1; 
+   -moz-font-feature-settings: "frac" 1, "kern" 1, "liga" 1; 
+   -ms-font-feature-settings: "frac" 1, "kern" 1, "liga" 1; 
+   -o-font-feature-settings: "frac" 1, "kern" 1, "liga" 1; 
+    font-feature-settings: "frac" 1, "kern" 1, "liga" 1;
     font-family: libertine, serif;
     font-weight: 400;
     font-size: 1em; /* 16px */
@@ -289,6 +289,7 @@ small {
 }
 abbr {
     .c2sc;
+    border: 0;
 }
 dfn[title] {
     border-bottom: 1px dotted fade(@color-text, 20%);

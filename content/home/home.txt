@@ -7,13 +7,12 @@ Text:
         <span class="broad">Great Britain <abbr title="and">&</abbr> Ireland</span>
     </h1>
     <p class="pubdate">1866 Edition</p>
-    <p class="smcp">Electronically Re-mastered</p>
 </header>
 
 *(in four sections), adapted to the railway system:*
 
-## [Section I](/stations/section:1)
-### [London and its Environs](/routes/section:1);
+## Section I
+### [London and its Environs](/routes/section:1)
 including the Crystal Palace, Windsor, Hampton Court <abbr title="ecetera">&c</abbr>.
 
 ## Section II
