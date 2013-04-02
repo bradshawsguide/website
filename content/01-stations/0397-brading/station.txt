@@ -5,10 +5,9 @@ Title: Brading
 Region: Isle of Wight
 ----
 Company:
-- companies/isle-of-wight
 ----
 Route:
-- routes/isle-of-wight
+- routes/ryde-to-newchurch
 ----
 Meta: Telegraph station at Sandown, 2 miles.
 

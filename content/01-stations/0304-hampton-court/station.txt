@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Hampton Court (East&#160;Moulsey)
+Title: Hampton Court (East Moulsey)
 ----
 ShortTitle: Hampton Court
 ----

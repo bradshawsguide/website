@@ -12,9 +12,6 @@ Route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 - routes/brighton-to-lewes
 ----
-Related:
-- (link: http://en.wikipedia.org/wiki/Brighton_railway_station text: Brighton railway station)
-----
 Meta: A telegraph station.
 
 Population

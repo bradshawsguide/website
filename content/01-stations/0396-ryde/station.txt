@@ -5,12 +5,13 @@ Title: Ryde
 Region: Isle of Wight
 ----
 Company:
-- companies/isle-of-wight
 ----
 Route:
-- routes/isle-of-wight
+- routes/ryde-to-newchurch
+- routes/ryde-to-the-needles
 ----
-Wiki: http://en.wikipedia.org/wiki/Ryde_St_John's_Road_railway_station
+Related:
+- (wikipedia: Ryde St John's Road railway station)
 ----
 Meta: Distance from station at Stokes Bay, 3 miles.
 

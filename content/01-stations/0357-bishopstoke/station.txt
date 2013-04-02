@@ -13,7 +13,7 @@ Route:
 - routes/bishopstoke-to-fareham
 ----
 Related:
-- (link: http://en.wikipedia.org/wiki/Eastleigh_railway_station text: Eastleigh railway station)
+- (wikipedia: Eastleigh railway station)
 ----
 Meta: A telegraph station.
 ----

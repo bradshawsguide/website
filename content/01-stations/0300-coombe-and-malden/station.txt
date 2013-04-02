@@ -13,7 +13,7 @@ Route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
 Related:
-- (link: http://en.wikipedia.org/wiki/New_Malden_railway_station text: New Malden railway station)
+- (wikipedia: New Malden railway station)
 ----
 Meta:
 ----

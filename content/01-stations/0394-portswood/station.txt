@@ -12,7 +12,7 @@ Route:
 - routes/southampton-to-netley
 ----
 Related:
-- (link: http://en.wikipedia.org/wiki/St_Denys_railway_station text: St. Denys railway station)
+- (wikipedia: St. Denys railway station)
 ----
 Meta:
 ----

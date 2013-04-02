@@ -2,9 +2,9 @@ Text:
 <header class="title">
     <h1>
         <span class="broad">Bradshaw's</span>
-        <span class="narrow">Handbook For&#160;Tourists</span>
+        <span class="narrow">Handbook For Tourists</span>
         <span class="in">in</span>
-        <span class="broad">Great Britain <abbr title="and">&</abbr>&#160;Ireland</span>
+        <span class="broad">Great Britain <abbr title="and">&</abbr> Ireland</span>
     </h1>
     <p class="pubdate">1866 Edition</p>
     <p class="smcp">Electronically Re-mastered</p>

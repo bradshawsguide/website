@@ -12,7 +12,7 @@ Route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 ---- 
 Related:
-- (link: http://en.wikipedia.org/wiki/London_Waterloo_station text: London Waterloo railway station)
+- (wikipedia: London Waterloo railway station)
 ----
 Meta:
 ----

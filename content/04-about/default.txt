@@ -2,7 +2,32 @@ Title: About
 ----
 Type: parent
 ----
-Text: Much like the BBC television series 'Great British Train Journeys' presented by Michael Portillo, this site is inspired by the work of Victoria cartographer George Bradshaw (29 July 1801 - 6 September 1853).
+Text: ff, fi, fl, ffi, ffl, fj, ffj, ae, oe, AE, OE, etc.
+
+1/4 1/2 3/4</p>
+
+1/3 2/3 1/5 2/5 3/5 4/5 1/6 5/6 1/8 3/8 5/8 7/8 1/
+
+31/03/2013
+
+1234567890/1234567890
+
+1234567890
+
+VIII
+
+<span class="smcp">These Are Small Caps</span>
+
+<span class="c2sc">THESE ARE SMALL CAPS</span>
+
+AVAST
+
+Twisted
+
+
+Much like the BBC television series 'Great British Train Journeys' presented by Michael Portillo, this site is inspired by the work of Victoria cartographer George Bradshaw (29 July 1801 - 6 September 1853).
 
 ## Publisher's Note:
 Typographical errors appearing in the original text have been corrected, with exception of instances where the common spelling of a Victorian word would appear to differ from the modern-day equivalent. Examples include chimnies, Shakspeare and X.
+
+*[BBC]: British Broadcasting Corporation

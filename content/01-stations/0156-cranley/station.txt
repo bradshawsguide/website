@@ -11,7 +11,7 @@ Route:
 - routes/horsham-to-guildford
 ----
 Related:
-- (link: http://en.wikipedia.org/wiki/Cranleigh_railway_station text: Cranleigh railway station)
+- (wikipedia: Cranleigh railway station)
 ----
 Meta:
 ----
