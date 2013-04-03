@@ -30,31 +30,29 @@ var addEvent = function () {
 })(this.document,window.navigator,'standalone');
 
 
-// Add class to body on scroll
+// Add shadow to element on scroll
 (function(win, doc) {
-    window.touchWait = false;
     var start = 10,
         step = 10,
         max = 10,
         color = 'rgba(0,0,0,0.25)',
         top = doc.getElementById('top'),
-        updateShadow = function() {
+        setShadow = function() {
             var scroll = (doc.documentElement.scrollTop)? doc.documentElement.scrollTop : doc.body.scrollTop,
                 amount = Math.min((scroll-start)/step, max);
             top.style.boxShadow = '0 0 '+amount+'px '+color;
+        };
+    var touchThrottle = 10,
+        touchThrottleStart = touchThrottle;
+    addEvent(win, 'scroll', function(e) {
+        if (touchThrottle == 0) {
+            setShadow();
+            touchThrottle = touchThrottleStart;
         }
-    addEvent(win, 'scroll', function() {
-        updateShadow();
+        touchThrottle--;
     });
-    addEvent(win, 'touchmove', function() {
-        //console.log(touchWait);
-        if (!window.touchWait) {
-            window.touchWait = true;
-            updateShadow();
-            setTimeout(function() {
-                window.touchWait = false;
-            }, 100);
-        }
+    addEvent(win, 'touchmove', function(e) {
+        setShadow();
     });
 }(this, this.document));
 
