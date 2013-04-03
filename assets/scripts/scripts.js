@@ -32,15 +32,29 @@ var addEvent = function () {
 
 // Add class to body on scroll
 (function(win, doc) {
+    window.touchWait = false;
     var start = 10,
         step = 10,
         max = 10,
         color = 'rgba(0,0,0,0.25)',
-        top = doc.getElementById('top');
-    addEvent(win, 'scroll', function(e) {
-        var scroll = (doc.documentElement.scrollTop)? doc.documentElement.scrollTop : doc.body.scrollTop,
-            amount = Math.min((scroll-start)/step, max);
-        top.style.boxShadow = '0 0 '+amount+'px '+color;
+        top = doc.getElementById('top'),
+        updateShadow = function() {
+            var scroll = (doc.documentElement.scrollTop)? doc.documentElement.scrollTop : doc.body.scrollTop,
+                amount = Math.min((scroll-start)/step, max);
+            top.style.boxShadow = '0 0 '+amount+'px '+color;
+        }
+    addEvent(win, 'scroll', function() {
+        updateShadow();
+    });
+    addEvent(win, 'touchmove', function() {
+        //console.log(touchWait);
+        if (!window.touchWait) {
+            window.touchWait = true;
+            updateShadow();
+            setTimeout(function() {
+                window.touchWait = false;
+            }, 100);
+        }
     });
 }(this, this.document));
 
