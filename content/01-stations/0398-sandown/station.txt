@@ -21,9 +21,8 @@ Money Order Office
 : at Shanklin.
 ----
 Text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
-
-## Distances of Places from Sandown
-
+----
+Distances:
 |                       | Miles. |
 | --------------------- | ------ |
 | Adgeton               | 1      |

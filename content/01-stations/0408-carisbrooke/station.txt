@@ -27,9 +27,8 @@ Text: Carisbrooke, the former capital, where the governor used to reside. Old Ch
 A modern-built chapel and the barracks are disused. There is a well 200 feet deep of pure cold water, which is raised by a patient ass. A candle is let down to show the depth to the visitors. The views from it are pleasing, but not remarkable. Parkhurst Forest is seen, but scantily wooded. Roads turn off to Gatcombe Park, and to Shorwell, under the Downs; but the views are much inferior to those obtained from their summit, along which however, there is no regular road.
 
 At *Swainstone*, the seat of J. Simeon, Esq., a road turns off to *Newtown*, on a low creek of the Solent. It was a parliamentary borough till the reform bill disfranchised it; the town hall remains. The church was rebuilt 1837. All this coast is low and the least interesting of any in the Island.
-
-## Distances of Places from Carisbrooke
-
+----
+Distances:
 |              | Miles. |
 | ------------ | ------ |
 | Atherfield   | 6      |

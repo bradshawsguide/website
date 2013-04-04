@@ -22,8 +22,11 @@ Omnibuses
 Money Order Office
 : at Farnham.
 ----
-Text: ## Distances of Places from the Station.
+Text: The line now diverges or turns more towards the north, to [Aldershott](/stations/aldershot) station (North Camp), and thence to [Farnborough](/stations/farnborough), about a mile from the station of the same name on the [South Western](/routes/south-western) line.
 
+The line then proceeds through the valley of the Blackwater to [Blackwater](/stations/blackwater).
+----
+Distances:
 |                    | Miles   |
 | ------------------ | ------ |
 | Aldershott         | 3      |
@@ -52,7 +55,3 @@ Text: ## Distances of Places from the Station.
 | Westwood           | 1¼     |
 | Weyburn House      | 3      |
 | Winchfield Station | 9      |
-
-The line now diverges or turns more towards the north, to [Aldershott](/stations/aldershot) station (North Camp), and thence to [Farnborough](/stations/farnborough), about a mile from the station of the same name on the [South Western](/routes/south-western) line.
-
-The line then proceeds through the valley of the Blackwater to [Blackwater](/stations/blackwater).

@@ -44,9 +44,8 @@ Regatta
 Text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by steam) from Portsmouth, across Spithead. Long timber pier of 2,000 it. (or two-fifths of a mile), commanding a fine prospect and a healthy blow; for which the charge is 2d. per head, and 1d. per package! New Victoria Yacht Club House, built 1847. Chantrey's bust of Mr. Sanderson, in the Market Place. Holy Trinity Church, modern Gothic, with a spire 146ft high, Baths, hotels, lodgings (with gardens), are numerous, as are the walks and points of view around.
 
 **St. John's,** the seat of Sir R. Simeon, Bart.
-
-## Distances of Places from Ryde
-
+----
+Distances:
 |                  | Miles. |
 | ---------------- | ------ |
 | Apley            | 0¾     |
@@ -57,7 +56,7 @@ Text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by stea
 | Fearlee          | 5      |
 | Fishburn Rock    | 2¾     |
 | Haven Street     | 2½     |
-| Needles, The     | 18      |
+| Needles, The     | 18     |
 | Nettleston Point | 2      |
 | Pier, The        | 0¼     |
 | Place Street     | 0½     |

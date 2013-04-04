@@ -41,9 +41,8 @@ Near this splendid pile are the cloisters, with 811 coats of arms placed round; 
 Riding Gate is in Watling Street, on the old road from London, which Chaucer's pilgrims travelled from the Tabard in Southwark, and put up at Chaucer's Inn, in Mercery Lane here, of which few traces are left. Close to this gate is the Donjon or Dane John Terrace, a pleasant spot, laid out as a public walk, and which presents a most gay and lively scene when the élite of the neighbourhood assemble here, once weekly, to enjoy their favourite opera airs, skillfully played by the band of the regiment that may be quartered at the barracks. Westgate is near this; and some other portions of the city walls remain.
 
 Canterbury has a Guildhall, sessions house, cavalry and other barracks, with several schools and hospitals. St. Nicholas's hospital, at Harbledown, was founded by Archbishop Lanfranc in the 11th century. That part of the neighbourhood near the Dover road, is dotted all over with fine scats.
-
-## Distances of Places from the Station
-
+----
+Distances:
 |                  | Miles. |
 | ---------------- | ------ |
 | Adisham Down     | 5      |

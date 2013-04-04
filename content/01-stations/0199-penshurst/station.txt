@@ -32,8 +32,9 @@ Text: This is a small but exceedingly pretty village, celebrated for its fine ol
 
 *Wilderness*, the seat of the Marquis of Camden, about two miles beyond Seven Oaks, is a more modern mansion, but most beautifully situated.
 
-## Distances of Places from the Station
-
+A few miles more, in the course of which we thrice cross the winding Medway, brings us to [Tunbridge](/stations/tunbridge).
+----
+Distances:
 |                                        | Miles. |
 | -------------------------------------- | ------ |
 | Belle Vue (Col. Austen's)              | 3      |
@@ -47,5 +48,3 @@ Text: This is a small but exceedingly pretty village, celebrated for its fine ol
 | Penshurst Park (Lord de L'Isle Dudley) | 1¾     |
 | Salmonds                               | 2      |
 | South Park Hill                        | 3½     |
-
-A few miles more, in the course of which we thrice cross the winding Medway, brings us to [Tunbridge](/stations/tunbridge).

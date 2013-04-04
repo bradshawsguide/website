@@ -30,8 +30,9 @@ Fairs.--
 ----
 Text: Newport, the capital of the Island, a clean, we built, country town, in a hollow, on the river Medina which divides the Island nearly in halves. Cracknell biscuits are manufactured here; but Cowes is the real place where they were first made. Population 8,047. It sends two members to parliament. Town Hall built 1816, by Nash. Old church, in which Charles I.'s daughter Elizabeth is buried. Large House of Industry for the Island, on the Cowes road; not far from the Albany barracks, whither recruits are sent for exercise, and the Parkhurst Reformatory for boys.
 
-## Distances of Places from Newport
-
+For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.
+----
+Distances:
 |                                   | Miles. |
 | --------------------------------- | ------ |
 | Albany Barracks                   | 0½     |
@@ -60,5 +61,3 @@ Text: Newport, the capital of the Island, a clean, we built, country town, in a 
 [^1]: Built before the Conquest
 [^2]: Tomb of Charles First's daughter, Princess Elizabeth
 [^3]: Monument to Tyerman the Missionary, and lines by Montgomery
-
-For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.

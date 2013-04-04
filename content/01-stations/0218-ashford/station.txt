@@ -33,9 +33,8 @@ Three miles N.E. is **Eastwell Park**, the seat of the Earl of Winchelsea, stand
 Within two or three miles of Ashford are the following seats:--*Merstham Hatch*, Sir Norton Knatchbull, Bart; *Hothfield*, Sir R. Tufton, Bart., for ages the seat of the Thanet (or Tufton family), and near Ripley, where Sheriff Iden seized and killed Jack Cade, who was hiding here. *Surrenden*, an. ancient family seat of the Derings, descended from the Sir Edward whose sufferings in the civil war are eloquently described by Southey in the <cite>Book of the Churches.</cite> *Godington*, N. Toke, Esq., was the seat of Sheriff Toke, a hearty, vigorous old man, who died 1680, when 93 years old, having walked to London a little before to court his sixth wife. He and his four predecessors at Godington counted 430 years among them.
 
 All this east end of the Weald of Kent is thick with woodlands, like the rest of that fertile tract, but the roads are damp and heavy.
-
-## Distances of Places from the Station
-
+----
+Distances:
 |                             | Miles. |
 | --------------------------- | ------ |
 | Badlesmere                  | 8      |

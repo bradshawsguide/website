@@ -27,11 +27,22 @@
                     </figure>
                 </aside>
 <?              endif ?>
-<?=             kirbytext($page->text()); ?>
+<?=             kirbytext($page->text); ?>
             </div>
 <?          endif ?>
 
             <footer>
+<?              if ($page->distances): ?>
+                <details class="related-distances">
+<?                  if ($page->region == "Isle of Wight"): ?>
+                    <summary>Distances of Places from <?= smartypants($page->title) ?></summary>
+<?                  else: ?>
+                    <summary>Distances of Places from the Station</summary>
+<?                  endif ?>
+<?=                 kirbytext($page->distances); ?>
+                </details>
+<?              endif ?>
+
 <?              if ($page->route): ?>
                 <details class="related-routes">
                     <summary>Lines Serving This Station</summary>

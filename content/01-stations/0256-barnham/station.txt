@@ -18,10 +18,10 @@ Hotels.--
 
 Money Order Office
 : at Arundel.
-
 ----
-Text: ## Distances of Places from the Station
-
+Text: This station forms the junction of a short line to [Bognor](/stations/bognor).
+----
+Distances:
 |                     | Miles. |
 | ------------------- | ------ |
 | Aldingbourne        | 1      |
@@ -35,7 +35,7 @@ Text: ## Distances of Places from the Station
 | Eastergate          | 0¾     |
 | Feltham             | 2½     |
 | Goodwood            | 4      |
-| Guildford           | 24      |
+| Guildford           | 24     |
 | Halnaker            | 3      |
 | Halnaker House      | 3½     |
 | Head Wane           | 2½     |
@@ -48,7 +48,7 @@ Text: ## Distances of Places from the Station
 | North Bersted       | 2      |
 | North Field         | 1½     |
 | Norton              | 1¾     |
-| Nudhurst & Petworth | 12      |
+| Nudhurst & Petworth | 12     |
 | Poor House          | 1¼     |
 | Shripland           | 2      |
 | Shripudy            | 2      |
@@ -56,5 +56,3 @@ Text: ## Distances of Places from the Station
 | Tangmere            | 2½     |
 | Upper Waltham       | 6      |
 | Westergate          | 1¼     |
-
-This station forms the junction of a short line to [Bognor](/stations/bognor).

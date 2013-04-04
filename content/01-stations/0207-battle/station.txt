@@ -33,8 +33,9 @@ Text: This town was formerly called Epiton, and received its present name from b
 
 The mingled scene of hill and dale, wood and village, presents one of those fair spots in nature which refresh the traveller, who, hurrying through tunnel and cutting, to annihilate time and space, too often disregards the beauty of the country through which he passes.
 
-## Distances of Places from the Station
-
+Four miles further is [St. Leonards](/stations/st-leonards) station.
+----
+Distances:
 |                               | Miles. |
 | ----------------------------- | ------ |
 | Ashburnham                    | 5      |
@@ -58,5 +59,3 @@ The mingled scene of hill and dale, wood and village, presents one of those fair
 | Watch Gate                    | 1½     |
 | Westfield                     | 3¾     |
 | Whatlington                   | 3      |
-
-Four miles further is [St. Leonards](/stations/st-leonards) station.

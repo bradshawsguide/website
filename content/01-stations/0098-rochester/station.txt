@@ -39,9 +39,8 @@ An amphitheatre of hills encircles the beautiful landscape. The Medway below ser
 Rochester now consists principally of one long street, called High Street, which crosses it from east to west, terminating on the river a little below the new iron bridge.
 
 In the vicinity are *Upnor Castle*, a fort built by Queen Elizabeth to guard the town (1½ mile); *Cobham Park and Hall*, (3 miles); *Gad's Hill*, (2½ miles); and *Blue Bell Down* on the Maidstone road, a walk over which, crossing over Aylesford Bridge, and back by the banks of the river, will be found interesting and alluring, for its varied prospects.
-
-## Distances of Places from the City.
-
+----
+Distances:
 |                 | Miles. |
 | --------------- | ------ |
 | Bairborough     | 3      |

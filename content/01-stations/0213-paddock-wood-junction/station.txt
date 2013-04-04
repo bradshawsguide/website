@@ -18,8 +18,9 @@ Meta: A telegraph station.
 Money Order Office
 : at Tunbridge
 ----
-Text: ## Distances of Places from the Station
-
+Text:
+----
+Distances:
 |                                     | Miles. |
 | ----------------------------------- | ------ |
 | Bowling Green                       | 1¾     |
