@@ -18,9 +18,9 @@
             <nav class="prevnext">
                 <h1 class="hidden">Previous and Next <?= $page->parent->title ?></h1>
 <?              if ($page->hasPrev() == true): ?>
-                <a href="<?= $page->prev()->url() ?>" rel="prev"><?= $prevTitle ?></a>
+                <a href="<?= $page->prev()->url() ?>" rel="prev"><?= smartypants($prevTitle) ?></a>
 <?              endif ?>
 <?              if ($page->hasNext() == true): ?>
-                <a href="<?= $page->next()->url() ?>" rel="next"><?= $nextTitle ?></a>
+                <a href="<?= $page->next()->url() ?>" rel="next"><?= smartypants($nextTitle) ?></a>
 <?              endif ?>
             </nav><!--/.prevnext-->
