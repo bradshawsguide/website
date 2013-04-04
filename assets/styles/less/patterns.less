@@ -111,6 +111,97 @@ img.pull-right {
 
 
 /* ============================================================
+    Related Distances
+============================================================ */
+.related-distances {
+    tr {
+        display: block;
+    }
+    th {
+        font-size: 0;
+    }
+    th:first-child,
+    td:first-child,
+    th:first-child + th,
+    td:first-child + td {
+        background-color: @color-beige;
+    }
+    td:first-child + td::before {
+        content: "...";
+        letter-spacing: 0.25em;
+    }
+    td:first-child + td::after {
+        content: " miles";
+    }
+}
+@media screen and (min-width: 30em) {
+    .related-distances {
+        table {
+            width: 100%;
+            overflow: hidden;
+        }
+        td, th {
+            padding: 0;
+        }
+        th {
+            font-size: 1em;
+        }
+        tr {
+            display: table-row;
+        }
+        th:first-child,
+        td:first-child {
+            float: left;
+            position: relative;
+        }
+        th:first-child + th,
+        td:first-child + td {
+            padding-left: 0.5em;
+            width: 3em;
+            float: right;
+            position: relative;
+            z-index: 1;
+        }
+        td:first-child + td::before,
+        td:first-child + td::after {
+            content: none;
+        }
+        td:first-child::after {
+            content: ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .";
+            white-space: nowrap;
+            margin-left: 0.25em;
+            position: absolute;
+        }
+    }
+}
+@media screen and (min-width: 48.5em) {
+    .related-distances {
+        table {
+            position: relative;
+            &::after {
+                content: "Miles.";
+                padding-left: 0.5em;
+                width: 3em;
+                position: absolute;
+                top: 0;
+                right: 0;
+            }
+        }
+        tr {
+            width: 50%;
+            display: block;
+            float: left;
+        }
+        td:first-child::after {
+            margin-left: 0.5em;
+            width: 14em;
+            overflow: hidden;
+        }
+    }
+}
+
+
+/* ============================================================
     Related Links
 ============================================================ */
 [class^="related"] {
@@ -131,8 +222,6 @@ img.pull-right {
 .shorturl {
     text-align: center;
     .fine-line;
-    padding-top: 1em;
-    margin-top: 1em;
     h1 {
         color: lighten(@color-text, 50%);
         font-size: 0.875em; /* 14px */
@@ -277,9 +366,8 @@ ol.route {
 
 /* County/station/line listing */
 ul.listing {
-    margin: 0 0 2em 0;
     .fine-line;
-    padding-top: 0.5em;
+    margin-bottom: 2em;
     overflow:hidden;
     li {
         color:fade(@color-text, 66%);
@@ -326,9 +414,9 @@ h2.index {
 @media screen and (min-width: 55em) {
     h2.index {
         line-height: 1.5; /* 48px */
-        margin: 0 0 0 -1.5em; /* 0 0 0 -48px */
         .fine-line;
-        padding-top: 0.125em; /* 4px */
+        margin: 0 0 0 -1.5em; /* 0 0 0 -48px */
+        padding-top: 0.375em; /* 12px */
         width: 1.5em; /* 48px */
         float: left;
     }

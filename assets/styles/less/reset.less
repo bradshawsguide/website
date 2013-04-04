@@ -136,7 +136,7 @@ nav ul {
 /* ============================================================
     Grouping
 ============================================================ */
-p, pre, blockquote, ul, ol, dl, figure, figcaption, table, fieldset {
+p, pre, blockquote, ul, ol, dl, figure, figcaption, table, fieldset, details {
     font-size: 1em; /* 16px */
     line-height: 1.5; /* 24px */
     margin: 1em 0; /* 16px 0 */
@@ -359,85 +359,18 @@ table {
    -ms-font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1;
    -o-font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1;
     font-feature-settings:"liga" 0, "lnum" 1, "tnum" 1; 
-    margin: 0 0 1em 0; /* 16px 0 */
     border-collapse: collapse;
     border-spacing: 0;
-    width: 100%;
-    overflow: hidden;
 }
 caption {
     caption-side: bottom;
     color: #666;
-}
-tr {
-    display: block;
 }
 td, th {
     font-weight: 400;
     text-align: left;
     vertical-align: top;
     padding: 0.125em 0; /* 2px 0 */
-}
-th {
-    font-size: 0;
-}
-th:first-child,
-td:first-child {
-    background-color: @color-beige;
-    padding-right: 0.25em;
-    position: relative;
-    white-space: nowrap;
-}
-td:first-child::after {
-    float: right;
-}
-th:first-child + th,
-td:first-child + td {
-    background-color: @color-beige;
-    white-space: nowrap;
-    min-width: 4em;
-}
-td:first-child + td:before {
-    content: ". . . ";
-}
-td:first-child + td:after {
-    content: " miles";
-}
-@media screen and (min-width:32em) {
-    td, th {
-        padding: 0;
-    }
-    th {
-        font-size: 1em;
-    }
-    th:first-child,
-    td:first-child {
-        float: left;
-        clear: left;
-        z-index: 1;
-        position: relative;
-    }
-    th:first-child + th,
-    td:first-child + td {
-        background-color: @color-beige;
-        margin-left: 4em;
-        padding-left: 0.5em;
-        width: 2.5em;
-        float: right;
-        position: relative;
-        z-index: 1;
-    }
-    td:first-child + td:before,
-    td:first-child + td:after {
-        content: none;
-    }
-    td:first-child::after {
-        content: ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .";
-        white-space: nowrap;
-        margin-left: 0.25em;
-        position: absolute;
-        z-index: -1;
-    }
 }
 
 
@@ -470,14 +403,15 @@ td:first-child + td:after {
 ============================================================ */
 details {
     .fine-line;
-    padding-top: 1em;
-    margin-top: 1em;
+    &[open] {
+        padding-bottom: 0.25em; /* 4px */
+    }
 }
 summary {
     .smcp;
     font-size: 1.25em; /* 20px */
     font-weight: 400;
-    line-height: 1.25em;
+    line-height: 1;
     display: inline-block;
     white-space: nowrap;
     cursor: pointer;
