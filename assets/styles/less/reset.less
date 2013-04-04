@@ -188,6 +188,9 @@ blockquote {
             content: "\0020\201D";
         }
     }
+    & + p.caption {
+        margin: -0.6667em 0 0 4.6667em; /* -8px 0 0 56px */
+    }
 }
 
 /* Grouping > Lists */
@@ -232,13 +235,10 @@ dl {
 }
 dt {
     .smcp;
+    margin-right: 0.25em; /* 4px */
     margin-left: 1em; /* 16px */
     float: left;
     clear: left;
-    &::after {
-        content: ".\2014";
-        margin-right: 0.25em;
-    }
 }
 dd {
     margin-left: 0;
@@ -252,11 +252,12 @@ figure {
         padding: 1px;
     }
 }
-figcaption {
-    color: #666;
-    font-size: 0.8125em; /* 13px */
-    line-height: 1.2308; /* 16px */
-    margin: 0.6154em 0; /* 8px 0 */
+figcaption,
+.caption {
+    .smcp;
+    font-size: 0.75em; /* 12px */
+    line-height: 1.3333; /* 16px */
+    margin: 0.6667em 0; /* 8px 0 */
     p {
         text-indent:0;
     }
@@ -281,6 +282,7 @@ a {
     a:active, summary:active {
         color: @color-active;
         border-bottom: 1px solid fade(@color-active, 25%);
+        outline: 0;
     }
 em, i, cite {
     font-style: italic;
