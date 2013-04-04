@@ -32,7 +32,7 @@ var addEvent = function () {
 
 // Add shadow to element on scroll
 (function(win, doc) {
-    var start = 10,
+    var start = 0,
         step = 10,
         max = 10,
         color = 'rgba(0,0,0,0.25)',
@@ -42,14 +42,14 @@ var addEvent = function () {
                 amount = Math.min((scroll-start)/step, max);
             top.style.boxShadow = '0 0 '+amount+'px '+color;
         };
-    var touchThrottle = 10,
-        touchThrottleStart = touchThrottle;
+//  var touchThrottle = 10,
+//      touchThrottleStart = touchThrottle;
     addEvent(win, 'scroll', function(e) {
-        if (touchThrottle == 0) {
+//      if (touchThrottle == 0) {
             setShadow();
-            touchThrottle = touchThrottleStart;
-        }
-        touchThrottle--;
+//          touchThrottle = touchThrottleStart;
+//      }
+//      touchThrottle--;
     });
     addEvent(win, 'touchmove', function(e) {
         setShadow();
