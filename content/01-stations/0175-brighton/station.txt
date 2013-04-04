@@ -14,22 +14,22 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 77,693.
 
-Hotels
+Hotels.--
 : The Grand Hotel; The Bedford; Royal York; Bristol; Old Ship; Pier; the Clarence, &c.
 
 Omnibuses
 : to and from the station and Hove every train.
 
-Market Days
+Market Days.--
 : Tuesday (corn), and Saturday.
 
-Fairs
+Fairs.--
 : Holy Thursday, and September 4th.
 
-Bankers
+Bankers.--
 : Hall, Lloyd, Bevan, and West; London and County Bank; J. G. Cockburn.
 
 ----

@@ -12,7 +12,7 @@ Route:
 ----
 Meta: Telegraph station at Egham, 2 miles
 
-Hotel
+Hotel.--
 : Wheatsheaf.
 ----
 Text: This beautiful lake, situated in Windsor Forest, was planned by the Duke of Cumberland, above 100 years ago. Open daily to the public. It is the largest piece of artificial water in the kingdom, if that can be called artificial where man has only collected the streams of the district into a natural basin. The surrounding scenery is exceedingly pleasing and picturesque. After passing through a woody dell, we come to some serpentine walks, which lead in different directions; those to the right conducting us to a somewhat steep hill, on the summit of which stands a handsome Gothic battlemented building, called *Belvidere*; and those to the left leading to the margin of the lake. At the head of the lake is a cascade, descending some twenty feet, over massive fragments of stone, into a dark glen or ravine. Near it is an obelisk standing on a small mount, and bearing the following inscription, added by William IV.:--"This obelisk was raised by the command of George II., after the battle of Culloden, in commemoration of the services of his son William, Duke of Cumberland, the success of his arms, and the gratitude of his father." There is a road hence to the banks of the lake, where we can reach a rustic bridge, and get a fine view of the waterfall and its cavern adjacent, formed of stones brought from Bagshot Heath, where they indicated the ruins of a Saxon cromlech. At the point where the lake is widest, a fishing temple was erected by George IV.

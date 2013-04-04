@@ -15,4 +15,4 @@ Route:
 ----
 Meta:
 ----
-Text: A [line](/routes/sevenoaks) here turns off to the right, 8 miles long, passing through [Eynesford](eynesford) and [Shoreham](shoreham), to [Sevenoaks](sevenoaks).
+Text: A [line](/routes/sevenoaks) here turns off to the right, 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to [Sevenoaks](/stations/sevenoaks).

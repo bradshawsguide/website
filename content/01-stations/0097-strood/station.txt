@@ -15,10 +15,10 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotel
+Hotel.--
 : Old George.
 
 Steam Boats
 : to Sheerness several times daily.
 ----
-Text: A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](rochester).
+Text: A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](/stations/rochester).

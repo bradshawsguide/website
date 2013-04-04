@@ -12,19 +12,19 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 8,059.
 
-Hotel
+Hotel.--
 : Dolphin.
 
 Coaches
-: To and from Godalming, daily; Petworth, and Midhurst, thrice weekly.
+: to and from Godalming, daily; Petworth, and Midhurst, thrice weekly.
 
-Market Days
+Market Days.--
 : Wednesdays and Saturdays
 
-Fairs
+Fairs.--
 : St. George's Day, Whit Monday, St. James's Day, Michaelmas Day, and ten days after.
 ----
 Text: Like Chester, Chichester is an old town on the square Roman plan, but the marks of antiquity are less decided. The Romans called it *Regni*, but Cista, the king of the south Saxons christened it *Cisaceaster*, from which the modern name is corrupted. It is a clean neatly built cathedral city and parliamentary borough (returns two members), in *Sussex*, on the South Coast Railway, 16 miles from Portsmouth. Four principal streets within the site of the ancient walls intersect at the middle, where stands Bishop Story's decorated English *Market Cross*, which is considered one of the richest and most beautiful specimens of this kind of building in England. The same prelate also founded the *Grammar School*, 1497, in which Archbishop Juxom, the learned Selden, and Collins and Hardis, the poets, were educated. The *Guildhall* was once the chapel to a Mary. The last of the four gates was removed when the gaol was built, 1783. There are eight churches, some of which suffered in the civil war, two being actually dismantled by the royalists, 1642, to strengthen the walls, which now form a walk round the town, and are planted with fine elms. Chichester is a port, and as such has a custom house and staff of officials, but the trade is not considerable. Vessels of 180 tons burthen can come up to the harbour quay, about 1½ mile from the town.

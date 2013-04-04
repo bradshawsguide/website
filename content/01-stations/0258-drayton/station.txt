@@ -15,6 +15,6 @@ Meta: Telegraph station at Chichester, 2 miles.
 Distance from station, ½ mile.
 
 Money Order Office
-: Chichester.
+: at Chichester.
 ----
 Text: 

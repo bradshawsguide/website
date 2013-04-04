@@ -11,16 +11,16 @@ Route:
 ----
 Meta: Telegraph station at Sandown, 2 miles.
 
-Hotels
+Hotels.--
 : Bugle; Wheat Sheaf.
 
 Coaches
 : to and from Newport, daily.
 
-Market Day
+Market Day.--
 : Saturday.
 
-Fairs
+Fairs.--
 : May 1st and Sept. 21st
 
 Money Order Office

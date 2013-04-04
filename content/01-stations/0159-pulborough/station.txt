@@ -13,4 +13,4 @@ Route:
 ----
 Meta:
 ----
-Text: The junction of a short line to [Petworth](petworth).
+Text: The junction of a short line to [Petworth](/stations/petworth).

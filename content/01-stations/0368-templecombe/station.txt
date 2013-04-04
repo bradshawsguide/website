@@ -1,8 +1,6 @@
 ﻿Section: 1
 ----
-Title: Templecombe Junction
-----
-ShirtTitle: Templecombe
+Title: Templecombe 
 ----
 Region: Somerset
 ----
@@ -14,4 +12,4 @@ Route:
 ----
 Meta:
 ----
-Text:
+Text: (Junction)

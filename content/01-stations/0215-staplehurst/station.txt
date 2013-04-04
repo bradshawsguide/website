@@ -12,10 +12,10 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : South Eastern, King's Head.
 
-Fairs
+Fairs.--
 : Monday after July 20th, Wednesday after September 20th.
 ----
 Text: The village of the same name is near the station; its fine old church and quaint antique houses are much admired.

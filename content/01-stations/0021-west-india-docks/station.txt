@@ -12,4 +12,4 @@ Route:
 ----
 Meta:
 ----
-Text: Particulars of which [can be found here](/regions/london/london-bridge-to-herne-bay#west-india-docks).
+Text: Particulars of which [can be found here](/routes/london-bridge-to-herne-bay#west-india-docks).

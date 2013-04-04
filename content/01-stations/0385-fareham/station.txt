@@ -14,16 +14,16 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 4,O11.
 
-Hotel
+Hotel.--
 : Red Lion.
 
-Market Day
+Market Day.--
 : Tuesday.
 
-Fare
+Fare.--
 : June 29th.
 ----
 Text: The trade of this place consists of coal, corn, canvas, and ropes. Much resorted to in the sea-bathing season.

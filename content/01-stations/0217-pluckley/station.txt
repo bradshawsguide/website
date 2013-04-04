@@ -14,7 +14,7 @@ Meta: Distance from station, 1¼ mile.
 
 A telegraph station.
 
-Fairs
+Fairs.--
 : Whit Mondays (Toys and Pedlery), Feast of St. Nicholas (cattle).
 
 Money Order Office

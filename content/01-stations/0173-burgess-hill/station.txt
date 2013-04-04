@@ -12,8 +12,8 @@ Route:
 ----
 Meta: A telegraph station.
 
-Money Order Office
+Money Order Office,
 : Hurst.
 
 ----
-Text: The line passes through a beautiful, cultivated, and fertile country to [Hassock's Gate](hassocks-gate).
+Text: The line passes through a beautiful, cultivated, and fertile country to [Hassock's Gate](/stations/hassocks-gate).

@@ -14,10 +14,10 @@ Route:
 ----
 Meta: A telegraph station.
 
-Market Day
+Market Day.--
 : Saturday.
 
-Fairs
+Fairs.--
 : May 4, and October 7.
 ----
 Text: Ticehurst is rather a large town, situated on high ground, about three miles and a half to the east of the station, in the midst of a splendid agricultural country.

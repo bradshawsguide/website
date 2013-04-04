@@ -12,4 +12,4 @@ Route:
 ----
 Meta:
 ----
-Text: A short distance from [Woolwich Arsenal](woolwich-arsenal) Station.
+Text: A short distance from [Woolwich Arsenal](/stations/woolwich-arsenal) Station.

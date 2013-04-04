@@ -13,11 +13,11 @@ Route:
 ----
 Meta: A telegraph station. Distance from station, ¾ mile.
 
-Hotels
+Hotels.--
 : Claremont, Norfolk.
 
 Money Order Office
-: Arundel.
+: at Arundel.
 
 ----
 Text: ## Distances of Places from the Station
@@ -57,4 +57,4 @@ Text: ## Distances of Places from the Station
 | Upper Waltham       | 6      |
 | Westergate          | 1¼     |
 
-This station forms the junction of a short line to [Bognor](bognor).
+This station forms the junction of a short line to [Bognor](/stations/bognor).

@@ -15,7 +15,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotel
+Hotel.--
 : Railway Hotel.
 
 <span class="smcp">Money Order Office</span>.

@@ -12,13 +12,13 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : Castle; White Hart
 
-Market Days
+Market Days.--
 : Wednesday and Saturday
 
-Fairs
+Fairs.--
 : Easter Tuesday, July 5th, and October 25th.
 ----
 Text:
@@ -84,7 +84,7 @@ The York and Lancaster gate, or main entrance to the Castle, fronts the Long Ave
 
 From the Castle gate a noble avenue of tall spreading elms, three miles long, and nearly 300 ft. broad, leading to the great Park, to Snow Hill, a low eminence surmounted by Westmacott's massive statue of George III, 66 ft high, including the pedestal Cooper's Hill, Runnymede, and the Thames, Harrow Hill, &c. are visible. Here, the scenery becomes wild and forest like. The original Windsor Forest extended over 15 or 20 miles, almost to Reading. Near this is Cranbourne Lodge in the neighbourhood of the Conqueror's Oak, an ancient tree, nine or ten centuries old, 26 ft in girth and quite hollow. Queen Anne's, Queen Caroline's, Queen Charlotte's, Queen Adelaide's and Queen Victoria's trees are also seen, the last being bare for 50 ft. from the root.
 
-From the statue it is two miles further to [Virginia Water](virginia-water).
+From the statue it is two miles further to [Virginia Water](/stations/virginia-water).
 
 **Eton College**, on the Bucks side of the Thames, was founded 1440 by Henry VI., upon the plan of Winchester; its object being to supply King's College at Cambridge, as William of Wykeham's supplies New College at Oxford. Two brick quadrangles, in one of which is the founder's bronze statue, the chapel and upper school, built by Wren; and in the other the ancient Commons' Hall; the new buildings are in the Tudor style, The chapel is Gothic, 175 ft. long, with turrets at each comer. Bacon's statue (marble) of Henry VI. is under the west window. A brass of Lord Gray (1521), deserves notice; the oldest is 1424. Sir H. Wotton and John Hales are buried here. Busts of Gray, Fox, Canning, &c., in the upper school, and other Etonians. Peel, the late Duke of Wellington, Chatham, Porson, are on the list. Album, with autographs of the Queen, Prince Albert, Louis Philippe, &c, in the library, which contains many books, MSS., curious maps, &c. A collection of portraits at the Provost's apartments.
 

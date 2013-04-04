@@ -15,13 +15,13 @@ Meta: A telegraph station.
 
 On the borders of the New Forest.
 
-Hotel
+Hotel.--
 : White Hart.
 
-Market Day
+Market Day.--
 : Wednesday.
 
-Fairs
+Fairs.--
 : July 10th and December 11th.
 ----
 Text: The town is situated on the Avon, on the borders of the New Forest, and forms the junction of a short line, about seven miles in length.

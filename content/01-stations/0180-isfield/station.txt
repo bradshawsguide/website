@@ -8,7 +8,7 @@ Company:
 - companies/london-brighton-and-south-coast
 ----
 Route:
-- routes/uckfield
+- routes/lewes-to-uckfield
 ----
 Meta:
 ----

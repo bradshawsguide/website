@@ -14,10 +14,10 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : King's Arms, first-class, private and commercial gentlemen, family and commercial.
 
-Races
+Races.--
 : Hampton, on Moulsey Hurst, in June.
 ----
 Text: The situation of Hampton Court, which stands on the north bank of the Thames, about twelve miles from London, is so happily described by Pope, that we cannot resist quoting the favourite passage:--

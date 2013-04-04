@@ -15,10 +15,10 @@ Meta: Distance from station, 1 mile
 
 A telegraph station
 
-Hotels
+Hotels.--
 : White Hart; Railway.
 
-Fair
+Fair.--
 : Whit Tuesday.
 ----
 Text: On both sides of the line Woking Common is seen to extend for miles, only broken by the windings of the Basingstoke Canal, and terminated by a long range of woodland scenery, which stands out in picturesque relief against the horizon.

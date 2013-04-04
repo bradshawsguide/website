@@ -16,10 +16,10 @@ Meta: Distance from station, ½ mile.
 
 A telegraph station.
 
-Population
+Population,
 : 1,102.
 
-Hotels
+Hotels.--
 : Coach and Horses; Rose and Crown; Star and Garter.
 
 Omnibuses
@@ -38,4 +38,4 @@ The royal pleasure grounds are open to the public on Thursdays and Sundays, from
 > Obedient sails from realms unfurrow'd bring
 > For her the unnamed progeny of spring.
 
-Passing the extensive works of the West London Water Company, the line continues principally through market gardens to Boston Lane, where the [Brentford](brentford) station is conveniently placed.
+Passing the extensive works of the West London Water Company, the line continues principally through market gardens to Boston Lane, where the [Brentford](/stations/brentford) station is conveniently placed.

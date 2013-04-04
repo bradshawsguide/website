@@ -14,7 +14,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 5,505.
 ----
 Text: Principally composed of one long street; market house, supported on pillars. Dr. Johnson's wife and Hawkesworth, the author of the "Adventurer" lie buried here.

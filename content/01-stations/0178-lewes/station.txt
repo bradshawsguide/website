@@ -15,16 +15,16 @@ Route:
 ----
 Meta: Distance from station, ½ mile. A telegraph station.
 
-Population
+Population,
 : 9,716.
 
-Hotels
+Hotels.--
 : White Hart, family; Crown, commercial.
 
-Market Day
+Market Day.--
 : Tuesday.
 
-Fairs
+Fairs.--
 : Whit Tuesday, May 6th, July 26th, and September 21st.
 
 ----

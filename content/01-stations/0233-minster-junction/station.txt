@@ -20,7 +20,7 @@ A telegraph station.
 Omnibuses
 : to and from the station.
 
-Fair
+Fair.--
 : Palm Monday.
 
 Money Order Office
@@ -30,4 +30,4 @@ Text: Many of our readers may not be aware that this spot, and the whole neighbo
 
 Minster is a delightful looking village, and exceedingly interesting. The fine old church is said to be the oldest Christian church in England. The interior has been recently restored, and is very beautiful.
 
-From Minuter to Ramsgate the line is on a tolerably steep incline. Kent and the Kentish coast have long been celebrated for their delicious climate and exquisite pastoral scenery, and the railway passes through a fine panorama of marine and picturesque views, until it reaches [Ramsgate](ramsgate).
+From Minuter to Ramsgate the line is on a tolerably steep incline. Kent and the Kentish coast have long been celebrated for their delicious climate and exquisite pastoral scenery, and the railway passes through a fine panorama of marine and picturesque views, until it reaches [Ramsgate](/stations/ramsgate).

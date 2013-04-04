@@ -12,7 +12,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : Running Horse, Fox and Hounds.
 ----
 Text: Tourists alight at this station for the hill with its celebrated prospects. It took its name from the Box trees planted thereon in the reign of Charles I. and is now a resort for picnic parties.

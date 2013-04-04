@@ -12,10 +12,10 @@ Route:
 ----
 Meta: Telegraph station at Tilbury, 5½ miles.
 
-Population
+Population,
 : 504
 
-Money Order Office
+Money Order Office,
 : Horndon-on-the-Hill, 1 mile.
 ----
 Text: The bend which the river makes here is called "The Hope".

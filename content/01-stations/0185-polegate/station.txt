@@ -19,4 +19,4 @@ Meta: Distance from station, 1 mile. A telegraph station.
 Money Order Office
 : at Eastbourne.
 ----
-Text: Short lines branch off here in opposite directions to [Hailsham](hailsham) and [Eastbourne](eastbourne).
+Text: Short lines branch off here in opposite directions to [Hailsham](/stations/hailsham) and [Eastbourne](/stations/eastbourne).

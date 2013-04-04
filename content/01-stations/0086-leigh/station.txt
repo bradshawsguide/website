@@ -12,13 +12,13 @@ Route:
 ----
 Meta: Telegraph station at Southend, 2½ miles.
 
-Population
+Population,
 : 1473
 
-Hotel
+Hotel.--
 : The Bell
 
-Money Order Office
+Money Order Office,
 : Southend, 2½ miles.
 ----
 Text: The line of railway from Leigh to Southend--the continuation of the Tilbury line--is about 2½ miles

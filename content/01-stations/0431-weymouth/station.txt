@@ -12,13 +12,13 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : Luce's Royal; Drew's Victoria; Jeffries.
 
-Market Days
+Market Days.--
 : Tuesday and Friday.
 
-Races
+Races.--
 : In September.
 ----
 Text: Nothing can be more striking and picturesque than the situation of this delightful watering-place. The town is built-on the western shore of one of the finest bays in the English Channel, and being separated into two parts by the river, which forms a commodious harbour, it is most conveniently situated for trade. Population, 11,383.
@@ -45,7 +45,7 @@ As a place for sea-bathing, Weymouth is perfect, and the accommodation of about 
 
 About a mile to the south-west are the remains of Weymouth or Sandsfoot Castle, erected by Henry VIII. in the year 1539, and described by Leyland as <q>a right goodly and warlyke castle, having one open barbicane.</q> The burning cliff at Weymouth--a kind of miniature volcano--has long attracted the notice of naturalists, and will well repay a visit. At Nottington, about two miles and a-half distant, on the Dorchester road, is a mineral spring, the water of which is considered efficacious in cases of scrofula.
 
-About four miles south from Weymouth, is the island of [Portland](portland), now communicable by railway which, though thus called, is in reality a peninsula,
+About four miles south from Weymouth, is the island of [Portland](/stations/portland), now communicable by railway which, though thus called, is in reality a peninsula,
 connected with the mainland by an extremely narrow isthmus, called Chesil Bank, a line of shingles thrown up by the sea, and extending for more than eight miles, from Portland to Abbotsbury. It is not more than two miles broad and four long; and though the shores are steep and rugged, the surface of the soil at the summit is smooth, and yields wheat, oats, and barley of average quality. At the southern extremity, called Portland Bill, are the higher and lower lighthouses, and a signal station, called the "Lowes;" near the former is a remarkable cavern, from which the water rises as from a fountain. On the eastern side are Rufus and Pennsylvania Castles, and on the northern side are Portland Castle, and another signal station.
 
 A trip to the island is one of the most favourite excursions generally offered, among other temptations, to travellers, and will furnish materials for an interesting day's enjoyment. Indeed, this picturesque coast is unrivalled. The sea view is agreeably diversified with grand and striking objects, to break the monotony that usually pervades a marine prospect. The coast of this part of Dorsetshire itself presents also grand and striking points. St. Alban's Head and Tulworth Cove, with their bold and soaring cliffs, are sublime and astonishing features in the vast picture that we look upon from hence. The surrounding country is full of castellated remains and interesting historical associations.
@@ -54,4 +54,4 @@ In the neighbouring isle of Purbeck are the ruins of Corfe Castle, memorable for
 
 The latitude of Weymouth is one degree farther south than London, and many plants which require protection from the cold in other parts of the country here flourish through the winter in the open air. The geranium grows luxuriantly, and requires little care, and the large and small-leaved myrtle are out-of-door plants. Indeed, so salubrious is the climate, that Dr. Arbuthnot, who came in his early days to settle at Weymouth, observed that no physician could either live or die there. This, however, savours more of flattery than fact, as present observation will fully testify.
 
-*Abbotsbury*, near the west end of the fleet or lake inside the Chesil bank, is the seat of the Earl of Ilchester, and has a decoy and swannery. Further along the coast is [Bridport](bridport).
+*Abbotsbury*, near the west end of the fleet or lake inside the Chesil bank, is the seat of the Earl of Ilchester, and has a decoy and swannery. Further along the coast is [Bridport](/stations/bridport).

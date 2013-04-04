@@ -14,15 +14,16 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 11,865.
 
-Hotels
+Hotels.--
 : Royal; Royal Albion; Royal Oak.
 
-Market Days: Wednesday and Saturday.
+Market Days.--
+: Wednesday and Saturday.
 
-Fair
+Fair.--
 : August 10th, at St Lawrence.
 ----
 Text: Ramsgate, and the sea side, without the need of walking another step. A short continuation of the line will ultimately have a terminus on the Pier.
@@ -35,4 +36,4 @@ Boarding-houses, hotels, and dining-rooms are in the usual watering-place abunda
 
 No one of course would think of stopping a week at Ramsgate without going to Pegwell Bay, where the savoury shrimps and country-made brown bread and butter are supposed to have been brought to the very highest degree of perfection. And for a quiet stroll in another direction there is Broadstairs, two miles to the north-east, a very agreeable excursion for a day, and an excellent plan is to go by the path across the cliffs, past the elegant mansion of Sir Moses Montefiore, and return by the sands at low water.
 
-Four miles distant from Ramsgate, the traveller readies the terminus at [Margate](margate).
+Four miles distant from Ramsgate, the traveller readies the terminus at [Margate](/stations/margate).

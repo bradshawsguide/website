@@ -12,13 +12,13 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotel
+Hotel.--
 : Bridge Inn.
 
 Steam Packets
 : to Dieppe daily
 
-Fair
+Fair.--
 : October 16th.
 ----
 Text: Newhaven, formerly a very obscure port or fishing town at the mouth of the river Ouse, is now a rising place, and become of some importance, as the port of communication between London, Dieppe, and Paris. Louis Philippe landed here in 1848, after his flight from France.

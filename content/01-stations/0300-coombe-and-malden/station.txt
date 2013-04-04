@@ -17,4 +17,4 @@ Related:
 ----
 Meta:
 ----
-Text: The line passes under two bridges, and we reach the station of [Surbiton](surbiton)
+Text: The line passes under two bridges, and we reach the station of [Surbiton](/stations/surbiton)

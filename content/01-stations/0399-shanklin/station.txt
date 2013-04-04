@@ -11,7 +11,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : Daish's and Williams'.
 
 Coaches

@@ -12,10 +12,10 @@ Route:
 ----
 Meta: Telegraph station at St. Leonards, 3 miles.
 
-Hotels
+Hotels.--
 : Bell.
 
-Fairs
+Fairs.--
 : June 28th, and 1st Monday in July.
 ----
 Text: The village of which name is situated on a rising ground not far from the sea. It is a quiet, retired place, having some good iron springs, and is situated in a beautiful country.

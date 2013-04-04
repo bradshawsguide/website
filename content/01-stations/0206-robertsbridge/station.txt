@@ -14,10 +14,10 @@ Meta: Distance from station, ¼ mile.
 
 A telegraph station.
 
-Hotel
+Hotel.--
 : Old George.
 
-Market Day
+Market Day.--
 : Thursday.
 ----
 Text: The village is situated on the banks of the river Rother, and only remarkable for the houses being constructed of red brick, which gives the place a peculiar appearance.

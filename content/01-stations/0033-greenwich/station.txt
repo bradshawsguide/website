@@ -12,16 +12,16 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 139,436.
 
-Hotels
+Hotels.--
 : Trafalgar, Charles Hart; the Ship Tavern, Thos. Quartermaine.
 
 Steamers
-: To and from London, calling at all the piers on the river, every five minutes, daily.
+: to and from London, calling at all the piers on the river, every five minutes, daily.
 
-Money Order Office
+Money Order Office,
 : 12, Nelson Street.
 
 Greenwich Pier is five miles from London Bridge.

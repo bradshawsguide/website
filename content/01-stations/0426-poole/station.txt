@@ -14,16 +14,16 @@ Meta: Distance from station, 2 miles.
 
 A telegraph station.
 
-Hotel
+Hotel.--
 : Antelope,
 
 Omnibuses
 : to and from Parkstone, and Bournemouth.
 
-Market Days
+Market Days.--
 : Monday and Thursday.
 
-Fairs
+Fairs.--
 : May 1st, and November 2nd.
 ----
 Text: A Dorsetshire borough and port, on the South-Western Railway, 122 miles from London, by a small branch out of the main line. The neighbourhood is a dreary plain of sand and furze. Population 9,759, who return two members. Having been founded since the Conquest, it is a comparatively modem town, but has always preserved a respectable position as a third or fourth class port.

@@ -13,13 +13,13 @@ Route:
 ----
 Meta: A telegraph station
 
-Population
+Population,
 : 5,858.
 
-Market Days
+Market Days.--
 : Wednesday and Friday.
 
-Fairs
+Fairs.--
 : October 11, 12, 13.
 ----
 Text: This town is situated on a small stream running into the East Swale, which is navigable for vessels of 150 tons. It was a place of much note before the time of Stephen, who, however, built and endowed an abbey here for Cluniac monks, and in which himself, his queen, and his son Eustace were buried. At the dissolution, Stephen's remains were thrown into the river, for the sake of the leaden coffin in which they were contained. Some portions of the outer walls still exist. The church is cruciform, and built of Hint, in the decorated style; the tower and spire (a copy of that, of St. Dunstan's in the East, at London), are of modern date. The Market House was erected in 1594. There is a well-endowed Grammar School. Here James II. was held prisoner on his attempt to escape from England. There are some imports and a considerable coasting trade, which necessitates the establishment of a Custom House. Gunpowder is a branch of manufacture.

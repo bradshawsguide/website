@@ -14,10 +14,10 @@ Meta: Distance from station, 1 mile.
 
 A telegraph station.
 
-Market Day
+Market Day.--
 : Saturday.
 
-Fairs
+Fairs.--
 : January 25th, June 22nd, Saturday in Easter Week, October 25th.
 
 Money Order Office

@@ -14,13 +14,13 @@ Meta: Distance from station, 1 mile.
 
 A telegraph station.
 
-Hotel
+Hotel.--
 : New Inn.
 
-Market Day
+Market Day.--
 : Saturday.
 
-Fair
+Fair.--
 : May 14th (Cattle).
 
 Money Order Office

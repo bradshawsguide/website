@@ -14,7 +14,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : King's Head; Royal.
 
 Omnibuses

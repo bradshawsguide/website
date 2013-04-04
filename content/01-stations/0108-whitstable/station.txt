@@ -14,13 +14,13 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : Two Brewers; Bear and Key.
 
 Omnibuses
 : to and from the station.
 
-Fair
+Fair.--
 : Thursday before Whit-Sunday.
 ----
 Text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.

@@ -17,7 +17,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Fairs
+Fairs.--
 : Horses, cattle, and pigs, May 12th and October 13th.
 ----
 Text: Lewisham is a small village, in a beautiful situation on the high road to Sevenoaks and Tunbridge, and near the river Ravensbourne.

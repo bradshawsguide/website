@@ -14,7 +14,7 @@ Meta: Distance from the Wimbledon station, ¾ mile.
 
 Telegraph station at Wimbledon, ¾ mile.
 
-Hotel
+Hotel.--
 : White Hart.
 ----
 Text: The pretty village of Merton, where Lord Nelson lived, is a favourite resort of excursionists.

@@ -13,13 +13,13 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : Surrey Arms, Buckingham Arms, and Swiss Cottage.
 
-Market Day
+Market Day.--
 : Every alternate Monday (corn).
 
-Fair
+Fair.--
 : July 25th.
 ----
 Text: Old <span class="smcp">Shoreham</span>, on the right of the line, has a fine old Saxon church, which has been recently restored, and is much admired as a beautiful specimen of Saxon architecture.

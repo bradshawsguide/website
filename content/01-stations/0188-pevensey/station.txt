@@ -12,13 +12,13 @@ Route:
 ----
 Meta: Telegraph station at Polegate, 3½ miles.
 
-Hotel
+Hotel.--
 : Royal Oak.
 
-Market Day
+Market Day.--
 : Thursday (Southdown Sheep).
 
-Fairs
+Fairs.--
 : July 5th and Sept. 15th.
 
 ----

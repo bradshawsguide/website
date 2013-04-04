@@ -14,4 +14,4 @@ Route:
 ----
 Meta: A telegraph station.
 ----
-Text: This is the junction point of the [Horsham Branch](/routes/horsham).
+Text: This is the junction point of the [Horsham Branch](/routes/three-bridges-to-horsham-and-arundel).

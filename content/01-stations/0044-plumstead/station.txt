@@ -12,4 +12,4 @@ Route:
 ----
 Meta:
 ----
-Text: Resuming our seat in the train, we proceed, skirting *Plumstead* marshes, the ordnance trial ground, to [Abbey Wood](abbey-wood).
+Text: Resuming our seat in the train, we proceed, skirting *Plumstead* marshes, the ordnance trial ground, to [Abbey Wood](/stations/abbey-wood).

@@ -14,4 +14,4 @@ Route:
 ----
 Meta: A telegraph station.
 ----
-Text: Whence it steams over the Borough market (St. Saviour's fine church on our left), to [London Bridge](london-bridge).
+Text: Whence it steams over the Borough market (St. Saviour's fine church on our left), to [London Bridge](/stations/london-bridge).

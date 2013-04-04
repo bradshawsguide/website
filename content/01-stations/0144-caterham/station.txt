@@ -12,7 +12,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotel
+Hotel.--
 : Railway.
 ----
 Text: The village itself does not possess anything worthy of notice; bat there are extensive stone quarries about 1½ mile distant, the quality of which material being well adapted for building, will in all probability cause many villas and residences to be erected here.

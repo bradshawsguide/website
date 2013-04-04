@@ -12,10 +12,10 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : Greyhound, King's Arms.
 
-Fairs
+Fairs.--
 : July 1st and 2nd.
 ----
-Text: Carshalton Church is a venerable structure, of the early English style. Close by is *Carshalton Park*. Proceeding thence, we come to [Sutton](sutton).
+Text: Carshalton Church is a venerable structure, of the early English style. Close by is *Carshalton Park*. Proceeding thence, we come to [Sutton](/stations/sutton).

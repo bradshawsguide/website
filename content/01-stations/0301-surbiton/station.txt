@@ -13,4 +13,4 @@ Route:
 ----
 Meta:
 ----
-Text: A mile north of the modern town of [Kingston](kingston).
+Text: A mile north of the modern town of [Kingston](/stations/kingston).

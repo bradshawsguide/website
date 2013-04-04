@@ -12,13 +12,13 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotel
+Hotel.--
 : White Horse.
 
-Market Day
+Market Day.--
 : Thursday.
 
-Fates
+Fates.--
 : Easter Monday, August 16th, November 18th, and every Tuesday fortnight, from July 31st to December 25th.
 ----
 Text: Like many other places of great antiquity, Romsey owes its foundation to a monastic establishment. Edward here founded a Benedictine abbey on a very extensive scale and appointed his daughter abbess.

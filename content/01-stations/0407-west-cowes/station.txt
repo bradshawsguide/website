@@ -13,16 +13,16 @@ Meta: Distance from station at Southampton, 11 miles.
 
 A telegraph station.
 
-Population
+Population,
 : 5,482.
 
-Hotel
+Hotel.--
 : Fountain.
 
 Coaches
 : to and from Ryde and Newport, daily.
 
-Vessels
+Vessels.--
 : The rendezvous of ships of all nations for orders.
 
 Steam Vessels

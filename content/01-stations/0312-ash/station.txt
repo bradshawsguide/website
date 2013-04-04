@@ -53,6 +53,6 @@ Text: ## Distances of Places from the Station.
 | Weyburn House      | 3      |
 | Winchfield Station | 9      |
 
-The line now diverges or turns more towards the north, to [Aldershott](aldershot) station (North Camp), and thence to [Farnborough](farnborough), about a mile from the station of the same name on the [South Western](/routes/south-western) line.
+The line now diverges or turns more towards the north, to [Aldershott](/stations/aldershot) station (North Camp), and thence to [Farnborough](/stations/farnborough), about a mile from the station of the same name on the [South Western](/routes/south-western) line.
 
-The line then proceeds through the valley of the Blackwater to [Blackwater](blackwater).
+The line then proceeds through the valley of the Blackwater to [Blackwater](/stations/blackwater).

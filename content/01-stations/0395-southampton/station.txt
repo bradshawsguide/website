@@ -13,10 +13,10 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 46,960.
 
-Hotels
+Hotels.--
 : Radley's; The Dolphin.
 
 Omnibuses
@@ -25,10 +25,10 @@ Omnibuses
 Steamers
 : to and from the Isle of Wight
 
-Market Days
+Market Days.--
 : Tuesday, Thursday, Friday, and Saturday.
 
-Fairs
+Fairs.--
 : May 6th, Trinity Fair in Trinity week.
 ----
 Text: The station, which is close to the quay, and has a commanding position on the banks of the Southampton Water, is admirably adapted for the convenience of passengers. On his way to the High-street, the traveller will obtain a favourable view of the picaresque bay. Bounded on one side by the sheltering glades of The New Forest, and opening on the other to the Channel and the Isle of Wight, a series of beautiful views meet the eye, which cannot fail to charm by their exquisite contrast and variety.
@@ -55,4 +55,4 @@ There are several seats and pretty spots in the neighbourhood, such as *Bittern 
 
 At *Stony Cross* stood the Canterton Oak (till 1745), from which Tyrrel's arrow glanced and killed William Rufus, 2nd August, 1100. He was carried home by a charcoal-burner, Purkis, whose direct descendants, all charcoal-burners, are still, or were lately, alive. The spot is marked by an inscription. Hampshire bacon is perfection here--reared on acorns.
 
-A fine excursion may be taken from [Southhampton](/stations/southhampton) to the Channel Islands. A distance of 104 miles; and, as the communication  is frequent, and the passage to Guernsey averages about eight hours only, we would introduce a brief sketch of these islands before proceeding to the [Isle of Wight](isle-of-wight). The fares run about 18s and 12s.
+A fine excursion may be taken from [Southhampton](/stations/southhampton) to the Channel Islands. A distance of 104 miles; and, as the communication  is frequent, and the passage to Guernsey averages about eight hours only, we would introduce a brief sketch of these islands before proceeding to the [Isle of Wight](/regions/isle-of-wight). The fares run about 18s and 12s.

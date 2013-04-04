@@ -12,7 +12,7 @@ Route:
 ----
 Meta: Telegraph station at Kingston, 2 miles.
 
-Hotel
+Hotel.--
 : Swan.
 
 Money Order Office

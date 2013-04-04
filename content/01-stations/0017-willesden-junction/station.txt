@@ -16,4 +16,4 @@ Route:
 ----
 Meta:
 ----
-Text: *[Junction point of the [Hampstead Junction](/companies/hampstead-junction) and [North and South Western Junction](companies/north-and-south-western-junction) railways]*
+Text: *[Junction point of the [Hampstead Junction](/companies/hampstead-junction) and [North and South Western Junction](/companies/north-and-south-western-junction) railways]*

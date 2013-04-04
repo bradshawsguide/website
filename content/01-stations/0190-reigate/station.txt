@@ -12,19 +12,19 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 9,975.
 
-Hotels
+Hotels.--
 : White Hart, and Swan.
 
 Post Horses, Flys, &c.
 : at the station and hotels
 
-Market Days
+Market Days.--
 : Tuesdays.
 
-Fairs
+Fairs.--
 : Whit-Monday and December 9th.
 
 <span class="smcp">Money Order Office</span>.

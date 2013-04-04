@@ -14,10 +14,10 @@ Meta: Distance from station, ¼ mile.
 
 A telegraph station.
 
-Market Day
+Market Day.--
 : Saturday.
 
-Fairs
+Fairs.--
 : April 29th and November 1st.
 ----
 Text:

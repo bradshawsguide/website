@@ -15,7 +15,7 @@ Meta: Distance from station, 1 mile.
 A telegraph station.
 
 Money Order Office
-: At Gravesend.
+: at Gravesend.
 ----
 Text: Greenhithe Pier, 20 miles from London. *Ingress Abbey*, in the Gothic style, built with the stones of old London Bridge. The chalk-pits behind are pleasing.
 

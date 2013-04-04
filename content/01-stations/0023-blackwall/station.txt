@@ -14,7 +14,7 @@ Meta: Distance from station, 1/4 mile.
 
 Telegraph station.
 
-Hotel
+Hotel.--
 : Brunswick.
 
 Steam Boats

@@ -16,13 +16,13 @@ Meta: A telegraph station.
 
 Population: 4,890.
 
-Hotel
+Hotel.--
 : Spread Eagle.
 
-Market Day
+Market Day.--
 : Wednesday.
 
-Fair
+Fair.--
 : July 25th.
 
 Races

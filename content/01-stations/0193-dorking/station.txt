@@ -12,19 +12,19 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 4,161.
 
-Hotels
+Hotels.--
 : Red Lion, and White Horse.
 
 Omnibuses
 : to and from the station; to Epsom station several times daily.
 
-Market Day
+Market Day.--
 : Thursday.
 
-Fair
+Fair.--
 : The day before Holy Thursday.
 ----
 Text: Dorking is situated in a valley near the river Mole, nearly surrounded with hills, and commands some of the finest views in the kingdom. This town is of considerable antiquity, and so conveniently situated that it carries on a large trade in flour and corn and employs several mills on the Mole. The church is a fine old edifice and contains several handsome monuments. It is celebrated for its poultry, particularly for a five-toed breed, called Dorkings, supposed to have been introduced by the Romans.
@@ -82,4 +82,4 @@ It is a favourite summer resort of invalids and lovers of rural scenery, and it 
 | Wescott Parsonage        | 1½     |
 | Wotten                   | 2      |
 
-The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](gomshall-and-sheire).
+The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](/stations/gomshall-and-sheire).

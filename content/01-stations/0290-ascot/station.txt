@@ -12,7 +12,7 @@ Route:
 ----
 Meta: Telegraph station at Sunningdale, 2 miles.
 
-Hotel
+Hotel.--
 : Royal Ascot (Portridge); Swan.
 
 Races
@@ -24,4 +24,4 @@ Twenty years ago Ascot Heath was as wild a district as any in Great Britain, wit
 
 Further on a little to the right, is Binfield and its beechwoods, all beautiful. Indeed the whole of Berkshire, from end to end, abounds in endless attractions to the lover of country scenery.
 
-We shortly after reach [Bracknell](bracknell) station, containing a population of 108. It has a pretty modern church, built by Coe.
+We shortly after reach [Bracknell](/stations/bracknell) station, containing a population of 108. It has a pretty modern church, built by Coe.

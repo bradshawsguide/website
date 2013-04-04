@@ -12,11 +12,11 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotel
+Hotel.--
 : World's End.
 
 Steam Boats
-: To and from Gravesend, Southend, Sheerness, Margate, and Ramsgate, daily.
+: to and from Gravesend, Southend, Sheerness, Margate, and Ramsgate, daily.
 ----
 Text: The districts known by the names of East and West Tilbury are situated in the county of Essex, and the former is celebrated for its fort, which effectually protects the metropolis from the attack of any hostile fleet.
 

@@ -12,13 +12,13 @@ Route:
 ----
 Meta: A telegraph station,
 
-Hotel
+Hotel.--
 : The Swan.
 
 Omnibuses
 : to and from the station.
 
-Fair
+Fair.--
 : Whit-Monday.
 
 Money Order Office

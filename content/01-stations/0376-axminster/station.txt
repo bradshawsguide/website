@@ -12,7 +12,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 2,896.
 ----
 Text: Situated on the river Axe. Some of the best and finest description of carpets are made here.

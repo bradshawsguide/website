@@ -12,10 +12,10 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : about 13,867.
 
-Hotels
+Hotels.--
 : The Calverley; Kentish Royal; Royal Sussex.
 
 Omnibuses
@@ -24,7 +24,7 @@ Omnibuses
 Post Horses, Flys, &c
 : at the station and hotels.
 
-Market Days
+Market Days.--
 : Daily.
 ----
 Text: This town is, with the exception of Bath, the most ancient of the inland watering places. Nature has eminently favoured it by the salubrity of its air, the potency of its mineral springs, and the adjacent appendages of romantic and agreeable scenery. Dudley Lord North, a young nobleman of the Court of James I., whilst on a visit to Bridge House, happened to taste the waters, and these renovating a constitution impaired by too much indulgence, caused him to bring the place into fashionable repute. From that time visitors gradually increased, streets were laid out, lodging-houses built, and now, though the caprice of fashion has somewhat depreciated the fame of our own spas, Tunbridge Wells may still boast a large share of patronage in the season, which extends from May till November. 
@@ -35,4 +35,4 @@ The ex-queen of the French visits the town annually, but the usual gaieties have
 
 Excursions may be 'made to the Bridge Rocks, about a mile and a half south-west of the town; they are of considerable height, surrounded with wood, and much admired by visitors; Wednesday and Thursday. *Bridge Park*, the property of Lord Abergavenny, is one of the most delightful walks in the vicinity: start from the Parade, and proceed along the Frant road, branching off through the woods to the right; Penshurst, five miles distant, Penshurst Place, a quadrangular building of the Elizabethan style of architecture, Monday and Saturday; *Crowborough Common*, at the Beacon, seven miles from the Wells, stands at an elevation of 800 feet above the level of the sea; *Bridge Castle*, two miles distant; Hever, seven miles distant; *Southborough*, two and a half miles, at which there is a noble cricket ground, in great request among the clubs of the neighbourhood, there is also a smaller one on Southborough Common; *Summerhill*, two miles, a fine Elizabethan building, once the residence of the Earl of Leicester and General Lambert; *Oxenheath*, four miles; and *Bayham Abbey*, the seat of the Marquis of Camden, six miles distant, the ruins being exceedingly picturesque; the modern mansion is in the Gothic style. Open Tuesday and Friday. The High Rocks, Brambletye Ruins, and Toad Rock. There are other fine seats and handsome villas in the vicinity, and the environs of Tunbridge abound in beautiful walks and drives.
 
-From Tunbridge Wells the railway proceeds south and enters the county of [Sussex](/regions/sussex), through a short tunnel at starting, and then proceeds through a deep cutting to [Frant](frant).
+From Tunbridge Wells the railway proceeds south and enters the county of [Sussex](/regions/sussex), through a short tunnel at starting, and then proceeds through a deep cutting to [Frant](/stations/frant).

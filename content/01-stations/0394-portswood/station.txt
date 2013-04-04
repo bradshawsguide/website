@@ -16,4 +16,4 @@ Related:
 ----
 Meta:
 ----
-Text: A line of railway, about three miles long, extends from here along the eastern shores of the Southampton Water to [Netley Abbey](netley-abbey).
+Text: A line of railway, about three miles long, extends from here along the eastern shores of the Southampton Water to [Netley Abbey](/stations/netley-abbey).

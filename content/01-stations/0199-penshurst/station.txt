@@ -14,12 +14,13 @@ Meta: Distance from station, 3 miles.
 
 A telegraph station.
 
-Hotel: Leicester Arms.
+Hotel.--
+: Leicester Arms.
 
 Post Horses, Flys, &c
 : at the station and hotel.
 
-Fair
+Fair.--
 : Monday after June 24th.
 
 Money Order Office
@@ -47,4 +48,4 @@ Text: This is a small but exceedingly pretty village, celebrated for its fine ol
 | Salmonds                               | 2      |
 | South Park Hill                        | 3½     |
 
-A few miles more, in the course of which we thrice cross the winding Medway, brings us to [Tunbridge](tunbridge).
+A few miles more, in the course of which we thrice cross the winding Medway, brings us to [Tunbridge](/stations/tunbridge).

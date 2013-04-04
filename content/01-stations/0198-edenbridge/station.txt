@@ -12,13 +12,13 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotel
+Hotel.--
 : Albion (at the station).
 
 Omnibuses
 : at the station; also to Westerham
 
-Fair
+Fair.--
 : May 6th.
 
 Money Order Office

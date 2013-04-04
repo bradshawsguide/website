@@ -15,10 +15,10 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 94,799.
 
-Hotels
+Hotels.--
 : The Fountain; the York; Pier.
 
 Omnibuses
@@ -27,7 +27,7 @@ Omnibuses
 Steam Bridge
 : to Gosport every half hour.
 
-Market Days
+Market Days.--
 : Thursday and Saturday.
 ----
 Text: Portsmouth, the first naval port in the British Islands, and a parliamentary borough &c., 75 miles, from London by the South Western Line or 95 by way of the Brighton and South Coast Line.

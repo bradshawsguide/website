@@ -14,7 +14,7 @@ Meta: Distance from station, ½ mile.
 
 A telegraph station.
 
-Hotel
+Hotel.--
 : Duke's Head.
 
 Money Order Office

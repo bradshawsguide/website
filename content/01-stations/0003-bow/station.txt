@@ -12,7 +12,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Money Order Office
+Money Order Office,
 : No. 28, Southside.
 ----
 Text:  At Bow the train receives and puts down passengers; and soon after starting from which we find

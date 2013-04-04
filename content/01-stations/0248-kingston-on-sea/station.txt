@@ -12,12 +12,12 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotel
+Hotel.--
 : Kingston Inn.
 
 Money Order Office
-: Shoreham.
+: at Shoreham.
 ----
 Text: This village is situated on the right of the line; it has a harbour and wharf, and is said to be prosperous and thiving.
 
-The line proceeds along the shore, presenting no feature worth remarking, and reaches [New Shoreham](new-shoreham).
+The line proceeds along the shore, presenting no feature worth remarking, and reaches [New Shoreham](/stations/new-shoreham).

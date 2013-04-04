@@ -13,4 +13,4 @@ Route:
 ----
 Meta:
 ----
-Text: The junction of a short branch running to [Shoreditch](shoreditch) and [Broad Street](broad-street).
+Text: The junction of a short branch running to [Shoreditch](/stations/shoreditch) and [Broad Street](/stations/broad-street).

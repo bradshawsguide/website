@@ -13,7 +13,7 @@ Meta: Distance from station at Shanklin, 3 miles.
 
 Telegraph station at Ventnor, 2 miles.
 
-Hotel
+Hotel.--
 : Bonchurch.
 
 Coaches

@@ -12,4 +12,4 @@ Route:
 ----
 Meta:
 ----
-Text: The line passes through a country bearing the true Hampshire characteristics of forest scenery, until we reach [Winchester](winchester).
+Text: The line passes through a country bearing the true Hampshire characteristics of forest scenery, until we reach [Winchester](/stations/winchester).

@@ -12,7 +12,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotels
+Hotels.--
 : Maidenhead; Bell.
 ----
 Text: Besides its two chalybeate springs in the neighbourhood it has no particular attractions.

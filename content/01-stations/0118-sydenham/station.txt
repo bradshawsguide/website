@@ -14,7 +14,7 @@ Route:
 ----
 Meta: A telegraph station.
 
-Hotel
+Hotel.--
 : Royal.
 
 Post Office

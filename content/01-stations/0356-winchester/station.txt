@@ -13,16 +13,16 @@ Route:
 ----
 Meta: A telegraph station.
 
-Population
+Population,
 : 14,776.
 
-Hotels
+Hotels.--
 : The. George ; Black Swan.
 
-Market Days
+Market Days.--
 : Wednesdays and Saturdays.
 
-Fairs
+Fairs.--
 : First Monday in Lent, and October 24th.
 
 Races
@@ -46,4 +46,4 @@ On St. Catherine's Hill are traces of a camp; most of the highways from the city
 
 After leaving the station at Winchester the line proceeds through the Barracks Hill excavation, above which are the Barracks, erected on the site of an old palace, where Henry III was born.
 
-The village of *Twyford*, where Pope was educated at the school of the Rev. Mr. Wyeham, is in the vicinity; thence passing Otterbourne, another straggling village to the right, we reach the station of [Bishopstoke](bishopstoke).
+The village of *Twyford*, where Pope was educated at the school of the Rev. Mr. Wyeham, is in the vicinity; thence passing Otterbourne, another straggling village to the right, we reach the station of [Bishopstoke](/stations/bishopstoke).

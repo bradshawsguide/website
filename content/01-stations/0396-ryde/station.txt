@@ -17,10 +17,10 @@ Meta: Distance from station at Stokes Bay, 3 miles.
 
 A telegraph station.
 
-Population
+Population,
 : 9,269.
 
-Hotels
+Hotels.--
 : Barnes' Royal Pier; Sivier's Hotel.
 
 Coaches
@@ -32,10 +32,10 @@ Steamers
 Excursion Steamers
 : round the Island in the summer, on Mondays and Thursdays, at 12 noon, fare, 3s.
 
-Market Days
+Market Days.--
 : Tuesday and Friday.
 
-Fair
+Fair.--
 : July 5th.
 
 Regatta
