@@ -3,7 +3,14 @@
             <header>
                 <hgroup>
                     <h1><?= smartypants($page->title()) ?></h1>
+<?                  $company = $page->company(); ?>
+<?                  if ($company == 'Isle of Wight'): ?>
+                    <h2><a href="/regions/isle-of-wight">Isle of Wight</a></h2>
+<?                  elseif ($company == 'London'): ?>
+                    <h2><a href="/regions/london">London</a></h2>
+<?                  else: ?>
                     <h2><a href="/companies/<?= preg_replace('/-railway$/', '', str::urlify($page->company())) ?>"><?= smartypants($page->company()) ?></a></h2>
+<?                  endif ?>
                 </hgroup>
             </header>
 
