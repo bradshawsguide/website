@@ -10,6 +10,7 @@ Text:
 
 The best part of the first or eastern route may be done by means of the Ryde and Cowes coaches in one day, for 9s. or 10s.; or fly to hold four may be had for a guinea a day.
 
+<div class="related-distances" markdown="1">
 |                                                                          | Miles. |
 | ------------------------------------------------------------------------ | ------ |
 | [Ryde](/stations/ryde) to Brading                                        | 4      |
@@ -24,3 +25,4 @@ The best part of the first or eastern route may be done by means of the Ryde and
 | [Blackgang](/stations/chale) to Gatcombe                                 | 4      |
 | Gatcombe to Ryde                                                         | 8      |
 | N.B.--[Blackgang](/stations/chale) to [Freshwater](/stations/freshwater) | 14½    |
+</div>

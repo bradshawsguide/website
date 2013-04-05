@@ -8,6 +8,7 @@ Type: Line
 ----
 Text: This route, seldom taken by visitors, but a most attractive one for walkers, is towards Head-on-Hill (where fine white sand is dug for the glassmakers), and along the Downs, through the middle of Wight. The distances from Culver Cliff are:--
 
+<div class="related-distances" markdown="1">
 | To:                           | Miles. |
 | ----------------------------- | ------ |
 | Afton Down                    | 19     |
@@ -23,6 +24,7 @@ Text: This route, seldom taken by visitors, but a most attractive one for walker
 | Newport                       | 9      |
 | Shalcombe Down                | 18     |
 | Yarborough Pillar             | 1      |
+</div>
 
 **Culver Cliff,** 400 feet high. View over White Cliff Bay, Spithead, &c. Yarborough Pillar, on Bembridge Down, overlooks the harbour. It was built up in 1849, in honour of the late earl; and serves as a landmark.
 
