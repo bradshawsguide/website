@@ -124,7 +124,7 @@ img.pull-right {
     td:first-child,
     th:first-child + th,
     td:first-child + td {
-        background-color: @color-beige;
+        background-color: @color-page;
     }
     td:first-child + td::before {
         content: "...";
@@ -160,7 +160,6 @@ img.pull-right {
             width: 3em;
             float: right;
             position: relative;
-            z-index: 1;
         }
         td:first-child + td::before,
         td:first-child + td::after {
@@ -239,14 +238,18 @@ img.pull-right {
     Navigation
 ============================================================ */
 .prevnext {
-    line-height: 1.5; /* 24px */
-    margin: 0.5em 0; /* 8px 0 */
+    margin-top: 0.5em; /* 8px */
     overflow: hidden;
     a {
         .smcp;
+        font-size: 1.5em; /* 24px */
+        line-height: 1.5; /* 24px */
         border: 0;
         width: 45%;
         white-space: nowrap;
+        span {
+            font-size: 0.6667em; /* 16px */
+        }
     }
     a[rel="prev"] {
         float: left;
@@ -264,7 +267,8 @@ img.pull-right {
 }
 @media screen and (min-width: 20em) {
     .prevnext {
-        margin: 0.5em -1.25em; /* 8px -20px */
+        margin-right: -1.25em; /* -20px */
+        margin-left: -1.25em; /* -20px */
         a {
             width: 33%;
         }
@@ -272,7 +276,57 @@ img.pull-right {
 }
 @media screen and (min-width: 50em) {
     .prevnext {
-        margin-top: -1.4em; /* -28px */
+        margin-top: -2em; /* -32px */
+    }
+}
+@media screen and (min-width: 60em) {
+    .prevnext {
+        margin: 0;
+        z-index: 99;
+        a {
+            color: lighten(@color-canvas, 10%);
+            line-height: 1;
+            text-shadow: 0 -1px darken(@color-canvas, 5%);
+            background-color: darken(@color-canvas, 5%);
+            background-color: fade(darken(@color-canvas, 10%), 75%);
+            box-shadow: inset 0 0 2px darken(@color-canvas, 10%);
+            margin-top: -1em; /* 24px */
+            padding: 0.3334em 0.5em 0.5em;
+            width: auto;
+            height: 1em;
+            overflow: hidden;
+            display: block;
+            position: fixed;
+            top: 50%;
+            bottom: 50%;
+           -webkit-transition: all 0.2s;
+           -moz-transition: all 0.2s;
+           -ms-transition: all 0.2s;
+           -o-transition: all 0.2s;
+            transition: all 0.2s;
+            span {
+                display: none;
+            }
+        }
+        a:hover {
+            color: @color-page;
+            background-color: fade(darken(@color-canvas, 10%), 90%);
+            span {
+                display: inline-block;
+            }
+        }
+        a[rel="prev"] {
+            left: 0;
+            &:hover {
+                padding-right: 0.6667em; /* 16px */
+            }
+        }
+        a[rel="next"] {
+            right: 0;
+            &:hover {
+                padding-left: 0.6667em; /* 16px */
+            }
+        }
     }
 }
 
@@ -318,7 +372,7 @@ ol.route {
         &.interchange {
             &::before {
                 content:"\0020";
-                background-color:@color-beige;
+                background-color:@color-page;
                 margin:0.25em 0.5em 0 -0.75em; /* 4px 8px 0 -12px */
                 border:0.25em solid lighten(@color-text, 50%);
                 border-radius:1em;
@@ -352,7 +406,7 @@ ol.route {
         content: "";
         width: 1.25em;
         height: 0.75em;
-        background-color: @color-beige;
+        background-color: @color-page;
         position: absolute;
         top: 0;
         left: -0.75em;

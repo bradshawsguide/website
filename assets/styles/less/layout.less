@@ -1,6 +1,7 @@
 html {
-    background: #363330 url(@image-noise) fixed;
+    background: @color-canvas url(@image-noise) fixed;
     margin: 0 auto;
+    position: relative;
 }
 [role="banner"],
 [role="main"],
@@ -16,7 +17,7 @@ html {
     Banner
 ============================================================ */
 [role="banner"] {
-    background-color: @color-beige;
+    background-color: @color-page;
     border-bottom: 1px solid fade(@color-text, 15%);
     position: fixed;
     top: 0;
@@ -89,19 +90,19 @@ html {
 ============================================================ */
 [role="main"] {
     text-shadow: 0 1px #fff;
-    background-color: @color-beige;
+    background-color: @color-page;
     box-shadow:
         inset 0 -1px rgba(68,68,68,0.1),
-        inset 0 -2px @color-beige,
+        inset 0 -2px @color-page,
         inset 0 -3px rgba(68,68,68,0.15),
-        inset 0 -4px @color-beige,
+        inset 0 -4px @color-page,
         inset 0 -5px rgba(68,68,68,0.2),
-        inset 0 -6px @color-beige,
+        inset 0 -6px @color-page,
         inset 0 -7px rgba(68,68,68,0.25),
-        inset 0 -8px @color-beige,
+        inset 0 -8px @color-page,
         0 0 12px rgba(0,0,0,1);
     padding-top: 3em; /* 48px */
-    padding-bottom: 2em; /* 32px */
+    padding-bottom: 2em; /* 48px */
 }
 @media screen and (min-width: 40em) {
     [role="article"] {
