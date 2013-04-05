@@ -45,7 +45,7 @@
 
 <?              if ($page->route): ?>
                 <details class="related-routes">
-                    <summary>Lines Serving the Station</summary>
+                    <summary>Routes Serving the Station</summary>
                     <ul>
 <?                      foreach(related($page->route()) as $routes): ?>
                         <li><a href="<?= $routes->url() ?>"><?= smartypants($routes->title()) ?></a></li>
