@@ -26,7 +26,7 @@ class kirbytextExtended extends kirbytext {
     $url = 'http://'.$options['language'].'.wikipedia.org/w/index.php?search='.urlencode($search);
  
     // build the link tag
-    return '<a href="'.$url.'">'.html($options['text']).' on Wikipedia</a>';
+    return '<a href="'.$url.'">'.$options['text'].' on Wikipedia</a>';
   }
 }
 ?>
