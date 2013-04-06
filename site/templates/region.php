@@ -1,4 +1,4 @@
-<? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
+<? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
         <article>
             <header>
                 <hgroup>
@@ -68,4 +68,4 @@
 <?          snippet('shorturl') ?>
 <?          snippet('prevnext') ?>
         </article>
-<? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>
+<? if(!isset($_GET['ajax'])) { snippet('_footer'); } ?>

@@ -1,4 +1,4 @@
-<? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
+<? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
         <style>
             .pattern {
                 margin-top:4em;
@@ -75,4 +75,4 @@
                 endforeach;
             ?>
         </article>
-<? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>
+<? if(!isset($_GET['ajax'])) { snippet('_footer'); } ?>

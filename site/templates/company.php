@@ -1,4 +1,4 @@
-<? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
+<? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
         <article>
             <header>
                 <h1><?= smartypants($page->title()) ?></h1>
@@ -23,18 +23,18 @@
 
             <section>
                 <h1>Stations Served</h1>
-<?php
+<?
                 $company = $site->uri->path(2);
                 $alphabetise = alphabetise($pages->find('stations')->children()->filterBy('company', '*=', "$company")->sortBy('title', 'asc'));
                 foreach($alphabetise as $letter => $items):
 ?>
                 <h2 class="index"><?php echo str::upper($letter) ?></h2>
                 <ul class="stations listing">
-<?php               foreach($items as $item): ?>
+<?                  foreach($items as $item): ?>
                     <li><a href="<?= $item->url() ?>"<? if ($item->text() == ''): ?> class="unremarkable"<? endif ?>><?= smartypants($item->title()) ?></a></li>
-<?php               endforeach ?>
+<?                  endforeach ?>
                 </ul>
-<?php           endforeach ?>
+<?              endforeach ?>
             </section>
 
             <footer>
@@ -50,4 +50,4 @@
 
 <?          snippet('shorturl') ?>
         </article>
-<? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>
+<? if(!isset($_GET['ajax'])) { snippet('_footer'); } ?>
