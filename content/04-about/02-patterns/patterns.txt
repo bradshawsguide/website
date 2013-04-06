@@ -1,5 +1,0 @@
-Title: Patterns
-----
-Type: child
-----
-Text: 
