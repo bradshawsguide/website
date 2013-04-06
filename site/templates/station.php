@@ -1,4 +1,4 @@
-<? if (!isset($_GET['ajax'])) { snippet('_header'); } ?>
+<? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
         <article>
             <header>
                 <hgroup>
@@ -7,9 +7,9 @@
                 </hgroup>
             </header>
 
-<?          if (!isset($page->text)): ?>
+<?          if(!isset($page->text)): ?>
             <div class="prose">
-<?              if ($page->meta): ?>
+<?              if($page->meta): ?>
 <?=                 kirbytext($page->meta()) ?>
 <?              endif ?>
 
@@ -67,4 +67,4 @@
 <?          snippet('shorturl') ?>
 <?          snippet('prevnext') ?>
         </article>
-<? if (!isset($_GET['ajax'])) { snippet('_footer'); } ?>
+<? if(!isset($_GET['ajax'])) { snippet('_footer'); } ?>

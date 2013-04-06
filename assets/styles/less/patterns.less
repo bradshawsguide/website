@@ -235,8 +235,41 @@ img.pull-right {
 
 
 /* ============================================================
+    Search result
+============================================================ */
+.result {
+    text-indent: 0;
+    margin: 0;
+    p {
+        margin: 0.5em 0 0.25em;
+    }
+    > a {
+        color: @color-hover;
+        font-size: 0.875em; /* 14px */
+        border-bottom-color: fade(@color-hover, 10%);
+        &:hover {
+            border-bottom-color: fade(@color-hover, 20%);
+        }
+        &:active {
+            color: @color-active;
+            border-bottom-color: fade(@color-active, 25%);
+        }
+    }
+}
+
+
+/* ============================================================
     Navigation
 ============================================================ */
+/* Pagination */
+.pagination {
+    .fine-line;
+    a {
+        margin-right: 1em;
+    }
+}
+
+/* Previous/Next */
 .prevnext {
     margin-top: 0.5em; /* 8px */
     overflow: hidden;

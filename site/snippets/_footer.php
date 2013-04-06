@@ -10,7 +10,10 @@
         <a href="#top" id="return">&#9652; Return to top</a>
     </nav><!--/@navigation-->
 
-<? snippet('search'); ?>
+    <form action="/search" role="search" id="search"<? if(isset($search)): ?> class="shown"<? endif ?>>
+        <input type="search" class="input" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey&#8230;"<? if(isset($search)): ?>  value="<?= html($search->query()) ?>"<? endif ?>/><!--
+     --><input type="submit" class="button" value="Search"/>
+    </form><!--/@search-->
 
     <footer role="contentinfo">
         <p><small>&#169; <abbr title="2013">MMXIII</abbr> <a href="http://paulrobertlloyd.com/">Paul Robert Lloyd</a></small></p>
