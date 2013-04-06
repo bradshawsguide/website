@@ -264,9 +264,30 @@ img.pull-right {
 /* Pagination */
 .pagination {
     .fine-line;
+    margin-bottom: 1em;
+    overflow: hidden;
+    p {
+        text-indent: 0;
+        margin: 0;
+    }
     a {
         margin-right: 1em;
+        &[rel="prev"]::before {
+            content: "\2039\2009";
+            speak: none;
+        }
+        &[rel="next"]::after {
+            content: "\2009\203a";
+            speak: none;
+        }
     }
+    .count {
+        float: left;
+    }
+    .pages {
+        float: right;
+    }
+
 }
 
 /* Previous/Next */

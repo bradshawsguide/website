@@ -1,15 +1,19 @@
             <nav class="pagination">
-<?          if($pagination->hasPrevPage()): ?>
-                <a rel="prev" href="<?= $pagination->prevPageURL() ?>">Previous page</a>
-<?          endif ?>
+                <p class="count">
+                    <strong><?php echo $pagination->countItems() ?></strong> results.
+<?              if($pagination->hasNextPage()): ?>
+                    Showing <strong><?php echo $pagination->numStart() ?></strong> - <strong><?php echo $pagination->numEnd() ?></strong>
+<?              endif ?>
+                </p>
+<?          if($pagination->countItems() > $pagination->numEnd()): ?>
+                <p class="pages">
+<?              if($pagination->hasPrevPage()): ?>
+                <a rel="prev" href="<?= $pagination->prevPageURL() ?>">Previous</a>
+<?              endif ?>
 
-<?          if(isset($range) && $pagination->countPages() > 1): ?>
-<?              foreach($pagination->range($range) as $r): ?>
-                <a class="range" href="<?= $pagination->pageURL($r) ?>"><?php echo ($pagination->page() == $r) ? '<strong>' . $r . '</strong>' : $r ?></a>
-<?              endforeach ?>
+<?              if($pagination->hasNextPage()): ?>
+                <a rel="next" href="<?= $pagination->nextPageURL() ?>">Next</a>
+<?              endif ?>
+                </p>
 <?          endif ?>
-
-<?          if($pagination->hasNextPage()): ?>
-                <a rel="next" href="<?= $pagination->nextPageURL() ?>">Next page</a>
-<?          endif ?>
-            </nav>
+            </nav><!--/.pagination-->
