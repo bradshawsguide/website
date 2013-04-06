@@ -102,8 +102,8 @@ html {
         inset 0 -7px rgba(68,68,68,0.25),
         inset 0 -8px @color-page,
         0 0 12px rgba(0,0,0,1);
-    padding-top: 3em; /* 48px */
-    padding-bottom: 2em; /* 48px */
+    padding-top: 2em; /* 32px */
+    padding-bottom: 2em; /* 32px */
     min-height: 75%;
 }
 @media screen and (min-width: 40em) {
@@ -148,8 +148,8 @@ html {
             height: 0;
             overflow: hidden;
         }
-        &:target #return {
-            margin: 0;
+        &:target .return {
+            margin: 0 -8%;
             height: auto;
             position: absolute;
             top: 0;
@@ -220,7 +220,7 @@ html {
                 color: @color-text;
             }
         }
-        #return {
+        .return {
             display: none;
         }
     }
@@ -230,7 +230,6 @@ html {
     Search
 ============================================================ */
 [role="search"]#search {
-    padding: 0;
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -241,9 +240,42 @@ html {
         height: 0;
         overflow: hidden;
     }
-    &:target,
-    &.shown {
-        height: 2.75em;
+    &:target {
+        height: 100%;
+    }
+    &:target .return {
+        margin: 0;
+        height: auto;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+        &:before {
+            content: "";
+            display: block;
+            width: 0;
+            height: 150%;
+        }
+    }
+    fieldset {
+        position: relative;
+        &::after {
+            content: "";
+            display: block;
+            background-image: -webkit-linear-gradient(left, transparent 0, @color-page 100%);
+            background-image: -moz-linear-gradient(left, transparent 0, @color-page 100%);
+            background-image: -ms-linear-gradient(left, transparent 0, @color-page 100%);
+            background-image: -o-linear-gradient(left, transparent 0, @color-page 100%);
+            background-image: linear-gradient(left, transparent 0, @color-page 100%);
+            right: 2em;
+            top: 0;
+            width: 2em;
+            height: 2.75em;
+            position: absolute;
+            pointer-events: none;
+        }
     }
     input {
         font-size: 1em;
@@ -264,7 +296,8 @@ html {
         text-indent: 2em;
         white-space: nowrap;
         background: url(@image-sprite) no-repeat 0 -2em;
-        background-size: @@image-sprite-size;
+        background-size: @image-sprite-size;
+        background-color: @color-page;
         margin: 0.375em 0; /* 6px 0 */
         border: 0;
         width: 2em;
@@ -274,6 +307,7 @@ html {
         position: absolute;
         top: 0;
         right: 0;
+
     }
 }
 

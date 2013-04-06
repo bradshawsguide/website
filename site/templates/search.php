@@ -10,14 +10,25 @@
     $results = $search->results();
 ?>
         <section>
-            <header class="hidden">
-                <h1><?= smartypants($page->title()); ?></h1>
+            <header>
+                <h1>Search results for &#8216;<?= $search->query(); ?>&#8216;</h1>
             </header>
 <?          if($results): ?>
             <ul>
-<?              foreach($results as $row): ?>
+<?              foreach($results as $row):
+                    $type = $row->parent()->title();
+                    if($type == "Stations"):
+                        $type = "Station";
+                    elseif($type == "Routes"):
+                        $type = "Route";
+                    elseif($type == "Regions"):
+                        $type = "Region";
+                    elseif($type == "Railway Companies"):
+                        $type = "Railway Company";
+                    endif
+?>
                 <li class="result">
-                    <h2><a href="<?= $row->url() ?>"><?= html($row->title()); ?></a> <em class="caption"><?= html($row->parent()->title); ?></em></h2>
+                    <h2><a href="<?= $row->url() ?>"><?= html($row->title()); ?></a> <em class="caption"><?= $type ?></em></h2>
                     <p><?= excerpt($row->text(), $length=140); ?></p>
                     <a href="<?= $row->url() ?>"><?= server::get('server_name'); ?><?= $row->url() ?></a>
                 </li>

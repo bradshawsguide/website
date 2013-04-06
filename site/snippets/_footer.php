@@ -7,12 +7,15 @@
             <li><a href="<?= $page->url() ?>" id="nav-<?= str::lower($page->title) ?>"<?= ($page->isOpen()) ? ' class="is-active"' : '' ?>><?= html($page->title()) ?></a></li>
 <?      endforeach ?>
         </ul>
-        <a href="#top" id="return">&#9652; Return to top</a>
+        <a href="#top" class="return">&#9652; Return to top</a>
     </nav><!--/@navigation-->
 
-    <form action="/search" role="search" id="search"<? if(isset($search)): ?> class="shown"<? endif ?>>
-        <input type="search" class="input" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey&#8230;"<? if(isset($search)): ?>  value="<?= html($search->query()) ?>"<? endif ?>/><!--
-     --><input type="submit" class="button" value="Search"/>
+    <form role="search" id="search"<? if(isset($search)): ?> class="shown"<? endif ?> action="/search">
+        <fieldset>
+            <input type="search" class="input" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey&#8230;"<? if(isset($search)): ?>  value="<?= html($search->query()) ?>"<? endif ?>/><!--
+         --><input type="submit" class="button" value="Search"/>
+        </fieldset>
+        <a href="#top" class="return">&#9652; Return to top</a>
     </form><!--/@search-->
 
     <footer role="contentinfo">
