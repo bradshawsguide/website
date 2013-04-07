@@ -10,7 +10,7 @@ Company:
 - companies/london-and-south-western
 ----
 Route:
-- routes/west-of-england
+- routes/basingstoke-to-salisbury-and-exeter
 - routes/chard-road-to-chard
 ----
 Meta:
