@@ -7,13 +7,15 @@
 <?          $items = $pages->findOpen()->children()->visible(); ?>
 <?          if($items && $items->count()): ?>
 <?              foreach($items as $item): ?>
+<?              if($item->hasChildren()): // remove when all countries have routes ?>
                 <h2><a href="<?= $item->url() ?>"><?= smartypants($item->title()) ?></a></h2>
 <?              $regions = $item->children()->sortBy('title', 'asc'); ?>
                 <ul class="regions listing">
 <?                  foreach($regions as $region): ?>
-                    <li><a href="<?= $region->url() ?>"<? if ($region->text() == ''): ?> class="unremarkable"<? endif ?>><?= smartypants($region->title()) ?></a></li>
+                    <li><a href="<?= $region->url() ?>"><?= smartypants($region->title()) ?></a></li>
 <?                  endforeach ?>
                 </ul>
+<?              endif // remove when all countries have routes ?>
 <?              endforeach ?>
 <?          endif ?>
         </section>
