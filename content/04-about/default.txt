@@ -4,6 +4,8 @@ Type: parent
 ----
 Text: Much like the BBC television series <cite>Great British Train Journeys</cite> presented by Michael Portillo, this site is inspired by the work of Victoria cartographer George Bradshaw (29 July 1801 - 6 September 1853).
 
+If you'd like to get Bradshaw's tips as you travel across the British rail network, be sure to [follow George Bradshaw on Foursquare](https://foursquare.com/bradshawsguide) and [Twitter](https://twitter.com/bradshawsguide).
+
 ## Publisher's Note:
 Typographical errors appearing in the original text have been corrected, with exception of instances where the common spelling of a Victorian word appears to differ from the modern-day equivalent. Examples include chimnies and Shakspeare.
 
