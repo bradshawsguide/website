@@ -315,15 +315,14 @@ html {
     Content Info
 ============================================================ */
 [role="contentinfo"] {
-    color: #d9d9d9;
+    color: @color-page;
     padding-top: 1em;
     padding-bottom: 1em;
     a {
-        color: #fff;
-        border-color: fade(#fff, 10%);;
+        color: @color-page;
+        border-color: fade(@color-page, 10%);;
     }
     p {
-        .smcp;
         font-size: 0.75em;
         text-indent: 0;
         margin: 0;
@@ -351,11 +350,11 @@ html {
             opacity: 1;
         }
     }
-    a[href^="http://twitter.com/"] {
+    a[href^="https://twitter.com/"] {
         background-position: 0 -6em;
     }
-    a[href^="http://foursqaure.com/"] {
-        background-position: 0 -9em;
+    a[href^="https://foursquare.com/"] {
+        background-position: 0 -8em;
     }
     abbr,
     small {
