@@ -47,6 +47,9 @@
 ============================================================ */
 .prose {
     padding-bottom: 1em;
+    h2 {
+        margin-bottom: -0.4444em; /* -8px */
+    }
     p {
         text-align: justify;
        -webkit-hyphens: auto;
@@ -450,7 +453,6 @@ ol.route {
         }
         &:first-child,
         &:last-child {
-            font-weight: 700;
             &::before {
                 margin: 0.75em 0.5em 0.75em -0.75em;
                 width: 1.25em;
@@ -509,13 +511,13 @@ ol.route {
 /* County/station/line listing */
 ul.listing {
     .fine-line;
-    margin: 0 0 2em;
+    margin-top: 0;
+    margin-bottom: 2em; /* 32px */
+    padding-top: 0.5em;
     overflow:hidden;
     li {
         color:fade(@color-text, 66%);
         line-height: 1.5;
-        text-indent: 0;
-        margin-left: 0;
     }
 }
 @media screen and (min-width: 20em) {
@@ -557,8 +559,8 @@ h2.index {
     h2.index {
         line-height: 1.5; /* 48px */
         .fine-line;
-        margin: 0 0 0 -1.5em; /* 8px 0 0 -48px */
-        padding-top: 0.375em; /* 12px */
+        margin: 0 0 0 -1.5em; /* 0 0 0 -48px */
+        padding-top: 0.125em; /* 4px */
         width: 1.5em; /* 48px */
         float: left;
     }
