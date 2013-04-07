@@ -8,8 +8,8 @@ Company:
 - companies/london-and-south-western
 ----
 Route:
-- routes/bishopstoke-to-fareham
 - routes/botley-to-bishops-waltham
+- routes/bishopstoke-to-gosport-and-portsmouth
 ----
 Meta:
 ----

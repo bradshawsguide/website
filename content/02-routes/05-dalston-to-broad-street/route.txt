@@ -6,4 +6,4 @@ Company: North London Railway
 ----
 Destination: Broad Street
 ----
-Text: *[Bradshaw [notes](/stations/hackney) that this is 'a very great convenience for city traffic']*
+Text:

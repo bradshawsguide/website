@@ -8,9 +8,8 @@ Company:
 - companies/london-and-south-western
 ----
 Route:
-- routes/bishopstoke-to-fareham
+- routes/bishopstoke-to-gosport-and-portsmouth
 - routes/fareham-to-gosport
-- routes/fareham-to-portsmouth
 ----
 Meta: A telegraph station.
 

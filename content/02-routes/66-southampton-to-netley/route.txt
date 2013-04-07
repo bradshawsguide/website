@@ -1,9 +1,9 @@
 ﻿Section: 1
 ----
-Title: Fareham to Portsmouth
+Title: Southampton to Netley
 ----
 Company: London and South Western Railway
 ----
-Destination: Portsmouth
+Destination: Netley
 ----
 Text:

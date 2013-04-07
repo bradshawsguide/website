@@ -4,10 +4,9 @@ Title: Horsham to Steyning and Shoreham
 ----
 Company: London, Brighton, and South Coast Railway
 ----
-
 Related:
 - (wikipedia: Steyning Line)
 ----
 Destination: Steyning and Shoreham
 ----
-Text:
+Text: &#32;

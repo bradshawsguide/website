@@ -4,6 +4,6 @@ Title: Guildford to Farnham and Alton
 ----
 Company: London and South Western Railway
 ----
-Destination: Farnham and Alton
+Destination: Farnham, Alton and Winchester
 ----
-Text:
+Text: &#32;

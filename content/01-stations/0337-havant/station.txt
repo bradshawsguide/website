@@ -9,7 +9,7 @@ Company:
 - companies/london-and-south-western
 ----
 Route:
-- routes/west-coastway
+- routes/brighton-to-worthing-chichester-and-portsmouth
 - routes/woking-to-godalming-and-portsmouth
 ----
 Meta: A telegraph station.

@@ -6,6 +6,4 @@ Company: London and South Western Railway
 ----
 Destination: Midhurst
 ----
-Text: To the left of [Petersfield](/stations/petersfield) a line about 9 miles long runs through [Rogate](/stations/rogate) and [Elsted](/stations/elsted) to [Midhurst](/stations/midhurst).
-
-It is intended, ultimately, to carry the line forward to [Petworth](/stations/petworth), in connection with the Brighton system. The distance, at present, is traversed by coach.
+Text:

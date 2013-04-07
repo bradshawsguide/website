@@ -9,8 +9,8 @@ Company:
 ----
 Route:
 - routes/london-to-southampton-dorchester-and-weymouth
+- routes/bishopstoke-to-gosport-and-portsmouth
 - routes/bishopstoke-to-salisbury
-- routes/bishopstoke-to-fareham
 ----
 Related:
 - (wikipedia: Eastleigh railway station)

@@ -6,4 +6,4 @@ Company: London and South Western Railway
 ----
 Destination: Chertsey
 ----
-Text:
+Text: Branch line to Chertsey.

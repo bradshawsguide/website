@@ -6,4 +6,4 @@ Company: North London Railway
 ----
 Destination: Chalk Farm
 ----
-Text: 
+Text: &#32;

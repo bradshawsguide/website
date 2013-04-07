@@ -6,4 +6,4 @@ Company: London and South Western Railway
 ----
 Destination: Salisbury
 ----
-Text:
+Text: &#32;

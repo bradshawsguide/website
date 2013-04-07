@@ -6,4 +6,4 @@ Company: London and South Western Railway
 ----
 Destination: Blandford
 ----
-Text:
+Text: Branch line to Blandford.
