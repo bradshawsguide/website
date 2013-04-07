@@ -1,41 +1,25 @@
 <? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
         <article>
             <header>
-                <hgroup>
-                    <h1><?= smartypants($page->title()) ?></h1>
-                    <h2><?= smartypants($page->country()) ?></h2>
-                </hgroup>
+                <h1><?= smartypants($page->title()) ?></h1>
+                <nav role="navigation">
+<?              if ($page->hasChildren()): ?>
+                    <a class="is-active" href="<?= $page->url() ?>"><?= smartypants($page->title()) ?></a>
+<?                  $items = $page->children()->visible();
+                    foreach($items as $item): ?>
+                    <a<?= ($item->isOpen()) ? ' class="is-active"' : '' ?> href="<?= $item->url() ?>"><?= smartypants($item->title()) ?></a>
+<?                  endforeach ?>
+<?              else: ?>
+                    <a rel="up" href="<?= $page->parent()->url() ?>"><?= smartypants($page->country()) ?></a>
+<?              endif ?>
+                </nav>
             </header>
 
+<?          if(($page->text) != ""): ?>
             <div class="prose">
-<?=             kirbytext($page->text()); ?>
+<?=             kirbytext($page->text()) ?>
             </div>
-
-<?      if ($page->type() == 'parent'):
-            $items = $page->children()->visible();
-            if($items && $items->count()): ?>
-            <nav role="navigation">
-                <h1><a href="<?= $page->url(); ?>"><?= $page->title(); ?></a></h1>
-                <ul>
-<?                  foreach($items as $item): ?>
-                    <li><a<?= ($item->isOpen()) ? ' class="is-active"' : '' ?> href="<?= $item->url() ?>"><?= html($item->title()) ?></a></li>
-<?                  endforeach ?>
-                </ul>
-            </nav>
 <?          endif ?>
-<?      elseif ($page->type() == 'child'):
-            $items = $page->siblings()->visible();
-            if($items && $items->count()): ?>
-            <nav role="navigation">
-                <h1><a href="<?= $page->parent()->url(); ?>"><?= $page->parent()->title(); ?></a></h1>
-                <ul>
-<?                  foreach($items as $item): ?>
-                    <li><a<?= ($item->isOpen()) ? ' class="is-active"' : '' ?> href="<?= $item->url() ?>"><?= html($item->title()) ?></a></li>
-<?                  endforeach ?>
-                </ul>
-            </nav>
-<?          endif ?>
-<?      endif ?>
 
 <?          if($page->related()): ?>
             <section>

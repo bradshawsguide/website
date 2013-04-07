@@ -4,9 +4,11 @@
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>
 
+<?          if(($page->text) != ""): ?>
             <div class="prose">
 <?=             kirbytext($page->text()) ?>
             </div>
+<?          endif ?>
 
             <section>
                 <h1>Routes Operated</h1>

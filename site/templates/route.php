@@ -1,17 +1,17 @@
 <? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
         <article>
             <header>
-                <hgroup>
-                    <h1><?= smartypants($page->title()) ?></h1>
-<?                  $company = $page->company(); ?>
-<?                  if ($company == 'Isle of Wight'): ?>
-                    <h2><a href="/regions/isle-of-wight">Isle of Wight</a></h2>
-<?                  elseif ($company == 'London'): ?>
-                    <h2><a href="/regions/london">London</a></h2>
-<?                  else: ?>
-                    <h2><a href="/companies/<?= preg_replace('/-railway$/', '', str::urlify($page->company())) ?>"><?= smartypants($page->company()) ?></a></h2>
-<?                  endif ?>
-                </hgroup>
+                <h1><?= smartypants($page->title()) ?></h1>
+                <nav>
+<?              $company = $page->company();
+                if ($company == 'Isle of Wight'): ?>
+                    <a rel="up" href="/regions/england/isle-of-wight">Isle of Wight</a>
+<?              elseif ($company == 'London'): ?>
+                    <a rel="up" href="/regions/england/london">London</a>
+<?              else: ?>
+                    <a rel="up" href="/companies/<?= preg_replace('/-railway$/', '', str::urlify($page->company())) ?>"><?= smartypants($page->company()) ?></a>
+<?              endif ?>
+                </nav>
             </header>
 
 <?          if (!isset($page->text)): ?>

@@ -1,13 +1,13 @@
 <? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
         <article>
             <header>
-                <hgroup>
-                    <h1><?= smartypants($page->title()) ?></h1>
-                    <h2><a href="/regions/<?= str::urlify($page->region()) ?>"><?= smartypants($page->region()) ?></a></h2>
-                </hgroup>
+                <h1><?= smartypants($page->title()) ?></h1>
+                <nav>
+                    <a rel="up" href="<?= $pages->findBy('title', (string)$page->region())->url(); ?>"><?= smartypants($page->region()) ?></a>
+                </nav>
             </header>
 
-<?          if(!isset($page->text)): ?>
+<?          if(($page->text) != ""): ?>
             <div class="prose">
 <?              if($page->meta): ?>
 <?=                 kirbytext($page->meta()) ?>
