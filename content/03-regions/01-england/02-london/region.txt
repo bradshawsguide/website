@@ -1,7 +1,5 @@
 Title: London
 ----
-Type: parent
-----
 Country: England
 ----
 Text: Is the capital of Great Britain, and indeed, if its commercial and political influence be considered, of the civilised world. The British metropolis, if we include its suburban districts, contains the largest mass of human life, arts, science, wealth, power, and architectural splendour that exists, or, in almost all these particulars, that ever has existed in the known annals of mankind. In making this assertion, it should be borne in mind that the power of some ancient cities--even of Rome herself--was relatively, but not positively greater; and that the only well authenticated superiority is that which may be traced to the architecture of a few early cities. The site of our gigantic metropolis is the very best that could have been selected for commercial purposes, as it is enabled, by means of the Thames, to carry on a water communication with every part of the globe; and not even the development of the railway system in England has lessened this advantage. The position of other great cities may indeed exhibit more striking features, but the situation of our metropolis happily combines all which may contribute to its wealth and convenience. Seated on a gentle slope, descending to the margin of a noble river, its plain is bounded on the north and south by two beautiful ranges of hills.
