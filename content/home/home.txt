@@ -4,7 +4,7 @@ Text:
 <header class="title">
     <h1>
         <span class="broad">Bradshaw's</span>
-        <span class="narrow">Handbook For Tourists</span>
+        <span class="narrow">Guide For Tourists</span>
         <span class="in">in</span>
         <span class="broad">Great Britain <abbr title="and">&</abbr> Ireland</span>
     </h1>

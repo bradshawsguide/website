@@ -1,4 +1,4 @@
-Title: Bradshaw's Handbook for Tourists in Great Britain &amp; Ireland
+Title: Bradshaw's Guide for Tourists in Great Britain &amp; Ireland
 ----
 ShortTitle: Bradshaw's
 ----
@@ -12,6 +12,6 @@ License: Public domain
 ---- 
 LicenseURL: http://creativecommons.org/publicdomain/mark/1.0/
 ----
-Description: Bradshaw's Handbook for Tourists in Great Britain & Ireland, (in four sections), adapted to the railway system, complete with maps, plans of towns, & pictorial illustrations.
+Description: Bradshaw's Guide for Tourists in Great Britain & Ireland, (in four sections), adapted to the railway system, complete with maps, plans of towns, & pictorial illustrations.
 ----
 Keywords: railway, guide,
