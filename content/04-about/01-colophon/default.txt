@@ -2,18 +2,18 @@ Title: Colophon
 ----
 Type: child
 ----
-Text: &#169; 2013 Paul Robert Lloyd.
+Text: &#169; 2013 [Paul Robert Lloyd](http://paulrobertlloyd.com/).
 
 Originally published in Great Britain in 1866.
 
 This work (<cite>Bradshaw's Handbook for Tourists in Great Britain & Ireland</cite>, by George Bradshaw) has been identified as being in the public domain, and is [free of known copyright restrictions](http://creativecommons.org/publicdomain/mark/1.0/).
 
 ## Credits
-Publication is made possible thanks to the following tools and services:
 
-* Based on an [original texts](http://catalog.hathitrust.org/Record/000075905) digitised by the [Hathi Trust](http://www.hathitrust.org).
-* The site is made with [Kirby](http://getkirby.com/), an extremely flexible and easy-to-use file-based CMS.
-* Text is set with [Playfair Display](http://google.com/webfonts/specimen/Playfair+Display) and [Playfair Display SC](http://google.com/webfonts/specimen/Playfair+Display+SC), fonts available from the [Google Web Font library](http://google.com/webfonts).
-* The site is hosted by [(mt)mediatemple](http://mediatemple.net).
+Based on an [original text](http://catalog.hathitrust.org/Record/000075905) digitised by the [Hathi Trust](http://www.hathitrust.org).
+
+The site is built with *[Kirby](http://getkirby.com/)*--an extremely flexible and easy-to-use file-based CMS--hosted by *[WebFaction](http://webfaction.com)*.
+
+Body text is set in *[Linux Libertine](http://www.linuxlibertine.org)*. Headings and emboldened text is set in *[Kameron](https://github.com/vernnobile/kameronFont)* by [Vernon Adams](http://code.newtypography.co.uk).
 
 *[CMS]: Content Management System
