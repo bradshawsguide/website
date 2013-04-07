@@ -21,15 +21,8 @@
 
 
 /* ============================================================
-    Text
+    Footnote
 ============================================================ */
-.lede {
-    color: #666;
-    font-weight: 300;
-    font-size: 1.5em; /* 24px */
-    line-height: 1; /* 24px */
-    margin: 0.6667em 0 1em; /* 16px 0 24px */
-}
 .footnotes {
     margin-top: 1.5em;
     hr {
@@ -75,6 +68,9 @@
     .prevnext {
         font-size: 112.5%; /* 18px */
     }
+    .prose > h2 {
+        font-size: 100%;
+    }
     .prose > p {
         line-height: 1.5556; /* 28px */
     }
@@ -83,6 +79,9 @@
     .prose,
     .prevnext {
         font-size: 125%; /* 20px */
+    }
+    .prose > h2 {
+        font-size: 100%;
     }
     .prose > p {
         line-height: 1.6; /* 32px */
@@ -261,6 +260,35 @@ img.pull-right {
 /* ============================================================
     Navigation
 ============================================================ */
+/* Parent */
+article > header {
+    nav {
+        font-family: kameron, serif;
+        font-size: 1em;
+        font-weight: 400;
+        line-height: 1.5;
+        &::before {
+            content: "";
+            background-color: fade(@color-text, 50%);
+            width: 40%;
+            height: 0.0625em; /* 1px */
+            display: block;
+            margin: 1em auto; /* 16px auto */
+        }
+        a {
+            letter-spacing: 1px;
+            text-align: center;
+            text-transform: uppercase;
+            white-space: nowrap;
+            margin: 0 0.5em;
+            border: 0;
+            &.is-active {
+                font-weight: 700;
+            }
+        }
+    }
+}
+
 /* Pagination */
 .pagination {
     .fine-line;
@@ -271,7 +299,7 @@ img.pull-right {
         margin: 0;
     }
     a {
-        margin-right: 1em;
+        margin-left: 1em;
         &[rel="prev"]::before {
             content: "\2039\2009";
             speak: none;

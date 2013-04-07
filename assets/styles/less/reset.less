@@ -65,9 +65,8 @@ nav > h1 {
     font-family: kameron, serif;
     font-size: 1.125em; /* 18px */
     font-weight: 700;
-    letter-spacing: 1px;
-    line-height: 1.1111; /* 20px */
     letter-spacing: 0.0556em; /* 1px */
+    line-height: 1.1111; /* 20px */
     text-transform: uppercase;
     text-rendering: optimizeLegibility;
     margin: 1.7778em 0 0.4444em; /* 32px 0 8px */
@@ -77,15 +76,15 @@ nav > h1 {
 }
 h3 {
    -webkit-font-smoothing: antialiased;
-    .smcp;
+    font-family: kameron, serif;
+    font-size: 0.9375em; /* 15px */
     font-weight: 700;
-    font-size: 1.3125em; /* 21px */
-    line-height: 1.1429; /* 24px */
-    margin: 1.1429em 0 -0.3810em; /* 24px 0 -8px */
+    margin: 1.6em 0 -0.5333em; /* 24px 0 -8px */
 }
 h4, legend {
    -webkit-font-smoothing: antialiased;
-    font-weight: 700;
+    .smcp;
+    font-weight: 400;
     font-size: 1em; /* 16px */
     line-height: 1.25; /* 20px */
     margin: 1.25em 0 -0.4em; /* 20px 0 -8px */
@@ -93,25 +92,9 @@ h4, legend {
 }
 header {
     margin: 3em 0;
+    text-align: center;
     h1 {
-        margin-bottom: -0.1em; /* -4px */
-    }
-    h2 {
-        font-size: 1em;
-        font-weight: 400;
-        text-align: center;
-        margin: 0 0 2em 0;
-        &::before {
-            content: "";
-            background-color: fade(@color-text, 50%);
-            width: 40%;
-            height: 0.0625em;
-            display: block;
-            margin: 1em auto;
-        }
-    }
-    hgroup {
-        text-align: center;
+        margin-bottom: 0;
     }
 }
 @media screen and (min-width: 40em) {
@@ -281,7 +264,7 @@ a {
     }
     a:hover, summary:hover {
         color: @color-hover;
-        border-bottom-color: fade(@color-hover, 20%);
+        border-bottom: 1px solid fade(@color-hover, 20%);
     }
     a:active, summary:active {
         color: @color-active;
