@@ -323,27 +323,39 @@ html {
         border-color: fade(#fff, 10%);;
     }
     p {
+        .smcp;
         font-size: 0.75em;
         text-indent: 0;
         margin: 0;
     }
-    a[href^="http://twitter.com/"] {
-        font-size: 1.3334em;
+    ul {
+        margin-top: -2.5em;
+        float: right;
+    }
+    li {
+        float: left;
+    }
+    a[rel="me"] {
+        font-size: 1em;
         text-indent: 100%;
         white-space: nowrap;
-        background: url(@image-sprite) no-repeat 0 -6em;
-        background-size: @@image-sprite-size;
-        margin-top: -2.5em;
+        background: url(@image-sprite) no-repeat;
+        background-size: @image-sprite-size;
         border: 0;
         overflow: hidden;
         display: block;
         width: 2em;
         height: 2em;
-        float: right;
         opacity: 0.66;
         &:hover {
             opacity: 1;
         }
+    }
+    a[href^="http://twitter.com/"] {
+        background-position: 0 -6em;
+    }
+    a[href^="http://foursqaure.com/"] {
+        background-position: 0 -9em;
     }
     abbr,
     small {
