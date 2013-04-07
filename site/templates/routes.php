@@ -8,7 +8,7 @@
 <? if($items && $items->count()): ?>
 <?      foreach($items as $item): ?>
 <?          $company = $item->title(); ?>
-<?          if ($company == 'Isle of Wight'): ?>
+<?          if($company == 'Isle of Wight'): ?>
             <h2><a href="/regions/england/isle-of-wight">Isle of Wight</a></h2>
 <?          elseif ($company == 'London'): ?>
             <h2><a href="/regions/england/london">London</a></h2>
@@ -17,7 +17,7 @@
 <?          endif ?>
 <?          $routes = $pages->find('routes')->children()->filterBy('company', "$company")->sortBy('title', 'asc'); ?>
             <ul class="listing">
-<?          if ($company == 'London'): ?>
+<?          if($company == 'London'): ?>
                 <li><a href="/regions/england/london/visitors-guide">Guide through London</a></li>
                 <li><a href="/regions/england/london/places-of-amusement">Places of Amusement, &#38;c.</a></li>
                 <li><a href="/regions/england/london/summary">London Summary</a></li>
