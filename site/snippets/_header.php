@@ -11,6 +11,7 @@
     <meta name="apple-mobile-web-app-title" content="<?= smartypants($site->shorttitle) ?>">
     <meta name="apple-mobile-web-app-capable" content="yes">
 
+    <link rel="author" href="humans.txt"/>
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
     <link rel="apple-touch-startup-image" href="<?= url('assets/images/apple-touch-startup-image.png') ?>" media="(device-width: 320px)"/>
     <link rel="apple-touch-startup-image" href="<?= url('assets/images/apple-touch-startup-image@2x.png') ?>" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)">
