@@ -2,10 +2,9 @@ Title: Style Guide
 ----
 Type: child
 ----
-Text: Base markup styles used throughout this site.
+Text: The main page header of this guide is an `h1` element. Any header element may include links, as depicted in the following examples.
 
 ## Second-Level Header [Linked](#)
-The main page header of this guide is an `h1` element. Any header elements may include links, as depicted in the example.
 
 The secondary header above is an `h2` element, which may be used for any form of important page-level header. More than one may be used per page. Consider using an `h2` unless you need a header level of less importance, or as a sub-header to an existing `h2` element.
 
