@@ -47,7 +47,7 @@
 <?                      endif ?>
 <?                      foreach ($routes as $connection): ?>
 <?                          if ($connection->title() !== $page->title()): ?>
-                            <li><a href="<?= $connection->url() ?>"><?= smartypants($connection->title()) ?></a></li>
+                            <li><a href="<?= $connection->url() ?>"><?= smartypants($connection->destination()) ?></a></li>
 <?                          endif ?>
 <?                      endforeach ?>
 <?                      if ($type == 'interchange'): ?>

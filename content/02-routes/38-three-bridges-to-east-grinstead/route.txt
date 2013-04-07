@@ -6,4 +6,6 @@ Company: London, Brighton, and South Coast Railway
 ----
 Type: Branch
 ----
+Destination: East Grinstead
+----
 Text: This branch is 68½ miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of [East Grinstead](/stations/east-grinstead).

@@ -6,6 +6,8 @@ Company: Isle of Wight
 ----
 Type: Line
 ----
+Destination: Newchurch
+----
 Text:
 
 The best part of the first or eastern route may be done by means of the Ryde and Cowes coaches in one day, for 9s. or 10s.; or fly to hold four may be had for a guinea a day.

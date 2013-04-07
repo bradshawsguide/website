@@ -6,4 +6,6 @@ Company: South Eastern Railway
 ----
 Type: Line
 ----
+Destination: Woolwich, Gravesend, Strood and Rochester
+----
 Text: The North Kent line commences at [New Cross](/stations/new-cross).

@@ -6,4 +6,6 @@ Company: South Eastern Railway
 ----
 Type: Branch
 ----
+Destination: Whitstable
+----
 Text:

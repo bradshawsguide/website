@@ -6,4 +6,6 @@ Company: London, Brighton, and South Coast Railway
 ----
 Type: Branch
 ----
+Destination: Bognor
+----
 Text:

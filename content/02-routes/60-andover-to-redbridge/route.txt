@@ -6,4 +6,6 @@ Company: London and South Western Railway
 ----
 Type: Branch
 ----
+Destination: Redbridge
+----
 Text: A deviation of the Andover and Redbridge, a line 22½ miles long, takes place at [Andover](/stations/andover).

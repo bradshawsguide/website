@@ -6,4 +6,6 @@ Company: Hampstead Junction Railway
 ----
 Type: Line
 ----
+Destination: Willesden Junction
+----
 Text:

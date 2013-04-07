@@ -6,4 +6,6 @@ Company: North and South Western Junction Railway
 ----
 Type: Line
 ----
+Destination: Kew
+----
 Text:

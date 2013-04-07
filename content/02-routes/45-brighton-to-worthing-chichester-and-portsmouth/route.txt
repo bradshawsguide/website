@@ -6,4 +6,6 @@ Company: London, Brighton, and South Coast Railway
 ----
 Type: Line
 ----
+Destination: Worthing, Chichester and Portsmouth
+----
 Text: On leaving the terminus the line turns off abruptly towards the east, and passing through the New England tunnel, cut in the chalk cliff beneath Henfield Road, reaches the station at [Hove](/stations/hove).

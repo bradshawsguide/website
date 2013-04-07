@@ -6,4 +6,6 @@ Company: North London Railway
 ----
 Type: Line
 ----
+Destination: Chalk Farm
+----
 Text: 
