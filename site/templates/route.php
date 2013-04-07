@@ -14,7 +14,8 @@
                 </nav>
             </header>
 
-<?          if (!isset($page->text)): ?>
+<?          if(($page->text) != ""): ?>
+            <div class="prose">
             <div class="prose">
 <?=             kirbytext($page->text()) ?>
             </div>
