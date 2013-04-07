@@ -264,8 +264,7 @@ c::set('cache', false);
 c::set('cache.autoupdate', true);
 c::set('cache.data', true);
 c::set('cache.html', true);
-c::set('cache.ignore', array('search'));
-
+c::set('cache.ignore', array('search', 'sitemap'));
 
 /*
 
