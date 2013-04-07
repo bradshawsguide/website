@@ -4,8 +4,6 @@ Title: First Route--Ryde to Newchurch
 ----
 Company: Isle of Wight
 ----
-Type: Line
-----
 Destination: Newchurch
 ----
 Text:

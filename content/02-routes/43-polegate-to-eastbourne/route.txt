@@ -4,8 +4,6 @@ Title: Polegate to Eastbourne
 ----
 Company: London, Brighton, and South Coast Railway
 ----
-Type: Branch
-----
 Destination: Eastbourne
 ----
 Text:

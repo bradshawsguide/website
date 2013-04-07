@@ -4,8 +4,9 @@ Title: Andover to Redbridge
 ----
 Company: London and South Western Railway
 ----
-Type: Branch
+Related:
+- (wikipedia: Sprat and Winkle Line)
 ----
 Destination: Redbridge
 ----
-Text: A deviation of the Andover and Redbridge, a line 22½ miles long, takes place at [Andover](/stations/andover).
+Text:

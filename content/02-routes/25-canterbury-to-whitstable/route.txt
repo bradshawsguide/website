@@ -4,8 +4,6 @@ Title: Canterbury to Whitstable
 ----
 Company: South Eastern Railway
 ----
-Type: Branch
-----
 Destination: Whitstable
 ----
 Text:

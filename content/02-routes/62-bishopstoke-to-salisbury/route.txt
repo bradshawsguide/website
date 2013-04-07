@@ -4,8 +4,6 @@ Title: Bishopstoke to Salisbury
 ----
 Company: London and South Western Railway
 ----
-Type: Branch
-----
 Destination: Salisbury
 ----
 Text:

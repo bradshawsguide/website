@@ -4,8 +4,6 @@ Title: Fenchurch Street to Tilbury and Southend
 ----
 Company: London, Tilbury, and Southend Railway
 ----
-Type: Line
-----
 Destination: Tilbury and Southend
 ----
 Text: This line commences by a junction with the [Blackwall](/companies/london-and-blackwall) at Stepney, and also with the Eastern Counties at Ilford. Passengers may book at either Bishopsgate or Fenchurch Street; but the latter affords greater facilities as to the number of departures. A few minutes only are occupied in passing the stations of [Bromley](bromley), [Plaistow](plaistow), and [East Ham](east-ham), before arriving at the town of [Barking](barking).

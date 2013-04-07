@@ -13,4 +13,4 @@ Route:
 ----
 Meta:
 ----
-Text: Here the line diverges to the south-east, in order to preserve a connecting link between two towns which must ever be the focus of our military and maritime interest.
+Text: Here [the line diverges to the south-east](/routes/botley-to-bishops-waltham), in order to preserve a connecting link between two towns which must ever be the focus of our military and maritime interest.

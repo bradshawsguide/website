@@ -4,8 +4,6 @@ Title: Polegate to Hailsham
 ----
 Company: London, Brighton, and South Coast Railway
 ----
-Type: Branch
-----
 Destination: Hailsham
 ----
 Text:

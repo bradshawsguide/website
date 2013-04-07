@@ -4,8 +4,7 @@ Title: Victoria to Crystal Palace
 ----
 Company: London, Brighton, and South Coast Railway
 ----
-Type: Branch
-----
+
 Related:
 - (wikipedia: West End of London and Crystal Palace Railway)
 ----

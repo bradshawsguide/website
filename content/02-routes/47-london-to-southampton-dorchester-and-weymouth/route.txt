@@ -4,8 +4,6 @@ Title: London to Southampton, Dorchester and Weymouth
 ----
 Company: London and South Western Railway
 ----
-Type: Main Line
-----
 Destination: Southampton, Dorchester and Weymouth
 ----
 Text: ## Clapham to Kingston

@@ -4,8 +4,6 @@ Title: Sevenoaks Junction to Sevenoaks
 ----
 Company: London, Chatham, and Dover Railway
 ----
-Type: Branch
-----
 Destination: Sevenoaks
 ----
 Text: A line 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to [Sevenoaks](/stations/sevenoaks).

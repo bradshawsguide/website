@@ -4,8 +4,6 @@ Title: Willesden Junction to Kew
 ----
 Company: North and South Western Junction Railway
 ----
-Type: Line
-----
 Destination: Kew
 ----
 Text:

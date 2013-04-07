@@ -4,8 +4,6 @@ Title: Woking to Godalming and Portsmouth
 ----
 Company: London and South Western Railway
 ----
-Type: Main Line
-----
 Destination: Godalming and Portsmouth
 ----
 Text: Three-quarters of a mile beyond [Woking](/stations/woking) a line branches off to the left to Guildford and Godalming, direct to Portsmouth, from which another branch diverges at Guildford and extends to Ash, Farnham, and Alton.

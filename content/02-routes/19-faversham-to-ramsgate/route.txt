@@ -4,8 +4,6 @@ Title: Faversham to Whitstable, Herne Bay, Margate, and Ramsgate
 ----
 Company: London, Chatham, and Dover Railway
 ----
-Type: Line
-----
 Destination: Whitstable, Herne Bay, Margate and Ramsgate
 ----
 Text: ## Faversham to Ramsgate.

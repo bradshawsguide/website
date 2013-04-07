@@ -4,8 +4,6 @@ Title: Fareham to Gosport
 ----
 Company: London and South Western Railway
 ----
-Type: Line
-----
 Destination: Gosport
 ----
 Text:

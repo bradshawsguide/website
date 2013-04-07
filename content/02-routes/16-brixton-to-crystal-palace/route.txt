@@ -4,8 +4,6 @@ Title: Brixton to Crystal Palace
 ----
 Company: London, Chatham, and Dover Railway
 ----
-Type: Branch
-----
 Destination: Crystal Palace
 ----
 Text:

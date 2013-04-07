@@ -4,8 +4,6 @@ Title: London to Brighton
 ----
 Company: London, Brighton, and South Coast Railway
 ----
-Type: Main Line
-----
 Destination: Brighton
 ----
 Text: ## London to Croydon

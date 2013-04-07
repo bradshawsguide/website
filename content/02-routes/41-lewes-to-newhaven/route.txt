@@ -4,8 +4,6 @@ Title: Lewes to Newhaven
 ----
 Company: London, Brighton, and South Coast Railway
 ----
-Type: Branch
-----
 Destination: Newhaven
 ----
 Text:

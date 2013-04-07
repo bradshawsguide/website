@@ -4,8 +4,6 @@ Title: Camden Road to Willesden Junction
 ----
 Company: Hampstead Junction Railway
 ----
-Type: Line
-----
 Destination: Willesden Junction
 ----
-Text:
+Text: A transfer of passengers from the [North London Railway](/companies/north-london) can be made at [Camden Road](/stations/camden-road).

@@ -4,8 +4,6 @@ Title: Wimbledon to Epsom and Leatherhead
 ----
 Company: London and South Western Railway
 ----
-Type: Branch
-----
 Destination: Epsom and Leatherhead
 ----
 Text: ## Wimbledon to Epsom and Leatherhead.

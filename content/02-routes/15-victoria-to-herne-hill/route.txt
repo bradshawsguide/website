@@ -4,8 +4,6 @@ Title: Victoria to Herne Hill
 ----
 Company: London, Chatham, and Dover Railway
 ----
-Type: Line
-----
 Destination: Herne Hill
 ----
 Text:

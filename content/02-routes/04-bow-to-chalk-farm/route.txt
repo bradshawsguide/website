@@ -4,8 +4,6 @@ Title: Bow to Chalk Farm
 ----
 Company: North London Railway
 ----
-Type: Line
-----
 Destination: Chalk Farm
 ----
 Text: 

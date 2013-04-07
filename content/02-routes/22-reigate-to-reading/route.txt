@@ -4,8 +4,6 @@ Title: Reigate to Reading
 ----
 Company: South Eastern Railway
 ----
-Type: Branch
-----
 Destination: Reading
 ----
 Text: ## Reigate to Reading

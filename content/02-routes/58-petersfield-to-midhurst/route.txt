@@ -4,8 +4,6 @@ Title: Petersfield to Midhurst
 ----
 Company: London and South Western Railway
 ----
-Type: Branch
-----
 Destination: Midhurst
 ----
 Text: To the left of [Petersfield](/stations/petersfield) a line about 9 miles long runs through [Rogate](/stations/rogate) and [Elsted](/stations/elsted) to [Midhurst](/stations/midhurst).

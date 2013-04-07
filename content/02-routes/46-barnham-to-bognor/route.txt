@@ -4,7 +4,9 @@ Title: Barnham to Bognor
 ----
 Company: London, Brighton, and South Coast Railway
 ----
-Type: Branch
+
+Related:
+- (wikipedia: Bognor Regis branch line)
 ----
 Destination: Bognor
 ----

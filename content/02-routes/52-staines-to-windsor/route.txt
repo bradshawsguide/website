@@ -4,8 +4,6 @@ Title: Staines to Windsor
 ----
 Company: London and South Western Railway
 ----
-Type: Branch
-----
 Destination: Windsor
 ----
 Text: 

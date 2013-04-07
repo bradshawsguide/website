@@ -4,7 +4,9 @@ Title: Sutton to Epsom Downs
 ----
 Company: London, Brighton, and South Coast Railway
 ----
-Type: Branch
+
+Related:
+- (wikipedia: Epsom Downs Branch)
 ----
 Destination: Epsom Downs
 ----

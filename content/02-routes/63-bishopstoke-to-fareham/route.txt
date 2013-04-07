@@ -4,8 +4,6 @@ Title: Bishopstoke to Fareham
 ----
 Company: London and South Western Railway
 ----
-Type: Line
-----
 Destination: Fareham
 ----
 Text:

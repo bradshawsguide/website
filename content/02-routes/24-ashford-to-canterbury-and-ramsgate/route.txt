@@ -4,8 +4,6 @@ Title: Ashford to Canterbury, Ramsgate, &c.
 ----
 Company: South Eastern Railway
 ----
-Type: Branch
-----
 Destination: Canterbury and Ramsgate
 ----
 Text: ## Ashford to Canterbury

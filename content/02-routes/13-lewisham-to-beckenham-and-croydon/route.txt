@@ -4,8 +4,6 @@ Title: Lewisham to Beckenham and Croydon
 ----
 Company: South Eastern Railway
 ----
-Type: Line
-----
 Destination: Croydon
 ----
 Text: On leaving [Lewisham Junction](lewisham-junction) we cross the Ravensbourne twice, and then come to [Ladywell](ladywell), to the right of which are the Deptford and Lewisham Cemeteries. We again cross the stream at its junction with the Pool, along the side of which we continue our course to [Lower Sydenham](lower-sydenham). From thence we pass to [Beckenham](beckenham).

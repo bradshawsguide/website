@@ -4,8 +4,6 @@ Title: Second Route--Ryde to the Needles
 ----
 Company: Isle of Wight
 ----
-Type: Line
-----
 Destination: The Needles
 ----
 Text: No coach travels the western route, which is much to be lamented, as there is no question that a drive over the Downs on this side of the Island (supposing a good road to be made), would be one of the most splendid imaginable.
