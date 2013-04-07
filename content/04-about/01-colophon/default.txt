@@ -10,10 +10,12 @@ This work (<cite>Bradshaw's Handbook for Tourists in Great Britain & Ireland</ci
 
 ## Credits
 
-Based on an [original text](http://catalog.hathitrust.org/Record/000075905) digitised by the [Hathi Trust](http://www.hathitrust.org).
+Sourced from the [original text](http://catalog.hathitrust.org/Record/000075905) digitised by the [Hathi Trust](http://www.hathitrust.org).
 
-The site is built with *[Kirby](http://getkirby.com/)*--an extremely flexible and easy-to-use file-based CMS--hosted by *[WebFaction](http://webfaction.com)*.
+Body text set in *[Linux Libertine](http://www.linuxlibertine.org)*. Headings and emboldened text set in *[Kameron](https://github.com/vernnobile/kameronFont)* by [Vernon Adams](http://code.newtypography.co.uk).
 
-Body text is set in *[Linux Libertine](http://www.linuxlibertine.org)*. Headings and emboldened text is set in *[Kameron](https://github.com/vernnobile/kameronFont)* by [Vernon Adams](http://code.newtypography.co.uk).
+Built with *[Kirby](http://getkirby.com/)*--an extremely flexible and easy-to-use file-based CMS--and hosted by *[WebFaction](http://webfaction.com)*.
+
+Utilises *[history-ajax](https://github.com/joshje/history-ajax)* JavaScript library by [Josh Emerson](http://joshemerson.co.uk) and the *[Alphabetise](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise)* Kirby plugin by [Russ Baldwin](http://shoesforindustry.net).
 
 *[CMS]: Content Management System
