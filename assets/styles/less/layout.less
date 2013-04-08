@@ -263,11 +263,11 @@ html {
         &::after {
             content: "";
             display: block;
-            background-image: -webkit-linear-gradient(left, transparent 0, @color-page 100%);
-            background-image: -moz-linear-gradient(left, transparent 0, @color-page 100%);
-            background-image: -ms-linear-gradient(left, transparent 0, @color-page 100%);
-            background-image: -o-linear-gradient(left, transparent 0, @color-page 100%);
-            background-image: linear-gradient(left, transparent 0, @color-page 100%);
+            background-image: -webkit-linear-gradient(left, fade(@color-page, 0) 0, @color-page 100%);
+            background-image: -moz-linear-gradient(left, fade(@color-page, 0) 0, @color-page 100%);
+            background-image: -ms-linear-gradient(left, fade(@color-page, 0) 0, @color-page 100%);
+            background-image: -o-linear-gradient(left, fade(@color-page, 0) 0, @color-page 100%);
+            background-image: linear-gradient(left, fade(@color-page, 0) 0, @color-page 100%);
             right: 2em;
             top: 0;
             width: 2em;
