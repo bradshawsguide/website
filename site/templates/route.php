@@ -16,7 +16,6 @@
 
 <?          if(($page->text) != ""): ?>
             <div class="prose">
-            <div class="prose">
 <?=             kirbytext($page->text()) ?>
             </div>
 <?          endif ?>
