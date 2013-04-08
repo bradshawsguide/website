@@ -98,7 +98,7 @@ historyAjax.config = {
     function loadPage(href) {
         var parts = getParts(href);
         updateNav('nav', parts[0]);
-        var ajaxHref = href + ((href.indexOf('?') == -1)? '?' : '&amp;') + 'ajax=1'
+        var ajaxHref = href + ((href.indexOf('?') == -1)? '?' : '&') + 'ajax=1'
         var req;
         if (window.XMLHttpRequest) {
             req = new XMLHttpRequest();
@@ -113,7 +113,8 @@ historyAjax.config = {
               document.getElementById('main').innerHTML = req.responseText;
               var title = main.getElementsByTagName('h1')[0];
               if (title) {
-                  document.title = title.innerHTML.replace('&#38;', '&')+' - '+historyAjax.config.title;
+                  var titleText = ('innerText' in document)? title.innerText : title.textContent;
+                  document.title = titleText+' - '+historyAjax.config.title;
               }
           }
         }
