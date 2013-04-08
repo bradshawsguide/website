@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>search</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" fill="#D8D8D8" fill-rule="evenodd">
+        <g id="search">
+            <path d="M28,25.9 L20.35,18.25 C21.4,16.75 22,14.95 22,13 C22,8 17.95,4 13,4 C8,4 4,8 4,13 C4,17.95 8,22 13,22 C14.95,22 16.75,21.4 18.25,20.35 L25.9,28 L28,25.9 L28,25.9 L28,25.9 M7,13 C7,9.7 9.7,7 13,7 C16.3,7 19,9.7 19,13 C19,16.3 16.3,19 13,19 C9.7,19 7,16.3 7,13 C7,13 7,16.3 7,13 L7,13" fill="#CCC9C6"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>menu</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" fill="#D8D8D8" fill-rule="evenodd">
+        <g id="menu">
+            <path d="M0,6 L32,6 L32,10 L0,10 Z M0,14 L32,14 L32,18 L0,18 Z M0,22 L32,22 L32,26 L0,26 Z M0,22" id="nav" fill="#CCC9C6"></path>
+        </g>
+    </g>
+</svg>
