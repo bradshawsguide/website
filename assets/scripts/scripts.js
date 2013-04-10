@@ -11,6 +11,7 @@ var addEvent = function () {
     }
 }();
 
+
 // Open links in place in standalone mode
 // https://gist.github.com/irae/1042167
 (function(doc,nav,standalone) {
@@ -51,9 +52,9 @@ var addEvent = function () {
 //      }
 //      touchThrottle--;
     });
-    addEvent(win, 'touchmove', function(e) {
-        setShadow();
-    });
+//  addEvent(win, 'touchmove', function(e) {
+//      setShadow();
+//  });
 }(this, this.document));
 
 
