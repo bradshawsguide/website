@@ -24,14 +24,13 @@
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule ^(.*) index.php [L]
 
+# Redirect short URLs
+# TO DO
+
 # Suppress "www." at the beginning of URLs
   RewriteCond %{HTTPS} !=on
   RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
   RewriteRule ^ http://%1%{REQUEST_URI} [R=301,L]
-
-# Rewrite shortened URLs
-  RewriteCond %{HTTP_HOST} bradshaws.co$
-  RewriteRule .? http://bradshawsguide.org%{REQUEST_URI} [L,R=301]
 </IfModule>
 
 
