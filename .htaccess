@@ -31,7 +31,7 @@
 
 # Rewrite shortened URLs
   RewriteCond %{HTTP_HOST} bradshaws.co$
-  RewriteRule (.*) http://bradshawsguide.org/$1 [L,QSA,R=301]
+  RewriteRule .? http://bradshawsguide.org%{REQUEST_URI} [L,R=301]
 </IfModule>
 
 
