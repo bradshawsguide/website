@@ -28,6 +28,10 @@
   RewriteCond %{HTTPS} !=on
   RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
   RewriteRule ^ http://%1%{REQUEST_URI} [R=301,L]
+
+# Rewrite shortened URLs
+  RewriteCond %{HTTP_HOST} ^(www\.)bradshaws\.co$
+  RewriteRule ^$ http://bradshawsguide.org/ [L,QSA,R=301]
 </IfModule>
 
 
