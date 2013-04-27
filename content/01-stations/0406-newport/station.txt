@@ -9,6 +9,9 @@ Company:
 Route:
 - routes/ryde-to-the-needles
 ----
+Related:
+- (wikipedia: Newport railway station &#40;IoWCR Isle of Wight&#41;)
+----
 Meta: Distance from station at Portsmouth, 15 miles.
 
 A telegraph station.
