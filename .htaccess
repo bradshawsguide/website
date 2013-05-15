@@ -4,6 +4,23 @@
 <IfModule mod_rewrite.c>
   RewriteEngine on
   RewriteBase /
+  Options +FollowSymLinks
+
+# Redirect to canonical domainname
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP_HOST} !^bradshawsguide\.dev$ [NC]
+  RewriteCond %{HTTP_HOST} !^bradshawsguide\.org$ [NC]
+  RewriteRule ^(.*)$ http://bradshawsguide.org/$1 [R=301,L]
+
+# Make site links work
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*) index.php [L]
+
+# Make panel links work
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^panel/(.*) panel/index.php [L]
 
 # Block text files in the content folder from being accessed directly
   RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
@@ -13,24 +30,6 @@
 
 # Block all files in the kirby folder from being accessed directly
   RewriteRule ^kirby/(.*) error [R=301,L]
-
-# Make panel links work
-  RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule ^panel/(.*) panel/index.php [L]
-
-# Make site links work
-  RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule ^(.*) index.php [L]
-
-# Redirect short URLs
-# TO DO
-
-# Suppress "www." at the beginning of URLs
-  RewriteCond %{HTTPS} !=on
-  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
-  RewriteRule ^ http://%1%{REQUEST_URI} [R=301,L]
 </IfModule>
 
 
