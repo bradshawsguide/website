@@ -31,6 +31,24 @@ var addEvent = function () {
 })(this.document,window.navigator,'standalone');
 
 
+// Set focus of input field when search form is visuable
+if (document.querySelector) {
+    (function(doc) {
+        var searchInput = doc.getElementById('search').querySelector('[type="search"]'),
+            link = doc.querySelector('[href="#search"]');
+
+        setFocus = function() {
+            searchInput.focus();
+            return false;
+        };
+
+        addEvent(link, 'click', function(e) {
+            setFocus();
+        });
+    }(this.document));
+}
+
+
 // Add shadow to element on scroll
 (function(win, doc) {
     var start = 0,
