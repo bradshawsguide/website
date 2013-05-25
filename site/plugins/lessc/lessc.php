@@ -1,23 +1,4 @@
 <?php
-  function lesscss($input, $output) {
-    // Setup LESS compiler
-    $inputFile = $_SERVER['DOCUMENT_ROOT'].$input;
-    $outputFile = $_SERVER['DOCUMENT_ROOT'].$output;
-    $less = new lessc;
-
-    // Create a new cache object, and compile
-    $cache = $less->cachedCompile($inputFile);
-    file_put_contents($outputFile, $cache["compiled"]);
-
-    // The next time we run, write only if it has updated
-    $last_updated = $cache["updated"];
-    $cache = $less->cachedCompile($cache);
-    if ($cache["updated"] > $last_updated) {
-      file_put_contents($outputFile, $cache["compiled"]);
-    }
-  }
-
-
 /**
 * lessphp v0.3.9
 * http://leafo.net/lessphp
