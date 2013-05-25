@@ -91,6 +91,11 @@
 # ----------------------------------------------------------------------
 # Performance
 # ----------------------------------------------------------------------
+<IfModule mod_pagespeed.c>
+# Enable mod_pagespeed
+  SetOutputFilter MOD_PAGESPEED_OUTPUT_FILTER
+</IfModule>
+
 <IfModule mod_headers.c>
 # FileETag None is not enough for every server.
   Header unset ETag
