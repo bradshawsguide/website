@@ -2,6 +2,16 @@
 <html lang="en-gb" xmlns:dct="http://purl.org/dc/terms/">
 <head>
 <?
+    // Specify a character set in HTTP header
+    header("Content-Type: text/html; charset=UTF-8");
+
+    // Specify an expires value in header
+    $seconds_to_cache = 4800; // 80 minutes
+    $ts = gmdate("D, d M Y H:i:s", time() + $seconds_to_cache) . " GMT";
+    header("Expires: $ts");
+    header("Pragma: cache");
+    header("Cache-Control: max-age=$seconds_to_cache");
+
     // Compile and cache LESS CSS file
     function autoCompileLess($input, $output) {
         $inputFile = $_SERVER['DOCUMENT_ROOT'].$input;
@@ -49,7 +59,6 @@
     <link rel="license" href="<?= html($site->licenseurl) ?>"/>
     <link rel="author" href="humans.txt"/>
 
-    <meta charset="utf-8" />
     <meta name="robots" content="index, follow"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="application-name" content="<?= smartypants($site->shorttitle) ?>">
