@@ -6,7 +6,7 @@
     header("Content-Type: text/html; charset=UTF-8");
 
     // Specify an expires value in header
-    $seconds_to_cache = 4800; // 80 minutes
+    $seconds_to_cache = 7200; // 120 minutes
     $ts = gmdate("D, d M Y H:i:s", time() + $seconds_to_cache) . " GMT";
     header("Expires: $ts");
     header("Pragma: cache");
