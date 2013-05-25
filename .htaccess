@@ -91,7 +91,7 @@
 # ----------------------------------------------------------------------
 # Performance
 # ----------------------------------------------------------------------
-<IfModule mod_pagespeed.c>
+<IfModule pagespeed_module>
 # Enable mod_pagespeed
   SetOutputFilter MOD_PAGESPEED_OUTPUT_FILTER
 </IfModule>
