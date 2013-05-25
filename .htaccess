@@ -85,7 +85,7 @@
   AddType application/javascript                   js
   AddType application/atom+xml                     xml
   AddType application/opensearchdescription+xml    xml
-  AddType text/cache-manifest                      appcache manifest
+  AddType application/x-font-ttf                   ttf
 
 
 # ----------------------------------------------------------------------
@@ -112,7 +112,6 @@
 # Data
   ExpiresByType text/xml                  "access plus 0 seconds"
   ExpiresByType application/xml           "access plus 0 seconds"
-  ExpiresByType application/json          "access plus 0 seconds"
 
 # RSS feeds
   ExpiresByType application/rss+xml       "access plus 1 hour"
@@ -122,9 +121,11 @@
   ExpiresByType image/x-icon              "access plus 1 month" 
 
 # Images
-  ExpiresByType image/gif                 "access plus 1 month"
   ExpiresByType image/png                 "access plus 1 month"
   ExpiresByType image/jpeg                "access plus 1 month"
+
+# Web fonts
+  ExpiresByType application/x-font-ttf    "access plus 1 month"
 
 # CSS and JavaScript
 # ExpiresByType text/css                  "access plus 2 months"
@@ -147,10 +148,10 @@
 # Compress all output labeled with one of the following MIME-types
   AddOutputFilterByType DEFLATE application/atom+xml \
                                 application/javascript \
-                                application/json \
                                 application/rss+xml \
                                 application/xhtml+xml \
                                 application/xml \
+                                application/x-font-ttf \
                                 image/svg+xml \
                                 image/x-icon \
                                 text/css \
