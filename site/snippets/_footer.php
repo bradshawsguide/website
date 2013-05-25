@@ -27,6 +27,6 @@
         </ul>
     </footer><!--/@contentinfo-->
 
-    <?= js('assets/scripts/scripts.js') ?>
+    <script src="/assets/scripts/scripts.js?v=<?= getFiledate('assets/scripts/scripts.js','YmdHis'); ?>"></script>
 </body>
 </html>
