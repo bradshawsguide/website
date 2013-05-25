@@ -1,12 +1,50 @@
 <!DOCTYPE html>
 <html lang="en-gb" xmlns:dct="http://purl.org/dc/terms/">
 <head>
-<? $lesscss = lesscss('/assets/styles/less/styles.less','/assets/styles/styles.css') ?>
-    <?= css('assets/styles/styles.css') ?>
+<?
+    // Compile and cache LESS CSS file
+    function autoCompileLess($input, $output) {
+        $inputFile = $_SERVER['DOCUMENT_ROOT'].$input;
+        $outputFile = $_SERVER['DOCUMENT_ROOT'].$output;
+        $cacheFile = $inputFile.".cache";
+
+        if (file_exists($cacheFile)) {
+            $cache = unserialize(file_get_contents($cacheFile));
+        } else {
+            $cache = $inputFile;
+        }
+
+        $less = new lessc;
+        $newCache = $less->cachedCompile($cache);
+
+        if (!is_array($cache) || $newCache["updated"] > $cache["updated"]) {
+            file_put_contents($cacheFile, serialize($newCache));
+            file_put_contents($outputFile, $newCache['compiled']);
+        }
+    }
+
+    autoCompileLess('/assets/styles/less/styles.less', '/assets/styles/styles.css');
+
+    // Get modified file date
+    function getFiledate($file, $format) {
+        if (is_file($file)) {
+            $filePath = $file;
+            if (!realpath($filePath)) {
+                $filePath = $_SERVER["DOCUMENT_ROOT"].$filePath;
+            }
+            $fileDate = filemtime($filePath);
+            if ($fileDate) {
+                $fileDate = date("$format",$fileDate);
+                return $fileDate;
+            }
+            return false;
+        }
+        return false;
+    }
+?>
+    <link rel="stylesheet" href="/assets/styles/styles.css?v=<?= getFiledate('assets/styles/styles.css','YmdHis'); ?>" />
     <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
-    <!--link rel="apple-touch-startup-image" href="<?= url('assets/images/apple-touch-startup-image.png') ?>" media="(device-width: 320px)"/-->
-    <!--link rel="apple-touch-startup-image" href="<?= url('assets/images/apple-touch-startup-image@2x.png') ?>" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)"-->
     <link rel="schema.dc" href="http://purl.org/dc/elements/1.1/"/>
     <link rel="license" href="<?= html($site->licenseurl) ?>"/>
     <link rel="author" href="humans.txt"/>
