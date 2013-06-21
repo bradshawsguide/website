@@ -66,18 +66,18 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
 
     <meta name="dc.title" content="<?= html($site->title) ?>"/>
+    <meta name="dc.description" content="<?= html($site->description) ?>"/>
     <meta name="dc.creator" content="<?= html($site->author) ?>"/>
     <meta name="dc.publisher" content="<?= html($site->publisher) ?>"/>
-    <meta name="dc.description" content="<?= html($site->description) ?>"/>
 
     <meta name="twitter:site" content="@bradshawsguide">
-    <meta name="twitter:creator" content="@bradshawsguide">
     <meta name="twitter:title" content="<?= html($page->title) ?>"/>
 <?  if(($page->text) != ""): ?>
     <meta name="twitter:description" content="<?= truncate(excerpt($page->text, $length=300), 200) ?>"/>
 <?  endif ?>
+    <meta name="twitter:creator" content="@bradshawsguide">
 <?  if($page->hasImages()): ?>
-    <meta name="twitter:image:src" content="<?= $page->images()->first()->url(); ?>">
+    <meta name="twitter:image:src" content="http://bradshawsguide.org<?= $page->images()->first()->url(); ?>">
 <?  endif ?>
     <meta name="twitter:card" content="summary">
 
