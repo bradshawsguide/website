@@ -2,12 +2,11 @@
 
 /* 
  * Related Pages
- * 
  * A plugin to build relation between pages
- *
- * Sample Usage: 
  * 
- * In your content file: 
+ * Sample Usage:
+ * 
+ * In your content file:
  *
  * Title: My title
  * ----
@@ -18,13 +17,12 @@
  * - blog/my-article
  * 
  * In your template: 
- *  
+ * 
  * <?php foreach related($page->related() as $related): ?>
  * <a href="<?php echo $related->url() ?>"><?php echo html($related->title()) ?></a>
  * <?php endforeach ?>
  * 
  * Author: Bastian Allgeier <http://getkirby.com>
- *
  */
 
 function related($field) {

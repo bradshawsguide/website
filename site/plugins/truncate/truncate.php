@@ -1,8 +1,12 @@
 <?php
-// Original PHP code by Chirp Internet: www.chirp.com.au
-// Please acknowledge use of this code by including this header.
-// -----
-// http://www.the-art-of-web.com/php/truncate/
+
+/* 
+ * Truncate words
+ * Adapted from http://www.the-art-of-web.com/php/truncate/
+ * 
+ * Original PHP code by Chirp Internet: www.chirp.com.au
+ * Please acknowledge use of this code by including this header.
+ */
 
 function truncate($string, $limit, $break=".", $pad="...") {
   // return with no change if string is shorter than $limit
