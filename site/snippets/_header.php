@@ -79,6 +79,7 @@
 <?  if($page->hasImages()): ?>
     <meta name="twitter:image:src" content="<?= $page->images()->first()->url(); ?>">
 <?  endif ?>
+    <meta name="twitter:card" content="summary">
 
     <title><?php if ($page->isHomePage() == false) : ?><?= html($page->title) ?> - <?php endif ?><?= smartypants($site->title) ?></title>
 </head>
