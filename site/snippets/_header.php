@@ -5,8 +5,6 @@
     <?= css('assets/styles/styles.css') ?>
     <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
-    <!--link rel="apple-touch-startup-image" href="<?= url('assets/images/apple-touch-startup-image.png') ?>" media="(device-width: 320px)"/-->
-    <!--link rel="apple-touch-startup-image" href="<?= url('assets/images/apple-touch-startup-image@2x.png') ?>" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)"-->
     <link rel="schema.dc" href="http://purl.org/dc/elements/1.1/"/>
     <link rel="license" href="<?= html($site->licenseurl) ?>"/>
     <link rel="author" href="humans.txt"/>
@@ -22,6 +20,17 @@
     <meta name="dc.creator" content="<?= html($site->author) ?>"/>
     <meta name="dc.publisher" content="<?= html($site->publisher) ?>"/>
     <meta name="dc.description" content="<?= html($site->description) ?>"/>
+
+    <meta name="twitter:site" content="@bradshawsguide">
+    <meta name="twitter:creator" content="@bradshawsguide">
+    <meta name="twitter:title" content="<?= html($page->title) ?>"/>
+<?  if(($page->text) != ""): ?>
+    <meta name="twitter:description" content="<?= truncate(excerpt($page->text, $length=300), 200) ?>"/>
+<?  endif ?>
+<?  if($page->hasImages()): ?>
+    <meta name="twitter:image" content="<?= $page->images()->first()->url(); ?>">
+<?  endif ?>
+
     <title><?php if ($page->isHomePage() == false) : ?><?= html($page->title) ?> - <?php endif ?><?= smartypants($site->title) ?></title>
 </head>
 
