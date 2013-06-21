@@ -3,3 +3,5 @@ panel/
 site/panel/accounts
 docs
 assets/styles/styles.css
+
+*.cache
