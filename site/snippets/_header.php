@@ -77,7 +77,7 @@
     <meta name="twitter:description" content="<?= truncate(excerpt($page->text, $length=300), 200) ?>"/>
 <?  endif ?>
 <?  if($page->hasImages()): ?>
-    <meta name="twitter:image" content="<?= $page->images()->first()->url(); ?>">
+    <meta name="twitter:image:src" content="<?= $page->images()->first()->url(); ?>">
 <?  endif ?>
 
     <title><?php if ($page->isHomePage() == false) : ?><?= html($page->title) ?> - <?php endif ?><?= smartypants($site->title) ?></title>
