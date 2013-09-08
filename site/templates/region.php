@@ -1,7 +1,7 @@
 <? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
-        <article>
+        <article class="h-entry">
             <header>
-                <h1><?= smartypants($page->title()) ?></h1>
+                <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
                 <nav role="navigation">
 <?              if ($page->hasChildren()): ?>
                     <a class="is-active" href="<?= $page->url() ?>"><?= smartypants($page->title()) ?></a>
@@ -16,7 +16,7 @@
             </header>
 
 <?          if(($page->text) != ""): ?>
-            <div class="prose">
+            <div class="e-content prose">
 <?=             kirbytext($page->text()) ?>
             </div>
 <?          endif ?>

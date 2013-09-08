@@ -1,14 +1,14 @@
 <? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
-        <article>
+        <article class="h-entry">
             <header>
-                <h1><?= smartypants($page->title()) ?></h1>
+                <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
                 <nav>
                     <a rel="up" href="<?= $pages->findBy('title', (string)$page->region())->url(); ?>"><?= smartypants($page->region()) ?></a>
                 </nav>
             </header>
 
 <?          if(($page->text) != ""): ?>
-            <div class="prose">
+            <div class="e-content prose">
 <?              if($page->meta): ?>
 <?=                 kirbytext($page->meta()) ?>
 <?              endif ?>

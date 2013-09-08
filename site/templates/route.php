@@ -1,7 +1,7 @@
 <? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
-        <article>
+        <article class="h-entry">
             <header>
-                <h1><?= smartypants($page->title()) ?></h1>
+                <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
                 <nav>
 <?              $company = $page->company();
                 if ($company == 'Isle of Wight'): ?>
@@ -15,7 +15,7 @@
             </header>
 
 <?          if(($page->text) != ""): ?>
-            <div class="prose">
+            <div class="e-content prose">
 <?=             kirbytext($page->text()) ?>
             </div>
 <?          endif ?>
