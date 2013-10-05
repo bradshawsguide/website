@@ -57,8 +57,8 @@
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
     <link rel="schema.dc" href="http://purl.org/dc/elements/1.1/"/>
     <link rel="license" href="<?= html($site->licenseurl) ?>"/>
-    <link rel="author" href="humans.txt"/>
-    <link rel="webmention" href="<?= url('webmention/') ?>"/>
+    <link rel="author" href="<?= url('humans.txt') ?>"/>
+ <!--link rel="webmention" href="<?= url('webmention/') ?>"/-->
 
     <meta name="robots" content="index, follow"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
