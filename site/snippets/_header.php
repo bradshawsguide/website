@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-gb" xmlns:dct="http://purl.org/dc/terms/">
+<html lang="en-gb">
 <head>
 <?
     // Specify a character set in HTTP header
@@ -55,7 +55,6 @@
     <link rel="stylesheet" href="/assets/styles/styles.css?v=<?= getFiledate('assets/styles/styles.css','YmdHis'); ?>" />
     <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
-    <link rel="schema.dc" href="http://purl.org/dc/elements/1.1/"/>
     <link rel="license" href="<?= html($site->licenseurl) ?>"/>
     <link rel="author" href="<?= url('humans.txt') ?>"/>
  <!--link rel="webmention" href="<?= url('webmention/') ?>"/-->
@@ -65,11 +64,6 @@
     <meta name="application-name" content="<?= smartypants($site->shorttitle) ?>">
     <meta name="apple-mobile-web-app-title" content="<?= smartypants($site->shorttitle) ?>">
     <meta name="apple-mobile-web-app-capable" content="yes">
-
-    <meta name="dc.title" content="<?= html($site->title) ?>"/>
-    <meta name="dc.description" content="<?= html($site->description) ?>"/>
-    <meta name="dc.creator" content="<?= html($site->author) ?>"/>
-    <meta name="dc.publisher" content="<?= html($site->publisher) ?>"/>
 
     <meta name="twitter:site" content="@bradshawsguide">
     <meta name="twitter:title" content="<?= html($page->title) ?>"/>
