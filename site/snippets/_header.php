@@ -64,7 +64,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="application-name" content="<?= smartypants($site->shorttitle) ?>">
     <meta name="apple-mobile-web-app-title" content="<?= smartypants($site->shorttitle) ?>">
-    <meta name="apple-mobile-web-app-capable" content="yes">
+ <!--meta name="apple-mobile-web-app-capable" content="yes"-->
 
     <meta name="twitter:site" content="@bradshawsguide">
     <meta name="twitter:title" content="<?= html($page->title) ?>"/>
