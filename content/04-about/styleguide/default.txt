@@ -100,7 +100,7 @@ Figures are usually used to refer to images:
 
 <div class="example">
 <figure>
-    <img src="http://lorempixum.com/680/400/abstract" alt="Example image"/>
+    <img src="http://lorempixum.com/680/400/abstract/" alt="Example image"/>
     <figcaption>
         This is a placeholder image, with supporting caption.
     </figcaption>
@@ -141,7 +141,7 @@ There are a number of inline <abbr title="HyperText Markup Language">HTML</abbr>
 The `a` element is used to hyperlink text, be that to another page, a named fragment on the current page or any other location on the web. Example:
 
 <div class="example" markdown="1">
-[Go to the home page](/) or [return to the top of this page](#banner).
+[Go to the home page](/) or [return to the top of this page](#top).
 </div>
 
 ### Stressed emphasis
