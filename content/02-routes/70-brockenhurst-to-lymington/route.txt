@@ -6,4 +6,4 @@ Company: London and South Western Railway
 ----
 Destination: Lymington
 ----
-Text: Turning to the left from [Brockenhurst](/stations/brokenhurst), a run of about twenty minutes brings us to the parliamentary borough of [Lymington](/stations/lymington).
+Text: Turning to the left from [Brockenhurst](/stations/brockenhurst), a run of about twenty minutes brings us to the parliamentary borough of [Lymington](/stations/lymington).
