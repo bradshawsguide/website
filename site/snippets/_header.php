@@ -56,7 +56,7 @@
         // Add a script element as a child of the body
         function downloadJSAtOnload() {
             var element = document.createElement("script");
-            element.src = "/assets/scripts/scripts.js?v=<?= getFiledate('assets/scripts/scripts.js','YmdHis'); ?>";
+            element.src = "/assets/scripts/scripts.<?= getFiledate('assets/scripts/scripts.js','YmdHis'); ?>.js";
             document.body.appendChild(element);
         }
 
@@ -70,7 +70,7 @@
         }
     </script>
 
-    <link rel="stylesheet" href="/assets/styles/styles.css?v=<?= getFiledate('assets/styles/styles.css','YmdHis'); ?>" />
+    <link rel="stylesheet" href="/assets/styles/styles.<?= getFiledate('assets/styles/styles.css','YmdHis'); ?>.css" />
     <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
     <link rel="license" href="<?= html($site->licenseurl) ?>"/>
