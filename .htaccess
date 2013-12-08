@@ -132,8 +132,8 @@
   ExpiresByType application/x-font-ttf    "access plus 1 month"
 
 # CSS and JavaScript
-  ExpiresByType text/css                  "access plus 2 months"
-  ExpiresByType application/javascript    "access plus 2 months"
+  ExpiresByType text/css                  "access plus 1 year"
+  ExpiresByType application/javascript    "access plus 1 year"
 </IfModule>
 
 
