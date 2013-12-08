@@ -52,6 +52,24 @@
         return false;
     }
 ?>
+    <script>
+        // Add a script element as a child of the body
+        function downloadJSAtOnload() {
+            var element = document.createElement("script");
+            element.src = "/assets/scripts/scripts.js?v=<?= getFiledate('assets/scripts/scripts.js','YmdHis'); ?>";
+            document.body.appendChild(element);
+        }
+
+        // Check for browser support of event handling capability
+        if (window.addEventListener) {
+            window.addEventListener("load", downloadJSAtOnload, false);
+        } else if (window.attachEvent) {
+            window.attachEvent("onload", downloadJSAtOnload);
+        } else {
+            window.onload = downloadJSAtOnload;
+        }
+    </script>
+
     <link rel="stylesheet" href="/assets/styles/styles.css?v=<?= getFiledate('assets/styles/styles.css','YmdHis'); ?>" />
     <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>

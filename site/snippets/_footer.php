@@ -26,7 +26,5 @@
             <li><a rel="me" href="https://twitter.com/bradshawsguide">Follow George Bradshaw on Twitter</a></li>
         </ul>
     </footer><!--/@contentinfo-->
-
-    <script src="/assets/scripts/scripts.js?v=<?= getFiledate('assets/scripts/scripts.js','YmdHis'); ?>"></script>
 </body>
 </html>
