@@ -1,6 +1,6 @@
 <?php
 
-require_once($_SERVER['DOCUMENT_ROOT'].'/site/plugins/lessc/lessc.php');
+require_once('site/plugins/lessc/lessc.php');
 
 // Compile and cache LESS CSS file
 function autoCompileLess($input, $output) {
