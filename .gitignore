@@ -1,7 +1,6 @@
 .DS_Store
-panel/
+panel
 site/panel/accounts
-docs
+node_modules
 assets/styles/styles.css
-
 *.cache
