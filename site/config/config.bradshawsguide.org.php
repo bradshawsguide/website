@@ -1,4 +1,4 @@
 <?php
 c::set('cache', true);
-c::set('url', '//static.bradshawsguide.org/');
+c::set('staticurl', '//static.bradshawsguide.org/');
 ?>
