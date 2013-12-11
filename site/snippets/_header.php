@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-gb">
 <head>
-    <link rel="dns-prefetch" href="<?= c::get('staticurl') ?>"/>
 <?
     // Specify a character set in HTTP header
     header("Content-Type: text/html; charset=UTF-8");
@@ -57,7 +56,7 @@
         // Add a script element as a child of the body
         function downloadJSAtOnload() {
             var element = document.createElement("script");
-            element.src = "<?= c::get('staticurl').'assets/scripts/scripts.'.getFiledate('assets/styles/styles.css','YmdHis').'.js' ?>";
+            element.src = "<?= url('/assets/scripts/scripts.'.getFiledate('assets/scripts/scripts.js','YmdHis').'.js') ?>";
             document.body.appendChild(element);
         }
 
@@ -71,9 +70,9 @@
         }
     </script>
 
-    <link rel="stylesheet" href="<?= c::get('staticurl').'assets/styles/styles.'.getFiledate('assets/styles/styles.css','YmdHis').'.css' ?>"/>
-    <link rel="icon" href="<?= c::get('staticurl').'assets/images/favicon.png' ?>" type="image/png"/>
-    <link rel="apple-touch-icon-precomposed" href="<?= c::get('staticurl').'assets/images/apple-touch-icon.png' ?>"/>
+    <link rel="stylesheet" href="<?= url('/assets/styles/styles.'.getFiledate('assets/styles/styles.css','YmdHis').'.css') ?>" />
+    <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
+    <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
     <link rel="license" href="<?= html($site->licenseurl) ?>"/>
     <link rel="author" href="<?= url('humans.txt') ?>"/>
  <!--link rel="webmention" href="<?= url('webmention/') ?>"/-->
