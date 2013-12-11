@@ -1,6 +1,6 @@
-# ----------------------------------------------------------------------
+# -----------------------
 # Kirby URL rewrite rules
-# ----------------------------------------------------------------------
+# -----------------------
 <IfModule mod_rewrite.c>
   RewriteEngine on
   RewriteBase /
@@ -10,7 +10,6 @@
   RewriteCond %{HTTPS} !=on
   RewriteCond %{HTTP_HOST} !^bradshawsguide\.dev$ [NC]
   RewriteCond %{HTTP_HOST} !^bradshawsguide\.org$ [NC]
-  RewriteCond %{HTTP_HOST} !^static\.bradshawsguide\.org$ [NC]
   RewriteRule ^(.*)$ http://bradshawsguide.org/$1 [R=301,L]
 
 # Rewrite cache busting query strings on static files
@@ -21,11 +20,6 @@
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule ^(.*) index.php [L]
-
-# Make panel links work
-  RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule ^panel/(.*) panel/index.php [L]
 
 # Block text files in the content folder from being accessed directly
   RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
@@ -38,9 +32,9 @@
 </IfModule>
 
 
-# ----------------------------------------------------------------------
+# --------------
 # UTF-8 Encoding
-# ----------------------------------------------------------------------
+# --------------
 # Use utf-8 encoding for anything served text/plain or text/html
   AddDefaultCharset utf-8
 
@@ -48,9 +42,9 @@
   AddCharset utf-8 .html .php .css .js .xml .json .rss
 
 
-# ----------------------------------------------------------------------
+# ------------
 # PHP Settings
-# ----------------------------------------------------------------------
+# ------------
 <IfModule php5_module>
 # Use php5
   AddHandler php5-script .php
@@ -63,84 +57,52 @@
 </IfModule>
 
 
-# ----------------------------------------------------------------------
-# Better website experience for IE users
-# ----------------------------------------------------------------------
-# Force the latest IE version, in various cases when it may fall back to IE7 mode
-# Use ChromeFrame if it's installed for a better experience for the poor IE folk
-
-<IfModule mod_headers.c>
-  Header set X-UA-Compatible "IE=Edge,chrome=1"
-  <FilesMatch "\.(js|css|gif|png|jpe?g|pdf|xml|oga|ogg|m4a|ogv|mp4|m4v|webm|svg|svgz|eot|ttf|otf|woff|ico|webp|appcache|manifest|htc|crx|xpi|safariextz|vcf)$" >
-  # mod_headers can't match by content-type, but we don't want to send this header on everything...
-    Header unset X-UA-Compatible
-  </FilesMatch>
-</IfModule>
-
-
-# ----------------------------------------------------------------------
+# ------------------------------
 # Proper MIME type for all files
-# ----------------------------------------------------------------------
+# ------------------------------
 # Images
-  AddType image/x-icon                             ico
-  AddType image/webp                               webp
-  AddType image/svg+xml                            svg
+  AddType image/svg+xml                  svg
 
 # Other
-  AddType application/javascript                   js
-  AddType application/atom+xml                     xml
-  AddType application/opensearchdescription+xml    xml
-  AddType application/x-font-ttf                   ttf
+  AddType application/javascript         js
+  AddType application/x-font-ttf         ttf
 
 
-# ----------------------------------------------------------------------
+# -----------
 # Performance
-# ----------------------------------------------------------------------
+# -----------
 <IfModule mod_headers.c>
-# FileETag None is not enough for every server.
+# FileETag None is not enough for every server
   Header unset ETag
 </IfModule>
 
-# Since we're sending far-future expires, we don't need ETags for static content.
+# Since we're sending far-future expires, we don't need ETags for static content
   FileETag None
 
 <IfModule mod_expires.c>
 # Set expires headers
   ExpiresActive on
-
-# Perhaps better to whitelist expires rules? Perhaps.
-  ExpiresDefault                          "access plus 1 day"
+  ExpiresDefault                         "access plus 1 day"
 
 # HTML
-  ExpiresByType text/html                 "access plus 10 minutes"
-  
-# Data
-  ExpiresByType text/xml                  "access plus 0 seconds"
-  ExpiresByType application/xml           "access plus 0 seconds"
-
-# RSS feeds
-  ExpiresByType application/rss+xml       "access plus 1 hour"
-  ExpiresByType application/atom+xml      "access plus 1 hour"
-
-# Favicon (cannot be renamed)
-  ExpiresByType image/x-icon              "access plus 1 month" 
+  ExpiresByType text/html                "access plus 10 minutes"
 
 # Images
-  ExpiresByType image/png                 "access plus 1 month"
-  ExpiresByType image/jpeg                "access plus 1 month"
-
-# Web fonts
-  ExpiresByType application/x-font-ttf    "access plus 1 month"
+  ExpiresByType image/png                "access plus 1 month"
+  ExpiresByType image/jpeg               "access plus 1 month"
 
 # CSS and JavaScript
-  ExpiresByType text/css                  "access plus 1 year"
-  ExpiresByType application/javascript    "access plus 1 year"
+  ExpiresByType text/css                 "access plus 1 year"
+  ExpiresByType application/javascript   "access plus 1 year"
+
+# Web fonts
+  ExpiresByType application/x-font-ttf   "access plus 1 month"
 </IfModule>
 
 
-# ----------------------------------------------------------------------
+# ----------------
 # GZIP Compression
-# ----------------------------------------------------------------------
+# ----------------
 <IfModule mod_deflate.c>
 # Force deflate for mangled headers
   <IfModule mod_setenvif.c>
@@ -151,14 +113,9 @@
   </IfModule>
 
 # Compress all output labeled with one of the following MIME-types
-  AddOutputFilterByType DEFLATE application/atom+xml \
-                                application/javascript \
-                                application/rss+xml \
-                                application/xhtml+xml \
-                                application/xml \
+  AddOutputFilterByType DEFLATE application/javascript \
                                 application/x-font-ttf \
                                 image/svg+xml \
-                                image/x-icon \
                                 text/css \
                                 text/html \
                                 text/plain \
