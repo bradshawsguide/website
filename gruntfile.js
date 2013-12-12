@@ -35,10 +35,22 @@ module.exports = function(grunt) {
             build: {
                 options: {
                     paths: ["_src/less/"],
+                    compress: true,
                     report: 'gzip'
                 },
                 files: {
                     "assets/styles/styles.css": "_src/less/styles.less"
+                }
+            }
+        },
+        
+        cssmin: {
+            build: {
+                options: {
+                    report: 'gzip',
+                },
+                files: {
+                    'assets/styles/styles.min.css': ['assets/styles/styles.css']
                 }
             }
         },
@@ -72,7 +84,8 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
     grunt.loadNpmTasks('grunt-contrib-less');
+    grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-contrib-watch');
 
-    grunt.registerTask('default', ['concat', 'uglify', 'imagemin', 'less']);
+    grunt.registerTask('default', ['concat', 'uglify', 'imagemin', 'less', 'cssmin']);
 };
