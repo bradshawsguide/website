@@ -14,7 +14,7 @@
 
 # Rewrite cache busting query strings on static files
   RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteRule ^assets/([a-z]+)/([a-z]+).([0-9]+).(js|css)$ /assets/$1/$2.$4 [L]
+  RewriteRule ^assets/([a-z]+)/([a-z]+).([0-9]+).(min.js|min.css)$ /assets/$1/$2.$4 [L]
 
 # Make site links work
   RewriteCond %{REQUEST_FILENAME} !-f
