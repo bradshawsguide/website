@@ -28,25 +28,23 @@
     </footer><!--/@contentinfo-->
 
     <script>
-        (function (doc) {
-            'use strict';
+        var _paq = _paq || [];
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
 
-            var host = 'https://analytics.paulrobertlloyd.com/';
-            var ref = doc.getElementsByTagName('script')[0];
-            var script = doc.createElement('script');
-            var _paq = _paq || [];
+        (function () {
+            var host = "https://analytics.paulrobertlloyd.com/";
+            var script = document.createElement('script');
+            var ref = document.getElementsByTagName('script')[0];
 
             _paq.push(['setTrackerUrl', host + 'piwik.php']);
             _paq.push(['setSiteId', 2]);
-            _paq.push(['trackPageView']);
-            _paq.push(['enableLinkTracking']);
 
             script.src = host + 'piwik.js';
             script.async = true;
             script.defer = true;
             ref.parentNode.insertBefore(script, ref);
-
-        }(this.document));
+        })();
     </script>
     <noscript><img class="hidden" src="https://analytics.paulrobertlloyd.com/piwik.php?idsite=2" alt=""/></noscript>
 </body>
