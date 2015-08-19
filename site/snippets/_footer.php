@@ -26,5 +26,28 @@
             <li><a rel="me" href="https://twitter.com/bradshawsguide">Follow George Bradshaw on Twitter</a></li>
         </ul>
     </footer><!--/@contentinfo-->
+
+    <script>
+        (function (doc) {
+            'use strict';
+
+            var host = 'https://analytics.paulrobertlloyd.com/';
+            var ref = doc.getElementsByTagName('script')[0];
+            var script = doc.createElement('script');
+            var _paq = _paq || [];
+
+            _paq.push(['setTrackerUrl', host + 'piwik.php']);
+            _paq.push(['setSiteId', 2]);
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+
+            script.src = host + 'piwik.js';
+            script.async = true;
+            script.defer = true;
+            ref.parentNode.insertBefore(script, ref);
+
+        }(this.document));
+    </script>
+    <noscript><img class="hidden" src="https://analytics.paulrobertlloyd.com/piwik.php?idsite=2" alt=""/></noscript>
 </body>
 </html>
