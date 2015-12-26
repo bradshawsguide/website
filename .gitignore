@@ -1,5 +1,4 @@
 .DS_Store
-panel
 site/panel/accounts
 node_modules
 assets/styles/styles.css
