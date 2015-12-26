@@ -52,7 +52,6 @@
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
     <link rel="license" href="<?= html($site->licenseurl) ?>"/>
     <link rel="author" href="<?= url('humans.txt') ?>"/>
- <!--link rel="webmention" href="<?= url('webmention/') ?>"/-->
 
     <meta charset="utf-8"/>
     <meta name="robots" content="index, follow"/>
