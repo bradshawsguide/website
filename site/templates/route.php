@@ -9,19 +9,19 @@
 <?              elseif ($company == 'London'): ?>
                     <a rel="up" href="/regions/england/london">London</a>
 <?              else: ?>
-                    <a rel="up" href="/companies/<?= preg_replace('/-railway$/', '', str::urlify($page->company())) ?>"><?= smartypants($page->company()) ?></a>
+                    <a rel="up" href="/companies/<?= preg_replace('/-railway$/', '', str::slug($company)) ?>"><?= $company->title() ?></a>
 <?              endif ?>
                 </nav>
             </header>
 
-<?          if(($page->text) != ""): ?>
+<?          if(($page->text()) != ""): ?>
             <div class="e-content prose">
 <?=             kirbytext($page->text()) ?>
             </div>
 <?          endif ?>
 
 <?
-            $route = "- routes/".$site->uri->path(2);
+            $route = "- routes/".kirby()->request()->path()->last();
             $items = $pages->find('stations')->children()->filterBy('route', '*=', $route);
             if (isset($items)):
 ?>
@@ -60,7 +60,7 @@
             </section><!--/@complementary-->
 <?          endif ?>
 
-<?          if ($page->related): ?>
+<?          if ($page->related()->isNotEmpty()): ?>
             <footer>
                 <details class="related-links">
                     <summary>Related Links</summary>

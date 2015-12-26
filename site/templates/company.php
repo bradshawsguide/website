@@ -4,7 +4,7 @@
                 <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
             </header>
 
-<?          if(($page->text) != ""): ?>
+<?          if(($page->text()) != ""): ?>
             <div class="e-content prose">
 <?=             kirbytext($page->text()) ?>
             </div>
@@ -26,7 +26,7 @@
             <section>
                 <h1>Stations Served</h1>
 <?
-                $company = $site->uri->path(2);
+                $company = kirby()->request()->path(2);
                 $alphabetise = alphabetise($pages->find('stations')->children()->filterBy('company', '*=', "$company")->sortBy('title', 'asc'));
                 foreach($alphabetise as $letter => $items):
 ?>
@@ -42,7 +42,7 @@
             <footer>
                 <details class="related-links">
                     <summary>Related Links</summary>
-<?                  if ($page->related): ?>
+<?                  if ($page->related()->isNotEmpty()): ?>
 <?=                     kirbytext($page->related()) ?>
 <?                  else: ?>
                     <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>"><?= smartypants($page->title()) ?> on Wikipedia</a></p>

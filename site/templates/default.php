@@ -27,13 +27,13 @@
 <?          endif ?>
             </header>
 
-<?          if(($page->text) != ""): ?>
+<?          if(($page->text()) != ""): ?>
             <div class="prose">
 <?=             kirbytext($page->text()) ?>
             </div>
 <?          endif ?>
 
-<?          if($page->related()): ?>
+<?          if($page->related()->isNotEmpty()): ?>
             <section>
                 <h1>Related</h1>
                 <ul class="listing">

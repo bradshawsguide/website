@@ -63,7 +63,7 @@
 
     <meta name="twitter:site" content="@bradshawsguide">
     <meta name="twitter:title" content="<?= html($page->title) ?>"/>
-<?  if(($page->text) != ""): ?>
+<?  if(($page->text()) != ""): ?>
     <meta name="twitter:description" content="<?= truncate(excerpt($page->text, $length=300), 200) ?>"/>
 <?  endif ?>
     <meta name="twitter:creator" content="@bradshawsguide">
@@ -72,7 +72,7 @@
 <?  endif ?>
     <meta name="twitter:card" content="summary">
 
-    <title><?php if ($page->isHomePage() == false) : ?><?= html($page->title) ?> - <?php endif ?><?= smartypants($site->title) ?></title>
+    <title><?php if ($page->isHomePage() == false) : ?><?= $page->title()->smartypants()->html() ?> - <?php endif ?><?= $site->title()->smartypants()->html() ?></title>
 </head>
 
 <body>

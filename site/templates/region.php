@@ -15,7 +15,7 @@
                 </nav>
             </header>
 
-<?          if(($page->text) != ""): ?>
+<?          if(($page->text()) != ""): ?>
             <div class="e-content prose">
 <?=             kirbytext($page->text()) ?>
             </div>
@@ -33,8 +33,8 @@
 <?          endif ?>
 
 <?          $region = $page->title();
-            $search = $pages->find('stations')->children->filterBy('region', "$region")->sortBy('title', 'asc');
-            
+            $search = $pages->find('stations')->children()->filterBy('region', $region)->sortBy('title', 'asc');
+
             if ($search != ""): ?>
             <section class="stations index">
                 <h1>Stations in This County</h1>

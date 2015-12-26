@@ -4,7 +4,7 @@
                 <h1><?= smartypants($page->title()) ?></h1>
             </header>
 
-<?  $items = $pages->find('companies')->children->sortBy('title', 'asc'); ?>
+<?  $items = $pages->find('companies')->children()->sortBy('title', 'asc'); ?>
 <?  if($items && $items->count()): ?>
 <?      foreach($items as $item): ?>
 <?          $company = $item->title(); ?>

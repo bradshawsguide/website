@@ -3,13 +3,13 @@
             <header>
                 <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
                 <nav>
-                    <a rel="up" href="<?= $pages->findBy('title', (string)$page->region())->url(); ?>"><?= smartypants($page->region()) ?></a>
+                    <a rel="up" href="<?= $pages->index()->findBy('title', 'Sussex')->url(); ?>"><?= smartypants($page->region()) ?></a>
                 </nav>
             </header>
 
-<?          if(($page->text) != ""): ?>
+<?          if($page->text()): ?>
             <div class="e-content prose">
-<?              if($page->meta): ?>
+<?              if($page->meta()): ?>
 <?=                 kirbytext($page->meta()) ?>
 <?              endif ?>
 
@@ -27,12 +27,12 @@
                     </figure>
                 </aside>
 <?              endif ?>
-<?=             kirbytext($page->text); ?>
+<?=             kirbytext($page->text()); ?>
             </div>
 <?          endif ?>
 
             <footer>
-<?              if ($page->distances): ?>
+<?              if ($page->distances()): ?>
                 <details class="related-distances">
 <?                  if ($page->region == "Isle of Wight"): ?>
                     <summary>Distances of Places from <?= smartypants($page->title) ?></summary>
@@ -43,7 +43,7 @@
                 </details>
 <?              endif ?>
 
-<?              if ($page->route): ?>
+<?              if ($page->route()): ?>
                 <details class="related-routes">
                     <summary>Routes Serving the Station</summary>
                     <ul>
@@ -56,7 +56,7 @@
 
                 <details class="related-links">
                     <summary>Related Links</summary>
-<?                  if ($page->related): ?>
+<?                  if ($page->related()): ?>
 <?=                     kirbytext($page->related()) ?>
 <?                  else: ?>
                     <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>+railway+station"><?= smartypants($page->title()) ?> railway station on Wikipedia</a></p>
