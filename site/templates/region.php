@@ -15,13 +15,13 @@
                 </nav>
             </header>
 
-<?          if(($page->text()) != ""): ?>
+<?          if($page->text()->isNotEmpty()): ?>
             <div class="e-content prose">
 <?=             kirbytext($page->text()) ?>
             </div>
 <?          endif ?>
 
-<?          if($page->related()): ?>
+<?          if($page->related()->isNotEmpty()): ?>
             <section>
                 <h1>Related</h1>
                 <ul>
@@ -34,8 +34,7 @@
 
 <?          $region = $page->title();
             $search = $pages->find('stations')->children()->filterBy('region', $region)->sortBy('title', 'asc');
-
-            if ($search != ""): ?>
+?>
             <section class="stations index">
                 <h1>Stations in This County</h1>
 <?              $alphabetise = alphabetise($search);
@@ -47,7 +46,6 @@
 <?                  endforeach ?>
                 </ul>
 <?              endforeach ?>
-<?          endif ?>
             </section>
 <?          snippet('shorturl') ?>
 <?          snippet('prevnext') ?>

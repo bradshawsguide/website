@@ -14,7 +14,7 @@
                 </nav>
             </header>
 
-<?          if(($page->text()) != ""): ?>
+<?          if($page->text()->isNotEmpty()): ?>
             <div class="e-content prose">
 <?=             kirbytext($page->text()) ?>
             </div>

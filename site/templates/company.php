@@ -4,7 +4,7 @@
                 <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
             </header>
 
-<?          if(($page->text()) != ""): ?>
+<?          if($page->text()->isNotEmpty()): ?>
             <div class="e-content prose">
 <?=             kirbytext($page->text()) ?>
             </div>
@@ -45,7 +45,7 @@
 <?                  if ($page->related()->isNotEmpty()): ?>
 <?=                     kirbytext($page->related()) ?>
 <?                  else: ?>
-                    <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>"><?= smartypants($page->title()) ?> on Wikipedia</a></p>
+                        <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>"><?= smartypants($page->title()) ?> on Wikipedia</a></p>
 <?                  endif ?>
                 </details>
             </footer>

@@ -27,7 +27,7 @@
 <?          endif ?>
             </header>
 
-<?          if(($page->text()) != ""): ?>
+<?          if($page->text()->isNotEmpty()): ?>
             <div class="prose">
 <?=             kirbytext($page->text()) ?>
             </div>

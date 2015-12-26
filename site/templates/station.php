@@ -7,7 +7,7 @@
                 </nav>
             </header>
 
-<?          if($page->text()): ?>
+<?          if($page->text()->isNotEmpty()): ?>
             <div class="e-content prose">
 <?              if($page->meta()): ?>
 <?=                 kirbytext($page->meta()) ?>
@@ -32,7 +32,7 @@
 <?          endif ?>
 
             <footer>
-<?              if ($page->distances()): ?>
+<?              if($page->distances()->isNotEmpty()): ?>
                 <details class="related-distances">
 <?                  if ($page->region == "Isle of Wight"): ?>
                     <summary>Distances of Places from <?= smartypants($page->title) ?></summary>
@@ -43,7 +43,7 @@
                 </details>
 <?              endif ?>
 
-<?              if ($page->route()): ?>
+<?              if($page->route()->isNotEmpty()): ?>
                 <details class="related-routes">
                     <summary>Routes Serving the Station</summary>
                     <ul>
@@ -56,7 +56,7 @@
 
                 <details class="related-links">
                     <summary>Related Links</summary>
-<?                  if ($page->related()): ?>
+<?                  if($page->related()->isNotEmpty()): ?>
 <?=                     kirbytext($page->related()) ?>
 <?                  else: ?>
                     <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>+railway+station"><?= smartypants($page->title()) ?> railway station on Wikipedia</a></p>
