@@ -24,7 +24,6 @@ The first of four sections covering London and South East England is currently a
 
 * * *
 
-This site has been developed by [Paul Robert Lloyd](http://paulrobertlloyd.com), a graphic designer and web developer based in Brighton, England. If you have any feedback regarding this site, you can [contact him on Twitter](https://twitter.com/paulrobertlloyd).
+This site has been developed by [Paul Robert Lloyd](https://paulrobertlloyd.com), a graphic designer and web developer based in Brighton, England. If you have any feedback regarding this site, you can [contact him on Twitter](https://twitter.com/paulrobertlloyd).
 
 *[BBC]: British Broadcasting Corporation
-
