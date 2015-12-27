@@ -35,12 +35,12 @@
     <footer>
 <? if($page->distances()->isNotEmpty()): ?>
         <details class="related-distances">
-        <? if ($page->region == "Isle of Wight"): ?>
-            <summary>Distances of Places from <?= smartypants($page->title) ?></summary>
+        <? if ($page->region() == "Isle of Wight"): ?>
+            <summary>Distances of Places from <?= smartypants($page->title()) ?></summary>
         <? else: ?>
             <summary>Distances of Places from the Station</summary>
         <? endif ?>
-            <?= kirbytext($page->distances); ?>
+            <?= kirbytext($page->distances()); ?>
         </details>
 <? endif ?>
 
