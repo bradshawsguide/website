@@ -64,7 +64,7 @@
     <meta name="twitter:creator" content="@bradshawsguide">
     <meta name="twitter:title" content="<?= smartypants(html($page->title())) ?>"/>
 <? if($page->text()->isNotEmpty()): ?>
-    <meta name="twitter:description" content="<?= smartypants(truncate(excerpt($page->text(), $length=300), 200)) ?>"/>
+    <meta name="twitter:description" content="<?= smartypants(excerpt($page->text(), $length=300)) ?>"/>
 <? endif ?>
 <? if($page->hasImages()): ?>
     <meta name="twitter:image:src" content="http://bradshawsguide.org<?= $page->images()->first()->url() ?>">
