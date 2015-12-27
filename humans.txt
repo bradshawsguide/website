@@ -1,6 +1,6 @@
 /* TEAM */
     Design and development: Paul Robert Lloyd
-    URL: http://paulrobertlloyd.com
+    URL: https://paulrobertlloyd.com
     Twitter: @paulrobertlloyd
     From: Brighton, England
 

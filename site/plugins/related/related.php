@@ -28,19 +28,18 @@
 function related($field) {
 
   global $site;
-          
+
   // parse the field with yaml
   $raw     = yaml($field);
   $related = array();
-  $pages   = $site->pages();
-  
+  $pages   = site()->children()->index()->visible();
+
   foreach($raw as $r) {
     // make sure to only add found related pages
     if($rel = $pages->find($r)) $related[] = $rel;
-  }    
-  
-  return new relatedPages($related);  
-  
+  }
+
+  return new relatedPages($related);
 }
 
 // this is only needed to build a proper find method 
@@ -53,19 +52,17 @@ class relatedPages extends pages {
     global $site;
 
     $args = func_get_args();
-    
+
     // find multiple pages
     if(count($args) > 1) {
       $result = array();
       foreach($args as $arg) {
         $page = $this->find($arg);
         if($page) $result[] = $page;
-      }      
+      }
       return (empty($result)) ? false : new relatedPages($result);
-    }    
-                                
+    }
+
     return $site->pages()->find(a::first($args));
-      
   }
-  
 }

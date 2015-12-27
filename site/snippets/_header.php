@@ -50,29 +50,27 @@
     <link rel="stylesheet" href="<?= url('/assets/styles/styles.'.getFiledate('assets/styles/styles.min.css','YmdHis').'.min.css') ?>" />
     <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
     <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
-    <link rel="license" href="<?= html($site->licenseurl) ?>"/>
+    <link rel="license" href="<?= html($site->licenseurl()) ?>"/>
     <link rel="author" href="<?= url('humans.txt') ?>"/>
- <!--link rel="webmention" href="<?= url('webmention/') ?>"/-->
 
     <meta charset="utf-8"/>
     <meta name="robots" content="index, follow"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="application-name" content="<?= smartypants($site->shorttitle) ?>">
-    <meta name="apple-mobile-web-app-title" content="<?= smartypants($site->shorttitle) ?>">
- <!--meta name="apple-mobile-web-app-capable" content="yes"-->
+    <meta name="application-name" content="<?= smartypants($site->shorttitle()) ?>">
+    <meta name="apple-mobile-web-app-title" content="<?= smartypants($site->shorttitle()) ?>">
 
-    <meta name="twitter:site" content="@bradshawsguide">
-    <meta name="twitter:title" content="<?= html($page->title) ?>"/>
-<?  if(($page->text) != ""): ?>
-    <meta name="twitter:description" content="<?= truncate(excerpt($page->text, $length=300), 200) ?>"/>
-<?  endif ?>
-    <meta name="twitter:creator" content="@bradshawsguide">
-<?  if($page->hasImages()): ?>
-    <meta name="twitter:image:src" content="http://bradshawsguide.org<?= $page->images()->first()->url(); ?>">
-<?  endif ?>
     <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@bradshawsguide">
+    <meta name="twitter:creator" content="@bradshawsguide">
+    <meta name="twitter:title" content="<?= smartypants(html($page->title())) ?>"/>
+<? if($page->text()->isNotEmpty()): ?>
+    <meta name="twitter:description" content="<?= smartypants(excerpt($page->text(), $length=300)) ?>"/>
+<? endif ?>
+<? if($page->hasImages()): ?>
+    <meta name="twitter:image:src" content="http://bradshawsguide.org<?= $page->images()->first()->url() ?>">
+<? endif ?>
 
-    <title><?php if ($page->isHomePage() == false) : ?><?= html($page->title) ?> - <?php endif ?><?= smartypants($site->title) ?></title>
+    <title><?php if(!$page->isHomePage()): ?><?= smartypants(html($page->title())) ?> - <?php endif ?><?= smartypants(html($site->title())) ?></title>
 </head>
 
 <body>
