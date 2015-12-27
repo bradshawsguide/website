@@ -18,9 +18,9 @@
             <figure>
             <? foreach($page->images() as $image): ?>
                 <img src="<?= $image->url() ?>" alt="<?= $page->title() ?>" width="320"/>
-                <? if ($image->caption): ?>
+                <? if ($image->caption()): ?>
                 <figcaption>
-                    <p><?= smartypants($image->caption) ?></p>
+                    <p><?= smartypants($image->caption()) ?></p>
                 </figcaption>
                 <? endif ?>
             <? endforeach ?>
