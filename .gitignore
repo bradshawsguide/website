@@ -1,5 +1,7 @@
 .DS_Store
-site/panel/accounts
+/site/accounts
+/assets/avatars
+/thumbs/*
 node_modules
 assets/styles/styles.css
 *.cache
