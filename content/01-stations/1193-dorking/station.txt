@@ -33,52 +33,142 @@ It is a favourite summer resort of invalids and lovers of rural scenery, and it 
 
 The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](/stations/gomshall-and-sheire).
 ----
-Distances:
-|                          | Miles. |
-| ------------------------ | ------ |
-| Abinger Hall             | 3      |
-| Anstie Bury              | 4½     |
-| Ashstead                 | 8      |
-| Bay Hill                 | 1½     |
-| Bench                    | 2      |
-| Bookham                  | 2      |
-| Boxhill                  | 2      |
-| Brickham Common          | 2½     |
-| Broadmoor                | 2      |
-| Burforcl Grove           | 2      |
-| Capet                    | 7      |
-| Chardhurst               | 2      |
-| Cold Harbour             | 4½     |
-| Collickmoor              | 2      |
-| Combe                    | 1¾     |
-| Deepdene                 | 3      |
-| Denhies                  | 2      |
-| Etnngham                 | 4      |
-| Folly                    | 1½     |
-| Freeshurst               | 2      |
-| Holloway                 | 1½     |
-| Holmbury Hill            | 1½     |
-| Holmwood Common          | 2½     |
-| Leith Hill               | 5      |
-| Livesome Bridge          | 2½     |
-| Menidone                 | 1½     |
-| Mickleham                | 3      |
-| Norbury Park             | 3      |
-| Ockley                   | 7      |
-| Park Farm                | 1½     |
-| Parkpale                 | 2½     |
-| Pexham                   | 1½     |
-| Pit brook Bridge         | 1½     |
-| Polesden                 | 3      |
-| Ridland                  | 1½     |
-| Rookery                  | 1½     |
-| Scammels                 | 2½     |
-| Shrub Hill               | 2      |
-| Store Bridge             | 2      |
-| Stubbs                   | 2      |
-| Stumble Hole             | 2      |
-| Tanhurst near Leith Hill | 5      |
-| Upper Laylands           | 2½     |
-| Wescott                  | 2½     |
-| Wescott Parsonage        | 1½     |
-| Wotten                   | 2      |
+Distances2:
+-
+  location: Abinger Hall
+  distance: "3"
+-
+  location: Anstie Bury
+  distance: "4.5"
+-
+  location: Ashstead
+  distance: "8"
+-
+  location: Bay Hill
+  distance: "1.5"
+-
+  location: Bench
+  distance: "2"
+-
+  location: Bookham
+  distance: "2"
+-
+  location: Boxhill
+  distance: "2"
+-
+  location: Brickham Common
+  distance: "2.5"
+-
+  location: Broadmoor
+  distance: "2"
+-
+  location: Burford Grove
+  distance: "2"
+-
+  location: Capet
+  distance: "7"
+-
+  location: Chardhurst
+  distance: "2"
+-
+  location: Cold Harbour
+  distance: "4.5"
+-
+  location: Collickmoor
+  distance: "2"
+-
+  location: Combe
+  distance: "1.75"
+-
+  location: Deepdene
+  distance: "3"
+-
+  location: Denhies
+  distance: "2"
+-
+  location: Etnngham
+  distance: "4"
+-
+  location: Folly
+  distance: "1.5"
+-
+  location: Freeshurst
+  distance: "2"
+-
+  location: Holloway
+  distance: "1.5"
+-
+  location: Holmbury Hill
+  distance: "1.5"
+-
+  location: Holmwood Common
+  distance: "2.5"
+-
+  location: Leith Hill
+  distance: "5"
+-
+  location: Livesome Bridge
+  distance: "2.5"
+-
+  location: Menidone
+  distance: "1.5"
+-
+  location: Mickleham
+  distance: "3"
+-
+  location: Norbury Park
+  distance: "3"
+-
+  location: Ockley
+  distance: "7"
+-
+  location: Park Farm
+  distance: "1.5"
+-
+  location: Parkpale
+  distance: "2.5"
+-
+  location: Pexham
+  distance: "1.5"
+-
+  location: Pit brook Bridge
+  distance: "1.5"
+-
+  location: Polesden
+  distance: "3"
+-
+  location: Ridland
+  distance: "1.5"
+-
+  location: Rookery
+  distance: "1.5"
+-
+  location: Scammels
+  distance: "2.5"
+-
+  location: Shrub Hill
+  distance: "2"
+-
+  location: Store Bridge
+  distance: "2"
+-
+  location: Stubbs
+  distance: "2"
+-
+  location: Stumble Hole
+  distance: "2"
+-
+  location: Tanhurst near Leith Hill
+  distance: "5"
+-
+  location: Upper Laylands
+  distance: "2.5"
+-
+  location: Wescott
+  distance: "2.5"
+-
+  location: Wescott Parsonage
+  distance: "1.5"
+-
+  location: Wotten
+  distance: "2"

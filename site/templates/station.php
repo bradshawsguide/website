@@ -44,6 +44,32 @@
         </details>
 <? endif ?>
 
+<? if($page->distances2()->isNotEmpty()): ?>
+        <details class="related-distances">
+        <? if ($page->region() == "Isle of Wight"): ?>
+            <summary>Structured Distances of Places from <?= smartypants($page->title()) ?></summary>
+        <? else: ?>
+            <summary>Structured Distances of Places from the Station</summary>
+        <? endif ?>
+            <table>
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Miles.</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <? foreach($page->distances2()->yaml() as $distance): ?>
+                    <tr>
+                        <td><?= $distance['location'] ?></td>
+                        <td><?= $distance['distance'] ?></td>
+                    </tr>
+                    <? endforeach ?>
+                </tbody>
+            </table>
+        </details>
+<? endif ?>
+
 <? if($page->route()->isNotEmpty()): ?>
         <details class="related-routes">
             <summary>Routes Serving the Station</summary>
