@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Worthing
 ----
@@ -33,24 +33,59 @@ In the immediate vicinity is *Broadwater*, with its beautiful church in the rich
 
 The line proceeds three miles further on, and reaches the station at [Goring](/stations/goring).
 ----
-Distances:
-|               | Miles. |
-| ------------- | ------ |
-| Charmaii Dean | 3      |
-| Cisbury Hall  | 2½     |
-| Clapham       | 6      |
-| Cokeham       | 2      |
-| Finding       | 4¾     |
-| Goring        | 3¾     |
-| Heene         | 1      |
-| Lancing       | 2      |
-| Michel Grove  | 3½     |
-| Ofiington     | 1½     |
-| Salvington    | 1½     |
-| Sheep Combe   | 4      |
-| Sompting      | 2½     |
-| Steyning      | 6½     |
-| Warminghurst  | 5½     |
-| Washington    | 5½     |
-| West Ferring  | 5      |
-| West Tailing  | 1      |
+Distances2:
+
+-
+  location: Charmaii Dean
+  distance: "3"
+-
+  location: Cisbury Hall
+  distance: "2.5"
+-
+  location: Clapham
+  distance: "6"
+-
+  location: Cokeham
+  distance: "2"
+-
+  location: Finding
+  distance: "4.75"
+-
+  location: Goring
+  distance: "3.75"
+-
+  location: Heene
+  distance: "1"
+-
+  location: Lancing
+  distance: "2"
+-
+  location: Michel Grove
+  distance: "3.5"
+-
+  location: Ofiington
+  distance: "1.5"
+-
+  location: Salvington
+  distance: "1.5"
+-
+  location: Sheep Combe
+  distance: "4"
+-
+  location: Sompting
+  distance: "2.5"
+-
+  location: Steyning
+  distance: "6.5"
+-
+  location: Warminghurst
+  distance: "5.5"
+-
+  location: Washington
+  distance: "5.5"
+-
+  location: West Ferring
+  distance: "5"
+-
+  location: West Tailing
+  distance: "1"
