@@ -28,14 +28,29 @@ A modern-built chapel and the barracks are disused. There is a well 200 feet dee
 
 At *Swainstone*, the seat of J. Simeon, Esq., a road turns off to *Newtown*, on a low creek of the Solent. It was a parliamentary borough till the reform bill disfranchised it; the town hall remains. The church was rebuilt 1837. All this coast is low and the least interesting of any in the Island.
 ----
-Distances:
-|              | Miles. |
-| ------------ | ------ |
-| Atherfield   | 6      |
-| Calbourne    | 4      |
-| Castle, The  | 0½     |
-| Chillerton   | 3      |
-| Church, Old  | 0¼     |
-| Gatcombe     | 2      |
-| Newport      | 1      |
-| Well, The    | 6½     |
+Distances2:
+
+-
+  location: "Atherfield"
+  distance: "6"
+-
+  location: "Calbourne"
+  distance: "4"
+-
+  location: "Castle, The"
+  distance: "0.5"
+-
+  location: "Chillerton"
+  distance: "3"
+-
+  location: "Church, Old"
+  distance: "0.25"
+-
+  location: "Gatcombe"
+  distance: "2"
+-
+  location: "Newport"
+  distance: "1"
+-
+  location: "Well, The"
+  distance: "6.5"
