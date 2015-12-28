@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Newchurch
 ----
@@ -6,10 +6,11 @@ Region: Isle of Wight
 ----
 Company:
 ----
-Route:
-- routes/ryde-to-newchurch
+Route: - routes/ryde-to-newchurch
 ----
-Meta: Distance from station at Sandown, 3 miles.
+Meta:
+
+Distance from station at Sandown, 3 miles.
 
 Telegraph station at Newport, 6 miles.
 
@@ -21,23 +22,56 @@ Money Order Office
 ----
 Text: Newchurch, with its white spire, stands at the end of a short village, near the stream which runs into Brading harbour. The parish is the largest in the island, with a population of 14,003, stretching across it so as to take in both Ryde and Ventnor. Fine views on both sides of the Down, which is 6 miles from Ryde.
 ----
-Distances:
-|                      | Miles. |
-| -------------------- | ------ |
-| Adgeton              | 2      |
-| Arreton              | 1½     |
-| Arreton Street       | 1      |
-| Brading              | 3      |
-| Chiverton            | 1½     |
-| Gatcombe House       | 4      |
-| Great Kennerley      | 2½     |
-| Long Down            | 3      |
-| Queen's Bower        | 1¼     |
-| Rookley              | 3½     |
-| Ryde                 | 6      |
-| Sandown and Sandford | 3      |
-| Shitle Bridge        | 3½     |
-| Spicer's Hall        | 1      |
-| Stone                | 1¼     |
-| Strattle             | 2      |
-| Winham               | 2      |
+Distances2:
+
+-
+  location: Adgeton
+  distance: "2"
+-
+  location: Arreton
+  distance: "1.5"
+-
+  location: Arreton Street
+  distance: "1"
+-
+  location: Brading
+  distance: "3"
+-
+  location: Chiverton
+  distance: "1.5"
+-
+  location: Gatcombe House
+  distance: "4"
+-
+  location: Great Kennerley
+  distance: "2.5"
+-
+  location: Long Down
+  distance: "3"
+-
+  location: "Queen's Bower"
+  distance: "1.25"
+-
+  location: Rookley
+  distance: "3.5"
+-
+  location: Ryde
+  distance: "6"
+-
+  location: Sandown and Sandford
+  distance: "3"
+-
+  location: Shitle Bridge
+  distance: "3.5"
+-
+  location: "Spicer's Hall"
+  distance: "1"
+-
+  location: Stone
+  distance: "1.25"
+-
+  location: Strattle
+  distance: "2"
+-
+  location: Winham
+  distance: "2"
