@@ -61,7 +61,7 @@
                 <tbody>
                     <? foreach($page->distances2()->yaml() as $distance): ?>
                     <tr>
-                        <td><?= $distance['location'] ?></td>
+                        <td><?= kirbytextRaw($distance['location']) ?></td>
                         <td><?= $distance['distance'] ?></td>
                     </tr>
                     <? endforeach ?>
