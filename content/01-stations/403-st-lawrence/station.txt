@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: St. Lawrence
 ----
@@ -6,10 +6,11 @@ Region: Isle of Wight
 ----
 Company:
 ----
-Route:
-- routes/ryde-to-newchurch
+Route: - routes/ryde-to-newchurch
 ----
-Meta: Distance from station at Portsmouth, 24 miles.
+Meta:
+
+Distance from station at Portsmouth, 24 miles.
 
 Telegraph station at Ventnor, 2 miles.
 
@@ -24,19 +25,40 @@ Money Order Office
 ----
 Text: There is a spring of deliriously cool water on the road side, under an alcove. The church is a pretty little rustic building, with the grave-yard planted with flowers. Since it was lengthened it is 40 feet long, and will hold 40--a small number, but quite large enough for the population of the parish.
 ----
-Distances:
-|                | Miles. |
-| ---------------| ------ |
-| Appuldercombe  | 1¾     |
-| Binnel Point   | 0½     |
-| Bonchurch      | 2      |
-| Church, The    | 0¼     |
-| Nettlecomb     | 2      |
-| Newport        | 11     |
-| Sea View       | 0½     |
-| Spring, The    | 0¼     |
-| Vineyard [^1]  | 3      |
-| Wolverton      | 2      |
-| Wroncate       | 2¾     |
+Distances2:
 
-[^1]: Inigo Jones' Gate from Hampton Court.
+-
+  location: Appuldercombe
+  distance: "1.75"
+-
+  location: Binnel Point
+  distance: "0.5"
+-
+  location: Bonchurch
+  distance: "2"
+-
+  location: Church, The
+  distance: "0.25"
+-
+  location: Nettlecomb
+  distance: "2"
+-
+  location: Newport
+  distance: "11"
+-
+  location: Sea View
+  distance: "0.5"
+-
+  location: Spring, The
+  distance: "0.25"
+-
+  location: |
+    Vineyard
+    *Inigo Jones' Gate from Hampton Court.*
+  distance: "3"
+-
+  location: Wolverton
+  distance: "2"
+-
+  location: Wroncate
+  distance: "2.75"
