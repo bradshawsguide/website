@@ -44,7 +44,7 @@ fields:
     fields:
       location:
         label: Location
-        type: text
+        type: textarea
       distance:
         label: Miles
         type: number

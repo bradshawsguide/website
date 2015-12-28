@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Alum Bay
 ----
@@ -6,10 +6,11 @@ Region: Isle of Wight
 ----
 Company:
 ----
-Route:
-- routes/ryde-to-the-needles
+Route: - routes/ryde-to-the-needles
 ----
-Meta: Hotels.--
+Meta:
+
+Hotels.--
 : Needles Hotel and boarding house.
 
 Steamers
@@ -18,23 +19,34 @@ Steamers
 Text: The cliffs on one side are white, and on the other are curiously variegated with strata of ochre, fuller's earth, grey and white sand, &c. Here large prawns are found. The cliffs gradually fall to Gary's Sconce, where a strong fort is being constructed. Copperas stones, lignite, or wood coal, alum, pipe day, shells, and fossils are discovered in this quarter of the Island.
 ----
 Distances2:
+
 -
-  location: 'Alum Bay, Arched Rock (600 feet)'
+  location: |
+    Alum Bay
+    *Arched Rock (600 feet)*
   distance: "2.75"
 -
-  location: "Cary's Stone, A Fort has been erected here."
+  location: |
+    Cary's Stone
+    *A Fort has been erected here.*
   distance: "2"
 -
-  location: 'Light House, 715 feet above the level of the sea.'
+  location: |
+    Light House
+    *715 feet above the level of the sea.*
   distance: "2.5"
 -
-  location: "Neptune's Cave, 200 feet."
+  location: |
+    Neptune's Cave
+    *200 feet.*
   distance: "3.25"
 -
   location: Neshanter Cave
   distance: "3.5"
 -
-  location: 'Parsonage, The, Birth place of Dr. Hook, the philosopher.'
+  location: |
+    Parsonage, The
+    *Birth place of Dr. Hook, the philosopher.*
   distance: "2"
 -
   location: "Scratchell's Cave"
