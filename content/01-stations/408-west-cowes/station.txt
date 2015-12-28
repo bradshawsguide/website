@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: West Cowes
 ----
@@ -6,10 +6,11 @@ Region: Isle of Wight
 ----
 Company:
 ----
-Route:
-- routes/ryde-to-the-needles
+Route: - routes/ryde-to-the-needles
 ----
-Meta: Distance from station at Southampton, 11 miles.
+Meta:
+
+Distance from station at Southampton, 11 miles.
 
 A telegraph station.
 
@@ -31,29 +32,59 @@ Steam Vessels
 Regatta
 : in August.
 ----
-Text: Cowes, five miles from Newport. An immense quantity of shipping call off here annually, from all parts of the globe, for orders from their owners or consignees, as to the destination of their cargoes; and in the winter months fleets of merchantmen of all nations rendezvous here weatherbound.
+Text:
+
+Cowes, five miles from Newport. An immense quantity of shipping call off here annually, from all parts of the globe, for orders from their owners or consignees, as to the destination of their cargoes; and in the winter months fleets of merchantmen of all nations rendezvous here weatherbound.
 
 It lies at the mouth of the Medina and is a stirring port, noted for its shipbuilding (especially at White's yard), and yachting. There is deep water here; the Royal Yacht Club hold their *regatta* in August. Handsome Club house, Old castle, built by Henry VIII., from which Cowes derives its name. Dr. Arnold was a native of Cowes. There is a ferry to East Cowes, across the Medina, beyond which *Norris Castle* and *Osborne House* are visible. Sailing boats 2s. per hour.
 
 On the beach are bathing machines, and it is much visited by fashionable company.
 ----
-Distances:
-|                        | Miles. |
-| ---------------------- | ------ |
-| Barton                 | 2      |
-| Baskets                | 1¾     |
-| East Cowes             | 0¾     |
-| East Cowes Castle [^1] | 1½     |
-| Egypt                  | 1      |
-| Gurnet Farm            | 1      |
-| King's Key             | 3      |
-| Kingston               | 1½     |
-| Noder                  | 1½     |
-| Northwood              | 1½     |
-| Northwood House [^2]   | 0½     |
-| Osborne                | 1¼     |
-| West Cowes House       | 0¼     |
-| Yacht Club House       | 0½     |
+Distances2:
 
-[^1]: Earl of Shannon.
-[^2]: Now a School.
+-
+  location: Barton
+  distance: "2"
+-
+  location: Baskets
+  distance: "1.75"
+-
+  location: East Cowes
+  distance: "0.75"
+-
+  location: |
+    East Cowes Castle
+    *Earl of Shannon.*
+  distance: "1.5"
+-
+  location: Egypt
+  distance: "1"
+-
+  location: Gurnet Farm
+  distance: "1"
+-
+  location: "King's Key"
+  distance: "3"
+-
+  location: Kingston
+  distance: "1.5"
+-
+  location: Noder
+  distance: "1.5"
+-
+  location: Northwood
+  distance: "1.5"
+-
+  location: |
+    Northwood House
+    *Now a School.*
+  distance: "0.5"
+-
+  location: Osborne
+  distance: "1.25"
+-
+  location: West Cowes House
+  distance: "0.25"
+-
+  location: Yacht Club House
+  distance: "0.5"
