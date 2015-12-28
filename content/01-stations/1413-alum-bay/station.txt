@@ -17,19 +17,25 @@ Steamers
 ----
 Text: The cliffs on one side are white, and on the other are curiously variegated with strata of ochre, fuller's earth, grey and white sand, &c. Here large prawns are found. The cliffs gradually fall to Gary's Sconce, where a strong fort is being constructed. Copperas stones, lignite, or wood coal, alum, pipe day, shells, and fossils are discovered in this quarter of the Island.
 ----
-Distances:
-|                     | Miles. |
-| --------------------| ------ |
-| Alum Bay [^1]       | 2¾     |
-| Cary's Stone [^2]   | 2      |
-| Light House [^3]    | 2½     |
-| Neptune's Cave [^4] | 3¼     |
-| Neshanter Cave      | 3½     |
-| Parsonage, The [^5] | 2      |
-| Scratchell's Cave   | 2      |
-
-[^1]: Arched Rock (600 feet)
-[^2]: A Fort has been erected here.
-[^3]: 715 feet above the level of the sea.
-[^4]: 200 feet.
-[^5]: Birth place of Dr. Hook, the philosopher.
+Distances2:
+-
+  location: 'Alum Bay, Arched Rock (600 feet)'
+  distance: "2.75"
+-
+  location: "Cary's Stone, A Fort has been erected here."
+  distance: "2"
+-
+  location: 'Light House, 715 feet above the level of the sea.'
+  distance: "2.5"
+-
+  location: "Neptune's Cave, 200 feet."
+  distance: "3.25"
+-
+  location: Neshanter Cave
+  distance: "3.5"
+-
+  location: 'Parsonage, The, Birth place of Dr. Hook, the philosopher.'
+  distance: "2"
+-
+  location: "Scratchell's Cave"
+  distance: "2"
