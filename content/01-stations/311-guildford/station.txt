@@ -41,29 +41,74 @@ Text: The situation of this town on the banks of the Wey, and spreading over the
 
 Two miles to the eastward of the town is a fine circular race-course. The roads in the neighbourhood are extremely picturesque—that from Guildford to Farnham in particular, running along a ridge of high chalk hills, and thus commanding an extensive prospect. The trade of the town is considerable, from its central situation and convenient distance from the metropolis. The guild or town-hall and the corn market are handsome buildings.
 ----
-Distances:
-|                    | Miles. |
-| ------------------ | ------ |
-| Arlington          | 1¾     |
-| Catherine's Hill   | 0¾     |
-| Compton            | 2½     |
-| Clandon Park       | 2¾     |
-| Gang Hill          | 1½     |
-| Gosden             | 3      |
-| Halfpenny House    | 1½     |
-| Henley Park        | 3¾     |
-| Hog's Back         | 3¼     |
-| Littleton          | 1½     |
-| Losely House       | 2      |
-| Merrow Race Course | 2½     |
-| Newark Abbey       | 5      |
-| New Warren         | 1½     |
-| Northbrook Place   | 3¼     |
-| Pepper Harrow      | 6      |
-| Puttenham          | 4½     |
-| Shalford House     | 2      |
-| Stoke              | 1      |
-| Sutton Park        | 2¾     |
-| Westbrook Place    | 3      |
-| Wonersh            | 3      |
-| Worplesdon         | 3      |
+Distances2:
+
+-
+  location: Arlington
+  distance: "1.75"
+-
+  location: "Catherine's Hill"
+  distance: "0.75"
+-
+  location: Compton
+  distance: "2.5"
+-
+  location: Clandon Park
+  distance: "2.75"
+-
+  location: Gang Hill
+  distance: "1.5"
+-
+  location: Gosden
+  distance: "3"
+-
+  location: Halfpenny House
+  distance: "1.5"
+-
+  location: Henley Park
+  distance: "3.75"
+-
+  location: "Hog's Back"
+  distance: "3.25"
+-
+  location: Littleton
+  distance: "1.5"
+-
+  location: Losely House
+  distance: "2"
+-
+  location: Merrow Race Course
+  distance: "2.5"
+-
+  location: Newark Abbey
+  distance: "5"
+-
+  location: New Warren
+  distance: "1.5"
+-
+  location: Northbrook Place
+  distance: "3.25"
+-
+  location: Pepper Harrow
+  distance: "6"
+-
+  location: Puttenham
+  distance: "4.5"
+-
+  location: Shalford House
+  distance: "2"
+-
+  location: Stoke
+  distance: "1"
+-
+  location: Sutton Park
+  distance: "2.75"
+-
+  location: Westbrook Place
+  distance: "3"
+-
+  location: Wonersh
+  distance: "3"
+-
+  location: Worplesdon
+  distance: "3"
