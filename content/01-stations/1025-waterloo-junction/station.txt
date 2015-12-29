@@ -2,7 +2,7 @@ section: 1
 ----
 title: Waterloo Junction
 ----
-Shorttitle: Waterloo Jct.
+short-title: Waterloo Jct.
 ----
 region: Surrey
 ----

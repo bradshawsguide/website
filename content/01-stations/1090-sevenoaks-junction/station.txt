@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sevenoaks Junction
 ----
-Shorttitle: Sevenoaks Jct.
+short-title: Sevenoaks Jct.
 ----
 region: Kent
 ----

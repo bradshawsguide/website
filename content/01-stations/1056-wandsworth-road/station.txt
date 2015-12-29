@@ -2,7 +2,7 @@ section: 1
 ----
 title: Wandsworth Road
 ----
-Shorttitle: Wandsworth Rd.
+short-title: Wandsworth Rd.
 ----
 region: Surrey
 ----

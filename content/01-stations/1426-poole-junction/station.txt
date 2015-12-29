@@ -2,7 +2,7 @@
 ----
 title: Poole Junction
 ----
-Shorttitle: Poole Jct.
+short-title: Poole Jct.
 ----
 region: Dorsetshire
 ----

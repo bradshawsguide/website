@@ -2,7 +2,7 @@ section: 1
 ----
 title: Newington Road
 ----
-Shorttitle: Newington Rd.
+short-title: Newington Rd.
 ----
 region: Middlesex
 ----

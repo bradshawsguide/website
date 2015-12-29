@@ -1,15 +1,15 @@
 <?php
 if ($page->hasPrev() == true) {
-    if ($page->prev()->shorttitle() != null) {
-        $prevTitle = $page->prev()->shorttitle();
+    if ($page->prev()->shortTitle() != null) {
+        $prevTitle = $page->prev()->shortTitle();
     } else {
         $prevTitle = $page->prev()->title();
     }
 }
 
 if ($page->hasNext() == true) {
-    if ($page->next()->shorttitle() != null) {
-        $nextTitle = $page->next()->shorttitle();
+    if ($page->next()->shortTitle() != null) {
+        $nextTitle = $page->next()->shortTitle();
     } else {
         $nextTitle = $page->next()->title();
     }

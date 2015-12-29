@@ -2,7 +2,7 @@ section: 1
 ----
 title: Battersea Park Road
 ----
-Shorttitle: Battersea Park Rd.
+short-title: Battersea Park Rd.
 ----
 region: Surrey
 ----

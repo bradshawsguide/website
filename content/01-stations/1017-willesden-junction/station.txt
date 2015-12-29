@@ -2,7 +2,7 @@ section: 1
 ----
 title: Willesden Junction
 ----
-Shorttitle: Willesden Jct.
+short-title: Willesden Jct.
 ----
 region: Middlesex
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Lordship Lane
 ----
-Shorttitle: Lordship Ln.
+short-title: Lordship Ln.
 ----
 region: Surrey
 ----

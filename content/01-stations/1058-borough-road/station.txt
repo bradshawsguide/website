@@ -2,7 +2,7 @@ section: 1
 ----
 title: Borough Road
 ----
-Shorttitle: Borough Rd.
+short-title: Borough Rd.
 ----
 region: Surrey
 ----

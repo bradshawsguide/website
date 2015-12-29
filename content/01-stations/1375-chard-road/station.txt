@@ -2,7 +2,7 @@
 ----
 title: Chard Road
 ----
-Shorttitle: Chard Rd.
+short-title: Chard Rd.
 ----
 region: Somerset
 ----

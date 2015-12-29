@@ -2,7 +2,7 @@ section: 1
 ----
 title: Crystal Palace (High Level)
 ----
-Shorttitle: Crystal Palace (High)
+short-title: Crystal Palace (High)
 ----
 region: Surrey
 ----
@@ -12,6 +12,6 @@ company:
 route:
 - routes/brixton-to-crystal-palace
 ----
-meta: 
+meta:
 ----
-text: 
+text:
