@@ -21,7 +21,7 @@ Money Order Office
 ----
 Text: This station forms the junction of a short line to [Bognor](/stations/bognor).
 ----
-Distance:
+Distances:
 
 -
   location: Aldingbourne

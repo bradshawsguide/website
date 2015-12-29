@@ -37,7 +37,7 @@ It lies at the mouth of the Medina and is a stirring port, noted for its shipbui
 
 On the beach are bathing machines, and it is much visited by fashionable company.
 ----
-Distance:
+Distances:
 
 -
   location: Barton

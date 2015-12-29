@@ -22,7 +22,7 @@ Money Order Office
 ----
 Text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
 ----
-Distance:
+Distances:
 
 -
   location: Adgeton

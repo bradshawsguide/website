@@ -34,7 +34,7 @@ The neighbourhood here begins to get thronged with objects of attraction suffici
 
 From Edenbridge station to the next, there are succession of agreeable prospects, diversified by a few impediments to a good view in the form of an intervening cutting.
 ----
-Distance:
+Distances:
 
 -
   location: Brook House

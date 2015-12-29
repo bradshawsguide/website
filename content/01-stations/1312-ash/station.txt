@@ -26,7 +26,7 @@ Text: The line now diverges or turns more towards the north, to [Aldershott](/st
 
 The line then proceeds through the valley of the Blackwater to [Blackwater](/stations/blackwater).
 ----
-Distance:
+Distances:
 
 -
   location: Aldershott

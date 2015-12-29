@@ -30,7 +30,7 @@ Text: Wokingham is situated on the River Wey, on the borders of Windsor Forest. 
 
 From this station the railway passes that of [Earley](/stations/earley) and over a level but highly cultivated country, interspersed with villages and country-seats, until it reach the terminus at [Reading](/stations/reading).
 ----
-Distance:
+Distances:
 
 -
   location: Bisley

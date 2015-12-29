@@ -35,7 +35,7 @@ The mingled scene of hill and dale, wood and village, presents one of those fair
 
 Four miles further is [St. Leonards](/stations/st-leonards) station.
 ----
-Distance:
+Distances:
 
 -
   location: Ashburnham

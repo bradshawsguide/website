@@ -6,11 +6,10 @@ Region: Isle of Wight
 ----
 Company:
 ----
-Route: - routes/ryde-to-the-needles
+Route:
+- routes/ryde-to-the-needles
 ----
-Meta:
-
-Hotels.--
+Meta: Hotels.--
 : Needles Hotel and boarding house.
 
 Steamers
@@ -18,7 +17,7 @@ Steamers
 ----
 Text: The cliffs on one side are white, and on the other are curiously variegated with strata of ochre, fuller's earth, grey and white sand, &c. Here large prawns are found. The cliffs gradually fall to Gary's Sconce, where a strong fort is being constructed. Copperas stones, lignite, or wood coal, alum, pipe day, shells, and fossils are discovered in this quarter of the Island.
 ----
-Distance:
+Distances:
 
 -
   location: |

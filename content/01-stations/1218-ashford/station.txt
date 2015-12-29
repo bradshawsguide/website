@@ -34,7 +34,7 @@ Within two or three miles of Ashford are the following seats:--*Merstham Hatch*,
 
 All this east end of the Weald of Kent is thick with woodlands, like the rest of that fertile tract, but the roads are damp and heavy.
 ----
-Distance:
+Distances:
 
 -
   location: Badlesmere

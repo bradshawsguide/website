@@ -20,7 +20,7 @@ Money Order Office
 ----
 Text:
 ----
-Distance:
+Distances:
 
 -
   location: Bowling Green

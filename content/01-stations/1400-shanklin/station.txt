@@ -21,7 +21,7 @@ Text: This beautiful retreat is hid away among trees and corn-fields in summer, 
 
 The railway at present (1865) terminates at this point. The rest of the way to Ventnor must be travelled by coach.
 ----
-Distance:
+Distances:
 
 -
   location: Allen

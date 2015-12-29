@@ -45,7 +45,7 @@ Text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by stea
 
 **St. John's,** the seat of Sir R. Simeon, Bart.
 ----
-Distance:
+Distances:
 
 -
   location: Apley

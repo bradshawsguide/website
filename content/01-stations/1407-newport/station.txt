@@ -35,7 +35,7 @@ Text: Newport, the capital of the Island, a clean, well built, country town, in 
 
 For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.
 ----
-Distance:
+Distances:
 
 -
   location: Albany Barracks

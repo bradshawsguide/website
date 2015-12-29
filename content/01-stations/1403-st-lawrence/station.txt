@@ -6,11 +6,10 @@ Region: Isle of Wight
 ----
 Company:
 ----
-Route: - routes/ryde-to-newchurch
+Route:
+- routes/ryde-to-newchurch
 ----
-Meta:
-
-Distance from station at Portsmouth, 24 miles.
+Meta: Distance from station at Portsmouth, 24 miles.
 
 Telegraph station at Ventnor, 2 miles.
 
@@ -25,7 +24,7 @@ Money Order Office
 ----
 Text: There is a spring of deliriously cool water on the road side, under an alcove. The church is a pretty little rustic building, with the grave-yard planted with flowers. Since it was lengthened it is 40 feet long, and will hold 40--a small number, but quite large enough for the population of the parish.
 ----
-Distance:
+Distances:
 
 -
   location: Appuldercombe

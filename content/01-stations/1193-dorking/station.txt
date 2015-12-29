@@ -33,7 +33,7 @@ It is a favourite summer resort of invalids and lovers of rural scenery, and it 
 
 The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](/stations/gomshall-and-sheire).
 ----
-Distance:
+Distances:
 -
   location: Abinger Hall
   miles: "3"

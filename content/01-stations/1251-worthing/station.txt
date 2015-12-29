@@ -33,7 +33,7 @@ In the immediate vicinity is *Broadwater*, with its beautiful church in the rich
 
 The line proceeds three miles further on, and reaches the station at [Goring](/stations/goring).
 ----
-Distance:
+Distances:
 
 -
   location: Charmaii Dean

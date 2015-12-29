@@ -41,7 +41,7 @@ Text: The situation of this town on the banks of the Wey, and spreading over the
 
 Two miles to the eastward of the town is a fine circular race-course. The roads in the neighbourhood are extremely picturesque—that from Guildford to Farnham in particular, running along a ridge of high chalk hills, and thus commanding an extensive prospect. The trade of the town is considerable, from its central situation and convenient distance from the metropolis. The guild or town-hall and the corn market are handsome buildings.
 ----
-Distance:
+Distances:
 
 -
   location: Arlington

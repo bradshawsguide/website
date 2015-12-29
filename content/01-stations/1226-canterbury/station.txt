@@ -42,7 +42,7 @@ Riding Gate is in Watling Street, on the old road from London, which Chaucer's p
 
 Canterbury has a Guildhall, sessions house, cavalry and other barracks, with several schools and hospitals. St. Nicholas's hospital, at Harbledown, was founded by Archbishop Lanfranc in the 11th century. That part of the neighbourhood near the Dover road, is dotted all over with fine scats.
 ----
-Distance:
+Distances:
 
 -
   location: Adisham Down
