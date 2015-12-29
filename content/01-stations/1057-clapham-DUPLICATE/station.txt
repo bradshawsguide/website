@@ -1,6 +1,6 @@
 section: 1
 ----
-title: Clapham
+title: Clapham (DUPLICATE)
 ----
 region: Surrey
 ----
@@ -10,6 +10,6 @@ company:
 route:
 - routes/victoria-to-herne-hill
 ----
-meta: 
+meta:
 ----
-text: 
+text:

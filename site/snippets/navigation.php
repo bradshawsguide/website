@@ -1,5 +1,5 @@
 <nav role="navigation" id="nav">
-    <h1 class="hidden">Explore <?= smartypants($site->shortTitle()) ?> Handbook</h1>
+    <h1 class="hidden">Explore <?= smartypants($site->short_title()) ?> Handbook</h1>
     <ul>
     <? foreach($pages->visible() as $page): ?>
         <li>

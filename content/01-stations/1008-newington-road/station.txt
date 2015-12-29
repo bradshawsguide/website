@@ -2,7 +2,7 @@ section: 1
 ----
 title: Newington Road
 ----
-short-title: Newington Rd.
+short_title: Newington Rd.
 ----
 region: Middlesex
 ----
@@ -12,6 +12,6 @@ company:
 route:
 - routes/bow-to-chalk-farm
 ----
-meta: 
+meta:
 ----
 text:

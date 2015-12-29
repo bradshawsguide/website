@@ -1,6 +1,6 @@
 title: Bradshaw's Guide for Tourists in Great Britain & Ireland
 ----
-short-title: Bradshaw's
+short_title: Bradshaw's
 ----
 author: George Bradshaw
 ----

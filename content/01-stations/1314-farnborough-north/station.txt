@@ -1,6 +1,6 @@
 section: 1
 ----
-title: Farnborough
+title: Farnborough North
 ----
 region: Hampshire
 ----
@@ -9,9 +9,6 @@ company:
 ----
 route:
 - routes/reigate-to-reading
-----
-related:
-- (wikipedia: Farnborough North railway station)
 ----
 meta:
 ----

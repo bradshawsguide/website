@@ -2,7 +2,7 @@ section: 1
 ----
 title: Wallworth Road
 ----
-short-title: Wallworth Rd.
+short_title: Wallworth Rd.
 ----
 region: Surrey
 ----

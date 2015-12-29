@@ -2,7 +2,7 @@ section: 1
 ----
 title: Coombe and Malden
 ----
-short-title: Coombe & Malden
+short_title: Coombe & Malden
 ----
 region: Surrey
 ----

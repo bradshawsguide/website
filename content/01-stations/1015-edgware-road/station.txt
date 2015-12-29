@@ -2,7 +2,7 @@ section: 1
 ----
 title: Edgware Road
 ----
-short-title: Edgware Rd.
+short_title: Edgware Rd.
 ----
 region: Middlesex
 ----

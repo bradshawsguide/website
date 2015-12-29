@@ -6,7 +6,7 @@ fields:
   title:
     label: Title
     type:  text
-  short-title:
+  short_title:
     label: Short title
     type: text
   author:
