@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Ryde
 ----
@@ -45,31 +45,80 @@ Text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by stea
 
 **St. John's,** the seat of Sir R. Simeon, Bart.
 ----
-Distances:
-|                  | Miles. |
-| ---------------- | ------ |
-| Apley            | 0¾     |
-| Bamsley          | 1½     |
-| Binstead         | 0¾     |
-| Copping Bridge   | 5½     |
-| Fairy Hill       | 1¼     |
-| Fearlee          | 5      |
-| Fishburn Rock    | 2¾     |
-| Haven Street     | 2½     |
-| Needles, The     | 18     |
-| Nettleston Point | 2      |
-| Pier, The        | 0¼     |
-| Place Street     | 0½     |
-| Portsmouth       | 8      |
-| Priory, The      | 0¾     |
-| Quarr Abbey      | 2      |
-| Ryde House       | 1½     |
-| Ryde Park        | 1½     |
-| St. Clare        | 1½     |
-| St. John's       | 1      |
-| Stokes Bay       | 3      |
-| Troublefield     | 0¾     |
-| West Cowes       | 8      |
-| West Mount       | 1½     |
-| Whippingham      | 3½     |
-| White Mark       | 2½     |
+Distances2:
+
+-
+  location: Apley
+  distance: "0.75"
+-
+  location: Bamsley
+  distance: "1.5"
+-
+  location: Binstead
+  distance: "0.75"
+-
+  location: Copping Bridge
+  distance: "5.5"
+-
+  location: Fairy Hill
+  distance: "1.25"
+-
+  location: Fearlee
+  distance: "5"
+-
+  location: Fishburn Rock
+  distance: "2.75"
+-
+  location: Haven Street
+  distance: "2.5"
+-
+  location: Needles, The
+  distance: "18"
+-
+  location: Nettleston Point
+  distance: "2"
+-
+  location: Pier, The
+  distance: "0.25"
+-
+  location: Place Street
+  distance: "0.5"
+-
+  location: Portsmouth
+  distance: "8"
+-
+  location: Priory, The
+  distance: "0.75"
+-
+  location: Quarr Abbey
+  distance: "2"
+-
+  location: Ryde House
+  distance: "1.5"
+-
+  location: Ryde Park
+  distance: "1.5"
+-
+  location: St. Clare
+  distance: "1.5"
+-
+  location: "St. John's"
+  distance: "1"
+-
+  location: Stokes Bay
+  distance: "3"
+-
+  location: Troublefield
+  distance: "0.75"
+-
+  location: West Cowes
+  distance: "8"
+-
+  location: West Mount
+  distance: "1.5"
+-
+  location: Whippingham
+  distance: "3.5"
+-
+  location: White Mark
+  distance: "2.5"
