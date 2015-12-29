@@ -35,77 +35,77 @@ Text: Newport, the capital of the Island, a clean, well built, country town, in 
 
 For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.
 ----
-Distances2:
+Distance:
 
 -
   location: Albany Barracks
-  distance: "0.5"
+  miles: "0½"
 -
   location: Alvington
-  distance: "2"
+  miles: "2"
 -
   location: Arreton
-  distance: "2.5"
+  miles: "2½"
 -
   location: Barton Point
-  distance: "4"
+  miles: "4"
 -
   location: Birchmore
-  distance: "2.5"
+  miles: "2½"
 -
   location: Blackland
-  distance: "2.5"
+  miles: "2½"
 -
   location: Brettleford
-  distance: "2.5"
+  miles: "2½"
 -
   location: Carisbrooke
-  distance: "1"
+  miles: "1"
 -
   location: |
     Carisbrooke Castle
     *Built before the Conquest*
-  distance: "1.5"
+  miles: "1½"
 -
   location: Carisbrooke Church
-  distance: "1.25"
+  miles: "1¼"
 -
   location: Carisbrooke Priory, Ruins of
-  distance: "1"
+  miles: "1"
 -
   location: |
     Church, Old
     *Tomb of Charles First's daughter, Princess Elizabeth*
-  distance: "0.25"
+  miles: "0¼"
 -
   location: "King's Forest"
-  distance: "0.5"
+  miles: "0½"
 -
   location: Kite Hill
-  distance: "5"
+  miles: "5"
 -
   location: Marcliff
-  distance: "4.5"
+  miles: "4½"
 -
   location: |
     Node Hill
     *Monument to Tyerman the Missionary, and lines by Montgomery*
-  distance: "2"
+  miles: "2"
 -
   location: Norris Castle
-  distance: "0.5"
+  miles: "0½"
 -
   location: Park Cross
-  distance: "4"
+  miles: "4"
 -
   location: Parkhurst Reformatory Institution
-  distance: "0.5"
+  miles: "0½"
 -
   location: Thorness
-  distance: "4"
+  miles: "4"
 -
   location: West Cowes
-  distance: "5"
+  miles: "5"
 -
   location: Wootton and Bridge
-  distance: "3.5"
+  miles: "3½"

@@ -24,155 +24,155 @@ Text: The name of the village adjacent is derived from a corruption of "good sto
 
 Passing over Stafford's Wood Common, the line now traverses a fine and open country, entering the county of Kent at a spot bearing the diminutive cognomen of "Little Browns." The intervening miles are rapidly left behind, and we again pause for a few brief minutes at [Edenbridge](/stations/edenbridge), the first station in the county of [Kent](/regions/england/kent).
 ----
-Distances2:
+Distance:
 
 -
   location: Anchor Farm
-  distance: "2.5"
+  miles: "2½"
 -
   location: Blackgrove
-  distance: "3.5"
+  miles: "3½"
 -
   location: Bletchingley
-  distance: "2.5"
+  miles: "2½"
 -
   location: Blendley Heath
-  distance: "2.5"
+  miles: "2½"
 -
   location: Bradfield
-  distance: "3.5"
+  miles: "3½"
 -
   location: Byes
-  distance: "3"
+  miles: "3"
 -
   location: Comforts Place
-  distance: "3.5"
+  miles: "3½"
 -
   location: Cross Ways
-  distance: "0.25"
+  miles: "0¼"
 -
   location: Dog Kennel
-  distance: "3"
+  miles: "3"
 -
   location: Felbridge Park
-  distance: "5"
+  miles: "5"
 -
   location: Flower House
-  distance: "2.25"
+  miles: "2¼"
 -
   location: Gassous House
-  distance: "2.25"
+  miles: "2¼"
 -
   location: Godstone
-  distance: "3"
+  miles: "3"
 -
   location: Godstone Green
-  distance: "4"
+  miles: "4"
 -
   location: Goulds
-  distance: "3"
+  miles: "3"
 -
   location: Hedge Court
-  distance: "7"
+  miles: "7"
 -
   location: Hill Farm
-  distance: "1.5"
+  miles: "1½"
 -
   location: Hobbs
-  distance: "3"
+  miles: "3"
 -
   location: Hook
-  distance: "3"
+  miles: "3"
 -
   location: Home
-  distance: "4"
+  miles: "4"
 -
   location: Ivy House
-  distance: "2.25"
+  miles: "2¼"
 -
   location: "Jenkins' Land"
-  distance: "2.5"
+  miles: "2½"
 -
   location: Live House
-  distance: "0.75"
+  miles: "0¾"
 -
   location: Lee Place
-  distance: "2.25"
+  miles: "2¼"
 -
   location: Legham
-  distance: "2"
+  miles: "2"
 -
   location: Lingneld
-  distance: "4"
+  miles: "4"
 -
   location: Moat Farm
-  distance: "3.75"
+  miles: "3¾"
 -
   location: Nagshall
-  distance: "2.5"
+  miles: "2½"
 -
   location: Nashes
-  distance: "3.5"
+  miles: "3½"
 -
   location: Nobright
-  distance: "3.5"
+  miles: "3½"
 -
   location: North Park
-  distance: "4"
+  miles: "4"
 -
   location: Oxted
-  distance: "3"
+  miles: "3"
 -
   location: Park Farm
-  distance: "3"
+  miles: "3"
 -
   location: Postergate
-  distance: "4.5"
+  miles: "4½"
 -
   location: Peartree
-  distance: "4.5"
+  miles: "4½"
 -
   location: "Peny's Farm"
-  distance: "2"
+  miles: "2"
 -
   location: "Periy's"
-  distance: "3"
+  miles: "3"
 -
   location: Priory House
-  distance: "4"
+  miles: "4"
 -
   location: Quarry House
-  distance: "4"
+  miles: "4"
 -
   location: "Rook's Nest"
-  distance: "2.5"
+  miles: "2½"
 -
   location: "Snout's Farm"
-  distance: "2"
+  miles: "2"
 -
   location: Starborough Castle
-  distance: "8"
+  miles: "8"
 -
   location: Stile
-  distance: "3"
+  miles: "3"
 -
   location: Stockwood
-  distance: "3"
+  miles: "3"
 -
   location: Stratton House
-  distance: "2.25"
+  miles: "2¼"
 -
   location: Tandridge Park
-  distance: "2"
+  miles: "2"
 -
   location: Tilberstow Hill
-  distance: "2.5"
+  miles: "2½"
 -
   location: "Tyler's Green"
-  distance: "2.25"
+  miles: "2¼"
 -
   location: Woldingham
-  distance: "4.5"
+  miles: "4½"
 -
   location: Wonham
-  distance: "3"
+  miles: "3"

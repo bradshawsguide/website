@@ -42,95 +42,95 @@ Riding Gate is in Watling Street, on the old road from London, which Chaucer's p
 
 Canterbury has a Guildhall, sessions house, cavalry and other barracks, with several schools and hospitals. St. Nicholas's hospital, at Harbledown, was founded by Archbishop Lanfranc in the 11th century. That part of the neighbourhood near the Dover road, is dotted all over with fine scats.
 ----
-Distances2:
+Distance:
 
 -
   location: Adisham Down
-  distance: "5"
+  miles: "5"
 -
   location: Bekesbourne
-  distance: "3"
+  miles: "3"
 -
   location: Beverley Park
-  distance: "1.5"
+  miles: "1½"
 -
   location: Blean Church
-  distance: "2"
+  miles: "2"
 -
   location: Bridge
-  distance: "3"
+  miles: "3"
 -
   location: Broad Oak Common
-  distance: "2"
+  miles: "2"
 -
   location: Broom Park
-  distance: "7"
+  miles: "7"
 -
   location: Dene Park
-  distance: "6"
+  miles: "6"
 -
   location: Elensden
-  distance: "4.5"
+  miles: "4½"
 -
   location: Gorsley Wood
-  distance: "4.5"
+  miles: "4½"
 -
   location: Harbledown
-  distance: "0.75"
+  miles: "0¾"
 -
   location: Heath Farm
-  distance: "1.5"
+  miles: "1½"
 -
   location: Herne Common
-  distance: "5"
+  miles: "5"
 -
   location: Ickham
-  distance: "5"
+  miles: "5"
 -
   location: Kingston
-  distance: "5"
+  miles: "5"
 -
   location: Lee Park
-  distance: "4.5"
+  miles: "4½"
 -
   location: Littlebourne
-  distance: "4"
+  miles: "4"
 -
   location: Mayton
-  distance: "2.5"
+  miles: "2½"
 -
   location: Mote, The
-  distance: "2"
+  miles: "2"
 -
   location: Nackington
-  distance: "4"
+  miles: "4"
 -
   location: Riabel Wood
-  distance: "2"
+  miles: "2"
 -
   location: South Street
-  distance: "4.5"
+  miles: "4½"
 -
   location: St. Dunstan
-  distance: "1.5"
+  miles: "1½"
 -
   location: St. Stephens
-  distance: "1.5"
+  miles: "1½"
 -
   location: Staple Street
-  distance: "4.5"
+  miles: "4½"
 -
   location: Stone House
-  distance: "1.5"
+  miles: "1½"
 -
   location: Stuppington Farm
-  distance: "2.5"
+  miles: "2½"
 -
   location: Thannington
-  distance: "1.5"
+  miles: "1½"
 -
   location: Way Street
-  distance: "5"
+  miles: "5"
 -
   location: Wingham
-  distance: "6"
+  miles: "6"

@@ -34,88 +34,88 @@ The neighbourhood here begins to get thronged with objects of attraction suffici
 
 From Edenbridge station to the next, there are succession of agreeable prospects, diversified by a few impediments to a good view in the form of an intervening cutting.
 ----
-Distances2:
+Distance:
 
 -
   location: Brook House
-  distance: "1.5"
+  miles: "1½"
 -
   location: Brusted
-  distance: "5"
+  miles: "5"
 -
   location: Brusted Place
-  distance: "4.5"
+  miles: "4½"
 -
   location: Buckhurst Park
-  distance: "7.5"
+  miles: "7½"
 -
   location: Chiddingstone
-  distance: "3.5"
+  miles: "3½"
 -
   location: Chartwell
-  distance: "3.5"
+  miles: "3½"
 -
   location: Comb Bank
-  distance: "6"
+  miles: "6"
 -
   location: Cowden
-  distance: "4.5"
+  miles: "4½"
 -
   location: Cubham Wood
-  distance: "7"
+  miles: "7"
 -
   location: Foundling House
-  distance: "3"
+  miles: "3"
 -
   location: Four Elms
-  distance: "1.75"
+  miles: "1¾"
 -
   location: Hall Farm
-  distance: "4"
+  miles: "4"
 -
   location: Hole Farm
-  distance: "1.75"
+  miles: "1¾"
 -
   location: Hill Park
-  distance: "5"
+  miles: "5"
 -
   location: Hartfield
-  distance: "7.5"
+  miles: "7½"
 -
   location: >
     Hever Castle (Ralph Waldo, Esq.), in
     ruins
-  distance: "4"
+  miles: "4"
 -
   location: Ivy House
-  distance: "3.25"
+  miles: "3¼"
 -
   location: Limpsfield
-  distance: "5"
+  miles: "5"
 -
   location: Linhurst
-  distance: "1"
+  miles: "1"
 -
   location: Mapledon
-  distance: "2"
+  miles: "2"
 -
   location: Marsh Green
-  distance: "1.75"
+  miles: "1¾"
 -
   location: Oakhams
-  distance: "2.5"
+  miles: "2½"
 -
   location: Seven Oaks
-  distance: "7.5"
+  miles: "7½"
 -
   location: Squerries, The
-  distance: "3.5"
+  miles: "3½"
 -
   location: Stanfords End
-  distance: "1.75"
+  miles: "1¾"
 -
   location: Sunbridge
-  distance: "8"
+  miles: "8"
 -
   location: Westerham
-  distance: "5"
+  miles: "5"

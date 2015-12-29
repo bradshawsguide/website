@@ -44,12 +44,12 @@
         </details>
 <? endif ?>
 
-<? if($page->distances2()->isNotEmpty()): ?>
+<? if($page->distances()->isNotEmpty()): ?>
         <details class="related-distances">
         <? if ($page->region() == "Isle of Wight"): ?>
             <summary>Structured Distances of Places from <?= smartypants($page->title()) ?></summary>
         <? else: ?>
-            <summary>Structured Distances of Places from the Station</summary>
+            <summary>Distances of Places from the Station</summary>
         <? endif ?>
             <table>
                 <thead>
@@ -59,10 +59,10 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <? foreach($page->distances2()->yaml() as $distance): ?>
+                    <? foreach($page->distances()->yaml() as $distance): ?>
                     <tr>
                         <td><?= kirbytextRaw($distance['location']) ?></td>
-                        <td><?= $distance['distance'] ?></td>
+                        <td><?= $distance['miles'] ?></td>
                     </tr>
                     <? endforeach ?>
                 </tbody>

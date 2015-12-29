@@ -45,80 +45,80 @@ Text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by stea
 
 **St. John's,** the seat of Sir R. Simeon, Bart.
 ----
-Distances2:
+Distance:
 
 -
   location: Apley
-  distance: "0.75"
+  miles: "0¾"
 -
   location: Bamsley
-  distance: "1.5"
+  miles: "1½"
 -
   location: Binstead
-  distance: "0.75"
+  miles: "0¾"
 -
   location: Copping Bridge
-  distance: "5.5"
+  miles: "5½"
 -
   location: Fairy Hill
-  distance: "1.25"
+  miles: "1¼"
 -
   location: Fearlee
-  distance: "5"
+  miles: "5"
 -
   location: Fishburn Rock
-  distance: "2.75"
+  miles: "2¾"
 -
   location: Haven Street
-  distance: "2.5"
+  miles: "2½"
 -
   location: Needles, The
-  distance: "18"
+  miles: "18"
 -
   location: Nettleston Point
-  distance: "2"
+  miles: "2"
 -
   location: Pier, The
-  distance: "0.25"
+  miles: "0¼"
 -
   location: Place Street
-  distance: "0.5"
+  miles: "0½"
 -
   location: Portsmouth
-  distance: "8"
+  miles: "8"
 -
   location: Priory, The
-  distance: "0.75"
+  miles: "0¾"
 -
   location: Quarr Abbey
-  distance: "2"
+  miles: "2"
 -
   location: Ryde House
-  distance: "1.5"
+  miles: "1½"
 -
   location: Ryde Park
-  distance: "1.5"
+  miles: "1½"
 -
   location: St. Clare
-  distance: "1.5"
+  miles: "1½"
 -
   location: "St. John's"
-  distance: "1"
+  miles: "1"
 -
   location: Stokes Bay
-  distance: "3"
+  miles: "3"
 -
   location: Troublefield
-  distance: "0.75"
+  miles: "0¾"
 -
   location: West Cowes
-  distance: "8"
+  miles: "8"
 -
   location: West Mount
-  distance: "1.5"
+  miles: "1½"
 -
   location: Whippingham
-  distance: "3.5"
+  miles: "3½"
 -
   location: White Mark
-  distance: "2.5"
+  miles: "2½"

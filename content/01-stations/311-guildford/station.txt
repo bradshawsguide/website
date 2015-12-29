@@ -41,74 +41,74 @@ Text: The situation of this town on the banks of the Wey, and spreading over the
 
 Two miles to the eastward of the town is a fine circular race-course. The roads in the neighbourhood are extremely picturesque—that from Guildford to Farnham in particular, running along a ridge of high chalk hills, and thus commanding an extensive prospect. The trade of the town is considerable, from its central situation and convenient distance from the metropolis. The guild or town-hall and the corn market are handsome buildings.
 ----
-Distances2:
+Distance:
 
 -
   location: Arlington
-  distance: "1.75"
+  miles: "1¾"
 -
   location: "Catherine's Hill"
-  distance: "0.75"
+  miles: "0¾"
 -
   location: Compton
-  distance: "2.5"
+  miles: "2½"
 -
   location: Clandon Park
-  distance: "2.75"
+  miles: "2¾"
 -
   location: Gang Hill
-  distance: "1.5"
+  miles: "1½"
 -
   location: Gosden
-  distance: "3"
+  miles: "3"
 -
   location: Halfpenny House
-  distance: "1.5"
+  miles: "1½"
 -
   location: Henley Park
-  distance: "3.75"
+  miles: "3¾"
 -
   location: "Hog's Back"
-  distance: "3.25"
+  miles: "3¼"
 -
   location: Littleton
-  distance: "1.5"
+  miles: "1½"
 -
   location: Losely House
-  distance: "2"
+  miles: "2"
 -
   location: Merrow Race Course
-  distance: "2.5"
+  miles: "2½"
 -
   location: Newark Abbey
-  distance: "5"
+  miles: "5"
 -
   location: New Warren
-  distance: "1.5"
+  miles: "1½"
 -
   location: Northbrook Place
-  distance: "3.25"
+  miles: "3¼"
 -
   location: Pepper Harrow
-  distance: "6"
+  miles: "6"
 -
   location: Puttenham
-  distance: "4.5"
+  miles: "4½"
 -
   location: Shalford House
-  distance: "2"
+  miles: "2"
 -
   location: Stoke
-  distance: "1"
+  miles: "1"
 -
   location: Sutton Park
-  distance: "2.75"
+  miles: "2¾"
 -
   location: Westbrook Place
-  distance: "3"
+  miles: "3"
 -
   location: Wonersh
-  distance: "3"
+  miles: "3"
 -
   location: Worplesdon
-  distance: "3"
+  miles: "3"

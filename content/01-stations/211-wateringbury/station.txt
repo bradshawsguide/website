@@ -24,61 +24,61 @@ Text: This is a large and handsome village, retaining its rural character, combi
 
 A mile beyond, above the line, is the neat village of Teston, the scenery around which, with the bridge across the Medway, is quite picturesque. *Barham Court*, the mansion and park of the Earl of Gainsborough, is in the vicinity. There are several unusually pretty villages and villas on the right side of the river and railway. East and West Farleigh, on the banks of the Medway, though consisting only of scattered houses, are exceedingly pleasing. The church in the latter place is a very ancient one covered with ivy, and, with the hop-grounds and orchards, has quite a sylvan appearance.
 ----
-Distances2:
+Distance:
 
 -
   location: >
     Addington Place (Hon. Wingfield
     Stratford)
-  distance: "4.5"
+  miles: "4½"
 -
   location: Barming
-  distance: "2"
+  miles: "2"
 -
   location: 'Birling (Hon. & Rev. J. Neville)'
-  distance: "5"
+  miles: "5"
 -
   location: "Bradburn Park (Capt. Twisden's)"
-  distance: "3.25"
+  miles: "3¼"
 -
   location: Broadwater
-  distance: "2"
+  miles: "2"
 -
   location: Cannon Heath
-  distance: "1.5"
+  miles: "1½"
 -
   location: Clare House (J. A. Wigan, Esq.)
-  distance: "3"
+  miles: "3"
 -
   location: Delton Place (Jno. Golding, Esq.)
-  distance: "3"
+  miles: "3"
 -
   location: East Mailing Wood
-  distance: "2"
+  miles: "2"
 -
   location: Great Leonard Street (Lunatic Asylum)
-  distance: "2"
+  miles: "2"
 -
   location: Larkfield
-  distance: "3"
+  miles: "3"
 -
   location: Mereworth Castle
-  distance: "3"
+  miles: "3"
 -
   location: Offham Green
-  distance: "4.25"
+  miles: "4¼"
 -
   location: Oxenbeath
-  distance: "3.25"
+  miles: "3¼"
 -
   location: West Farleigh
-  distance: "1"
+  miles: "1"
 -
   location: West Malling
-  distance: "4"
+  miles: "4"
 -
   location: West Peckham
-  distance: "4"
+  miles: "4"
 -
   location: Yalding Down
-  distance: "1"
+  miles: "1"

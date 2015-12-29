@@ -25,59 +25,59 @@ Fair.--
 ----
 Text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
 ----
-Distances2:
+Distance:
 
 -
   location: 'Balls Street & Bodkin'
-  distance: "2"
+  miles: "2"
 -
   location: Bostall
-  distance: "1"
+  miles: "1"
 -
   location: Broad Street
-  distance: "1.5"
+  miles: "1½"
 -
   location: Canterbury
-  distance: "6"
+  miles: "6"
 -
   location: Chestfield
-  distance: "2"
+  miles: "2"
 -
   location: Church Street
-  distance: "0.5"
+  miles: "0½"
 -
   location: Coleward
-  distance: "2"
+  miles: "2"
 -
   location: Elensden
-  distance: "2.75"
+  miles: "2¾"
 -
   location: Faversham
-  distance: "7"
+  miles: "7"
 -
   location: Herne Bay
-  distance: "5"
+  miles: "5"
 -
   location: Rucking
-  distance: "3"
+  miles: "3"
 -
   location: Ryeham
-  distance: "1.5"
+  miles: "1½"
 -
   location: Sea Salter
-  distance: "3"
+  miles: "3"
 -
   location: Studhill
-  distance: "2.75"
+  miles: "2¾"
 -
   location: Swalecliffe
-  distance: "2"
+  miles: "2"
 -
   location: Tankerton Castle
-  distance: "0.5"
+  miles: "0½"
 -
   location: "Thompson's Farm"
-  distance: "2.75"
+  miles: "2¾"
 -
   location: Thorndean Wood
-  distance: "2.75"
+  miles: "2¾"

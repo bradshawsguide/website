@@ -33,142 +33,142 @@ It is a favourite summer resort of invalids and lovers of rural scenery, and it 
 
 The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](/stations/gomshall-and-sheire).
 ----
-Distances2:
+Distance:
 -
   location: Abinger Hall
-  distance: "3"
+  miles: "3"
 -
   location: Anstie Bury
-  distance: "4.5"
+  miles: "4½"
 -
   location: Ashstead
-  distance: "8"
+  miles: "8"
 -
   location: Bay Hill
-  distance: "1.5"
+  miles: "1½"
 -
   location: Bench
-  distance: "2"
+  miles: "2"
 -
   location: Bookham
-  distance: "2"
+  miles: "2"
 -
   location: Boxhill
-  distance: "2"
+  miles: "2"
 -
   location: Brickham Common
-  distance: "2.5"
+  miles: "2½"
 -
   location: Broadmoor
-  distance: "2"
+  miles: "2"
 -
   location: Burford Grove
-  distance: "2"
+  miles: "2"
 -
   location: Capet
-  distance: "7"
+  miles: "7"
 -
   location: Chardhurst
-  distance: "2"
+  miles: "2"
 -
   location: Cold Harbour
-  distance: "4.5"
+  miles: "4½"
 -
   location: Collickmoor
-  distance: "2"
+  miles: "2"
 -
   location: Combe
-  distance: "1.75"
+  miles: "1¾"
 -
   location: Deepdene
-  distance: "3"
+  miles: "3"
 -
   location: Denhies
-  distance: "2"
+  miles: "2"
 -
   location: Etnngham
-  distance: "4"
+  miles: "4"
 -
   location: Folly
-  distance: "1.5"
+  miles: "1½"
 -
   location: Freeshurst
-  distance: "2"
+  miles: "2"
 -
   location: Holloway
-  distance: "1.5"
+  miles: "1½"
 -
   location: Holmbury Hill
-  distance: "1.5"
+  miles: "1½"
 -
   location: Holmwood Common
-  distance: "2.5"
+  miles: "2½"
 -
   location: Leith Hill
-  distance: "5"
+  miles: "5"
 -
   location: Livesome Bridge
-  distance: "2.5"
+  miles: "2½"
 -
   location: Menidone
-  distance: "1.5"
+  miles: "1½"
 -
   location: Mickleham
-  distance: "3"
+  miles: "3"
 -
   location: Norbury Park
-  distance: "3"
+  miles: "3"
 -
   location: Ockley
-  distance: "7"
+  miles: "7"
 -
   location: Park Farm
-  distance: "1.5"
+  miles: "1½"
 -
   location: Parkpale
-  distance: "2.5"
+  miles: "2½"
 -
   location: Pexham
-  distance: "1.5"
+  miles: "1½"
 -
   location: Pit brook Bridge
-  distance: "1.5"
+  miles: "1½"
 -
   location: Polesden
-  distance: "3"
+  miles: "3"
 -
   location: Ridland
-  distance: "1.5"
+  miles: "1½"
 -
   location: Rookery
-  distance: "1.5"
+  miles: "1½"
 -
   location: Scammels
-  distance: "2.5"
+  miles: "2½"
 -
   location: Shrub Hill
-  distance: "2"
+  miles: "2"
 -
   location: Store Bridge
-  distance: "2"
+  miles: "2"
 -
   location: Stubbs
-  distance: "2"
+  miles: "2"
 -
   location: Stumble Hole
-  distance: "2"
+  miles: "2"
 -
   location: Tanhurst near Leith Hill
-  distance: "5"
+  miles: "5"
 -
   location: Upper Laylands
-  distance: "2.5"
+  miles: "2½"
 -
   location: Wescott
-  distance: "2.5"
+  miles: "2½"
 -
   location: Wescott Parsonage
-  distance: "1.5"
+  miles: "1½"
 -
   location: Wotten
-  distance: "2"
+  miles: "2"

@@ -33,59 +33,59 @@ In the immediate vicinity is *Broadwater*, with its beautiful church in the rich
 
 The line proceeds three miles further on, and reaches the station at [Goring](/stations/goring).
 ----
-Distances2:
+Distance:
 
 -
   location: Charmaii Dean
-  distance: "3"
+  miles: "3"
 -
   location: Cisbury Hall
-  distance: "2.5"
+  miles: "2½"
 -
   location: Clapham
-  distance: "6"
+  miles: "6"
 -
   location: Cokeham
-  distance: "2"
+  miles: "2"
 -
   location: Finding
-  distance: "4.75"
+  miles: "4¾"
 -
   location: Goring
-  distance: "3.75"
+  miles: "3¾"
 -
   location: Heene
-  distance: "1"
+  miles: "1"
 -
   location: Lancing
-  distance: "2"
+  miles: "2"
 -
   location: Michel Grove
-  distance: "3.5"
+  miles: "3½"
 -
   location: Ofiington
-  distance: "1.5"
+  miles: "1½"
 -
   location: Salvington
-  distance: "1.5"
+  miles: "1½"
 -
   location: Sheep Combe
-  distance: "4"
+  miles: "4"
 -
   location: Sompting
-  distance: "2.5"
+  miles: "2½"
 -
   location: Steyning
-  distance: "6.5"
+  miles: "6½"
 -
   location: Warminghurst
-  distance: "5.5"
+  miles: "5½"
 -
   location: Washington
-  distance: "5.5"
+  miles: "5½"
 -
   location: West Ferring
-  distance: "5"
+  miles: "5"
 -
   location: West Tailing
-  distance: "1"
+  miles: "1"

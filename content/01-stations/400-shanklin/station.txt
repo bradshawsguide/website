@@ -21,56 +21,56 @@ Text: This beautiful retreat is hid away among trees and corn-fields in summer, 
 
 The railway at present (1865) terminates at this point. The rest of the way to Ventnor must be travelled by coach.
 ----
-Distances2:
+Distance:
 
 -
   location: Allen
-  distance: "2"
+  miles: "2"
 -
   location: Beacon (Shanklin)
-  distance: "1"
+  miles: "1"
 -
   location: Bonchurch
-  distance: "3"
+  miles: "3"
 -
   location: Boniface Down
-  distance: "0.25"
+  miles: "0¼"
 -
   location: Brenston
-  distance: "2"
+  miles: "2"
 -
   location: Chiverton
-  distance: "1.5"
+  miles: "1½"
 -
   location: "Cook's Castle"
-  distance: "2"
+  miles: "2"
 -
   location: Dunnose
-  distance: "1.25"
+  miles: "1¼"
 -
   location: Great Kennedy
-  distance: "4"
+  miles: "4"
 -
   location: Horse Ledge
-  distance: "0.5"
+  miles: "0½"
 -
   location: Langard
-  distance: "1"
+  miles: "1"
 -
   location: Luccombe Chine
-  distance: "1"
+  miles: "1"
 -
   location: Shanklin Chine
-  distance: "0.5"
+  miles: "0½"
 -
   location: Steephill Cove
-  distance: "2"
+  miles: "2"
 -
   location: Strattle
-  distance: "3.5"
+  miles: "3½"
 -
   location: Winham
-  distance: "1.5"
+  miles: "1½"
 -
   location: Wroncate
-  distance: "2"
+  miles: "2"

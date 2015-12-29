@@ -20,44 +20,44 @@ Money Order Office
 ----
 Text:
 ----
-Distances2: 
+Distance:
 
 -
   location: Bowling Green
-  distance: "1.75"
+  miles: "1¾"
 -
   location: Brenchley
-  distance: "3"
+  miles: "3"
 -
   location: Great Brainden
-  distance: "3"
+  miles: "3"
 -
   location: Homebush Green
-  distance: "2"
+  miles: "2"
 -
   location: Horsemondean
-  distance: "4.5"
+  miles: "4½"
 -
   location: Lamberhurst
-  distance: "5.5"
+  miles: "5½"
 -
   location: Matfield Green
-  distance: "4.5"
+  miles: "4½"
 -
   location: "Mereworth Castle (Lady Despencer's)"
-  distance: "5"
+  miles: "5"
 -
   location: Pigfish
-  distance: "2.5"
+  miles: "2½"
 -
   location: Snoll Hatch
-  distance: "1.75"
+  miles: "1¾"
 -
   location: Wested
-  distance: "1"
+  miles: "1"
 -
   location: Woodfall
-  distance: "1.75"
+  miles: "1¾"
 -
   location: Yaldiug
-  distance: "3.5"
+  miles: "3½"

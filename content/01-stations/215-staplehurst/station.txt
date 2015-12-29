@@ -22,98 +22,98 @@ Text: The village of the same name is near the station; its fine old church and 
 
 The village of Cranbrook, in the heart of the Weald of Kent is remarkable for its handsome church, considered one of the most interesting edifices in the county. The remains of Sissinghurst Castle, four miles, are also well worthy a visit.
 ----
-Distances2:
+Distance:
 
 -
   location: Bennendon
-  distance: "7"
+  miles: "7"
 -
   location: Chart Hill
-  distance: "3"
+  miles: "3"
 -
   location: Chart Sutton
-  distance: "3"
+  miles: "3"
 -
   location: Chiddenden Wood
-  distance: "5.5"
+  miles: "5½"
 -
   location: Cranbrook
-  distance: "6"
+  miles: "6"
 -
   location: Dingle Dale
-  distance: "8"
+  miles: "8"
 -
   location: Dellingden Farm
-  distance: "6.75"
+  miles: "6¾"
 -
   location: East Sutton
-  distance: "3.75"
+  miles: "3¾"
 -
   location: Elderton
-  distance: "1.75"
+  miles: "1¾"
 -
   location: Foxcarthwood
-  distance: "5"
+  miles: "5"
 -
   location: Frittenden
-  distance: "4"
+  miles: "4"
 -
   location: "Goddard's Green"
-  distance: "6.5"
+  miles: "6½"
 -
   location: Great Dunbury
-  distance: "1.25"
+  miles: "1¼"
 -
   location: Hangley Wood
-  distance: "5.25"
+  miles: "5¼"
 -
   location: Hartley
-  distance: "6.5"
+  miles: "6½"
 -
   location: Hawkhurst
-  distance: "8.25"
+  miles: "8¼"
 -
   location: Hempstead Park
-  distance: "6"
+  miles: "6"
 -
   location: Hersfield Place
-  distance: "2.25"
+  miles: "2¼"
 -
   location: Highgate
-  distance: "8.25"
+  miles: "8¼"
 -
   location: Hockenbury Green
-  distance: "1"
+  miles: "1"
 -
   location: Kilsom
-  distance: "1"
+  miles: "1"
 -
   location: Love House
-  distance: "1.5"
+  miles: "1½"
 -
   location: Milk House Street
-  distance: "4"
+  miles: "4"
 -
   location: Postern Plain
-  distance: "2.25"
+  miles: "2¼"
 -
   location: Sandhurst Green
-  distance: "9.75"
+  miles: "9¾"
 -
   location: Standing Street
-  distance: "8.25"
+  miles: "8¼"
 -
   location: Sutton Valenee
-  distance: "3.25"
+  miles: "3¼"
 -
   location: Swallenden Farm
-  distance: "7.5"
+  miles: "7½"
 -
   location: Swithland
-  distance: "2.5"
+  miles: "2½"
 -
   location: Wanthurst
-  distance: "1.25"
+  miles: "1¼"
 -
   location: Winsley Green
-  distance: "4.5"
+  miles: "4½"
