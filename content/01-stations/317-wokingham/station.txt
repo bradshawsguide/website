@@ -30,30 +30,77 @@ Text: Wokingham is situated on the River Wey, on the borders of Windsor Forest. 
 
 From this station the railway passes that of [Earley](/stations/earley) and over a level but highly cultivated country, interspersed with villages and country-seats, until it reach the terminus at [Reading](/stations/reading).
 ----
-Distances:
-|                    | Miles. |
-| ------------------ | ------ |
-| Bisley             | 3      |
-| Chobham            | 2½     |
-| Chobham Hall       | 3½     |
-| Chobham Park       | 3      |
-| Cross Stock        | 2      |
-| Dudsall Court      | 3¾     |
-| Grove Heath        | 3      |
-| Hale End           | 3      |
-| Hermitage, The     | 2      |
-| Hide Farm          | 2¾     |
-| Hoe Bridge         | 1      |
-| Hook Hill          | 1½     |
-| Horshill           | 1      |
-| Knapp Hill         | 3      |
-| London Necropolis  | 2½     |
-| Mayford            | 3      |
-| Newark Abbey Ruins | 2      |
-| Ottershaw          | 3¼     |
-| Pirford            | 2      |
-| Ripley Park        | 3      |
-| Shackleford        | 3      |
-| Sutton Park        | 3      |
-| Westfield          | 2½     |
-| Wokingham          | 1      |
+Distances2:
+
+-
+  location: Bisley
+  distance: "3"
+-
+  location: Chobham
+  distance: "2.5"
+-
+  location: Chobham Hall
+  distance: "3.5"
+-
+  location: Chobham Park
+  distance: "3"
+-
+  location: Cross Stock
+  distance: "2"
+-
+  location: Dudsall Court
+  distance: "3.75"
+-
+  location: Grove Heath
+  distance: "3"
+-
+  location: Hale End
+  distance: "3"
+-
+  location: Hermitage, The
+  distance: "2"
+-
+  location: Hide Farm
+  distance: "2.75"
+-
+  location: Hoe Bridge
+  distance: "1"
+-
+  location: Hook Hill
+  distance: "1.5"
+-
+  location: Horshill
+  distance: "1"
+-
+  location: Knapp Hill
+  distance: "3"
+-
+  location: London Necropolis
+  distance: "2.5"
+-
+  location: Mayford
+  distance: "3"
+-
+  location: Newark Abbey Ruins
+  distance: "2"
+-
+  location: Ottershaw
+  distance: "3.25"
+-
+  location: Pirford
+  distance: "2"
+-
+  location: Ripley Park
+  distance: "3"
+-
+  location: Shackleford
+  distance: "3"
+-
+  location: Sutton Park
+  distance: "3"
+-
+  location: Westfield
+  distance: "2.5"
+-
+  location: Wokingham
+  distance: "1"
