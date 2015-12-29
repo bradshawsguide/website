@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Thames Ditton
+title: Thames Ditton
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/surbiton-to-hampton-court
 ----
-Meta: Telegraph station at Kingston, 2 miles.
+meta: Telegraph station at Kingston, 2 miles.
 
 Hotel.--
 : Swan.
@@ -18,4 +18,4 @@ Hotel.--
 Money Order Office
 : at Kingston.
 ----
-Text: Thames Ditton is well-known among anglers; fine barbel, roach, perch, dace, and chub, with some times jack and trout, may be caught.
+text: Thames Ditton is well-known among anglers; fine barbel, roach, perch, dace, and chub, with some times jack and trout, may be caught.

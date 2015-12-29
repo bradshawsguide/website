@@ -1,6 +1,6 @@
-Title: South Eastern Railway
+title: South Eastern Railway
 ----
-Text: By the trains of this company the watering the inhabitants of the metropolis are thus enabled to enjoy the advantages of a visit to the sea-side at their favourite towns, the climate, temperature, and atmosphere of which many prefer and find more beneficial than that of the watering places on the South Coast.
+text: By the trains of this company the watering the inhabitants of the metropolis are thus enabled to enjoy the advantages of a visit to the sea-side at their favourite towns, the climate, temperature, and atmosphere of which many prefer and find more beneficial than that of the watering places on the South Coast.
 
 <span class="smcp">The London Terminus</span> of the South Eastern Railway is now very advantageously situated at Charing Cross. A second terminus is also fast progressing in Cannon Street, whilst the old station on the Southwark side of London Bridge, and the Bricklayers' Arms station, for goods traffic, conjointly accommodate the public. The South Eastern Railway conveys to and from these termini the passenger and goods traffic of a great portion of the county of Kent, and, via Dover and Calais, Folkestone and Boulogne, or Dover and Ostend, the passenger and goods traffic to and from Franco, and the North of Europe.
 

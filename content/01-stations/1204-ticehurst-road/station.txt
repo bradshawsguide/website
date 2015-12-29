@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Ticehurst Road
+title: Ticehurst Road
 ----
-ShortTitle: Ticehurst Rd.
+short_title: Ticehurst Rd.
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/tunbridge-to-hastings
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Market Day.--
 : Saturday.
@@ -20,4 +20,4 @@ Market Day.--
 Fairs.--
 : May 4, and October 7.
 ----
-Text: Ticehurst is rather a large town, situated on high ground, about three miles and a half to the east of the station, in the midst of a splendid agricultural country.
+text: Ticehurst is rather a large town, situated on high ground, about three miles and a half to the east of the station, in the midst of a splendid agricultural country.

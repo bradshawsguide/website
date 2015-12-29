@@ -1,6 +1,6 @@
-Title: Bradshaw's Handbook For Tourists in Great Britain & Ireland
+title: Bradshaw's Handbook For Tourists in Great Britain & Ireland
 ----
-Text:
+text:
 <header class="title">
     <h1>
         <span class="broad">Bradshaw's</span>

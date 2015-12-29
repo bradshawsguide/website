@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Pulborough
+title: Pulborough
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/three-bridges-to-horsham-and-arundel
 - routes/pullborough-to-petworth
 ----
-Meta:
+meta:
 ----
-Text: The junction of a short line to [Petworth](/stations/petworth).
+text: The junction of a short line to [Petworth](/stations/petworth).

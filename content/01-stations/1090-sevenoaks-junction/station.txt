@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Sevenoaks Junction
+title: Sevenoaks Junction
 ----
-ShortTitle: Sevenoaks Jct.
+short_title: Sevenoaks Jct.
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/london-to-chatham-and-dover
 - routes/sevenoaks-junction-to-sevenoaks
 ----
-Meta:
+meta:
 ----
-Text: A [line](/routes/sevenoaks-junction-to-sevenoaks) here turns off to the right, 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to [Sevenoaks](/stations/sevenoaks).
+text: A [line](/routes/sevenoaks-junction-to-sevenoaks) here turns off to the right, 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to [Sevenoaks](/stations/sevenoaks).

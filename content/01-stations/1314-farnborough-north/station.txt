@@ -1,18 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Farnborough
+title: Farnborough North
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/reigate-to-reading
 ----
-Related:
-- (wikipedia: Farnborough North railway station)
+meta:
 ----
-Meta:
-----
-Text:
+text:

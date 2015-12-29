@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Wye
+title: Wye
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/ashford-to-canterbury-and-ramsgate
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Omnibuses
 : to and from Faversham, daily.
@@ -18,6 +18,6 @@ Omnibuses
 Fairs.--
 : May 29 and October 11.
 ----
-Text: The town of Wye is close to the river Stour, and consists of two main streets. It has a handsome church, and was once a royal manor, granted by William the Conqueror to the Abbey of Battle. Here was a monastic college, the remains of which are still to be seen.
+text: The town of Wye is close to the river Stour, and consists of two main streets. It has a handsome church, and was once a royal manor, granted by William the Conqueror to the Abbey of Battle. Here was a monastic college, the remains of which are still to be seen.
 
 Emerging from a tolerably deep cutting, we next trace to the left a most charming and picturesque village, and shortly reach [Chilham](/stations/chilham).

@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Weybridge to Chertsey
+title: Weybridge to Chertsey
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Chertsey
+destination: Chertsey
 ----
-Text: Branch line to Chertsey.
+text: Branch line to Chertsey.

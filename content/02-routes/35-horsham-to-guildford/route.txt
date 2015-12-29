@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Horsham to Guildford
+title: Horsham to Guildford
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
-Destination: Guildford
+destination: Guildford
 ----
-Text:
+text:

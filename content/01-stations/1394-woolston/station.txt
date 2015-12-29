@@ -1,15 +1,15 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Woolston
+title: Woolston
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/southampton-to-netley
 ----
-Meta:
+meta:
 ----
-Text:
+text:

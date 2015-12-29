@@ -1,18 +1,18 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Axminster
+title: Axminster
 ----
-Region: Devon
+region: Devon
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/basingstoke-to-salisbury-and-exeter
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 2,896.
 ----
-Text: Situated on the river Axe. Some of the best and finest description of carpets are made here.
+text: Situated on the river Axe. Some of the best and finest description of carpets are made here.

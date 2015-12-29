@@ -1,17 +1,17 @@
-Section: 1
+section: 1
 ----
-Title: Snodland
+title: Snodland
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/strood-to-maidstone-and-paddock-wood
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 ----
-Text: In the vicinity are *Burham* and *Burling*, in the church of which are buried many of the Sayes and Nevilles, to whom there are brasses. The farm called Comfort and Billing Place, with its gate and ruins, were their seats, On the banks of the Medway near, are the Episcopal ruins of *Hailing*.
+text: In the vicinity are *Burham* and *Burling*, in the church of which are buried many of the Sayes and Nevilles, to whom there are brasses. The farm called Comfort and Billing Place, with its gate and ruins, were their seats, On the banks of the Medway near, are the Episcopal ruins of *Hailing*.
 
 Soon after leaving Snodland the train crosses the Medway, and we arrive, at [Aylesford](/stations/aylesford).

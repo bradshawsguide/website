@@ -1,10 +1,10 @@
-Title: London Bridge to Hampton Court
+title: London Bridge to Hampton Court
 ----
-Company: London
+company: London
 ----
-Destination: Hampton Court
+destination: Hampton Court
 ----
-Text: <span id="the-bridges">**The Bridges.**</span>--Beyond the dates of their erection and completion, we can add but few particulars to these convenient communications from shore to shore, we therefore present at once the most important facts necessary to be known concerning them,
+text: <span id="the-bridges">**The Bridges.**</span>--Beyond the dates of their erection and completion, we can add but few particulars to these convenient communications from shore to shore, we therefore present at once the most important facts necessary to be known concerning them,
 
 1. *London:* five stone arches, by Rennie, 1831.
    [1*. Tubular Bridge, building for the Cannon Street branch of the [South Eastern](/companies/south-eastern) rail; to be three-spans, of 210, 240, and 210 feet]

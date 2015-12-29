@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Tunbridge Wells
+title: Tunbridge Wells
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/tunbridge-to-hastings
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : about 13,867.
@@ -27,7 +27,7 @@ Post Horses, Flys, &c
 Market Days.--
 : Daily.
 ----
-Text: This town is, with the exception of Bath, the most ancient of the inland watering places. Nature has eminently favoured it by the salubrity of its air, the potency of its mineral springs, and the adjacent appendages of romantic and agreeable scenery. Dudley Lord North, a young nobleman of the Court of James I., whilst on a visit to Bridge House, happened to taste the waters, and these renovating a constitution impaired by too much indulgence, caused him to bring the place into fashionable repute. From that time visitors gradually increased, streets were laid out, lodging-houses built, and now, though the caprice of fashion has somewhat depreciated the fame of our own spas, Tunbridge Wells may still boast a large share of patronage in the season, which extends from May till November. 
+text: This town is, with the exception of Bath, the most ancient of the inland watering places. Nature has eminently favoured it by the salubrity of its air, the potency of its mineral springs, and the adjacent appendages of romantic and agreeable scenery. Dudley Lord North, a young nobleman of the Court of James I., whilst on a visit to Bridge House, happened to taste the waters, and these renovating a constitution impaired by too much indulgence, caused him to bring the place into fashionable repute. From that time visitors gradually increased, streets were laid out, lodging-houses built, and now, though the caprice of fashion has somewhat depreciated the fame of our own spas, Tunbridge Wells may still boast a large share of patronage in the season, which extends from May till November. 
 
 The town is built upon a sandy soil, and is divided into five districts called respectively Mount Ephraim, Mount Pleasant, Mount Sion, the Wells, and the Sew, at the latter of which a new church (St. John's) has been built. The town has been much modernised of late years, the Parade alone evincing any symptoms of antiquity. The houses are chiefly detached villas with lawns in front, and large gardens in the rear. Those that are situated on the mounts have extensive views, that combine hill and dale, forests and fields, commons, meadows, and corn lands, with a large tract of hop-grounds. The drinking springs rise at the end of the Parade, close to the Post Office, which has a row of trees on one side, and a colonnade with shops on the other. The water is a strong chalybeate, and possesses great tonic power, but ought not to be taken without medical advice. A band plays three times a day on the Parade in the season, from July until November.
 

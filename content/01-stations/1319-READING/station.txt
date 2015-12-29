@@ -1,17 +1,17 @@
-Section: 2
+section: 2
 ----
-Title: Reading
+title: Reading
 ----
-Region: Berkshire
+region: Berkshire
 ----
-Company:
+company:
 - companies/south-eastern
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/reigate-to-reading
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
-Meta:
+meta:
 ----
-Text: &#32;
+text: &#32;

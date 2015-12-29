@@ -1,5 +1,5 @@
-Title: Berkshire
+title: Berkshire
 ----
-Country: England
+country: England
 ----
-Text:
+text:

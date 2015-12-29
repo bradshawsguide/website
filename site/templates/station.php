@@ -2,8 +2,9 @@
 <article class="h-entry">
     <header>
         <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
+        <?php $region = $page->region(); ?>
         <nav>
-            <a rel="up" href="<?= $pages->index()->findBy('title', 'Sussex')->url(); ?>"><?= smartypants($page->region()) ?></a>
+            <a rel="up" href="<?= $pages->index()->findBy('title', "$region")->url(); ?>"><?= smartypants($region) ?></a>
         </nav>
     </header>
 

@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Brighton to Worthing, Chichester and Portsmouth
+title: Brighton to Worthing, Chichester and Portsmouth
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
 
-Related:
+related:
 - (wikipedia: West Coastway Line)
 ----
-Destination: Worthing, Chichester and Portsmouth
+destination: Worthing, Chichester and Portsmouth
 ----
-Text: On leaving the terminus the line turns off abruptly towards the east, and passing through the New England tunnel, cut in the chalk cliff beneath Henfield Road, reaches the station at [Hove](/stations/hove).
+text: On leaving the terminus the line turns off abruptly towards the east, and passing through the New England tunnel, cut in the chalk cliff beneath Henfield Road, reaches the station at [Hove](/stations/hove).

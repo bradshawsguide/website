@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Richmond
+title: Richmond
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
-Meta: Distance from station, ½ mile.
+meta: Distance from station, ½ mile.
 
 A telegraph station.
 
@@ -26,7 +26,7 @@ Omnibuses
 Steam Vessels
 : from London, calling at Putney, Hammersmith Bridge, and Kew, daily in summer.
 ----
-Text: Richmond is a delightful town in Surrey, on the South Western Railway and the river Thames, 10 miles from London, in the midst of scenery which, though often praised and admired, never grows old or wearisome. It may be also reached by the omnibus from St. Paul's, every hour and half hour, or by the Hampton Court steamer from London and Hungerford Bridges. The last way is the best, for enjoying the scenery of the river above Richmond; but the shoals and the long bends or reaches make it rather tedious, especially at low tides. The town stands on an eminence on, the south bank of the Thames--it extends about a mile up the hill--and is skirted and intermingled with agreeable gardens.
+text: Richmond is a delightful town in Surrey, on the South Western Railway and the river Thames, 10 miles from London, in the midst of scenery which, though often praised and admired, never grows old or wearisome. It may be also reached by the omnibus from St. Paul's, every hour and half hour, or by the Hampton Court steamer from London and Hungerford Bridges. The last way is the best, for enjoying the scenery of the river above Richmond; but the shoals and the long bends or reaches make it rather tedious, especially at low tides. The town stands on an eminence on, the south bank of the Thames--it extends about a mile up the hill--and is skirted and intermingled with agreeable gardens.
 
 Richmond had a royal palace from the tune of Edward I., called *Sheen*, i.e. Shining, till Henry VII. gave it the title which he bore as Earl of Richmond, borrowed from his castle of that name in Yorkshire, and revived by Charles I. for the ancestor of the Lennox family. Both places are seated on a high point, "Riche-mont," overlooking a vast range of country. A brick gate and some old walls on one side of the Green are the sole remnants of the palace, which Henry VIII. gave to Wolsey in exchange for Hampton Court, but as it soon returned to the crown it became the residence of Elizabeth, who died here in 1603, and of Henrietta Maria, the queen of Charles I. On the green in front tournaments were held before Henry VII. and Henry VIII. This place is also noted for having had the earliest calico print works established in it (1696) by a Frenchman--these have since thriven in a more congenial spot.
 

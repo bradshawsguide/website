@@ -1,18 +1,18 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Poole Junction
+title: Poole Junction
 ----
-ShortTitle: Poole Jct.
+short_title: Poole Jct.
 ----
-Region: Dorsetshire
+region: Dorsetshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/poole-junction-to-poole
 ----
-Meta:
+meta:
 ----
-Text: A *branch rail* of 1¾ mile runs to the town of [Poole](/stations/poole).
+text: A *branch rail* of 1¾ mile runs to the town of [Poole](/stations/poole).

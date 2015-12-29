@@ -1,6 +1,6 @@
-Title: London, Brighton, and South Coast Railway
+title: London, Brighton, and South Coast Railway
 ----
-Text: The **London, Brighton and South Coast Railway** (<abbr>LB&SCR</abbr>) (known also as "the Brighton line", "the Brighton Railway" or simply *the Brighton*) operated between 1846 to 1922. Its territory formed a rough triangle, with London at its apex, practically the whole coastline of Sussex as its base, and a large part of Surrey.
+text: The **London, Brighton and South Coast Railway** (<abbr>LB&SCR</abbr>) (known also as "the Brighton line", "the Brighton Railway" or simply *the Brighton*) operated between 1846 to 1922. Its territory formed a rough triangle, with London at its apex, practically the whole coastline of Sussex as its base, and a large part of Surrey.
 
 The <abbr>LB&SCR</abbr> supplied the most direct routes from London to the seaside resorts of [Brighton](/stations/brighton), [Eastbourne](/stations/eastbourne), [Worthing](/stations/worthing), [Littlehampton](/stations/littlehampton) and [Bognor](/stations/bognor), and to the ports of [Newhaven](/stations/newhaven) and [New Shoreham](/stations/new-shoreham). In addition, the company served the inland towns of [Chichester](/stations/chichester), [Horsham](/stations/horsham), [East Grinstead](/stations/east-grinstead) and [Lewes](/stations/lewes), and jointly served [Croydon](/stations/croydon), [Tunbridge Wells](/stations/tunbridge-wells), [Dorking](/stations/dorking) and [Guildford](/stations/guildford). At the London end was a complicated suburban and outer-suburban network of lines, emanating from London Bridge and Victoria stations, as well as shared interests in two cross-London lines.
 

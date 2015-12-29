@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Croydon to Wimbledon
+title: Croydon to Wimbledon
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
 
-Related:
+related:
 - (wikipedia: West Croydon to Wimbledon Line)
 ----
-Destination: Wimbledon
+destination: Wimbledon
 ----
-Text: The first stations being [Beddington](/stations/beddington) and [Mitcham](/stations/mitcham), both on the river Wandle. The church of the latter is worth a visit. We then approach the station of [Morden](/stations/morden).
+text: The first stations being [Beddington](/stations/beddington) and [Mitcham](/stations/mitcham), both on the river Wandle. The church of the latter is worth a visit. We then approach the station of [Morden](/stations/morden).

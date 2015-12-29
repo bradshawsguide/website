@@ -1,17 +1,17 @@
-Section: 1
+section: 1
 ----
-Title: Ewell
+title: Ewell
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/croydon-to-epsom
 - routes/wimbledon-to-epsom-and-leatherhead
 ----
-Meta:
+meta:
 ----
-Text: A small town with some little trade, and a very large sheep fair. The church has some curious monuments.
+text: A small town with some little trade, and a very large sheep fair. The church has some curious monuments.

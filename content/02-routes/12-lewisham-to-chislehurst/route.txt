@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Lewisham to Chislehurst
+title: Lewisham to Chislehurst
 ----
-Company: South Eastern Railway
+company: South Eastern Railway
 ----
-Destination: Chislehurst
+destination: Chislehurst
 ----
-Text: From [New Cross](/stations/new-cross) a short line of about six miles runs down by *Birkley Park* to [Chislehurst](/stations/chislehurst).
+text: From [New Cross](/stations/new-cross) a short line of about six miles runs down by *Birkley Park* to [Chislehurst](/stations/chislehurst).

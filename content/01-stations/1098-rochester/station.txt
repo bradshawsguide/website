@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Rochester
+title: Rochester
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 - routes/london-to-chatham-and-dover
 ----
-Meta: Telegraph station at Strood, ¼ mile.
+meta: Telegraph station at Strood, ¼ mile.
 
 Hotels.--
 : Victoria and Bull Inns; Crown.
@@ -26,7 +26,7 @@ Market Days.--
 Fairs.--
 : May 15th, 19th; September, each three days. August 26th, 27th, and 28th.
 ----
-Text: At Rochester, which has a population of 16,862 and returns two members, some projecting gable houses are to be seen in the High Street, with an old town-hall, built 1687; Sir C. Shovel's clock-house; Watt's alms-house for poor travellers, "not being rogues or proctors;" Henry VIII.'s grammar school; and St. Nicholas Church, built 1421.
+text: At Rochester, which has a population of 16,862 and returns two members, some projecting gable houses are to be seen in the High Street, with an old town-hall, built 1687; Sir C. Shovel's clock-house; Watt's alms-house for poor travellers, "not being rogues or proctors;" Henry VIII.'s grammar school; and St. Nicholas Church, built 1421.
 
 It is an ancient borough town in the county of Kent, having been a British town before the Roman invasion, and stands in a rich vale on the banks of the Medway, on an angle of land formed by that river. On the cast it is connected by a continued range of buildings with the town of Chatham, and on the west by the village of Strood. The three places form almost a continuous line of houses, and are often collectively called the "Three Towns."
 

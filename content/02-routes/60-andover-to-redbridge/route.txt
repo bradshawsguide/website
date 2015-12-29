@@ -1,12 +1,12 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Andover to Redbridge
+title: Andover to Redbridge
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Related:
+related:
 - (wikipedia: Sprat and Winkle Line)
 ----
-Destination: Redbridge
+destination: Redbridge
 ----
-Text:
+text:

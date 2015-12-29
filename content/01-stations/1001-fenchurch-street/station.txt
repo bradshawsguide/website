@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Fenchurch Street
+title: Fenchurch Street
 ----
-Region: Middlesex
+region: Middlesex
 ----
-Company:
+company:
 - companies/london-and-blackwall
 - companies/london-tilbury-and-southend
 ----
-Route:
+route:
 - routes/fenchurch-street-to-blackwall
 - routes/bow-to-chalk-farm
 - routes/fenchurch-street-to-tilbury-and-southend
 ----
-Meta:
+meta:
 ----
-Text:
+text:

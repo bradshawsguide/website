@@ -1,23 +1,23 @@
-Section: 1
+section: 1
 ----
-Title: Weybridge
+title: Weybridge
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/weybridge-to-chertsey
 ----
-Meta: Distance from station, ¾ mile.
+meta: Distance from station, ¾ mile.
 
 A telegraph station.
 
 Hotels.--
 : Hand and Spear, Ship.
 ----
-Text: Here is a commodious hotel adjoining the station, with some extensive grounds. The scenery in this neighbourhood is beautiful, and St George's Hill commands a delightful view of Windsor, Richmond, and Chertsey.
+text: Here is a commodious hotel adjoining the station, with some extensive grounds. The scenery in this neighbourhood is beautiful, and St George's Hill commands a delightful view of Windsor, Richmond, and Chertsey.
 
 A little distance beyond Weybridge station a short line branches off to [Addlestone](/stations/addlestone) and [Chertsey](/stations/chertsey).

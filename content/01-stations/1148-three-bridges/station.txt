@@ -1,17 +1,17 @@
-Section: 1
+section: 1
 ----
-Title: Three Bridges
+title: Three Bridges
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/london-to-brighton
 - routes/three-bridges-to-horsham-and-arundel
 - routes/three-bridges-to-east-grinstead
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 ----
-Text: This is the junction point of the [Horsham Branch](/routes/three-bridges-to-horsham-and-arundel).
+text: This is the junction point of the [Horsham Branch](/routes/three-bridges-to-horsham-and-arundel).

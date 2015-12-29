@@ -1,8 +1,8 @@
-Title: Colophon
+title: Colophon
 ----
-Type: child
+type: child
 ----
-Text: Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Ireland</cite> by George Bradshaw, published in Great Britain in 1866. Identified as being in the public domain, content is [free of known copyright restrictions](http://creativecommons.org/publicdomain/mark/1.0/).
+text: Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Ireland</cite> by George Bradshaw, published in Great Britain in 1866. Identified as being in the public domain, content is [free of known copyright restrictions](http://creativecommons.org/publicdomain/mark/1.0/).
 
 Note: Typographical errors appearing in the original have been corrected, with the exception of instances where the common spelling of a Victorian word appears to differ from the modern-day equivalent. Examples include chimnies and Shakspeare.
 

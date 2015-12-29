@@ -1,19 +1,19 @@
-Section: 1
+section: 1
 ----
-Title: Canterbury
+title: Canterbury
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/london-to-chatham-and-dover
 - routes/ashford-to-canterbury-and-ramsgate
 - routes/canterbury-to-whitstable
 ----
-Meta: In the western suburb. A telegraph station,
+meta: In the western suburb. A telegraph station,
 
 Population,
 : 21,324.
@@ -30,7 +30,7 @@ Market Days.--
 Fairs.--
 : May 4th and October 11th.
 ----
-Text: The appearance of Canterbury, from whatever part approached, is exquisitely beautiful, and as we enter, symbols of its antiquity stare us in the face everywhere; narrow passages, crazy tenements, with over-hanging windows, peaked gables, and wooden balustrades, jut out on every side. Here and there some formless sculpture of a fractured cherub or grotesque image, peer out from a creaking doorway. Crypts and vaults seem natural to every house, and yet withal, an air of liveliness pervades the town, that renders the contrast truly pleasing and striking. The city lies in a fertile vale, sheltered by gently rising hills, from which streams of excellent water are derived.
+text: The appearance of Canterbury, from whatever part approached, is exquisitely beautiful, and as we enter, symbols of its antiquity stare us in the face everywhere; narrow passages, crazy tenements, with over-hanging windows, peaked gables, and wooden balustrades, jut out on every side. Here and there some formless sculpture of a fractured cherub or grotesque image, peer out from a creaking doorway. Crypts and vaults seem natural to every house, and yet withal, an air of liveliness pervades the town, that renders the contrast truly pleasing and striking. The city lies in a fertile vale, sheltered by gently rising hills, from which streams of excellent water are derived.
 
 When Becket was murdered here, 1170, in the great contest between the civil and ecclesiastical powers, Canterbury became the centre of pilgrimages from all quarters of Christendom to his shrine. Many old timbered houses, and small ancient roughcast churches are seen here; but the noble
 

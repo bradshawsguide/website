@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Bracknell
+title: Bracknell
 ----
-Region: Berkshire
+region: Berkshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
-Meta:
+meta:
 ----
-Text: Containing a population of 108. It has a pretty modern church, built by Coe.
+text: Containing a population of 108. It has a pretty modern church, built by Coe.

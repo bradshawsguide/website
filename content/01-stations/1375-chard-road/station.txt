@@ -1,18 +1,18 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Chard Road
+title: Chard Road
 ----
-ShortTitle: Chard Rd.
+short_title: Chard Rd.
 ----
-Region: Somerset
+region: Somerset
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/basingstoke-to-salisbury-and-exeter
 - routes/chard-road-to-chard
 ----
-Meta:
+meta:
 ----
-Text: A branch of the railway diverges to the right, three miles long, to the town of [Chard](/stations/chard).
+text: A branch of the railway diverges to the right, three miles long, to the town of [Chard](/stations/chard).

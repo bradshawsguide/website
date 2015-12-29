@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Queenborough
+title: Queenborough
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/sittingbourne-to-sheerness
 ----
-Meta:
+meta:
 ----
-Text:
+text:

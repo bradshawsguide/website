@@ -1,17 +1,17 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Ringwood
+title: Ringwood
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/ringwood-to-christchurch
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 On the borders of the New Forest.
 
@@ -24,4 +24,4 @@ Market Day.--
 Fairs.--
 : July 10th and December 11th.
 ----
-Text: The town is situated on the Avon, on the borders of the New Forest, and forms the junction of a short line, about seven miles in length.
+text: The town is situated on the Avon, on the borders of the New Forest, and forms the junction of a short line, about seven miles in length.

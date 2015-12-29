@@ -1,12 +1,12 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: London to Brighton
+title: London to Brighton
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
-Destination: Brighton
+destination: Brighton
 ----
-Text: ## London to Croydon
+text: ## London to Croydon
 
 The London terminus of the Brighton Railway, though approached by the same line as the South Eastern Railway, is a distinct building, occupying a considerable place to the south, at the right hand or furthest corner of the fabric, and embraces in its arrangements every thing calculated to promote the convenience of the passengers, and all that can contribute to their security. This company conveys the traffic of the counties of Surrey and Sussex, and also that with France, *via* Newhaven and Dieppe; also the passengers of the Sydenham Railway to and from the Crystal Palace.
 

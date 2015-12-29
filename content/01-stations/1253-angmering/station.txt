@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Angmering
+title: Angmering
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 ----
-Meta: Telegraph station at Ford, 4 miles.
+meta: Telegraph station at Ford, 4 miles.
 
 Money Order Office
 : at Arundel.
 ----
-Text: A short distance to the north is *Angmering Park* and *Michel Grove*. The line still proceeding through a fine and highly cultivated country, passes the villages of *Poleing* and *Leominster*, at the latter of which there is a curious old church, and arrives at [Littlehampton](/stations/littlehampton).
+text: A short distance to the north is *Angmering Park* and *Michel Grove*. The line still proceeding through a fine and highly cultivated country, passes the villages of *Poleing* and *Leominster*, at the latter of which there is a curious old church, and arrives at [Littlehampton](/stations/littlehampton).

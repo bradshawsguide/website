@@ -1,16 +1,16 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Poole
+title: Poole
 ----
-Region: Dorsetshire
+region: Dorsetshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/poole-junction-to-poole
 ----
-Meta: Distance from station, 2 miles.
+meta: Distance from station, 2 miles.
 
 A telegraph station.
 
@@ -26,7 +26,7 @@ Market Days.--
 Fairs.--
 : May 1st, and November 2nd.
 ----
-Text: A Dorsetshire borough and port, on the South-Western Railway, 122 miles from London, by a small branch out of the main line. The neighbourhood is a dreary plain of sand and furze. Population 9,759, who return two members. Having been founded since the Conquest, it is a comparatively modern town, but has always preserved a respectable position as a third or fourth class port.
+text: A Dorsetshire borough and port, on the South-Western Railway, 122 miles from London, by a small branch out of the main line. The neighbourhood is a dreary plain of sand and furze. Population 9,759, who return two members. Having been founded since the Conquest, it is a comparatively modern town, but has always preserved a respectable position as a third or fourth class port.
 
 The harbour, though six or seven miles long, and nearly as broad (when the tide is up) is choked with sand, but there is a good deep-water channel inside the bar. Salt fish and American timber are imported; and one of the chief exports is potters' clay from Purbeck, of so good a quality that it is proposed to establish potteries on a great scale here--especially as the transit for coal is now easy and direct. There are two miles of quay room. Here Charles X. landed 1830, after his flight from Paris.
 

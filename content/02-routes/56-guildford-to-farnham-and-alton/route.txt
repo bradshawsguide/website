@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Guildford to Farnham and Alton
+title: Guildford to Farnham and Alton
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Farnham, Alton and Winchester
+destination: Farnham, Alton and Winchester
 ----
-Text: &#32;
+text: &#32;

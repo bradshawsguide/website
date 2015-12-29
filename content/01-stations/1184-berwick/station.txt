@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Berwick
+title: Berwick
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/haywards-heath-to-lewes-and-hastings
 ----
-Meta: Telegraph station at Polegate, 4 miles.
+meta: Telegraph station at Polegate, 4 miles.
 
 Hotel.--
 : Fuller's Arms.
@@ -18,6 +18,6 @@ Hotel.--
 Money Order Office
 : at Eastbourne.
 ----
-Text: A little to the north of the village of the same name.
+text: A little to the north of the village of the same name.
 
 Four miles beyond, the line reaches the station at [Polegate](/stations/polegate).

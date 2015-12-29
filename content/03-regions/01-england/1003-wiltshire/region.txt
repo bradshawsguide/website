@@ -1,5 +1,5 @@
-Title: Wiltshire
+title: Wiltshire
 ----
-Country: England
+country: England
 ----
-Text:
+text:

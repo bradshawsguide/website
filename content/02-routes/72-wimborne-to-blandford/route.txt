@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Wimborne to Blandford
+title: Wimborne to Blandford
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Blandford
+destination: Blandford
 ----
-Text: Branch line to Blandford.
+text: Branch line to Blandford.

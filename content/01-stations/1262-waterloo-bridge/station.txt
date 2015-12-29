@@ -1,19 +1,19 @@
-Section: 1
+section: 1
 ----
-Title: Waterloo Bridge
+title: Waterloo Bridge
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/london-to-richmond-staines-wokingham-and-reading
 ---- 
-Related:
+related:
 - (wikipedia: London Waterloo railway station)
 ----
-Meta:
+meta:
 ----
-Text: The <span class="smcp">Metropolitan terminus</span> of the [South Western](/companies/london-and-south-western) is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company.
+text: The <span class="smcp">Metropolitan terminus</span> of the [South Western](/companies/london-and-south-western) is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company.

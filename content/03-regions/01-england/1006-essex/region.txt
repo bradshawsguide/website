@@ -1,5 +1,5 @@
-Title: Essex
+title: Essex
 ----
-Country: England
+country: England
 ----
-Text:
+text:

@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Wokingham
+title: Wokingham
 ----
-Region: Berkshire
+region: Berkshire
 ----
-Company:
+company:
 - companies/south-eastern
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/reigate-to-reading
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 2,404.
@@ -26,7 +26,7 @@ Post Horses, Flys, &c
 Fair.--
 : Whit Tuesday.
 ----
-Text: Wokingham is situated on the River Wey, on the borders of Windsor Forest. The town consists of three streets, with a handsome new Town Hall (modern Gothic) and Market Place in the centre. The Parish Church is picturesque, and undergoing restoration. A new church is also being built by J. Walter, Esq., proprietor of the Times. The railways have given considerable impetus to trade here, and house property has become valuable.
+text: Wokingham is situated on the River Wey, on the borders of Windsor Forest. The town consists of three streets, with a handsome new Town Hall (modern Gothic) and Market Place in the centre. The Parish Church is picturesque, and undergoing restoration. A new church is also being built by J. Walter, Esq., proprietor of the Times. The railways have given considerable impetus to trade here, and house property has become valuable.
 
 From this station the railway passes that of [Earley](/stations/earley) and over a level but highly cultivated country, interspersed with villages and country-seats, until it reach the terminus at [Reading](/stations/reading).
 ----

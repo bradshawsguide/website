@@ -1,19 +1,19 @@
-Section: 1
+section: 1
 ----
-Title: Strood
+title: Strood
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 - routes/london-to-chatham-and-dover
 - routes/strood-to-maidstone-and-paddock-wood
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotel.--
 : Old George.
@@ -21,4 +21,4 @@ Hotel.--
 Steam Boats
 : to Sheerness several times daily.
 ----
-Text: A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](/stations/rochester).
+text: A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](/stations/rochester).

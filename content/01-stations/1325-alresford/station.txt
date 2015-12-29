@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Alresford
+title: Alresford
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/guildford-to-farnham-and-alton
 ----
-Meta:
+meta:
 ----
-Text:
+text:

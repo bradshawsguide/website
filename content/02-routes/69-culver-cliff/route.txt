@@ -1,12 +1,12 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Third Route--Culver Cliff, through the centre of the the Island
+title: Third Route--Culver Cliff, through the centre of the the Island
 ----
-Company: Isle of Wight
+company: Isle of Wight
 ----
-Destination: Centre of the the Island
+destination: Centre of the the Island
 ----
-Text: This route, seldom taken by visitors, but a most attractive one for walkers, is towards Head-on-Hill (where fine white sand is dug for the glassmakers), and along the Downs, through the middle of Wight. The distances from Culver Cliff are:--
+text: This route, seldom taken by visitors, but a most attractive one for walkers, is towards Head-on-Hill (where fine white sand is dug for the glassmakers), and along the Downs, through the middle of Wight. The distances from Culver Cliff are:--
 
 <div class="related-distances" markdown="1">
 | To:                           | Miles. |

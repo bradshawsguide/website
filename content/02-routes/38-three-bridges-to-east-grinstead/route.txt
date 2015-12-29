@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Three Bridges to East Grinstead
+title: Three Bridges to East Grinstead
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
-Destination: East Grinstead
+destination: East Grinstead
 ----
-Text: This branch is 68½ miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of [East Grinstead](/stations/east-grinstead).
+text: This branch is 68½ miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of [East Grinstead](/stations/east-grinstead).

@@ -1,5 +1,5 @@
-Title: Buckinghamshire
+title: Buckinghamshire
 ----
-Country: England
+country: England
 ----
-Text:
+text:

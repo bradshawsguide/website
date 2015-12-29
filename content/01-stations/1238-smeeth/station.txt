@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Smeeth
+title: Smeeth
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-Meta:
+meta:
 ----
-Text: In this neighbourhood is *Merstham Hatch*, the property of the Knatchbull family since the reign of Henry VII. The mansion is a modern building, of considerable architectural beauty, situated in a very fine park, and the interior is most elegantly fitted up.
+text: In this neighbourhood is *Merstham Hatch*, the property of the Knatchbull family since the reign of Henry VII. The mansion is a modern building, of considerable architectural beauty, situated in a very fine park, and the interior is most elegantly fitted up.
 
 *Mount Morris*, the seat of Lord Rokeby, is in a splendid park, the heights of which command extensive views of the South Downs, the Channel, and the coast of France.
 

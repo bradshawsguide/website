@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Horsham
+title: Horsham
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/three-bridges-to-horsham-and-arundel
 - routes/horsham-to-guildford
 - routes/horsham-to-steyning-and-shoreham
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 6,747.
@@ -26,4 +26,4 @@ Market Days.--
 Fairs.--
 : April 5th and 18th, July 17th, November 27th, and Monday before Whitsuntide.
 ----
-Text: This town stands on the River Arun, and is considered, in a commercial point of view, one of the most important in the county. The church is a large ancient structure, having some fine old tombs. Here is a fine Gothic court house, a county gaol, built on Howard's plan, and an excellent foundation school of Richard Collier's, founded in 1532.
+text: This town stands on the River Arun, and is considered, in a commercial point of view, one of the most important in the county. The church is a large ancient structure, having some fine old tombs. Here is a fine Gothic court house, a county gaol, built on Howard's plan, and an excellent foundation school of Richard Collier's, founded in 1532.

@@ -1,8 +1,8 @@
-Title: Dorsetshire
+title: Dorsetshire
 ----
-Country: England
+country: England
 ----
-Text: Which is bounded on the north by Wiltshire, on the east by Hampshire, on the west by Devon and part of Somerset, and on the south by the British Channel. Its form is everywhere irregular; its long northern side has a considerable angular projection in the middle; the sea shore on the south runs out into numerous points and headlands, till it stretches to the Isle of Portland; thence westward the coast not so deeply indented, but inclines obliquely towards Devonshire.
+text: Which is bounded on the north by Wiltshire, on the east by Hampshire, on the west by Devon and part of Somerset, and on the south by the British Channel. Its form is everywhere irregular; its long northern side has a considerable angular projection in the middle; the sea shore on the south runs out into numerous points and headlands, till it stretches to the Isle of Portland; thence westward the coast not so deeply indented, but inclines obliquely towards Devonshire.
 
 Great numbers of sheep and oxen are fed in the vale of Blackmore; which is distinguished by its rich pasture. Many of the other vales on the south western side are likewise uncommonly luxuriant. The inhabitants of Dorsetshire have paid great attention to the rearing of sheep, and it has been estimated this county alone produces more than 800,000 of these animals.
 

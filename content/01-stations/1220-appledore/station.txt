@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Appledore
+title: Appledore
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/ashford-to-hastings
 ----
-Meta:
+meta:
 ----
-Text:
+text:

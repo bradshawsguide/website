@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Twickenham to Kingston
+title: Twickenham to Kingston
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Kingston
+destination: Kingston
 ----
-Text:
+text:

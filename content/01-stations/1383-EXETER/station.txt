@@ -1,15 +1,15 @@
-﻿Section: 2
+﻿section: 2
 ----
-Title: Exeter
+title: Exeter
 ----
-Region: Devon
+region: Devon
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/basingstoke-to-salisbury-and-exeter
 ----
-Meta:
+meta:
 ----
-Text: &#32;
+text: &#32;

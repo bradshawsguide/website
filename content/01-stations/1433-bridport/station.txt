@@ -1,13 +1,13 @@
-﻿Section: 2
+﻿section: 2
 ----
-Title: Bridport
+title: Bridport
 ----
-Region: Dorsetshire
+region: Dorsetshire
 ----
-Company:
+company:
 ----
-Route:
+route:
 ----
-Meta:
+meta:
 ----
-Text:
+text:

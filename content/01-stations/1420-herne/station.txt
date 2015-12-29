@@ -1,15 +1,15 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Herne
+title: Herne
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/ringwood-to-christchurch
 ----
-Meta:
+meta:
 ----
-Text: Herne, near to which is Heron Court, the seat of the Earl of Malmesbury. It is in the Elizabethan style of architecture, and has some choice pictures. The railway continues its course along the Avon to [Christchurch](/stations/christchurch).
+text: Herne, near to which is Heron Court, the seat of the Earl of Malmesbury. It is in the Elizabethan style of architecture, and has some choice pictures. The railway continues its course along the Avon to [Christchurch](/stations/christchurch).

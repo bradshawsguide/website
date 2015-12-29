@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Polegate to Eastbourne
+title: Polegate to Eastbourne
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
-Destination: Eastbourne
+destination: Eastbourne
 ----
-Text:
+text:

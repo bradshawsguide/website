@@ -1,18 +1,18 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Porchester
+title: Porchester
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/bishopstoke-to-gosport-and-portsmouth
 ----
-Meta: Telegraph station at Fareham, 3 miles.
+meta: Telegraph station at Fareham, 3 miles.
 
 Money Order Office
 : at Fareham.
 ----
-Text: This place has an ancient castle, which serves for prisoners of war and ordnance stores.
+text: This place has an ancient castle, which serves for prisoners of war and ordnance stores.

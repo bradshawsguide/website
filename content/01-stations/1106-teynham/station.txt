@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Teynham
+title: Teynham
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/london-to-chatham-and-dover
 ----
-Meta: A telegraph station
+meta: A telegraph station
 ----
-Text: In the vicinity of which are *Rodmersham Lodge* (2 miles); *Teynham Lodge* (2½ miles); *Norton Court* (2 miles); and arrive at [Faversham](/stations/faversham).
+text: In the vicinity of which are *Rodmersham Lodge* (2 miles); *Teynham Lodge* (2½ miles); *Norton Court* (2 miles); and arrive at [Faversham](/stations/faversham).

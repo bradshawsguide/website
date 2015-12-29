@@ -1,7 +1,7 @@
-Title: Middlesex
+title: Middlesex
 ----
-Country: England
+country: England
 ----
-Text: Is a very important inland county, containing, with the British Capital, much of the wealth and political influence of the inhabitants of these realms.
+text: Is a very important inland county, containing, with the British Capital, much of the wealth and political influence of the inhabitants of these realms.
 
 Middlesex, from its gently waving surface, is particularly suited for agriculture. For the most part, the ground rises from the banks of the Thames towards the north; and within a few miles from London, a range of gently swelling eminences, of which Hampstead, Highgate, and Muswell Hill, are the chief, protects the metropolis from the northern blasts. These heights afford many pleasing arid extensive prospects; and some equally extended views may be obtained from Harrow Hill, which from rising in a sort of insulated manner, forms a prominent object for many miles around. Middlesex is a well cultivated county; the vast quantities of manure from the metropolis have been of great service in improving the land; and on this account the produce is some weeks earlier within a few miles contiguous to London, than at a more considerable distance. No important metallic strata have been discovered in any part of the county; and appearances indicate that they lie at a depth much too great to be made subject to the operations of the miner.

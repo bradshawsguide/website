@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Ashford
+title: Ashford
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 - routes/ashford-to-canterbury-and-ramsgate
 - routes/ashford-to-hastings
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 5,522.
@@ -26,7 +26,7 @@ Market Days.--
 Fairs.--
 : May 17th, September 12th, and October 24th for horses, cattle, and pedlery.
 ----
-Text: This was a quiet agricultural town in East Kent till the South Eastern Railway Company made it the chief station for their works, since which the population has greatly increased. It is on the Stour, at the junction of the branches to Canterbury, Margate, and Hastings, with the main line to Dover, from which it is 21 miles. Among the buildings erected by the Company are a carriage house 645 ft. long; a repairing shop, 395 ft. by 45; an engine room 210 ft. by 63; besides factories for wheels, boilers, &e. Such is the wear and tear a wheel undergoes that it requires to be fresh turned after every 2,000 miles of travelling A church has also been built for their workmen, by the Company. The parish church is a large and handsome edifice, in the Gothic style, containing several brass and stone monuments of the families of the neighbourhood--as the Smythes of Westenhanger, the Fogges of Repton, &c.
+text: This was a quiet agricultural town in East Kent till the South Eastern Railway Company made it the chief station for their works, since which the population has greatly increased. It is on the Stour, at the junction of the branches to Canterbury, Margate, and Hastings, with the main line to Dover, from which it is 21 miles. Among the buildings erected by the Company are a carriage house 645 ft. long; a repairing shop, 395 ft. by 45; an engine room 210 ft. by 63; besides factories for wheels, boilers, &e. Such is the wear and tear a wheel undergoes that it requires to be fresh turned after every 2,000 miles of travelling A church has also been built for their workmen, by the Company. The parish church is a large and handsome edifice, in the Gothic style, containing several brass and stone monuments of the families of the neighbourhood--as the Smythes of Westenhanger, the Fogges of Repton, &c.
 
 Three miles N.E. is **Eastwell Park**, the seat of the Earl of Winchelsea, standing on a ridge which commands a view of the Thames on one side and the British Channel on the other. There is an extensive lake in the park, with a pretty model ship of war floating on it, fully rigged. The church contains many tombs of the Finches and Moyles; but the most remarkable monument is that to Richard Plantagenet, the last descendant of that royal house, who died here in obscurity as a bricklayer to the Moyles, 22nd Dec., 1550. His name is inserted in the register book under that date. The story concerning him is that he never knew who his father was till the battle of Bosworth Field, when he was taken into Leicestershire, and carried to Richard III.'s tent. The king embraced him and told him he was his son. <q>But child (says he), to-morrow I must fight for my crown, and if I lose that I will lose my life too. If I should be so unfortunate, shift as well as you can, and take care to let nobody know that I am your father, for no mercy will be shown any one so near to me.</q> When the battle was lost he sold his horse and fine clothes, and, to hide all suspicion of his descent, put himself apprentice to a bricklayer. In this situation he was discovered reading: a Latin book by his employer Sir T. Moyle, to whom he told his secret as it has come down to us. Not long ago there was a brick house in the park built by Richard. His singular fate is the subject of a very charming book called the <cite>Last of the Plantagenets.</cite>
 

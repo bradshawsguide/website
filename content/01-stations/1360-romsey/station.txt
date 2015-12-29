@@ -1,16 +1,16 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Romsey
+title: Romsey
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/bishopstoke-to-salisbury
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotel.--
 : White Horse.
@@ -21,7 +21,7 @@ Market Day.--
 Fates.--
 : Easter Monday, August 16th, November 18th, and every Tuesday fortnight, from July 31st to December 25th.
 ----
-Text: Like many other places of great antiquity, Romsey owes its foundation to a monastic establishment. Edward here founded a Benedictine abbey on a very extensive scale and appointed his daughter abbess.
+text: Like many other places of great antiquity, Romsey owes its foundation to a monastic establishment. Edward here founded a Benedictine abbey on a very extensive scale and appointed his daughter abbess.
 
 It was enlarged by Edgar, whose son's remains were interred in its church. Romsey suffered considerably during the incursions of the Danes, who sacked the town and plundered the abbey in the 10th century. Although mentioned in Domesday Book, its first charter of incorporation only dates as far back as the reign of James I.
 

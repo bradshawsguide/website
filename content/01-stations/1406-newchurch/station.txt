@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Newchurch
+title: Newchurch
 ----
-Region: Isle of Wight
+region: Isle of Wight
 ----
-Company:
+company:
 ----
-Route:
+route:
 - routes/ryde-to-newchurch
 ----
-Meta: Distance from station at Sandown, 3 miles.
+meta: Distance from station at Sandown, 3 miles.
 
 Telegraph station at Newport, 6 miles.
 
@@ -19,7 +19,7 @@ Coaches
 Money Order Office
 : at Newport.
 ----
-Text: Newchurch, with its white spire, stands at the end of a short village, near the stream which runs into Brading harbour. The parish is the largest in the island, with a population of 14,003, stretching across it so as to take in both Ryde and Ventnor. Fine views on both sides of the Down, which is 6 miles from Ryde.
+text: Newchurch, with its white spire, stands at the end of a short village, near the stream which runs into Brading harbour. The parish is the largest in the island, with a population of 14,003, stretching across it so as to take in both Ryde and Ventnor. Fine views on both sides of the Down, which is 6 miles from Ryde.
 ----
 Distances:
 

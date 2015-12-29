@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Yalding
+title: Yalding
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/strood-to-maidstone-and-paddock-wood
 ----
-Meta: Distance from station, 1½ mile.
+meta: Distance from station, 1½ mile.
 
 A telegraph station.
 
@@ -20,4 +20,4 @@ Fair.--
 Money Order Office
 : at Maidstone.
 ----
-Text: The village of Yalding is not remarkable for anything of interest to the traveller. A short distance from it are Yalding Downs and Barnes Hill; and to the left of the station there are several country seats and mansions, in most beautiful parks.
+text: The village of Yalding is not remarkable for anything of interest to the traveller. A short distance from it are Yalding Downs and Barnes Hill; and to the left of the station there are several country seats and mansions, in most beautiful parks.

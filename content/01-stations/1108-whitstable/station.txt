@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Whitstable
+title: Whitstable
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/faversham-to-ramsgate
 - routes/canterbury-to-whitstable
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotels.--
 : Two Brewers; Bear and Key.
@@ -23,7 +23,7 @@ Omnibuses
 Fair.--
 : Thursday before Whit-Sunday.
 ----
-Text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
+text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
 ----
 Distances:
 

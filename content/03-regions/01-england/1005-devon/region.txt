@@ -1,5 +1,5 @@
-Title: Devon
+title: Devon
 ----
-Country: England
+country: England
 ----
-Text:
+text:

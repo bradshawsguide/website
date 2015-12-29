@@ -1,20 +1,20 @@
-Section: 1
+section: 1
 ----
-Title: East Farleigh
+title: East Farleigh
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/strood-to-maidstone-and-paddock-wood
 ----
-Meta: Is close to the bridge over the Medway.
+meta: Is close to the bridge over the Medway.
 
 A telegraph station.
 
 Money Order Office
 : at Maidstone.
 ----
-Text: Two miles beyond this the train enters the present terminus of this line at Maidstone. It is a very neat and commodious structure, within a few minutes' walk of the High-street.
+text: Two miles beyond this the train enters the present terminus of this line at Maidstone. It is a very neat and commodious structure, within a few minutes' walk of the High-street.

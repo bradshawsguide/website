@@ -1,17 +1,17 @@
-Title: Bradshaw's Guide for Tourists in Great Britain & Ireland
+title: Bradshaw's Guide for Tourists in Great Britain & Ireland
 ----
-ShortTitle: Bradshaw's
+short_title: Bradshaw's
 ----
-Author: George Bradshaw
+author: George Bradshaw
 ----
-Publisher: Paul Robert Lloyd
+publisher: Paul Robert Lloyd
 ----
-PublisherURL: https://paulrobertlloyd.com/
+publisher-url: https://paulrobertlloyd.com/
 ----
-License: Public domain
+license: Public domain
 ----
-LicenseURL: http://creativecommons.org/publicdomain/mark/1.0/
+license-url: http://creativecommons.org/publicdomain/mark/1.0/
 ----
-Description: Bradshaw's Guide for Tourists in Great Britain & Ireland, (in four sections), adapted to the railway system, complete with maps, plans of towns, & pictorial illustrations.
+description: Bradshaw's Guide for Tourists in Great Britain & Ireland, (in four sections), adapted to the railway system, complete with maps, plans of towns, & pictorial illustrations.
 ----
-Keywords: railway, guide,
+keywords: railway, guide,

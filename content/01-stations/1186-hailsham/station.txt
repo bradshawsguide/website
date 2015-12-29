@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Hailsham
+title: Hailsham
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/polegate-to-hailsham
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotels.--
 : Turmunus, George, and Crown.
@@ -21,4 +21,4 @@ Market Day.--
 Fairs.--
 : April 6th and June 3rd.
 ----
-Text: Hailsham, three miles from the junction, is a quiet little market town, situated on a gentle declivity. It has the remains of a priory, and the pinnacled church of Edward III's time is rather handsome.
+text: Hailsham, three miles from the junction, is a quiet little market town, situated on a gentle declivity. It has the remains of a priory, and the pinnacled church of Edward III's time is rather handsome.

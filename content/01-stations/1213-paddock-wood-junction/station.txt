@@ -1,24 +1,24 @@
-Section: 1
+section: 1
 ----
-Title: Paddock Wood Junction
+title: Paddock Wood Junction
 ----
-ShortTitle: Paddock Wood Jct.
+short_title: Paddock Wood Jct.
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 - routes/strood-to-maidstone-and-paddock-wood
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Money Order Office
 : at Tunbridge
 ----
-Text:
+text:
 ----
 Distances:
 

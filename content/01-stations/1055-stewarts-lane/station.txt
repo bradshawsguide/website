@@ -1,17 +1,17 @@
-Section: 1
+section: 1
 ----
-Title: Stewart's Lane
+title: Stewart's Lane
 ----
-ShortTitle: Stewart's Ln.
+short_title: Stewart's Ln.
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/victoria-to-herne-hill
 ----
-Meta: 
+meta: 
 ----
-Text: 
+text: 

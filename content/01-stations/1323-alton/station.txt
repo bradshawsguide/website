@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Alton
+title: Alton
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/guildford-to-farnham-and-alton
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 3,286.
@@ -24,4 +24,4 @@ Market Day.--
 Fairs.--
 : Last Saturday In April, July 5th, and September 29th.
 ----
-Text:
+text:

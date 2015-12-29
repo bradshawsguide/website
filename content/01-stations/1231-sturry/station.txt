@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Sturry
+title: Sturry
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/ashford-to-canterbury-and-ramsgate
 ----
-Meta: A telegraph station,
+meta: A telegraph station,
 
 Hotel.--
 : The Swan.
@@ -24,4 +24,4 @@ Fair.--
 Money Order Office
 : at Canterbury
 ----
-Text:
+text:

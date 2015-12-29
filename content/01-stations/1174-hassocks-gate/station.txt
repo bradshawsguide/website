@@ -1,21 +1,21 @@
-Section: 1
+section: 1
 ----
-Title: Hassock's Gate
+title: Hassock's Gate
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/london-to-brighton
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Money Order Office,
 : Hurst.
 ----
-Text: In the vicinity are *Hurstpierpoint*, with a new church, by Barry, close to which is the tractarian college of *St. John's*, *Danny Park*, *Clayton Priory*, *Albourn Place*, the ancient seat of the Juxton family.
+text: In the vicinity are *Hurstpierpoint*, with a new church, by Barry, close to which is the tractarian college of *St. John's*, *Danny Park*, *Clayton Priory*, *Albourn Place*, the ancient seat of the Juxton family.
 
 From the Hassock's Gate station, a graceful piece of Gothic architecture marks the entrance to the Clayton tunnel, which is cut through blocks of chalk. These enormous chalk hills are composed of lime, in chemical combination with carbonic gas, the same which sparkles in a bottle of soda water; and if nature had not combined these substances, the first shower of rain would raise the lime to a great heat, and these stalwart cliffs would crumble into atoms.
 

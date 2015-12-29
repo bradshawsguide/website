@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Norwood, Lower
+title: Norwood, Lower
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/victoria-to-crystal-palace
 ----
-Related:
+related:
 - (wikipedia: West Norwood railway station)
 ----
-Meta:
+meta:
 ----
-Text:
+text:

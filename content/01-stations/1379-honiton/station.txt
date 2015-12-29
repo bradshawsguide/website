@@ -1,18 +1,18 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Honiton
+title: Honiton
 ----
-Region: Devon
+region: Devon
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/basingstoke-to-salisbury-and-exeter
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 3.301.
 ----
-Text: Returns two members to parliament, and produces lace of a very costly description.
+text: Returns two members to parliament, and produces lace of a very costly description.

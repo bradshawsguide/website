@@ -1,17 +1,17 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Bitterne Road
+title: Bitterne Road
 ----
-ShortTitle: Bitterne Rd.
+short_title: Bitterne Rd.
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/southampton-to-netley
 ----
-Meta:
+meta:
 ----
-Text:
+text:

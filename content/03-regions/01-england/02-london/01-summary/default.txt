@@ -1,8 +1,8 @@
-Title: Summary
+title: Summary
 ----
-Type: child
+type: child
 ----
-Text: ## London Summary
+text: ## London Summary
 
 Which we intend shall include, irrespective of position, whatever characteristics give London its individuality.
 

@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Vauxhall
+title: Vauxhall
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 ----
-Text: Thence we pass on through Vauxhall, and looking down upon the faded beauties of the once-called "Royal Property"--Vauxhall Gardens, and by the extensive depots of the company at Nine Elms over the mill pond, on to an embankment from which we can catch a few glimpses of the Belgravian shore, and Cubit's factories and church to the right, and, if the haze and smoke permit, the lofty campanile of the Houses of Parliament. We next find ourselves bounded on each side by spacious market gardens, and we see Battersea new town and the park on the one hand, and Battersea Rise, the region of Clapham, on the other. In Battersea church the great statesman, Bolingbroke, lies buried. At this point, the [Richmond, Staines, and Windsor line](/routes/london-to-richmond-staines-wokingham-and-reading) diverges to the right, while the main line turns of towards the left to Wimbledon.
+text: Thence we pass on through Vauxhall, and looking down upon the faded beauties of the once-called "Royal Property"--Vauxhall Gardens, and by the extensive depots of the company at Nine Elms over the mill pond, on to an embankment from which we can catch a few glimpses of the Belgravian shore, and Cubit's factories and church to the right, and, if the haze and smoke permit, the lofty campanile of the Houses of Parliament. We next find ourselves bounded on each side by spacious market gardens, and we see Battersea new town and the park on the one hand, and Battersea Rise, the region of Clapham, on the other. In Battersea church the great statesman, Bolingbroke, lies buried. At this point, the [Richmond, Staines, and Windsor line](/routes/london-to-richmond-staines-wokingham-and-reading) diverges to the right, while the main line turns of towards the left to Wimbledon.

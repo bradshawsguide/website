@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Shalford
+title: Shalford
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/reigate-to-reading
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Money Order Office
 : at Guildford.
 ----
-Text: Half a mile from the station is the village, near which is *Shalford House*, the demesne of Sir Henry Austin. This is the nearest station to Farley Heath, the scene, of the Volunteer Review of Easter Monday, 1864.
+text: Half a mile from the station is the village, near which is *Shalford House*, the demesne of Sir Henry Austin. This is the nearest station to Farley Heath, the scene, of the Volunteer Review of Easter Monday, 1864.

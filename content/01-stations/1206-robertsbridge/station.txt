@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Robertsbridge
+title: Robertsbridge
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/tunbridge-to-hastings
 ----
-Meta: Distance from station, ¼ mile.
+meta: Distance from station, ¼ mile.
 
 A telegraph station.
 
@@ -20,4 +20,4 @@ Hotel.--
 Market Day.--
 : Thursday.
 ----
-Text: The village is situated on the banks of the river Rother, and only remarkable for the houses being constructed of red brick, which gives the place a peculiar appearance.
+text: The village is situated on the banks of the river Rother, and only remarkable for the houses being constructed of red brick, which gives the place a peculiar appearance.

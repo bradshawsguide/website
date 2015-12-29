@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Surbiton to Hampton Court
+title: Surbiton to Hampton Court
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Hampton Court
+destination: Hampton Court
 ----
-Text: &#32;
+text: &#32;

@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Barnham to Bognor
+title: Barnham to Bognor
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
 
-Related:
+related:
 - (wikipedia: Bognor Regis branch line)
 ----
-Destination: Bognor
+destination: Bognor
 ----
-Text:
+text:

@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: California
+title: California
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/sutton-to-epsom-downs
 ----
-Related:
+related:
 - (wikipedia: Belmont railway station &#40;Sutton&#41;)
 ----
-Meta:
+meta:
 ----
-Text:
+text:

@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Acton to Hammersmith
+title: Acton to Hammersmith
 ----
-Company: North and South Western Junction Railway
+company: North and South Western Junction Railway
 ----
-Destination: Hammersmith
+destination: Hammersmith
 ----
-Text: A short branch, 1¼ mile, turns off to the left at [Acton](/stations/acton), by which the tourist is enabled to visit [Hammersmith](/stations/hammersmith).
+text: A short branch, 1¼ mile, turns off to the left at [Acton](/stations/acton), by which the tourist is enabled to visit [Hammersmith](/stations/hammersmith).

@@ -1,20 +1,20 @@
-Section: 1
+section: 1
 ----
-Title: Coombe and Malden
+title: Coombe and Malden
 ----
-ShortTitle: Coombe & Malden
+short_title: Coombe & Malden
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-Related:
+related:
 - (wikipedia: New Malden railway station)
 ----
-Meta:
+meta:
 ----
-Text: The line passes under two bridges, and we reach the station of [Surbiton](/stations/surbiton)
+text: The line passes under two bridges, and we reach the station of [Surbiton](/stations/surbiton)

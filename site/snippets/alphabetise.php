@@ -11,8 +11,8 @@ if (param('section')) {
     <ul class="<?= $type ?> listing">
     <? foreach($items as $item): ?>
         <?
-        if ($item->shorttitle()->isNotEmpty()) {
-            $title = $item->shorttitle();
+        if ($item->short_title()->isNotEmpty()) {
+            $title = $item->short_title();
         } else {
             $title = $item->title();
         }

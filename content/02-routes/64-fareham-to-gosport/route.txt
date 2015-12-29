@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Fareham to Gosport
+title: Fareham to Gosport
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Gosport
+destination: Gosport
 ----
-Text:
+text:

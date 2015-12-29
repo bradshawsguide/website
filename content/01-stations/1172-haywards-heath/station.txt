@@ -1,19 +1,19 @@
-Section: 1
+section: 1
 ----
-Title: Hayward's Heath
+title: Hayward's Heath
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/london-to-brighton
 - routes/haywards-heath-to-lewes-and-hastings
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 ----
-Text: Junction.
+text: Junction.
 
 *Cuckfield*, 1½ mile to the right, a pleasantly situated market town, with a handsome church, in the English decorated style. Market day, Friday. Fairs, September 16, and Thursday in Whit-week.
 

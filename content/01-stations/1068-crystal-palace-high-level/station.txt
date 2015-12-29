@@ -1,17 +1,17 @@
-Section: 1
+section: 1
 ----
-Title: Crystal Palace (High Level)
+title: Crystal Palace (High Level)
 ----
-ShortTitle: Crystal Palace (High)
+short_title: Crystal Palace (High)
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/brixton-to-crystal-palace
 ----
-Meta: 
+meta:
 ----
-Text: 
+text:

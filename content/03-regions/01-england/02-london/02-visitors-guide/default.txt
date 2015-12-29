@@ -1,8 +1,8 @@
-Title: Visitors' Guide
+title: Visitors' Guide
 ----
-Type: child
+type: child
 ----
-Text: ## Visitors' Guide Through London
+text: ## Visitors' Guide Through London
 
 If the reader be a stranger in London, visiting the great metropolis simply on pleasure, he will most probably wish to walk through the principal streets or thoroughfares first, to make himself acquainted with their peculiar characteristics, as a general basis upon which he may subsequently extend his rambles in different directions, according to the particular objects that attract him most, or the time he intends to remain. Selecting St. Paul's as the starting point the visitor can proceed eastward or westward according to his own predilections. The man of business will probably prefer a visit to the centre of our commercial emporium, the heart of London and proceeding down Cheapside visit the Exchange and the other public buildings in the city, a description of which he will find in *Bradshaw's Guide to London*.
 

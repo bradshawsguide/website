@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Polegate to Hailsham
+title: Polegate to Hailsham
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
-Destination: Hailsham
+destination: Hailsham
 ----
-Text:
+text:

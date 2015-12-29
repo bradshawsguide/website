@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Chilham
+title: Chilham
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/ashford-to-canterbury-and-ramsgate
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Omnibuses
 : to and from the station.
@@ -21,7 +21,7 @@ Fair.--
 Money Order Office
 : at Canterbury.
 ----
-Text: Chilham Home, or Manor is a noble building, situated in beautiful grounds, which command extensive views over the entire Vale of Ashford and the Stour.
+text: Chilham Home, or Manor is a noble building, situated in beautiful grounds, which command extensive views over the entire Vale of Ashford and the Stour.
 
 Thence the windings of the Stour, spanned ever and anon by some rustic bridge of wood or stone, enhances the romantic beauty of the landscape, and we seem to be for many miles treading the sylvan labyrinth of a miniature Rhine-land.
 

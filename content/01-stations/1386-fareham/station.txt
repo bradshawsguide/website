@@ -1,17 +1,17 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Fareham
+title: Fareham
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/bishopstoke-to-gosport-and-portsmouth
 - routes/fareham-to-gosport
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 4,O11.
@@ -25,4 +25,4 @@ Market Day.--
 Fare.--
 : June 29th.
 ----
-Text: The trade of this place consists of coal, corn, canvas, and ropes. Much resorted to in the sea-bathing season.
+text: The trade of this place consists of coal, corn, canvas, and ropes. Much resorted to in the sea-bathing season.

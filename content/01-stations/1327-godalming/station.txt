@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Goldalming
+title: Goldalming
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/woking-to-godalming-and-portsmouth
 ----
-Meta: Distance from station, ¼ mile.
+meta: Distance from station, ¼ mile.
 
 A telegraph station.
 
@@ -26,4 +26,4 @@ Market Day.--
 Fairs.--
 : February 13th, and July 10th.
 ----
-Text: This town is situated on the banks of the Wye, at a point where that river divides into several streams; it is a considerable trading and manufacturing town. The manufactures are stocking weaving of all kinds, fleecy hosiery, blankets, worsteds, cotton cloths, &c. It consists of a principal street, running east and west, and several smaller ones; the church is much admired, and has a handsome spire.
+text: This town is situated on the banks of the Wye, at a point where that river divides into several streams; it is a considerable trading and manufacturing town. The manufactures are stocking weaving of all kinds, fleecy hosiery, blankets, worsteds, cotton cloths, &c. It consists of a principal street, running east and west, and several smaller ones; the church is much admired, and has a handsome spire.

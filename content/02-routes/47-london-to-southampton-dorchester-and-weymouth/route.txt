@@ -1,12 +1,12 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: London to Southampton, Dorchester and Weymouth
+title: London to Southampton, Dorchester and Weymouth
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Southampton, Dorchester and Weymouth
+destination: Southampton, Dorchester and Weymouth
 ----
-Text: ## Clapham to Kingston
+text: ## Clapham to Kingston
 
 Soon after rejoining the Main Line at Clapham Common, [a branch to the left](/routes/victoria-to-crystal-palace) leads to the Crystal Palace, *via* [Balham](/stations/balham), [Streatham](/stations/streatham), and [Norwood](/stations/norwood-lower).
 

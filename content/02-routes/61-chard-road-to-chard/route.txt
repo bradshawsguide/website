@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Chard Road to Chard
+title: Chard Road to Chard
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Chard
+destination: Chard
 ----
-Text: At [Chard Road](/stations/chard-road) the railway diverges to the right, three miles long, to the town of [Chard](/stations/chard).
+text: At [Chard Road](/stations/chard-road) the railway diverges to the right, three miles long, to the town of [Chard](/stations/chard).

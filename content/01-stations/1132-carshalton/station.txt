@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Carshalton
+title: Carshalton
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/croydon-to-epsom
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotels.--
 : Greyhound, King's Arms.
@@ -18,4 +18,4 @@ Hotels.--
 Fairs.--
 : July 1st and 2nd.
 ----
-Text: Carshalton Church is a venerable structure, of the early English style. Close by is *Carshalton Park*. Proceeding thence, we come to [Sutton](/stations/sutton).
+text: Carshalton Church is a venerable structure, of the early English style. Close by is *Carshalton Park*. Proceeding thence, we come to [Sutton](/stations/sutton).

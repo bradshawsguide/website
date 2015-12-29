@@ -1,21 +1,21 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Dunbridge
+title: Dunbridge
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/bishopstoke-to-salisbury
 ----
-Related:
+related:
 - (wikipedia: Mottisfont & Dunbridge railway station)
 ----
-Meta: Telegraph station at Romsey, 4½ miles.
+meta: Telegraph station at Romsey, 4½ miles.
 
 Money Order Office
 : at Romsey.
 ----
-Text:
+text:

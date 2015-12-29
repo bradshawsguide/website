@@ -1,8 +1,8 @@
-﻿Title: Guernsey
+﻿title: Guernsey
 ----
-Country: Channel Islands
+country: Channel Islands
 ----
-Text: (A telegraph station)
+text: (A telegraph station)
 
 Lies thirteen miles west of Jersey, seven west of Sark, and fifteen south-west of Alderney. The chains of rocks lying east and west between these islands and the coast of Normandy appear to be the remnants of an ancient connection with the mainland. It is of a triangular form, about nine miles long and six in its greatest breadth, its circumference, following the sinuosities of the coast, being about thirty-nine English miles. The southern shore of the island, and a small part of the eastern, is a bold and continuous cliff, rising from the sea perpendicularly to the height of 270 feet. The land slopes gradually to the north, till it subsides in a low flat, not much above the level of the sea; this is the most fertile part of the island. Half a dozen brooks, the greatest of which has not a course of more than three miles, descend into the bays. The island is wholly of granite formation, and the soil which lies between its clustered rocks is an accumulation of decomposed syenite.
 

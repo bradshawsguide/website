@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Gray's Thurrocks
+title: Gray's Thurrocks
 ----
-Region: Essex
+region: Essex
 ----
-Company:
+company:
 - companies/london-tilbury-and-southend
 ----
-Route:
+route:
 - routes/fenchurch-street-to-tilbury-and-southend
 ----
-Meta: Population,
+meta: Population,
 : 2,209
 
 Market Day.--
@@ -19,4 +19,4 @@ Market Day.--
 Fair.--
 : May 23rd.
 ----
-Text:
+text:

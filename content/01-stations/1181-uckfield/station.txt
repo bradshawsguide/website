@@ -1,18 +1,18 @@
-Section: 1
+section: 1
 ----
-Title: Uckfield
+title: Uckfield
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/lewes-to-uckfield
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotels.--
 : Maidenhead; Bell.
 ----
-Text: Besides its two chalybeate springs in the neighbourhood it has no particular attractions.
+text: Besides its two chalybeate springs in the neighbourhood it has no particular attractions.

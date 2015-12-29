@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Dalston to Broad Street
+title: Dalston to Broad Street
 ----
-Company: North London Railway
+company: North London Railway
 ----
-Destination: Broad Street
+destination: Broad Street
 ----
-Text:
+text:

@@ -1,21 +1,21 @@
-Section: 1
+section: 1
 ----
-Title: Alum Bay
+title: Alum Bay
 ----
-Region: Isle of Wight
+region: Isle of Wight
 ----
-Company:
+company:
 ----
-Route:
+route:
 - routes/ryde-to-the-needles
 ----
-Meta: Hotels.--
+meta: Hotels.--
 : Needles Hotel and boarding house.
 
 Steamers
 : to Lymington, thence per rail to Brockenhurst.
 ----
-Text: The cliffs on one side are white, and on the other are curiously variegated with strata of ochre, fuller's earth, grey and white sand, &c. Here large prawns are found. The cliffs gradually fall to Gary's Sconce, where a strong fort is being constructed. Copperas stones, lignite, or wood coal, alum, pipe day, shells, and fossils are discovered in this quarter of the Island.
+text: The cliffs on one side are white, and on the other are curiously variegated with strata of ochre, fuller's earth, grey and white sand, &c. Here large prawns are found. The cliffs gradually fall to Gary's Sconce, where a strong fort is being constructed. Copperas stones, lignite, or wood coal, alum, pipe day, shells, and fossils are discovered in this quarter of the Island.
 ----
 Distances:
 

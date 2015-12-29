@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Ashtead
+title: Ashtead
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/wimbledon-to-epsom-and-leatherhead
 ----
-Meta:
+meta:
 ----
-Text: The seat of Colonel Howard.
+text: The seat of Colonel Howard.

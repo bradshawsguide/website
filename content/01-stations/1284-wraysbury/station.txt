@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Wraysbury
+title: Wraysbury
 ----
-Region: Berkshire
+region: Berkshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/staines-to-windsor
 ----
-Meta:
+meta:
 ----
-Text: A respectable specimen of a real English village, near the confluence of the Colne with the Thames.
+text: A respectable specimen of a real English village, near the confluence of the Colne with the Thames.

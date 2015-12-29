@@ -1,19 +1,19 @@
-Section: 1
+section: 1
 ----
-Title: Camden Road
+title: Camden Road
 ----
-ShortTitle: Camden Rd.
+short_title: Camden Rd.
 ----
-Region: Middlesex
+region: Middlesex
 ----
-Company:
+company:
 - companies/north-london
 ----
-Route:
+route:
 - routes/bow-to-chalk-farm
 - routes/camden-road-to-willesden-junction
 ----
-Meta: Telegraph station at Camden Town.
+meta: Telegraph station at Camden Town.
 
 Hotel.--
 : Brecknock Arms.
@@ -24,4 +24,4 @@ Omnibuses
 Money Order Office
 : at 39, High Street.
 ----
-Text: The internal economy of a railway, and the activity, regularity, and order with which these great undertakings are conducted, may be gathered from a visit to the Camden Town Goods Station of the [London and North Western Railway](/companies/london-and-north-western). The Camden Station is exclusively devoted to goods and cattle traffic, and the reception of locomotives. In ten years after it had been laid out for these purposes, so vast were the requirements of the augmented traffic, that it was necessary to pull down the original buildings and to remodel the station entirely. The merchandise received from, up and for down trains averages between 800 and 900 tons daily. During the six months ending August, 1848, 73,732 railway wagon loads of goods entered and departed from Camden Station. Two minutes more brings us to the terminus of the [North London Railway](/companies/north-london), at [Chalk Farm](/stations/chalk-farm), but a transfer of passengers from this line to the Hampstead Junction must be made at the preceding station, Camden Road.
+text: The internal economy of a railway, and the activity, regularity, and order with which these great undertakings are conducted, may be gathered from a visit to the Camden Town Goods Station of the [London and North Western Railway](/companies/london-and-north-western). The Camden Station is exclusively devoted to goods and cattle traffic, and the reception of locomotives. In ten years after it had been laid out for these purposes, so vast were the requirements of the augmented traffic, that it was necessary to pull down the original buildings and to remodel the station entirely. The merchandise received from, up and for down trains averages between 800 and 900 tons daily. During the six months ending August, 1848, 73,732 railway wagon loads of goods entered and departed from Camden Station. Two minutes more brings us to the terminus of the [North London Railway](/companies/north-london), at [Chalk Farm](/stations/chalk-farm), but a transfer of passengers from this line to the Hampstead Junction must be made at the preceding station, Camden Road.

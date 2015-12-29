@@ -1,17 +1,17 @@
-Section: 1
+section: 1
 ----
-Title: Battersea Park Road
+title: Battersea Park Road
 ----
-ShortTitle: Battersea Park Rd.
+short_title: Battersea Park Rd.
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/victoria-to-herne-hill
 ----
-Meta: 
+meta: 
 ----
-Text: 
+text: 

@@ -1,6 +1,6 @@
-Title: London and South Western Railway
+title: London and South Western Railway
 ----
-Text: The main branches of this railway communicat|e with the suburbs of London,| and are mostly celebrated for their picturesque beauty, viz.:--Richmond, Windsor, Kew, and the valley of the Thames, Hampton Court, Kingston, Claremont, Guildford, &c.; also with Portsmouth, Winchester, Southampton, Salisbury, Isle of Wight, and Weymouth, *via* Dorchester.
+text: The main branches of this railway communicat|e with the suburbs of London,| and are mostly celebrated for their picturesque beauty, viz.:--Richmond, Windsor, Kew, and the valley of the Thames, Hampton Court, Kingston, Claremont, Guildford, &c.; also with Portsmouth, Winchester, Southampton, Salisbury, Isle of Wight, and Weymouth, *via* Dorchester.
 
 Of all the many alluring rambles held forth to the tourist who wishes to avail himself of the speedy communication by rail with some of the most picturesque scenery in England, there is no line that possesses more intrinsic advantages, or which intersects in its various routes so many places of glorious memory as the South Western, from the metropolis to the south-western coast of Hampshire and Devonshire,
 

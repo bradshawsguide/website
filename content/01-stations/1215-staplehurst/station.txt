@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Staplehurst
+title: Staplehurst
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotels.--
 : South Eastern, King's Head.
@@ -18,7 +18,7 @@ Hotels.--
 Fairs.--
 : Monday after July 20th, Wednesday after September 20th.
 ----
-Text: The village of the same name is near the station; its fine old church and quaint antique houses are much admired.
+text: The village of the same name is near the station; its fine old church and quaint antique houses are much admired.
 
 The village of Cranbrook, in the heart of the Weald of Kent is remarkable for its handsome church, considered one of the most interesting edifices in the county. The remains of Sissinghurst Castle, four miles, are also well worthy a visit.
 ----

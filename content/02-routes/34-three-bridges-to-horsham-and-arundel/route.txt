@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Three Bridges to Horsham & Arundel
+title: Three Bridges to Horsham & Arundel
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
-Destination: Horsham and Arundel
+destination: Horsham and Arundel
 ----
-Text: This branch is 8½ miles in length. The line proceeds from [Three Bridges](/stations/crawley) in a west-south-west direction to the station at [Crawley](/stations/crawley).
+text: This branch is 8½ miles in length. The line proceeds from [Three Bridges](/stations/crawley) in a west-south-west direction to the station at [Crawley](/stations/crawley).

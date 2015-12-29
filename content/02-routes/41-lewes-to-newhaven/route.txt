@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Lewes to Newhaven
+title: Lewes to Newhaven
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
-Destination: Newhaven
+destination: Newhaven
 ----
-Text:
+text:

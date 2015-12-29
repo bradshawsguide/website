@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Victoria to Herne Hill
+title: Victoria to Herne Hill
 ----
-Company: London, Chatham, and Dover Railway
+company: London, Chatham, and Dover Railway
 ----
-Destination: Herne Hill
+destination: Herne Hill
 ----
-Text:
+text:

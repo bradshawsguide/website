@@ -1,15 +1,15 @@
-﻿Section: 1
+﻿section: 1
 ----
-Title: Dinton
+title: Dinton
 ----
-Region: Wiltshire
+region: Wiltshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/basingstoke-to-salisbury-and-exeter
 ----
-Meta:
+meta:
 ----
-Text: *Dinton House*, seat of W. Wyndham, Esq., is on the river Nadder, and was the birth-place of the great Lord Clarendon, 1608. Wickhall Camp, an ancient encampment, is near.
+text: *Dinton House*, seat of W. Wyndham, Esq., is on the river Nadder, and was the birth-place of the great Lord Clarendon, 1608. Wickhall Camp, an ancient encampment, is near.

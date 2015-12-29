@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Surbiton
+title: Surbiton
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/surbiton-to-hampton-court
 ----
-Meta:
+meta:
 ----
-Text: A mile north of the modern town of [Kingston](/stations/kingston).
+text: A mile north of the modern town of [Kingston](/stations/kingston).

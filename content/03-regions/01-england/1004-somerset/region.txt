@@ -1,5 +1,5 @@
-Title: Somerset
+title: Somerset
 ----
-Country: England
+country: England
 ----
-Text:
+text:

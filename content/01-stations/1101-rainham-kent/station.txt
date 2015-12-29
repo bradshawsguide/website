@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Rainham (Kent)
+title: Rainham (Kent)
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/london-to-chatham-and-dover
 ----
-Meta: A telegraph station
+meta: A telegraph station
 ----
-Text: One of the villages on the Old Roman road, Watling Street, passing which, and the station of [Newington](/stations/newington), we arrive at that of [Sittingbourne](/stations/sittingbourne).
+text: One of the villages on the Old Roman road, Watling Street, passing which, and the station of [Newington](/stations/newington), we arrive at that of [Sittingbourne](/stations/sittingbourne).

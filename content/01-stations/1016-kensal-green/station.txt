@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
-Title: Kensal Green
+title: Kensal Green
 ----
-Region: Middlesex
+region: Middlesex
 ----
-Company:
+company:
 - companies/hampstead-junction
 ----
-Route:
+route:
 - routes/camden-road-to-willesden-junction
 ----
-Meta:
+meta:
 ----
-Text:
+text:

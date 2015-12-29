@@ -3,30 +3,30 @@
 title: Site
 pages: default
 fields:
-  Title:
+  title:
     label: Title
     type:  text
-  ShortTitle:
+  short_title:
     label: Short title
     type: text
-  Author:
+  author:
     label: Author
     type: text
-  Publisher:
+  publisher:
     label: Publisher
     type: text
-  PublisherURL:
+  publisher-url:
     label: Publisher URL
     type: url
-  Description:
-    label: Description
-    type: textarea
-  Keywords:
-    label: Keywords
-    type: tags
-  License:
+  license:
     label: Licence
     type: text
-  LicenseURL:
+  license-url:
     label: Licence URL
     type: url
+  description:
+    label: Description
+    type: textarea
+  keywords:
+    label: Keywords
+    type: tags

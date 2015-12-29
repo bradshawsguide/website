@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
-Title: Wadhurst
+title: Wadhurst
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/tunbridge-to-hastings
 ----
-Meta: Distance from station, ¼ mile.
+meta: Distance from station, ¼ mile.
 
 A telegraph station.
 
@@ -20,4 +20,4 @@ Market Day.--
 Fairs.--
 : April 29th and November 1st.
 ----
-Text:
+text:

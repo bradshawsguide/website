@@ -1,19 +1,19 @@
-Section: 1
+section: 1
 ----
-Title: London Bridge
+title: London Bridge
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/south-eastern
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/charing-cross-and-london-bridge-to-greenwich
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 - routes/london-to-brighton
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 ----
-Text: We next proceed through the populous districts of Bermondsey and Rotherhithe, the first of which is accommodated with the station of [Spa Road](/stations/spa-road).
+text: We next proceed through the populous districts of Bermondsey and Rotherhithe, the first of which is accommodated with the station of [Spa Road](/stations/spa-road).
