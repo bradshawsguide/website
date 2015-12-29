@@ -42,36 +42,95 @@ Riding Gate is in Watling Street, on the old road from London, which Chaucer's p
 
 Canterbury has a Guildhall, sessions house, cavalry and other barracks, with several schools and hospitals. St. Nicholas's hospital, at Harbledown, was founded by Archbishop Lanfranc in the 11th century. That part of the neighbourhood near the Dover road, is dotted all over with fine scats.
 ----
-Distances:
-|                  | Miles. |
-| ---------------- | ------ |
-| Adisham Down     | 5      |
-| Bekesbourne      | 3      |
-| Beverley Park    | 1½     |
-| Blean Church     | 2      |
-| Bridge           | 3      |
-| Broad Oak Common | 2      |
-| Broom Park       | 7      |
-| Dene Park        | 6      |
-| Elensden         | 4½     |
-| Gorsley Wood     | 4½     |
-| Harbledown       | 0¾     |
-| Heath Farm       | 1½     |
-| Herne Common     | 5      |
-| Ickham           | 5      |
-| Kingston         | 5      |
-| Lee Park         | 4½     |
-| Littlebourne     | 4      |
-| Mayton           | 2½     |
-| Mote, The        | 2      |
-| Nackington       | 4      |
-| Riabel Wood      | 2      |
-| South Street     | 4½     |
-| St. Dunstan      | 1½     |
-| St. Stephens     | 1½     |
-| Staple Street    | 4½     |
-| Stone House      | 1½     |
-| Stuppington Farm | 2½     |
-| Thannington      | 1½     |
-| Way Street       | 5      |
-| Wingham          | 6      |
+Distances2:
+
+-
+  location: Adisham Down
+  distance: "5"
+-
+  location: Bekesbourne
+  distance: "3"
+-
+  location: Beverley Park
+  distance: "1.5"
+-
+  location: Blean Church
+  distance: "2"
+-
+  location: Bridge
+  distance: "3"
+-
+  location: Broad Oak Common
+  distance: "2"
+-
+  location: Broom Park
+  distance: "7"
+-
+  location: Dene Park
+  distance: "6"
+-
+  location: Elensden
+  distance: "4.5"
+-
+  location: Gorsley Wood
+  distance: "4.5"
+-
+  location: Harbledown
+  distance: "0.75"
+-
+  location: Heath Farm
+  distance: "1.5"
+-
+  location: Herne Common
+  distance: "5"
+-
+  location: Ickham
+  distance: "5"
+-
+  location: Kingston
+  distance: "5"
+-
+  location: Lee Park
+  distance: "4.5"
+-
+  location: Littlebourne
+  distance: "4"
+-
+  location: Mayton
+  distance: "2.5"
+-
+  location: Mote, The
+  distance: "2"
+-
+  location: Nackington
+  distance: "4"
+-
+  location: Riabel Wood
+  distance: "2"
+-
+  location: South Street
+  distance: "4.5"
+-
+  location: St. Dunstan
+  distance: "1.5"
+-
+  location: St. Stephens
+  distance: "1.5"
+-
+  location: Staple Street
+  distance: "4.5"
+-
+  location: Stone House
+  distance: "1.5"
+-
+  location: Stuppington Farm
+  distance: "2.5"
+-
+  location: Thannington
+  distance: "1.5"
+-
+  location: Way Street
+  distance: "5"
+-
+  location: Wingham
+  distance: "6"
