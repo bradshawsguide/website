@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Earley
 ----
-Region: Berkshire
+region: Berkshire
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/reigate-to-reading
 ----
 Meta:

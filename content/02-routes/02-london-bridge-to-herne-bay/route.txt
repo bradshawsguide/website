@@ -1,8 +1,8 @@
 title: London Bridge to Herne Bay by Steamer
 ----
-Company: London
+company: London
 ----
-Destination: Herne Bay
+destination: Herne Bay
 ----
 Text: For the sake of variety, we shall proceed to describe the journey by water, which, on a fine day, is not only the most agreeable, but, as furnishing air excellent opportunity of seeing the scenery of the Thames, is perhaps most desirable to strangers.
 

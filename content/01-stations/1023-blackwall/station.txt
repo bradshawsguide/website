@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Blackwall
 ----
-Region: Middlesex
+region: Middlesex
 ----
-Company:
+company:
 - companies/london-and-blackwall
 ----
-Route:
+route:
 - routes/fenchurch-street-to-blackwall
 ----
 Meta: Distance from station, 1/4 mile.

@@ -1,14 +1,14 @@
-Section: 1
+section: 1
 ----
 title: Kew
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/north-and-south-western-junction
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/willesden-junction-to-kew
 - routes/barnes-to-hounslow-and-feltham
 ----

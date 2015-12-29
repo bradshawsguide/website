@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Willesden Junction to Kew
 ----
-Company: North and South Western Junction Railway
+company: North and South Western Junction Railway
 ----
-Destination: Kew
+destination: Kew
 ----
 Text: &#32;

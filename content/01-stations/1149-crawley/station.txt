@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Crawley
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/three-bridges-to-horsham-and-arundel
 ----
 Meta: A telegraph station.

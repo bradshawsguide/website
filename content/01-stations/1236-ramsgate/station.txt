@@ -1,14 +1,14 @@
-Section: 1
+section: 1
 ----
 title: Ramsgate
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/faversham-to-ramsgate
 - routes/ashford-to-canterbury-and-ramsgate
 ----

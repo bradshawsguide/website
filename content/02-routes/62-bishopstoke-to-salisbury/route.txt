@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Bishopstoke to Salisbury
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Salisbury
+destination: Salisbury
 ----
 Text: &#32;

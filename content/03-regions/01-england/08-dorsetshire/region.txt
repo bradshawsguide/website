@@ -1,6 +1,6 @@
 title: Dorsetshire
 ----
-Country: England
+country: England
 ----
 Text: Which is bounded on the north by Wiltshire, on the east by Hampshire, on the west by Devon and part of Somerset, and on the south by the British Channel. Its form is everywhere irregular; its long northern side has a considerable angular projection in the middle; the sea shore on the south runs out into numerous points and headlands, till it stretches to the Isle of Portland; thence westward the coast not so deeply indented, but inclines obliquely towards Devonshire.
 

@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Chichester
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 ----
 Meta: A telegraph station.

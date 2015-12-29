@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Spettisbury
 ----
-Region: Dorsetshire
+region: Dorsetshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/wimborne-to-blandford
 ----
 Meta:

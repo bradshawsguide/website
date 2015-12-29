@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
 title: Farringdon Street
 ----
 Shorttitle: Farringdon St.
 ----
-Region: Middlesex
+region: Middlesex
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/london-to-chatham-and-dover
 ----
 Meta:

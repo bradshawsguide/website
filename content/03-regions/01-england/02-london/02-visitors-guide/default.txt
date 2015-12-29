@@ -1,6 +1,6 @@
 title: Visitors' Guide
 ----
-Type: child
+type: child
 ----
 Text: ## Visitors' Guide Through London
 

@@ -1,14 +1,14 @@
-Section: 1
+section: 1
 ----
 title: Beckenham
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/mid-kent
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/lewisham-to-beckenham-and-croydon
 - routes/london-to-chatham-and-dover
 ----

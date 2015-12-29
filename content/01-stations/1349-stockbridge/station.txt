@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Stockbridge
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/andover-to-redbridge
 ----
 Meta:

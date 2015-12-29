@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Barking
 ----
-Region: Essex
+region: Essex
 ----
-Company:
+company:
 - companies/london-tilbury-and-southend
 ----
-Route:
+route:
 - routes/fenchurch-street-to-tilbury-and-southend
 ----
 Meta: Telegraph station at Stratford, 3½ miles.

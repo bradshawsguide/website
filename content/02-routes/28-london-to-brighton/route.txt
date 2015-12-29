@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: London to Brighton
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
-Destination: Brighton
+destination: Brighton
 ----
 Text: ## London to Croydon
 

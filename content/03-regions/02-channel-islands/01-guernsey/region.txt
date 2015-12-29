@@ -1,6 +1,6 @@
 ﻿title: Guernsey
 ----
-Country: Channel Islands
+country: Channel Islands
 ----
 Text: (A telegraph station)
 

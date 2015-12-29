@@ -1,6 +1,6 @@
 title: Middlesex
 ----
-Country: England
+country: England
 ----
 Text: Is a very important inland county, containing, with the British Capital, much of the wealth and political influence of the inhabitants of these realms.
 

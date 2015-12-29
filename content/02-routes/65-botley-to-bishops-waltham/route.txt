@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Botley to Bishop's Waltham
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Bishop's Waltham
+destination: Bishop's Waltham
 ----
 Related:
 - (wikipedia: Bishops Waltham branch)

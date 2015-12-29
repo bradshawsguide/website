@@ -1,14 +1,14 @@
-Section: 1
+section: 1
 ----
 title: Wokingham
 ----
-Region: Berkshire
+region: Berkshire
 ----
-Company:
+company:
 - companies/south-eastern
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/reigate-to-reading
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----

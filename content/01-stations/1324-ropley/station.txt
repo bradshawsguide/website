@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Ropley
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/guildford-to-farnham-and-alton
 ----
 Meta:

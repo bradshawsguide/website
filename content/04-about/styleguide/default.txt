@@ -1,6 +1,6 @@
 title: Style Guide
 ----
-Type: child
+type: child
 ----
 Text: The main page header of this guide is an `h1` element. Any header element may include links, as depicted in the following examples.
 

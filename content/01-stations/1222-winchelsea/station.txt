@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Winchelsea
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/ashford-to-hastings
 ----
 Meta: Distance from station, 1 mile.

@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
 title: Addiscombe Road
 ----
 Shorttitle: Addicombe Rd.
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/mid-kent
 ----
-Route:
+route:
 - routes/lewisham-to-beckenham-and-croydon
 ----
 Meta:

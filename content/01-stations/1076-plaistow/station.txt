@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Plaistow
 ----
-Region: Essex
+region: Essex
 ----
-Company:
+company:
 - companies/london-tilbury-and-southend
 ----
-Route:
+route:
 - routes/fenchurch-street-to-tilbury-and-southend
 ----
 Meta:

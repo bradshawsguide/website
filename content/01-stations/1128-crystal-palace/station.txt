@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Crystal Palace
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/london-to-brighton
 - routes/victoria-to-crystal-palace
 ----

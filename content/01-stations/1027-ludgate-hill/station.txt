@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Ludgate Hill
 ----
-Region: 
+region: 
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/london-to-chatham-and-dover
 ----
 Meta: 

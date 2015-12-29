@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
 title: Caterham Junction
 ----
 Shorttitle: Caterham Jct.
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/south-eastern
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 - routes/london-to-brighton
 - routes/caterham-junction-to-caterham

@@ -1,16 +1,16 @@
-Section: 1
+section: 1
 ----
 title: Willesden Junction
 ----
 Shorttitle: Willesden Jct.
 ----
-Region: Middlesex
+region: Middlesex
 ----
-Company:
+company:
 - companies/hampstead-junction
 - companies/north-and-south-western-junction
 ----
-Route:
+route:
 - routes/camden-road-to-willesden-junction
 - routes/willesden-junction-to-kew
 ----

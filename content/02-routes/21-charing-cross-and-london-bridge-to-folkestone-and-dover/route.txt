@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Charing Cross and London Bridge to Folkestone and Dover
 ----
-Company: South Eastern Railway
+company: South Eastern Railway
 ----
-Destination: Folkestone and Dover
+destination: Folkestone and Dover
 ----
 Text: This has been called the "Pleasure Line;" and certainly the beauty and extent, of the country traversed by its trains justly entitle it to that distinguishing appellation. It is not only one of the chief mediums of daily communication between England and the Continent, but its iron roads and branches intersect the beautiful county of Kent in all directions, affording the inhabitants of the great metropolis faculties of visiting the numerous watering places on its coast, and enabling them to become acquainted with its picturesque scenery, cities, and baronial halls, and he astonishing fertility of its soil.
 

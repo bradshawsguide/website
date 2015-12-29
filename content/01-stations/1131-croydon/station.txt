@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Croydon
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/lewisham-to-beckenham-and-croydon
 - routes/london-to-brighton
 - routes/croydon-to-epsom

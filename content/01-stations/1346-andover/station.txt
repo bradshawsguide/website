@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Andover
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/basingstoke-to-salisbury-and-exeter
 - routes/andover-to-redbridge
 ----

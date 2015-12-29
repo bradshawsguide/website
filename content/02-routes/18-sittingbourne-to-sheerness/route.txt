@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Sittingbourne to Sheerness
 ----
-Company: London, Chatham, and Dover Railway
+company: London, Chatham, and Dover Railway
 ----
-Destination: Sheerness
+destination: Sheerness
 ----
 Text: A branch 7 miles long turns off to the left at [this place](/stations/sittingbourne), running direct across the western extremity of the Isle of Sheppy, passing through [Queenborough](/stations/queenborough), to [Sheerness](/stations/sheerness).

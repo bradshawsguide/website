@@ -1,12 +1,12 @@
-Section: 1
+section: 1
 ----
 title: Ryde
 ----
-Region: Isle of Wight
+region: Isle of Wight
 ----
-Company:
+company:
 ----
-Route:
+route:
 - routes/ryde-to-newchurch
 - routes/ryde-to-the-needles
 ----

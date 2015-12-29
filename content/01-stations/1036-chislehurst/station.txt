@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Chislehurst
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/lewisham-to-chislehurst
 ----
 Meta:

@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Poole
 ----
-Region: Dorsetshire
+region: Dorsetshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/poole-junction-to-poole
 ----
 Meta: Distance from station, 2 miles.

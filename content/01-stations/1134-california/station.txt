@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: California
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/sutton-to-epsom-downs
 ----
 Related:

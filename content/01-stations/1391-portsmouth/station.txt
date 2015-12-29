@@ -1,14 +1,14 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Portsmouth
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 - routes/woking-to-godalming-and-portsmouth
 - routes/bishopstoke-to-gosport-and-portsmouth

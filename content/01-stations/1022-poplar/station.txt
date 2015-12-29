@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Poplar
 ----
-Region: Middlesex
+region: Middlesex
 ----
-Company:
+company:
 - companies/london-and-blackwall
 ----
-Route:
+route:
 - routes/fenchurch-street-to-blackwall
 ----
 Meta:

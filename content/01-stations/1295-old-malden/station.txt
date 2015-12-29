@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Old Malden
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/wimbledon-to-epsom-and-leatherhead
 ----
 Meta:

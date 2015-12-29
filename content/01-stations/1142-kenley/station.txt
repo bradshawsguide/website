@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Kenley
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/caterham-junction-to-caterham
 ----
 Meta:

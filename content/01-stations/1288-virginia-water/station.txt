@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Virginia Water
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
 Meta: Telegraph station at Egham, 2 miles

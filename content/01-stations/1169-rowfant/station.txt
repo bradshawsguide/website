@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Rowfant
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/three-bridges-to-east-grinstead
 ----
 Meta:

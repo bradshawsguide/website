@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Aldershott
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/reigate-to-reading
 ----
 Meta:

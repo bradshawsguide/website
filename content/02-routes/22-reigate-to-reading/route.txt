@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Reigate to Reading
 ----
-Company: South Eastern Railway
+company: South Eastern Railway
 ----
-Destination: Reading
+destination: Reading
 ----
 Text: ## Reigate to Reading
 

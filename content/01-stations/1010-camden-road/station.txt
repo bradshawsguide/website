@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
 title: Camden Road
 ----
 Shorttitle: Camden Rd.
 ----
-Region: Middlesex
+region: Middlesex
 ----
-Company:
+company:
 - companies/north-london
 ----
-Route:
+route:
 - routes/bow-to-chalk-farm
 - routes/camden-road-to-willesden-junction
 ----

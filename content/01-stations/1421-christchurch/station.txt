@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Christchurch
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/ringwood-to-christchurch
 ----
 Meta: A telegraph station.

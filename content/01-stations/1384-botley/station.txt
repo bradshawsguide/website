@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Botley
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/botley-to-bishops-waltham
 - routes/bishopstoke-to-gosport-and-portsmouth
 ----

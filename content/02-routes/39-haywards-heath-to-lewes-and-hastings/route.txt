@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Hayward's Heath to Lewes and Hastings
 ----
-Company: London, Brighton, and South Coast Railway
+company: London, Brighton, and South Coast Railway
 ----
-Destination: Lewes and Hastings
+destination: Lewes and Hastings
 ----
 Text: ## Hayward's Heath to Lewes and Newhaven
 

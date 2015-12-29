@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Canterbury to Whitstable
 ----
-Company: South Eastern Railway
+company: South Eastern Railway
 ----
-Destination: Whitstable
+destination: Whitstable
 ----
 Text: &#32;

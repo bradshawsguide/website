@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Brockenhurst to Lymington
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Lymington
+destination: Lymington
 ----
 Text: Turning to the left from [Brockenhurst](/stations/brockenhurst), a run of about twenty minutes brings us to the parliamentary borough of [Lymington](/stations/lymington).

@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: London to Richmond, Staines, Wokingham and Reading
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Richmond, Staines, Wokingham and Reading
+destination: Richmond, Staines, Wokingham and Reading
 ----
 Text: ## Wandsworth to Barnes.
 

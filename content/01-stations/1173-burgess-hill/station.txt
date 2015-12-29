@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Burgess Hill
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/london-to-brighton
 ----
 Meta: A telegraph station.

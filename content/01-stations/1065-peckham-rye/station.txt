@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Peckham Rye
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/brixton-to-crystal-palace
 ----
 Meta: 

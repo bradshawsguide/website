@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Datchet
 ----
-Region: Buckinghamshire
+region: Buckinghamshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/staines-to-windsor
 ----
 Meta:

@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Bow to Chalk Farm
 ----
-Company: North London Railway
+company: North London Railway
 ----
-Destination: Chalk Farm
+destination: Chalk Farm
 ----
 Text: &#32;

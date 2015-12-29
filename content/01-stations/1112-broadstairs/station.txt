@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Broadstairs
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/faversham-to-ramsgate
 ----
 Meta: A telegraph station.

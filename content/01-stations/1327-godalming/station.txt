@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Goldalming
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/woking-to-godalming-and-portsmouth
 ----
 Meta: Distance from station, ¼ mile.

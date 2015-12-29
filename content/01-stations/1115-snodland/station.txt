@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Snodland
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/strood-to-maidstone-and-paddock-wood
 ----
 Meta: A telegraph station.

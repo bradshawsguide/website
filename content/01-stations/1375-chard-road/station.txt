@@ -1,15 +1,15 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Chard Road
 ----
 Shorttitle: Chard Rd.
 ----
-Region: Somerset
+region: Somerset
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/basingstoke-to-salisbury-and-exeter
 - routes/chard-road-to-chard
 ----

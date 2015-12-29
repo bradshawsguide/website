@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Godstone
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
 Meta: Distance from station, 3 miles.

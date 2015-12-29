@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: First Route--Ryde to Newchurch
 ----
-Company: Isle of Wight
+company: Isle of Wight
 ----
-Destination: Newchurch
+destination: Newchurch
 ----
 Text:
 

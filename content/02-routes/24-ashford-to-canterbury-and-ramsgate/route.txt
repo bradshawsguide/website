@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Ashford to Canterbury, Ramsgate, &c.
 ----
-Company: South Eastern Railway
+company: South Eastern Railway
 ----
-Destination: Canterbury and Ramsgate
+destination: Canterbury and Ramsgate
 ----
 Text: ## Ashford to Canterbury
 

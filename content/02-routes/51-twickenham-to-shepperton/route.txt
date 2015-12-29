@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Twickenham to Shepperton
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Shepperton
+destination: Shepperton
 ----
 Text:

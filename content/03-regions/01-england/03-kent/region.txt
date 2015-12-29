@@ -1,6 +1,6 @@
 title: Kent
 ----
-Country: England
+country: England
 ----
 Text: This county forms the south-eastern extremity of the island of Great Britain, bounded on the north by the Thames; on the east and south-east by the German Ocean and the Straits of Dover; on the south-west by the English Channel and county of Sussex; and on the west by that of Surrey.
 

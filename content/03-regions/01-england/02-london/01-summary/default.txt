@@ -1,6 +1,6 @@
 title: Summary
 ----
-Type: child
+type: child
 ----
 Text: ## London Summary
 

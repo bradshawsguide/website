@@ -1,14 +1,14 @@
-Section: 1
+section: 1
 ----
 title: Dover
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/london-to-chatham-and-dover
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----

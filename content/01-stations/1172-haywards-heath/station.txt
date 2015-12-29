@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Hayward's Heath
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/london-to-brighton
 - routes/haywards-heath-to-lewes-and-hastings
 ----

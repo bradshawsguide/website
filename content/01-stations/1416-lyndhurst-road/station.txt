@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Lyndhurst Road
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
 Meta:

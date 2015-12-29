@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Wimbledon to Epsom and Leatherhead
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Epsom and Leatherhead
+destination: Epsom and Leatherhead
 ----
 Text: ## Wimbledon to Epsom and Leatherhead.
 

@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Chard
 ----
-Region: Somerset
+region: Somerset
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/chard-road-to-chard
 ----
 Meta:

@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Faversham
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/london-to-chatham-and-dover
 - routes/faversham-to-ramsgate
 ----

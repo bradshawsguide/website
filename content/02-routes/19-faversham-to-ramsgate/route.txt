@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Faversham to Whitstable, Herne Bay, Margate, and Ramsgate
 ----
-Company: London, Chatham, and Dover Railway
+company: London, Chatham, and Dover Railway
 ----
-Destination: Whitstable, Herne Bay, Margate and Ramsgate
+destination: Whitstable, Herne Bay, Margate and Ramsgate
 ----
 Text: ## Faversham to Ramsgate.
 

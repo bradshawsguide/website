@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Wye
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/south-eastern
 ----
-Route:
+route:
 - routes/ashford-to-canterbury-and-ramsgate
 ----
 Meta: A telegraph station.

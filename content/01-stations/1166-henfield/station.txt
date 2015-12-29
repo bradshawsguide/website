@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Henfield
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/horsham-to-steyning-and-shoreham
 ----
 Meta:

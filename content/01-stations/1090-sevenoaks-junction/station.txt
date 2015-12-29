@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
 title: Sevenoaks Junction
 ----
 Shorttitle: Sevenoaks Jct.
 ----
-Region: Kent
+region: Kent
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/london-to-chatham-and-dover
 - routes/sevenoaks-junction-to-sevenoaks
 ----

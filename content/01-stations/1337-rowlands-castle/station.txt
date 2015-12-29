@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Rowland's Castle
 ----
-Region: Hampshire
+region: Hampshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/woking-to-godalming-and-portsmouth
 ----
 Meta:

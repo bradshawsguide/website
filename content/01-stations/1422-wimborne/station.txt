@@ -1,13 +1,13 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Wimborne
 ----
-Region: Dorsetshire
+region: Dorsetshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/wimborne-to-blandford
 ----

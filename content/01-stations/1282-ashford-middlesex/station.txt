@@ -1,15 +1,15 @@
-Section: 1
+section: 1
 ----
 title: Ashford (Middlesex)
 ----
 Shorttitle: Ashford (Middx.)
 ----
-Region: Middlesex
+region: Middlesex
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
 Meta: 

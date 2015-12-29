@@ -1,5 +1,5 @@
 title: Berkshire
 ----
-Country: England
+country: England
 ----
 Text:

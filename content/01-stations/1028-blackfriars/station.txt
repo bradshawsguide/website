@@ -1,14 +1,14 @@
-Section: 1
+section: 1
 ----
 title: Blackfriars
 ----
-Region: Middlesex
+region: Middlesex
 ----
-Company:
+company:
 - companies/south-eastern
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/charing-cross-and-london-bridge-to-greenwich
 - routes/london-to-chatham-and-dover
 ----

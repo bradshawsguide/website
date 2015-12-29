@@ -1,6 +1,6 @@
 title: Surrey
 ----
-Country: England
+country: England
 ----
 Text: This is one of the most interesting, of not the most fertile, of the English counties. Almost the whole surface of the county is undulating, and consists of hill and dale, inspecting each other in every variety of form. In some parts extensive heaths give an air of wildness to the prospect which is strikingly contrasted by the by the innumerable beauties scattered over the surface of the county by the hand of art, while the hills, which frequently approach the height of mountains, decline into richly wooded dales and plains, covered with luxuriant harvests.
 

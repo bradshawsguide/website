@@ -1,13 +1,13 @@
-﻿Section: 2
+﻿section: 2
 ----
 title: Yeovil
 ----
-Region: Dorsetshire
+region: Dorsetshire
 ----
-Company:
+company:
 - companies/london-and-south-western
 ----
-Route:
+route:
 - routes/basingstoke-to-salisbury-and-exeter
 ----
 Meta:

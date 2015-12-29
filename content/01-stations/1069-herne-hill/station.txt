@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Herne Hill
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-chatham-and-dover
 ----
-Route:
+route:
 - routes/london-to-chatham-and-dover
 - routes/victoria-to-herne-hill
 ----

@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Poole Junction to Poole
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Poole
+destination: Poole
 ----
 Text:

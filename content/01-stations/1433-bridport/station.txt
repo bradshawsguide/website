@@ -1,12 +1,12 @@
-﻿Section: 2
+﻿section: 2
 ----
 title: Bridport
 ----
-Region: Dorsetshire
+region: Dorsetshire
 ----
-Company:
+company:
 ----
-Route:
+route:
 ----
 Meta:
 ----

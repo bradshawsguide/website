@@ -1,6 +1,6 @@
 title: Sussex
 ----
-Country: England
+country: England
 ----
 Text: One of the Southern Counties, is varied by the inequalities of the Downs and by intervening valleys to which the wooded scenery and pasture land give a rural and a rich diversity of appearance. It belongs to the chalk, formation, and has some high ranges of clowns and hills. The north is occupied by Wealden formation, covering 420,000 acres, and the south by the chalk formation. On the east are marshes and alluvial lands, and on the west coast it is much indented by, at others it runs out into, bold cliffs.
 

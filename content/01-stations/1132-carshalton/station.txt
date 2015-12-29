@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Carshalton
 ----
-Region: Surrey
+region: Surrey
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/croydon-to-epsom
 ----
 Meta: A telegraph station.

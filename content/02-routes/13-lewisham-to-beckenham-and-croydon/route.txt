@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Lewisham to Beckenham and Croydon
 ----
-Company: Mid-Kent Railway
+company: Mid-Kent Railway
 ----
-Destination: Croydon
+destination: Croydon
 ----
 Text: On leaving [Lewisham Junction](/stations/lewisham) we cross the Ravensbourne twice, and then come to [Ladywell](/stations/ladywell), to the right of which are the Deptford and Lewisham Cemeteries. We again cross the stream at its junction with the Pool, along the side of which we continue our course to [Lower Sydenham](/stations/lower-sydenham). From thence we pass to [Beckenham](/stations/beckenham).

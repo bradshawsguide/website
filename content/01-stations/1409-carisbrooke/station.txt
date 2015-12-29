@@ -1,12 +1,12 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Carisbrooke
 ----
-Region: Isle of Wight
+region: Isle of Wight
 ----
-Company:
+company:
 ----
-Route:
+route:
 - routes/ryde-to-the-needles
 ----
 Meta: Distance from station at Portsmouth, 16 miles.

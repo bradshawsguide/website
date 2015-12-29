@@ -1,13 +1,13 @@
-Section: 1
+section: 1
 ----
 title: Lewes
 ----
-Region: Sussex
+region: Sussex
 ----
-Company:
+company:
 - companies/london-brighton-and-south-coast
 ----
-Route:
+route:
 - routes/haywards-heath-to-lewes-and-hastings
 - routes/lewes-to-uckfield
 - routes/lewes-to-newhaven

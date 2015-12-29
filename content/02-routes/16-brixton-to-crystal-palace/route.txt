@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Brixton to Crystal Palace
 ----
-Company: London, Chatham, and Dover Railway
+company: London, Chatham, and Dover Railway
 ----
-Destination: Crystal Palace
+destination: Crystal Palace
 ----
 Text:

@@ -1,10 +1,10 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: London to Southampton, Dorchester and Weymouth
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Southampton, Dorchester and Weymouth
+destination: Southampton, Dorchester and Weymouth
 ----
 Text: ## Clapham to Kingston
 

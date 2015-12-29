@@ -1,6 +1,6 @@
 title: Places of Amusement, &c.
 ----
-Type: child
+type: child
 ----
 Text: ## Terms and Times of Admission to the following Buildings, Institutions, &c., in London and its suburbs.
 

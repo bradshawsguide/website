@@ -1,6 +1,6 @@
 title: Colophon
 ----
-Type: child
+type: child
 ----
 Text: Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Ireland</cite> by George Bradshaw, published in Great Britain in 1866. Identified as being in the public domain, content is [free of known copyright restrictions](http://creativecommons.org/publicdomain/mark/1.0/).
 

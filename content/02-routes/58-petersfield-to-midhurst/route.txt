@@ -1,9 +1,9 @@
-﻿Section: 1
+﻿section: 1
 ----
 title: Petersfield to Midhurst
 ----
-Company: London and South Western Railway
+company: London and South Western Railway
 ----
-Destination: Midhurst
+destination: Midhurst
 ----
 Text:
