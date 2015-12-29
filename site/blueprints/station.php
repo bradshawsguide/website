@@ -37,7 +37,7 @@ fields:
   text:
     label: Text
     type: markdown
-  Distances:
+  distances:
     label: Distances
     type: structure
     style: table
