@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Barnham
 ----
@@ -21,38 +21,101 @@ Money Order Office
 ----
 Text: This station forms the junction of a short line to [Bognor](/stations/bognor).
 ----
-Distances:
-|                     | Miles. |
-| ------------------- | ------ |
-| Aldingbourne        | 1      |
-| Aldwick             | 5      |
-| Arundel             | 5¼     |
-| Bognor              | 4      |
-| Calworth            | 2      |
-| Castle Hill         | 1½     |
-| Eastham             | 3      |
-| East Dean           | 6      |
-| Eastergate          | 0¾     |
-| Feltham             | 2½     |
-| Goodwood            | 4      |
-| Guildford           | 24     |
-| Halnaker            | 3      |
-| Halnaker House      | 3½     |
-| Head Wane           | 2½     |
-| Houghton            | 6      |
-| Kneighton Park      | 1¾     |
-| Lidsey              | 2      |
-| Limner Pond         | 2      |
-| Little Bognor       | 2      |
-| Night Timber        | 2½     |
-| North Bersted       | 2      |
-| North Field         | 1½     |
-| Norton              | 1¾     |
-| Nudhurst & Petworth | 12     |
-| Poor House          | 1¼     |
-| Shripland           | 2      |
-| Shripudy            | 2      |
-| South Bersted       | 2      |
-| Tangmere            | 2½     |
-| Upper Waltham       | 6      |
-| Westergate          | 1¼     |
+Distances2:
+
+-
+  location: Aldingbourne
+  distance: "1"
+-
+  location: Aldwick
+  distance: "5"
+-
+  location: Arundel
+  distance: "5.25"
+-
+  location: Bognor
+  distance: "4"
+-
+  location: Calworth
+  distance: "2"
+-
+  location: Castle Hill
+  distance: "1.5"
+-
+  location: Eastham
+  distance: "3"
+-
+  location: East Dean
+  distance: "6"
+-
+  location: Eastergate
+  distance: "0.75"
+-
+  location: Feltham
+  distance: "2.5"
+-
+  location: Goodwood
+  distance: "4"
+-
+  location: Guildford
+  distance: "24"
+-
+  location: Halnaker
+  distance: "3"
+-
+  location: Halnaker House
+  distance: "3.5"
+-
+  location: Head Wane
+  distance: "2.5"
+-
+  location: Houghton
+  distance: "6"
+-
+  location: Kneighton Park
+  distance: "1.75"
+-
+  location: Lidsey
+  distance: "2"
+-
+  location: Limner Pond
+  distance: "2"
+-
+  location: Little Bognor
+  distance: "2"
+-
+  location: Night Timber
+  distance: "2.5"
+-
+  location: North Bersted
+  distance: "2"
+-
+  location: North Field
+  distance: "1.5"
+-
+  location: Norton
+  distance: "1.75"
+-
+  location: 'Nudhurst & Petworth'
+  distance: "12"
+-
+  location: Poor House
+  distance: "1.25"
+-
+  location: Shripland
+  distance: "2"
+-
+  location: Shripudy
+  distance: "2"
+-
+  location: South Bersted
+  distance: "2"
+-
+  location: Tangmere
+  distance: "2.5"
+-
+  location: Upper Waltham
+  distance: "6"
+-
+  location: Westergate
+  distance: "1.25"
