@@ -34,33 +34,88 @@ The neighbourhood here begins to get thronged with objects of attraction suffici
 
 From Edenbridge station to the next, there are succession of agreeable prospects, diversified by a few impediments to a good view in the form of an intervening cutting.
 ----
-Distances:
-|                                            | Miles. |
-| ------------------------------------------ | ------ |
-| Brook House                                | 1½     |
-| Brusted                                    | 5      |
-| Brusted Place                              | 4½     |
-| Buckhurst Park                             | 7½     |
-| Chiddingstone                              | 3½     |
-| Chartwell                                  | 3½     |
-| Comb Bank                                  | 6      |
-| Cowden                                     | 4½     |
-| Cubham Wood                                | 7      |
-| Foundling House                            | 3      |
-| Four Elms                                  | 1¾     |
-| Hall Farm                                  | 4      |
-| Hole Farm                                  | 1¾     |
-| Hill Park                                  | 5      |
-| Hartfield                                  | 7½     |
-| Hever Castle (Ralph Waldo, Esq.), in ruins | 4      |
-| Ivy House                                  | 3¼     |
-| Limpsfield                                 | 5      |
-| Linhurst                                   | 1      |
-| Mapledon                                   | 2      |
-| Marsh Green                                | 1¾     |
-| Oakhams                                    | 2½     |
-| Seven Oaks                                 | 7½     |
-| Squerries, The                             | 3½     |
-| Stanfords End                              | 1¾     |
-| Sunbridge                                  | 8      |
-| Westerham                                  | 5      |
+Distances2:
+
+-
+  location: Brook House
+  distance: "1.5"
+-
+  location: Brusted
+  distance: "5"
+-
+  location: Brusted Place
+  distance: "4.5"
+-
+  location: Buckhurst Park
+  distance: "7.5"
+-
+  location: Chiddingstone
+  distance: "3.5"
+-
+  location: Chartwell
+  distance: "3.5"
+-
+  location: Comb Bank
+  distance: "6"
+-
+  location: Cowden
+  distance: "4.5"
+-
+  location: Cubham Wood
+  distance: "7"
+-
+  location: Foundling House
+  distance: "3"
+-
+  location: Four Elms
+  distance: "1.75"
+-
+  location: Hall Farm
+  distance: "4"
+-
+  location: Hole Farm
+  distance: "1.75"
+-
+  location: Hill Park
+  distance: "5"
+-
+  location: Hartfield
+  distance: "7.5"
+-
+  location: >
+    Hever Castle (Ralph Waldo, Esq.), in
+    ruins
+  distance: "4"
+-
+  location: Ivy House
+  distance: "3.25"
+-
+  location: Limpsfield
+  distance: "5"
+-
+  location: Linhurst
+  distance: "1"
+-
+  location: Mapledon
+  distance: "2"
+-
+  location: Marsh Green
+  distance: "1.75"
+-
+  location: Oakhams
+  distance: "2.5"
+-
+  location: Seven Oaks
+  distance: "7.5"
+-
+  location: Squerries, The
+  distance: "3.5"
+-
+  location: Stanfords End
+  distance: "1.75"
+-
+  location: Sunbridge
+  distance: "8"
+-
+  location: Westerham
+  distance: "5"
