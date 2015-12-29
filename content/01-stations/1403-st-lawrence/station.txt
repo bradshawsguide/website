@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: St. Lawrence
 ----
@@ -25,18 +25,39 @@ Money Order Office
 Text: There is a spring of deliriously cool water on the road side, under an alcove. The church is a pretty little rustic building, with the grave-yard planted with flowers. Since it was lengthened it is 40 feet long, and will hold 40--a small number, but quite large enough for the population of the parish.
 ----
 Distances:
-|                | Miles. |
-| ---------------| ------ |
-| Appuldercombe  | 1¾     |
-| Binnel Point   | 0½     |
-| Bonchurch      | 2      |
-| Church, The    | 0¼     |
-| Nettlecomb     | 2      |
-| Newport        | 11     |
-| Sea View       | 0½     |
-| Spring, The    | 0¼     |
-| Vineyard [^1]  | 3      |
-| Wolverton      | 2      |
-| Wroncate       | 2¾     |
 
-[^1]: Inigo Jones' Gate from Hampton Court.
+-
+  location: Appuldercombe
+  miles: "1¾"
+-
+  location: Binnel Point
+  miles: "0½"
+-
+  location: Bonchurch
+  miles: "2"
+-
+  location: Church, The
+  miles: "0¼"
+-
+  location: Nettlecomb
+  miles: "2"
+-
+  location: Newport
+  miles: "11"
+-
+  location: Sea View
+  miles: "0½"
+-
+  location: Spring, The
+  miles: "0¼"
+-
+  location: |
+    Vineyard
+    *Inigo Jones' Gate from Hampton Court.*
+  miles: "3"
+-
+  location: Wolverton
+  miles: "2"
+-
+  location: Wroncate
+  miles: "2¾"

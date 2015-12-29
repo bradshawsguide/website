@@ -35,41 +35,112 @@ Within two or three miles of Ashford are the following seats:--*Merstham Hatch*,
 All this east end of the Weald of Kent is thick with woodlands, like the rest of that fertile tract, but the roads are damp and heavy.
 ----
 Distances:
-|                             | Miles. |
-| --------------------------- | ------ |
-| Badlesmere                  | 8      |
-| Beaver Green                | 1¼     |
-| BeechboroughPark            | 1      |
-| Blackwall                   | 2      |
-| Bromley Green               | 3¼     |
-| Brooke                      | 4      |
-| Cable Hook                  | 3¼     |
-| Challock                    | 5      |
-| Cheeseman's Green           | 2      |
-| Coleman Green               | 4      |
-| Conings Brooke              | 2      |
-| Dean Court                  | 4½     |
-| Godmersham                  | 5¼     |
-| Hastingleigh                | 8      |
-| Hinxhill                    | 3      |
-| Kenardington                | 7      |
-| Kennington                  | 2      |
-| Kingsford Street            | 1½     |
-| Kingsnorth                  | 3      |
-| Mount Norris, (Lord Rokeby) | 5      |
-| New Street                  | 2½     |
-| Plumbton                    | 2      |
-| Sevington                   | 2      |
-| Shaddenden Lodge            | 3½     |
-| Shadoxhurst                 | 4½     |
-| Sheldwick                   | 9¼     |
-| Shottmgton                  | 3¼     |
-| Smeeth                      | 5      |
-| Snell Hatch                 | 2      |
-| Stone Cross Green           | 3¼     |
-| Tenterden                   | 12     |
-| Warehorne                   | 6      |
-| West Hauk                   | 1½     |
-| Westwell                    | 3¼     |
-| Woodchurch                  | 7      |
-| Yousel                      | 2½     |
+
+-
+  location: Badlesmere
+  miles: "8"
+-
+  location: Beaver Green
+  miles: "1¼"
+-
+  location: Beechborough Park
+  miles: "1"
+-
+  location: Blackwall
+  miles: "2"
+-
+  location: Bromley Green
+  miles: "3¼"
+-
+  location: Brooke
+  miles: "4"
+-
+  location: Cable Hook
+  miles: "3¼"
+-
+  location: Challock
+  miles: "5"
+-
+  location: "Cheeseman's Green"
+  miles: "2"
+-
+  location: Coleman Green
+  miles: "4"
+-
+  location: Conings Brooke
+  miles: "2"
+-
+  location: Dean Court
+  miles: "4½"
+-
+  location: Godmersham
+  miles: "5¼"
+-
+  location: Hastingleigh
+  miles: "8"
+-
+  location: Hinxhill
+  miles: "3"
+-
+  location: Kenardington
+  miles: "7"
+-
+  location: Kennington
+  miles: "2"
+-
+  location: Kingsford Street
+  miles: "1½"
+-
+  location: Kingsnorth
+  miles: "3"
+-
+  location: Mount Norris, (Lord Rokeby)
+  miles: "5"
+-
+  location: New Street
+  miles: "2½"
+-
+  location: Plumbton
+  miles: "2"
+-
+  location: Sevington
+  miles: "2"
+-
+  location: Shaddenden Lodge
+  miles: "3½"
+-
+  location: Shadoxhurst
+  miles: "4½"
+-
+  location: Sheldwick
+  miles: "9¼"
+-
+  location: Shottington
+  miles: "3¼"
+-
+  location: Smeeth
+  miles: "5"
+-
+  location: Snell Hatch
+  miles: "2"
+-
+  location: Stone Cross Green
+  miles: "3¼"
+-
+  location: Tenterden
+  miles: "12"
+-
+  location: Warehorne
+  miles: "6"
+-
+  location: West Hauk
+  miles: "1½"
+-
+  location: Westwell
+  miles: "3¼"
+-
+  location: Woodchurch
+  miles: "7"
+-
+  location: Yousel
+  miles: "2½"

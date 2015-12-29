@@ -40,7 +40,22 @@
         <? else: ?>
             <summary>Distances of Places from the Station</summary>
         <? endif ?>
-            <?= kirbytext($page->distances()); ?>
+            <table>
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Miles.</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <? foreach($page->distances()->yaml() as $distance): ?>
+                    <tr>
+                        <td><?= kirbytextRaw($distance['location']) ?></td>
+                        <td><?= $distance['miles'] ?></td>
+                    </tr>
+                    <? endforeach ?>
+                </tbody>
+            </table>
         </details>
 <? endif ?>
 

@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: West Cowes
 ----
@@ -38,22 +38,50 @@ It lies at the mouth of the Medina and is a stirring port, noted for its shipbui
 On the beach are bathing machines, and it is much visited by fashionable company.
 ----
 Distances:
-|                        | Miles. |
-| ---------------------- | ------ |
-| Barton                 | 2      |
-| Baskets                | 1¾     |
-| East Cowes             | 0¾     |
-| East Cowes Castle [^1] | 1½     |
-| Egypt                  | 1      |
-| Gurnet Farm            | 1      |
-| King's Key             | 3      |
-| Kingston               | 1½     |
-| Noder                  | 1½     |
-| Northwood              | 1½     |
-| Northwood House [^2]   | 0½     |
-| Osborne                | 1¼     |
-| West Cowes House       | 0¼     |
-| Yacht Club House       | 0½     |
 
-[^1]: Earl of Shannon.
-[^2]: Now a School.
+-
+  location: Barton
+  miles: "2"
+-
+  location: Baskets
+  miles: "1¾"
+-
+  location: East Cowes
+  miles: "0¾"
+-
+  location: |
+    East Cowes Castle
+    *Earl of Shannon.*
+  miles: "1½"
+-
+  location: Egypt
+  miles: "1"
+-
+  location: Gurnet Farm
+  miles: "1"
+-
+  location: "King's Key"
+  miles: "3"
+-
+  location: Kingston
+  miles: "1½"
+-
+  location: Noder
+  miles: "1½"
+-
+  location: Northwood
+  miles: "1½"
+-
+  location: |
+    Northwood House
+    *Now a School.*
+  miles: "0½"
+-
+  location: Osborne
+  miles: "1¼"
+-
+  location: West Cowes House
+  miles: "0¼"
+-
+  location: Yacht Club House
+  miles: "0½"

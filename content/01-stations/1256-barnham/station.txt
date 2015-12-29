@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Barnham
 ----
@@ -22,37 +22,100 @@ Money Order Office
 Text: This station forms the junction of a short line to [Bognor](/stations/bognor).
 ----
 Distances:
-|                     | Miles. |
-| ------------------- | ------ |
-| Aldingbourne        | 1      |
-| Aldwick             | 5      |
-| Arundel             | 5¼     |
-| Bognor              | 4      |
-| Calworth            | 2      |
-| Castle Hill         | 1½     |
-| Eastham             | 3      |
-| East Dean           | 6      |
-| Eastergate          | 0¾     |
-| Feltham             | 2½     |
-| Goodwood            | 4      |
-| Guildford           | 24     |
-| Halnaker            | 3      |
-| Halnaker House      | 3½     |
-| Head Wane           | 2½     |
-| Houghton            | 6      |
-| Kneighton Park      | 1¾     |
-| Lidsey              | 2      |
-| Limner Pond         | 2      |
-| Little Bognor       | 2      |
-| Night Timber        | 2½     |
-| North Bersted       | 2      |
-| North Field         | 1½     |
-| Norton              | 1¾     |
-| Nudhurst & Petworth | 12     |
-| Poor House          | 1¼     |
-| Shripland           | 2      |
-| Shripudy            | 2      |
-| South Bersted       | 2      |
-| Tangmere            | 2½     |
-| Upper Waltham       | 6      |
-| Westergate          | 1¼     |
+
+-
+  location: Aldingbourne
+  miles: "1"
+-
+  location: Aldwick
+  miles: "5"
+-
+  location: Arundel
+  miles: "5¼"
+-
+  location: Bognor
+  miles: "4"
+-
+  location: Calworth
+  miles: "2"
+-
+  location: Castle Hill
+  miles: "1½"
+-
+  location: Eastham
+  miles: "3"
+-
+  location: East Dean
+  miles: "6"
+-
+  location: Eastergate
+  miles: "0¾"
+-
+  location: Feltham
+  miles: "2½"
+-
+  location: Goodwood
+  miles: "4"
+-
+  location: Guildford
+  miles: "24"
+-
+  location: Halnaker
+  miles: "3"
+-
+  location: Halnaker House
+  miles: "3½"
+-
+  location: Head Wane
+  miles: "2½"
+-
+  location: Houghton
+  miles: "6"
+-
+  location: Kneighton Park
+  miles: "1¾"
+-
+  location: Lidsey
+  miles: "2"
+-
+  location: Limner Pond
+  miles: "2"
+-
+  location: Little Bognor
+  miles: "2"
+-
+  location: Night Timber
+  miles: "2½"
+-
+  location: North Bersted
+  miles: "2"
+-
+  location: North Field
+  miles: "1½"
+-
+  location: Norton
+  miles: "1¾"
+-
+  location: 'Nudhurst & Petworth'
+  miles: "12"
+-
+  location: Poor House
+  miles: "1¼"
+-
+  location: Shripland
+  miles: "2"
+-
+  location: Shripudy
+  miles: "2"
+-
+  location: South Bersted
+  miles: "2"
+-
+  location: Tangmere
+  miles: "2½"
+-
+  location: Upper Waltham
+  miles: "6"
+-
+  location: Westergate
+  miles: "1¼"

@@ -36,26 +36,67 @@ The mingled scene of hill and dale, wood and village, presents one of those fair
 Four miles further is [St. Leonards](/stations/st-leonards) station.
 ----
 Distances:
-|                               | Miles. |
-| ----------------------------- | ------ |
-| Ashburnham                    | 5      |
-| Ashburnham Park               | 4      |
-| Battle                        | 1      |
-| Battle Abbey (Lady Webster's) | 1      |
-| Battle Powder Mills           | 2½     |
-| Beaufort                      | 2      |
-| Bohemy House                  | 3      |
-| Brede                         | 4      |
-| Catsfield                     | 3      |
-| Crowhurst Park                | 2      |
-| Darvel House                  | 3      |
-| Hollington Lodge              | 3      |
-| Newenden                      | 9      |
-| New House                     | 5      |
-| Ore Place                     | 4      |
-| Peiishurst                    | 4      |
-| Sedlescombe                   | 2¾     |
-| Udimore                       | 6½     |
-| Watch Gate                    | 1½     |
-| Westfield                     | 3¾     |
-| Whatlington                   | 3      |
+
+-
+  location: Ashburnham
+  miles: "5"
+-
+  location: Ashburnham Park
+  miles: "4"
+-
+  location: Battle
+  miles: "1"
+-
+  location: "Battle Abbey (Lady Webster's)"
+  miles: "1"
+-
+  location: Battle Powder Mills
+  miles: "2½"
+-
+  location: Beaufort
+  miles: "2"
+-
+  location: Bohemy House
+  miles: "3"
+-
+  location: Brede
+  miles: "4"
+-
+  location: Catsfield
+  miles: "3"
+-
+  location: Crowhurst Park
+  miles: "2"
+-
+  location: Darvel House
+  miles: "3"
+-
+  location: Hollington Lodge
+  miles: "3"
+-
+  location: Newenden
+  miles: "9"
+-
+  location: New House
+  miles: "5"
+-
+  location: Ore Place
+  miles: "4"
+-
+  location: Penshurst
+  miles: "4"
+-
+  location: Sedlescombe
+  miles: "2¾"
+-
+  location: Udimore
+  miles: "6½"
+-
+  location: Watch Gate
+  miles: "1½"
+-
+  location: Westfield
+  miles: "3¾"
+-
+  location: Whatlington
+  miles: "3"
