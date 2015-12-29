@@ -6,4 +6,4 @@ company: London, Brighton, and South Coast Railway
 ----
 destination: Guildford
 ----
-Text:
+text:

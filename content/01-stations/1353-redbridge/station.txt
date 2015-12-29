@@ -10,6 +10,6 @@ company:
 route:
 - routes/andover-to-redbridge
 ----
-Meta:
+meta:
 ----
-Text: A station between Southampton and Dorchester.
+text: A station between Southampton and Dorchester.

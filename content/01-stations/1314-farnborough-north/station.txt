@@ -10,9 +10,9 @@ company:
 route:
 - routes/reigate-to-reading
 ----
-Related:
+related:
 - (wikipedia: Farnborough North railway station)
 ----
-Meta:
+meta:
 ----
-Text:
+text:

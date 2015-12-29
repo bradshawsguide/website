@@ -11,7 +11,7 @@ route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/southampton-to-netley
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 46,960.
@@ -31,7 +31,7 @@ Market Days.--
 Fairs.--
 : May 6th, Trinity Fair in Trinity week.
 ----
-Text: The station, which is close to the quay, and has a commanding position on the banks of the Southampton Water, is admirably adapted for the convenience of passengers. On his way to the High-street, the traveller will obtain a favourable view of the picaresque bay. Bounded on one side by the sheltering glades of The New Forest, and opening on the other to the Channel and the Isle of Wight, a series of beautiful views meet the eye, which cannot fail to charm by their exquisite contrast and variety.
+text: The station, which is close to the quay, and has a commanding position on the banks of the Southampton Water, is admirably adapted for the convenience of passengers. On his way to the High-street, the traveller will obtain a favourable view of the picaresque bay. Bounded on one side by the sheltering glades of The New Forest, and opening on the other to the Channel and the Isle of Wight, a series of beautiful views meet the eye, which cannot fail to charm by their exquisite contrast and variety.
 
 On leaving the terminus by the down line gate, we pass the platform, the old castle, lately the goal, and a little farther is the new Corn Market, on the site of the old Custom House, and turning to the right we enter one of the finest streets that ever ornamented a provincial town--this being High-street--a prominent object in which is the Old Bar Gate, which formed the principal entrance into the town.
 

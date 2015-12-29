@@ -6,4 +6,4 @@ company: London, Chatham, and Dover Railway
 ----
 destination: Crystal Palace
 ----
-Text:
+text:

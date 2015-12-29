@@ -6,4 +6,4 @@ company: North and South Western Junction Railway
 ----
 destination: Kew
 ----
-Text: &#32;
+text: &#32;

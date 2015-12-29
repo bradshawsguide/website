@@ -10,7 +10,7 @@ company:
 route:
 - routes/guildford-to-farnham-and-alton
 ----
-Meta: Distance from station, 1 mile.
+meta: Distance from station, 1 mile.
 
 A telegraph station.
 
@@ -23,4 +23,4 @@ Fairs.--
 Money Order Office
 : at Alton.
 ----
-Text:
+text:

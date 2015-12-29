@@ -10,12 +10,12 @@ company:
 route:
 - routes/bishopstoke-to-salisbury
 ----
-Related:
+related:
 - (wikipedia: Mottisfont & Dunbridge railway station)
 ----
-Meta: Telegraph station at Romsey, 4½ miles.
+meta: Telegraph station at Romsey, 4½ miles.
 
 Money Order Office
 : at Romsey.
 ----
-Text:
+text:

@@ -10,6 +10,6 @@ company:
 route:
 - routes/brockenhurst-to-lymington
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 ----
-Text: A town prettily situated on the right bank of the river Lymington. Its maritime operations are chiefly confined to the Isle of Wight, with which it has frequent communication. Salt is extensively manufactured in the neighbourhood. The parish church, dedicated to Thomas a Becket, has many striking monuments.
+text: A town prettily situated on the right bank of the river Lymington. Its maritime operations are chiefly confined to the Isle of Wight, with which it has frequent communication. Salt is extensively manufactured in the neighbourhood. The parish church, dedicated to Thomas a Becket, has many striking monuments.

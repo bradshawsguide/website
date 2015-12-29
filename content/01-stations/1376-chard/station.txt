@@ -10,6 +10,6 @@ company:
 route:
 - routes/chard-road-to-chard
 ----
-Meta:
+meta:
 ----
-Text: A well-built market town, trading in silks and broad cloths.
+text: A well-built market town, trading in silks and broad cloths.

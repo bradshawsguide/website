@@ -10,9 +10,9 @@ company:
 route:
 - routes/reigate-to-reading
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotel.--
 : White Hart.
 ----
-Text: A mile further is [Sandhurst](/stations/sandhurst) Royal Military College.
+text: A mile further is [Sandhurst](/stations/sandhurst) Royal Military College.

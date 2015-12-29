@@ -10,11 +10,11 @@ company:
 route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-Meta: Distance from the Wimbledon station, ¾ mile.
+meta: Distance from the Wimbledon station, ¾ mile.
 
 Telegraph station at Wimbledon, ¾ mile.
 
 Hotel.--
 : White Hart.
 ----
-Text: The pretty village of Merton, where Lord Nelson lived, is a favourite resort of excursionists.
+text: The pretty village of Merton, where Lord Nelson lived, is a favourite resort of excursionists.

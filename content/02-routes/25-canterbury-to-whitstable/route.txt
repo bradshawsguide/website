@@ -6,4 +6,4 @@ company: South Eastern Railway
 ----
 destination: Whitstable
 ----
-Text: &#32;
+text: &#32;

@@ -10,7 +10,7 @@ company:
 route:
 - routes/barnes-to-hounslow-and-feltham
 ----
-Meta: Distance from station, 1 mile.
+meta: Distance from station, 1 mile.
 
 A telegraph station.
 
@@ -26,4 +26,4 @@ Omnibuses
 Fairs.--
 : Trinity Monday and Monday after Michaelmas Day.
 ----
-Text: The Powder Mills and the Cavalry Barracks are about a mile distant. A short distance beyond is *Whitton Park*, which we skirt, and soon after join the Windsor line. We will, however, now retrace our steps to Barnes.
+text: The Powder Mills and the Cavalry Barracks are about a mile distant. A short distance beyond is *Whitton Park*, which we skirt, and soon after join the Windsor line. We will, however, now retrace our steps to Barnes.

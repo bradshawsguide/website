@@ -10,7 +10,7 @@ company:
 route:
 - routes/guildford-to-farnham-and-alton
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 3,286.
@@ -24,4 +24,4 @@ Market Day.--
 Fairs.--
 : Last Saturday In April, July 5th, and September 29th.
 ----
-Text:
+text:

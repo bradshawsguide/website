@@ -12,7 +12,7 @@ company:
 route:
 - routes/tunbridge-to-hastings
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Market Day.--
 : Saturday.
@@ -20,4 +20,4 @@ Market Day.--
 Fairs.--
 : May 4, and October 7.
 ----
-Text: Ticehurst is rather a large town, situated on high ground, about three miles and a half to the east of the station, in the midst of a splendid agricultural country.
+text: Ticehurst is rather a large town, situated on high ground, about three miles and a half to the east of the station, in the midst of a splendid agricultural country.

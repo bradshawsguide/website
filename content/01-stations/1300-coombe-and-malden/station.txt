@@ -12,9 +12,9 @@ company:
 route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-Related:
+related:
 - (wikipedia: New Malden railway station)
 ----
-Meta:
+meta:
 ----
-Text: The line passes under two bridges, and we reach the station of [Surbiton](/stations/surbiton)
+text: The line passes under two bridges, and we reach the station of [Surbiton](/stations/surbiton)

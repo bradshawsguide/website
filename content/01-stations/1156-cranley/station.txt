@@ -10,9 +10,9 @@ company:
 route:
 - routes/horsham-to-guildford
 ----
-Related:
+related:
 - (wikipedia: Cranleigh railway station)
 ----
-Meta:
+meta:
 ----
-Text: Cranley, the church of which is rendered attractive by its stained windows, &c. It has the honour of conferring the title of viscount upon the Onslow family.
+text: Cranley, the church of which is rendered attractive by its stained windows, &c. It has the honour of conferring the title of viscount upon the Onslow family.

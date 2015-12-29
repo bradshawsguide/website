@@ -10,6 +10,6 @@ company:
 route:
 - routes/wimborne-to-blandford
 ----
-Meta:
+meta:
 ----
-Text:
+text:

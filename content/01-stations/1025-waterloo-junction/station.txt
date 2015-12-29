@@ -12,9 +12,9 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-greenwich
 ----
-Related:
+related:
 - (wikipedia: Waterloo East railway station)
 ----
-Meta:
+meta:
 ----
-Text:
+text:

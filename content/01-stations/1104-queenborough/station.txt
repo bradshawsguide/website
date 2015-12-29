@@ -10,6 +10,6 @@ company:
 route:
 - routes/sittingbourne-to-sheerness
 ----
-Meta:
+meta:
 ----
-Text:
+text:

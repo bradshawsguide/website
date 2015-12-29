@@ -10,13 +10,13 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 ----
-Meta: Distance from station, 1 mile.
+meta: Distance from station, 1 mile.
 
 A telegraph station.
 
 Money Order Office
 : at Gravesend.
 ----
-Text: Greenhithe Pier, 20 miles from London. *Ingress Abbey*, in the Gothic style, built with the stones of old London Bridge. The chalk-pits behind are pleasing.
+text: Greenhithe Pier, 20 miles from London. *Ingress Abbey*, in the Gothic style, built with the stones of old London Bridge. The chalk-pits behind are pleasing.
 
 Gray's Pier, where Fidler's Reach and Northfleet Hope unite.

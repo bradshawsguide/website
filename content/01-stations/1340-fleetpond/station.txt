@@ -10,6 +10,6 @@ company:
 route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 ----
-Text:
+text:

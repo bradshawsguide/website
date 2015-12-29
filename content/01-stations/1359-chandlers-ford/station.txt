@@ -10,6 +10,6 @@ company:
 route:
 - routes/bishopstoke-to-salisbury
 ----
-Meta:
+meta:
 ----
-Text:
+text:

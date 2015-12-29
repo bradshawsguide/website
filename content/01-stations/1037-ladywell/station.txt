@@ -10,6 +10,6 @@ company:
 route:
 - routes/lewisham-to-beckenham-and-croydon
 ----
-Meta:
+meta:
 ----
-Text: To the right of which are the Deptford and Lewisham Cemeteries.
+text: To the right of which are the Deptford and Lewisham Cemeteries.

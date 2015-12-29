@@ -10,9 +10,9 @@ company:
 route:
 - routes/sutton-to-epsom-downs
 ----
-Related:
+related:
 - (wikipedia: Belmont railway station &#40;Sutton&#41;)
 ----
-Meta:
+meta:
 ----
-Text:
+text:

@@ -6,4 +6,4 @@ company: North London Railway
 ----
 destination: Broad Street
 ----
-Text:
+text:

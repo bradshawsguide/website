@@ -10,7 +10,7 @@ company:
 route:
 - routes/ashford-to-canterbury-and-ramsgate
 ----
-Meta: A telegraph station,
+meta: A telegraph station,
 
 Hotel.--
 : The Swan.
@@ -24,4 +24,4 @@ Fair.--
 Money Order Office
 : at Canterbury
 ----
-Text:
+text:

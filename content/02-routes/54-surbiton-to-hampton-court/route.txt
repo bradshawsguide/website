@@ -6,4 +6,4 @@ company: London and South Western Railway
 ----
 destination: Hampton Court
 ----
-Text: &#32;
+text: &#32;

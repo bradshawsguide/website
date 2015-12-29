@@ -6,4 +6,4 @@ company: South Eastern Railway
 ----
 destination: Chislehurst
 ----
-Text: From [New Cross](/stations/new-cross) a short line of about six miles runs down by *Birkley Park* to [Chislehurst](/stations/chislehurst).
+text: From [New Cross](/stations/new-cross) a short line of about six miles runs down by *Birkley Park* to [Chislehurst](/stations/chislehurst).

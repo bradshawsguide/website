@@ -10,6 +10,6 @@ company:
 route:
 - routes/horsham-to-steyning-and-shoreham
 ----
-Meta:
+meta:
 ----
-Text:
+text:

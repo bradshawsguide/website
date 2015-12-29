@@ -10,6 +10,6 @@ company:
 route:
 - routes/three-bridges-to-horsham-and-arundel
 ----
-Meta:
+meta:
 ----
-Text: Amberley, on the banks of the Arun, a stream noted for its trout.
+text: Amberley, on the banks of the Arun, a stream noted for its trout.

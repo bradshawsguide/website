@@ -15,7 +15,7 @@ route:
 - routes/woking-to-godalming-and-portsmouth
 - routes/guildford-to-farnham-and-alton
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 8,020.
@@ -35,7 +35,7 @@ Market Days.--
 Fairs.--
 : May 4th and November 22nd.
 ----
-Text: The situation of this town on the banks of the Wey, and spreading over the steep hill as it rises from the side of the river, is particularly picturesque. It consists of a principal street, nearly a mile long from the bridge on the west to Stoke on the east, whence several smaller streets extend into the suburbs.
+text: The situation of this town on the banks of the Wey, and spreading over the steep hill as it rises from the side of the river, is particularly picturesque. It consists of a principal street, nearly a mile long from the bridge on the west to Stoke on the east, whence several smaller streets extend into the suburbs.
 
 **Guildford Castle** is supposed to have been built as early as the time of the Anglo-Saxon kings. The principal part now remaining is the keep, of a quadrangular form, rising to the height of 70 feet, and built on an artificial mound of earth. Admission may be had free on application to the proprietor of a school adjoining the castle grounds.
 

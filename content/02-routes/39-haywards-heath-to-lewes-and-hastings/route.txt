@@ -6,7 +6,7 @@ company: London, Brighton, and South Coast Railway
 ----
 destination: Lewes and Hastings
 ----
-Text: ## Hayward's Heath to Lewes and Newhaven
+text: ## Hayward's Heath to Lewes and Newhaven
 
 The line passes through an undulating, and in some places a hilly, country to [Cook's Bridge](/stations/cooks-bridge).
 

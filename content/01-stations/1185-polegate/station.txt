@@ -14,9 +14,9 @@ route:
 - routes/polegate-to-hailsham
 - routes/polegate-to-eastbourne
 ----
-Meta: Distance from station, 1 mile. A telegraph station.
+meta: Distance from station, 1 mile. A telegraph station.
 
 Money Order Office
 : at Eastbourne.
 ----
-Text: Short lines branch off here in opposite directions to [Hailsham](/stations/hailsham) and [Eastbourne](/stations/eastbourne).
+text: Short lines branch off here in opposite directions to [Hailsham](/stations/hailsham) and [Eastbourne](/stations/eastbourne).

@@ -6,7 +6,7 @@ company: South Eastern Railway
 ----
 destination: Reading
 ----
-Text: ## Reigate to Reading
+text: ## Reigate to Reading
 
 This line connects the county towns of Berkshire and Surrey (Reading and Guildford), and extends from the latter across the garden of Surrey to Reigate; at the same time communicating with four trunk lines--the Great Western, the South Western, the Brighton, and the South Eastern Railway. To the pleasure tourist we scarcely know any presenting so many picturesque attractions. Its route lies from Reading along the South Eastern line, across Berkshire, by Wokingham and Sandhurst, entering Surrey by Tinley; then crossing the South Western line, onward with a branch to Farnham; at the base of Hog's Back to Guildford; next by a branch to Godalming, and continuing at the foot of the celebrated range of chalk hills past Dorking and Reigate to Red Hill.
 

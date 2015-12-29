@@ -10,7 +10,7 @@ company:
 route:
 - routes/fenchurch-street-to-tilbury-and-southend
 ----
-Meta: Population,
+meta: Population,
 : 2,209
 
 Market Day.--
@@ -19,4 +19,4 @@ Market Day.--
 Fair.--
 : May 23rd.
 ----
-Text:
+text:

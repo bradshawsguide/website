@@ -13,7 +13,7 @@ route:
 - routes/london-to-chatham-and-dover
 - routes/strood-to-maidstone-and-paddock-wood
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotel.--
 : Old George.
@@ -21,4 +21,4 @@ Hotel.--
 Steam Boats
 : to Sheerness several times daily.
 ----
-Text: A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](/stations/rochester).
+text: A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](/stations/rochester).

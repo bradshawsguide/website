@@ -10,9 +10,9 @@ company:
 route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 ----
-Related:
+related:
 - (wikipedia: Hove railway station)
 ----
-Meta:
+meta:
 ----
-Text:
+text:

@@ -10,7 +10,7 @@ company:
 route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotel.--
 : Kingston Inn.
@@ -18,6 +18,6 @@ Hotel.--
 Money Order Office
 : at Shoreham.
 ----
-Text: This village is situated on the right of the line; it has a harbour and wharf, and is said to be prosperous and thiving.
+text: This village is situated on the right of the line; it has a harbour and wharf, and is said to be prosperous and thiving.
 
 The line proceeds along the shore, presenting no feature worth remarking, and reaches [New Shoreham](/stations/new-shoreham).

@@ -10,7 +10,7 @@ company:
 route:
 - routes/minster-junction-to-deal
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Population,
 : 7,531.
@@ -24,7 +24,7 @@ Market Day.--
 Fairs.--
 : April 5th and October 10th.
 ----
-Text: This town stands close to the sea shore, which is a bold and open beach, being defended from the violence of the waves by an extensive wall of stones and pebbles which the sea has thrown up. The sea opposite the town, between the shore and the Goodwin Sands is termed the Downs. This channel is about eight miles long and six broad, and is a safe anchorage; and in particular quarters of the wind, as many as 400 ships can ride at anchor here at one time. Deal was formerly a rough-looking, irregular, sailor-like place, full of narrow streets, with shops of multifarious articles termed slops or marine stores. It is however being much improved, and is now resorted to for sea bathing, especially on account of its good repute for moderate charges. The bathing establishment at Deal is well conducted, and there are good libraries.
+text: This town stands close to the sea shore, which is a bold and open beach, being defended from the violence of the waves by an extensive wall of stones and pebbles which the sea has thrown up. The sea opposite the town, between the shore and the Goodwin Sands is termed the Downs. This channel is about eight miles long and six broad, and is a safe anchorage; and in particular quarters of the wind, as many as 400 ships can ride at anchor here at one time. Deal was formerly a rough-looking, irregular, sailor-like place, full of narrow streets, with shops of multifarious articles termed slops or marine stores. It is however being much improved, and is now resorted to for sea bathing, especially on account of its good repute for moderate charges. The bathing establishment at Deal is well conducted, and there are good libraries.
 
 It is a great pilot, station for the licensed or branch pilots of the Cinque Ports; the Deal boatmen are as fine, noble, and intrepid a race of seamen as any in the world, and as honest as they are brave. *Deal Castle* is at the south end of the town. The village of
 

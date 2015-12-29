@@ -4,9 +4,9 @@ title: Andover to Redbridge
 ----
 company: London and South Western Railway
 ----
-Related:
+related:
 - (wikipedia: Sprat and Winkle Line)
 ----
 destination: Redbridge
 ----
-Text:
+text:

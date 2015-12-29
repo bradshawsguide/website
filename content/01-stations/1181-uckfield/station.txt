@@ -10,9 +10,9 @@ company:
 route:
 - routes/lewes-to-uckfield
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotels.--
 : Maidenhead; Bell.
 ----
-Text: Besides its two chalybeate springs in the neighbourhood it has no particular attractions.
+text: Besides its two chalybeate springs in the neighbourhood it has no particular attractions.

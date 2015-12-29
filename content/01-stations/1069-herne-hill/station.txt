@@ -11,6 +11,6 @@ route:
 - routes/london-to-chatham-and-dover
 - routes/victoria-to-herne-hill
 ----
-Meta: 
+meta: 
 ----
-Text: 
+text: 

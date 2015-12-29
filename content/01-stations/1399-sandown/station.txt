@@ -9,7 +9,7 @@ company:
 route:
 - routes/ryde-to-newchurch
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Hotels.--
 : Star and Garter (Hale's).
@@ -20,7 +20,7 @@ Coaches
 Money Order Office
 : at Shanklin.
 ----
-Text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
+text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
 ----
 Distances:
 

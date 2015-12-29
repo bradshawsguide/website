@@ -6,4 +6,4 @@ company: London and South Western Railway
 ----
 destination: Gosport, Stokes Bay and Portsmouth
 ----
-Text: &#32;
+text: &#32;

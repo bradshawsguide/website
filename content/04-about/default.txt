@@ -2,7 +2,7 @@ title: About
 ----
 type: parent
 ----
-Text: Like the popular BBC television series <cite>[Great British Railway Journeys](http://www.bbc.co.uk/programmes/b00xgqxy)</cite> presented by Michael Portillo, this site is inspired by the work of Victoria cartographer, printer and publisher [George Bradshaw](http://en.wikipedia.org/wiki/George_Bradshaw).
+text: Like the popular BBC television series <cite>[Great British Railway Journeys](http://www.bbc.co.uk/programmes/b00xgqxy)</cite> presented by Michael Portillo, this site is inspired by the work of Victoria cartographer, printer and publisher [George Bradshaw](http://en.wikipedia.org/wiki/George_Bradshaw).
 
 **George Bradshaw** (29 July 1801 - 6 September 1853) was born at Windsor Bridge, Pendleton, Lancashire, on the 29th of July 1801. On leaving school he was apprenticed to an engraver named Beale in Manchester, and in 1820 he set up his own engraving business in Belfast, returning to Manchester in 1822 to set up in that city as an engraver and printer--principally of maps.
 

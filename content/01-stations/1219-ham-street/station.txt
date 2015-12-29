@@ -10,6 +10,6 @@ company:
 route:
 - routes/ashford-to-hastings
 ----
-Meta:
+meta:
 ----
-Text:
+text:

@@ -10,9 +10,9 @@ company:
 route:
 - routes/victoria-to-crystal-palace
 ----
-Related:
+related:
 - (wikipedia: West Norwood railway station)
 ----
-Meta:
+meta:
 ----
-Text:
+text:

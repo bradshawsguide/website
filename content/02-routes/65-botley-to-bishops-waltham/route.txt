@@ -6,7 +6,7 @@ company: London and South Western Railway
 ----
 destination: Bishop's Waltham
 ----
-Related:
+related:
 - (wikipedia: Bishops Waltham branch)
 ----
-Text:
+text:

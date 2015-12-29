@@ -12,6 +12,6 @@ company:
 route:
 - routes/london-to-chatham-and-dover
 ----
-Meta:
+meta:
 ----
-Text: 
+text: 

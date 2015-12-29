@@ -10,6 +10,6 @@ company:
 route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 ----
-Meta:
+meta:
 ----
-Text:
+text:

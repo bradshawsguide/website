@@ -10,9 +10,9 @@ company:
 route:
 - routes/reigate-to-reading
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 ----
-Text: Sheire was the residence of Bray, the antiquarian, who edited Evelyn's Memoirs. In the immediate vicinity is *Abinger Hall* (2 miles), the seat of Lord Abinger. *Netley Place* (1½ mile). *Albury Park* (1½ mile). Near which is *Newland's Corner*, from which a most extensive prospect maybe obtained.
+text: Sheire was the residence of Bray, the antiquarian, who edited Evelyn's Memoirs. In the immediate vicinity is *Abinger Hall* (2 miles), the seat of Lord Abinger. *Netley Place* (1½ mile). *Albury Park* (1½ mile). Near which is *Newland's Corner*, from which a most extensive prospect maybe obtained.
 
 *East Horsley* (3 miles).
 

@@ -10,6 +10,6 @@ company:
 route:
 - routes/croydon-to-wimbledon
 ----
-Meta:
+meta:
 ----
-Text:
+text:

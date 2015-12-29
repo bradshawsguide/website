@@ -11,7 +11,7 @@ route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 - routes/barnham-to-bognor
 ----
-Meta: A telegraph station. Distance from station, ¾ mile.
+meta: A telegraph station. Distance from station, ¾ mile.
 
 Hotels.--
 : Claremont, Norfolk.
@@ -19,7 +19,7 @@ Hotels.--
 Money Order Office
 : at Arundel.
 ----
-Text: This station forms the junction of a short line to [Bognor](/stations/bognor).
+text: This station forms the junction of a short line to [Bognor](/stations/bognor).
 ----
 Distances:
 

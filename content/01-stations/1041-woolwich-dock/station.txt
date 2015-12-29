@@ -10,6 +10,6 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 ----
-Meta:
+meta:
 ----
-Text: A short distance from [Woolwich Arsenal](/stations/woolwich-arsenal) Station.
+text: A short distance from [Woolwich Arsenal](/stations/woolwich-arsenal) Station.

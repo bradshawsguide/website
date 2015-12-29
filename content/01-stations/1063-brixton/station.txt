@@ -12,6 +12,6 @@ route:
 - routes/victoria-to-herne-hill
 - routes/brixton-to-crystal-palace
 ----
-Meta: 
+meta: 
 ----
-Text: 
+text: 

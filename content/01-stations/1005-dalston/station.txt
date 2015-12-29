@@ -11,6 +11,6 @@ route:
 - routes/bow-to-chalk-farm
 - routes/dalston-to-broad-street
 ----
-Meta:
+meta:
 ----
-Text: The junction of a short branch running to [Shoreditch](/stations/shoreditch) and [Broad Street](/stations/broad-street).
+text: The junction of a short branch running to [Shoreditch](/stations/shoreditch) and [Broad Street](/stations/broad-street).

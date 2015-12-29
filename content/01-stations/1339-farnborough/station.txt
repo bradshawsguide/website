@@ -10,9 +10,9 @@ company:
 route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-Related:
+related:
 - (wikipedia: Farnborough Main railway station)
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 ----
-Text: At this station the Farnborough cutting ends, and we proceed along an embankment which again reveals some pleasing rural scenery, but the country between here and Winchfield does not demand any lengthened description. This is the nearest station for the Camp at Aldershott.
+text: At this station the Farnborough cutting ends, and we proceed along an embankment which again reveals some pleasing rural scenery, but the country between here and Winchfield does not demand any lengthened description. This is the nearest station for the Camp at Aldershott.

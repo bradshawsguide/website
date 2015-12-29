@@ -10,6 +10,6 @@ company:
 route:
 - routes/wimbledon-to-epsom-and-leatherhead
 ----
-Meta:
+meta:
 ----
-Text:
+text:

@@ -10,9 +10,9 @@ company:
 route:
 - routes/reigate-to-reading
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 ----
-Text: Within a short distance, situated most beautifully in a romantic park washed by the "Sullen Mole," are the ruins of Betchworlh Castle.
+text: Within a short distance, situated most beautifully in a romantic park washed by the "Sullen Mole," are the ruins of Betchworlh Castle.
 
 They are most picturesque, and the grey walls, contrasting with the rich green of the ivy creeping over a great part of them, stand out finely against the deep blue sky.
 

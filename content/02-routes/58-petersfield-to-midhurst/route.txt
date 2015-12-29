@@ -6,4 +6,4 @@ company: London and South Western Railway
 ----
 destination: Midhurst
 ----
-Text:
+text:

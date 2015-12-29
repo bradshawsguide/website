@@ -12,6 +12,6 @@ company:
 route:
 - routes/bow-to-chalk-farm
 ----
-Meta: 
+meta: 
 ----
-Text:
+text:

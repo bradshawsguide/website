@@ -10,7 +10,7 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-Meta: Distance from station, ¼ mile.
+meta: Distance from station, ¼ mile.
 
 A telegraph station.
 
@@ -26,6 +26,6 @@ Fair.--
 Money Order Office
 : at Staplehurst.
 ----
-Text: This village possesses no feature of particular or general interest, beyond the splendid old oak tree in the churchyard. The churches of Chart Sutton, Sutton Valence, and Sutton Castle, are worth visiting.
+text: This village possesses no feature of particular or general interest, beyond the splendid old oak tree in the churchyard. The churches of Chart Sutton, Sutton Valence, and Sutton Castle, are worth visiting.
 
 From Headcorn the railway passes the villages of Smarden and Bedenham on the right side, and then reaches [Pluckley](/stations/pluckley).

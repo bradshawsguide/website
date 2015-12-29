@@ -10,6 +10,6 @@ company:
 route:
 - routes/petersfield-to-midhurst
 ----
-Meta:
+meta:
 ----
-Text: 
+text: 

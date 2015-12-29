@@ -10,10 +10,10 @@ company:
 route:
 - routes/london-to-brighton
 ----
-Meta: A telegraph station.
+meta: A telegraph station.
 
 Money Order Office,
 : Hurst.
 
 ----
-Text: The line passes through a beautiful, cultivated, and fertile country to [Hassock's Gate](/stations/hassocks-gate).
+text: The line passes through a beautiful, cultivated, and fertile country to [Hassock's Gate](/stations/hassocks-gate).

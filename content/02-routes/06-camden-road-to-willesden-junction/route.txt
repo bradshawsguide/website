@@ -6,4 +6,4 @@ company: Hampstead Junction Railway
 ----
 destination: Willesden Junction
 ----
-Text: A transfer of passengers from the [North London Railway](/companies/north-london) can be made at [Camden Road](/stations/camden-road).
+text: A transfer of passengers from the [North London Railway](/companies/north-london) can be made at [Camden Road](/stations/camden-road).

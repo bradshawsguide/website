@@ -8,6 +8,6 @@ company:
 ----
 route:
 ----
-Meta:
+meta:
 ----
-Text:
+text:
