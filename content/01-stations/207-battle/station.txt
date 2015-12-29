@@ -35,27 +35,68 @@ The mingled scene of hill and dale, wood and village, presents one of those fair
 
 Four miles further is [St. Leonards](/stations/st-leonards) station.
 ----
-Distances:
-|                               | Miles. |
-| ----------------------------- | ------ |
-| Ashburnham                    | 5      |
-| Ashburnham Park               | 4      |
-| Battle                        | 1      |
-| Battle Abbey (Lady Webster's) | 1      |
-| Battle Powder Mills           | 2½     |
-| Beaufort                      | 2      |
-| Bohemy House                  | 3      |
-| Brede                         | 4      |
-| Catsfield                     | 3      |
-| Crowhurst Park                | 2      |
-| Darvel House                  | 3      |
-| Hollington Lodge              | 3      |
-| Newenden                      | 9      |
-| New House                     | 5      |
-| Ore Place                     | 4      |
-| Peiishurst                    | 4      |
-| Sedlescombe                   | 2¾     |
-| Udimore                       | 6½     |
-| Watch Gate                    | 1½     |
-| Westfield                     | 3¾     |
-| Whatlington                   | 3      |
+Distances2:
+
+-
+  location: Ashburnham
+  distance: "5"
+-
+  location: Ashburnham Park
+  distance: "4"
+-
+  location: Battle
+  distance: "1"
+-
+  location: "Battle Abbey (Lady Webster's)"
+  distance: "1"
+-
+  location: Battle Powder Mills
+  distance: "2.5"
+-
+  location: Beaufort
+  distance: "2"
+-
+  location: Bohemy House
+  distance: "3"
+-
+  location: Brede
+  distance: "4"
+-
+  location: Catsfield
+  distance: "3"
+-
+  location: Crowhurst Park
+  distance: "2"
+-
+  location: Darvel House
+  distance: "3"
+-
+  location: Hollington Lodge
+  distance: "3"
+-
+  location: Newenden
+  distance: "9"
+-
+  location: New House
+  distance: "5"
+-
+  location: Ore Place
+  distance: "4"
+-
+  location: Penshurst
+  distance: "4"
+-
+  location: Sedlescombe
+  distance: "2.75"
+-
+  location: Udimore
+  distance: "6.5"
+-
+  location: Watch Gate
+  distance: "1.5"
+-
+  location: Westfield
+  distance: "3.75"
+-
+  location: Whatlington
+  distance: "3"
