@@ -36,17 +36,6 @@
 <? if($page->distances()->isNotEmpty()): ?>
         <details class="related-distances">
         <? if ($page->region() == "Isle of Wight"): ?>
-            <summary>Distances of Places from <?= smartypants($page->title()) ?></summary>
-        <? else: ?>
-            <summary>Distances of Places from the Station</summary>
-        <? endif ?>
-            <?= kirbytext($page->distances()); ?>
-        </details>
-<? endif ?>
-
-<? if($page->distances()->isNotEmpty()): ?>
-        <details class="related-distances">
-        <? if ($page->region() == "Isle of Wight"): ?>
             <summary>Structured Distances of Places from <?= smartypants($page->title()) ?></summary>
         <? else: ?>
             <summary>Distances of Places from the Station</summary>
