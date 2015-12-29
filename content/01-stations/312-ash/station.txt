@@ -26,32 +26,83 @@ Text: The line now diverges or turns more towards the north, to [Aldershott](/st
 
 The line then proceeds through the valley of the Blackwater to [Blackwater](/stations/blackwater).
 ----
-Distances:
-|                    | Miles   |
-| ------------------ | ------ |
-| Aldershott         | 3      |
-| Ash Common         | 1¼     |
-| Bagshot Green      | 2¾     |
-| College Farm       | 0¾     |
-| Compton            | 4      |
-| Crondall           | 7      |
-| Farnham            | 5      |
-| Fox Hills          | 1½     |
-| Frog Grove Green   | 2½     |
-| Godalming          | 5¾     |
-| Henley Park        | 3      |
-| Hunter's Hole      | 2      |
-| Mitchet Farm       | 2      |
-| Normandy           | 2      |
-| Perbright          | 5      |
-| Poyle Park         | 1½     |
-| Puttenham          | 2¾     |
-| Romping Downs      | 2      |
-| Seal               | 2      |
-| Tongham            | 1      |
-| Warren Hill        | 4      |
-| Waverley Abbey     | 4      |
-| Week               | 1      |
-| Westwood           | 1¼     |
-| Weyburn House      | 3      |
-| Winchfield Station | 9      |
+Distances2:
+
+-
+  location: Aldershott
+  distance: "3"
+-
+  location: Ash Common
+  distance: "1.25"
+-
+  location: Bagshot Green
+  distance: "2.75"
+-
+  location: College Farm
+  distance: "0.75"
+-
+  location: Compton
+  distance: "4"
+-
+  location: Crondall
+  distance: "7"
+-
+  location: Farnham
+  distance: "5"
+-
+  location: Fox Hills
+  distance: "1.5"
+-
+  location: Frog Grove Green
+  distance: "2.5"
+-
+  location: Godalming
+  distance: "5.75"
+-
+  location: Henley Park
+  distance: "3"
+-
+  location: "Hunter's Hole"
+  distance: "2"
+-
+  location: Mitchet Farm
+  distance: "2"
+-
+  location: Normandy
+  distance: "2"
+-
+  location: Perbright
+  distance: "5"
+-
+  location: Poyle Park
+  distance: "1.5"
+-
+  location: Puttenham
+  distance: "2.75"
+-
+  location: Romping Downs
+  distance: "2"
+-
+  location: Seal
+  distance: "2"
+-
+  location: Tongham
+  distance: "1"
+-
+  location: Warren Hill
+  distance: "4"
+-
+  location: Waverley Abbey
+  distance: "4"
+-
+  location: Week
+  distance: "1"
+-
+  location: Westwood
+  distance: "1.25"
+-
+  location: Weyburn House
+  distance: "3"
+-
+  location: Winchfield Station
+  distance: "9"
