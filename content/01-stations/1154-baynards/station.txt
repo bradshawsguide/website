@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Baynards
+title: Baynards
 ----
 Region: Surrey
 ----

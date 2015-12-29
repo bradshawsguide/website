@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Acton to Hammersmith
+title: Acton to Hammersmith
 ----
 Company: North and South Western Junction Railway
 ----

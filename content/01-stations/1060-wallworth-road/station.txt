@@ -1,8 +1,8 @@
 Section: 1
 ----
-Title: Wallworth Road
+title: Wallworth Road
 ----
-ShortTitle: Wallworth Rd.
+Shorttitle: Wallworth Rd.
 ----
 Region: Surrey
 ----

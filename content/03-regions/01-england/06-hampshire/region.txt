@@ -1,4 +1,4 @@
-Title: Hampshire
+title: Hampshire
 ----
 Country: England
 ----

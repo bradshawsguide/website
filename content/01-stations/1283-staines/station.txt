@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Staines
+title: Staines
 ----
 Region: Middlesex
 ----

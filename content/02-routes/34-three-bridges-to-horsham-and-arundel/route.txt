@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Three Bridges to Horsham & Arundel
+title: Three Bridges to Horsham & Arundel
 ----
 Company: London, Brighton, and South Coast Railway
 ----

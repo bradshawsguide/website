@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Acton
+title: Acton
 ----
 Region: Middlesex
 ----

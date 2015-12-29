@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Yarmouth
+title: Yarmouth
 ----
 Region: Isle of Wight
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: London Bridge
+title: London Bridge
 ----
 Region: Surrey
 ----

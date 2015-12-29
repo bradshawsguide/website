@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Polegate to Eastbourne
+title: Polegate to Eastbourne
 ----
 Company: London, Brighton, and South Coast Railway
 ----

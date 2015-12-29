@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Reigate
+title: Reigate
 ----
 Region: Surrey
 ----

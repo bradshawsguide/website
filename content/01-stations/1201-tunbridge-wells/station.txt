@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Tunbridge Wells
+title: Tunbridge Wells
 ----
 Region: Kent
 ----

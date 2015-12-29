@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Headcorn
+title: Headcorn
 ----
 Region: Kent
 ----

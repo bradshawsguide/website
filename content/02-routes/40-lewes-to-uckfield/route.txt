@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Lewes to Uckfield
+title: Lewes to Uckfield
 ----
 Company: London, Brighton, and South Coast Railway
 ----

@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Strood to Maidstone and Paddock Wood
+title: Strood to Maidstone and Paddock Wood
 ----
 Company: South Eastern Railway
 ----

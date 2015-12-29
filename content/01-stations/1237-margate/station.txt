@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Margate (SER)
+title: Margate (SER)
 ----
 Region: Kent
 ----

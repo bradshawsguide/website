@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Benfleet
+title: Benfleet
 ----
 Region: Essex
 ----

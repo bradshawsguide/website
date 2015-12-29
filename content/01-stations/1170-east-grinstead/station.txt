@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: East Grinstead
+title: East Grinstead
 ----
 Region: Sussex
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Elephant & Castle
+title: Elephant & Castle
 ----
 Region: Surrey
 ----

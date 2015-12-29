@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Ashford to Canterbury, Ramsgate, &c.
+title: Ashford to Canterbury, Ramsgate, &c.
 ----
 Company: South Eastern Railway
 ----

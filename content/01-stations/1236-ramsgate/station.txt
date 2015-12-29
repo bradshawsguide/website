@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Ramsgate
+title: Ramsgate
 ----
 Region: Kent
 ----

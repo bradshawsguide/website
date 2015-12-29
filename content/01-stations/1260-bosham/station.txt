@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Bosham
+title: Bosham
 ----
 Region: Sussex
 ----

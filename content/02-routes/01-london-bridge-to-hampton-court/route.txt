@@ -1,4 +1,4 @@
-Title: London Bridge to Hampton Court
+title: London Bridge to Hampton Court
 ----
 Company: London
 ----

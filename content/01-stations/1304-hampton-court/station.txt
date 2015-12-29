@@ -1,8 +1,8 @@
 Section: 1
 ----
-Title: Hampton Court (East Moulsey)
+title: Hampton Court (East Moulsey)
 ----
-ShortTitle: Hampton Court
+Shorttitle: Hampton Court
 ----
 Region: Surrey
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Wokingham
+title: Wokingham
 ----
 Region: Berkshire
 ----

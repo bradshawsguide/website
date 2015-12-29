@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Ham Street
+title: Ham Street
 ----
 Region: Kent
 ----

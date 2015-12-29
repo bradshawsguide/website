@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Wimborne to Blandford
+title: Wimborne to Blandford
 ----
 Company: London and South Western Railway
 ----

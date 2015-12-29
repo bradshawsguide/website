@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Islington
+title: Islington
 ----
 Region: Middlesex
 ----

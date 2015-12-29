@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Pitsea
+title: Pitsea
 ----
 Region: Essex
 ----

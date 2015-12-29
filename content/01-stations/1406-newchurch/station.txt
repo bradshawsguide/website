@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Newchurch
+title: Newchurch
 ----
 Region: Isle of Wight
 ----

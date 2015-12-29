@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Blandford
+title: Blandford
 ----
 Region: Dorsetshire
 ----

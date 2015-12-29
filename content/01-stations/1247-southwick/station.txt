@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Southwick
+title: Southwick
 ----
 Region: Sussex
 ----

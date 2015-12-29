@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: West Croydon
+title: West Croydon
 ----
 Region: Surrey
 ----

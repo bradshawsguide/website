@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Berwick
+title: Berwick
 ----
 Region: Sussex
 ----

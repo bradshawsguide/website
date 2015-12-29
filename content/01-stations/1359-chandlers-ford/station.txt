@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Chandler's Ford
+title: Chandler's Ford
 ----
 Region: Hampshire
 ----

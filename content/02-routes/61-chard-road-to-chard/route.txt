@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Chard Road to Chard
+title: Chard Road to Chard
 ----
 Company: London and South Western Railway
 ----

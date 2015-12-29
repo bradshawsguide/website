@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: California
+title: California
 ----
 Region: Surrey
 ----

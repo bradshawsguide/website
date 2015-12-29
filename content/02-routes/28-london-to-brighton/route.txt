@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: London to Brighton
+title: London to Brighton
 ----
 Company: London, Brighton, and South Coast Railway
 ----

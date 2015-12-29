@@ -1,4 +1,4 @@
-Title: Colophon
+title: Colophon
 ----
 Type: child
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Greenhithe
+title: Greenhithe
 ----
 Region: Kent
 ----

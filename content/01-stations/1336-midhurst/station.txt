@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Midhurst
+title: Midhurst
 ----
 Region: Hampshire
 ----

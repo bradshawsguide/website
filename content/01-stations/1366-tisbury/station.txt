@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Tisbury
+title: Tisbury
 ----
 Region: Wiltshire
 ----

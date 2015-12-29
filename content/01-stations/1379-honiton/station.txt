@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Honiton
+title: Honiton
 ----
 Region: Devon
 ----

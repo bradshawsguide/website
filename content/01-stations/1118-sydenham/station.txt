@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Sydenham
+title: Sydenham
 ----
 Region: Kent
 ----

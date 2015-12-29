@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Sunningdale
+title: Sunningdale
 ----
 Region: Berkshire
 ----

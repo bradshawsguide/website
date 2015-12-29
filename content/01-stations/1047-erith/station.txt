@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Erith
+title: Erith
 ----
 Region: Kent
 ----

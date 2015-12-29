@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Blackheath
+title: Blackheath
 ----
 Region: Kent
 ----

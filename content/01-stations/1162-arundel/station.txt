@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Arundel
+title: Arundel
 ----
 Region: Sussex
 ----

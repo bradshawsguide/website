@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Thorton Heath
+title: Thorton Heath
 ----
 Region: Surrey
 ----

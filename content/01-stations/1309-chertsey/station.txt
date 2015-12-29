@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Chertsey
+title: Chertsey
 ----
 Region: Surrey
 ----

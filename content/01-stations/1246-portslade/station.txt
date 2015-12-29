@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Portslade
+title: Portslade
 ----
 Region: Sussex
 ----

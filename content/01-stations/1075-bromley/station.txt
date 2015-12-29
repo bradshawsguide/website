@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Bromley
+title: Bromley
 ----
 Region: Kent
 ----

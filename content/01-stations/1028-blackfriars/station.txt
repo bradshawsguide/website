@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Blackfriars
+title: Blackfriars
 ----
 Region: Middlesex
 ----

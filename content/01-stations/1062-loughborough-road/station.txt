@@ -1,8 +1,8 @@
 Section: 1
 ----
-Title: Loughborough Road
+title: Loughborough Road
 ----
-ShortTitle: Loughborough Rd.
+Shorttitle: Loughborough Rd.
 ----
 Region: Surrey
 ----

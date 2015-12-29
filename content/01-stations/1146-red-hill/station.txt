@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Red Hill
+title: Red Hill
 ----
 Region: Surrey
 ----

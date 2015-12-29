@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Brighton
+title: Brighton
 ----
 Region: Sussex
 ----

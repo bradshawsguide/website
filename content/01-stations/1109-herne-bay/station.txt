@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Herne Bay
+title: Herne Bay
 ----
 Region: Kent
 ----

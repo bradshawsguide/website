@@ -1,4 +1,4 @@
-Title: Style Guide
+title: Style Guide
 ----
 Type: child
 ----

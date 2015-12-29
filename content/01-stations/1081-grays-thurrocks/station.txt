@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Gray's Thurrocks
+title: Gray's Thurrocks
 ----
 Region: Essex
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Ascot
+title: Ascot
 ----
 Region: Berkshire
 ----

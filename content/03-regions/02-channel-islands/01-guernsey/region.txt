@@ -1,4 +1,4 @@
-﻿Title: Guernsey
+﻿title: Guernsey
 ----
 Country: Channel Islands
 ----

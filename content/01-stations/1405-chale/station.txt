@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Chale
+title: Chale
 ----
 Region: Isle of Wight
 ----

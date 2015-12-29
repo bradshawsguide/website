@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Appledore
+title: Appledore
 ----
 Region: Kent
 ----

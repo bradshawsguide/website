@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Croydon to Epsom
+title: Croydon to Epsom
 ----
 Company: London, Brighton, and South Coast Railway
 ----

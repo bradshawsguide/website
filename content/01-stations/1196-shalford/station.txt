@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Shalford
+title: Shalford
 ----
 Region: Surrey
 ----

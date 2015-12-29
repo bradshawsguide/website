@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: London to Southampton, Dorchester and Weymouth
+title: London to Southampton, Dorchester and Weymouth
 ----
 Company: London and South Western Railway
 ----

@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Surbiton to Hampton Court
+title: Surbiton to Hampton Court
 ----
 Company: London and South Western Railway
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Tunbridge
+title: Tunbridge
 ----
 Region: Kent
 ----

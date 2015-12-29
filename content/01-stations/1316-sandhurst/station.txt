@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Sandhurst
+title: Sandhurst
 ----
 Region: Hampshire
 ----

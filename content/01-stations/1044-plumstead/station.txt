@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Plumstead
+title: Plumstead
 ----
 Region: Kent
 ----

@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Horsebridge
+title: Horsebridge
 ----
 Region: Hampshire
 ----

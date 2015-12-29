@@ -1,4 +1,4 @@
-﻿Title: Jersey
+﻿title: Jersey
 ----
 Country: Channel Islands
 ----

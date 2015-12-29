@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: London to Richmond, Staines, Wokingham and Reading
+title: London to Richmond, Staines, Wokingham and Reading
 ----
 Company: London and South Western Railway
 ----

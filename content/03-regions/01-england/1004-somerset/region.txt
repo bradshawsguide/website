@@ -1,4 +1,4 @@
-Title: Somerset
+title: Somerset
 ----
 Country: England
 ----

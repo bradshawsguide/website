@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Newport
+title: Newport
 ----
 Region: Isle of Wight
 ----

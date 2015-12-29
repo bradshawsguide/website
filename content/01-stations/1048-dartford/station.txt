@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Dartford
+title: Dartford
 ----
 Region: Kent
 ----

@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Caterham Junction to Caterham
+title: Caterham Junction to Caterham
 ----
 Company: South Eastern Railway
 ----

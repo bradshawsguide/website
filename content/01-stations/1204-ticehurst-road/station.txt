@@ -1,8 +1,8 @@
 Section: 1
 ----
-Title: Ticehurst Road
+title: Ticehurst Road
 ----
-ShortTitle: Ticehurst Rd.
+Shorttitle: Ticehurst Rd.
 ----
 Region: Sussex
 ----

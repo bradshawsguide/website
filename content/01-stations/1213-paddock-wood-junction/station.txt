@@ -1,8 +1,8 @@
 Section: 1
 ----
-Title: Paddock Wood Junction
+title: Paddock Wood Junction
 ----
-ShortTitle: Paddock Wood Jct.
+Shorttitle: Paddock Wood Jct.
 ----
 Region: Kent
 ----

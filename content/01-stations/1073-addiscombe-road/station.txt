@@ -1,8 +1,8 @@
 Section: 1
 ----
-Title: Addiscombe Road
+title: Addiscombe Road
 ----
-ShortTitle: Addicombe Rd.
+Shorttitle: Addicombe Rd.
 ----
 Region: Kent
 ----

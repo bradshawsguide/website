@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Three Bridges to East Grinstead
+title: Three Bridges to East Grinstead
 ----
 Company: London, Brighton, and South Coast Railway
 ----

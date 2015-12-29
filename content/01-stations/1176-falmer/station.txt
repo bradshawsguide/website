@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Falmer
+title: Falmer
 ----
 Region: Sussex
 ----

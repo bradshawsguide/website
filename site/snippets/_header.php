@@ -56,8 +56,8 @@
     <meta charset="utf-8"/>
     <meta name="robots" content="index, follow"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="application-name" content="<?= smartypants($site->shorttitle()) ?>">
-    <meta name="apple-mobile-web-app-title" content="<?= smartypants($site->shorttitle()) ?>">
+    <meta name="application-name" content="<?= smartypants($site->shortTitle()) ?>">
+    <meta name="apple-mobile-web-app-title" content="<?= smartypants($site->shortTitle()) ?>">
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@bradshawsguide">

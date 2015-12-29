@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Crystal Palace
+title: Crystal Palace
 ----
 Region: Surrey
 ----

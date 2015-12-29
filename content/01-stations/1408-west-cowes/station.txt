@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: West Cowes
+title: West Cowes
 ----
 Region: Isle of Wight
 ----

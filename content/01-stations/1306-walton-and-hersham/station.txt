@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Walton & Hersham
+title: Walton & Hersham
 ----
 Region: Surrey
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Henfield
+title: Henfield
 ----
 Region: Sussex
 ----

@@ -1,8 +1,8 @@
 Section: 1
 ----
-Title: Farringdon Street
+title: Farringdon Street
 ----
-ShortTitle: Farringdon St.
+Shorttitle: Farringdon St.
 ----
 Region: Middlesex
 ----

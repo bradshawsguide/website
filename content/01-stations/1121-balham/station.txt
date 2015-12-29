@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Balham
+title: Balham
 ----
 Region: Surrey
 ----

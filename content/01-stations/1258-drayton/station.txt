@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Drayton
+title: Drayton
 ----
 Region: Sussex
 ----

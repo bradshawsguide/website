@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Bishopstoke to Gosport, Stokes Bay and Portsmouth
+title: Bishopstoke to Gosport, Stokes Bay and Portsmouth
 ----
 Company: London and South Western Railway
 ----

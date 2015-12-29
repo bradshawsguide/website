@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Ashford to Hastings
+title: Ashford to Hastings
 ----
 Company: South Eastern Railway
 ----

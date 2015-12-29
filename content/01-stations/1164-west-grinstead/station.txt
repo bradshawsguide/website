@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: West Grinstead
+title: West Grinstead
 ----
 Region: Sussex
 ----

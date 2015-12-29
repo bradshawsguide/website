@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Witley
+title: Witley
 ----
 Region: Surrey
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Wandsworth
+title: Wandsworth
 ----
 Region: Surrey
 ----

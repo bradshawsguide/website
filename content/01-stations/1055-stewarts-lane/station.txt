@@ -1,8 +1,8 @@
 Section: 1
 ----
-Title: Stewart's Lane
+title: Stewart's Lane
 ----
-ShortTitle: Stewart's Ln.
+Shorttitle: Stewart's Ln.
 ----
 Region: Surrey
 ----

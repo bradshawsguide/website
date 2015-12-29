@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Chislehurst
+title: Chislehurst
 ----
 Region: Kent
 ----

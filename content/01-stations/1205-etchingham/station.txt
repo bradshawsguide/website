@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Etchingham
+title: Etchingham
 ----
 Region: Sussex
 ----

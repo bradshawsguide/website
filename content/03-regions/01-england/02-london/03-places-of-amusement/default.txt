@@ -1,4 +1,4 @@
-Title: Places of Amusement, &c.
+title: Places of Amusement, &c.
 ----
 Type: child
 ----

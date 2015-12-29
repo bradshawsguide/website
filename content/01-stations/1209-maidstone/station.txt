@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Maidstone
+title: Maidstone
 ----
 Region: Kent
 ----

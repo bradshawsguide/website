@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Shortlands
+title: Shortlands
 ----
 Region: Kent
 ----

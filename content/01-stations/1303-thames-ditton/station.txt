@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Thames Ditton
+title: Thames Ditton
 ----
 Region: Surrey
 ----

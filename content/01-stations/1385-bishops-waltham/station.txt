@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Bishop's Waltham
+title: Bishop's Waltham
 ----
 Region: Hampshire
 ----

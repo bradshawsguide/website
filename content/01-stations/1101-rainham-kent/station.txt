@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Rainham (Kent)
+title: Rainham (Kent)
 ----
 Region: Kent
 ----

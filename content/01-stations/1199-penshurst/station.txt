@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Penshurt
+title: Penshurt
 ----
 Region: Kent
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Chiswick
+title: Chiswick
 ----
 Region: Middlesex
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Sandwich
+title: Sandwich
 ----
 Region: Kent
 ----

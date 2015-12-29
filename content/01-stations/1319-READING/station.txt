@@ -1,6 +1,6 @@
 Section: 2
 ----
-Title: Reading
+title: Reading
 ----
 Region: Berkshire
 ----

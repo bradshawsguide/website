@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Pullborough to Petworth
+title: Pullborough to Petworth
 ----
 Company: London, Brighton, and South Coast Railway
 ----

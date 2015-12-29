@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Chatham
+title: Chatham
 ----
 Region: Kent
 ----

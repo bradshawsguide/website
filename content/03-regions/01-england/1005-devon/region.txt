@@ -1,4 +1,4 @@
-Title: Devon
+title: Devon
 ----
 Country: England
 ----

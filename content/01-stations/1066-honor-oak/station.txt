@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Honor Oak
+title: Honor Oak
 ----
 Region: Surrey
 ----

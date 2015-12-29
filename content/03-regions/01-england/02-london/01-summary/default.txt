@@ -1,4 +1,4 @@
-Title: Summary
+title: Summary
 ----
 Type: child
 ----

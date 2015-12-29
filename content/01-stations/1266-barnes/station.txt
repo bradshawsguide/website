@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Barnes
+title: Barnes
 ----
 Region: Surrey
 ----

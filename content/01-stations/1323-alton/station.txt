@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Alton
+title: Alton
 ----
 Region: Hampshire
 ----

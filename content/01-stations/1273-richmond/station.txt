@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Richmond
+title: Richmond
 ----
 Region: Surrey
 ----

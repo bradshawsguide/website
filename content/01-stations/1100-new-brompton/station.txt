@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: New Brompton
+title: New Brompton
 ----
 Region: Kent
 ----

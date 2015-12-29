@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Rowfant
+title: Rowfant
 ----
 Region: Sussex
 ----

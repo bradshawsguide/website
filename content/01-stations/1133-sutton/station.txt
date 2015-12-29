@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Sutton
+title: Sutton
 ----
 Region: Surrey
 ----

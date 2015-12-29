@@ -1,8 +1,8 @@
 Section: 1
 ----
-Title: Borough Road
+title: Borough Road
 ----
-ShortTitle: Borough Rd.
+Shorttitle: Borough Rd.
 ----
 Region: Surrey
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Sturry
+title: Sturry
 ----
 Region: Kent
 ----

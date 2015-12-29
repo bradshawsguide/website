@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Ryde
+title: Ryde
 ----
 Region: Isle of Wight
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Sheerness
+title: Sheerness
 ----
 Region: Kent
 ----

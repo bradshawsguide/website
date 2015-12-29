@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Chilham
+title: Chilham
 ----
 Region: Kent
 ----

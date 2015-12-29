@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Alresford
+title: Alresford
 ----
 Region: Hampshire
 ----

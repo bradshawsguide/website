@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Wadhurst
+title: Wadhurst
 ----
 Region: Sussex
 ----

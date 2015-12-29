@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Bentley
+title: Bentley
 ----
 Region: Hampshire
 ----

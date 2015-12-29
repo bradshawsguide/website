@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Staplehurst
+title: Staplehurst
 ----
 Region: Kent
 ----

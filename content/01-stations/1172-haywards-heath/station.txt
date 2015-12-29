@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Hayward's Heath
+title: Hayward's Heath
 ----
 Region: Sussex
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Belvedere
+title: Belvedere
 ----
 Region: Kent
 ----

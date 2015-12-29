@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Margate (C&D)
+title: Margate (C&D)
 ----
 Region: Kent
 ----

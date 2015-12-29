@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Ashford
+title: Ashford
 ----
 Region: Kent
 ----

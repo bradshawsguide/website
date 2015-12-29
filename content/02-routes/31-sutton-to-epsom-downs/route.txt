@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Sutton to Epsom Downs
+title: Sutton to Epsom Downs
 ----
 Company: London, Brighton, and South Coast Railway
 ----

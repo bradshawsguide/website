@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Gomshall & Sheire
+title: Gomshall & Sheire
 ----
 Region: Surrey
 ----

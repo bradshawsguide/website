@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Polegate to Hailsham
+title: Polegate to Hailsham
 ----
 Company: London, Brighton, and South Coast Railway
 ----

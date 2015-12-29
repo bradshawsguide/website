@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Ringwood to Christchurch
+title: Ringwood to Christchurch
 ----
 Company: London and South Western Railway
 ----

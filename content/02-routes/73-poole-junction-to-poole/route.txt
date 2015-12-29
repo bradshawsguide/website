@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Poole Junction to Poole
+title: Poole Junction to Poole
 ----
 Company: London and South Western Railway
 ----

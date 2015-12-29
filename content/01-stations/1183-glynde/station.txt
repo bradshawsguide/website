@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Glynde
+title: Glynde
 ----
 Region: Sussex
 ----

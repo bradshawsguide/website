@@ -1,4 +1,4 @@
-Title: Wiltshire
+title: Wiltshire
 ----
 Country: England
 ----

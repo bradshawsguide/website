@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Fay Gate
+title: Fay Gate
 ----
 Region: Sussex
 ----

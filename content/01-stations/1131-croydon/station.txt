@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Croydon
+title: Croydon
 ----
 Region: Surrey
 ----

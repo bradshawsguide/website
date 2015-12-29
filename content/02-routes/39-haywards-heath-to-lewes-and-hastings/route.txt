@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Hayward's Heath to Lewes and Hastings
+title: Hayward's Heath to Lewes and Hastings
 ----
 Company: London, Brighton, and South Coast Railway
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Cuxton, or Cuckstone
+title: Cuxton, or Cuckstone
 ----
 Region: Kent
 ----

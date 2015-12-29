@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Petersfield to Midhurst
+title: Petersfield to Midhurst
 ----
 Company: London and South Western Railway
 ----

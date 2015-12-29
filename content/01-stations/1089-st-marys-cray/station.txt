@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: St. Mary's Cray
+title: St. Mary's Cray
 ----
 Region: Kent
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Bexhill
+title: Bexhill
 ----
 Region: Sussex
 ----

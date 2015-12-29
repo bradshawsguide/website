@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Hassock's Gate
+title: Hassock's Gate
 ----
 Region: Sussex
 ----

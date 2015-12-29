@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Barnham to Bognor
+title: Barnham to Bognor
 ----
 Company: London, Brighton, and South Coast Railway
 ----

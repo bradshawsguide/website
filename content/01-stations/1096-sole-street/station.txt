@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Sole Street
+title: Sole Street
 ----
 Region: Kent
 ----

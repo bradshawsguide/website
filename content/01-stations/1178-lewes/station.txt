@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Lewes
+title: Lewes
 ----
 Region: Sussex
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Cliftonville
+title: Cliftonville
 ----
 Region: Sussex
 ----

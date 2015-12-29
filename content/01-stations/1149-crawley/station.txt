@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Crawley
+title: Crawley
 ----
 Region: Sussex
 ----

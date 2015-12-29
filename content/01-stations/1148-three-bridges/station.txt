@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Three Bridges
+title: Three Bridges
 ----
 Region: Sussex
 ----

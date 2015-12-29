@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Datchet
+title: Datchet
 ----
 Region: Buckinghamshire
 ----

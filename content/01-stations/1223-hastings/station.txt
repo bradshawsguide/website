@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Hastings
+title: Hastings
 ----
 Region: Sussex
 ----

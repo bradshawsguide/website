@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Rainham
+title: Rainham
 ----
 Region: Essex
 ----

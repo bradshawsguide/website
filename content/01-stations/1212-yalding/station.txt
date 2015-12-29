@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Yalding
+title: Yalding
 ----
 Region: Kent
 ----

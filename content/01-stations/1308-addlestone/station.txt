@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Addlestone
+title: Addlestone
 ----
 Region: Surrey
 ----

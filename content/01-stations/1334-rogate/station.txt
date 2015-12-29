@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Rogate
+title: Rogate
 ----
 Region: Hampshire
 ----

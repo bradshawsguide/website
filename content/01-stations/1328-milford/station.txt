@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Milford
+title: Milford
 ----
 Region: Surrey
 ----

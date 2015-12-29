@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Banstead
+title: Banstead
 ----
 Region: Surrey
 ----

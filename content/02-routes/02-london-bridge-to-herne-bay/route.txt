@@ -1,4 +1,4 @@
-Title: London Bridge to Herne Bay by Steamer
+title: London Bridge to Herne Bay by Steamer
 ----
 Company: London
 ----

@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Lewes to Newhaven
+title: Lewes to Newhaven
 ----
 Company: London, Brighton, and South Coast Railway
 ----

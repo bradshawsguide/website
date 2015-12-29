@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Commercial Dock
+title: Commercial Dock
 ----
 Region: Surrey
 ----

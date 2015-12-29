@@ -1,4 +1,4 @@
-Title: Visitors' Guide
+title: Visitors' Guide
 ----
 Type: child
 ----

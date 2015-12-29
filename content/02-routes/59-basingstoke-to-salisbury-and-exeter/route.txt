@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Basingstoke to Salisbury and Exeter
+title: Basingstoke to Salisbury and Exeter
 ----
 Company: London and South Western Railway
 ----

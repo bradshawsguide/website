@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Farnham
+title: Farnham
 ----
 Region: Surrey
 ----

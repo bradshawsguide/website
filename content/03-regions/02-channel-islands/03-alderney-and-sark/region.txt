@@ -1,4 +1,4 @@
-﻿Title: Alderney & Sark
+﻿title: Alderney & Sark
 ----
 Country: Channel Islands
 ----

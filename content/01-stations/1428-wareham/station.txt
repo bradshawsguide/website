@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Wareham
+title: Wareham
 ----
 Region: Dorsetshire
 ----

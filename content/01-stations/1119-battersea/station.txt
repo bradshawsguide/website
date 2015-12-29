@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Battersea
+title: Battersea
 ----
 Region: Surrey
 ----

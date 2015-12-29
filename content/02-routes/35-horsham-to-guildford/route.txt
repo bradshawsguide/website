@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Horsham to Guildford
+title: Horsham to Guildford
 ----
 Company: London, Brighton, and South Coast Railway
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Steyning
+title: Steyning
 ----
 Region: Sussex
 ----

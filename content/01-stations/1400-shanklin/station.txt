@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Shanklin
+title: Shanklin
 ----
 Region: Isle of Wight
 ----

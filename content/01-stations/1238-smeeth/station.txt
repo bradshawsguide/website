@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Smeeth
+title: Smeeth
 ----
 Region: Kent
 ----

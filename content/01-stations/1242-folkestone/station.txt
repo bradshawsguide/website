@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Folkestone
+title: Folkestone
 ----
 Region: Kent
 ----

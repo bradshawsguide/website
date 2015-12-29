@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Bonchurch
+title: Bonchurch
 ----
 Region: Isle of Wight
 ----

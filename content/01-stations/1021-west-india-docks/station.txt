@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: West India Docks
+title: West India Docks
 ----
 Region: Middlesex
 ----

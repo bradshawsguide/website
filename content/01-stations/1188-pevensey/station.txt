@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Pevensey
+title: Pevensey
 ----
 Region: Sussex
 ----

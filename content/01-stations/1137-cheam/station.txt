@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Cheam
+title: Cheam
 ----
 Region: Surrey
 ----

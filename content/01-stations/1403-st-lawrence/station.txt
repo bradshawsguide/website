@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: St. Lawrence
+title: St. Lawrence
 ----
 Region: Isle of Wight
 ----

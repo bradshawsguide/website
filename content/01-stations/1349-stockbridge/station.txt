@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Stockbridge
+title: Stockbridge
 ----
 Region: Hampshire
 ----

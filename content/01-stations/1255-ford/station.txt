@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Ford
+title: Ford
 ----
 Region: Sussex
 ----

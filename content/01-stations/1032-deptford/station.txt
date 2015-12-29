@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Deptford
+title: Deptford
 ----
 Region: Kent
 ----

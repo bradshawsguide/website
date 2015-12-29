@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Denmark Hill
+title: Denmark Hill
 ----
 Region: Surrey
 ----

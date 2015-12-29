@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Kingston-on-Sea
+title: Kingston-on-Sea
 ----
 Region: Sussex
 ----

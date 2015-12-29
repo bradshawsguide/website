@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Grove Ferry
+title: Grove Ferry
 ----
 Region: Kent
 ----

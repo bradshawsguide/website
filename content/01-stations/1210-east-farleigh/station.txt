@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: East Farleigh
+title: East Farleigh
 ----
 Region: Kent
 ----

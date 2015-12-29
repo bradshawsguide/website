@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Leatherhead
+title: Leatherhead
 ----
 Region: Surrey
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Goring
+title: Goring
 ----
 Region: Sussex
 ----

@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Bramber
+title: Bramber
 ----
 Region: Sussex
 ----

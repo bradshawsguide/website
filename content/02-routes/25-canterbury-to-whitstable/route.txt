@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Canterbury to Whitstable
+title: Canterbury to Whitstable
 ----
 Company: South Eastern Railway
 ----

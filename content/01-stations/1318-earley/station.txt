@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Earley
+title: Earley
 ----
 Region: Berkshire
 ----

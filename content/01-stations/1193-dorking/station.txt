@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Dorking
+title: Dorking
 ----
 Region: Surrey
 ----

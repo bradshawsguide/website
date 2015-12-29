@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Bow
+title: Bow
 ----
 Region: Middlesex
 ----

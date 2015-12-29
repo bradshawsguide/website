@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: St. Leonards
+title: St. Leonards
 ----
 Region: Sussex
 ----

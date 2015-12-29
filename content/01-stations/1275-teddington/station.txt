@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Teddington
+title: Teddington
 ----
 Region: Middlesex
 ----

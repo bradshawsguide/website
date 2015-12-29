@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Itchen Abbas
+title: Itchen Abbas
 ----
 Region: Hampshire
 ----

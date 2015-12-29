@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Windsor
+title: Windsor
 ----
 Region: Berkshire
 ----

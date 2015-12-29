@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Southend
+title: Southend
 ----
 Region: Essex
 ----

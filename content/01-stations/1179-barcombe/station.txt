@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Barcombe
+title: Barcombe
 ----
 Region: Sussex
 ----

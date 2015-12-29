@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Shorncliffe Camp
+title: Shorncliffe Camp
 ----
 Region: Kent
 ----

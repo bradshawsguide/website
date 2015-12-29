@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Woolwich Arsenal
+title: Woolwich Arsenal
 ----
 Region: Kent
 ----

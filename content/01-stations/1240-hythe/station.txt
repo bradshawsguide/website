@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Hythe
+title: Hythe
 ----
 Region: Kent
 ----

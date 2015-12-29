@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Reigate to Reading
+title: Reigate to Reading
 ----
 Company: South Eastern Railway
 ----

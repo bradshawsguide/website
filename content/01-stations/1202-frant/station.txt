@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Frant
+title: Frant
 ----
 Region: Sussex
 ----

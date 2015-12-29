@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: London and Beckenham to Chatham, Canterbury, and Dover
+title: London and Beckenham to Chatham, Canterbury, and Dover
 ----
 Company: London, Chatham, and Dover Railway
 ----

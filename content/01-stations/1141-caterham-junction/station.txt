@@ -1,8 +1,8 @@
 Section: 1
 ----
-Title: Caterham Junction
+title: Caterham Junction
 ----
-ShortTitle: Caterham Jct.
+Shorttitle: Caterham Jct.
 ----
 Region: Surrey
 ----

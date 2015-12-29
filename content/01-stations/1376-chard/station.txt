@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Chard
+title: Chard
 ----
 Region: Somerset
 ----

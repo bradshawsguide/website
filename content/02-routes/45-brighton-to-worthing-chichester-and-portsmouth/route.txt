@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Brighton to Worthing, Chichester and Portsmouth
+title: Brighton to Worthing, Chichester and Portsmouth
 ----
 Company: London, Brighton, and South Coast Railway
 ----

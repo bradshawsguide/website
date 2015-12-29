@@ -1,6 +1,6 @@
 ﻿Section: 2
 ----
-Title: Bridport
+title: Bridport
 ----
 Region: Dorsetshire
 ----

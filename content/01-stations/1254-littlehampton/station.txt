@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Littlehampton
+title: Littlehampton
 ----
 Region: Sussex
 ----

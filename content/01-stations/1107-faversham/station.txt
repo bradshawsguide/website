@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Faversham
+title: Faversham
 ----
 Region: Kent
 ----

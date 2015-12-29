@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Amberley
+title: Amberley
 ----
 Region: Sussex
 ----

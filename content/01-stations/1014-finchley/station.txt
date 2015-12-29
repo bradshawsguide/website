@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Finchley
+title: Finchley
 ----
 Region: Middlesex
 ----

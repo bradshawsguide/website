@@ -1,8 +1,8 @@
 ﻿Section: 1
 ----
-Title: Chard Road
+title: Chard Road
 ----
-ShortTitle: Chard Rd.
+Shorttitle: Chard Rd.
 ----
 Region: Somerset
 ----

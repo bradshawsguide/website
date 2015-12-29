@@ -1,6 +1,6 @@
 Section: 1
 ----
-Title: Stepney
+title: Stepney
 ----
 Region: Middlesex
 ----

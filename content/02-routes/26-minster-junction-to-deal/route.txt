@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Minster Junction to Deal
+title: Minster Junction to Deal
 ----
 Company: South Eastern Railway
 ----

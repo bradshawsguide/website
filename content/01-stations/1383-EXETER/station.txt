@@ -1,6 +1,6 @@
 ﻿Section: 2
 ----
-Title: Exeter
+title: Exeter
 ----
 Region: Devon
 ----

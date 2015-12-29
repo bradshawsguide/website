@@ -1,6 +1,6 @@
 ﻿Section: 1
 ----
-Title: Twickenham to Kingston
+title: Twickenham to Kingston
 ----
 Company: London and South Western Railway
 ----
