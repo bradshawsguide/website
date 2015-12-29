@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Yarmouth
 ----
@@ -31,24 +31,56 @@ Fair.--
 Text: Yarmouth, another decayed borough, originally founded by the Rivers family. There is a town hall, one of Henry VIII.'s forts, and a church in which is a monument of Sir Robert Holmes, Captain of the Island, at the visit of Charles II. in 1671. He resided at what is now the King's Head Inn. Hurst Castle is opposite.
 ----
 Distances:
-|                   | Miles. |
-| ----------------- | ------ |
-| Afton Down        | 2½     |
-| Calbourne         | 4½     |
-| Church, The [^1]  | 0¼     |
-| Clanmore          | 1      |
-| Compton           | 3      |
-| Curlew            | 4½     |
-| East Hamstead     | 3      |
-| Forts, The        | 1      |
-| Freshwater        | 2      |
-| Freshwater Gate   | 3      |
-| Hurst Castle      | 2½     |
-| Lingwood          | 2      |
-| Lymington         | 5      |
-| Newtown Harbour   | 4      |
-| Norton            | 0¾     |
-| Scone Point       | 1      |
-| Tapnel            | 2½     |
-
-[^1]: Sir Richard Holmes' Monument--Governor of the Island in 1671, when visited by Charles II.
+-
+  location: Afton Down
+  miles: "2½"
+-
+  location: Calbourne
+  miles: "4½"
+-
+  location: |
+    Church, The
+    *Sir Richard Holmes' Monument--Governor of the Island in 1671, when visited by Charles II.*
+  miles: "0¼"
+-
+  location: Clanmore
+  miles: "1"
+-
+  location: Compton
+  miles: "3"
+-
+  location: Curlew
+  miles: "4½"
+-
+  location: East Hamstead
+  miles: "3"
+-
+  location: Forts, The
+  miles: "1"
+-
+  location: Freshwater
+  miles: "2"
+-
+  location: Freshwater Gate
+  miles: "3"
+-
+  location: Hurst Castle
+  miles: "2½"
+-
+  location: Lingwood
+  miles: "2"
+-
+  location: Lymington
+  miles: "5"
+-
+  location: Newtown Harbour
+  miles: "4"
+-
+  location: Norton
+  miles: "0¾"
+-
+  location: Scone Point
+  miles: "1"
+-
+  location: Tapnel
+  miles: "2½"

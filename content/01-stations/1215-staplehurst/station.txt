@@ -23,36 +23,97 @@ Text: The village of the same name is near the station; its fine old church and 
 The village of Cranbrook, in the heart of the Weald of Kent is remarkable for its handsome church, considered one of the most interesting edifices in the county. The remains of Sissinghurst Castle, four miles, are also well worthy a visit.
 ----
 Distances:
-|                          | Miles. |
-| ------------------------ | ------ |
-| Bennendon                | 7      |
-| Chart Hill               | 3      |
-| Chart Sutton             | 3      |
-| Chiddendcen Wood         | 5½     |
-| Cranbrook                | 6      |
-| Dingle Dale              | 8      |
-| Dellingden Farm          | 6¾     |
-| East Sutton              | 3¾     |
-| Elderton                 | 1¾     |
-| Foxcarthwood             | 5      |
-| Frittenden               | 4      |
-| Goddard's Green          | 6½     |
-| Great Dunbury            | 1¼     |
-| Hangley Wood             | 5¼     |
-| Hartley                  | 6½     |
-| Hawkhurst                | 8¼     |
-| Hempstead Park           | 6      |
-| Hersfield Place          | 2¼     |
-| Highgate                 | 8¼     |
-| Hockenbury Green         | 1      |
-| Kilsom                   | 1      |
-| Love House               | 1½     |
-| Milk House Street        | 4      |
-| Postern Plain            | 2¼     |
-| Sandhurst Green          | 9¾     |
-| Standing Street          | 8¼     |
-| Sutton Valenee           | 3¼     |
-| Swallenden Farm          | 7½     |
-| Switliland               | 2½     |
-| Wanthurst                | 1¼     |
-| Winsley Green            | 4½     |
+
+-
+  location: Bennendon
+  miles: "7"
+-
+  location: Chart Hill
+  miles: "3"
+-
+  location: Chart Sutton
+  miles: "3"
+-
+  location: Chiddenden Wood
+  miles: "5½"
+-
+  location: Cranbrook
+  miles: "6"
+-
+  location: Dingle Dale
+  miles: "8"
+-
+  location: Dellingden Farm
+  miles: "6¾"
+-
+  location: East Sutton
+  miles: "3¾"
+-
+  location: Elderton
+  miles: "1¾"
+-
+  location: Foxcarthwood
+  miles: "5"
+-
+  location: Frittenden
+  miles: "4"
+-
+  location: "Goddard's Green"
+  miles: "6½"
+-
+  location: Great Dunbury
+  miles: "1¼"
+-
+  location: Hangley Wood
+  miles: "5¼"
+-
+  location: Hartley
+  miles: "6½"
+-
+  location: Hawkhurst
+  miles: "8¼"
+-
+  location: Hempstead Park
+  miles: "6"
+-
+  location: Hersfield Place
+  miles: "2¼"
+-
+  location: Highgate
+  miles: "8¼"
+-
+  location: Hockenbury Green
+  miles: "1"
+-
+  location: Kilsom
+  miles: "1"
+-
+  location: Love House
+  miles: "1½"
+-
+  location: Milk House Street
+  miles: "4"
+-
+  location: Postern Plain
+  miles: "2¼"
+-
+  location: Sandhurst Green
+  miles: "9¾"
+-
+  location: Standing Street
+  miles: "8¼"
+-
+  location: Sutton Valenee
+  miles: "3¼"
+-
+  location: Swallenden Farm
+  miles: "7½"
+-
+  location: Swithland
+  miles: "2½"
+-
+  location: Wanthurst
+  miles: "1¼"
+-
+  location: Winsley Green
+  miles: "4½"

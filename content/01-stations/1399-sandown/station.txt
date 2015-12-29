@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Sandown
 ----
@@ -23,14 +23,27 @@ Money Order Office
 Text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
 ----
 Distances:
-|                       | Miles. |
-| --------------------- | ------ |
-| Adgeton               | 1      |
-| Brading               | 2      |
-| Culver Cliff          | 2      |
-| Knighton              | 3      |
-| Ryde                  | 6      |
-| Sandown Cottage [^1]  | 1      |
-| Sandown Lake          | 1      |
 
-[^1]: Was the seat of Wilkes. The pillar there was set up by him to his friend Churchill.
+-
+  location: Adgeton
+  miles: "1"
+-
+  location: Brading
+  miles: "2"
+-
+  location: Culver Cliff
+  miles: "2"
+-
+  location: Knighton
+  miles: "3"
+-
+  location: Ryde
+  miles: "6"
+-
+  location: |
+    Sandown Cottage
+    *Was the seat of Wilkes. The pillar there was set up by him to his friend Churchill.*
+  miles: "1"
+-
+  location: Sandown Lake
+  miles: "1"

@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Newchurch
 ----
@@ -22,22 +22,55 @@ Money Order Office
 Text: Newchurch, with its white spire, stands at the end of a short village, near the stream which runs into Brading harbour. The parish is the largest in the island, with a population of 14,003, stretching across it so as to take in both Ryde and Ventnor. Fine views on both sides of the Down, which is 6 miles from Ryde.
 ----
 Distances:
-|                      | Miles. |
-| -------------------- | ------ |
-| Adgeton              | 2      |
-| Arreton              | 1½     |
-| Arreton Street       | 1      |
-| Brading              | 3      |
-| Chiverton            | 1½     |
-| Gatcombe House       | 4      |
-| Great Kennerley      | 2½     |
-| Long Down            | 3      |
-| Queen's Bower        | 1¼     |
-| Rookley              | 3½     |
-| Ryde                 | 6      |
-| Sandown and Sandford | 3      |
-| Shitle Bridge        | 3½     |
-| Spicer's Hall        | 1      |
-| Stone                | 1¼     |
-| Strattle             | 2      |
-| Winham               | 2      |
+
+-
+  location: Adgeton
+  miles: "2"
+-
+  location: Arreton
+  miles: "1½"
+-
+  location: Arreton Street
+  miles: "1"
+-
+  location: Brading
+  miles: "3"
+-
+  location: Chiverton
+  miles: "1½"
+-
+  location: Gatcombe House
+  miles: "4"
+-
+  location: Great Kennerley
+  miles: "2½"
+-
+  location: Long Down
+  miles: "3"
+-
+  location: "Queen's Bower"
+  miles: "1¼"
+-
+  location: Rookley
+  miles: "3½"
+-
+  location: Ryde
+  miles: "6"
+-
+  location: Sandown and Sandford
+  miles: "3"
+-
+  location: Shitle Bridge
+  miles: "3½"
+-
+  location: "Spicer's Hall"
+  miles: "1"
+-
+  location: Stone
+  miles: "1¼"
+-
+  location: Strattle
+  miles: "2"
+-
+  location: Winham
+  miles: "2"

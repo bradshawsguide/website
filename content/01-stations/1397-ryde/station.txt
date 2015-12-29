@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Ryde
 ----
@@ -46,30 +46,79 @@ Text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by stea
 **St. John's,** the seat of Sir R. Simeon, Bart.
 ----
 Distances:
-|                  | Miles. |
-| ---------------- | ------ |
-| Apley            | 0¾     |
-| Bamsley          | 1½     |
-| Binstead         | 0¾     |
-| Copping Bridge   | 5½     |
-| Fairy Hill       | 1¼     |
-| Fearlee          | 5      |
-| Fishburn Rock    | 2¾     |
-| Haven Street     | 2½     |
-| Needles, The     | 18     |
-| Nettleston Point | 2      |
-| Pier, The        | 0¼     |
-| Place Street     | 0½     |
-| Portsmouth       | 8      |
-| Priory, The      | 0¾     |
-| Quarr Abbey      | 2      |
-| Ryde House       | 1½     |
-| Ryde Park        | 1½     |
-| St. Clare        | 1½     |
-| St. John's       | 1      |
-| Stokes Bay       | 3      |
-| Troublefield     | 0¾     |
-| West Cowes       | 8      |
-| West Mount       | 1½     |
-| Whippingham      | 3½     |
-| White Mark       | 2½     |
+
+-
+  location: Apley
+  miles: "0¾"
+-
+  location: Bamsley
+  miles: "1½"
+-
+  location: Binstead
+  miles: "0¾"
+-
+  location: Copping Bridge
+  miles: "5½"
+-
+  location: Fairy Hill
+  miles: "1¼"
+-
+  location: Fearlee
+  miles: "5"
+-
+  location: Fishburn Rock
+  miles: "2¾"
+-
+  location: Haven Street
+  miles: "2½"
+-
+  location: Needles, The
+  miles: "18"
+-
+  location: Nettleston Point
+  miles: "2"
+-
+  location: Pier, The
+  miles: "0¼"
+-
+  location: Place Street
+  miles: "0½"
+-
+  location: Portsmouth
+  miles: "8"
+-
+  location: Priory, The
+  miles: "0¾"
+-
+  location: Quarr Abbey
+  miles: "2"
+-
+  location: Ryde House
+  miles: "1½"
+-
+  location: Ryde Park
+  miles: "1½"
+-
+  location: St. Clare
+  miles: "1½"
+-
+  location: "St. John's"
+  miles: "1"
+-
+  location: Stokes Bay
+  miles: "3"
+-
+  location: Troublefield
+  miles: "0¾"
+-
+  location: West Cowes
+  miles: "8"
+-
+  location: West Mount
+  miles: "1½"
+-
+  location: Whippingham
+  miles: "3½"
+-
+  location: White Mark
+  miles: "2½"

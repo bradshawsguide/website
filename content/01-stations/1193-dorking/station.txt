@@ -34,51 +34,141 @@ It is a favourite summer resort of invalids and lovers of rural scenery, and it 
 The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](/stations/gomshall-and-sheire).
 ----
 Distances:
-|                          | Miles. |
-| ------------------------ | ------ |
-| Abinger Hall             | 3      |
-| Anstie Bury              | 4½     |
-| Ashstead                 | 8      |
-| Bay Hill                 | 1½     |
-| Bench                    | 2      |
-| Bookham                  | 2      |
-| Boxhill                  | 2      |
-| Brickham Common          | 2½     |
-| Broadmoor                | 2      |
-| Burforcl Grove           | 2      |
-| Capet                    | 7      |
-| Chardhurst               | 2      |
-| Cold Harbour             | 4½     |
-| Collickmoor              | 2      |
-| Combe                    | 1¾     |
-| Deepdene                 | 3      |
-| Denhies                  | 2      |
-| Etnngham                 | 4      |
-| Folly                    | 1½     |
-| Freeshurst               | 2      |
-| Holloway                 | 1½     |
-| Holmbury Hill            | 1½     |
-| Holmwood Common          | 2½     |
-| Leith Hill               | 5      |
-| Livesome Bridge          | 2½     |
-| Menidone                 | 1½     |
-| Mickleham                | 3      |
-| Norbury Park             | 3      |
-| Ockley                   | 7      |
-| Park Farm                | 1½     |
-| Parkpale                 | 2½     |
-| Pexham                   | 1½     |
-| Pit brook Bridge         | 1½     |
-| Polesden                 | 3      |
-| Ridland                  | 1½     |
-| Rookery                  | 1½     |
-| Scammels                 | 2½     |
-| Shrub Hill               | 2      |
-| Store Bridge             | 2      |
-| Stubbs                   | 2      |
-| Stumble Hole             | 2      |
-| Tanhurst near Leith Hill | 5      |
-| Upper Laylands           | 2½     |
-| Wescott                  | 2½     |
-| Wescott Parsonage        | 1½     |
-| Wotten                   | 2      |
+-
+  location: Abinger Hall
+  miles: "3"
+-
+  location: Anstie Bury
+  miles: "4½"
+-
+  location: Ashstead
+  miles: "8"
+-
+  location: Bay Hill
+  miles: "1½"
+-
+  location: Bench
+  miles: "2"
+-
+  location: Bookham
+  miles: "2"
+-
+  location: Boxhill
+  miles: "2"
+-
+  location: Brickham Common
+  miles: "2½"
+-
+  location: Broadmoor
+  miles: "2"
+-
+  location: Burford Grove
+  miles: "2"
+-
+  location: Capet
+  miles: "7"
+-
+  location: Chardhurst
+  miles: "2"
+-
+  location: Cold Harbour
+  miles: "4½"
+-
+  location: Collickmoor
+  miles: "2"
+-
+  location: Combe
+  miles: "1¾"
+-
+  location: Deepdene
+  miles: "3"
+-
+  location: Denhies
+  miles: "2"
+-
+  location: Etnngham
+  miles: "4"
+-
+  location: Folly
+  miles: "1½"
+-
+  location: Freeshurst
+  miles: "2"
+-
+  location: Holloway
+  miles: "1½"
+-
+  location: Holmbury Hill
+  miles: "1½"
+-
+  location: Holmwood Common
+  miles: "2½"
+-
+  location: Leith Hill
+  miles: "5"
+-
+  location: Livesome Bridge
+  miles: "2½"
+-
+  location: Menidone
+  miles: "1½"
+-
+  location: Mickleham
+  miles: "3"
+-
+  location: Norbury Park
+  miles: "3"
+-
+  location: Ockley
+  miles: "7"
+-
+  location: Park Farm
+  miles: "1½"
+-
+  location: Parkpale
+  miles: "2½"
+-
+  location: Pexham
+  miles: "1½"
+-
+  location: Pit brook Bridge
+  miles: "1½"
+-
+  location: Polesden
+  miles: "3"
+-
+  location: Ridland
+  miles: "1½"
+-
+  location: Rookery
+  miles: "1½"
+-
+  location: Scammels
+  miles: "2½"
+-
+  location: Shrub Hill
+  miles: "2"
+-
+  location: Store Bridge
+  miles: "2"
+-
+  location: Stubbs
+  miles: "2"
+-
+  location: Stumble Hole
+  miles: "2"
+-
+  location: Tanhurst near Leith Hill
+  miles: "5"
+-
+  location: Upper Laylands
+  miles: "2½"
+-
+  location: Wescott
+  miles: "2½"
+-
+  location: Wescott Parsonage
+  miles: "1½"
+-
+  location: Wotten
+  miles: "2"

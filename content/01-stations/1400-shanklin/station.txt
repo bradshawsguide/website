@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Shanklin
 ----
@@ -22,22 +22,55 @@ Text: This beautiful retreat is hid away among trees and corn-fields in summer, 
 The railway at present (1865) terminates at this point. The rest of the way to Ventnor must be travelled by coach.
 ----
 Distances:
-|                   | Miles. |
-| ----------------- | ------ |
-| Allen             | 2      |
-| Beacon (Shanklin) | 1      |
-| Bonchurch         | 3      |
-| Boniface Down     | 0¼     |
-| Brenston          | 2      |
-| Chiverton         | 1½     |
-| Cook's Castle     | 2      |
-| Dunnose           | 1¼     |
-| Great Kennedy     | 4      |
-| Horse Ledge       | 0½     |
-| Langard           | 1      |
-| Luccombe Chine    | 1      |
-| Shanklin Chine    | 0½     |
-| Steephill Cove    | 2      |
-| Strattle          | 3½     |
-| Winham            | 1½     |
-| Wroncate          | 2      |
+
+-
+  location: Allen
+  miles: "2"
+-
+  location: Beacon (Shanklin)
+  miles: "1"
+-
+  location: Bonchurch
+  miles: "3"
+-
+  location: Boniface Down
+  miles: "0¼"
+-
+  location: Brenston
+  miles: "2"
+-
+  location: Chiverton
+  miles: "1½"
+-
+  location: "Cook's Castle"
+  miles: "2"
+-
+  location: Dunnose
+  miles: "1¼"
+-
+  location: Great Kennedy
+  miles: "4"
+-
+  location: Horse Ledge
+  miles: "0½"
+-
+  location: Langard
+  miles: "1"
+-
+  location: Luccombe Chine
+  miles: "1"
+-
+  location: Shanklin Chine
+  miles: "0½"
+-
+  location: Steephill Cove
+  miles: "2"
+-
+  location: Strattle
+  miles: "3½"
+-
+  location: Winham
+  miles: "1½"
+-
+  location: Wroncate
+  miles: "2"

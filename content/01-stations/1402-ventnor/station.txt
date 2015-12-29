@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Ventnor
 ----
@@ -31,19 +31,40 @@ About three miles inland is **Appuldercombe,** the seat of the Earl of Yarboroug
 From Ventnor to Black Gang the road winds along through *Undercliff*, among rocks, gardens, fields, seats, farm-houses, &c., dispersed most picturesquely about in a rocky ledge or strand formed by successive landslips from the neighbouring cliff, which rises up like a wall on your right, 100 to 150 feet high, the road itself being nearly as much above the sea, to your left. It is worth while to walk along the edge of this cliff for the sake of the panorama to be obtained of the scene below. Do lot take this path at Ventnor, as it may be reached by leaving the road near St. Lawrence's Well, and walking up the steps cut in the face of the cliff. A footpath also winds close to the sea out of sight of the road.
 ----
 Distances:
-|                         | Miles. |
-| ----------------------- | ------ |
-| Blackgang               | 7      |
-| Luccombe Chine [^1]     | 0½     |
-| Mirables                | 3½     |
-| Sand Rock [^2]          | 4      |
-| Shanklin                | 2      |
-| Steephill               | 0½     |
-| St. Boniface Down [^3]  | 0½     |
-| Undercliff              | 2      |
-| Ventnor Cove            | 0½     |
-| Wishing Well            | 0¾     |
 
-[^1]: Visited by the Queen and Prince Albert.
-[^2]: Here is a capital Hotel.
-[^3]: 600 feet high.
+-
+  location: Blackgang
+  miles: "7"
+-
+  location: |
+    Luccombe Chine
+    *Visited by the Queen and Prince Albert.*
+  miles: "0½"
+-
+  location: Mirables
+  miles: "3½"
+-
+  location: |
+    Sand Rock
+    *Here is a capital Hotel.*
+  miles: "4"
+-
+  location: Shanklin
+  miles: "2"
+-
+  location: Steephill
+  miles: "0½"
+-
+  location: |
+    St. Boniface Down
+    *600 feet high.*
+  miles: "0½"
+-
+  location: Undercliff
+  miles: "2"
+-
+  location: Ventnor Cove
+  miles: "0½"
+-
+  location: Wishing Well
+  miles: "0¾"

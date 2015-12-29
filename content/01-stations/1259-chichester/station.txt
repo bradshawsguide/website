@@ -34,50 +34,139 @@ The cathedral is a cross building of the 12th century, 314 feet long, or 377 fee
 **Goodwood** (three miles), seat of the Duke of Richmond, stands in a large park under the South Downs. Here the July races are held, and which are always attended by the *haut ton* and the leading members of the Turf. It is about six miles round, and well wooded, and contains two cork trees, and about 1,000 cedars, planted 1762. From the grotto on Cairney seat (built out of a ruined church), is a fine view of the coast, Isle of Wight, the Downs, &c. The house was built by Sir W. Chambers, and enlarged by Wyattville, with centre and wings. It is 378 feet long, the wings falling back at angles of 45 feet. Stone and flint are used. In the hall is a standard and other trophies from Waterloo (which the late Duke attended as an amateur). The drawing room is 58 feet long. One portrait is that of a beautiful Duchess of Richmond of Charles II.'s time--the original, it is said, of Britannia on the copper com age. Large stables and dog kennels (the latter cost 6,000l.) with a tennis-court, are behind.
 ----
 Distances:
-|                                | Miles. |
-| ------------------------------ | ------ |
-| Aldingbourne                   | 5      |
-| Ahnoudington Green             | 6      |
-| Applesham                      | 1½     |
-| Birdham                        | 4      |
-| Boxgrove                       | 3½     |
-| Chidiiam                       | 5      |
-| Dell Quay                      | 2      |
-| Donnington                     | 1½     |
-| East Ashling                   | 3      |
-| Fishboume                      | 2      |
-| Friiitington                   | 5      |
-| Goodwood                       | 3      |
-| Gosden Green                   | 6      |
-| Halnaker Park                  | 3½     |
-| Highley                        | 3¾     |
-| Holt's Green                   | 3      |
-| Hunston                        | 2      |
-| Kingsham                       | 1      |
-| Lepring                        | 4      |
-| Harden North                   | 8      |
-| Mid Lavant                     | 3      |
-| Mitener                        | 6      |
-| Northlands                     | 3      |
-| Old Brook                      | 2      |
-| Old Park                       | 2½     |
-| Racton                         | 4      |
-| Rumbolds Wyke                  | 2      |
-| Salt Hill                      | 2      |
-| Shop wick                      | 2      |
-| Sidelsham                      | 5      |
-| Singleton                      | 6      |
-| Stanste-ad House               | 9      |
-| Stoke House                    | 3      |
-| Stoughton                      | 5      |
-| Tangmere                       | 3½     |
-| Thorney Island                 | 8      |
-| Walton                         | 2      |
-| Westbourne                     | 7      |
-| West Dean                      | 5      |
-| West Hampnett                  | 3      |
-| West Itchenor                  | 6      |
-| West Lavant                    | 2½     |
-| Westerton                      | 3      |
-| West Stoke                     | 3      |
-| Woodlands (Captain James Lyon) | 8½     |
+
+-
+  location: Aldingbourne
+  miles: "5"
+-
+  location: Almondington Green
+  miles: "6"
+-
+  location: Applesham
+  miles: "1½"
+-
+  location: Birdham
+  miles: "4"
+-
+  location: Boxgrove
+  miles: "3½"
+-
+  location: Chidham
+  miles: "5"
+-
+  location: Dell Quay
+  miles: "2"
+-
+  location: Donnington
+  miles: "1½"
+-
+  location: East Ashling
+  miles: "3"
+-
+  location: Fishbourne
+  miles: "2"
+-
+  location: Frintington
+  miles: "5"
+-
+  location: Goodwood
+  miles: "3"
+-
+  location: Gosden Green
+  miles: "6"
+-
+  location: Halnaker Park
+  miles: "3½"
+-
+  location: Highley
+  miles: "3¾"
+-
+  location: "Holt's Green"
+  miles: "3"
+-
+  location: Hunston
+  miles: "2"
+-
+  location: Kingsham
+  miles: "1"
+-
+  location: Lepring
+  miles: "4"
+-
+  location: Harden North
+  miles: "8"
+-
+  location: Mid Lavant
+  miles: "3"
+-
+  location: Mitener
+  miles: "6"
+-
+  location: Northlands
+  miles: "3"
+-
+  location: Old Brook
+  miles: "2"
+-
+  location: Old Park
+  miles: "2½"
+-
+  location: Racton
+  miles: "4"
+-
+  location: Rumbolds Wyke
+  miles: "2"
+-
+  location: Salt Hill
+  miles: "2"
+-
+  location: Shop wick
+  miles: "2"
+-
+  location: Sidelsham
+  miles: "5"
+-
+  location: Singleton
+  miles: "6"
+-
+  location: Stanstead House
+  miles: "9"
+-
+  location: Stoke House
+  miles: "3"
+-
+  location: Stoughton
+  miles: "5"
+-
+  location: Tangmere
+  miles: "3½"
+-
+  location: Thorney Island
+  miles: "8"
+-
+  location: Walton
+  miles: "2"
+-
+  location: Westbourne
+  miles: "7"
+-
+  location: West Dean
+  miles: "5"
+-
+  location: West Hampnett
+  miles: "3"
+-
+  location: West Itchenor
+  miles: "6"
+-
+  location: West Lavant
+  miles: "2½"
+-
+  location: Westerton
+  miles: "3"
+-
+  location: West Stoke
+  miles: "3"
+-
+  location: Woodlands (Captain James Lyon)
+  miles: "8½"

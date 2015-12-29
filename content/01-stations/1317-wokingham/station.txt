@@ -31,29 +31,76 @@ Text: Wokingham is situated on the River Wey, on the borders of Windsor Forest. 
 From this station the railway passes that of [Earley](/stations/earley) and over a level but highly cultivated country, interspersed with villages and country-seats, until it reach the terminus at [Reading](/stations/reading).
 ----
 Distances:
-|                    | Miles. |
-| ------------------ | ------ |
-| Bisley             | 3      |
-| Chobham            | 2½     |
-| Chobham Hall       | 3½     |
-| Chobham Park       | 3      |
-| Cross Stock        | 2      |
-| Dudsall Court      | 3¾     |
-| Grove Heath        | 3      |
-| Hale End           | 3      |
-| Hermitage, The     | 2      |
-| Hide Farm          | 2¾     |
-| Hoe Bridge         | 1      |
-| Hook Hill          | 1½     |
-| Horshill           | 1      |
-| Knapp Hill         | 3      |
-| London Necropolis  | 2½     |
-| Mayford            | 3      |
-| Newark Abbey Ruins | 2      |
-| Ottershaw          | 3¼     |
-| Pirford            | 2      |
-| Ripley Park        | 3      |
-| Shackleford        | 3      |
-| Sutton Park        | 3      |
-| Westfield          | 2½     |
-| Wokingham          | 1      |
+
+-
+  location: Bisley
+  miles: "3"
+-
+  location: Chobham
+  miles: "2½"
+-
+  location: Chobham Hall
+  miles: "3½"
+-
+  location: Chobham Park
+  miles: "3"
+-
+  location: Cross Stock
+  miles: "2"
+-
+  location: Dudsall Court
+  miles: "3¾"
+-
+  location: Grove Heath
+  miles: "3"
+-
+  location: Hale End
+  miles: "3"
+-
+  location: Hermitage, The
+  miles: "2"
+-
+  location: Hide Farm
+  miles: "2¾"
+-
+  location: Hoe Bridge
+  miles: "1"
+-
+  location: Hook Hill
+  miles: "1½"
+-
+  location: Horshill
+  miles: "1"
+-
+  location: Knapp Hill
+  miles: "3"
+-
+  location: London Necropolis
+  miles: "2½"
+-
+  location: Mayford
+  miles: "3"
+-
+  location: Newark Abbey Ruins
+  miles: "2"
+-
+  location: Ottershaw
+  miles: "3¼"
+-
+  location: Pirford
+  miles: "2"
+-
+  location: Ripley Park
+  miles: "3"
+-
+  location: Shackleford
+  miles: "3"
+-
+  location: Sutton Park
+  miles: "3"
+-
+  location: Westfield
+  miles: "2½"
+-
+  location: Wokingham
+  miles: "1"

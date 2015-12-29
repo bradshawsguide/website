@@ -125,6 +125,9 @@ img.pull-right {
     tr {
         display: block;
     }
+    th, td {
+        display: inline;
+    }
     th {
         font-size: 0;
     }
@@ -141,8 +144,14 @@ img.pull-right {
     td:first-child + td::after {
         content: " miles";
     }
+    td br {
+        display: none;
+    }
+    td em::before {
+        content: "— "
+    }
 }
-@media screen and (min-width: 30em) {
+@media screen and (min-width: 32em) {
     .related-distances {
         table {
             width: 100%;
@@ -179,31 +188,6 @@ img.pull-right {
             white-space: nowrap;
             margin-left: 0.25em;
             position: absolute;
-        }
-    }
-}
-@media screen and (min-width: 48.5em) {
-    .related-distances {
-        table {
-            position: relative;
-            &::after {
-                content: "Miles.";
-                padding-left: 0.5em;
-                width: 3em;
-                position: absolute;
-                top: 0;
-                right: 0;
-            }
-        }
-        tr {
-            width: 50%;
-            display: block;
-            float: left;
-        }
-        td:first-child::after {
-            margin-left: 0.5em;
-            width: 14em;
-            overflow: hidden;
         }
     }
 }

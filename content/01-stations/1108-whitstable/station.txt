@@ -26,23 +26,58 @@ Fair.--
 Text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
 ----
 Distances:
-|                       | Miles. |
-| --------------------- | ------ |
-| Balls Street & Bodkin | 2      |
-| Bostall               | 1      |
-| Broad Street          | 1½     |
-| Canterbury            | 6      |
-| Chestfield            | 2      |
-| Church Street         | 0½     |
-| Coleward              | 2      |
-| Elensden              | 2¾     |
-| Faversham             | 7      |
-| Herne Bay             | 5      |
-| Rucking               | 3      |
-| Ryeham                | 1½     |
-| Sea Salter            | 3      |
-| Studhill              | 2¾     |
-| Swalecliffe           | 2      |
-| Tankerton Castle      | 0½     |
-| Thompson's Farm       | 2¾     |
-| Thorndean Wood        | 2¾     |
+
+-
+  location: 'Balls Street & Bodkin'
+  miles: "2"
+-
+  location: Bostall
+  miles: "1"
+-
+  location: Broad Street
+  miles: "1½"
+-
+  location: Canterbury
+  miles: "6"
+-
+  location: Chestfield
+  miles: "2"
+-
+  location: Church Street
+  miles: "0½"
+-
+  location: Coleward
+  miles: "2"
+-
+  location: Elensden
+  miles: "2¾"
+-
+  location: Faversham
+  miles: "7"
+-
+  location: Herne Bay
+  miles: "5"
+-
+  location: Rucking
+  miles: "3"
+-
+  location: Ryeham
+  miles: "1½"
+-
+  location: Sea Salter
+  miles: "3"
+-
+  location: Studhill
+  miles: "2¾"
+-
+  location: Swalecliffe
+  miles: "2"
+-
+  location: Tankerton Castle
+  miles: "0½"
+-
+  location: "Thompson's Farm"
+  miles: "2¾"
+-
+  location: Thorndean Wood
+  miles: "2¾"

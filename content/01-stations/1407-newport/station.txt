@@ -1,4 +1,4 @@
-﻿Section: 1
+Section: 1
 ----
 Title: Newport
 ----
@@ -10,7 +10,7 @@ Route:
 - routes/ryde-to-the-needles
 ----
 Related:
-- (wikipedia: Newport railway station &#40;IoWCR Isle of Wight&#41;)
+- (wikipedia: Newport railway station IoWCR Isle of Wight)
 ----
 Meta: Distance from station at Portsmouth, 15 miles.
 
@@ -36,31 +36,76 @@ Text: Newport, the capital of the Island, a clean, well built, country town, in 
 For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.
 ----
 Distances:
-|                                   | Miles. |
-| --------------------------------- | ------ |
-| Albany Barracks                   | 0½     |
-| Alvington                         | 2      |
-| Arreton                           | 2½     |
-| Barton Point                      | 4      |
-| Birchmore                         | 2½     |
-| Blackland                         | 2½     |
-| Brettleford                       | 2½     |
-| Carisbrooke                       | 1      |
-| Carisbrooke Castle [^1]           | 1½     |
-| Carisbrooke Church                | 1¼     |
-| Carisbrooke Priory, Ruins of      | 1      |
-| Church, Old [^2]                  | 0¼     |
-| King's Forest                     | 0½     |
-| Kite Hill                         | 5      |
-| Marcliff                          | 4½     |
-| Node Hill [^3]                    | 2      |
-| Norris Castle                     | 0½     |
-| Park Cross                        | 4      |
-| Parkhurst Reformatory Institution | 0½     |
-| Thorness                          | 4      |
-| West Cowes                        | 5      |
-| Wootton and Bridge.               | 3½     |
 
-[^1]: Built before the Conquest
-[^2]: Tomb of Charles First's daughter, Princess Elizabeth
-[^3]: Monument to Tyerman the Missionary, and lines by Montgomery
+-
+  location: Albany Barracks
+  miles: "0½"
+-
+  location: Alvington
+  miles: "2"
+-
+  location: Arreton
+  miles: "2½"
+-
+  location: Barton Point
+  miles: "4"
+-
+  location: Birchmore
+  miles: "2½"
+-
+  location: Blackland
+  miles: "2½"
+-
+  location: Brettleford
+  miles: "2½"
+-
+  location: Carisbrooke
+  miles: "1"
+-
+  location: |
+    Carisbrooke Castle
+    *Built before the Conquest*
+  miles: "1½"
+-
+  location: Carisbrooke Church
+  miles: "1¼"
+-
+  location: Carisbrooke Priory, Ruins of
+  miles: "1"
+-
+  location: |
+    Church, Old
+    *Tomb of Charles First's daughter, Princess Elizabeth*
+  miles: "0¼"
+-
+  location: "King's Forest"
+  miles: "0½"
+-
+  location: Kite Hill
+  miles: "5"
+-
+  location: Marcliff
+  miles: "4½"
+-
+  location: |
+    Node Hill
+    *Monument to Tyerman the Missionary, and lines by Montgomery*
+  miles: "2"
+-
+  location: Norris Castle
+  miles: "0½"
+-
+  location: Park Cross
+  miles: "4"
+-
+  location: Parkhurst Reformatory Institution
+  miles: "0½"
+-
+  location: Thorness
+  miles: "4"
+-
+  location: West Cowes
+  miles: "5"
+-
+  location: Wootton and Bridge
+  miles: "3½"

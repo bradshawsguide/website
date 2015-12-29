@@ -37,40 +37,108 @@ The houses of the lower classes present models of architecture, and are beautifu
 On the north side of the town, in the principal street, was situated the castle, some few traces of which are yet visible. It was one of the principal seats of the powerful Earls of Warwick and Surrey; and here the insurgent barons are reported to have held frequent meetings, preceding the celebrated Congress of Runnymede. There is a long passage under the castle mound leading into a vaulted room, called the Baron's Cave, which is said to have been used by the barons as a hiding-place for arms. The church has a few curious and ancient tombs.
 ----
 Distances:
-|                   | Miles. |
-| ----------------- | ------ |
-| Brickland         | 2      |
-| Buckland          | 1¾     |
-| Calley Farm       | 0¾     |
-| Chalmead Farm     | 2      |
-| Cophill Farm      | 4      |
-| Couler's Hole     | 1      |
-| Dean's Farm       | 7      |
-| Ewood Mill        | 5      |
-| Gadbrook Common   | 3      |
-| Galton Park       | 1      |
-| Hamon's Copse     | 5      |
-| Hartswood         | 1¼     |
-| Hatch Farm        | 1      |
-| Headley           | 4      |
-| Henfold Farm      | 4      |
-| Hill House        | 4      |
-| Kingswood Garden  | 3¾     |
-| Kinnersley House  | 3      |
-| Leatherhead       | 6      |
-| Leigh             | 3      |
-| Littleton Farm    | 1      |
-| Mason Bridge East | 3      |
-| Mead House        | 1      |
-| Newdigate         | 7      |
-| Nork House        | 5      |
-| Norwood Place     | 4      |
-| Parkfall Place    | 4      |
-| Park House        | 4¾     |
-| Red Hill Farm     | 1      |
-| Reigate Mills     | 1      |
-| Reigate Park      | 0¾     |
-| Rice Bridge       | 2      |
-| Upper Galton      | 2      |
-| Walton            | 3½     |
-| Walton Park       | 2      |
+-
+  location: Brickland
+  miles: "2"
+-
+  location: Buckland
+  miles: "1¾"
+-
+  location: Calley Farm
+  miles: "0¾"
+-
+  location: Chalmead Farm
+  miles: "2"
+-
+  location: Cophill Farm
+  miles: "4"
+-
+  location: "Couler's Hole"
+  miles: "1"
+-
+  location: "Dean's Farm"
+  miles: "7"
+-
+  location: Ewood Mill
+  miles: "5"
+-
+  location: Gadbrook Common
+  miles: "3"
+-
+  location: Galton Park
+  miles: "1"
+-
+  location: "Hamon's Copse"
+  miles: "5"
+-
+  location: Hartswood
+  miles: "1¼"
+-
+  location: Hatch Farm
+  miles: "1"
+-
+  location: Headley
+  miles: "4"
+-
+  location: Henfold Farm
+  miles: "4"
+-
+  location: Hill House
+  miles: "4"
+-
+  location: Kingswood Garden
+  miles: "3¾"
+-
+  location: Kinnersley House
+  miles: "3"
+-
+  location: Leatherhead
+  miles: "6"
+-
+  location: Leigh
+  miles: "3"
+-
+  location: Littleton Farm
+  miles: "1"
+-
+  location: Mason Bridge East
+  miles: "3"
+-
+  location: Mead House
+  miles: "1"
+-
+  location: Newdigate
+  miles: "7"
+-
+  location: Nork House
+  miles: "5"
+-
+  location: Norwood Place
+  miles: "4"
+-
+  location: Parkfall Place
+  miles: "4"
+-
+  location: Park House
+  miles: "4¾"
+-
+  location: Red Hill Farm
+  miles: "1"
+-
+  location: Reigate Mills
+  miles: "1"
+-
+  location: Reigate Park
+  miles: "0¾"
+-
+  location: Rice Bridge
+  miles: "2"
+-
+  location: Upper Galton
+  miles: "2"
+-
+  location: Walton
+  miles: "3½"
+-
+  location: Walton Park
+  miles: "2"
