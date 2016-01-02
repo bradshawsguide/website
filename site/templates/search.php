@@ -1,8 +1,8 @@
-<? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
+<? snippet('_header') ?>
 
 <section>
     <header>
-        <h1>Search results for &#8216;<?php echo esc($query) ?>&#8217;</h1>
+        <h1>Search results for ‘<?php echo esc($query) ?>’</h1>
     </header>
 
 <? if($results): ?>
@@ -34,4 +34,5 @@
     <p>No results for <strong><?= html($search->query()) ?></strong></p>
 <? endif ?>
 </section>
-<? if(!isset($_GET['ajax'])) { snippet('_footer', array('search' => $results)); } ?>
+
+<? snippet('_footer') ?>

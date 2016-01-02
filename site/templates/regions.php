@@ -1,4 +1,5 @@
-<? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
+<? snippet('_header') ?>
+
 <section>
     <header>
         <h1><?= smartypants($page->title()) ?></h1>
@@ -10,7 +11,7 @@
         <? if($item->hasChildren()): // remove when all countries have routes ?>
             <h2><a href="<?= $item->url() ?>"><?= smartypants($item->title()) ?></a></h2>
             <? $regions = $item->children()->sortBy('title', 'asc'); ?>
-            <ul class="regions listing">
+            <ul>
             <? foreach($regions as $region): ?>
                 <li><a href="<?= $region->url() ?>"><?= smartypants($region->title()) ?></a></li>
             <? endforeach ?>
@@ -19,4 +20,5 @@
     <? endforeach ?>
 <? endif ?>
 </section>
-<? if(!isset($_GET['ajax'])) { snippet('_footer'); } ?>
+
+<? snippet('_footer') ?>

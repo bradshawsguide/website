@@ -1,4 +1,4 @@
-<? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
+<? snippet('_header') ?>
 <section>
     <header>
         <h1><?= smartypants($page->title()) ?></h1>
@@ -31,4 +31,4 @@
     <? endforeach ?>
 <? endif ?>
 </section>
-<? if(!isset($_GET['ajax'])) { snippet('_footer'); } ?>
+<? snippet('_footer') ?>

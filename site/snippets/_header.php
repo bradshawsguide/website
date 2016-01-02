@@ -1,79 +1,42 @@
 <!DOCTYPE html>
-<html lang="en-gb">
+<html lang="en-gb" prefix="og: http://ogp.me/ns#">
 <head>
-<?
-    // Specify a character set in HTTP header
-    header("Content-Type: text/html; charset=UTF-8");
-
-    // Specify an expires value in header
-    $seconds_to_cache = 7200; // 120 minutes
-    $ts = gmdate("D, d M Y H:i:s", time() + $seconds_to_cache) . " GMT";
-    header("Expires: $ts");
-    header("Pragma: cache");
-    header("Cache-Control: max-age=$seconds_to_cache");
-
-    // Get modified file date
-    function getFiledate($file, $format) {
-        if (is_file($file)) {
-            $filePath = $file;
-            if (!realpath($filePath)) {
-                $filePath = $_SERVER["DOCUMENT_ROOT"].$filePath;
-            }
-            $fileDate = filemtime($filePath);
-            if ($fileDate) {
-                $fileDate = date("$format",$fileDate);
-                return $fileDate;
-            }
-            return false;
-        }
-        return false;
-    }
-?>
-    <script>
-        // Add a script element as a child of the body
-        function downloadJSAtOnload() {
-            var element = document.createElement("script");
-            element.src = "<?= url('/assets/scripts/scripts.'.getFiledate('assets/scripts/scripts.min.js','YmdHis').'.min.js') ?>";
-            document.body.appendChild(element);
-        }
-
-        // Check for browser support of event handling capability
-        if (window.addEventListener) {
-            window.addEventListener("load", downloadJSAtOnload, false);
-        } else if (window.attachEvent) {
-            window.attachEvent("onload", downloadJSAtOnload);
-        } else {
-            window.onload = downloadJSAtOnload;
-        }
-    </script>
-
-    <link rel="stylesheet" href="<?= url('/assets/styles/styles.'.getFiledate('assets/styles/styles.min.css','YmdHis').'.min.css') ?>" />
-    <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png"/>
-    <link rel="apple-touch-icon-precomposed" href="<?= url('assets/images/apple-touch-icon.png') ?>"/>
-    <link rel="license" href="<?= html($site->licenseurl()) ?>"/>
-    <link rel="author" href="<?= url('humans.txt') ?>"/>
-
     <meta charset="utf-8"/>
-    <meta name="robots" content="index, follow"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="application-name" content="<?= smartypants($site->short_title()) ?>">
-    <meta name="apple-mobile-web-app-title" content="<?= smartypants($site->short_title()) ?>">
 
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@bradshawsguide">
-    <meta name="twitter:creator" content="@bradshawsguide">
-    <meta name="twitter:title" content="<?= smartypants(html($page->title())) ?>"/>
+    <meta property="og:url" content="<?= $page->url() ?>"/>
+    <meta property="og:title" content="<?= smartypants(html($page->title())) ?>"/>
 <? if($page->text()->isNotEmpty()): ?>
-    <meta name="twitter:description" content="<?= smartypants(excerpt($page->text(), $length=300)) ?>"/>
+    <meta property="og:description" content="<?= smartypants(excerpt($page->text(), $length=300)) ?>"/>
 <? endif ?>
 <? if($page->hasImages()): ?>
-    <meta name="twitter:image:src" content="http://bradshawsguide.org<?= $page->images()->first()->url() ?>">
+    <meta property="og:image" content="<?= $page->images()->first()->url() ?>">
+    <meta name="twitter:card" content="summary_large_image"/>
+<? else: ?>
+    <meta property="og:image" content="<?= url('assets/icons/192x192.png') ?>">
+    <meta name="twitter:card" content="summary"/>
+<? endif ?>
+    <meta name="twitter:site" content="@bradshawsguide">
+
+    <meta name="application-name" content="<?= smartypants($site->short_title()) ?>">
+    <meta name="referrer" content="origin"/>
+    <meta name="robots" content="index, follow"/>
+    <meta name="theme-color" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <link rel="icon" href="<?= url('assets/icons/32x32.png') ?>"/>
+    <link rel="mask-icon" href="<?= url('assets/icons/mask.svg') ?>"/>
+    <link rel="apple-touch-icon" href="<?= url('assets/icons/192x192.png') ?>"/>
+<? if(!$page->isHomePage()): ?>
+    <link rel="canonical" href="<?= $page->url() ?>"/>
+    <? if($page->hasPrevVisible()): ?><link rel="prev" href="<?= $page->prevVisible()->url() ?>"/><? endif ?>
+    <? if($page->hasNextVisible()): ?><link rel="next" href="<?= $page->nextVisible()->url() ?>"/><? endif ?>
 <? endif ?>
 
-    <title><?php if(!$page->isHomePage()): ?><?= smartypants(html($page->title())) ?> - <?php endif ?><?= smartypants(html($site->title())) ?></title>
+    <title><? if(!$page->isHomePage()): ?><?= smartypants(html($page->title())) ?> - <? endif ?><?= smartypants(html($site->title())) ?></title>
 </head>
 
 <body>
+    <? snippet('symbols') ?>
     <? snippet('banner') ?>
 
-    <main role="main" id="main">
+    <main class="main" role="main">

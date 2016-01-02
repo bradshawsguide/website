@@ -1,11 +1,12 @@
-<? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
+<? snippet('_header') ?>
+
 <article class="h-entry">
     <header>
         <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
     </header>
 
 <? if($page->text()->isNotEmpty()): ?>
-    <div class="e-content prose">
+    <div class="e-content">
         <?= kirbytext($page->text()) ?>
     </div>
 <? endif ?>
@@ -16,7 +17,7 @@
     $company2 = $page->title();
     $items2 = $pages->find('routes')->children()->filterBy('company', "$company2")->sortBy('title', 'asc');
     ?>
-    <ul class="listing">
+    <ul>
     <? foreach($items2 AS $item2): ?>
         <li><a href="<?= $item2->url() ?>"><?= smartypants($item2->title()) ?></a></li>
     <? endforeach ?>
@@ -39,17 +40,16 @@
     <? endforeach ?>
 </section>
 
-<footer>
-    <details class="related-links">
-        <summary>Related Links</summary>
-        <? if ($page->related()->isNotEmpty()): ?>
-            <?= kirbytext($page->related()) ?>
-        <? else: ?>
-            <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>"><?= smartypants($page->title()) ?> on Wikipedia</a></p>
-        <? endif ?>
-    </details>
-</footer>
+<section>
+    <h1>Related Links</h1>
+    <? if ($page->related()->isNotEmpty()): ?>
+        <?= kirbytext($page->related()) ?>
+    <? else: ?>
+        <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>"><?= smartypants($page->title()) ?> on Wikipedia</a></p>
+    <? endif ?>
+</section>
 
 <? snippet('shorturl') ?>
 </article>
-<? if(!isset($_GET['ajax'])) { snippet('_footer'); } ?>
+
+<? snippet('_footer') ?>

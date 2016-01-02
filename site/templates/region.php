@@ -1,4 +1,5 @@
-<? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
+<? snippet('_header') ?>
+
 <article class="h-entry">
     <header>
         <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
@@ -29,12 +30,12 @@
 $region = $page->title();
 $search = $pages->find('stations')->children()->filterBy('region', $region)->sortBy('title', 'asc');
 ?>
-    <section class="stations index">
+    <section>
         <h1>Stations in This County</h1>
         <? $alphabetise = alphabetise($search) ?>
         <? foreach($alphabetise as $letter => $items): ?>
-            <h2 class="index"><?= str::upper($letter) ?></h2>
-            <ul class="stations listing">
+            <h2 id="<?= $letter ?>"><?= str::upper($letter) ?></h2>
+            <ul>
             <? foreach($items as $item): ?>
                 <li><a href="<?= $item->url() ?>"<? if ($item->text() == ''): ?> class="unremarkable"<? endif ?>><?= smartypants($item->title()) ?></a></li>
             <? endforeach ?>
@@ -45,4 +46,5 @@ $search = $pages->find('stations')->children()->filterBy('region', $region)->sor
 <? snippet('shorturl') ?>
 <? snippet('prevnext') ?>
 </article>
-<? if(!isset($_GET['ajax'])) { snippet('_footer'); } ?>
+
+<? snippet('_footer') ?>

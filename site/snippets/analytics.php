@@ -17,4 +17,6 @@
         ref.parentNode.insertBefore(script, ref);
     })();
 </script>
-<noscript><img class="hidden" src="https://analytics.paulrobertlloyd.com/piwik.php?idsite=2" alt=""/></noscript>
+<noscript>
+    <img src="https://analytics.paulrobertlloyd.com/piwik.php?idsite=2" alt="" hidden/>
+</noscript>

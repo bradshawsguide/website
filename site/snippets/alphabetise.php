@@ -7,8 +7,8 @@ if (param('section')) {
 ?>
 
 <? foreach($alphabetise as $letter => $items): ?>
-    <h2 class="index" id="<?= $letter ?>"><?= str::upper($letter) ?></h2>
-    <ul class="<?= $type ?> listing">
+    <h2 id="<?= $letter ?>"><?= str::upper($letter) ?></h2>
+    <ul class="<?= $type ?>">
     <? foreach($items as $item): ?>
         <?
         if ($item->short_title()->isNotEmpty()) {

@@ -1,4 +1,5 @@
-<? if(!isset($_GET['ajax'])) { snippet('_header'); } ?>
+<? snippet('_header') ?>
+
 <article class="h-entry">
     <header>
         <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
@@ -27,7 +28,7 @@ if (isset($items)):
 ?>
     <section role="complementary">
         <h1>Route Map</h1>
-        <ol class="route">
+        <ol>
         <? foreach ($items as $item): ?>
             <? if ($item->text() == ''): ?>
                 <li><a href="<?= $item->url() ?>"<? if ($item->text() == ''): ?> class="unremarkable"<? endif ?>><?= smartypants($item->title()) ?></a></li>
@@ -56,19 +57,17 @@ if (isset($items)):
                 </li>
             <? endif ?>
         <? endforeach ?>
-        </ol><!--/.route-->
-    </section><!--/@complementary-->
+        </ol>
+    </section>
 <? endif ?>
 
 <? if ($page->related()->isNotEmpty()): ?>
-    <footer>
-        <details class="related-links">
-            <summary>Related Links</summary>
-            <?= kirbytext($page->related()) ?>
-        </details>
-    </footer>
+    <section>
+        <h1>Related Links</h1>
+        <?= kirbytext($page->related()) ?>
+    </section>
 <? endif ?>
 
     <? snippet('shorturl') ?>
 </article>
-<? if(!isset($_GET['ajax'])) { snippet('_footer'); } ?>
+<? snippet('_footer') ?>

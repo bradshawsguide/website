@@ -1,5 +1,3 @@
-<header role="banner" id="top">
-    <h1><a href="<?= url() ?>">Bradshaw&#8217;s <span>Guide</span></a></h1>
-    <a href="#nav">Jump to navigation</a>
-    <a href="#search">Jump to search</a>
+<header class="banner" role="banner">
+    <h1 class="banner__title"><a href="<?= url() ?>">Bradshaw&#8217;s Guide</a></h1>
 </header><!--/@banner-->

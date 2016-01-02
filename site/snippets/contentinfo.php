@@ -1,8 +1,24 @@
-<footer role="contentinfo">
-    <p><small>&#169; <abbr title="2016">MMXVI</abbr> <a href="https://paulrobertlloyd.com">Paul Robert Lloyd</a></small></p>
-    <p><a href="/about/colophon">Colophon</a>. <a href="/about/styleguide">Styleguide</a></p>
-    <ul>
-        <li><a rel="me" href="https://foursquare.com/bradshawsguide">Follow George Bradshaw on Foursquare</a></li>
-        <li><a rel="me" href="https://twitter.com/bradshawsguide">Follow George Bradshaw on Twitter</a></li>
-    </ul>
+<footer class="contentinfo" role="contentinfo">
+    <div class="contentinfo__social">
+        <a rel="me" href="https://foursquare.com/bradshawsguide">
+            <svg width="20" height="20" role="img" aria-labelledby="title">
+                <title>Follow George Bradshaw on Foursquare</title>
+                <use xlink:href="#icon-foursquare"/>
+            </svg>
+        </a>
+
+        <a rel="me" href="https://twitter.com/bradshawsguide">
+            <svg width="20" height="20" role="img" aria-labelledby="title">
+                <title>Follow George Bradshaw on Twitter</title>
+                <use xlink:href="#icon-twitter"/>
+            </svg>
+        </a>
+    </div>
+
+    <p class="contentinfo__rights">
+        <small>
+            Design: © <abbr title="2016">MMXVI</abbr> <a rel="author" href="https://paulrobertlloyd.com">Paul Robert Lloyd</a>.
+            Content: <a rel="license" href="<?= $site->license_url() ?>">Public Domain</a>
+        </small>
+    </p>
 </footer><!--/@contentinfo-->
