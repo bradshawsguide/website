@@ -1,14 +1,14 @@
 <? snippet('_header') ?>
 
-<article class="h-entry">
+<article>
     <header>
-        <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
+        <h1><?= smartypants($page->title()) ?></h1>
         <nav role="navigation">
         <? if ($page->hasChildren()): ?>
             <a class="is-active" href="<?= $page->url() ?>"><?= smartypants($page->title()) ?></a>
             <? $items = $page->children()->visible(); ?>
             <? foreach($items as $item): ?>
-                <a<? e($page->isOpen(), ' class="active"') ?> href="<?= $item->url() ?>"><?= smartypants($item->title()) ?></a>
+                <a<? e($page->isOpen(), ' class="is-active"') ?> href="<?= $item->url() ?>"><?= smartypants($item->title()) ?></a>
             <? endforeach ?>
         <? else: ?>
             <a rel="up" href="<?= $page->parent()->url() ?>"><?= smartypants($page->country()) ?></a>
@@ -17,9 +17,7 @@
     </header>
 
 <? if($page->text()->isNotEmpty()): ?>
-    <div class="e-content prose">
-        <?= kirbytext($page->text()) ?>
-    </div>
+    <?= kirbytext($page->text()) ?>
 <? endif ?>
 
 <? if($page->related()->isNotEmpty()): ?>

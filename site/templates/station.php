@@ -1,8 +1,8 @@
 <? snippet('_header') ?>
 
-<article class="h-entry">
+<article>
     <header>
-        <h1 class="p-name"><?= smartypants($page->title()) ?></h1>
+        <h1><?= smartypants($page->title()) ?></h1>
         <?php $region = $page->region(); ?>
         <nav>
             <a rel="up" href="<?= $pages->index()->findBy('title', "$region")->url(); ?>"><?= smartypants($region) ?></a>
@@ -10,7 +10,6 @@
     </header>
 
 <? if($page->text()->isNotEmpty()): ?>
-    <div class="e-content">
     <? if($page->meta()): ?>
         <?= kirbytext($page->meta()) ?>
     <? endif ?>
@@ -28,8 +27,7 @@
         </figure>
     <? endif ?>
 
-        <?= kirbytext($page->text()); ?>
-    </div>
+    <?= kirbytext($page->text()); ?>
 <? endif ?>
 
 <? if($page->distances()->isNotEmpty()): ?>

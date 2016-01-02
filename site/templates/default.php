@@ -40,7 +40,6 @@
     <? snippet('related') ?>
 <? endif ?>
 
-<? snippet('shorturl') ?>
 </article>
 
 <? snippet('_footer') ?>

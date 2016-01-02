@@ -1,9 +1,8 @@
 <? snippet('_header') ?>
 
 <section>
-    <header>
-        <h1><?= smartypants($page->title()) ?></h1>
-    </header>
+    <? snippet('page/header') ?>
+
     <? snippet('alphabetise', array('type' => 'stations')); ?>
 </section>
 

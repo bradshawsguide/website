@@ -1,9 +1,7 @@
 <? snippet('_header') ?>
 
 <section>
-    <header>
-        <h1><?= smartypants($page->title()) ?></h1>
-    </header>
+    <? snippet('page/header') ?>
 <?
 $items = $page->children()->sortBy('title', 'asc');
 if($items && $items->count()):

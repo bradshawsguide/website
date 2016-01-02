@@ -1,8 +1,6 @@
 <? snippet('_header') ?>
 <section>
-    <header>
-        <h1><?= smartypants($page->title()) ?></h1>
-    </header>
+    <? snippet('page/header') ?>
 
 <? $items = $pages->find('companies')->children()->sortBy('title', 'asc'); ?>
 <? if($items && $items->count()): ?>

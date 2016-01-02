@@ -20,8 +20,8 @@
             $type = "Railway Company";
         endif
         ?>
-        <li class="result">
-            <h2><a href="<?= $result->url() ?>"><?= html($result->title()); ?></a> <em class="caption"><?= $type ?></em></h2>
+        <li>
+            <h2><a href="<?= $result->url() ?>"><?= html($result->title()); ?></a> <em><?= $type ?></em></h2>
             <p><?= excerpt($result->text(), $length=140); ?></p>
             <a href="<?= $result->url() ?>"><?= server::get('server_name'); ?><?= $result->url() ?></a>
         </li>

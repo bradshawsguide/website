@@ -17,7 +17,7 @@
 <? endif ?>
     <meta name="twitter:site" content="@bradshawsguide">
 
-    <meta name="application-name" content="<?= smartypants($site->short_title()) ?>">
+    <meta name="application-name" content="<?= $site->short_title() ?>">
     <meta name="referrer" content="origin"/>
     <meta name="robots" content="index, follow"/>
     <meta name="theme-color" content=""/>
@@ -32,7 +32,7 @@
     <? if($page->hasNextVisible()): ?><link rel="next" href="<?= $page->nextVisible()->url() ?>"/><? endif ?>
 <? endif ?>
 
-    <title><? if(!$page->isHomePage()): ?><?= smartypants(html($page->title())) ?> - <? endif ?><?= smartypants(html($site->title())) ?></title>
+    <title><?= smartypants($page->title()) ?><? if(!$page->isHomePage()): ?> - <?= $site->title() ?><? endif ?></title>
 </head>
 
 <body>
