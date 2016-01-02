@@ -1,8 +1,0 @@
-#Baiduspider
-User-agent: Baiduspider
-Disallow: /
-
-#Others
-User-agent: *
-Disallow: /kirby/
-Disallow: /site/
