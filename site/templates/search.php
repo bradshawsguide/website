@@ -1,9 +1,7 @@
 <? snippet('_header') ?>
 
 <section>
-    <header>
-        <h1>Search results for ‘<?php echo esc($query) ?>’</h1>
-    </header>
+    <? snippet('page/header', array('title' => "Search results for ‘".esc($query)."’")) ?>
 
 <? if($results): ?>
     <ul>

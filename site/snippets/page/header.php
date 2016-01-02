@@ -1,3 +1,3 @@
 <header>
-    <h1><?= smartypants($page->title()) ?></h1>
+    <h1><?= smartypants($title) ?></h1>
 </header>

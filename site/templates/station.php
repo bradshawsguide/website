@@ -1,59 +1,49 @@
 <? snippet('_header') ?>
 
 <article>
-    <header>
-        <h1><?= smartypants($page->title()) ?></h1>
-        <?php $region = $page->region(); ?>
-        <nav>
-            <a rel="up" href="<?= $pages->index()->findBy('title', "$region")->url(); ?>"><?= smartypants($region) ?></a>
-        </nav>
-    </header>
+    <? snippet('page/header', array('title' => $page->title())); ?>
+
+    <? snippet('page/parent', array('parent' => $page->region())); ?>
+
+<? if($page->hasImages()): ?>
+    <figure>
+    <? foreach($page->images() as $image): ?>
+        <img src="<?= $image->url() ?>" alt=""/>
+        <? if ($image->caption()): ?>
+        <figcaption>
+            <?= smartypants($image->caption()) ?>
+        </figcaption>
+        <? endif ?>
+    <? endforeach ?>
+    </figure>
+<? endif ?>
+
+<? if($page->meta()->isNotEmpty()): ?>
+    <?= kirbytext($page->meta()) ?>
+<? endif ?>
 
 <? if($page->text()->isNotEmpty()): ?>
-    <? if($page->meta()): ?>
-        <?= kirbytext($page->meta()) ?>
-    <? endif ?>
-
-    <? if($page->hasImages()): ?>
-        <figure>
-        <? foreach($page->images() as $image): ?>
-            <img src="<?= $image->url() ?>" alt="<?= $page->title() ?>"/>
-            <? if ($image->caption()): ?>
-            <figcaption>
-                <?= smartypants($image->caption()) ?>
-            </figcaption>
-            <? endif ?>
-        <? endforeach ?>
-        </figure>
-    <? endif ?>
-
     <?= kirbytext($page->text()); ?>
 <? endif ?>
 
 <? if($page->distances()->isNotEmpty()): ?>
-    <section>
-    <? if ($page->region() == "Isle of Wight"): ?>
-        <h1>Distances of Places from <?= smartypants($page->title()) ?></h1>
-    <? else: ?>
-        <h1>Distances of Places from the Station</h1>
-    <? endif ?>
-        <table>
-            <thead>
-                <tr>
-                    <th></th>
-                    <th>Miles.</th>
-                </tr>
-            </thead>
-            <tbody>
-                <? foreach($page->distances()->yaml() as $distance): ?>
-                <tr>
-                    <td><?= kirbytextRaw($distance['location']) ?></td>
-                    <td><?= $distance['miles'] ?></td>
-                </tr>
-                <? endforeach ?>
-            </tbody>
-        </table>
-    </section>
+    <table>
+        <summary>Distances of Places from <?= smartypants($page->title()) ?></summary>
+        <thead>
+            <tr>
+                <th></th>
+                <th>Miles.</th>
+            </tr>
+        </thead>
+        <tbody>
+            <? foreach($page->distances()->yaml() as $distance): ?>
+            <tr>
+                <td><?= kirbytextRaw($distance['location']) ?></td>
+                <td><?= $distance['miles'] ?></td>
+            </tr>
+            <? endforeach ?>
+        </tbody>
+    </table>
 <? endif ?>
 
 <? if($page->route()->isNotEmpty()): ?>

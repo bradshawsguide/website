@@ -1,20 +1,11 @@
 <? snippet('_header') ?>
 
 <article>
-    <header>
-        <h1><?= smartypants($page->title()) ?></h1>
-        <nav role="navigation">
-        <? if ($page->hasChildren()): ?>
-            <a class="is-active" href="<?= $page->url() ?>"><?= smartypants($page->title()) ?></a>
-            <? $items = $page->children()->visible(); ?>
-            <? foreach($items as $item): ?>
-                <a<? e($page->isOpen(), ' class="is-active"') ?> href="<?= $item->url() ?>"><?= smartypants($item->title()) ?></a>
-            <? endforeach ?>
-        <? else: ?>
-            <a rel="up" href="<?= $page->parent()->url() ?>"><?= smartypants($page->country()) ?></a>
-        <? endif ?>
-        </nav>
-    </header>
+    <? snippet('page/header', array('title' => $page->title())); ?>
+
+    <? snippet('page/parent', array('parent' => $page->country())); ?>
+
+    <? snippet('page/navigation') ?>
 
 <? if($page->text()->isNotEmpty()): ?>
     <?= kirbytext($page->text()) ?>

@@ -1,6 +1,6 @@
 <? snippet('_header') ?>
 <section>
-    <? snippet('page/header') ?>
+    <? snippet('page/header', array('title' => $page->title())); ?>
 
 <? $items = $pages->find('companies')->children()->sortBy('title', 'asc'); ?>
 <? if($items && $items->count()): ?>

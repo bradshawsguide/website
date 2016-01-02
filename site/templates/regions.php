@@ -1,7 +1,7 @@
 <? snippet('_header') ?>
 
 <section>
-    <? snippet('page/header') ?>
+    <? snippet('page/header', array('title' => $page->title())); ?>
 
 <? $items = $pages->findOpen()->children()->visible(); ?>
 <? if($items && $items->count()): ?>

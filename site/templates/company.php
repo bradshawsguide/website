@@ -1,12 +1,10 @@
 <? snippet('_header') ?>
 
 <article>
-    <? snippet('page/header') ?>
+    <? snippet('page/header', array('title' => $page->title())); ?>
 
 <? if($page->text()->isNotEmpty()): ?>
-    <div>
-        <?= kirbytext($page->text()) ?>
-    </div>
+    <?= kirbytext($page->text()) ?>
 <? endif ?>
 
 <section>

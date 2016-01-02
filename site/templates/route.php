@@ -1,19 +1,9 @@
 <? snippet('_header') ?>
 
 <article>
-    <header>
-        <h1><?= smartypants($page->title()) ?></h1>
-        <nav>
-            <? $company = $page->company(); ?>
-            <? if ($company == 'Isle of Wight'): ?>
-                <a rel="up" href="/regions/england/isle-of-wight">Isle of Wight</a>
-            <? elseif ($company == 'London'): ?>
-                <a rel="up" href="/regions/england/london">London</a>
-            <? else: ?>
-                <a rel="up" href="/companies/<?= preg_replace('/-railway$/', '', str::slug($company)) ?>"><?= $company->title() ?></a>
-            <? endif ?>
-        </nav>
-    </header>
+    <? snippet('page/header', array('title' => $page->title())); ?>
+
+    <? snippet('page/parent', array('parent' => $page->company())); ?>
 
 <? if($page->text()->isNotEmpty()): ?>
     <?= kirbytext($page->text()) ?>
