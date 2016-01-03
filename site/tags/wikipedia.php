@@ -1,17 +1,10 @@
 <?php
 
 kirbytext::$tags['wikipedia'] = array(
-    'attr' => array(
-        'text'
-    ),
     'html' => function($tag) {
-        $url     = 'http://wikipedia.org/wiki';
-        $article = $tag->attr('wikipedia');
+        $text = $tag->attr('wikipedia');
+        $url = 'http://en.wikipedia.org/w/index.php?search='.urlencode($text);
 
-        // build the final url
-        $url = 'http://en.wikipedia.org/w/index.php?search='.urlencode($article);
-
-        // build the link tag
-        return '<a href="'.$url.'">'.$article.' on Wikipedia</a>';
+        return html::a($url, $text);
     }
 );

@@ -431,3 +431,40 @@ array('.', '..', '.DS_Store', '.svn', '.git', '.htaccess');
 
 */
 c::set('content.file.ignore', array());
+
+
+/*
+
+---------------------------------------
+Kirby overrides
+---------------------------------------
+
+https://forum.getkirby.com/t/2950
+*/
+
+data::$adapters['kd']['encode'] = function($data) {
+    $result = array();
+
+    foreach($data AS $key => $value) {
+        $key = str::ucfirst(str::slug($key));
+
+        if(empty($key) || is_null($value)) continue;
+
+        // avoid problems with arrays
+        if(is_array($value)) {
+            $value = '';
+        }
+
+        // escape accidental dividers within a field
+        $value = preg_replace('!\n----(.*?\R*)!', "\n ----$1", $value);
+
+        // multi-line content
+        if(preg_match('!\R!', $value, $matches)) {
+            $result[$key] = $key . ": \n\n" . trim($value);
+        // single-line content
+        } else {
+            $result[$key] = $key . ': ' . trim($value);
+        }
+    }
+
+    return implode("\n----\n", $result);

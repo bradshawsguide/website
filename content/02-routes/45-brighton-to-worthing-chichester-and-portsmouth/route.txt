@@ -4,7 +4,6 @@ title: Brighton to Worthing, Chichester and Portsmouth
 ----
 company: London, Brighton, and South Coast Railway
 ----
-
 related:
 - (wikipedia: West Coastway Line)
 ----

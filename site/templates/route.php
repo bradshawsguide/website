@@ -50,10 +50,7 @@ if (isset($items)):
 <? endif ?>
 
 <? if ($page->related()->isNotEmpty()): ?>
-    <section>
-        <h1>Related Links</h1>
-        <?= kirbytext($page->related()) ?>
-    </section>
+    <? snippet('page/section-related' ?>
 <? endif ?>
 
     <? snippet('shorturl') ?>

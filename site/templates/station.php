@@ -27,44 +27,16 @@
 <? endif ?>
 
 <? if($page->distances()->isNotEmpty()): ?>
-    <table>
-        <summary>Distances of Places from <?= smartypants($page->title()) ?></summary>
-        <thead>
-            <tr>
-                <th></th>
-                <th>Miles.</th>
-            </tr>
-        </thead>
-        <tbody>
-            <? foreach($page->distances()->yaml() as $distance): ?>
-            <tr>
-                <td><?= kirbytextRaw($distance['location']) ?></td>
-                <td><?= $distance['miles'] ?></td>
-            </tr>
-            <? endforeach ?>
-        </tbody>
-    </table>
+    <? snippet('distances') ?>
 <? endif ?>
 
 <? if($page->route()->isNotEmpty()): ?>
-    <section>
-        <h1>Routes Serving the Station</h1>
-        <ul>
-        <? foreach(related($page->route()) as $routes): ?>
-            <li><a href="<?= $routes->url() ?>"><?= smartypants($routes->title()) ?></a></li>
-        <? endforeach ?>
-        </ul>
-    </section>
+    <? snippet('page/section-routes') ?>
 <? endif ?>
 
-    <section>
-        <h1>Related Links</h1>
-        <? if($page->related()->isNotEmpty()): ?>
-            <?= kirbytext($page->related()) ?>
-        <? else: ?>
-            <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>+railway+station"><?= smartypants($page->title()) ?> railway station on Wikipedia</a></p>
-        <? endif ?>
-    </section>
+<? if ($page->related()->isNotEmpty()): ?>
+    <? snippet('page/section-related') ?>
+<? endif ?>
 
     <? snippet('shorturl') ?>
     <? snippet('prevnext') ?>

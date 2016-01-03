@@ -36,16 +36,9 @@
     <? endforeach ?>
 </section>
 
-<section>
-    <h1>Related Links</h1>
-    <? if ($page->related()->isNotEmpty()): ?>
-        <?= kirbytext($page->related()) ?>
-    <? else: ?>
-        <p><a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title()) ?>"><?= smartypants($page->title()) ?> on Wikipedia</a></p>
-    <? endif ?>
-</section>
+    <? snippet('page/section-related') ?>
 
-<? snippet('shorturl') ?>
+    <? snippet('shorturl') ?>
 </article>
 
 <? snippet('_footer') ?>

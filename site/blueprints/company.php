@@ -7,3 +7,7 @@ fields:
   title:
     label: Title
     type: text
+  related:
+    label: Related links
+    type: textarea
+    buttons: false

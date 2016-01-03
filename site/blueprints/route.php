@@ -32,3 +32,7 @@ fields:
   text:
     label: Text
     type: textarea
+  related:
+    label: Related links
+    type: textarea
+    buttons: false
