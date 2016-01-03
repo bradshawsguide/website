@@ -468,3 +468,4 @@ data::$adapters['kd']['encode'] = function($data) {
     }
 
     return implode("\n----\n", $result);
+};
