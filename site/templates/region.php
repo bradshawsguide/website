@@ -1,9 +1,9 @@
 <? snippet('_header') ?>
 
 <article>
-    <? snippet('page/header', array('title' => $page->title())); ?>
+    <? snippet('page/header', array('title' => $page->title())) ?>
 
-    <? snippet('page/parent', array('parent' => $page->country())); ?>
+    <? snippet('page/parent', array('parent' => $page->country())) ?>
 
     <? snippet('page/navigation') ?>
 
@@ -16,21 +16,9 @@
 <? endif ?>
 
 <?
-$region = $page->title();
-$search = $pages->find('stations')->children()->filterBy('region', $region)->sortBy('title', 'asc');
+$search = $pages->find('stations')->children()->filterBy('region', $page->title())->sortBy('title', 'asc');
 ?>
-    <section>
-        <h1>Stations in This County</h1>
-        <? $alphabetise = alphabetise($search) ?>
-        <? foreach($alphabetise as $letter => $items): ?>
-            <h2 id="<?= $letter ?>"><?= str::upper($letter) ?></h2>
-            <ul>
-            <? foreach($items as $item): ?>
-                <li><a href="<?= $item->url() ?>"<? if ($item->text() == ''): ?> class="unremarkable"<? endif ?>><?= smartypants($item->title()) ?></a></li>
-            <? endforeach ?>
-            </ul>
-        <? endforeach ?>
-    </section>
+    <? snippet('page/section-stations', array('search' => $search)) ?>
 
 <? snippet('shorturl') ?>
 <? snippet('prevnext') ?>

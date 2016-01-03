@@ -3,7 +3,10 @@
 <section>
     <? snippet('page/header', array('title' => $page->title())); ?>
 
-    <? snippet('alphabetise', array('type' => 'stations')); ?>
+    <?
+        $search = $page->children()->sortby('title');
+        snippet('alphabetise', array('search' => $search));
+    ?>
 </section>
 
 <? snippet('_footer') ?>

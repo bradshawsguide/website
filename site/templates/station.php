@@ -6,16 +6,7 @@
     <? snippet('page/parent', array('parent' => $page->region())); ?>
 
 <? if($page->hasImages()): ?>
-    <figure>
-    <? foreach($page->images() as $image): ?>
-        <img src="<?= $image->url() ?>" alt=""/>
-        <? if ($image->caption()): ?>
-        <figcaption>
-            <?= smartypants($image->caption()) ?>
-        </figcaption>
-        <? endif ?>
-    <? endforeach ?>
-    </figure>
+    <? snippet('figure') ?>
 <? endif ?>
 
 <? if($page->meta()->isNotEmpty()): ?>
