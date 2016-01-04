@@ -1,25 +1,30 @@
 <? snippet('_header') ?>
 
 <article>
-    <? snippet('page/header', array('title' => $page->title())); ?>
+    <?
+        snippet('page/header', array('title' => $page->title()));
 
-    <? snippet('page/parent', array('parent' => $page->region())); ?>
+        snippet('page/parent', array('parent' => $page->region()));
 
-    <? snippet('figure') ?>
+        snippet('figure');
 
-    <?= kirbytext($page->meta()) ?>
+        echo kirbytext($page->meta());
 
-    <?= kirbytext($page->text()); ?>
+        echo kirbytext($page->text());
 
-    <? snippet('distances') ?>
+        snippet('distances');
 
-    <? snippet('page/section-routes') ?>
+        if($page->route()->isNotEmpty()) {
+            $routes = related($page->route());
+            snippet('page/section-routes', array('routes' => $routes, 'context' => 'station'));
+        }
 
-    <? snippet('page/section-related') ?>
+        snippet('page/section-related');
 
-    <? snippet('shorturl') ?>
+        snippet('shorturl');
 
-    <? snippet('prevnext') ?>
+        snippet('prevnext');
+    ?>
 </article>
 
 <? snippet('_footer') ?>

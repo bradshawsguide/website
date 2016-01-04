@@ -1,16 +1,19 @@
 <? snippet('_header') ?>
 
 <article>
-    <? snippet('page/header', array('title' => $page->title())); ?>
+    <?
+        snippet('page/header', array('title' => $page->title()));
 
-    <? snippet('page/parent', array('parent' => $page->company())); ?>
+        snippet('page/parent', array('parent' => $page->company()));
 
-    <?= kirbytext($page->text()) ?>
+        echo kirbytext($page->text());
 
-    <? snippet('routemap') ?>
+        snippet('routemap');
 
-    <? snippet('page/section-related') ?>
+        snippet('page/section-related');
 
-    <? snippet('shorturl') ?>
+        snippet('shorturl');
+    ?>
 </article>
+
 <? snippet('_footer') ?>

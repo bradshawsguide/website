@@ -1,4 +1,4 @@
-<? foreach(alphabetise($search) as $letter => $items): ?>
+<? foreach(alphabetise($search->sortby('title')) as $letter => $items): ?>
     <h2 id="<?= $letter ?>"><?= str::upper($letter) ?></h2>
     <ul>
     <? foreach($items as $item): ?>

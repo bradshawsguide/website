@@ -1,9 +1,16 @@
-<? if($page->route()->isNotEmpty()): ?>
-    <section>
-        <h1>Routes Serving the Station</h1>
-        <?
-            $routes = related($page->route());
-            snippet('listing', array('items' => $routes));
-        ?>
-    </section>
-<? endif ?>
+<?
+    switch ($context) {
+        case 'company':
+            $title = "Routes operated";
+            break;
+        case 'station':
+            $title = "Routes serving the station";
+            break;
+    }
+?>
+<section>
+    <h1><?= $title ?></h1>
+    <?
+        snippet('listing', array('items' => $routes));
+    ?>
+</section>

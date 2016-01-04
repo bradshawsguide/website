@@ -1,7 +1,16 @@
+<?
+    switch ($context) {
+        case 'company':
+            $title = "Stations served";
+            break;
+        case 'region':
+            $title = "Stations in the county";
+            break;
+    }
+?>
 <section>
-    <h1>Stations in This County</h1>
+    <h1><?= $title ?></h1>
     <?
-        $search = $pages->find('stations')->children()->filterBy('region', $page->title())->sortBy('title', 'asc');
-        snippet('alphabetise', array('search' => $search));
+        snippet('alphabetise', array('search' => $stations));
     ?>
 </section>
