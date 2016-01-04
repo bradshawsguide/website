@@ -2,9 +2,13 @@
 
 <article>
     <?
-        snippet('page/header', array('title' => $page->title()));
+        snippet('page/header', array(
+            'title' => $page->title()
+        ));
 
-        snippet('page/parent', array('parent' => $page->country()));
+        snippet('page/parent', array(
+            'parent' => $page->country()
+        ));
 
         snippet('page/navigation');
 
@@ -14,7 +18,10 @@
 
         $region = $page->title();
         $stations = $pages->find('stations')->children()->filterBy('region', $region);
-        snippet('section-stations', array('stations' => $stations, 'context' => 'region'));
+        snippet('section-stations', array(
+            'stations' => $stations,
+            'context' => 'region'
+        ));
 
         snippet('shorturl');
 

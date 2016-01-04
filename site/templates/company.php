@@ -2,17 +2,25 @@
 
 <article>
     <?
-        snippet('page/header', array('title' => $page->title()));
+        snippet('page/header', array(
+            'title' => $page->title()
+        ));
 
         echo kirbytext($page->text());
 
         $company = $page->title();
-        $routes = $pages->children()->filterBy('company', $company)->sortBy('title', 'asc');
-        snippet('section-routes', array('routes' => $routes, 'context' => 'company'));
+        $routes = $pages->children()->filterBy('company', $company);
+        snippet('section-routes', array(
+            'routes' => $routes,
+            'context' => 'company'
+        ));
 
         $company = kirby()->request()->path(2);
         $stations = $pages->children()->filterBy('company', '*=', $company);
-        snippet('section-stations', array('stations' => $stations, 'context' => 'company'));
+        snippet('section-stations', array(
+            'stations' => $stations,
+            'context' => 'company'
+        ));
 
         snippet('section-related');
 

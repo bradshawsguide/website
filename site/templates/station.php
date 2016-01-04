@@ -2,9 +2,13 @@
 
 <article>
     <?
-        snippet('page/header', array('title' => $page->title()));
+        snippet('page/header', array(
+            'title' => $page->title()
+        ));
 
-        snippet('page/parent', array('parent' => $page->region()));
+        snippet('page/parent', array(
+            'parent' => $page->region()
+        ));
 
         snippet('figure');
 
@@ -16,7 +20,10 @@
 
         if($page->route()->isNotEmpty()) {
             $routes = related($page->route());
-            snippet('section-routes', array('routes' => $routes, 'context' => 'station'));
+            snippet('section-routes', array(
+                'routes' => $routes,
+                'context' => 'station'
+            ));
         }
 
         snippet('section-related');

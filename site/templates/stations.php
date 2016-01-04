@@ -2,10 +2,14 @@
 
 <section>
     <?
-        snippet('page/header', array('title' => $page->title()));
+        snippet('page/header', array(
+            'title' => $page->title()
+        ));
 
         $stations = $page->children();
-        snippet('alphabetise', array('search' => $stations));
+        snippet('alphabetise', array(
+            'search' => $stations
+        ));
     ?>
 </section>
 

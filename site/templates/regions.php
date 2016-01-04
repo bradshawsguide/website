@@ -2,10 +2,14 @@
 
 <section>
     <?
-        snippet('page/header', array('title' => $page->title()));
+        snippet('page/header', array(
+            'title' => $page->title()
+        ));
 
         foreach($pages->findOpen()->children() as $country) {
-            snippet('section-country', array('country' => $country));
+            snippet('section-country', array(
+                'country' => $country
+            ));
         }
     ?>
 
