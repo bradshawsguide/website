@@ -1,8 +1,12 @@
-<section>
-    <h1>Related Links</h1>
-    <ul>
+<? if ($page->related()->isNotEmpty()): ?>
+    <section>
+        <h1>Related Links</h1>
+        <ul>
         <? foreach($page->related()->split('-') as $related): ?>
-        <li><?= kirbytext($related) ?></li>
+            <li>
+                <?= kirbytext($related) ?>
+            </li>
         <? endforeach ?>
-    </ul>
-</section>
+        </ul>
+    </section>
+<? endif ?>

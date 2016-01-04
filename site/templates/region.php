@@ -7,13 +7,9 @@
 
     <? snippet('page/navigation') ?>
 
-<? if($page->text()->isNotEmpty()): ?>
     <?= kirbytext($page->text()) ?>
-<? endif ?>
 
-<? if($page->related()->isNotEmpty()): ?>
-    <? snippet('related') ?>
-<? endif ?>
+    <? snippet('pages/section-related') ?>
 
 <?
     $region = $page->title();
@@ -21,8 +17,9 @@
     snippet('page/section-stations', array('search' => $search))
 ?>
 
-<? snippet('shorturl') ?>
-<? snippet('prevnext') ?>
+    <? snippet('shorturl') ?>
+
+    <? snippet('prevnext') ?>
 </article>
 
 <? snippet('_footer') ?>

@@ -9,8 +9,8 @@
             $title = $item->title();
         }
         ?>
-        <li>
-            <a href="<?= $item->url() ?>"<? if($item->text()->isEmpty()): ?> class="unremarkable"<? endif ?>><?= smartypants($title) ?></a>
+        <li<? if($item->text()->isEmpty()): ?> class="unremarkable"<? endif ?>>
+            <a href="<?= $item->url() ?>"><?= smartypants($title) ?></a>
         </li>
     <? endforeach ?>
     </ul>

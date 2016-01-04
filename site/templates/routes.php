@@ -1,4 +1,5 @@
 <? snippet('_header') ?>
+
 <section>
     <? snippet('page/header', array('title' => $page->title())); ?>
 
@@ -14,7 +15,7 @@
             <h2><a href="<?= $item->url() ?>"><?= smartypants($item->title()) ?></a></h2>
         <? endif ?>
         <? $routes = $pages->find('routes')->children()->filterBy('company', "$company")->sortBy('title', 'asc'); ?>
-            <ul class="listing">
+            <ul>
             <? if($company == 'London'): ?>
                 <li><a href="/regions/england/london/visitors-guide">Guide through London</a></li>
                 <li><a href="/regions/england/london/places-of-amusement">Places of Amusement, &#38;c.</a></li>
@@ -29,4 +30,5 @@
     <? endforeach ?>
 <? endif ?>
 </section>
+
 <? snippet('_footer') ?>
