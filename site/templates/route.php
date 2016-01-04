@@ -50,7 +50,7 @@ if (isset($items)):
 <? endif ?>
 
 <? if ($page->related()->isNotEmpty()): ?>
-    <? snippet('page/section-related' ?>
+    <? snippet('page/section-related') ?>
 <? endif ?>
 
     <? snippet('shorturl') ?>

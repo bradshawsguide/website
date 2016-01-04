@@ -4,11 +4,9 @@
     <? snippet('page/header', array('title' => $page->title())); ?>
 
     <?
-    $items = $page->children()->sortBy('title', 'asc');
-    if($items && $items->count()):
+        $items = $page->children()->sortBy('title', 'asc');
+        snippet('listing', array('items' => $items));
     ?>
-        <? snippet('listing') ?>
-    <? endif ?>
 </section>
 
 <? snippet('_footer') ?>

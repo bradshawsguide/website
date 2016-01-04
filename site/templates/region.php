@@ -16,9 +16,10 @@
 <? endif ?>
 
 <?
-$search = $pages->find('stations')->children()->filterBy('region', $page->title())->sortBy('title', 'asc');
+    $region = $page->title();
+    $search = $pages->find('stations')->children()->filterBy('region', $region)->sortBy('title', 'asc');
+    snippet('page/section-stations', array('search' => $search))
 ?>
-    <? snippet('page/section-stations', array('search' => $search)) ?>
 
 <? snippet('shorturl') ?>
 <? snippet('prevnext') ?>

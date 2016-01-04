@@ -3,11 +3,11 @@
 <section>
     <? snippet('page/header', array('title' => "Search results for ‘".esc($query)."’")) ?>
 
-<? if($results): ?>
+<? if($results && $results->count()): ?>
     <? snippet('results') ?>
     <? snippet('pagination', array('pagination' => $results->pagination())) ?>
-<? elseif($search->query()): ?>
-    <p>No results for <strong><?= html($search->query()) ?></strong></p>
+<? else: ?>
+    <p>No results for <strong><?= esc($query) ?></strong></p>
 <? endif ?>
 
 </section>
