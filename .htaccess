@@ -7,10 +7,10 @@
   Options +FollowSymLinks
 
 # Redirect to canonical domainname
-  RewriteCond %{HTTPS} !=on
-  RewriteCond %{HTTP_HOST} !^bradshawsguide\.dev$ [NC]
-  RewriteCond %{HTTP_HOST} !^bradshawsguide\.org$ [NC]
-  RewriteRule ^(.*)$ http://bradshawsguide.org/$1 [R=301,L]
+# RewriteCond %{HTTPS} !=on
+# RewriteCond %{HTTP_HOST} !^bradshawsguide\.dev$ [NC]
+# RewriteCond %{HTTP_HOST} !^bradshawsguide\.org$ [NC]
+# RewriteRule ^(.*)$ http://bradshawsguide.org/$1 [R=301,L]
 
 # Rewrite cache busting query strings on static files
   RewriteCond %{REQUEST_FILENAME} !-f

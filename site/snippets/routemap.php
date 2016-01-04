@@ -12,8 +12,9 @@
                 $type = "unremarkable";
             } else {
                 $type = "station";
-                $routes = related($item->route());
             }
+
+            $routes = related($item->route());
 
             foreach ($routes as $connection) {
                 if ($connection->title() !== $page->title()) {
