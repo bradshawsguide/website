@@ -12,7 +12,7 @@
     }
 
     if(isset($url)) {
-        $heading =  html::a($url, $title);
+        $heading = html::a($url, $title);
     } else {
         $heading = $title;
     }
