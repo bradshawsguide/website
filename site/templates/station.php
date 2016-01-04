@@ -16,10 +16,10 @@
 
         if($page->route()->isNotEmpty()) {
             $routes = related($page->route());
-            snippet('page/section-routes', array('routes' => $routes, 'context' => 'station'));
+            snippet('section-routes', array('routes' => $routes, 'context' => 'station'));
         }
 
-        snippet('page/section-related');
+        snippet('section-related');
 
         snippet('shorturl');
 

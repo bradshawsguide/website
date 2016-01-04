@@ -10,11 +10,11 @@
 
         echo kirbytext($page->text());
 
-        snippet('pages/section-related');
+        snippet('section-related');
 
         $region = $page->title();
         $stations = $pages->find('stations')->children()->filterBy('region', $region);
-        snippet('page/section-stations', array('stations' => $stations, 'context' => 'region'));
+        snippet('section-stations', array('stations' => $stations, 'context' => 'region'));
 
         snippet('shorturl');
 

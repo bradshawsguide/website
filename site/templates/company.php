@@ -8,13 +8,13 @@
 
         $company = $page->title();
         $routes = $pages->children()->filterBy('company', $company)->sortBy('title', 'asc');
-        snippet('page/section-routes', array('routes' => $routes, 'context' => 'company'));
+        snippet('section-routes', array('routes' => $routes, 'context' => 'company'));
 
         $company = kirby()->request()->path(2);
         $stations = $pages->children()->filterBy('company', '*=', $company);
-        snippet('page/section-stations', array('stations' => $stations, 'context' => 'company'));
+        snippet('section-stations', array('stations' => $stations, 'context' => 'company'));
 
-        snippet('page/section-related');
+        snippet('section-related');
 
         snippet('shorturl');
     ?>

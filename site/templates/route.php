@@ -10,7 +10,7 @@
 
         snippet('routemap');
 
-        snippet('page/section-related');
+        snippet('section-related');
 
         snippet('shorturl');
     ?>

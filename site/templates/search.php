@@ -8,7 +8,6 @@
             snippet('results');
 
             snippet('pagination', array('pagination' => $results->pagination()));
-
         } else {
             echo "<p>No results for <strong>".esc($query)."</strong></p>";
         }
