@@ -12,9 +12,14 @@
 
         snippet('figure');
 
-        echo kirbytext($page->meta());
+        if($page->info()->isNotEmpty()) {
+            snippet('info');
+        } else {
+            // temporary
+            echo kirbytext($page->meta());
+        }
 
-        echo kirbytext($page->text());
+        snippet('content');
 
         snippet('distances');
 

@@ -8,7 +8,7 @@
 
         snippet('page/navigation');
 
-        echo kirbytext($page->text());
+        snippet('content');
     ?>
 </article>
 

@@ -1,0 +1,3 @@
+<?
+    echo kirbytext($page->text());
+?>

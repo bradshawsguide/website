@@ -6,7 +6,7 @@
             'title' => $page->title()
         ));
 
-        echo kirbytext($page->text());
+        snippet('content');
 
         $company = $page->title();
         $routes = $pages->children()->filterBy('company', $company);

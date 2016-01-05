@@ -12,7 +12,7 @@
 
         snippet('page/navigation');
 
-        echo kirbytext($page->text());
+        snippet('content');
 
         snippet('section-related');
 

@@ -10,7 +10,7 @@
             'parent' => $page->company()
         ));
 
-        echo kirbytext($page->text());
+        snippet('content');
 
         snippet('routemap');
 
