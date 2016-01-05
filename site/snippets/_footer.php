@@ -1,4 +1,4 @@
-    </main><!--/@main-->
+    </main>
 
     <? snippet('navigation') ?>
     <? snippet('search') ?>

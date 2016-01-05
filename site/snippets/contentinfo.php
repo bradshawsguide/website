@@ -21,4 +21,4 @@
             Content: <a rel="license" href="<?= $site->license_url() ?>">Public Domain</a>
         </small>
     </p>
-</footer><!--/@contentinfo-->
+</footer>

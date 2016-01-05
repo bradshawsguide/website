@@ -2,12 +2,12 @@
 
 <article>
     <?
-        snippet('page/header', array(
-            'title' => $page->title()
-        ));
-
         snippet('page/parent', array(
             'parent' => $page->company()
+        ));
+
+        snippet('page/header', array(
+            'title' => $page->title()
         ));
 
         snippet('content');
