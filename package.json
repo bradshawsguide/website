@@ -6,5 +6,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/paulrobertlloyd/bradshawsguide.git"
+  },
+  "devDependencies": {
+    "node-sass": "^3.4.2"
+  },
+  "scripts": {
+    "sass": "node-sass assets/styles/styles.scss -o assets/styles/"
   }
 }

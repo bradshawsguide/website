@@ -31,6 +31,7 @@
     <? if($page->hasPrevVisible()): ?><link rel="prev" href="<?= $page->prevVisible()->url() ?>"/><? endif ?>
     <? if($page->hasNextVisible()): ?><link rel="next" href="<?= $page->nextVisible()->url() ?>"/><? endif ?>
 <? endif ?>
+    <link rel="stylesheet" href="<?= url('assets/styles/styles.css') ?>"/>
 
     <title><?= smartypants($page->title()) ?><? if(!$page->isHomePage()): ?> - <?= $site->title() ?><? endif ?></title>
 </head>
