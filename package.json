@@ -3,14 +3,18 @@
   "version": "0.1.0",
   "description": "Bradshaw's Guide for Tourists in Great Britain & Ireland",
   "author": "Paul Robert Lloyd",
+  "private": "true",
   "repository": {
     "type": "git",
     "url": "https://github.com/paulrobertlloyd/bradshawsguide.git"
   },
   "devDependencies": {
-    "node-sass": "^3.4.2"
+    "node-sass": "latest",
+    "nodemon": "latest"
   },
   "scripts": {
-    "sass": "node-sass assets/styles/styles.scss -o assets/styles/"
+    "build:css-sass": "node-sass assets/styles/styles.scss -o assets/styles/",
+    "build:css": "npm run build:css-sass",
+    "watch:css": "nodemon -e scss -x 'npm run build:css'"
   }
 }

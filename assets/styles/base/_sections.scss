@@ -1,0 +1,49 @@
+//  ===========================================================================
+//  Sections
+//  ===========================================================================
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0 auto;
+    max-width: $u__max-width;
+    background-color: $c__neutral-light;
+    font-family: $f__sans;
+}
+
+main {
+//  Correct `block` display for `main`
+//  http://caniuse.com/#search=main
+    display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    text-rendering: optimizeLegibility;
+    font-size: 1em;
+    font-weight: inherit;
+
+    @media print {
+        page-break-after: avoid;
+    }
+}
+
+hr {
+    margin: 0;
+    border: 0;
+    height: 0;
+    line-height: 0;
+}

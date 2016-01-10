@@ -3,16 +3,13 @@
 @import 'helpers/variables';
 
 // Base
+@import 'base/sections';
+@import 'base/grouping';
+@import 'base/embedded';
+@import 'base/forms';
 
 // Components
 
 // Scopes
 
 // Utilities
-
-// Temporary
-body {
-    margin: 0 auto;
-    max-width: $u__max-width;
-    background-color: $c__neutral-light;
-}

@@ -18,10 +18,12 @@
 
         $region = $page->title();
         $stations = $pages->find('stations')->children()->filterBy('region', $region);
-        snippet('section-stations', array(
-            'stations' => $stations,
-            'context' => 'region'
-        ));
+        if($stations->count()) {
+            snippet('section-stations', array(
+                'stations' => $stations,
+                'context' => 'region'
+            ));
+        }
 
         snippet('shorturl');
 

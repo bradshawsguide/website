@@ -1,0 +1,43 @@
+//  ===========================================================================
+//  Grouping content
+//  ===========================================================================
+
+p,
+pre,
+blockquote,
+ul,
+ol,
+dl,
+figure,
+table,
+fieldset {
+    margin: 0;
+    orphans: 3;
+    widows: 3;
+}
+
+pre,
+blockquote {
+    @media print {
+        page-break-inside: avoid;
+    }
+}
+
+ol,
+ul {
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+    margin-left: 1.5em;
+    text-indent: -1.5em;
+}
+
+dt {
+    font-weight: 700;
+}
+
+dd {
+    margin-left: 1.5rem;
+}
