@@ -1,0 +1,44 @@
+//  ===========================================================================
+//  Mixins
+//  ===========================================================================
+
+// Clearfix
+@mixin clearfix {
+    &::before,
+    &::after {
+        display: table;
+        clear: both;
+        content: '';
+    }
+}
+
+// Visually hide content
+@mixin visually-hidden {
+    position: absolute;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+}
+
+// Font metrics
+@mixin fs__title {
+    font-family: $f__block;
+    font-size: 2.5rem; // 40px
+    line-height: (40 / 40);
+}
+
+@mixin fs__heading {
+    font-family: $f__slab;
+    font-size: 1.125rem; // 18px
+    line-height: (25 / 21);
+}
+
+@mixin fs__body {
+    font-family: $f__serif;
+    font-size: 1.125rem; // 18px
+    line-height: (25 / 18);
+}

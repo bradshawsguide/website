@@ -1,6 +1,7 @@
 // Helpers
 @import 'helpers/functions';
 @import 'helpers/variables';
+@import 'helpers/mixins';
 
 // Base
 @import 'base/sections';
@@ -9,7 +10,11 @@
 @import 'base/forms';
 
 // Components
+@import 'components/banner';
+@import 'components/page';
 
 // Scopes
+@import 'scopes/prose';
 
 // Utilities
+@import 'utilities/hidden';

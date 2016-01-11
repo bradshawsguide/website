@@ -1,3 +1,5 @@
-<header class="banner" role="banner">
-    <h1 class="banner__title"><a href="<?= url() ?>">Bradshaw&#8217;s Guide</a></h1>
+<header class="c-banner" role="banner">
+    <h1 class="c-banner__title">
+        <a class="c-banner__home" href="<?= url() ?>" rel="home">Bradshaw’s Guide</a>
+    </h1>
 </header><!--/@banner-->
