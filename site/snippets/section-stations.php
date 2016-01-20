@@ -8,8 +8,8 @@
             break;
     }
 ?>
-<section>
-    <h1><?= $title ?></h1>
+<section class="c-section c-section--stations">
+    <h1 class="c-section__title"><?= $title ?></h1>
     <?
         snippet('alphabetise', array('search' => $stations));
     ?>

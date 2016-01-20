@@ -34,11 +34,26 @@
 @mixin fs__heading {
     font-family: $f__slab;
     font-size: 1.125rem; // 18px
+    font-weight: bold;
     line-height: (25 / 21);
+    text-transform: uppercase;
+    letter-spacing: 0.025rem;
 }
 
 @mixin fs__body {
     font-family: $f__serif;
     font-size: 1.125rem; // 18px
     line-height: (25 / 18);
+}
+
+@mixin fs__info {
+    font-family: $f__serif;
+    font-size: 1rem; // 16px
+    line-height: (20 / 16);
+}
+
+@mixin fs__caption {
+    font-family: $f__sans;
+    font-size: 0.875rem; // 14px
+    line-height: (20 / 14);
 }

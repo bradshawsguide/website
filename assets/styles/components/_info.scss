@@ -1,0 +1,25 @@
+//  ===========================================================================
+//  Info
+//  ===========================================================================
+
+.c-info {
+    @include fs__info;
+    border-bottom: 1px solid $c__neutral-mid;
+    color: $c__neutral-dark;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.c-info__term {
+    font-weight: normal;
+    float: left;
+    text-transform: uppercase;
+
+    &::after {
+        content: '.—';
+    }
+}
+
+.c-info__desc {
+    margin-bottom: 0.5rem;
+}

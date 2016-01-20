@@ -1,6 +1,6 @@
 <? snippet('_header') ?>
 
-<section>
+<section class="c-page">
     <?
         snippet('page/header', array(
             'title' => $page->title()

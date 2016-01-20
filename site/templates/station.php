@@ -2,22 +2,13 @@
 
 <article class="c-page">
     <?
-        snippet('page/parent', array(
+        snippet('breadcrumb', array(
             'parent' => $page->region()
         ));
 
         snippet('page/header', array(
             'title' => $page->title()
         ));
-
-        snippet('figure');
-
-        if($page->info()->isNotEmpty()) {
-            snippet('info');
-        } else {
-            // temporary
-            echo kirbytext($page->meta());
-        }
 
         snippet('content');
 

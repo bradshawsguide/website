@@ -1,0 +1,42 @@
+//  ===========================================================================
+//  Section
+//  ===========================================================================
+
+.c-section {
+    margin-top: 2rem;
+}
+
+.c-section--alphabetise,
+.c-section--country,
+.c-section--stations {
+    .c-list__item {
+        @media screen and (min-width: $b__a) {
+            float: left;
+            width: percentage(1/2);
+        }
+
+        @media screen and (min-width: $b__b) {
+            width: percentage(1/3);
+        }
+
+        @media screen and (min-width: $b__c) {
+            width: percentage(1/4);
+        }
+    }
+}
+
+.c-section__title {
+    @include fs__heading;
+    border-bottom: 1px solid $c__neutral-mid;
+    color: $c__neutral-dark;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+
+    a {
+        color: inherit;
+    }
+
+    a::after {
+        content: '\0020\261E';
+    }
+}

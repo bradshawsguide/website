@@ -1,0 +1,33 @@
+//  ===========================================================================
+//  Content info
+//  ===========================================================================
+
+.c-contentinfo {
+    color: $c__neutral-lightest;
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 1rem;
+    order: 4;
+
+    a:hover {
+        color: $c__brand-yellow;
+    }
+}
+
+.c-contentinfo__social {
+    flex: 0 0 auto;
+}
+
+.c-contentinfo__rights {
+    flex: 1 1 auto;
+}
+
+.c-icon {
+    align-items: center;
+    border: 0.03125rem solid currentColor;
+    border-radius: 100%;
+    display: inline-flex;
+    height: 2.5rem;
+    justify-content: center;
+    width: 2.5rem;
+}

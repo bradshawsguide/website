@@ -1,4 +1,4 @@
-<form class="search" role="search" action="/search">
+<form class="c-search" role="search" action="/search">
     <fieldset>
         <legend>Search <?= $site->title() ?></legend>
         <input class="input" type="search" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey…"<? if(isset($search)): ?> value="<?= esc($query) ?><? endif ?>"/>

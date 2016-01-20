@@ -1,7 +1,7 @@
 <? if($items && $items->count()): ?>
-    <ul>
+    <ul class="c-list">
     <? foreach($items->sortby('title') as $item): ?>
-        <li><?= html::a($item->url(), smartypants($item->title())) ?></li>
+        <li class="c-list__item"><?= html::a($item->url(), smartypants($item->title())) ?></li>
     <? endforeach ?>
     </ul>
 <? endif ?>

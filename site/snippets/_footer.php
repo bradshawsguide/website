@@ -3,6 +3,6 @@
     <? snippet('navigation') ?>
     <? snippet('search') ?>
     <? snippet('contentinfo') ?>
-    <? snippet('analytics') ?>
+    <? //snippet('analytics') ?>
 </body>
 </html>

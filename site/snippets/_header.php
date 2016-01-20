@@ -40,4 +40,4 @@
     <? snippet('symbols') ?>
     <? snippet('banner') ?>
 
-    <main class="main" role="main">
+    <main class="c-main" role="main">

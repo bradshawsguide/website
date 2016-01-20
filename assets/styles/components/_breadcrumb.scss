@@ -1,17 +1,11 @@
 //  ===========================================================================
-//  Page
+//  Breadcrumb
 //  ===========================================================================
 
-.c-page__header {
-    padding-top: 2rem;
-    padding-bottom: 1.5rem;
-}
-
-.c-page__title {
-    @include fs__title;
+.c-breadcrumb {
+    @include fs__caption;
+    border-bottom: 1px solid $c__neutral-mid;
     color: $c__neutral-dark;
-
-    &::after {
-        content: '.';
-    }
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
 }

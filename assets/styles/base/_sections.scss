@@ -14,8 +14,10 @@ html {
 
 body {
     margin: 0 auto;
-    background-color: $c__neutral-light;
+    background-color: $c__neutral-dark;
     font-family: $f__sans;
+    display: flex;
+    flex-direction: column;
 }
 
 main {

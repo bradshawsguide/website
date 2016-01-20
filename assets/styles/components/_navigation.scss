@@ -1,0 +1,29 @@
+//  ===========================================================================
+//  Navigation
+//  ===========================================================================
+
+.c-navigation {
+    background-color: $c__neutral-dark;
+    padding: 0 1rem;
+    order: 2;
+}
+
+.c-navigation__list {
+    display: flex;
+}
+
+.c-navigation__item {
+    color: $c__neutral-lightest;
+    flex: auto 0 0;
+    margin-right: 1rem;
+
+    a {
+        display: block;
+        padding: 1rem 0 0.5rem 0;
+    }
+
+    a.is-active {
+        box-shadow: inset 0 2px 0 $c__brand-yellow;
+        font-weight: 600;
+    }
+}

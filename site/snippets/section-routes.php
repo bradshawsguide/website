@@ -17,8 +17,8 @@
         $heading = $title;
     }
 ?>
-<section>
-    <h1><?= $heading ?></h1>
+<section class="c-section c-section--routes">
+    <h1 class="c-section__title"><?= $heading ?></h1>
     <?
         snippet('listing', array('items' => $routes));
     ?>

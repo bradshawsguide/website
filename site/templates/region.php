@@ -1,8 +1,8 @@
 <? snippet('_header') ?>
 
-<article>
+<article class="c-page">
     <?
-        snippet('page/parent', array(
+        snippet('breadcrumb', array(
             'parent' => $page->country()
         ));
 

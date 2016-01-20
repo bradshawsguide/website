@@ -1,6 +1,7 @@
 <? foreach(alphabetise($search->sortby('title')) as $letter => $items): ?>
-    <h2 id="<?= $letter ?>"><?= str::upper($letter) ?></h2>
-    <ul>
+<section class="c-section c-section--alphabetise" id="<?= $letter ?>">
+    <h1 class="c-section__title"><?= str::upper($letter) ?></h1>
+    <ul class="c-list">
     <? foreach($items as $item): ?>
         <?
         if ($item->short_title()->isNotEmpty()) {
@@ -9,9 +10,10 @@
             $title = $item->title();
         }
         ?>
-        <li<? if($item->text()->isEmpty()): ?> class="unremarkable"<? endif ?>>
+        <li class="c-list__item<? if($item->text()->isEmpty()): ?> unremarkable<? endif ?>">
             <a href="<?= $item->url() ?>"><?= smartypants($title) ?></a>
         </li>
     <? endforeach ?>
     </ul>
+</section>
 <? endforeach ?>

@@ -8,4 +8,44 @@
     > * {
         margin-bottom: 0.625em;
     }
+
+    h2 {
+        @include fs__heading;
+        margin-top: 2rem;
+    }
+
+    a {
+        color: $c__brand-crimson;
+        text-decoration: underline;
+    }
+
+    p + p {
+        text-indent: 1.5em;
+    }
+
+    ul li {
+        margin-left: 1.5em;
+        text-indent: -1.5em;
+    }
+
+    > dt {
+        font-weight: 700;
+    }
+
+    dd {
+        margin-left: 1.5rem;
+    }
+
+    figure {
+        margin-left: -1rem;
+        margin-right: -1rem;
+    }
+
+    figcaption {
+        @include fs__caption;
+        margin-left: 1rem;
+        margin-bottom: 2rem;
+        margin-right: 1rem;
+        opacity: 0.6;
+    }
 }
