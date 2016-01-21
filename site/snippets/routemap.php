@@ -3,9 +3,9 @@
     $items = $pages->find('stations')->children()->filterBy('route', '*=', $route);
     if($items && $items->count()):
 ?>
-    <section>
-        <h1>Route Map</h1>
-        <ol>
+    <section class="c-section c-section--route">
+        <h1 class="c-section__title">Route Map</h1>
+        <ol class="c-routemap">
         <? foreach ($items as $item): ?>
             <?
             if($item->text()->isEmpty()) {

@@ -3,7 +3,22 @@
 //  ===========================================================================
 
 .c-section {
+    border-top: 1px solid $c__neutral-mid;
     margin-top: 2rem;
+    padding-top: 0.5rem;
+}
+
+.c-section--alphabetise {
+    display: flex;
+
+    .c-section__title {
+        flex: 0 0 auto;
+        padding-right: 1rem;
+    }
+
+    .c-list {
+        flex: 1 1 auto;
+    }
 }
 
 .c-section--alphabetise,
@@ -27,10 +42,8 @@
 
 .c-section__title {
     @include fs__heading;
-    border-bottom: 1px solid $c__neutral-mid;
     color: $c__neutral-dark;
     margin-bottom: 0.5rem;
-    padding-bottom: 0.5rem;
 
     a {
         color: inherit;
