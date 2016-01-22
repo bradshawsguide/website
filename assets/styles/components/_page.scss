@@ -8,8 +8,8 @@
 }
 
 .c-page__title {
-    @include fs__title;
-    color: $c__neutral-dark;
+    @include fs--title;
+    color: $c--neutral-dark;
 
     &::after {
         content: '.';

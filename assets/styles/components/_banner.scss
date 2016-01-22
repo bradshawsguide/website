@@ -3,19 +3,19 @@
 //  ===========================================================================
 
 .c-banner {
-    background-color: $c__neutral-darkest;
-    padding: 1.5rem 1rem 0.5rem;
     order: 1;
+    padding: 1.5rem 1rem 0.5rem;
+    background-color: $c--neutral-darkest;
 }
 
 .c-banner__title {
-    color: $c__brand-yellow;
-    font-family: $f__block;
+    color: $c--brand-yellow;
+    font-family: $f--block;
     font-size: 2rem;
     text-transform: uppercase;
 }
 
 .c-banner__home {
-    color: $c__brand-yellow;
+    color: $c--brand-yellow;
     text-decoration: none;
 }

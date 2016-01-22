@@ -3,9 +3,9 @@
 //  ===========================================================================
 
 .c-section {
-    border-top: 1px solid $c__neutral-mid;
     margin-top: 2rem;
     padding-top: 0.5rem;
+    border-top: 1px solid $c--neutral-mid;
 }
 
 .c-section--alphabetise {
@@ -25,25 +25,25 @@
 .c-section--country,
 .c-section--stations {
     .c-list__item {
-        @media screen and (min-width: $b__a) {
-            float: left;
+        @media screen and (min-width: $v--breakpoint-a) {
             width: percentage(1/2);
+            float: left;
         }
 
-        @media screen and (min-width: $b__b) {
+        @media screen and (min-width: $v--breakpoint-b) {
             width: percentage(1/3);
         }
 
-        @media screen and (min-width: $b__c) {
+        @media screen and (min-width: $v--breakpoint-c) {
             width: percentage(1/4);
         }
     }
 }
 
 .c-section__title {
-    @include fs__heading;
-    color: $c__neutral-dark;
+    @include fs--heading;
     margin-bottom: 0.5rem;
+    color: $c--neutral-dark;
 
     a {
         color: inherit;

@@ -9,12 +9,15 @@
     "url": "https://github.com/paulrobertlloyd/bradshawsguide.git"
   },
   "devDependencies": {
+    "autoprefixer": "latest",
     "node-sass": "latest",
-    "nodemon": "latest"
+    "nodemon": "latest",
+    "postcss-cli": "latest"
   },
   "scripts": {
-    "build:css-sass": "node-sass assets/styles/styles.scss -o assets/styles/",
-    "build:css": "npm run build:css-sass",
-    "watch:css": "nodemon -e scss -x 'npm run build:css'"
+    "css:sass": "node-sass assets/styles/styles.scss -o assets/styles/",
+    "css:postcss": "postcss --use autoprefixer assets/styles/styles.css --dir assets/styles/ --config config/postcss.json",
+    "css": "npm run css:sass && npm run css:postcss",
+    "watch": "nodemon -e scss -x 'npm run css'"
   }
 }

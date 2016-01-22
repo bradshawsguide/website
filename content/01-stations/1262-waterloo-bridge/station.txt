@@ -16,4 +16,4 @@ related:
 ----
 meta:
 ----
-text: The <span class="smcp">Metropolitan terminus</span> of the [South Western](/companies/london-and-south-western) is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company.
+text: The <span class="u-smcp">Metropolitan terminus</span> of the [South Western](/companies/london-and-south-western) is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company.

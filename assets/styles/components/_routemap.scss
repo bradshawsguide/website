@@ -3,79 +3,70 @@
 //  ===========================================================================
 
 .c-routemap {
-    list-style: none;
-    border-left: 0.25em solid;
-    margin-left: 0.25em;
     position: relative;
+    margin-left: 0.25em;
+    border-left: 0.25em solid;
+    list-style: none;
 
     > li {
+        margin-left: 0;
         line-height: 1.5;
         text-indent: 0;
-        margin-left: 0;
 
         &::before {
-            content: "\0020";
-            margin: 0.75em 0.75em 0 0;
             display: block;
             width: 0.25em;
             height: 0.25em;
+            margin: 0.75em 0.75em 0 0;
             float: left;
+            content: '\0020';
         }
 
-        &:first-child,
-        &:last-child {
-            &::before {
-                margin: 0.75em 0.5em 0.75em -0.75em;
-                width: 1.25em;
-
-            }
+        &:first-child::before ,
+        &:last-child::before  {
+            width: 1.25em;
+            margin: 0.75em 0.5em 0.75em -0.75em;
         }
 
-        &.interchange {
-            &::before {
-                content: "\0020";
-                background-color: $c__neutral-light;
-                margin: 0.25em 0.5em 0 -0.75em; /* 4px 8px 0 -12px */
-                border: 0.25em solid;
-                border-radius: 1em;
-                display: block;
-                width: 0.75em; /* 12px */
-                height: 0.75em; /* 12px */
-                position: relative;
-                z-index: 1;
-            }
-        }
-
-        ul {
-            margin-top: 0;
+        &.interchange::before {
+            display: block;
+            position: relative;
+            width: 0.75em; // 12px
+            height: 0.75em; // 12px
+            margin: 0.25em 0.5em 0 -0.75em; // 4px 8px 0 -12px
+            border: 0.25em solid;
+            border-radius: 1em;
+            background-color: $c--neutral-light;
+            content: '\0020';
+            z-index: 1;
         }
 
         ul li {
-            font-weight: 400;
-            font-size: 0.75em;
-            text-indent: 0;
-            margin-left: 3.25em;
             position: relative;
+            margin-left: 3.25em;
+            font-size: 0.75em;
+            font-weight: 400;
+            text-indent: 0;
+        }
 
-            &::before {
-                content: "\261E";
-                font-size: 1.5em;
-                position: absolute;
-                left: -1.25em;
-                top: -0.3334em;
-            }
+        ul li::before {
+            position: absolute;
+            top: -0.3334em;
+            left: -1.25em;
+            font-size: 1.5em;
+            content: '\261E';
         }
     }
 
     &::before,
     &::after {
-        content: "";
-        width: 1.25em;
-        height: 0.75em;
-        background-color: $c__neutral-light;
         position: absolute;
         top: 0;
         left: -0.75em;
+        width: 1.25em;
+        height: 0.75em;
+        background-color: $c--neutral-light;
+        content: '';
         z-index: 0;
     }
 

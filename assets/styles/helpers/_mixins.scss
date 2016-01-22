@@ -15,45 +15,57 @@
 // Visually hide content
 @mixin visually-hidden {
     position: absolute;
-    margin: -1px;
-    border: 0;
-    padding: 0;
     width: 1px;
     height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
     overflow: hidden;
     clip: rect(0 0 0 0);
 }
 
 // Font metrics
-@mixin fs__title {
-    font-family: $f__block;
+@mixin fs--system--menu {
+    font: menu;
+    font-size: 1rem;
+    line-height: (20 / 16);
+}
+
+@mixin fs--system--caption {
+    font: caption;
+    font-size: 0.875rem; // 14px
+    line-height: (20 / 14);
+}
+
+@mixin fs--title {
+    font-family: $f--block;
     font-size: 2.5rem; // 40px
     line-height: (40 / 40);
 }
 
-@mixin fs__heading {
-    font-family: $f__slab;
+@mixin fs--heading {
+    font-family: $f--slab;
     font-size: 1.125rem; // 18px
     font-weight: bold;
+    letter-spacing: 0.025rem;
     line-height: (25 / 21);
     text-transform: uppercase;
-    letter-spacing: 0.025rem;
 }
 
-@mixin fs__body {
-    font-family: $f__serif;
+@mixin fs--body {
+    font-family: $f--serif;
     font-size: 1.125rem; // 18px
     line-height: (25 / 18);
 }
 
-@mixin fs__info {
-    font-family: $f__serif;
+@mixin fs--info {
+    font-family: $f--serif;
     font-size: 1rem; // 16px
     line-height: (20 / 16);
 }
 
-@mixin fs__caption {
-    font-family: $f__sans;
+@mixin fs--caption {
+    font-family: $f--sans;
     font-size: 0.875rem; // 14px
     line-height: (20 / 14);
 }

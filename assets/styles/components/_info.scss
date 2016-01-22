@@ -3,16 +3,16 @@
 //  ===========================================================================
 
 .c-info {
-    @include fs__info;
-    border-bottom: 1px solid $c__neutral-mid;
-    color: $c__neutral-dark;
+    @include fs--info;
     margin-bottom: 0.5rem;
     padding-bottom: 0.5rem;
+    border-bottom: 1px solid $c--neutral-mid;
+    color: $c--neutral-dark;
 }
 
 .c-info__term {
-    font-weight: normal;
     float: left;
+    font-weight: normal;
     text-transform: uppercase;
 
     &::after {

@@ -13,16 +13,16 @@ html {
 }
 
 body {
-    margin: 0 auto;
-    background-color: $c__neutral-dark;
-    font-family: $f__sans;
     display: flex;
     flex-direction: column;
+    margin: 0 auto;
+    background-color: $c--neutral-dark;
+    font-smoothing: antialiased;
 }
 
 main {
-//  Correct `block` display for `main`
-//  http://caniuse.com/#search=main
+    // Correct `block` display for `main`
+    // http://caniuse.com/#search=main
     display: block;
 }
 
@@ -33,9 +33,9 @@ h4,
 h5,
 h6 {
     margin: 0;
-    text-rendering: optimizeLegibility;
     font-size: 1em;
     font-weight: inherit;
+    text-rendering: optimizeLegibility;
 
     @media print {
         page-break-after: avoid;
@@ -43,8 +43,8 @@ h6 {
 }
 
 hr {
+    height: 0;
     margin: 0;
     border: 0;
-    height: 0;
     line-height: 0;
 }

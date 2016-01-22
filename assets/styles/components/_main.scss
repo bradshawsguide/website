@@ -3,20 +3,20 @@
 //  ===========================================================================
 
 .c-main {
-    background-color: $c__neutral-light;
-    box-shadow:
-        inset 0 -1px rgba($c__neutral-dark, .1),
-        inset 0 -2px $c__neutral-light,
-        inset 0 -3px rgba($c__neutral-dark, .15),
-        inset 0 -4px $c__neutral-light,
-        inset 0 -5px rgba($c__neutral-dark, .2),
-        inset 0 -6px $c__neutral-light,
-        inset 0 -7px rgba($c__neutral-dark, .25);
+    order: 3;
     padding: 1rem;
     padding-bottom: 3rem;
-    order: 3;
+    background-color: $c--neutral-light;
+    box-shadow:
+        inset 0 -1px rgba($c--neutral-dark, .1),
+        inset 0 -2px $c--neutral-light,
+        inset 0 -3px rgba($c--neutral-dark, .15),
+        inset 0 -4px $c--neutral-light,
+        inset 0 -5px rgba($c--neutral-dark, .2),
+        inset 0 -6px $c--neutral-light,
+        inset 0 -7px rgba($c--neutral-dark, .25);
 
     a {
-        color: $c__brand-crimson;
+        color: $c--brand-crimson;
     }
 }

@@ -3,6 +3,7 @@
 //  ===========================================================================
 
 .c-contentinfo {
+    @include fs__system--caption;
     color: $c__neutral-lightest;
     display: flex;
     flex-direction: row-reverse;

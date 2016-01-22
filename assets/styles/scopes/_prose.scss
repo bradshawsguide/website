@@ -3,19 +3,19 @@
 //  ===========================================================================
 
 .s-prose {
-    @include fs__body;
+    @include fs--body;
 
     > * {
         margin-bottom: 0.625em;
     }
 
     h2 {
-        @include fs__heading;
+        @include fs--heading;
         margin-top: 2rem;
     }
 
     a {
-        color: $c__brand-crimson;
+        color: $c--brand-crimson;
         text-decoration: underline;
     }
 
@@ -37,15 +37,15 @@
     }
 
     figure {
-        margin-left: -1rem;
         margin-right: -1rem;
+        margin-left: -1rem;
     }
 
     figcaption {
-        @include fs__caption;
-        margin-left: 1rem;
-        margin-bottom: 2rem;
+        @include fs--caption;
         margin-right: 1rem;
+        margin-bottom: 2rem;
+        margin-left: 1rem;
         opacity: 0.6;
     }
 }
