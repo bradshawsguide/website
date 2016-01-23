@@ -10,14 +10,23 @@
   },
   "devDependencies": {
     "autoprefixer": "latest",
+    "browser-sync": "^2.11.1",
     "node-sass": "latest",
     "nodemon": "latest",
+    "parallelshell": "^2.0.0",
     "postcss-cli": "latest"
   },
   "scripts": {
-    "css:sass": "node-sass assets/styles/styles.scss -o assets/styles/",
-    "css:postcss": "postcss --use autoprefixer assets/styles/styles.css --dir assets/styles/ --config config/postcss.json",
-    "css": "npm run css:sass && npm run css:postcss",
-    "watch": "nodemon -e scss -x 'npm run css'"
+    "browsersync": "browser-sync start --files 'assets, content, site' --proxy 127.0.0.1:80 --open",
+
+    "build:css": "node-sass assets/styles/app.scss | postcss --use autoprefixer -o assets/styles/app.css -c config/postcss.json",
+    "build:js": "echo 'JavaScript TBD'",
+    "build": "npm run build:css && npm run build:js",
+
+    "watch:css": "nodemon -e js -x 'npm run build:css'",
+    "watch:js": "nodemon -e scss -x 'npm run build:js'",
+    "watch": "npm run watch:css && npm run watch:js",
+
+    "start": "parallelshell 'npm run watch' 'npm run browsersync'"
   }
 }

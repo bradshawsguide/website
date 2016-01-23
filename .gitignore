@@ -3,5 +3,5 @@
 /assets/avatars
 /thumbs/*
 node_modules
-assets/styles/styles.css
+assets/styles/app.css
 *.cache
