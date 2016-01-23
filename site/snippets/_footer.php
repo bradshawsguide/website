@@ -5,8 +5,11 @@
     <? snippet('contentinfo') ?>
     <? //snippet('analytics') ?>
 
-    <script id="__bs_script__">
-        document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.2.11.1.js'><\/script>".replace("HOST", location.hostname));
-    </script>
+    <? // Only load browser-sync script if viewing locally
+        $whitelist = array('127.0.0.1', '::1');
+        if(in_array($_SERVER['REMOTE_ADDR'], $whitelist)) {
+            snippet('browser-sync');
+        }
+    ?>
 </body>
 </html>
