@@ -12,8 +12,6 @@
 
         snippet('content');
 
-        snippet('distances');
-
         if($page->route()->isNotEmpty()) {
             $routes = related($page->route());
             snippet('section-routes', array(

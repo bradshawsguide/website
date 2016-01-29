@@ -1,12 +1,12 @@
 //  ===========================================================================
-//  Info
+//  Distances
 //  ===========================================================================
 
-.c-list {
-    line-height: 1.5;
-    overflow: hidden;
+.c-distances {
+    line-height: (20/18);
 
-    @media screen and (min-width: $v--breakpoint-c) {
-        line-height: 1.25;
+    tr th:last-child,
+    tr td:last-child {
+        text-align: right;
     }
 }

@@ -1,32 +1,38 @@
 {
-  "name": "bradshawsguide",
-  "version": "0.1.0",
-  "description": "Bradshaw's Guide for Tourists in Great Britain & Ireland",
-  "author": "Paul Robert Lloyd",
-  "private": "true",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/paulrobertlloyd/bradshawsguide.git"
-  },
-  "devDependencies": {
-    "autoprefixer": "latest",
-    "browser-sync": "^2.11.1",
-    "node-sass": "latest",
-    "nodemon": "latest",
-    "parallelshell": "^2.0.0",
-    "postcss-cli": "latest"
-  },
-  "scripts": {
-    "browsersync": "browser-sync start --files 'assets, content, site' --proxy 127.0.0.1:80 --open",
+    "name": "bradshawsguide",
+    "version": "0.1.0",
+    "description": "Bradshaw's Guide for Tourists in Great Britain & Ireland",
+    "author": "Paul Robert Lloyd",
+    "private": "true",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/paulrobertlloyd/bradshawsguide.git"
+    },
+    "devDependencies": {
+        "autoprefixer": "latest",
+        "browser-sync": "^2.11.1",
+        "node-sass": "latest",
+        "nodemon": "latest",
+        "parallelshell": "^2.0.0",
+        "postcss-cli": "latest"
+    },
+    "scripts": {
+        "browsersync": "browser-sync start --files 'assets, content, site' --proxy 127.0.0.1:80 --open",
 
-    "build:css": "node-sass assets/styles/app.scss | postcss --use autoprefixer -o assets/styles/app.css -c config/postcss.json",
-    "build:js": "echo 'JavaScript TBD'",
-    "build": "npm run build:css && npm run build:js",
+        "build:css": "node-sass assets/styles/app.scss | postcss --use autoprefixer -o assets/styles/app.css -c config/postcss.json",
+        "build:js": "echo 'JavaScript TBD'",
+        "build": "npm run build:css && npm run build:js",
 
-    "watch:css": "nodemon -e js -x 'npm run build:css'",
-    "watch:js": "nodemon -e scss -x 'npm run build:js'",
-    "watch": "npm run watch:css && npm run watch:js",
+        "watch:css": "nodemon -e scss -x 'npm run build:css'",
+        "watch:js": "nodemon -e js -x 'npm run build:js'",
+        "watch": "npm run watch:css && npm run watch:js",
 
-    "start": "parallelshell 'npm run watch' 'npm run browsersync'"
-  }
+        "start": "parallelshell 'npm run watch' 'npm run browsersync'"
+    },
+    "stylelint": {
+        "extends": "stylelint-config-standard",
+        "rules": {
+            "indentation": 4
+        }
+    }
 }

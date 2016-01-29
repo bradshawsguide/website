@@ -10,5 +10,9 @@
         }
 
         echo kirbytext($page->text());
+
+        if($page->distances()->isNotEmpty()) {
+            snippet('distances');
+        }
     ?>
 </div>

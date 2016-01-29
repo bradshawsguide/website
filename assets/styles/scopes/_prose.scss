@@ -4,14 +4,17 @@
 
 .s-prose {
     @include fs--body;
+    font-feature-settings: 'onum' 1, 'kern' 1;
 
     > * {
         margin-bottom: 0.625em;
     }
 
-    h2 {
+    h2,
+    summary {
         @include fs--heading;
         margin-top: 2rem;
+        font-feature-settings: 'dlig' 1;
     }
 
     a {
@@ -19,21 +22,24 @@
         text-decoration: underline;
     }
 
-    p + p {
-        text-indent: 1.5em;
+    p {
+        hyphens: auto;
+        text-align: justify;
+        text-indent: $v--text-indent;
+        word-break: break-word;
     }
 
     ul li {
-        margin-left: 1.5em;
-        text-indent: -1.5em;
+        margin-left: $v--text-indent;
+        text-indent: ($v--text-indent * -1);
     }
 
-    > dt {
+    dt:not([class]) {
         font-weight: 700;
     }
 
-    dd {
-        margin-left: 1.5rem;
+    dd:not([class]) {
+        margin-left: $v--text-indent;
     }
 
     figure {
@@ -42,10 +48,14 @@
     }
 
     figcaption {
-        @include fs--caption;
+        @include fs--system--caption;
         margin-right: 1rem;
         margin-bottom: 2rem;
         margin-left: 1rem;
         opacity: 0.6;
+    }
+
+    table {
+        font-feature-settings: 'lnum' 1, 'tnum' 1;
     }
 }

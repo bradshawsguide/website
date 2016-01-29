@@ -40,7 +40,9 @@
 @mixin fs--title {
     font-family: $f--block;
     font-size: 2.5rem; // 40px
+    letter-spacing: -0.03125rem;
     line-height: (40 / 40);
+    text-transform: uppercase;
 }
 
 @mixin fs--heading {

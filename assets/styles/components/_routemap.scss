@@ -4,74 +4,85 @@
 
 .c-routemap {
     position: relative;
-    margin-left: 0.25em;
+    margin-left: 0.5rem;
     border-left: 0.25em solid;
     list-style: none;
-
-    > li {
-        margin-left: 0;
-        line-height: 1.5;
-        text-indent: 0;
-
-        &::before {
-            display: block;
-            width: 0.25em;
-            height: 0.25em;
-            margin: 0.75em 0.75em 0 0;
-            float: left;
-            content: '\0020';
-        }
-
-        &:first-child::before ,
-        &:last-child::before  {
-            width: 1.25em;
-            margin: 0.75em 0.5em 0.75em -0.75em;
-        }
-
-        &.interchange::before {
-            display: block;
-            position: relative;
-            width: 0.75em; // 12px
-            height: 0.75em; // 12px
-            margin: 0.25em 0.5em 0 -0.75em; // 4px 8px 0 -12px
-            border: 0.25em solid;
-            border-radius: 1em;
-            background-color: $c--neutral-light;
-            content: '\0020';
-            z-index: 1;
-        }
-
-        ul li {
-            position: relative;
-            margin-left: 3.25em;
-            font-size: 0.75em;
-            font-weight: 400;
-            text-indent: 0;
-        }
-
-        ul li::before {
-            position: absolute;
-            top: -0.3334em;
-            left: -1.25em;
-            font-size: 1.5em;
-            content: '\261E';
-        }
-    }
 
     &::before,
     &::after {
         position: absolute;
-        top: 0;
         left: -0.75em;
         width: 1.25em;
-        height: 0.75em;
-        background-color: $c--neutral-light;
         content: '';
         z-index: 0;
     }
 
+    &::before {
+        top: 0;
+        border-top: 0.5em solid $c--neutral-light;
+        border-bottom: 0.25em solid;
+    }
+
     &::after {
-        top: inherit;
-        bottom: -0.25em;
+        bottom: 0;
+        border-top: 0.25em solid;
+        border-bottom: 0.5em solid $c--neutral-light;
+    }
+}
+
+.c-routemap__station {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+
+    &::before {
+        display: block;
+        float: left;
+        width: 0.25em;
+        margin-top: 0.25rem;
+        margin-right: 0.875rem;
+        border-bottom: 0.25em solid blue;
+        content: '';
+    }
+
+    &:first-child::before,
+    &:last-child::before  {
+        width: 1.25em;
+        margin: 0.75em 0.5em 0.75em -0.75em;
+    }
+}
+
+.c-routemap__interchange {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+
+    &::before {
+        float: left;
+        display: block;
+        position: relative;
+        margin-left: -0.625rem;
+        margin-right: 0.75rem;
+        width: 1rem;
+        height: 1rem;
+        border: 0.25em solid;
+        border-radius: 1em;
+        background-color: $c--neutral-light;
+        content: '';
+        z-index: 1;
+    }
+
+    li {
+        position: relative;
+        margin-left: 3.25em;
+        font-size: 0.75em;
+        font-weight: 400;
+        text-indent: 0;
+    }
+
+    li::before {
+        position: absolute;
+        top: -0.3334em;
+        left: -1.25em;
+        font-size: 1.5em;
+        content: '\261E';
     }
 }

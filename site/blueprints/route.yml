@@ -27,9 +27,11 @@ fields:
     query:
       fetch: pages
       template: company
+      value: '{{title}}'
   text:
     label: Text
     type: textarea
+  distances: distances
   related:
     label: Related links
     type: textarea

@@ -35,17 +35,7 @@ fields:
   text:
     label: Text
     type: markdown
-  distances:
-    label: Distances
-    type: structure
-    style: table
-    fields:
-      location:
-        label: Location
-        type: textarea
-      miles:
-        label: Miles
-        type: text
+  distances: distances
   company:
     label: Company
     type: textarea

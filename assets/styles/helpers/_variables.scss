@@ -5,10 +5,12 @@
 // Values
 $v--max-width: 60rem; // 960px
 
-$v--breakpoint-a: 32rem; // 512px
-$v--breakpoint-b: 45rem; // 720px
-$v--breakpoint-c: $v--max-width;
-$v--breakpoint-d: 65rem; // 1040px
+$v--text-indent: 1.25rem; // 20px
+
+$v--breakpoint-a: 20rem; // 320px
+$v--breakpoint-b: 30rem; // 480px
+$v--breakpoint-c: 40rem; // 640px
+$v--breakpoint-d: $v--max-width;
 
 // Colours
 $c--brand-yellow:     hsb(24, 80, 100);
@@ -22,6 +24,6 @@ $c--neutral-lightest: hsb(24, 1,  100);
 
 // Fonts
 $f--sans:  'Source Sans Pro', sans-serif;
-$f--serif: 'Charter', serif;
+$f--serif: 'Cardo', serif;
 $f--slab:  'Kameron', serif;
 $f--block: 'League Gothic', serif;

@@ -3,17 +3,14 @@
 //  ===========================================================================
 
 .c-info {
-    @include fs--info;
-    margin-bottom: 0.5rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid $c--neutral-mid;
-    color: $c--neutral-dark;
+    margin-bottom: 1rem;
 }
 
 .c-info__term {
     float: left;
+    margin-left: $v--text-indent;
+    font-feature-settings: 'smcp' on;
     font-weight: normal;
-    text-transform: uppercase;
 
     &::after {
         content: '.—';
@@ -22,4 +19,5 @@
 
 .c-info__desc {
     margin-bottom: 0.5rem;
+    margin-left: 0;
 }

@@ -1,0 +1,10 @@
+label: Distances
+type: structure
+style: table
+fields:
+  location:
+    label: Location
+    type: textarea
+  miles:
+    label: Miles
+    type: text

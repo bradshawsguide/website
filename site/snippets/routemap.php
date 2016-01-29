@@ -12,6 +12,7 @@
                 $type = "unremarkable";
             } else {
                 $type = "station";
+                $class = "c-routemap__station";
             }
 
             $routes = related($item->route());
@@ -19,10 +20,11 @@
             foreach ($routes as $connection) {
                 if ($connection->title() !== $page->title()) {
                     $type = "interchange";
+                    $class = "c-routemap__interchange";
                 }
             }
             ?>
-                <li class="<?= $type ?>">
+                <li class="<?= $class ?>">
                     <a href="<?= $item->url() ?>"><?= smartypants($item->title()) ?></a>
                     <? if ($type == "interchange"): ?>
                         <ul>
