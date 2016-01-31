@@ -49,13 +49,13 @@ Distances:
 
 -
   location: Apley
-  miles: "0¾"
+  miles: "¾"
 -
   location: Bamsley
   miles: "1½"
 -
   location: Binstead
-  miles: "0¾"
+  miles: "¾"
 -
   location: Copping Bridge
   miles: "5½"
@@ -79,16 +79,16 @@ Distances:
   miles: "2"
 -
   location: Pier, The
-  miles: "0¼"
+  miles: "¼"
 -
   location: Place Street
-  miles: "0½"
+  miles: "½"
 -
   location: Portsmouth
   miles: "8"
 -
   location: Priory, The
-  miles: "0¾"
+  miles: "¾"
 -
   location: Quarr Abbey
   miles: "2"
@@ -109,7 +109,7 @@ Distances:
   miles: "3"
 -
   location: Troublefield
-  miles: "0¾"
+  miles: "¾"
 -
   location: West Cowes
   miles: "8"

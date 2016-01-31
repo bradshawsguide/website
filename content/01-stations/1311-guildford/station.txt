@@ -48,7 +48,7 @@ Distances:
   miles: "1¾"
 -
   location: "Catherine's Hill"
-  miles: "0¾"
+  miles: "¾"
 -
   location: Compton
   miles: "2½"

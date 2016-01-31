@@ -39,7 +39,7 @@ Distances:
   miles: "2¾"
 -
   location: College Farm
-  miles: "0¾"
+  miles: "¾"
 -
   location: Compton
   miles: "4"

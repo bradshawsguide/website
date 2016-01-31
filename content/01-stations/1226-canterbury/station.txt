@@ -76,7 +76,7 @@ Distances:
   miles: "4½"
 -
   location: Harbledown
-  miles: "0¾"
+  miles: "¾"
 -
   location: Heath Farm
   miles: "1½"

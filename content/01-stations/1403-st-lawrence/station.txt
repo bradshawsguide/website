@@ -31,13 +31,13 @@ Distances:
   miles: "1¾"
 -
   location: Binnel Point
-  miles: "0½"
+  miles: "½"
 -
   location: Bonchurch
   miles: "2"
 -
   location: Church, The
-  miles: "0¼"
+  miles: "¼"
 -
   location: Nettlecomb
   miles: "2"
@@ -46,10 +46,10 @@ Distances:
   miles: "11"
 -
   location: Sea View
-  miles: "0½"
+  miles: "½"
 -
   location: Spring, The
-  miles: "0¼"
+  miles: "¼"
 -
   location: |
     Vineyard

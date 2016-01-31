@@ -40,7 +40,7 @@ Distances:
   miles: "1½"
 -
   location: Dunnose
-  miles: "0¾"
+  miles: "¾"
 -
   location: Godshill
   miles: "3"
@@ -52,7 +52,7 @@ Distances:
   miles: "1"
 -
   location: Mill Cove
-  miles: "0½"
+  miles: "½"
 -
   location: Nettlecomb
   miles: "2"
@@ -70,10 +70,10 @@ Distances:
   miles: "2½"
 -
   location: Steephill
-  miles: "0¾"
+  miles: "¾"
 -
   location: Steephill Cove
-  miles: "0½"
+  miles: "½"
 -
   location: St. Lawrence
   miles: "2"
@@ -82,4 +82,4 @@ Distances:
   miles: "2"
 -
   location: Wroncate
-  miles: "0¾"
+  miles: "¾"

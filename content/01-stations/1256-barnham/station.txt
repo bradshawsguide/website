@@ -49,7 +49,7 @@ Distances:
   miles: "6"
 -
   location: Eastergate
-  miles: "0¾"
+  miles: "¾"
 -
   location: Feltham
   miles: "2½"

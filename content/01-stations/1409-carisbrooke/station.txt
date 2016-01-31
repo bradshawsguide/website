@@ -38,13 +38,13 @@ Distances:
   miles: "4"
 -
   location: "Castle, The"
-  miles: "0½"
+  miles: "½"
 -
   location: "Chillerton"
   miles: "3"
 -
   location: "Church, Old"
-  miles: "0¼"
+  miles: "¼"
 -
   location: "Gatcombe"
   miles: "2"

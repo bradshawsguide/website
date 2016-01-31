@@ -30,8 +30,11 @@
         "start": "parallelshell 'npm run watch' 'npm run browsersync'"
     },
     "stylelint": {
-        "extends": "stylelint-config-standard",
+        "extends": "/Volumes/Macintosh/Users/paulrobertlloyd/.atom/packages/linter-stylelint/node_modules/stylelint-config-standard",
         "rules": {
+            "at-rule-empty-line-before": [ "always", {
+                "except": ["blockless-group", "first-nested"]
+            } ],
             "indentation": 4
         }
     }

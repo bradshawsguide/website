@@ -49,7 +49,7 @@ Distances:
   miles: "3½"
 -
   location: Cross Ways
-  miles: "0¼"
+  miles: "¼"
 -
   location: Dog Kennel
   miles: "3"
@@ -94,7 +94,7 @@ Distances:
   miles: "2½"
 -
   location: Live House
-  miles: "0¾"
+  miles: "¾"
 -
   location: Lee Place
   miles: "2¼"

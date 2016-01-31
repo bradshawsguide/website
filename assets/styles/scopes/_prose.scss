@@ -4,17 +4,23 @@
 
 .s-prose {
     @include fs--body;
-    font-feature-settings: 'onum' 1, 'kern' 1;
+    font-feature-settings: "onum" 1, "kern" 1;
 
     > * {
         margin-bottom: 0.625em;
     }
 
     h2,
-    summary {
+    summary,
+    caption {
         @include fs--heading;
         margin-top: 2rem;
-        font-feature-settings: 'dlig' 1;
+        font-feature-settings: "dlig" 1;
+    }
+
+    summary,
+    caption {
+        text-align: center;
     }
 
     a {
@@ -56,6 +62,6 @@
     }
 
     table {
-        font-feature-settings: 'lnum' 1, 'tnum' 1;
+        font-feature-settings: "lnum" 1, "tnum" 1;
     }
 }

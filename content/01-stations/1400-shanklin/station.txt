@@ -34,7 +34,7 @@ Distances:
   miles: "3"
 -
   location: Boniface Down
-  miles: "0¼"
+  miles: "¼"
 -
   location: Brenston
   miles: "2"
@@ -52,7 +52,7 @@ Distances:
   miles: "4"
 -
   location: Horse Ledge
-  miles: "0½"
+  miles: "½"
 -
   location: Langard
   miles: "1"
@@ -61,7 +61,7 @@ Distances:
   miles: "1"
 -
   location: Shanklin Chine
-  miles: "0½"
+  miles: "½"
 -
   location: Steephill Cove
   miles: "2"

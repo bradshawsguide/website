@@ -47,7 +47,7 @@ Distances:
   miles: "1¾"
 -
   location: East Cowes
-  miles: "0¾"
+  miles: "¾"
 -
   location: |
     East Cowes Castle
@@ -75,13 +75,13 @@ Distances:
   location: |
     Northwood House
     *Now a School.*
-  miles: "0½"
+  miles: "½"
 -
   location: Osborne
   miles: "1¼"
 -
   location: West Cowes House
-  miles: "0¼"
+  miles: "¼"
 -
   location: Yacht Club House
-  miles: "0½"
+  miles: "½"

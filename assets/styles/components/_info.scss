@@ -9,11 +9,11 @@
 .c-info__term {
     float: left;
     margin-left: $v--text-indent;
-    font-feature-settings: 'smcp' on;
+    font-feature-settings: "smcp" on;
     font-weight: normal;
 
     &::after {
-        content: '.—';
+        content: ".—";
     }
 }
 

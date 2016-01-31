@@ -44,7 +44,7 @@ Distances:
   miles: "2"
 -
   location: Church Street
-  miles: "0½"
+  miles: "½"
 -
   location: Coleward
   miles: "2"
@@ -74,7 +74,7 @@ Distances:
   miles: "2"
 -
   location: Tankerton Castle
-  miles: "0½"
+  miles: "½"
 -
   location: "Thompson's Farm"
   miles: "2¾"

@@ -45,7 +45,7 @@ Distances:
   miles: "1¾"
 -
   location: Calley Farm
-  miles: "0¾"
+  miles: "¾"
 -
   location: Chalmead Farm
   miles: "2"
@@ -129,7 +129,7 @@ Distances:
   miles: "1"
 -
   location: Reigate Park
-  miles: "0¾"
+  miles: "¾"
 -
   location: Rice Bridge
   miles: "2"

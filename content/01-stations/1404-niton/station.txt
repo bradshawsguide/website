@@ -34,13 +34,13 @@ Distances:
   miles: "2"
 -
   location: Cripple Path, The
-  miles: "0¼"
+  miles: "¼"
 -
   location: Nettlecomb
   miles: "1½"
 -
   location: Niton House
-  miles: "0½"
+  miles: "½"
 -
   location: Old Castle, The
   miles: "1"

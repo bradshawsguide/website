@@ -39,7 +39,7 @@ Distances:
 
 -
   location: Albany Barracks
-  miles: "0½"
+  miles: "½"
 -
   location: Alvington
   miles: "2"
@@ -76,10 +76,10 @@ Distances:
   location: |
     Church, Old
     *Tomb of Charles First's daughter, Princess Elizabeth*
-  miles: "0¼"
+  miles: "¼"
 -
   location: "King's Forest"
-  miles: "0½"
+  miles: "½"
 -
   location: Kite Hill
   miles: "5"
@@ -93,13 +93,13 @@ Distances:
   miles: "2"
 -
   location: Norris Castle
-  miles: "0½"
+  miles: "½"
 -
   location: Park Cross
   miles: "4"
 -
   location: Parkhurst Reformatory Institution
-  miles: "0½"
+  miles: "½"
 -
   location: Thorness
   miles: "4"

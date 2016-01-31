@@ -1,5 +1,5 @@
 <table class="c-distances">
-    <summary>Distances of Places from <?= smartypants($page->title()) ?></summary>
+    <caption>Distances of Places from <?= smartypants($page->title()) ?></caption>
     <thead>
         <tr>
             <th></th>
@@ -9,8 +9,12 @@
     <tbody>
         <? foreach($page->distances()->yaml() as $distance): ?>
         <tr>
-            <td><?= kirbytextRaw($distance['location']) ?></td>
-            <td><?= $distance['miles'] ?></td>
+            <td class="c-distances__location">
+                <?= kirbytextRaw($distance['location']) ?>
+            </td>
+            <td class="c-distances__miles">
+                <?= $distance['miles'] ?>
+            </td>
         </tr>
         <? endforeach ?>
     </tbody>

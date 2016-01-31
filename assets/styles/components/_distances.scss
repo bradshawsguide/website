@@ -3,10 +3,50 @@
 //  ===========================================================================
 
 .c-distances {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
     line-height: (20/18);
 
-    tr th:last-child,
-    tr td:last-child {
-        text-align: right;
+    @media screen and (min-width: $v--breakpoint-b) {
+        width: auto;
+    }
+
+    thead {
+        th:last-child {
+            outline: 1px solid red;
+        }
+    }
+
+    tbody {
+        @media screen and (min-width: $v--breakpoint-b) {
+            display: block;
+            column-count: 2;
+            column-gap: 1rem;
+            column-rule: 1px solid;
+        }
+    }
+}
+
+.c-distances__location {
+    display: flex;
+    width: 100%;
+
+    &::after {
+        content: "";
+        flex: 1 0 auto;
+        min-width: 0.5rem; // 8px
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='2' viewBox='0 0 4 2'%3E%3Ccircle cx='1' cy='1' r='1'/%3E%3C/svg%3E");
+        background-position: bottom 33% right;
+        background-repeat: repeat-x;
+        margin-left: 0.5rem;
+    }
+}
+
+.c-distances__miles {
+    padding-left: 0.5rem;
+
+    @media screen and (min-width: $v--breakpoint-b) {
+        padding-right: 0.5rem;
     }
 }

@@ -8,13 +8,13 @@
     padding-bottom: 3rem;
     background-color: $c--neutral-light;
     box-shadow:
-        inset 0 -1px rgba($c--neutral-dark, .1),
+        inset 0 -1px rgba($c--neutral-dark, 0.1),
         inset 0 -2px $c--neutral-light,
-        inset 0 -3px rgba($c--neutral-dark, .15),
+        inset 0 -3px rgba($c--neutral-dark, 0.15),
         inset 0 -4px $c--neutral-light,
-        inset 0 -5px rgba($c--neutral-dark, .2),
+        inset 0 -5px rgba($c--neutral-dark, 0.2),
         inset 0 -6px $c--neutral-light,
-        inset 0 -7px rgba($c--neutral-dark, .25);
+        inset 0 -7px rgba($c--neutral-dark, 0.25);
 
     a {
         color: $c--brand-crimson;

@@ -39,7 +39,7 @@ Distances:
   location: |
     Luccombe Chine
     *Visited by the Queen and Prince Albert.*
-  miles: "0½"
+  miles: "½"
 -
   location: Mirables
   miles: "3½"
@@ -53,18 +53,18 @@ Distances:
   miles: "2"
 -
   location: Steephill
-  miles: "0½"
+  miles: "½"
 -
   location: |
     St. Boniface Down
     *600 feet high.*
-  miles: "0½"
+  miles: "½"
 -
   location: Undercliff
   miles: "2"
 -
   location: Ventnor Cove
-  miles: "0½"
+  miles: "½"
 -
   location: Wishing Well
-  miles: "0¾"
+  miles: "¾"

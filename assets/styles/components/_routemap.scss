@@ -13,7 +13,7 @@
         position: absolute;
         left: -0.75em;
         width: 1.25em;
-        content: '';
+        content: "";
         z-index: 0;
     }
 
@@ -41,11 +41,11 @@
         margin-top: 0.25rem;
         margin-right: 0.875rem;
         border-bottom: 0.25em solid blue;
-        content: '';
+        content: "";
     }
 
     &:first-child::before,
-    &:last-child::before  {
+    &:last-child::before {
         width: 1.25em;
         margin: 0.75em 0.5em 0.75em -0.75em;
     }
@@ -66,7 +66,7 @@
         border: 0.25em solid;
         border-radius: 1em;
         background-color: $c--neutral-light;
-        content: '';
+        content: "";
         z-index: 1;
     }
 
@@ -83,6 +83,6 @@
         top: -0.3334em;
         left: -1.25em;
         font-size: 1.5em;
-        content: '\261E';
+        content: "\261E";
     }
 }
