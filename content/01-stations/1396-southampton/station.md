@@ -1,0 +1,60 @@
+﻿section: 1
+----
+title: Southampton
+----
+region: Hampshire
+----
+company:
+- companies/london-and-south-western
+----
+route:
+- routes/london-to-southampton-dorchester-and-weymouth
+- routes/southampton-to-netley
+----
+meta: A telegraph station.
+
+Population,
+: 46,960.
+
+Hotels.--
+: Radley's; The Dolphin.
+
+Omnibuses
+: to Shirley, Millbrook, Totton, and Bitterne.
+
+Steamers
+: to and from the Isle of Wight
+
+Market Days.--
+: Tuesday, Thursday, Friday, and Saturday.
+
+Fairs.--
+: May 6th, Trinity Fair in Trinity week.
+----
+text: The station, which is close to the quay, and has a commanding position on the banks of the Southampton Water, is admirably adapted for the convenience of passengers. On his way to the High-street, the traveller will obtain a favourable view of the picaresque bay. Bounded on one side by the sheltering glades of The New Forest, and opening on the other to the Channel and the Isle of Wight, a series of beautiful views meet the eye, which cannot fail to charm by their exquisite contrast and variety.
+
+On leaving the terminus by the down line gate, we pass the platform, the old castle, lately the goal, and a little farther is the new Corn Market, on the site of the old Custom House, and turning to the right we enter one of the finest streets that ever ornamented a provincial town--this being High-street--a prominent object in which is the Old Bar Gate, which formed the principal entrance into the town.
+
+Southampton is the chief mail-packet station in the kingdom, and a parliamentary borough in Hampshire (two members), seventy-nine miles from London by the South Western Railway, on a point at the head of a fine inlet called Southampton Water, into which the Test and Itchen rim.
+
+Southampton was the scene of Canute's reproof of his flatterers, when he bid them place his chair on the edge of the water and commanded the waves to retire--a scene often described by the historian and painter. Another hero of romance was Sir Bevis of Hamptune (as the town was formerly called--and the county Hamptune-shire), who figures in company with the Giant Ascupart, it is said, on the ancient *Bar Gate*, between two towers, stretching across High-street, and supporting the Town Hall, fifty-two feet long. In the suburbs is an earthwork called Bevis Mount. There are also, near the sea, remains of part of the town walls, with two gates and two or three towers, one of which was a debtors' prison. *Domits Dei Hospital* was founded in the reign of Henry III., but has been modernized. A chapel occupies the site of the old castle.
+
+*St. Michael's* Church, marked by a lofty spire, is the oldest in Southampton. That of *Holyrood* is also ancient; within is a half-pious half-poetical epitaph, by Thomson, Miss Stanley, usually given in his works. *All Saints* is a careful Grecian building, by Revely the architect; its roof is admired. At the Grammar School, the excellent Dr. Watts, a native of this town (born 1674), was educated. His father kept a boarding-school here. Pococke, the eastern traveller, and C. Dibdin, the song-writer, were born here. The *Baths* are three quarters of a mile from the platform, on the other side of the town, where they show a gun named after Henry VIII. Andrews' *Coach Factory*, in the High-street, has a large and important business. Mr. Andrews, five times mayor of Southampton, received Kossuth on his landing here in 1851.
+
+Among the other public buildings and institutions of Southampton we may mention the *Custom House*, a plain neat building, situate on the Quay, near the Royal Pier; the *Free Grammar School*, in Bugle street, founded by Edward VI.; a commodious Literary and Scientific Institution, and numerous charitable foundations, all admirably conducted. Concerts and Balls are held in the *Royal Victoria Assembly Rooms*, situated in Portland Terrace, close to the High Street, and the *Long Rooms*, built in 1761, by the baths. The *Theatre*, a very neat and commodious structure, is in French Street, and stands upon the site of the ancient Hospital of St. John.
+
+Southampton has a considerable foreign and coasting trade in wine, fruit, timber, &c. When the mad banks are covered at high tide, its inlet is a fine sheet of water seven miles long, and one to two broad, and exactly the spot for a sail, with groves along the shores, especially the west, in which the nightingales are heard all night Jong. It is eleven or twelve miles to Cowes, opposite which is *Osborne House*, the seat of Queen Victoria.
+
+A pleasant promenade is the Royal Victoria Pier, built in 1832. It is an elegant wooden structure, extending 246 feet into the water, having a carriage way in the centre twenty feet wide, and a footway, on each side of eight feet. A toll of twopence is required from each passenger, and the bustle that prevails on the arrival and departure of steamers causes the scene to become one of very lively interest. The Southampton Water is here three miles wide, and in the centre about forty feet in depth, so as to admit ships of any burthen. Sheltered by lofty woods, and free from all rocky obstructions, this beautiful bay presents a very convenient harbour. Bathing machines, swimming baths, and other means of salutary ablution, adapted both to the invalid and the robust, are provided for those who choose to avail themselves of the accommodation afforded. There is a regatta in July, and some well regulated races, which take place on a beautiful spot of ground on Southampton Common.
+
+Since Southampton, owing to the advantageous effects of the railway, has become one of our leading commercial ports, some new docks have been formed, on a scale of great magnitude, and ample accommodation afforded for housing and bonding goods, as well as for the reception of shipping and the convenience of passengers passing in and out of the port. Situated at the confluence of the river Itchen with the Southampton Water, the dock basin presents a surface of sixteen acres of water, eighteen feet deep from low water mark, enclosed by massive walls of masonry, and with a noble entrance 150 feet between the pier heads, without lock or gate. The *Post Office* is in Hanover Buildings. Letters are delivered three times daily; at 7 a.m., 3 p.m., and 6 30 p.m. There is thus constant epistolary communication.
+
+The direct road to Portsmouth leads across the river Itchen, where a floating bridge conveys the passenger over to the opposite shore for a toll of one penny, and in a passage occupying about four minutes in duration. It is a large flat-bottomed vessel, plied by steam, between two vast chains Wretched parallel from one bank to the other. Near the ferry is the Cross House, a building traditionally said to be about three centuries old, and to have been erected at the expense of a lady who, waiting shelterless for a boat to take her across the ferry caught a fatal cold, which led to her bequeathing a sum of money for the erection, and a legacy for keeping it in repair.
+
+There are several seats and pretty spots in the neighbourhood, such as *Bittern Grove*, the site of *Clausentum*, a Roman station, and belonging to D. Urquhart Esq., the political writer; *Bannister Grove* *Townhill Park*, &c.; and *Stoneham Park*, J. Fleming Esq., near the church in which Lord Hawke is buried. Across the Hamble's mouth is Hook, a pretty place near some low cliffs. Up the Test, which is lined with water meadows, are Upton, *Broadlands*, the seat of Lady Palmerston, and Romsey, with its old abbey church, lately restored. On or near the western side of Southampton Water are *Marchwood*, *Cadlands*, Lady M. Drammond; *Eaglehurst*, near *Calshot Castle*, which stands on a long bank of pebbles, and was built by Henry VIII. *Lyndhurst*, in the heart of the *New Forest*, the best trip of all. The scenery here is as richly woodland and as secluded as the most solitary could desire Fonleage, Bolderwood, and other seats are at hand
+
+At *Stony Cross* stood the Canterton Oak (till 1745), from which Tyrrel's arrow glanced and killed William Rufus, 2nd August, 1100. He was carried home by a charcoal-burner, Purkis, whose direct descendants, all charcoal-burners, are still, or were lately, alive. The spot is marked by an inscription. Hampshire bacon is perfection here--reared on acorns.
+
+&#8748; A line of railway, about three miles long, extends along the eastern shores of the Southampton Water to Netley Abbey, a place of universal attraction to Southampton visitors. We cross the Itchen, near to which has been erected a noble Military College, and pass by the stations of [Portswood](/stations/portswood), [Bitterne Road](/stations/bitterne-road), and [Woolston](/stations/woolston), to [Netley Abbey](/stations/netley-abbey).
+
+A fine excursion may be taken from [Southhampton](/stations/southampton) to the Channel Islands. A distance of 104 miles; and, as the communication  is frequent, and the passage to Guernsey averages about eight hours only, we would introduce a brief sketch of these islands before proceeding to the [Isle of Wight](/regions/england/isle-of-wight). The fares run about 18s and 12s.

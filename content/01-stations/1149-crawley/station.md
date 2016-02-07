@@ -1,0 +1,17 @@
+section: 1
+----
+title: Crawley
+----
+region: Sussex
+----
+company:
+- companies/london-brighton-and-south-coast
+----
+route:
+- routes/three-bridges-to-horsham-and-arundel
+----
+meta: A telegraph station.
+----
+text: A neat, clean town, of some note in the coaching times. In the vicinity are *Broadfield Lodge* and *Tilgate Forest*, still a wild tract, though much of it have been reclaimed.
+
+The line then passes through a rural district, to [Fay Gate](/stations/fay-gate).

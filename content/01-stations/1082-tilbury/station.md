@@ -1,0 +1,27 @@
+section: 1
+----
+title: Tilbury
+----
+region: Essex
+----
+company:
+- companies/london-tilbury-and-southend
+----
+route:
+- routes/fenchurch-street-to-tilbury-and-southend
+----
+meta: A telegraph station.
+
+Hotel.--
+: World's End.
+
+Steam Boats
+: to and from Gravesend, Southend, Sheerness, Margate, and Ramsgate, daily.
+----
+text: The districts known by the names of East and West Tilbury are situated in the county of Essex, and the former is celebrated for its fort, which effectually protects the metropolis from the attack of any hostile fleet.
+
+Tilbury Fort was built by Henry VIII. to rescue the towns on the river from such chances of invasion as were then probable, and Charles II. considerably enlarged and strengthened it when the Dutch fleet sailed up the Medway in 1667, and burned three men of war opposite Chatham. Some traces of the camp formed here to oppose the threatened descent of the Spanish Armada are yet visible at West Tilbury, where Queen Elizabeth by a spirited harangue inspired her army with dauntless courage, not however fated to be put to a very severe test. The fury of the elements conspiring with the brave attacks of our navy proved a final blow to their hopes of conquest, and the remnant of the "Invincible Armada" was miserably stranded on the Orkneys. Of the whole fleet, originally consisting of one hundred and thirty vessels, with twenty thousand land forces on board, only fifty-three ships returned to Spain, and they were in a wretchedly shattered condition. Such recollections as these connected with the old fortress before us invest it with greater interest than its architectural aspect would seem of itself to claim.
+
+The esplanade is of vast dimensions, and the bastions the largest of any in England. On the side near the river is a strong curtain, in the centre of which is the water gate.
+
+This is the station for passengers to or from Gravesend. The platform between the station and the pier is covered with oval plates forming a half tube, to afford shelter in bad weather; and steamers ply between this station and the pier at Gravesend at the departure and arrival of every train. Here an Emigrants' Home has been constructed.

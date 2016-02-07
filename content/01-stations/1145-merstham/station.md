@@ -1,0 +1,19 @@
+section: 1
+----
+title: Merstham
+----
+region: Surrey
+----
+company:
+- companies/south-eastern
+- companies/london-brighton-and-south-coast
+----
+route:
+- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
+- routes/london-to-brighton
+----
+meta: A telegraph station.
+----
+text: Merstham is situated to the right of the line--formerly famous for its apple orchards. There are valuable stone quarries in the vicinity. The old church on the hill contains some curious monuments and tombs. The seat of Sir W. G. H. Joliffe, Bart., M.P., is a noble looking mansion.
+
+After this the line enters the Great Junction Station at [Red Hill](/stations/red-hill).

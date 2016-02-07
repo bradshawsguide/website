@@ -1,0 +1,57 @@
+﻿section: 1
+----
+title: Weymouth
+----
+region: Dorsetshire
+----
+company:
+- companies/london-and-south-western
+----
+route:
+- routes/london-to-southampton-dorchester-and-weymouth
+----
+meta: A telegraph station.
+
+Hotels.--
+: Luce's Royal; Drew's Victoria; Jeffries.
+
+Market Days.--
+: Tuesday and Friday.
+
+Races.--
+: In September.
+----
+text: Nothing can be more striking and picturesque than the situation of this delightful watering-place. The town is built-on the western shore of one of the finest bays in the English Channel, and being separated into two parts by the river, which forms a commodious harbour, it is most conveniently situated for trade. Population, 11,383.
+
+A long and handsome bridge of two arches, constructed of stone, with a swivel in the centre, was erected in 1820, and thus the divided townships enjoy a communication. The town, especially on the Melcombe side of the harbour, is regularly built, and consists chiefly of two principal streets, parallel with each other, intersected with others at right angles; it is well paved and lighted, and is tolerably supplied with fresh water. 
+
+Since the town has become a place of fashionable resort for sea-bathing, various handsome ranges of building, and a theatre, assembly rooms, and other places of public entertainment, have been erected, and these are now rapidly extending and increasing in every direction. The principal of these are Belvidere, the Crescent, Gloucester Row, Royal Terrace, Chesterfield Place, York Buildings, Charlotte Row, Augusta Place; and Clarence, Pulteney, and Devonshire Buildings, are conspicuous; to which may perhaps be added Brunswick Buildings, a handsome range of houses at the entrance of the town. From the windows of these buildings, which front the sea, a most extensive and delightful view is obtained, comprehending on the left a noble range of hills and cliffs, extending for many miles in a direction from west to east, and of the sea in front, with the numerous vessels, yachts, and pleasure boats, which are continually entering and leaving the harbour.
+
+To the west of the harbour are the barracks, a very neat and commodious range of buildings. The Esplanade is one of the finest marine promenades in the kingdom. It is a beautiful terrace, thirty feet broad, rising from the sands, and secured by a strong wall, extending in a circular direction parallel with the bay for nearly a mile, and commanding a most beautiful panorama of the sea, cliffs, and the mountainous range of rocks by which the bay is enclosed.
+
+On the Esplanade is the Royal Lodge where George III. and the Royal family resided, and here also will be found the principal public libraries, echoing with the dulcet strains of some experimental musician.
+
+The Theatre is a neat and well arranged edifice, in Augusta Place, but it is seldom inconveniently crowded. Races are held early in September, and during their continuance a splendid regatta is celebrated in the bay, which has a fine circular sweep of two miles; and being sheltered by a continuous range of hills from the north and north-east winds, the water is generally very calm and transparent.
+
+The sands are smooth, firm, and level, and so gradual is the descent towards the sea, that, at the distance of 100 yards, the water is not more than two feet deep. Bathing-machines of the usual number and variety are in constant attendance, and on the South Parade is an establishment of hot salt-water baths, furnished with dressing-rooms and every requisite accommodation. At the south entrance of the harbour are the higher and lower jetties, the latter of which is a little to the east of the former.
+
+The sea has been for a long series of years retiring from the eastern side of the harbour, and part of the ground over which it formerly flowed is now covered with buildings, other parts being enclosed with iron railing's, which form a prominent feature on the Esplanade. On the Weymouth side are the Look Out and the Nothe, affording extensive and interesting prospects; on the latter is a battery, formerly mounted with six pieces of ordnance, which, on the fort being dismantled, were removed into Portland Castle. Within the walls a signal post has been established, which communicates with several other stations, and apartments have been built for the accommodation of a lieutenant and a party of men.
+
+The bay affords ample facilities for aquatic excursions at any time, its tranquil surface being never disturbed except by violent storms from the south or south-west. Yachts and pleasure boats are always in readiness, and the fares kept strictly under municipal supervision.
+
+No place can be more salubrious than Weymouth. The air is so pure and mild, that the town is not only frequented during the summer, but has been selected by many opulent families as a permanent resilience; and the advantages which it possesses in the excellence of its bay, the beauty of its scenery, and the healthfulness of its climate, have contributed to raise it from the low state into which it had fallen from the depression of its commerce, to one of the moat flourishing towns in the kingdom.
+
+As a place for sea-bathing, Weymouth is perfect, and the accommodation of about twenty or thirty machines, always ready, near the centre of the Esplanade, greatly facilitates that operation. The sands over which the bathers have to walk are well known us of the finest description; the declivity of the shore is almost imperceptible, and totally free from those obstructions which are noticed on many parts of the southern coast, so that the most timid can indulge in the luxury of open sea-bathing, with the additional comfort of perfect security, and of sea-water pure, clean, and transparent. Neat and commodious warm salt-water baths will also be found on the South Parade, opposite the harbour.
+
+About a mile to the south-west are the remains of Weymouth or Sandsfoot Castle, erected by Henry VIII. in the year 1539, and described by Leyland as <q>a right goodly and warlyke castle, having one open barbicane.</q> The burning cliff at Weymouth--a kind of miniature volcano--has long attracted the notice of naturalists, and will well repay a visit. At Nottington, about two miles and a-half distant, on the Dorchester road, is a mineral spring, the water of which is considered efficacious in cases of scrofula.
+
+About four miles south from Weymouth, is the island of [Portland](/stations/portland), now communicable by railway which, though thus called, is in reality a peninsula,
+connected with the mainland by an extremely narrow isthmus, called Chesil Bank, a line of shingles thrown up by the sea, and extending for more than eight miles, from Portland to Abbotsbury. It is not more than two miles broad and four long; and though the shores are steep and rugged, the surface of the soil at the summit is smooth, and yields wheat, oats, and barley of average quality. At the southern extremity, called Portland Bill, are the higher and lower lighthouses, and a signal station, called the "Lowes;" near the former is a remarkable cavern, from which the water rises as from a fountain. On the eastern side are Rufus and Pennsylvania Castles, and on the northern side are Portland Castle, and another signal station.
+
+A trip to the island is one of the most favourite excursions generally offered, among other temptations, to travellers, and will furnish materials for an interesting day's enjoyment. Indeed, this picturesque coast is unrivalled. The sea view is agreeably diversified with grand and striking objects, to break the monotony that usually pervades a marine prospect. The coast of this part of Dorsetshire itself presents also grand and striking points. St. Alban's Head and Tulworth Cove, with their bold and soaring cliffs, are sublime and astonishing features in the vast picture that we look upon from hence. The surrounding country is full of castellated remains and interesting historical associations.
+
+In the neighbouring isle of Purbeck are the ruins of Corfe Castle, memorable for the assassination of King Edward the Martyr. Milton Abbey is even yet beautiful, under the decaying winters of many ages; and at Sherborne Castle there are many architectural fragments that still attest the genius of the ill-fated but high-mind Raleigh, and a garden, too, whose shades, planted by his hand, now overlook and wave above those walls which once afforded them shelter, honour, and protection. The rides about Smallmouth Sands, Upway, and beyond the source of the river Wey, are replete with picturesque and ever-changing objects, and the beauty of the own itself is not a little enhanced by the remaining ruins of Weymouth Castle, a scanty relic of the rroublous times of old.
+
+The latitude of Weymouth is one degree farther south than London, and many plants which require protection from the cold in other parts of the country here flourish through the winter in the open air. The geranium grows luxuriantly, and requires little care, and the large and small-leaved myrtle are out-of-door plants. Indeed, so salubrious is the climate, that Dr. Arbuthnot, who came in his early days to settle at Weymouth, observed that no physician could either live or die there. This, however, savours more of flattery than fact, as present observation will fully testify.
+
+*Abbotsbury*, near the west end of the fleet or lake inside the Chesil bank, is the seat of the Earl of Ilchester, and has a decoy and swannery. Further along the coast is [Bridport](/stations/bridport).
