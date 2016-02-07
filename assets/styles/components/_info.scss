@@ -4,6 +4,14 @@
 
 .c-info {
     margin-bottom: 1rem;
+
+    @media screen and (min-width: $v--breakpoint-b) {
+        max-width: 50%;
+        float: right;
+        margin-left: 1rem;
+        border-left: 1px solid;
+        padding-left: 1rem;
+    }
 }
 
 .c-info__term {

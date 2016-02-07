@@ -3,15 +3,15 @@
 //  ===========================================================================
 
 .c-contentinfo {
-    @include fs__system--caption;
-    color: $c__neutral-lightest;
+    @include fs--system-caption;
+    color: $c--neutral-lightest;
     display: flex;
     flex-direction: row-reverse;
     padding: 1rem;
     order: 4;
 
     a:hover {
-        color: $c__brand-yellow;
+        color: $c--brand-yellow;
     }
 }
 

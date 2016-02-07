@@ -2,18 +2,8 @@
 //  Mixins
 //  ===========================================================================
 
-// Clearfix
-@mixin clearfix {
-    &::before,
-    &::after {
-        display: table;
-        clear: both;
-        content: "";
-    }
-}
-
 // Visually hide content
-@mixin visually-hidden {
+@mixin u--visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -24,14 +14,66 @@
     clip: rect(0 0 0 0);
 }
 
+// Clearfix
+@mixin l--clearfix {
+    &::before,
+    &::after {
+        display: table;
+        clear: both;
+        content: "";
+    }
+}
+
+// Container
+@mixin l--container {
+    margin-right: 1rem;
+    margin-left: 1rem;
+
+    @media screen and (min-width: $v--breakpoint-b) {
+        margin-right: 2rem;
+        margin-left: 2rem;
+    }
+
+    @media screen and (min-width: $v--breakpoint-c) {
+        max-width: 80vw;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    @media screen and (min-width: $v--breakpoint-d) {
+        max-width: 70vw;
+    }
+}
+
+@mixin l--container-extend {
+    margin-right: -1rem;
+    margin-left: -1rem;
+
+    @media screen and (min-width: $v--breakpoint-b) {
+        margin-right: -2rem;
+        margin-left: -2rem;
+    }
+
+    @media screen and (min-width: $v--breakpoint-c) {
+        max-width: 100vw;
+        margin-right: -10vw;
+        margin-left: -10vw;
+    }
+
+    @media screen and (min-width: $v--breakpoint-d) {
+        margin-right: -15vw;
+        margin-left: -15vw;
+    }
+}
+
 // Font metrics
-@mixin fs--system--menu {
+@mixin fs--system-menu {
     font: menu;
     font-size: 1rem;
     line-height: (20 / 16);
 }
 
-@mixin fs--system--caption {
+@mixin fs--system-caption {
     font: caption;
     font-size: 0.875rem; // 14px
     line-height: (20 / 14);

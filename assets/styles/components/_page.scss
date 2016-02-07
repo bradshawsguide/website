@@ -2,6 +2,10 @@
 //  Page
 //  ===========================================================================
 
+.c-page {
+    @include l--container;
+}
+
 .c-page__header {
     padding-top: 2rem;
     padding-bottom: 1.5rem;

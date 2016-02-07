@@ -49,12 +49,11 @@
     }
 
     figure {
-        margin-right: -1rem;
-        margin-left: -1rem;
+        @include l--container-extend;
     }
 
     figcaption {
-        @include fs--system--caption;
+        @include fs--system-caption;
         margin-right: 1rem;
         margin-bottom: 2rem;
         margin-left: 1rem;
