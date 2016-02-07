@@ -11,7 +11,3 @@ company:
 route:
 - routes/victoria-to-herne-hill
 - routes/victoria-to-crystal-palace
-----
-meta: 
-----
-text: 

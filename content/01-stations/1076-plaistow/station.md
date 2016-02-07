@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/fenchurch-street-to-tilbury-and-southend
-----
-meta:
-----
-text:

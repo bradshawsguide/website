@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/sevenoaks-junction-to-sevenoaks
-----
-meta:
-----
-text:

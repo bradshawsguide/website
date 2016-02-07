@@ -11,7 +11,3 @@ company:
 ----
 route:
 - routes/lewisham-to-beckenham-and-croydon
-----
-meta:
-----
-text:

@@ -15,20 +15,15 @@ notes: Telegraph station, No. 45, The Terrace.
 Population: 18,782.
 ----
 info:
--
-  term: Hotels
+- term: Hotels
   description: The New Inn; the Terrace Hotel; the Clarendon.
--
-  term: Omnibuses
+- term: Omnibuses
   description: at the station; also to Ightham (via Wrotham), Fairseat, and Meopham, once dally.
--
-  term: Steam Packets
+- term: Steam Packets
   description: to London,; and to Sheerness and Southend, daily, during the summer; to Tilbury, daily, every hour.
--
-  term: Market Days
+- term: Market Days
   description: Wednesday and Saturday.
--
-  term: Fairs
+- term: Fairs
   description: May 4th and October 24th.
 ----
 text: Gravesend is one of the most pleasantly situated, and most easily attained, of all the places thronged upon the margin of the Thames. It is, moreover, a capital starting point for a series of excursions through the finest parts of Kent, and has, besides, in its own immediate neighbourhood, some tempting allurements to the summer excursionist in the way of attractive scenery and venerable buildings. The Terrace Gardens, on each side the entrance to the pier, are really very creditably and tastefully laid out, and as a day-admission-ticket can be had for twopence, expense is no obstacle to the public frequenting them. Directly you traverse the streets of Gravesend you see at a glance for what the town is famous. Shrimps and water-cresses tempt the visitor in every possible variety of supply, and places where both are obtainable, with "Tea at 9d. 2-head," are in wonderful numerical strength. Taverns and tea gardens are abundant, and most of them have mazes, archery grounds, and "gipsy tents" attached. There is an excellent market, held every Wednesday and Saturday; a Town Hall, built in 1836; a Literary Institution, with a Library, Billiard-rooms and Assembly Rooms inclusive, built in 1842; churches and chapels in abundance; numerous libraries and bazaars; water-works on the summit of Windmill Hill; baths by the river, and a commodious Custom House near the Terrace Gardens.

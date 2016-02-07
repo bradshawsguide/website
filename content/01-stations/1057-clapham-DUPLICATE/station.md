@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/victoria-to-herne-hill
-----
-meta:
-----
-text:

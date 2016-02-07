@@ -10,7 +10,7 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 ----
 text: *Gad's Hill*, (1 mile); *Cliffe*, (3 miles); *Cowling*, with its castle, (3¼ mile)--an embattled gateway forming a picturesque object.
 

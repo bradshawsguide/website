@@ -12,10 +12,9 @@ route:
 - routes/lewisham-to-beckenham-and-croydon
 - routes/london-to-chatham-and-dover
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
-Population,
-: 2,124.
+Population: 2,124.
 ----
 text: The church is ancient, with some brasses and monuments worth notice. In the churchyard is a *Lich* gate, for the reception of the corpse on arrival, an erection peculiar to this county, carried down from the Saxon era.
 

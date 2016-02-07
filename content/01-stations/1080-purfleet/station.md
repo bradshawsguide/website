@@ -10,6 +10,4 @@ company:
 route:
 - routes/fenchurch-street-to-tilbury-and-southend
 ----
-meta:
-----
 text: Here are immense powder magazines belonging to Government; also *Belvedere*, seat of R. Webb, Esq.

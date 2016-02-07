@@ -10,7 +10,3 @@ company:
 route:
 - routes/london-to-chatham-and-dover
 - routes/victoria-to-herne-hill
-----
-meta: 
-----
-text: 

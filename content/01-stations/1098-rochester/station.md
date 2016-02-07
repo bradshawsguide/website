@@ -12,19 +12,17 @@ route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 - routes/london-to-chatham-and-dover
 ----
-meta: Telegraph station at Strood, ¼ mile.
-
-Hotels.--
-: Victoria and Bull Inns; Crown.
-
-Steam Boats
-: to and from Sheerness, twice daily.
-
-Market Days.--
-: Friday and Saturday; 4th Tuesday in each month for cattle; every Tuesday for corn.
-
-Fairs.--
-: May 15th, 19th; September, each three days. August 26th, 27th, and 28th.
+notes: Telegraph station at Strood, ¼ mile.
+----
+info:
+- term: Hotels
+  description: Victoria and Bull Inns; Crown.
+- term: Steam Boats
+  description: to and from Sheerness, twice daily.
+- term: Market Days
+  description: Friday and Saturday; 4th Tuesday in each month for cattle; every Tuesday for corn.
+- term: Fairs
+  description: May 15th, 19th; September, each three days. August 26th, 27th, and 28th.
 ----
 text: At Rochester, which has a population of 16,862 and returns two members, some projecting gable houses are to be seen in the High Street, with an old town-hall, built 1687; Sir C. Shovel's clock-house; Watt's alms-house for poor travellers, "not being rogues or proctors;" Henry VIII.'s grammar school; and St. Nicholas Church, built 1421.
 
@@ -40,65 +38,44 @@ Rochester now consists principally of one long street, called High Street, which
 
 In the vicinity are *Upnor Castle*, a fort built by Queen Elizabeth to guard the town (1½ mile); *Cobham Park and Hall*, (3 miles); *Gad's Hill*, (2½ miles); and *Blue Bell Down* on the Maidstone road, a walk over which, crossing over Aylesford Bridge, and back by the banks of the river, will be found interesting and alluring, for its varied prospects.
 ----
-Distances:
-
--
-  location: Bairborough
+distances:
+- location: Bairborough
   miles: "3"
--
-  location: Bridge Wood
+- location: Bridge Wood
   miles: "2"
--
-  location: Cliffe
+- location: Cliffe
   miles: "5"
--
-  location: Cobham
+- location: Cobham
   miles: "4"
--
-  location: Cole Harbour
+- location: Cole Harbour
   miles: "5"
--
-  location: Cowling
+- location: Cowling
   miles: "4"
--
-  location: Cuxton
+- location: Cuxton
   miles: "2"
--
-  location: Gillingham Fort
+- location: Gillingham Fort
   miles: "2"
--
-  location: Hooness Fort
+- location: Hooness Fort
   miles: "4"
--
-  location: Lower Hailing
+- location: Lower Hailing
   miles: "4"
--
-  location: Luddesdown
+- location: Luddesdown
   miles: "4"
--
-  location: Luton
+- location: Luton
   miles: "3"
--
-  location: Mortimer Farra
+- location: Mortimer Farra
   miles: "3"
--
-  location: Mulling Wood
+- location: Mulling Wood
   miles: "5"
--
-  location: New Hythe
+- location: New Hythe
   miles: "6"
--
-  location: Park Woods
+- location: Park Woods
   miles: "5"
--
-  location: Rainham Park
+- location: Rainham Park
   miles: "4"
--
-  location: Rauscombe
+- location: Rauscombe
   miles: "1"
--
-  location: Red Wood
+- location: Red Wood
   miles: "4"
--
-  location: Snodland
+- location: Snodland
   miles: "5"

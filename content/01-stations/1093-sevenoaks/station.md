@@ -10,6 +10,6 @@ company:
 route:
 - routes/sevenoaks-junction-to-sevenoaks
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 ----
 text: A town of some importance, deriving its name from that of its found, Sir W. Sevenocke.

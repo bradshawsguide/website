@@ -10,12 +10,12 @@ company:
 route:
 - routes/fenchurch-street-to-tilbury-and-southend
 ----
-meta: Telegraph station at Tilbury, 5½ miles.
+notes: Telegraph station at Tilbury, 5½ miles.
 
-Population,
-: 504
-
-Money Order Office,
-: Horndon-on-the-Hill, 1 mile.
+Population: 504
+----
+info:
+- term: Money Order Office,
+  description: Horndon-on-the-Hill, 1 mile.
 ----
 text: The bend which the river makes here is called "The Hope".

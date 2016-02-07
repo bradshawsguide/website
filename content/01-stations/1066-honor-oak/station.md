@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/brixton-to-crystal-palace
-----
-meta: 
-----
-text: 

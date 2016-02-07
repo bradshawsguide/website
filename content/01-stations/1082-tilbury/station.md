@@ -10,13 +10,13 @@ company:
 route:
 - routes/fenchurch-street-to-tilbury-and-southend
 ----
-meta: A telegraph station.
-
-Hotel.--
-: World's End.
-
-Steam Boats
-: to and from Gravesend, Southend, Sheerness, Margate, and Ramsgate, daily.
+notes: A telegraph station.
+----
+info:
+- term: Hotel
+  description: World's End.
+- term: Steam Boats
+  description: to and from Gravesend, Southend, Sheerness, Margate, and Ramsgate, daily.
 ----
 text: The districts known by the names of East and West Tilbury are situated in the county of Essex, and the former is celebrated for its fort, which effectually protects the metropolis from the attack of any hostile fleet.
 
