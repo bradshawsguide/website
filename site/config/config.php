@@ -411,7 +411,7 @@ else than txt. For example md or mdown.
 
 */
 
-c::set('content.file.extension', 'txt');
+c::set('content.file.extension', 'md');
 
 
 /*
