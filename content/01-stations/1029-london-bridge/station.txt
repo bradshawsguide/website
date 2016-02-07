@@ -14,6 +14,6 @@ route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 - routes/london-to-brighton
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 ----
 text: We next proceed through the populous districts of Bermondsey and Rotherhithe, the first of which is accommodated with the station of [Spa Road](/stations/spa-road).

@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/fenchurch-street-to-blackwall
-----
-meta:
-----
-text:

@@ -12,7 +12,7 @@ route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 ----
 text: The handsome and important terminus will, for the future be exclusively identified with the "South Eastern Railway;" the two names are now indissolubly joined as are "Paddington" and the "Great Western." And as a result, the vast "London Bridge Station" must now be considered only a great junction to which the Brighton company have a joint title as their terminus.
 

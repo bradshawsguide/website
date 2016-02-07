@@ -10,6 +10,4 @@ company:
 route:
 - routes/fenchurch-street-to-blackwall
 ----
-meta:
-----
 text: Particulars of which [can be found here](/routes/london-bridge-to-herne-bay#limehouse).

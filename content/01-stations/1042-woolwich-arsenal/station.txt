@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
-----
-meta:
-----
-text:

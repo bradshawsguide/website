@@ -14,7 +14,3 @@ route:
 ----
 related:
 - (wikipedia: Waterloo East railway station)
-----
-meta:
-----
-text:

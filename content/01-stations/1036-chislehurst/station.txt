@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/lewisham-to-chislehurst
-----
-meta:
-----
-text:

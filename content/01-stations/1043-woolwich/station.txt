@@ -10,16 +10,18 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 ----
-meta: A telegraph station. Office open from 7½ a.m. to 10½ p.m.; Sundays, 8 to 10 a.m., 1 to 3 and 6 to 8 p.m.
-
-Hotel.--
-: Royal Pavilion.
-
-Steam Boats
-: from the pier to London every 1/4 of an hour, calling at the different piers on the river.
-
-Market Day.--
-: Friday.
+notes: A telegraph station. Office open from 7½ a.m. to 10½ p.m.; Sundays, 8 to 10 a.m., 1 to 3 and 6 to 8 p.m.
+----
+info:
+-
+  term: Hotel
+  description: Royal Pavilion.
+-
+  term: Steam Boats
+  description: from the pier to London every 1/4 of an hour, calling at the different piers on the river.
+-
+  term: Market Day
+  description: Friday.
 ----
 text: Of course nearly all the interest connected with Woolwich is concentrated in the government establishments, which are acknowledged to be the finest in the world. These, consisting of the Dockyard, Arsenal, and Royal Military Repository, we shall describe in the rotation generally adopted when seeing them. Coming from Shooter's Hill and crossing Woolwich Common, the extensive range of buildings forming the barracks of the Royal Artillery first attracts attention. The principal front extends above 1,200 feet. In the eastern wing is the chapel, containing 1,000 sittings, and the other principal parts of the building are the library and reading room, plentifully supplied with newspapers and periodicals. The whole establishment affords excellent accommodation for upwards of 4,000 men. The troops, when on parade, present a very animated appearance. The "Royal Arsenal" will be observed but a short distance off, composed of several buildings, wherein the manufacture of implements of warfare is carried on upon the most extensive scale.
 

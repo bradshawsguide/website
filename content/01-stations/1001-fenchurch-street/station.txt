@@ -12,7 +12,3 @@ route:
 - routes/fenchurch-street-to-blackwall
 - routes/bow-to-chalk-farm
 - routes/fenchurch-street-to-tilbury-and-southend
-----
-meta:
-----
-text:

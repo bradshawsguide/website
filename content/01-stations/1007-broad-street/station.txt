@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/dalston-to-broad-street
-----
-meta:
-----
-text:

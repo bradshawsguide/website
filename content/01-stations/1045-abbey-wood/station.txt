@@ -10,11 +10,11 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 ----
-meta: Distance from station, 1 mile.
+notes: Distance from station, 1 mile.
 
 A telegraph station.
-
-Omnibuses
-: to and from Bexley Heath.
 ----
-text:
+info:
+-
+  term: Omnibuses
+  description: to and from Bexley Heath.

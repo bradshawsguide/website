@@ -10,12 +10,14 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 ----
-meta: Distance from station, 1 mile.
+notes: Distance from station, 1 mile.
 
 A telegraph station.
-
-Money Order Office
-: at Gravesend.
+----
+info:
+-
+  term: Money Order Office
+  description: at Gravesend.
 ----
 text: Greenhithe Pier, 20 miles from London. *Ingress Abbey*, in the Gothic style, built with the stones of old London Bridge. The chalk-pits behind are pleasing.
 

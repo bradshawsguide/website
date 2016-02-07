@@ -10,6 +10,4 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-greenwich
 ----
-meta: A telegraph station.
-----
-text:
+notes: A telegraph station.

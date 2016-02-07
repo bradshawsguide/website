@@ -11,7 +11,6 @@ route:
 - routes/willesden-junction-to-kew
 - routes/acton-to-hammersmith
 ----
-meta: Population,
-: 3,151.
+notes: Population: 3,151.
 ----
 text: Here Sir Mathew Hale, Bishop Lloyd, and Baxter lived. The old Catholic church is worth a visit.
