@@ -11,111 +11,78 @@ route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 - routes/barnham-to-bognor
 ----
-meta: A telegraph station. Distance from station, ¾ mile.
-
-Hotels.--
-: Claremont, Norfolk.
-
-Money Order Office
-: at Arundel.
+notes: A telegraph station. Distance from station, ¾ mile.
+----
+info:
+- term: Hotels
+  description: Claremont, Norfolk.
+- term: Money Order Office
+  description: at Arundel.
 ----
 text: This station forms the junction of a short line to [Bognor](/stations/bognor).
 ----
-Distances:
-
--
-  location: Aldingbourne
+distances:
+- location: Aldingbourne
   miles: "1"
--
-  location: Aldwick
+- location: Aldwick
   miles: "5"
--
-  location: Arundel
+- location: Arundel
   miles: "5¼"
--
-  location: Bognor
+- location: Bognor
   miles: "4"
--
-  location: Calworth
+- location: Calworth
   miles: "2"
--
-  location: Castle Hill
+- location: Castle Hill
   miles: "1½"
--
-  location: Eastham
+- location: Eastham
   miles: "3"
--
-  location: East Dean
+- location: East Dean
   miles: "6"
--
-  location: Eastergate
+- location: Eastergate
   miles: "¾"
--
-  location: Feltham
+- location: Feltham
   miles: "2½"
--
-  location: Goodwood
+- location: Goodwood
   miles: "4"
--
-  location: Guildford
+- location: Guildford
   miles: "24"
--
-  location: Halnaker
+- location: Halnaker
   miles: "3"
--
-  location: Halnaker House
+- location: Halnaker House
   miles: "3½"
--
-  location: Head Wane
+- location: Head Wane
   miles: "2½"
--
-  location: Houghton
+- location: Houghton
   miles: "6"
--
-  location: Kneighton Park
+- location: Kneighton Park
   miles: "1¾"
--
-  location: Lidsey
+- location: Lidsey
   miles: "2"
--
-  location: Limner Pond
+- location: Limner Pond
   miles: "2"
--
-  location: Little Bognor
+- location: Little Bognor
   miles: "2"
--
-  location: Night Timber
+- location: Night Timber
   miles: "2½"
--
-  location: North Bersted
+- location: North Bersted
   miles: "2"
--
-  location: North Field
+- location: North Field
   miles: "1½"
--
-  location: Norton
+- location: Norton
   miles: "1¾"
--
-  location: 'Nudhurst & Petworth'
+- location: 'Nudhurst & Petworth'
   miles: "12"
--
-  location: Poor House
+- location: Poor House
   miles: "1¼"
--
-  location: Shripland
+- location: Shripland
   miles: "2"
--
-  location: Shripudy
+- location: Shripudy
   miles: "2"
--
-  location: South Bersted
+- location: South Bersted
   miles: "2"
--
-  location: Tangmere
+- location: Tangmere
   miles: "2½"
--
-  location: Upper Waltham
+- location: Upper Waltham
   miles: "6"
--
-  location: Westergate
+- location: Westergate
   miles: "1¼"

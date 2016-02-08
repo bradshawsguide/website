@@ -10,22 +10,22 @@ company:
 route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
-Population,
-: 5,895.
+Population: 5,895.
+----
+info:
+- term: Hotels
+  description: Sea House and Steyne.
 
-Hotels.--
-: Sea House and Steyne.
+- term: Omnibuses
+  description: to and from the station and Storrington.
 
-Omnibuses
-: to and from the station and Storrington.
+- term: Market Days
+  description: Wednesday (com), and Saturday.
 
-Market Days.--
-: Wednesday (com), and Saturday.
-
-Fair.--
-: July 20th.
+- term: Fair
+  description: July 20th.
 ----
 text: This market town has lately become very fashionable as a watering-place. Its rise from an insignificant hamlet to its present rank has been rapid almost beyond precedent, even in the annals of this coast. It is said to owe this distinction to the superior mildness of its temperature, arising from the shelter afforded by the Downs, which, at the distance of scarcely a mile, environ it, and exclude the chilling blasts of the northern and eastern winds, rendering bathing practicable even in the depth of winter. The climate is perhaps somewhat relaxing. The sands, extending nearly ten miles hi length, are level, hard, and compact, and afford a beautiful ride or walk. Like Brighton, the town follows the line of the sea,, the esplanade extending for three-quarters of a mile along the shore. Towards the close of a summer or autumnal evening no more delightful promenade can be imagined than this beach, as it echoes to the hollow murmuring of the waves, rippled with the sea breeze, whilst afar off can be seen the gas-lights of the town of Brighton, forming a continuous chain of beads of light.
 
@@ -33,59 +33,40 @@ In the immediate vicinity is *Broadwater*, with its beautiful church in the rich
 
 The line proceeds three miles further on, and reaches the station at [Goring](/stations/goring).
 ----
-Distances:
-
--
-  location: Charmaii Dean
+distances:
+- location: Charmaii Dean
   miles: "3"
--
-  location: Cisbury Hall
+- location: Cisbury Hall
   miles: "2½"
--
-  location: Clapham
+- location: Clapham
   miles: "6"
--
-  location: Cokeham
+- location: Cokeham
   miles: "2"
--
-  location: Finding
+- location: Finding
   miles: "4¾"
--
-  location: Goring
+- location: Goring
   miles: "3¾"
--
-  location: Heene
+- location: Heene
   miles: "1"
--
-  location: Lancing
+- location: Lancing
   miles: "2"
--
-  location: Michel Grove
+- location: Michel Grove
   miles: "3½"
--
-  location: Ofiington
+- location: Ofiington
   miles: "1½"
--
-  location: Salvington
+- location: Salvington
   miles: "1½"
--
-  location: Sheep Combe
+- location: Sheep Combe
   miles: "4"
--
-  location: Sompting
+- location: Sompting
   miles: "2½"
--
-  location: Steyning
+- location: Steyning
   miles: "6½"
--
-  location: Warminghurst
+- location: Warminghurst
   miles: "5½"
--
-  location: Washington
+- location: Washington
   miles: "5½"
--
-  location: West Ferring
+- location: West Ferring
   miles: "5"
--
-  location: West Tailing
+- location: West Tailing
   miles: "1"

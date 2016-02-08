@@ -10,13 +10,13 @@ company:
 route:
 - routes/wimbledon-to-epsom-and-leatherhead
 ----
-meta: A telegraph station.
-
-Hotels.--
-: Swan; Duke's Head.
-
-Fair.--
-: October. 10th, for horses and pigs.
+notes: A telegraph station.
+----
+info:
+- term: Hotels
+  description: Swan; Duke's Head.
+- term: Fair
+  description: October. 10th, for horses and pigs.
 ----
 text: This place is situated on the river Mole, here crossed by a bridge of fourteen arches. The church was built about the year 1346, in the form of a cross, but has since been restored. The Mole here-abouts is very attractive to the pedestrian, as well the angler, for its excellent views and very excellent trout. *Fetcham Park* is close by.
 

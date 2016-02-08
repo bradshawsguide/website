@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/staines-to-windsor
-----
-meta:
-----
-text:

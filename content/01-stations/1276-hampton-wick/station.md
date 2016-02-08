@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/twickenham-to-kingston
-----
-meta: 
-----
-text: 

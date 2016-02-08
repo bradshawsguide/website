@@ -10,6 +10,4 @@ company:
 route:
 - routes/wimbledon-to-epsom-and-leatherhead
 ----
-meta:
-----
 text: The seat of Colonel Howard.

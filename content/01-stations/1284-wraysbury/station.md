@@ -10,6 +10,4 @@ company:
 route:
 - routes/staines-to-windsor
 ----
-meta:
-----
 text: A respectable specimen of a real English village, near the confluence of the Colne with the Thames.

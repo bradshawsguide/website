@@ -10,11 +10,10 @@ company:
 route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 ----
-meta: Telegraph station at Chichester, 2 miles.
+notes: Telegraph station at Chichester, 2 miles.
 
 Distance from station, ½ mile.
-
-Money Order Office
-: at Chichester.
 ----
-text: 
+info:
+- term: Money Order Office
+  description: at Chichester.

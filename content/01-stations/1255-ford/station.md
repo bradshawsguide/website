@@ -10,10 +10,11 @@ company:
 route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 ----
-meta: A telegraph station.
-
-Money Order Office
-: at Arundel.
+notes: A telegraph station.
+----
+info:
+- term: Money Order Office
+  description: at Arundel.
 ----
 text: In the vicinity of *Tortington*, a very pretty English village, with an old Norman church, and the remains of its priory, founded by Lady Hadwisa Corbet in the 13th century. The neighbourhood is very agreeable, and we conjecture that the old Monks were very delightful situated.
 

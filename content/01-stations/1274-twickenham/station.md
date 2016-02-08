@@ -12,16 +12,15 @@ route:
 - routes/twickenham-to-kingston
 - routes/twickenham-to-shepperton
 ----
-meta: A telegraph station.
-
-Hotels.--
-: King's Head; Royal.
-
-Omnibuses
-: to and from London, Hampton, and Hampton Court, daily.
-
-Money Order Office
-: at Richmond.
+notes: A telegraph station.
+----
+info:
+- term: Hotels
+  description: King's Head; Royal.
+- term: Omnibuses
+  description: to and from London, Hampton, and Hampton Court, daily.
+- term: Money Order Office
+  description: at Richmond.
 ----
 text: Twickenham is a most picturesque village on the Thames. Between Richmond bridge and this village is a rural walk, on the border of the river; and probably no promenade of a similar extent, in any part of England, presents a display of scenery so soft and so highly cultivated. The margin of the Thames is lined with stately dwellings, whose ornamental grounds descend to the water's edge; among which stood the residence of Pope. Here he translated a part of the Iliad, and wrote the Dunciad, the Essay on Man, &c., and hence are dated a great number of his letters; here also he died.
 

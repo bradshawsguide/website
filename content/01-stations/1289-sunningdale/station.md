@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/london-to-richmond-staines-wokingham-and-reading
-----
-meta:
-----
-text:

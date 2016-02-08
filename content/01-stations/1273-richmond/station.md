@@ -10,21 +10,19 @@ company:
 route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
-meta: Distance from station, ½ mile.
+notes: Distance from station, ½ mile.
 
 A telegraph station.
 
-Population,
-: 7,423.
-
-Hotels.--
-: Star and Garter; Roebuck; Castle.
-
-Omnibuses
-: to and from the station; also to London, via Kew, Hammersmith, and Kensington; conveyances also to Hampton, Kingston, and Twickenham. These are the fastest and best appointed vehicles out of London.
-
-Steam Vessels
-: from London, calling at Putney, Hammersmith Bridge, and Kew, daily in summer.
+Population: 7,423.
+----
+info:
+- term: Hotels
+  description: Star and Garter; Roebuck; Castle.
+- term: Omnibuses
+  description: to and from the station; also to London, via Kew, Hammersmith, and Kensington; conveyances also to Hampton, Kingston, and Twickenham. These are the fastest and best appointed vehicles out of London.
+- term: Steam Vessels
+  description: from London, calling at Putney, Hammersmith Bridge, and Kew, daily in summer.
 ----
 text: Richmond is a delightful town in Surrey, on the South Western Railway and the river Thames, 10 miles from London, in the midst of scenery which, though often praised and admired, never grows old or wearisome. It may be also reached by the omnibus from St. Paul's, every hour and half hour, or by the Hampton Court steamer from London and Hungerford Bridges. The last way is the best, for enjoying the scenery of the river above Richmond; but the shoals and the long bends or reaches make it rather tedious, especially at low tides. The town stands on an eminence on, the south bank of the Thames--it extends about a mile up the hill--and is skirted and intermingled with agreeable gardens.
 

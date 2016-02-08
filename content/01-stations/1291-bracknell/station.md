@@ -10,6 +10,4 @@ company:
 route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 ----
-meta:
-----
 text: Containing a population of 108. It has a pretty modern church, built by Coe.

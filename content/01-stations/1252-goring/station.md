@@ -10,9 +10,10 @@ company:
 route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 ----
-meta: Telegraph station at Worthing, 2½ miles.
-
-Money Order Office
-: at Worthing.
+notes: Telegraph station at Worthing, 2½ miles.
+----
+info:
+- term: Money Order Office
+  description: at Worthing.
 ----
 text: After which an additional four miles bring us to the station at [Angmering](/stations/angmering)

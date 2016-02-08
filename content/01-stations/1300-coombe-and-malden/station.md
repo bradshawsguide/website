@@ -15,6 +15,4 @@ route:
 related:
 - (wikipedia: New Malden railway station)
 ----
-meta:
-----
 text: The line passes under two bridges, and we reach the station of [Surbiton](/stations/surbiton)

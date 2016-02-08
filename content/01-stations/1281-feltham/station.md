@@ -10,7 +10,3 @@ company:
 route:
 - routes/london-to-richmond-staines-wokingham-and-reading
 - routes/barnes-to-hounslow-and-feltham
-----
-meta: 
-----
-text: 
