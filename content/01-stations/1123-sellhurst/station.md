@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/victoria-to-crystal-palace
-----
-meta:
-----
-text:

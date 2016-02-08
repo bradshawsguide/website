@@ -12,6 +12,6 @@ route:
 - routes/three-bridges-to-horsham-and-arundel
 - routes/three-bridges-to-east-grinstead
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 ----
 text: This is the junction point of the [Horsham Branch](/routes/three-bridges-to-horsham-and-arundel).

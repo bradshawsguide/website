@@ -10,12 +10,12 @@ company:
 route:
 - routes/croydon-to-epsom
 ----
-meta: A telegraph station.
-
-Hotels.--
-: Greyhound, King's Arms.
-
-Fairs.--
-: July 1st and 2nd.
+notes: A telegraph station.
+----
+info:
+- term: Hotels
+  description: Greyhound, King's Arms.
+- term: Fairs
+  description: July 1st and 2nd.
 ----
 text: Carshalton Church is a venerable structure, of the early English style. Close by is *Carshalton Park*. Proceeding thence, we come to [Sutton](/stations/sutton).

@@ -12,6 +12,4 @@ route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 - routes/london-to-brighton
 ----
-meta:
-----
 text: The Anerley Station, although in a pretty situation, deserves no particular mention, in comparison with the celebrated one of [Norwood](/stations/norwood-upper).

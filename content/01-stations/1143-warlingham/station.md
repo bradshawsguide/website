@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/caterham-junction-to-caterham
-----
-meta:
-----
-text:

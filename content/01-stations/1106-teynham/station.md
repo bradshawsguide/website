@@ -10,6 +10,6 @@ company:
 route:
 - routes/london-to-chatham-and-dover
 ----
-meta: A telegraph station
+notes: A telegraph station
 ----
 text: In the vicinity of which are *Rodmersham Lodge* (2 miles); *Teynham Lodge* (2½ miles); *Norton Court* (2 miles); and arrive at [Faversham](/stations/faversham).

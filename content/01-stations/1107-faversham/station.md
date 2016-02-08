@@ -11,16 +11,15 @@ route:
 - routes/london-to-chatham-and-dover
 - routes/faversham-to-ramsgate
 ----
-meta: A telegraph station
+notes: A telegraph station
 
-Population,
-: 5,858.
-
-Market Days.--
-: Wednesday and Friday.
-
-Fairs.--
-: October 11, 12, 13.
+Population: 5,858.
+----
+info:
+- term: Market Days
+  description: Wednesday and Friday.
+- term: Fairs
+  description: October 11, 12, 13.
 ----
 text: This town is situated on a small stream running into the East Swale, which is navigable for vessels of 150 tons. It was a place of much note before the time of Stephen, who, however, built and endowed an abbey here for Cluniac monks, and in which himself, his queen, and his son Eustace were buried. At the dissolution, Stephen's remains were thrown into the river, for the sake of the leaden coffin in which they were contained. Some portions of the outer walls still exist. The church is cruciform, and built of Hint, in the decorated style; the tower and spire (a copy of that, of St. Dunstan's in the East, at London), are of modern date. The Market House was erected in 1594. There is a well-endowed Grammar School. Here James II. was held prisoner on his attempt to escape from England. There are some imports and a considerable coasting trade, which necessitates the establishment of a Custom House. Gunpowder is a branch of manufacture.
 

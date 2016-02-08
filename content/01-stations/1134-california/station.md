@@ -12,7 +12,3 @@ route:
 ----
 related:
 - (wikipedia: Belmont railway station &#40;Sutton&#41;)
-----
-meta:
-----
-text:

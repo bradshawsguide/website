@@ -13,12 +13,12 @@ route:
 - routes/reigate-to-reading
 - routes/london-to-brighton
 ----
-meta: A telegraph station.
-
-Hotel.--
-: Railway Hotel.
-
-<span class="u-smcp">Money Order Office</span>.
+notes: A telegraph station.
+----
+info:
+- term: Hotel
+  description: Railway Hotel.
+- term: Money Order Office
 ----
 text: This station is reciprocally used by both the Brighton and Dover trains, the latter diverging to the east, and we at once enter the valley of Holmesdale, which was noted as the scene of many conflicts in the early history of our country; an ancient couplet, quoted by Camden, evidently refers to this fact:--
 
@@ -27,7 +27,7 @@ text: This station is reciprocally used by both the Brighton and Dover trains, t
 
 The hills to the north seclude both the villages of Nutfield and Bletchingly, which are within an easy distance. Leaving Reigate to the right we proceed across an embankment over *Earl's Wood Common*, from which a succession of beautiful and varied scenery lures the eye. On the left we see the Weald stretching far away into the county of Kent, the beautiful building, the Asylum for Idiots, forming a suitable object in the foreground; and on the right *Leith Hill*, *Box Hill*, and the downs around Dorking may be clearly discerned.
 
-* * * 
+* * *
 
 This is one of the most important junctions of the Kent and Sussex Railways.
 

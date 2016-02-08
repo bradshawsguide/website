@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/sutton-to-epsom-downs
-----
-meta:
-----
-text:

@@ -12,7 +12,3 @@ route:
 ----
 related:
 - (wikipedia: West Norwood railway station)
-----
-meta:
-----
-text:
