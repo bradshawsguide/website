@@ -10,21 +10,19 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-meta: Distance from station, ¼ mile.
+notes: Distance from station, ¼ mile.
 
 A telegraph station.
-
-Hotels.--
-: The George, King's Anns.
-
-Market Day.--
-: Wednesday.
-
-Fair.--
-: June 12th.
-
-Money Order Office
-: at Staplehurst.
+----
+info:
+- term: Hotels
+  description: The George, King's Anns.
+- Market Day
+  description: Wednesday.
+- term: Fair
+  description: June 12th.
+- term: Money Order Office
+  description: at Staplehurst.
 ----
 text: This village possesses no feature of particular or general interest, beyond the splendid old oak tree in the churchyard. The churches of Chart Sutton, Sutton Valence, and Sutton Castle, are worth visiting.
 

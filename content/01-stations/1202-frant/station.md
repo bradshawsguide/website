@@ -10,15 +10,15 @@ company:
 route:
 - routes/tunbridge-to-hastings
 ----
-meta: Distance from station, 1 mile.
+notes: Distance from station, 1 mile.
 
 A telegraph station.
-
-Hotels.--
-: Spread Eagle, and Abergavenny Arms.
-
-Money Order Office
-: at Tunbridge Wells.
+----
+info:
+- term: Hotels
+  description: Spread Eagle, and Abergavenny Arms.
+- term: Money Order Office
+  description: at Tunbridge Wells.
 ----
 text: A short distance from this station is Bridge Castle, the demesne of the Earl of Abergavenny, situated in a noble park, well stocked with deer. There are several handsome villas in the neighbourhood, the scenery of which is exceedingly varied, and some of the views of the country around are both extensive and beautiful.
 

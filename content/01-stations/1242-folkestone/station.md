@@ -10,28 +10,23 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
-Population,
-: 8,507.
-
-Hotels.--
-: Pavilion; Royal George; Clarendon.
-
-Omnibueses
-: to and from the station.
-
-Post Horses, Flys, &c.
-: at the hotels.
-
-Steamers
-: to Boulogne, twice daily, in two hours.
-
-Market Day.--
-: Thursday.
-
-Fairs.--
-: June 28th, and Thursday in Easter Week.
+Population: 8,507.
+----
+info:
+- term: Hotels
+  description: Pavilion; Royal George; Clarendon.
+- term: Omnibueses
+  description: to and from the station.
+- term: Post Horses, Flys, &c.
+  description: at the hotels.
+- term: Steamers
+  description: to Boulogne, twice daily, in two hours.
+- term: Market Day
+  description: Thursday.
+- term: Fairs
+  description: June 28th, and Thursday in Easter Week.
 ----
 text: Folkestone is rapidly becoming a much frequented watering place, as well as a favourite point of embarkation to France; the distance to Boulogne is only twenty-seven miles, and the voyage generally accomplished in two hours and a half. The opening of the South Eastern Railway, and the establishment of a line of packets between this port and Boulogne, has been the means of rescuing Folkestone from its previous obscurity, and bringing it to its present position. It is situated on the side of a range of hills on very uneven ground, the streets are narrow, steep, and irregular, and the sea-worn chasms about the shore seem still to perpetuate in appearance that reputation for contraband traffic which once was its distinguishing feature. The air is very salubrious, and has been thought of much efficacy in nervous debility, whilst the country round is highly picturesque, and abounds in varied and beautiful landscapes. Visitors here may enjoy all the benefits of sea bathing and sea air, with more retirement than at Dover or Ramsgate.
 

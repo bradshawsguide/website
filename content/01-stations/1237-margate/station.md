@@ -10,16 +10,15 @@ company:
 route:
 - routes/ashford-to-canterbury-and-ramsgate
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
-Population,
-: 8,874
-
-Hotels.--
-: Gardner's Royal; White Hart.
-
-Market Days.--
-: Wednesday and Saturday.
+Population: 8,874
+----
+info:
+- term: Hotels
+  description: Gardner's Royal; White Hart.
+- term: Market Days
+  description: Wednesday and Saturday.
 ----
 text: There is not, in the whole range of our sea-side physiology, a more lively, bustling place than this said Margate: albeit, by those who are fettered down to cold formalities, and regard laughter as a positive breach of good-breeding, it is pronounced to be essentially and irredeemably vulgar. The streets are always a scene of continued excitement, and troops of roguish, ruddy-cheeked urchins, escorted by their mammas or their nursery-maids, traverse every thoroughfare about the town from morning until night. There is a theatre also, and a kind of minor Vauxhall, called the Tivoli, where those who care little for out-of-door enjoyments can spend a passable hour in such dramatic and musical gratifications as the artists and the place can best afford. Bazaars and marine libraries afford too, in "the season," the latest metropolitan vocal novelties; and the same raffling and rattling of dice-boxes, to test fortune's favouritism, is carried on as at Ramsgate, but with a greater spirit of freedom and earnestness. In short, for those who do not go to the coast for retirement, and who like to have an atmosphere of London life surrounding them at the sea-side, there is no place where then- desires can be so easily and comprehensively gratified as here.
 

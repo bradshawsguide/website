@@ -10,24 +10,21 @@ company:
 route:
 - routes/tunbridge-to-hastings
 ----
-meta: Distance from station, 3 mile.
+notes: Distance from station, 3 mile.
 
 A telegraph station.
-
-Hotel.--
-: George.
-
-Omnibuses
-: to and from the station.
-
-Post Horses, Flys, &c
-: at the hotel.
-
-Market Day.--
-: The second Monday in each mouth.
-
-Fairs.--
-: Whit Monday and November 22nd.
+----
+info:
+- term: Hotel
+  description: George.
+- term: Omnibuses
+  description: to and from the station.
+- term: Post Horses, Flys, &c
+  description: at the hotel.
+- term: Market Day
+  description: The second Monday in each mouth.
+- term: Fairs
+  description: Whit Monday and November 22nd.
 ----
 text: This town was formerly called Epiton, and received its present name from being the spot on which the Saxons, under Harold, were defeated by William, the Duke of Normandy, in 1066. After the contest the Conqueror founded a magnificent abbey to commemorate his victory, and the high altar in the church is said to have stood on the very spot where the body of the heroic Saxon prince was found. The noble gateway of the abbey has a fine effect when seen from the town. In the abbey was formerly preserved the celebrated Battle Abbey Roll, which formed a list of those families which came over from Normandy with the Duke.
 
@@ -35,68 +32,46 @@ The mingled scene of hill and dale, wood and village, presents one of those fair
 
 Four miles further is [St. Leonards](/stations/st-leonards) station.
 ----
-Distances:
-
--
-  location: Ashburnham
+distances:
+- location: Ashburnham
   miles: "5"
--
-  location: Ashburnham Park
+- location: Ashburnham Park
   miles: "4"
--
-  location: Battle
+- location: Battle
   miles: "1"
--
-  location: "Battle Abbey (Lady Webster's)"
+- location: "Battle Abbey (Lady Webster's)"
   miles: "1"
--
-  location: Battle Powder Mills
+- location: Battle Powder Mills
   miles: "2½"
--
-  location: Beaufort
+- location: Beaufort
   miles: "2"
--
-  location: Bohemy House
+- location: Bohemy House
   miles: "3"
--
-  location: Brede
+- location: Brede
   miles: "4"
--
-  location: Catsfield
+- location: Catsfield
   miles: "3"
--
-  location: Crowhurst Park
+- location: Crowhurst Park
   miles: "2"
--
-  location: Darvel House
+- location: Darvel House
   miles: "3"
--
-  location: Hollington Lodge
+- location: Hollington Lodge
   miles: "3"
--
-  location: Newenden
+- location: Newenden
   miles: "9"
--
-  location: New House
+- location: New House
   miles: "5"
--
-  location: Ore Place
+- location: Ore Place
   miles: "4"
--
-  location: Penshurst
+- location: Penshurst
   miles: "4"
--
-  location: Sedlescombe
+- location: Sedlescombe
   miles: "2¾"
--
-  location: Udimore
+- location: Udimore
   miles: "6½"
--
-  location: Watch Gate
+- location: Watch Gate
   miles: "1½"
--
-  location: Westfield
+- location: Westfield
   miles: "3¾"
--
-  location: Whatlington
+- location: Whatlington
   miles: "3"

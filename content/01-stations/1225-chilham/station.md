@@ -10,16 +10,15 @@ company:
 route:
 - routes/ashford-to-canterbury-and-ramsgate
 ----
-meta: A telegraph station.
-
-Omnibuses
-: to and from the station.
-
-Fair.--
-: November 8th.
-
-Money Order Office
-: at Canterbury.
+notes: A telegraph station.
+----
+info:
+- term: Omnibuses
+  description: to and from the station.
+- term: Fair
+  description: November 8th.
+- term: Money Order Office
+  description: at Canterbury.
 ----
 text: Chilham Home, or Manor is a noble building, situated in beautiful grounds, which command extensive views over the entire Vale of Ashford and the Stour.
 

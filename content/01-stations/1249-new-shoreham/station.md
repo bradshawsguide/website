@@ -11,16 +11,15 @@ route:
 - routes/brighton-to-worthing-chichester-and-portsmouth
 - routes/horsham-to-steyning-and-shoreham
 ----
-meta: A telegraph station.
-
-Hotels.--
-: Surrey Arms, Buckingham Arms, and Swiss Cottage.
-
-Market Day.--
-: Every alternate Monday (corn).
-
-Fair.--
-: July 25th.
+notes: A telegraph station.
+----
+info:
+- term: Hotels
+  description: Surrey Arms, Buckingham Arms, and Swiss Cottage.
+- term: Market Day
+  description: Every alternate Monday (corn).
+- term: Fair
+  description: July 25th.
 ----
 text: Old <span class="u-smcp">Shoreham</span>, on the right of the line, has a fine old Saxon church, which has been recently restored, and is much admired as a beautiful specimen of Saxon architecture.
 

@@ -13,25 +13,21 @@ route:
 - routes/haywards-heath-to-lewes-and-hastings
 - routes/ashford-to-hastings
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
-Population,
-: 22,910.
-
-Hotels.--
-: The Marine, on the Parade; Albion; Castle,
-
-Omnibuses
-: to and from the station to meet every train.
-
-Post Horses, Flys, &c
-: at the hotels and station, to meet every train.
-
-Market Days.--
-: Saturdays (corn); daily (poultry).
-
-Fairs.--
-: Whit Tuesday, July 26 and 29, and November 27.
+Population: 22,910.
+----
+info:
+- term: Hotels
+  description: The Marine, on the Parade; Albion; Castle,
+- term: Omnibuses
+  description: to and from the station to meet every train.
+- term: Post Horses, Flys, &c
+  description: at the hotels and station, to meet every train.
+- term: Market Days
+  description: Saturdays (corn); daily (poultry).
+- term: Fairs
+  description: Whit Tuesday, July 26 and 29, and November 27.
 ----
 text: The recognised salubrity and mildness of the air, together with the openness of the coast and the smoothness of the beach, have long made Hastings a favourite and a recommended resort. The shore is not abrupt, and the water almost always limpid, and of that beautiful sea-green hue so inviting to bathers. The constant surging of the waves, first breaking against the reefs, and next dashing over the sloping shingle, is not unwelcome music at midnight to the ears of all who *sleep* in the vicinity of the shore.
 

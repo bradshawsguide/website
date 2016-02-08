@@ -12,7 +12,3 @@ route:
 ----
 related:
 - (wikipedia: Hove railway station)
-----
-meta:
-----
-text:

@@ -10,12 +10,13 @@ company:
 route:
 - routes/tunbridge-to-hastings
 ----
-meta: Distance from station, 1 mile.
+notes: Distance from station, 1 mile.
 
 A telegraph station.
-
-Money Order Office
-: at Wadhurst.
+----
+info:
+- term: Money Order Office
+  description: at Wadhurst.
 ----
 text: The church at Etchingham is a fine old edifice, reputed to be one of the best specimens of Norman architecture in the country.
 

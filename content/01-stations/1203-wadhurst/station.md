@@ -10,14 +10,12 @@ company:
 route:
 - routes/tunbridge-to-hastings
 ----
-meta: Distance from station, ¼ mile.
+notes: Distance from station, ¼ mile.
 
 A telegraph station.
-
-Market Day.--
-: Saturday.
-
-Fairs.--
-: April 29th and November 1st.
 ----
-text:
+info:
+- term: Market Day
+  description: Saturday.
+- term: Fairs
+  description: April 29th and November 1st.

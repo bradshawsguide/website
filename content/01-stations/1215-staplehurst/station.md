@@ -10,110 +10,78 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-meta: A telegraph station.
-
-Hotels.--
-: South Eastern, King's Head.
-
-Fairs.--
-: Monday after July 20th, Wednesday after September 20th.
+notes: A telegraph station.
+----
+info:
+- term: Hotels
+  description: South Eastern, King's Head.
+- term: Fairs
+  description: Monday after July 20th, Wednesday after September 20th.
 ----
 text: The village of the same name is near the station; its fine old church and quaint antique houses are much admired.
 
 The village of Cranbrook, in the heart of the Weald of Kent is remarkable for its handsome church, considered one of the most interesting edifices in the county. The remains of Sissinghurst Castle, four miles, are also well worthy a visit.
 ----
-Distances:
-
--
-  location: Bennendon
+distances:
+- location: Bennendon
   miles: "7"
--
-  location: Chart Hill
+- location: Chart Hill
   miles: "3"
--
-  location: Chart Sutton
+- location: Chart Sutton
   miles: "3"
--
-  location: Chiddenden Wood
+- location: Chiddenden Wood
   miles: "5½"
--
-  location: Cranbrook
+- location: Cranbrook
   miles: "6"
--
-  location: Dingle Dale
+- location: Dingle Dale
   miles: "8"
--
-  location: Dellingden Farm
+- location: Dellingden Farm
   miles: "6¾"
--
-  location: East Sutton
+- location: East Sutton
   miles: "3¾"
--
-  location: Elderton
+- location: Elderton
   miles: "1¾"
--
-  location: Foxcarthwood
+- location: Foxcarthwood
   miles: "5"
--
-  location: Frittenden
+- location: Frittenden
   miles: "4"
--
-  location: "Goddard's Green"
+- location: "Goddard's Green"
   miles: "6½"
--
-  location: Great Dunbury
+- location: Great Dunbury
   miles: "1¼"
--
-  location: Hangley Wood
+- location: Hangley Wood
   miles: "5¼"
--
-  location: Hartley
+- location: Hartley
   miles: "6½"
--
-  location: Hawkhurst
+- location: Hawkhurst
   miles: "8¼"
--
-  location: Hempstead Park
+- location: Hempstead Park
   miles: "6"
--
-  location: Hersfield Place
+- location: Hersfield Place
   miles: "2¼"
--
-  location: Highgate
+- location: Highgate
   miles: "8¼"
--
-  location: Hockenbury Green
+- location: Hockenbury Green
   miles: "1"
--
-  location: Kilsom
+- location: Kilsom
   miles: "1"
--
-  location: Love House
+- location: Love House
   miles: "1½"
--
-  location: Milk House Street
+- location: Milk House Street
   miles: "4"
--
-  location: Postern Plain
+- location: Postern Plain
   miles: "2¼"
--
-  location: Sandhurst Green
+- location: Sandhurst Green
   miles: "9¾"
--
-  location: Standing Street
+- location: Standing Street
   miles: "8¼"
--
-  location: Sutton Valenee
+- location: Sutton Valenee
   miles: "3¼"
--
-  location: Swallenden Farm
+- location: Swallenden Farm
   miles: "7½"
--
-  location: Swithland
+- location: Swithland
   miles: "2½"
--
-  location: Wanthurst
+- location: Wanthurst
   miles: "1¼"
--
-  location: Winsley Green
+- location: Winsley Green
   miles: "4½"

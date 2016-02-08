@@ -10,15 +10,15 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-meta: Distance from station, 1¼ mile.
+notes: Distance from station, 1¼ mile.
 
 A telegraph station.
-
-Fairs.--
-: Whit Mondays (Toys and Pedlery), Feast of St. Nicholas (cattle).
-
-Money Order Office
-: at Ashford.
+----
+info:
+- term: Fairs
+  description: Whit Mondays (Toys and Pedlery), Feast of St. Nicholas (cattle).
+- term: Money Order Office
+  description: at Ashford.
 ----
 text: In the neighbourhood of Pluckley there are several villages and country seats. *Bethersden* the seat of the Lovelaces, a family now extinct, two and a half miles. Great Chart, once a large market town, and many others.
 

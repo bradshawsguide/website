@@ -12,19 +12,17 @@ route:
 - routes/faversham-to-ramsgate
 - routes/ashford-to-canterbury-and-ramsgate
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
-Population,
-: 11,865.
-
-Hotels.--
-: Royal; Royal Albion; Royal Oak.
-
-Market Days.--
-: Wednesday and Saturday.
-
-Fair.--
-: August 10th, at St Lawrence.
+Population: 11,865.
+----
+info:
+- term: Hotels
+  description: Royal; Royal Albion; Royal Oak.
+- term: Market Days
+  description: Wednesday and Saturday.
+- term: Fair
+  description: August 10th, at St Lawrence.
 ----
 text: Ramsgate, and the sea side, without the need of walking another step. A short continuation of the line will ultimately have a terminus on the Pier.
 
