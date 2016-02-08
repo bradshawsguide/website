@@ -10,10 +10,11 @@ company:
 route:
 - routes/reigate-to-reading
 ----
-meta: A telegraph station.
-
-Hotels.--
-: Running Horse, Fox and Hounds.
+notes: A telegraph station.
+----
+info:
+- term: Hotels
+  description: Running Horse, Fox and Hounds.
 ----
 text: Tourists alight at this station for the hill with its celebrated prospects. It took its name from the Box trees planted thereon in the reign of Charles I. and is now a resort for picnic parties.
 

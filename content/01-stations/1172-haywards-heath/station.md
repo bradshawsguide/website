@@ -11,7 +11,7 @@ route:
 - routes/london-to-brighton
 - routes/haywards-heath-to-lewes-and-hastings
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 ----
 text: Junction.
 

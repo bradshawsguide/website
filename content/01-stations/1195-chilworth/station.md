@@ -10,7 +10,7 @@ company:
 route:
 - routes/reigate-to-reading
 ----
-meta: Distance from station, ½ mile.
+notes: Distance from station, ½ mile.
 
 A telegraph station.
 ----

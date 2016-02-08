@@ -10,16 +10,15 @@ company:
 route:
 - routes/lewes-to-newhaven
 ----
-meta: A telegraph station.
-
-Hotel.--
-: Bridge Inn.
-
-Steam Packets
-: to Dieppe daily
-
-Fair.--
-: October 16th.
+notes: A telegraph station.
+----
+info:
+- term: Hotel
+  description: Bridge Inn.
+- term: Steam Packets
+  description: to Dieppe daily
+- term: Fair
+  description: October 16th.
 ----
 text: Newhaven, formerly a very obscure port or fishing town at the mouth of the river Ouse, is now a rising place, and become of some importance, as the port of communication between London, Dieppe, and Paris. Louis Philippe landed here in 1848, after his flight from France.
 

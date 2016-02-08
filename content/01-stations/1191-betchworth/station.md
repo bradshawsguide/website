@@ -10,7 +10,7 @@ company:
 route:
 - routes/reigate-to-reading
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 ----
 text: Within a short distance, situated most beautifully in a romantic park washed by the "Sullen Mole," are the ruins of Betchworlh Castle.
 

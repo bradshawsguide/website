@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/lewes-to-uckfield
-----
-meta:
-----
-text:

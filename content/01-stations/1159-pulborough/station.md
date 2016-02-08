@@ -11,6 +11,4 @@ route:
 - routes/three-bridges-to-horsham-and-arundel
 - routes/pullborough-to-petworth
 ----
-meta:
-----
 text: The junction of a short line to [Petworth](/stations/petworth).

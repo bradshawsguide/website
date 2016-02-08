@@ -10,17 +10,15 @@ company:
 route:
 - routes/haywards-heath-to-lewes-and-hastings
 ----
-meta: Telegraph station at Polegate, 3½ miles.
-
-Hotel.--
-: Royal Oak.
-
-Market Day.--
-: Thursday (Southdown Sheep).
-
-Fairs.--
-: July 5th and Sept. 15th.
-
+notes: Telegraph station at Polegate, 3½ miles.
+----
+info:
+- term: Hotel
+  description: Royal Oak.
+- term: Market Day
+  description: Thursday (Southdown Sheep).
+- term: Fairs
+  description: July 5th and Sept. 15th.
 ----
 text: Though formerly a place of so much importance as to give name to the hundred, it has now dwindled to an inconsiderable village; and the sea, which formerly laved the castle walls, has now receded to a distance of two miles. A number of martello towers, erected at the time of the last war--we hope the phrase will be just as applicable for a hundred generations yet to come--remain as memorials of the means resorted to for the defence of the coast.
 

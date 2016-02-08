@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/three-bridges-to-east-grinstead
-----
-meta:
-----
-text:

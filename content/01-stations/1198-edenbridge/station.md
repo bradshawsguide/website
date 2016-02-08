@@ -10,19 +10,17 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-meta: A telegraph station.
-
-Hotel.--
-: Albion (at the station).
-
-Omnibuses
-: at the station; also to Westerham
-
-Fair.--
-: May 6th.
-
-Money Order Office
-: at East Grinstead.
+notes: A telegraph station.
+----
+info:
+- term: Hotel
+  description: Albion (at the station).
+- term: Omnibuses
+  description: at the station; also to Westerham
+- term: Fair
+  description: May 6th.
+- term: Money Order Office
+  description: at East Grinstead.
 ----
 text: The village of Edenbridge, situated 1 mile from the station, derives its name from the little river Eden, one of the tributary streams of the Medway. There are several chalybeate springs in the neighbourhood. The church of Edenbridge is a fine ancient edifice, containing several handsome tombs; also a curious monument of the Earl of Wiltshire. A few miles distant is the village of Westerham; and a short distance south of the line is
 
@@ -34,88 +32,60 @@ The neighbourhood here begins to get thronged with objects of attraction suffici
 
 From Edenbridge station to the next, there are succession of agreeable prospects, diversified by a few impediments to a good view in the form of an intervening cutting.
 ----
-Distances:
-
--
-  location: Brook House
+distances:
+- location: Brook House
   miles: "1½"
--
-  location: Brusted
+- location: Brusted
   miles: "5"
--
-  location: Brusted Place
+- location: Brusted Place
   miles: "4½"
--
-  location: Buckhurst Park
+- location: Buckhurst Park
   miles: "7½"
--
-  location: Chiddingstone
+- location: Chiddingstone
   miles: "3½"
--
-  location: Chartwell
+- location: Chartwell
   miles: "3½"
--
-  location: Comb Bank
+- location: Comb Bank
   miles: "6"
--
-  location: Cowden
+- location: Cowden
   miles: "4½"
--
-  location: Cubham Wood
+- location: Cubham Wood
   miles: "7"
--
-  location: Foundling House
+- location: Foundling House
   miles: "3"
--
-  location: Four Elms
+- location: Four Elms
   miles: "1¾"
--
-  location: Hall Farm
+- location: Hall Farm
   miles: "4"
--
-  location: Hole Farm
+- location: Hole Farm
   miles: "1¾"
--
-  location: Hill Park
+- location: Hill Park
   miles: "5"
--
-  location: Hartfield
+- location: Hartfield
   miles: "7½"
--
-  location: >
+- location: >
     Hever Castle (Ralph Waldo, Esq.), in
     ruins
   miles: "4"
--
-  location: Ivy House
+- location: Ivy House
   miles: "3¼"
--
-  location: Limpsfield
+- location: Limpsfield
   miles: "5"
--
-  location: Linhurst
+- location: Linhurst
   miles: "1"
--
-  location: Mapledon
+- location: Mapledon
   miles: "2"
--
-  location: Marsh Green
+- location: Marsh Green
   miles: "1¾"
--
-  location: Oakhams
+- location: Oakhams
   miles: "2½"
--
-  location: Seven Oaks
+- location: Seven Oaks
   miles: "7½"
--
-  location: Squerries, The
+- location: Squerries, The
   miles: "3½"
--
-  location: Stanfords End
+- location: Stanfords End
   miles: "1¾"
--
-  location: Sunbridge
+- location: Sunbridge
   miles: "8"
--
-  location: Westerham
+- location: Westerham
   miles: "5"

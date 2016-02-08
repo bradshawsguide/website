@@ -10,10 +10,11 @@ company:
 route:
 - routes/london-to-brighton
 ----
-meta: A telegraph station.
-
-Money Order Office,
-: Hurst.
+notes: A telegraph station.
+----
+info:
+- term: Money Order Office
+  description: Hurst.
 ----
 text: In the vicinity are *Hurstpierpoint*, with a new church, by Barry, close to which is the tractarian college of *St. John's*, *Danny Park*, *Clayton Priory*, *Albourn Place*, the ancient seat of the Juxton family.
 

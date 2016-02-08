@@ -10,13 +10,13 @@ company:
 route:
 - routes/haywards-heath-to-lewes-and-hastings
 ----
-meta: Telegraph station at Polegate, 4 miles.
-
-Hotel.--
-: Fuller's Arms.
-
-Money Order Office
-: at Eastbourne.
+notes: Telegraph station at Polegate, 4 miles.
+----
+info:
+- term: Hotel
+  description: Fuller's Arms.
+- term: Money Order Office
+  description: at Eastbourne.
 ----
 text: A little to the north of the village of the same name.
 

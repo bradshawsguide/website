@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/three-bridges-to-horsham-and-arundel
-----
-meta:
-----
-text:

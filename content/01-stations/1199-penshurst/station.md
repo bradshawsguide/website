@@ -10,21 +10,19 @@ company:
 route:
 - routes/charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
-meta: Distance from station, 3 miles.
+notes: Distance from station, 3 miles.
 
 A telegraph station.
-
-Hotel.--
-: Leicester Arms.
-
-Post Horses, Flys, &c
-: at the station and hotel.
-
-Fair.--
-: Monday after June 24th.
-
-Money Order Office
-: at Tunbridge.
+----
+info:
+- term: Hotel
+  description: Leicester Arms.
+- term: Post Horses, Flys, &c
+  description: at the station and hotel.
+- term: Fair
+  description: Monday after June 24th.
+- term: Money Order Office
+  description: at Tunbridge.
 ----
 text: This is a small but exceedingly pretty village, celebrated for its fine old castle, the property of the Sidney family. This noble structure stands in a magnificent park, and covers a large area with its court, halls, and quadrangles. It also contains a valuable collection of paintings, which visitors, by the kindness of the noble owner, are permitted to view.
 
@@ -34,38 +32,26 @@ text: This is a small but exceedingly pretty village, celebrated for its fine ol
 
 A few miles more, in the course of which we thrice cross the winding Medway, brings us to [Tunbridge](/stations/tunbridge).
 ----
-Distances:
-
--
-  location: "Belle Vue (Col. Austen's)"
+distances:
+- location: "Belle Vue (Col. Austen's)"
   miles: "3"
--
-  location: "Chevening Park (Lord Stanhope's)"
+- location: "Chevening Park (Lord Stanhope's)"
   miles: "7"
--
-  location: Enfield Well Place
+- location: Enfield Well Place
   miles: "2"
--
-  location: Hobby Hall
+- location: Hobby Hall
   miles: "3¾"
--
-  location: "Knowle Park (Lord Amherst's)"
+- location: "Knowle Park (Lord Amherst's)"
   miles: "4"
--
-  location: Leigh Park
+- location: Leigh Park
   miles: "2½"
--
-  location: Montreal Park (Lord Holmesdale)
+- location: Montreal Park (Lord Holmesdale)
   miles: "5½"
--
-  location: Penshurst
+- location: Penshurst
   miles: "3"
--
-  location: "Penshurst Park (Lord de L'Isle Dudley)"
+- location: "Penshurst Park (Lord de L'Isle Dudley)"
   miles: "1¾"
--
-  location: Salmonds
+- location: Salmonds
   miles: "2"
--
-  location: South Park Hill
+- location: South Park Hill
   miles: "3½"

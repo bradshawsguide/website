@@ -13,6 +13,4 @@ route:
 related:
 - (wikipedia: Cranleigh railway station)
 ----
-meta:
-----
 text: Cranley, the church of which is rendered attractive by its stained windows, &c. It has the honour of conferring the title of viscount upon the Onslow family.

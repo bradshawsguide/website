@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/horsham-to-guildford
-----
-meta:
-----
-text:
