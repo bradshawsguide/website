@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/weybridge-to-chertsey
-----
-meta:
-----
-text:

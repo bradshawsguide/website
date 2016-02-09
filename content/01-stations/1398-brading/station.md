@@ -9,7 +9,7 @@ company:
 route:
 - routes/ryde-to-newchurch
 ----
-meta: Telegraph station at Sandown, 2 miles.
+notes: Telegraph station at Sandown, 2 miles.
 
 Hotels.--
 : Bugle; Wheat Sheaf.
@@ -17,10 +17,10 @@ Hotels.--
 Coaches
 : to and from Newport, daily.
 
-Market Day.--
+Market Day
 : Saturday.
 
-Fairs.--
+Fairs
 : May 1st and Sept. 21st
 
 Money Order Office

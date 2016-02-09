@@ -11,18 +11,17 @@ route:
 - routes/basingstoke-to-salisbury-and-exeter
 - routes/andover-to-redbridge
 ----
-meta: Distance from station, 1 mile.
+notes: Distance from station, 1 mile.
 
 A telegraph station.
-
-Hotel.--
-: Star and Garter.
-
-Market Day.--
-: Saturday.
-
-Fairs.--
-: Mid-Lent Saturday, May 12th, November 16th.
+----
+info:
+- term: Hotel
+  description: Star and Garter.
+- term: Market Day
+  description: Saturday.
+- term: Fairs
+  description: Mid-Lent Saturday, May 12th, November 16th.
 ----
 text: A bustling agricultural town and borough in West Hants, with a population of 5,221, represented by two members in the House of Commons. The Roman way from Winchester to Cirencester passed in this direction, and here the Romans fixed a station, which they called Andaseron; but when Etholred the Saxon was present at the baptism of Olans of Norway, it was called Andofera, whence we get the present name. One of the villages in the neighbourhood is yet named Winchester Street (stratum)--a proof of how little things have altered in the country parts of England for ages downwards.
 

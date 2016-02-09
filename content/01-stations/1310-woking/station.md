@@ -11,14 +11,14 @@ route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/woking-to-godalming-and-portsmouth
 ----
-meta: Distance from station, 1 mile
+notes: Distance from station, 1 mile
 
 A telegraph station
-
-Hotels.--
-: White Hart; Railway.
-
-Fair.--
-: Whit Tuesday.
+----
+info:
+- term: Hotels
+  description: White Hart; Railway.
+- term: Fair
+  description: Whit Tuesday.
 ----
 text: On both sides of the line Woking Common is seen to extend for miles, only broken by the windings of the Basingstoke Canal, and terminated by a long range of woodland scenery, which stands out in picturesque relief against the horizon.

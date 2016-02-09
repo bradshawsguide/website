@@ -12,13 +12,13 @@ company:
 route:
 - routes/surbiton-to-hampton-court
 ----
-meta: A telegraph station.
-
-Hotels.--
-: King's Arms, first-class, private and commercial gentlemen, family and commercial.
-
-Races.--
-: Hampton, on Moulsey Hurst, in June.
+notes: A telegraph station.
+----
+info:
+- term: Hotels
+  description: King's Arms, first-class, private and commercial gentlemen, family and commercial.
+- term: Races
+  description: Hampton, on Moulsey Hurst, in June.
 ----
 text: The situation of Hampton Court, which stands on the north bank of the Thames, about twelve miles from London, is so happily described by Pope, that we cannot resist quoting the favourite passage:--
 
@@ -37,7 +37,7 @@ The banquets and masques, so prevalent in the age of Henry VIII., were nowhere m
 
 The grand staircase and the guard chamber lead to the picture galleries, to which so many cheap catalogues furnish descriptive guides that our enumeration of their magnificent contents is unnecessary. Suffice it to say, the paintings are about 1,000 in number. Retracing our steps to the middle court, we may observe, under the archway, the flight of steps leading to Wolsey's Hall. It is 106 feet long, forty feet wide, and illuminated by thirteen windows, each fifteen feet from the ground, one of the panes of the bay window at the end, costly material and rarest workmanship, supposed to have been designed by Raphael, and are said to have formed a portion of the gifts interchanged between Henry VIII. and Francis, at the celebrated "Field of the Cloth of Gold." In the centre of the dais there is a doorway leading- to the withdrawal room.
 
-The beautiful gardens in front of the palace have been repeatedly the admiration of all visitors. They were laid out by William III., in the Dutch style, with canal and watercourses, and the compass and shears were industriously employed is making birds, beasts, and reptiles, out of yew, holly, and privet. The private gardens extend from the sides of the palace to the banks of the river, and contain, besides some remarkably fine orange trees, many of them in full bearing, a fine oak nearly forty feet in circumference, and an ancient elm called "King Charles's swing." The large space of ground on the opposite side of the palace is called "The Wilderness," and was planted with shrubs by order of William and Diary. Most of the walks are completely overshadowed, and on a hot summer day a stroll through these umbrageous paths is exceedingly inviting. In this portion of the grounds is situated the Maze, so constructed that all the paths apparently leading to the centre turn off to a more distant part, and involve the inquisitive adventurer in constant perplexity. Though we are riot quite sure that the revelation does not spoil the chief sport, the secret of success in threading this miniature labyrinth is, that after the first turning to the left the right hand should be kept to wards the fence the whole of the remaining way. 
+The beautiful gardens in front of the palace have been repeatedly the admiration of all visitors. They were laid out by William III., in the Dutch style, with canal and watercourses, and the compass and shears were industriously employed is making birds, beasts, and reptiles, out of yew, holly, and privet. The private gardens extend from the sides of the palace to the banks of the river, and contain, besides some remarkably fine orange trees, many of them in full bearing, a fine oak nearly forty feet in circumference, and an ancient elm called "King Charles's swing." The large space of ground on the opposite side of the palace is called "The Wilderness," and was planted with shrubs by order of William and Diary. Most of the walks are completely overshadowed, and on a hot summer day a stroll through these umbrageous paths is exceedingly inviting. In this portion of the grounds is situated the Maze, so constructed that all the paths apparently leading to the centre turn off to a more distant part, and involve the inquisitive adventurer in constant perplexity. Though we are riot quite sure that the revelation does not spoil the chief sport, the secret of success in threading this miniature labyrinth is, that after the first turning to the left the right hand should be kept to wards the fence the whole of the remaining way.
 
 The greatest curiosity, however, is perhaps the famous Vine, which, sheltered and nurtured in a hot-house, is 110 feet long, and, at three feet from the root, is twenty-seven inches in circumference. It bears from two to three thousand bunches of the black Hamburg grape in the season. We may now mention the arrangements made for the reception of visitors.
 

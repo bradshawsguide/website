@@ -9,11 +9,11 @@ company:
 route:
 - routes/ryde-to-the-needles
 ----
-meta: Distance from station at Portsmouth, 16 miles.
+notes: Distance from station at Portsmouth, 16 miles.
 
 Telegraph station at Newport, 1 mile.
 
-Hotel.--
+Hotel
 : The Castle.
 
 Coaches

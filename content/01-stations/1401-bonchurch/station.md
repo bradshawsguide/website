@@ -9,11 +9,11 @@ company:
 route:
 - routes/ryde-to-newchurch
 ----
-meta: Distance from station at Shanklin, 3 miles.
+notes: Distance from station at Shanklin, 3 miles.
 
 Telegraph station at Ventnor, 2 miles.
 
-Hotel.--
+Hotel
 : Bonchurch.
 
 Coaches

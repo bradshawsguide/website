@@ -11,7 +11,3 @@ company:
 route:
 - routes/reigate-to-reading
 - routes/london-to-richmond-staines-wokingham-and-reading
-----
-meta:
-----
-text: &#32;

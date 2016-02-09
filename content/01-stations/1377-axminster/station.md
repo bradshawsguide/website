@@ -10,7 +10,7 @@ company:
 route:
 - routes/basingstoke-to-salisbury-and-exeter
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
 Population,
 : 2,896.

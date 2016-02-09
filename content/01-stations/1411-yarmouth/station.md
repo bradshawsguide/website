@@ -9,11 +9,11 @@ company:
 route:
 - routes/ryde-to-the-needles
 ----
-meta: Distance from station at Southampton, 19 miles.
+notes: Distance from station at Southampton, 19 miles.
 
 A telegraph station.
 
-Hotel.--
+Hotel
 : George.
 
 Carriers
@@ -22,7 +22,7 @@ Carriers
 Steamers
 : to Lymiugton and Cowes, daily. Fares to Lymington, 1s. 6d. and 1s.; Day Tickets, 3s. To Cowes, 2s. 6d. and 1s. 6d.; Day Tickets, 4s. and 2s. 6d.
 
-Market Day.--
+Market Day
 : Friday.
 
 Fair.--

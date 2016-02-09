@@ -15,7 +15,7 @@ route:
 related:
 - (wikipedia: Eastleigh railway station)
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 ----
 text: The little village that gives name to the station is most pleasantly situated, but contains no object worthy of remark.
 

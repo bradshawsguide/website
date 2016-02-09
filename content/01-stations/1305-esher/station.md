@@ -10,7 +10,7 @@ company:
 route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 ----
 text: This is the nearest station for Esher and Claremont; the former, once a place of some importance, is now little better than an inconsiderable village. Esher Place is remarkable as having been the residence of Wolsey, when Bishop of Winchester; and a small castled turret, near the River Mole, is exhibited as the place of his temporary imprisonment.
 

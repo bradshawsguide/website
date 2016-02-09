@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/andover-to-redbridge
-----
-meta:
-----
-text:

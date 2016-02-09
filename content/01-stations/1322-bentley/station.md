@@ -10,17 +10,14 @@ company:
 route:
 - routes/guildford-to-farnham-and-alton
 ----
-meta: Distance from station, 1 mile.
+notes: Distance from station, 1 mile.
 
 A telegraph station.
-
-Market Day.--
-: Saturday.
-
-Fairs.--
-: January 25th, June 22nd, Saturday in Easter Week, October 25th.
-
-Money Order Office
-: at Alton.
 ----
-text:
+info:
+- term: Market Day
+  description: Saturday.
+- term: Fairs
+  description: January 25th, June 22nd, Saturday in Easter Week, October 25th.
+- term: Money Order Office
+  description: at Alton.

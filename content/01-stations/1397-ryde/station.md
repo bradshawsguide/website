@@ -13,7 +13,7 @@ route:
 related:
 - (wikipedia: Ryde St John's Road railway station)
 ----
-meta: Distance from station at Stokes Bay, 3 miles.
+notes: Distance from station at Stokes Bay, 3 miles.
 
 A telegraph station.
 

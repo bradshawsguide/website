@@ -10,7 +10,7 @@ company:
 route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
 Hotels.--
 : Luce's Royal; Drew's Victoria; Jeffries.

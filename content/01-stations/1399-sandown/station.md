@@ -9,7 +9,7 @@ company:
 route:
 - routes/ryde-to-newchurch
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
 Hotels.--
 : Star and Garter (Hale's).

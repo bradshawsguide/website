@@ -10,7 +10,7 @@ company:
 route:
 - routes/staines-to-windsor
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
 Hotels.--
 : Castle; White Hart
@@ -18,7 +18,7 @@ Hotels.--
 Market Days.--
 : Wednesday and Saturday
 
-Fairs.--
+Fairs
 : Easter Tuesday, July 5th, and October 25th.
 ----
 text:

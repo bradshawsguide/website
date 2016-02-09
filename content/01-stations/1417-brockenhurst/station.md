@@ -11,7 +11,7 @@ route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/brockenhurst-to-lymington
 ----
-meta: Distance from station, 1 mile.
+notes: Distance from station, 1 mile.
 
 A telegraph station.
 

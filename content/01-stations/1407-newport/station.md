@@ -12,11 +12,11 @@ route:
 related:
 - (wikipedia: Newport railway station IoWCR Isle of Wight)
 ----
-meta: Distance from station at Portsmouth, 15 miles.
+notes: Distance from station at Portsmouth, 15 miles.
 
 A telegraph station.
 
-Hotel.--
+Hotel
 : Bugle; Star; Green Dragon.
 
 Coaches
@@ -25,10 +25,10 @@ Coaches
 Boat
 : between Wootton Bridge and Portsmouth, daily.
 
-Market Day.--
+Market Day
 : Saturday (Corn), and every other Saturday (Cattle)
 
-Fairs.--
+Fairs
 : Whitsuntide and Michaelmas.
 ----
 text: Newport, the capital of the Island, a clean, well built, country town, in a hollow, on the river Medina which divides the Island nearly in halves. Cracknell biscuits are manufactured here; but Cowes is the real place where they were first made. Population 8,047. It sends two members to parliament. Town Hall built 1816, by Nash. Old church, in which Charles I.'s daughter Elizabeth is buried. Large House of Industry for the Island, on the Cowes road; not far from the Albany barracks, whither recruits are sent for exercise, and the Parkhurst Reformatory for boys.

@@ -13,7 +13,7 @@ route:
 - routes/woking-to-godalming-and-portsmouth
 - routes/bishopstoke-to-gosport-and-portsmouth
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
 Population,
 : 94,799.

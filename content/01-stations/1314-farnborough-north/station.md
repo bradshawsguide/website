@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/reigate-to-reading
-----
-meta:
-----
-text:

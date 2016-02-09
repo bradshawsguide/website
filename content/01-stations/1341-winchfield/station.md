@@ -10,13 +10,13 @@ company:
 route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-meta: Telegraph station at Farnborough, 6 miles.
-
-Hotel.--
-: Beauclerk Arms.
-
-Omnibuses
-: to Odiham, North Warnborough, Hartley, Hartley Row, Hartford Bridge, Wintney and Phoenix, five times daily, and to Bromhill, Hickfield, Strathfieldsaye, and Wokingham.
+notes: Telegraph station at Farnborough, 6 miles.
+----
+info:
+- term: Hotel
+  description: Beauclerk Arms.
+- term: Omnibuses
+  description: to Odiham, North Warnborough, Hartley, Hartley Row, Hartford Bridge, Wintney and Phoenix, five times daily, and to Bromhill, Hickfield, Strathfieldsaye, and Wokingham.
 ----
 text: Leaving the station we enter a deep excavation, and soon after a short tunnel; a lofty embankment follows, which presents us with a series of delightful prospects, amongst which the Odiham hills and their singular clump of trees on the summit figure conspicuously on the left.
 

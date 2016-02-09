@@ -11,7 +11,7 @@ route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/southampton-to-netley
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
 Population,
 : 46,960.
@@ -28,7 +28,7 @@ Steamers
 Market Days.--
 : Tuesday, Thursday, Friday, and Saturday.
 
-Fairs.--
+Fairs
 : May 6th, Trinity Fair in Trinity week.
 ----
 text: The station, which is close to the quay, and has a commanding position on the banks of the Southampton Water, is admirably adapted for the convenience of passengers. On his way to the High-street, the traveller will obtain a favourable view of the picaresque bay. Bounded on one side by the sheltering glades of The New Forest, and opening on the other to the Channel and the Isle of Wight, a series of beautiful views meet the eye, which cannot fail to charm by their exquisite contrast and variety.

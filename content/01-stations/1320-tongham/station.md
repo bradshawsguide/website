@@ -10,6 +10,4 @@ company:
 route:
 - routes/guildford-to-farnham-and-alton
 ----
-meta:
-----
 text: Tongham, station for Aldershott.

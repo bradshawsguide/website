@@ -9,11 +9,11 @@ company:
 route:
 - routes/ryde-to-newchurch
 ----
-meta: Distance from station at Portsmouth, 24 miles.
+notes: Distance from station at Portsmouth, 24 miles.
 
 Telegraph station at Ventnor, 2 miles.
 
-Hotel.--
+Hotel
 : St. Lawrence.
 
 Coaches

@@ -15,25 +15,21 @@ route:
 - routes/woking-to-godalming-and-portsmouth
 - routes/guildford-to-farnham-and-alton
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
-Population,
-: 8,020.
-
-Hotels.--
-: White Lion and White Hart.
-
-Omnibuses
-: to and from the station.
-
-Post Horses, Flys, &c
-: at the station and hotels.
-
-Market Days.--
-: Saturday,Tuesday, & Wednesday.
-
-Fairs.--
-: May 4th and November 22nd.
+Population: 8,020.
+----
+info:
+- term: Hotels
+  description: White Lion and White Hart.
+- term: Omnibuses
+  description: to and from the station.
+- term: Post Horses, Flys, &c
+  description: at the station and hotels.
+- term: Market Days
+  description: Saturday,Tuesday, & Wednesday.
+- term: Fairs
+  description: May 4th and November 22nd.
 ----
 text: The situation of this town on the banks of the Wey, and spreading over the steep hill as it rises from the side of the river, is particularly picturesque. It consists of a principal street, nearly a mile long from the bridge on the west to Stoke on the east, whence several smaller streets extend into the suburbs.
 
@@ -41,74 +37,50 @@ text: The situation of this town on the banks of the Wey, and spreading over the
 
 Two miles to the eastward of the town is a fine circular race-course. The roads in the neighbourhood are extremely picturesque—that from Guildford to Farnham in particular, running along a ridge of high chalk hills, and thus commanding an extensive prospect. The trade of the town is considerable, from its central situation and convenient distance from the metropolis. The guild or town-hall and the corn market are handsome buildings.
 ----
-Distances:
-
--
-  location: Arlington
+distances:
+- location: Arlington
   miles: "1¾"
--
-  location: "Catherine's Hill"
+- location: "Catherine's Hill"
   miles: "¾"
--
-  location: Compton
+- location: Compton
   miles: "2½"
--
-  location: Clandon Park
+- location: Clandon Park
   miles: "2¾"
--
-  location: Gang Hill
+- location: Gang Hill
   miles: "1½"
--
-  location: Gosden
+- location: Gosden
   miles: "3"
--
-  location: Halfpenny House
+- location: Halfpenny House
   miles: "1½"
--
-  location: Henley Park
+- location: Henley Park
   miles: "3¾"
--
-  location: "Hog's Back"
+- location: "Hog's Back"
   miles: "3¼"
--
-  location: Littleton
+- location: Littleton
   miles: "1½"
--
-  location: Losely House
+- location: Losely House
   miles: "2"
--
-  location: Merrow Race Course
+- location: Merrow Race Course
   miles: "2½"
--
-  location: Newark Abbey
+- location: Newark Abbey
   miles: "5"
--
-  location: New Warren
+- location: New Warren
   miles: "1½"
--
-  location: Northbrook Place
+- location: Northbrook Place
   miles: "3¼"
--
-  location: Pepper Harrow
+- location: Pepper Harrow
   miles: "6"
--
-  location: Puttenham
+- location: Puttenham
   miles: "4½"
--
-  location: Shalford House
+- location: Shalford House
   miles: "2"
--
-  location: Stoke
+- location: Stoke
   miles: "1"
--
-  location: Sutton Park
+- location: Sutton Park
   miles: "2¾"
--
-  location: Westbrook Place
+- location: Westbrook Place
   miles: "3"
--
-  location: Wonersh
+- location: Wonersh
   miles: "3"
--
-  location: Worplesdon
+- location: Worplesdon
   miles: "3"

@@ -10,12 +10,12 @@ company:
 route:
 - routes/bishopstoke-to-salisbury
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
-Hotel.--
+Hotel
 : White Horse.
 
-Market Day.--
+Market Day
 : Thursday.
 
 Fates.--

@@ -11,15 +11,15 @@ route:
 - routes/bishopstoke-to-gosport-and-portsmouth
 - routes/fareham-to-gosport
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
 Population,
 : 4,O11.
 
-Hotel.--
+Hotel
 : Red Lion.
 
-Market Day.--
+Market Day
 : Tuesday.
 
 Fare.--

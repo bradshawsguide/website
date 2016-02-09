@@ -9,14 +9,14 @@ company:
 route:
 - routes/ryde-to-the-needles
 ----
-meta: Distance from station at Southampton, 11 miles.
+notes: Distance from station at Southampton, 11 miles.
 
 A telegraph station.
 
 Population,
 : 5,482.
 
-Hotel.--
+Hotel
 : Fountain.
 
 Coaches

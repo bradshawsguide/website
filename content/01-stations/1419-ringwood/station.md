@@ -11,17 +11,17 @@ route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/ringwood-to-christchurch
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
 On the borders of the New Forest.
 
-Hotel.--
+Hotel
 : White Hart.
 
-Market Day.--
+Market Day
 : Wednesday.
 
-Fairs.--
+Fairs
 : July 10th and December 11th.
 ----
 text: The town is situated on the Avon, on the borders of the New Forest, and forms the junction of a short line, about seven miles in length.

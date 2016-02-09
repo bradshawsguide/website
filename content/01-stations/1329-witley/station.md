@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/woking-to-godalming-and-portsmouth
-----
-meta:
-----
-text:

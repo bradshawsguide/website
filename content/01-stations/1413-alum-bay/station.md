@@ -9,7 +9,7 @@ company:
 route:
 - routes/ryde-to-the-needles
 ----
-meta: Hotels.--
+notes: Hotels.--
 : Needles Hotel and boarding house.
 
 Steamers

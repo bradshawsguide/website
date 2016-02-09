@@ -11,7 +11,7 @@ route:
 - routes/london-to-southampton-dorchester-and-weymouth
 - routes/guildford-to-farnham-and-alton
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
 Population,
 : 14,776.
@@ -22,7 +22,7 @@ Hotels.--
 Market Days.--
 : Wednesdays and Saturdays.
 
-Fairs.--
+Fairs
 : First Monday in Lent, and October 24th.
 
 Races

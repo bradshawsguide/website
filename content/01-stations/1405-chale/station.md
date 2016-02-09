@@ -9,11 +9,11 @@ company:
 route:
 - routes/ryde-to-newchurch
 ----
-meta: Distance from station at Portsmouth, 29 miles.
+notes: Distance from station at Portsmouth, 29 miles.
 
 Telegraph station at Ventuor, 6½ miles.
 
-Hotel.--
+Hotel
 : Chine.
 
 Coaches

@@ -9,7 +9,7 @@ company:
 route:
 - routes/ryde-to-the-needles
 ----
-meta: Distance from station at Portsmouth, 24 miles.
+notes: Distance from station at Portsmouth, 24 miles.
 
 Telegraph station at Yarmouth, 2 miles.
 

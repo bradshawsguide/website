@@ -10,7 +10,7 @@ company:
 route:
 - routes/bishopstoke-to-gosport-and-portsmouth
 ----
-meta: Telegraph station at Fareham, 3 miles.
+notes: Telegraph station at Fareham, 3 miles.
 
 Money Order Office
 : at Fareham.

@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/guildford-to-farnham-and-alton
-----
-meta:
-----
-text:

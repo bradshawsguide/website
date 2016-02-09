@@ -9,7 +9,7 @@ company:
 route:
 - routes/ryde-to-newchurch
 ----
-meta: A telegraph station.
+notes: A telegraph station.
 
 Hotels.--
 : Daish's and Williams'.

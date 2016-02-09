@@ -9,7 +9,7 @@ company:
 route:
 - routes/ryde-to-newchurch
 ----
-meta: Distance from station at Sandown, 3 miles.
+notes: Distance from station at Sandown, 3 miles.
 
 Telegraph station at Newport, 6 miles.
 
