@@ -12,15 +12,14 @@ route:
 notes: Distance from station at Portsmouth, 29 miles.
 
 Telegraph station at Ventuor, 6½ miles.
-
-Hotel
-: Chine.
-
-Coaches
-: to and from Ryde and Newport, daily.
-
-Money Order Office
-: at Ventnor.
+----
+info:
+- term: Hotel
+  description: Chine.
+- term: Coaches
+  description: to and from Ryde and Newport, daily.
+- term: Money Order Office
+  description: at Ventnor.
 ----
 text: Blackgang Chine is a gap in the cliff, which hangs over the beach in Chale Bay. It is bare and somewhat dark-looking, with an iron spring trickling through it. The highest point is 600 or 700 feet, making it a tiresome job to ascend or descend the steps cut in the side on a summer's day. But it is worth while to go down to the beach to watch the great waves as they roll in, especially if it is at all windy. Here the poor "Clarendon" came ashore.
 
@@ -32,25 +31,20 @@ From Chale back to Ryde across the Island is through a pleasant but much less st
 
 Godshill church, in which the Worsleys are buried, has a good pinnacled tower. *Appuldercombe*, their delightful seat, is to the right. It can be visited on Tuesdays and Fridays, from 11 to 4, by ticket only; to be had of T. Sewel, Esq., Newport. It contains a good collection of paintings, sculptures, and drawings. Before you get to Newchurch, a turning to the left, you pass the cottage of the Dairyman's Daughter, Arreton church, in which she is buried, and the Hare and Hounds, a neat tidy little country inn, close to which is a point from which the view corresponds to one described by Legh Richmond in his interesting work.
 ----
-Distances:
-
--
-  location: |
+distances:
+- location: |
     Chale Bay
     *Where the Clarendon was lost.*
   miles: "¾"
--
-  location: |
+- location: |
     Churchyard
     *Graves of the crew of the Clarendon*
   miles: "¼"
--
-  location: |
+- location: |
     Pitland Land Slip
     *Took place in 1799*
   miles: "1"
--
-  location: |
+- location: |
     St. Catharine's Pillar
     *In honour of the visit of a Russian Prince to the Island.*
   miles: "¾"

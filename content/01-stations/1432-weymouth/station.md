@@ -11,19 +11,18 @@ route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
 notes: A telegraph station.
-
-Hotels
-: Luce's Royal; Drew's Victoria; Jeffries.
-
-Market Days
-: Tuesday and Friday.
-
-Races.--
-: In September.
+----
+info:
+- term: Hotels
+  description: Luce's Royal; Drew's Victoria; Jeffries.
+- term: Market Days
+  description: Tuesday and Friday.
+- term: Races
+  description: In September.
 ----
 text: Nothing can be more striking and picturesque than the situation of this delightful watering-place. The town is built-on the western shore of one of the finest bays in the English Channel, and being separated into two parts by the river, which forms a commodious harbour, it is most conveniently situated for trade. Population, 11,383.
 
-A long and handsome bridge of two arches, constructed of stone, with a swivel in the centre, was erected in 1820, and thus the divided townships enjoy a communication. The town, especially on the Melcombe side of the harbour, is regularly built, and consists chiefly of two principal streets, parallel with each other, intersected with others at right angles; it is well paved and lighted, and is tolerably supplied with fresh water. 
+A long and handsome bridge of two arches, constructed of stone, with a swivel in the centre, was erected in 1820, and thus the divided townships enjoy a communication. The town, especially on the Melcombe side of the harbour, is regularly built, and consists chiefly of two principal streets, parallel with each other, intersected with others at right angles; it is well paved and lighted, and is tolerably supplied with fresh water.
 
 Since the town has become a place of fashionable resort for sea-bathing, various handsome ranges of building, and a theatre, assembly rooms, and other places of public entertainment, have been erected, and these are now rapidly extending and increasing in every direction. The principal of these are Belvidere, the Crescent, Gloucester Row, Royal Terrace, Chesterfield Place, York Buildings, Charlotte Row, Augusta Place; and Clarence, Pulteney, and Devonshire Buildings, are conspicuous; to which may perhaps be added Brunswick Buildings, a handsome range of houses at the entrance of the town. From the windows of these buildings, which front the sea, a most extensive and delightful view is obtained, comprehending on the left a noble range of hills and cliffs, extending for many miles in a direction from west to east, and of the sea in front, with the numerous vessels, yachts, and pleasure boats, which are continually entering and leaving the harbour.
 

@@ -13,23 +13,19 @@ notes: Distance from station at Southampton, 11 miles.
 
 A telegraph station.
 
-Population,
-: 5,482.
-
-Hotel
-: Fountain.
-
-Coaches
-: to and from Ryde and Newport, daily.
-
-Vessels.--
-: The rendezvous of ships of all nations for orders.
-
-Steam Vessels
-: to Portsmouth, Ryde, and Southampton, six times a day; to Yarmouth, once daily.
-
-Regatta
-: in August.
+Population: 5,482.
+----
+info:
+- term: Hotel
+  description: Fountain.
+- term: Coaches
+  description: to and from Ryde and Newport, daily.
+- term: Vessels
+  description: The rendezvous of ships of all nations for orders.
+- term: Steam Vessels
+  description: to Portsmouth, Ryde, and Southampton, six times a day; to Yarmouth, once daily.
+- term: Regatta
+  description: in August.
 ----
 text: Cowes, five miles from Newport. An immense quantity of shipping call off here annually, from all parts of the globe, for orders from their owners or consignees, as to the destination of their cargoes; and in the winter months fleets of merchantmen of all nations rendezvous here weatherbound.
 
@@ -37,51 +33,36 @@ It lies at the mouth of the Medina and is a stirring port, noted for its shipbui
 
 On the beach are bathing machines, and it is much visited by fashionable company.
 ----
-Distances:
-
--
-  location: Barton
+distances:
+- location: Barton
   miles: "2"
--
-  location: Baskets
+- location: Baskets
   miles: "1¾"
--
-  location: East Cowes
+- location: East Cowes
   miles: "¾"
--
-  location: |
+- location: |
     East Cowes Castle
     *Earl of Shannon.*
   miles: "1½"
--
-  location: Egypt
+- location: Egypt
   miles: "1"
--
-  location: Gurnet Farm
+- location: Gurnet Farm
   miles: "1"
--
-  location: "King's Key"
+- location: "King's Key"
   miles: "3"
--
-  location: Kingston
+- location: Kingston
   miles: "1½"
--
-  location: Noder
+- location: Noder
   miles: "1½"
--
-  location: Northwood
+- location: Northwood
   miles: "1½"
--
-  location: |
+- location: |
     Northwood House
     *Now a School.*
   miles: "½"
--
-  location: Osborne
+- location: Osborne
   miles: "1¼"
--
-  location: West Cowes House
+- location: West Cowes House
   miles: "¼"
--
-  location: Yacht Club House
+- location: Yacht Club House
   miles: "½"

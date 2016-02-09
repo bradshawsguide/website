@@ -7,7 +7,3 @@ region: Dorsetshire
 company:
 ----
 route:
-----
-meta:
-----
-text:

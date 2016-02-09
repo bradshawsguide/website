@@ -12,15 +12,14 @@ route:
 notes: Distance from station at Portsmouth, 16 miles.
 
 Telegraph station at Newport, 1 mile.
-
-Hotel
-: The Castle.
-
-Coaches
-: to and from Newport, Cowes, and Ryde, daily.
-
-Money Order Office
-: at Newport.
+----
+info:
+- term: Hotel
+  description: The Castle.
+- term: Coaches
+  description: to and from Newport, Cowes, and Ryde, daily.
+- term: Money Order Office
+  description: at Newport.
 ----
 text: Carisbrooke, the former capital, where the governor used to reside. Old Church, close to some slight traces of a priory, founded after the Conquest, by William Fitz-Osborne, a Norman Knight, who built the *Castle*. This stands on a hill beyond the village and, including the wards, occupies a site of two acres within the walls. The fine gateway is machicolated, *i.e.*, provided with slits for shooting arrows, &c., down on any one below. The keep commands a good view. There are some remains of the outer walls and towers; and they show (but this is doubtful) the window through which the unfortunate Charles I. tried to make his escape when imprisoned here 1648, in Colonel Hamond's charge.
 
@@ -28,29 +27,20 @@ A modern-built chapel and the barracks are disused. There is a well 200 feet dee
 
 At *Swainstone*, the seat of J. Simeon, Esq., a road turns off to *Newtown*, on a low creek of the Solent. It was a parliamentary borough till the reform bill disfranchised it; the town hall remains. The church was rebuilt 1837. All this coast is low and the least interesting of any in the Island.
 ----
-Distances:
-
--
-  location: "Atherfield"
+distances:
+- location: "Atherfield"
   miles: "6"
--
-  location: "Calbourne"
+- location: "Calbourne"
   miles: "4"
--
-  location: "Castle, The"
+- location: "Castle, The"
   miles: "½"
--
-  location: "Chillerton"
+- location: "Chillerton"
   miles: "3"
--
-  location: "Church, Old"
+- location: "Church, Old"
   miles: "¼"
--
-  location: "Gatcombe"
+- location: "Gatcombe"
   miles: "2"
--
-  location: "Newport"
+- location: "Newport"
   miles: "1"
--
-  location: "Well, The"
+- location: "Well, The"
   miles: "6½"

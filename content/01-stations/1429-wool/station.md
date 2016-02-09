@@ -10,6 +10,4 @@ company:
 route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
-meta:
-----
 text: Wool, near which are the ruins of Bindon Abbey.

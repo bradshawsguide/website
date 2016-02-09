@@ -9,44 +9,36 @@ company:
 route:
 - routes/ryde-to-the-needles
 ----
-notes: Hotels
-: Needles Hotel and boarding house.
-
-Steamers
-: to Lymington, thence per rail to Brockenhurst.
+info:
+- term: Hotels
+  description: Needles Hotel and boarding house.
+- term: Steamers
+  description: to Lymington, thence per rail to Brockenhurst.
 ----
 text: The cliffs on one side are white, and on the other are curiously variegated with strata of ochre, fuller's earth, grey and white sand, &c. Here large prawns are found. The cliffs gradually fall to Gary's Sconce, where a strong fort is being constructed. Copperas stones, lignite, or wood coal, alum, pipe day, shells, and fossils are discovered in this quarter of the Island.
 ----
-Distances:
-
--
-  location: |
+distances:
+- location: |
     Alum Bay
     *Arched Rock (600 feet)*
   miles: "2¾"
--
-  location: |
+- location: |
     Cary's Stone
     *A Fort has been erected here.*
   miles: "2"
--
-  location: |
+- location: |
     Light House
     *715 feet above the level of the sea.*
   miles: "2½"
--
-  location: |
+- location: |
     Neptune's Cave
     *200 feet.*
   miles: "3¼"
--
-  location: Neshanter Cave
+- location: Neshanter Cave
   miles: "3½"
--
-  location: |
+- location: |
     Parsonage, The
     *Birth place of Dr. Hook, the philosopher.*
   miles: "2"
--
-  location: "Scratchell's Cave"
+- location: "Scratchell's Cave"
   miles: "2"

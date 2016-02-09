@@ -12,15 +12,13 @@ route:
 notes: Distance from station at Shanklin, 5 miles.
 
 A telegraph station.
-
-Hotels
-: Royal--first-class hotel and boarding establishment, of a superior description; Marine--first-class family and commercial house. Esplanade Hotel and Boarding House, situated on the beach near the sea, and close to the Baths.
-
-Coaches
-: to and from Ryde, Cowes, and Newport, daily.
-
-Market Day
-: Saturday.
+----
+- term: Hotels
+  description: Royal--first-class hotel and boarding establishment, of a superior description; Marine--first-class family and commercial house. Esplanade Hotel and Boarding House, situated on the beach near the sea, and close to the Baths.
+- term: Coaches
+  description: to and from Ryde, Cowes, and Newport, daily.
+- term: Market Day
+  description: Saturday.
 ----
 text: Ventnor, the capital of Undercliff, had no existence 40 years ago, but is now a respectable town, with a population of 3,208. This is owing to its delightful situation in front of the sea, and being protected by the cliffs behind. Trees have not grown so fast as houses, which being of stone have a white glare in the summer sunshine; but it is in winter that its peculiar advantages are felt by the invalid, who then enjoys a climate not to be had in any other part of England except Torquay. Lodgings are abundant and moderate. Myrtles, fuchsias, and other plants grow to a large size. The Downs behind, affording endless rambles, are covered with heath and thyme. Houses occupy every accessible spot up and down the cliffs, with the Channel and the shipping perpetually in view. There is a new church, with assembly rooms, baths, &c. A fine, pebbly beach below, and attractive walks of all lands.
 
@@ -30,41 +28,30 @@ About three miles inland is **Appuldercombe,** the seat of the Earl of Yarboroug
 
 From Ventnor to Black Gang the road winds along through *Undercliff*, among rocks, gardens, fields, seats, farm-houses, &c., dispersed most picturesquely about in a rocky ledge or strand formed by successive landslips from the neighbouring cliff, which rises up like a wall on your right, 100 to 150 feet high, the road itself being nearly as much above the sea, to your left. It is worth while to walk along the edge of this cliff for the sake of the panorama to be obtained of the scene below. Do lot take this path at Ventnor, as it may be reached by leaving the road near St. Lawrence's Well, and walking up the steps cut in the face of the cliff. A footpath also winds close to the sea out of sight of the road.
 ----
-Distances:
-
--
-  location: Blackgang
+distances:
+- location: Blackgang
   miles: "7"
--
-  location: |
+- location: |
     Luccombe Chine
     *Visited by the Queen and Prince Albert.*
   miles: "½"
--
-  location: Mirables
+- location: Mirables
   miles: "3½"
--
-  location: |
+- location: |
     Sand Rock
     *Here is a capital Hotel.*
   miles: "4"
--
-  location: Shanklin
+- location: Shanklin
   miles: "2"
--
-  location: Steephill
+- location: Steephill
   miles: "½"
--
-  location: |
+- location: |
     St. Boniface Down
     *600 feet high.*
   miles: "½"
--
-  location: Undercliff
+- location: Undercliff
   miles: "2"
--
-  location: Ventnor Cove
+- location: Ventnor Cove
   miles: "½"
--
-  location: Wishing Well
+- location: Wishing Well
   miles: "¾"

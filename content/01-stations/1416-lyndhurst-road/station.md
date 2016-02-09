@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/london-to-southampton-dorchester-and-weymouth
-----
-meta:
-----
-text:

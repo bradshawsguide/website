@@ -11,15 +11,14 @@ route:
 - routes/london-to-southampton-dorchester-and-weymouth
 ----
 notes: A telegraph station.
-
-Hotels
-: King's Arms; Antelope.
-
-Market Days
-: Wednesday and Saturday.
-
-Fairs
-: February 14th, Trinity Monday, July 6th, August 6th, and September 29th.
+----
+info:
+- term: Hotels
+  description: King's Arms; Antelope.
+- term: Market Days
+  description: Wednesday and Saturday.
+- term: Fairs
+  description: February 14th, Trinity Monday, July 6th, August 6th, and September 29th.
 ----
 text: The station is about a quarter of a mile from the town, well situated, and neat in its arrangements, the arrival and departure platforms and coverings being complete, and well ordered in every respect.
 
