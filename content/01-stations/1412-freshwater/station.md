@@ -13,7 +13,7 @@ notes: Distance from station at Portsmouth, 24 miles.
 
 Telegraph station at Yarmouth, 2 miles.
 
-Hotels.--
+Hotels
 : Lambert's Hotel; Royal Albion.
 
 Coaches

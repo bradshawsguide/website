@@ -12,10 +12,10 @@ route:
 ----
 notes: A telegraph station.
 
-Hotels.--
+Hotels
 : Luce's Royal; Drew's Victoria; Jeffries.
 
-Market Days.--
+Market Days
 : Tuesday and Friday.
 
 Races.--

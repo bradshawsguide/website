@@ -12,10 +12,10 @@ route:
 ----
 notes: A telegraph station.
 
-Hotels.--
+Hotels
 : King's Arms; Antelope.
 
-Market Days.--
+Market Days
 : Wednesday and Saturday.
 
 Fairs

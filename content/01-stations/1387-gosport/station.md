@@ -12,20 +12,17 @@ route:
 ----
 notes: A telegraph station.
 
-Population,
-: 7,789.
-
-Hotel
-: Crown.
-
-Steam Boats
-: to Hyde, Cowes, and Southampton.
-
-Market Day
-: Thursday.
-
-Fairs
-: May 4th and October 10th.
+Population: 7,789.
+----
+info:
+- term: Hotel
+  description: Crown.
+- term: Steam Boats
+  description: to Hyde, Cowes, and Southampton.
+- term: Market Day
+  description: Thursday.
+- term: Fairs
+  description: May 4th and October 10th.
 ----
 text: Gosport, in the reign of Henry VIII., was merely a miserable village, inhabited by poor fishermen, and its present importance may justly be ascribed to its convenient situation on the western side of Portsmouth harbour, and its contiguity to the Royal Naval Arsenal. The stores, fortifications, and long range efforts, all formed about the commencement of the present century, give a very forcible idea of the value attached to its commanding position; but the streets, narrow and dirty, have anything but a prepossessing appearance to a stranger.
 

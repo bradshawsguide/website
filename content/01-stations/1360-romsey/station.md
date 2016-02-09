@@ -11,15 +11,14 @@ route:
 - routes/bishopstoke-to-salisbury
 ----
 notes: A telegraph station.
-
-Hotel
-: White Horse.
-
-Market Day
-: Thursday.
-
-Fates.--
-: Easter Monday, August 16th, November 18th, and every Tuesday fortnight, from July 31st to December 25th.
+----
+info:
+- term: Hotel
+  description: White Horse.
+- term: Market Day
+  description: Thursday.
+- term: Fates
+  description: Easter Monday, August 16th, November 18th, and every Tuesday fortnight, from July 31st to December 25th.
 ----
 text: Like many other places of great antiquity, Romsey owes its foundation to a monastic establishment. Edward here founded a Benedictine abbey on a very extensive scale and appointed his daughter abbess.
 

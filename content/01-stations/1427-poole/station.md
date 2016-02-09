@@ -20,7 +20,7 @@ Hotel
 Omnibuses
 : to and from Parkstone, and Bournemouth.
 
-Market Days.--
+Market Days
 : Monday and Thursday.
 
 Fairs

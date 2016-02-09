@@ -12,7 +12,6 @@ route:
 ----
 notes: A telegraph station.
 
-Population,
-: 2,896.
+Population: 2,896.
 ----
 text: Situated on the river Axe. Some of the best and finest description of carpets are made here.

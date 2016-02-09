@@ -14,8 +14,7 @@ related:
 - (wikipedia: Mottisfont & Dunbridge railway station)
 ----
 notes: Telegraph station at Romsey, 4½ miles.
-
-Money Order Office
-: at Romsey.
 ----
-text:
+info:
+- term: Money Order Office
+  description: at Romsey.

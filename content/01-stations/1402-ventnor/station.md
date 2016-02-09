@@ -13,7 +13,7 @@ notes: Distance from station at Shanklin, 5 miles.
 
 A telegraph station.
 
-Hotels.--
+Hotels
 : Royal--first-class hotel and boarding establishment, of a superior description; Marine--first-class family and commercial house. Esplanade Hotel and Boarding House, situated on the beach near the sea, and close to the Baths.
 
 Coaches

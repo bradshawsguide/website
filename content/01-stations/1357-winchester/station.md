@@ -16,10 +16,10 @@ notes: A telegraph station.
 Population,
 : 14,776.
 
-Hotels.--
+Hotels
 : The. George ; Black Swan.
 
-Market Days.--
+Market Days
 : Wednesdays and Saturdays.
 
 Fairs

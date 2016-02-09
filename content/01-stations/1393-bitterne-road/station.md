@@ -11,7 +11,3 @@ company:
 ----
 route:
 - routes/southampton-to-netley
-----
-meta:
-----
-text:

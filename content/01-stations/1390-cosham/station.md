@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/bishopstoke-to-gosport-and-portsmouth
-----
-meta:
-----
-text:

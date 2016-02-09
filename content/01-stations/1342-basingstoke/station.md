@@ -16,7 +16,7 @@ notes: A telegraph station.
 info:
 - term: Hotels
   description: Angel; Red Lion; Wheat Sheaf.
-- term: Market Days.--
+- term: Market Days
   description: Wednesday and Saturday.
 - term: Fairs
   description: Easter Tuesday, Wednesday in Whitsun Week, September 23rd and October 10th.

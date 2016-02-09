@@ -12,10 +12,10 @@ route:
 ----
 notes: A telegraph station.
 
-Hotels.--
+Hotels
 : Castle; White Hart
 
-Market Days.--
+Market Days
 : Wednesday and Saturday
 
 Fairs

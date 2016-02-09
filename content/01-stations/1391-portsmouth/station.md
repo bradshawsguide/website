@@ -15,20 +15,16 @@ route:
 ----
 notes: A telegraph station.
 
-Population,
-: 94,799.
-
-Hotels.--
-: The Fountain; the York; Pier.
-
-Omnibuses
-: to and from the station.
-
-Steam Bridge
-: to Gosport every half hour.
-
-Market Days.--
-: Thursday and Saturday.
+Population: 94,799.
+----
+- term: Hotels
+  description: The Fountain; the York; Pier.
+- term: Omnibuses
+  description: to and from the station.
+- term: Steam Bridge
+  description: to Gosport every half hour.
+- term: Market Days
+  description: Thursday and Saturday.
 ----
 text: Portsmouth, the first naval port in the British Islands, and a parliamentary borough &c., 75 miles, from London by the South Western Line or 95 by way of the Brighton and South Coast Line.
 
@@ -52,7 +48,7 @@ Several ships in "ordinary," *i. e.*, laid by for future occasion, are moored up
 
 To this anchorage, Hawke, Howe, St. Vincent, Exmouth, &c., brought their prizes after their various triumphs. One buoy marks where the "Royal George," with Admiral Kempenfeldt and 300 seamen, besides women and landsmen, sunk at her anchors, 1782: only a few escaped, one of whom was the late Sir P. Durham. Her hull, after lying whole at the bottom of the sea, was at length blown up by electricity, in 1839; articles are still sold at Portsmouth as made from her well-seasoned timbers. The Royal William, or old Billy, flag-ship, used to lie here; when broken up she was above 100 years old. Osborne House, the seat of Her Majesty, Ryde, and other beautiful parts of the Isle of W^ght, are here easily discerned; also vessels lying at the Motherbank, close to the Island; and Stokes Bay, where the rate of steamers is tried, at which place it is contemplated to erect a floating steam bridge, so as to connect the Isle of Wight with the intended line from hence to the Gosport station.
 
-Within a short distance from Portsmouth, excursions may be made to the *Isle of Wight* (see page 87) and the following places:—*Porchester Castle*, at the top of Portsmouth harbour, can be reached by boat (the pleasantest way, passing all the men of war), or by railway. It is the *Portus Magnus* of the Romans, and stands under Portsdown Hill. To the genuine walls, 8 to 12 feet thick, of the original founders, a great square keep, and other additions, some as late as Queen Elizabeth's reign, have been added. In one corner of the space they enclose (about 620 feet square) is an ancient church. A pretty walk, through the village, ends up to the Nelson Obelisk on the Portsdown Hill. This chalk ridge is 400 to 500 feet high, and has several good points of view, embracing the port and sea to the south, and a richly wooded tract to the north, most of which belongs to the Thistlethwaytes of Southwick, where are some remains of a priory in which Henry VI. was married to Margaret of Anjou. 
+Within a short distance from Portsmouth, excursions may be made to the *Isle of Wight* (see page 87) and the following places:—*Porchester Castle*, at the top of Portsmouth harbour, can be reached by boat (the pleasantest way, passing all the men of war), or by railway. It is the *Portus Magnus* of the Romans, and stands under Portsdown Hill. To the genuine walls, 8 to 12 feet thick, of the original founders, a great square keep, and other additions, some as late as Queen Elizabeth's reign, have been added. In one corner of the space they enclose (about 620 feet square) is an ancient church. A pretty walk, through the village, ends up to the Nelson Obelisk on the Portsdown Hill. This chalk ridge is 400 to 500 feet high, and has several good points of view, embracing the port and sea to the south, and a richly wooded tract to the north, most of which belongs to the Thistlethwaytes of Southwick, where are some remains of a priory in which Henry VI. was married to Margaret of Anjou.
 
 Near Purbrook is *Merchistoun*, the seat of the late Admiral Sir Charles Napier, not far off the mansion of his cousin, the late General Sir C. Napier, the conqueror of Scinde. *Leigh Park*, near Havant, the seat of Sir G. Staunton, Bart. From Havant, at the east end of Portsdown, looking down on Chichester Cathedral, there is a bridge to Hayling Island, a flat pasture tract like its neighbour, and separated from it by Langstone harbour. A quiet bathing place has been established at Hayling. Portsdown Fair begins July 26th.
 

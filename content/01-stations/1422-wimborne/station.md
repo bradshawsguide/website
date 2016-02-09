@@ -18,7 +18,7 @@ A telegraph station.
 Population,
 : 2,271.
 
-Hotels.--
+Hotels
 : Crown; King's Arms.
 
 Market Day

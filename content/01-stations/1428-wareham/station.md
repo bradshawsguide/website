@@ -23,7 +23,7 @@ Hotel
 Omnibuses
 : to and from Swanage, and Corfe Castle
 
-Market Days.--
+Market Days
 : Tuesday and Saturday.
 
 Fairs

@@ -12,7 +12,6 @@ route:
 ----
 notes: A telegraph station.
 
-Population,
-: 3.301.
+Population: 3.301.
 ----
 text: Returns two members to parliament, and produces lace of a very costly description.

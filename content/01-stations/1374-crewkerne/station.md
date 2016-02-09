@@ -9,7 +9,3 @@ company:
 ----
 route:
 - routes/basingstoke-to-salisbury-and-exeter
-----
-meta:
-----
-text:

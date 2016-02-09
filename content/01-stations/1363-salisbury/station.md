@@ -12,18 +12,16 @@ route:
 - routes/bishopstoke-to-salisbury
 ----
 notes: Distance from station, ¼ mile. A telegraph station,
-
-Hotels.--
-: White Hart; Red Lion; Three Swans.
-
-Omnibuses and Coaches
-: to Stapleford, Deptford and all the adjacent towns and villages.
-
-Market Days.--
-: Tuesday and Saturday; second Tuesday in every month for cheese.
-
-Fairs
-: Tuesdays after January 6th, and 25th March, second Tuesday in September, second Tuesday after October 10th; for sheep, July 15th and October 30th.
+----
+info:
+- term: Hotels
+  description: White Hart; Red Lion; Three Swans.
+- term: Omnibuses and Coaches
+  description: to Stapleford, Deptford and all the adjacent towns and villages.
+- term: Market Days
+  description: Tuesday and Saturday; second Tuesday in every month for cheese.
+- term: Fairs
+  description: Tuesdays after January 6th, and 25th March, second Tuesday in September, second Tuesday after October 10th; for sheep, July 15th and October 30th.
 ----
 text: Salisbury is a parliamentary borough (two members) and a bishop's see, in Wiltshire, at the terminus of a branch of the South Western line, 96 miles from London, on the rich green pastures of the Avon. Population 12,278. It is not an old town, compared with other sees, the original town called *Old Sarum*, being on the hill to the north of the present town. At this place a Cathedral was planted after the Conquest (for which that of Sherborne was deserted), but in 1220 another migration took place, and the present magnificent edifice was begun by Bishop Poore. It was for the most part finished in the course of 32 years, so that it has the great advantage of being not only uniform in design but offers a complete specimen of the style of that age, namely, early English. The shape is a double cross, from end to end 442 feet long; through the greater transept the width is 203 feet, and 147 through the less. The west front (which with the spire is of later date than the body) is 130 feet wide and 200 high, and ornamented with niches, turrets, tracery, &c., and a large painted window; the lower eastern window is a very handsome new one, placed as a memorial to the late dean; the upper eastern window is a very splendid one--subject, the "Brazen Serpent," by Mortimer--the gift of a former Earl of Radnor. Above all rises a most beautiful *steeple*, consisting of a slender crocketted spire, 190 feet long, resting on a tower, which makes its total height from the ground above 400 feet. It is reported to be 22 inches out of the perpendicular; but whether or not it is a most imposing object from all points. There are said to be as many windows in the cathedral as days in the year.
 
@@ -35,7 +33,7 @@ The *Council Chamber* was built 1795 by Sir R. Taylor; portraits of James I., Qu
 
 Two or three ancient wooden houses remain, which are curious specimens of ancient domestic architecture. In the Market Place, which was the scene of the execution of Buckingham, by order or Richard III., in 1483, is an ancient hexagonal Cross on pillars, called the *Poultry Cross*, built in Richard II.'s reign. Chubb, the deistical writer, was a tallow chandler here. Shoes and excellent cutlery figure among the manufactures. There are many objects. of interest in the neighbourhood. At Stratford, near the ancient city, the Pitts had a seat; and in this way *Old Sarum* had the honour to be represented by the great Earl of Chatham.
 
-Trafalgar (4 miles), on the Avon, is the seat of Earl Nelson, bought for the family by Parliament, on the death of Nelson in 1805. At Clarendon (3 miles), once a royal forest, the "Constitutions of Clarendon" subjecting the clergy to the civil power, were enacted 1163; this led to Becket's rebellion. *Clarendon Park*, Sir F. Bathurst, Bart, Near this, an ancient boundary called *Grime's Ditch*, may be traced along the hills into Dorset and Hants. *Cranbome Chase*, now enclosed, was to the south of it. There is an old church in the town; and at Tollard Royal is King John's hunting seat. *Longford Castle*, the seat of the Earl of Radnor, was at first built (1591) in the shape of a *triangle*, in honour of the Trinity. Besides many interesting portraits, it contains a curious *steel* chair, covered with bus reliefs, illustrative of Roman history. *Wardour Castle* is Lord Arundel of Wardour's seat,--a modern Grecian house in a large park, which contains the remains of a castle, famous in the civil war for the defence made in it by Lady Blanche and a few men against, the forces of Hungerford. There are several religious pieces and relics (the family being Roman Catholic), portraits, &c, and a handsome chapel. *Fonthill Abbey*, the largest park in the county, belongs to Alfred Morrison, Esq., but formerly the seat of Beckford, the author of that most original eastern story, "Caliph Vathek," who here lived in the most selfish retirement, not seeing or being noticed by any one. *Heytesbury* (16 miles) on the Wiley, the seat of Lord Heytesbury, is a little decayed borough, with a collegiate church, and many barrows, etc, in the neighbourhood. 
+Trafalgar (4 miles), on the Avon, is the seat of Earl Nelson, bought for the family by Parliament, on the death of Nelson in 1805. At Clarendon (3 miles), once a royal forest, the "Constitutions of Clarendon" subjecting the clergy to the civil power, were enacted 1163; this led to Becket's rebellion. *Clarendon Park*, Sir F. Bathurst, Bart, Near this, an ancient boundary called *Grime's Ditch*, may be traced along the hills into Dorset and Hants. *Cranbome Chase*, now enclosed, was to the south of it. There is an old church in the town; and at Tollard Royal is King John's hunting seat. *Longford Castle*, the seat of the Earl of Radnor, was at first built (1591) in the shape of a *triangle*, in honour of the Trinity. Besides many interesting portraits, it contains a curious *steel* chair, covered with bus reliefs, illustrative of Roman history. *Wardour Castle* is Lord Arundel of Wardour's seat,--a modern Grecian house in a large park, which contains the remains of a castle, famous in the civil war for the defence made in it by Lady Blanche and a few men against, the forces of Hungerford. There are several religious pieces and relics (the family being Roman Catholic), portraits, &c, and a handsome chapel. *Fonthill Abbey*, the largest park in the county, belongs to Alfred Morrison, Esq., but formerly the seat of Beckford, the author of that most original eastern story, "Caliph Vathek," who here lived in the most selfish retirement, not seeing or being noticed by any one. *Heytesbury* (16 miles) on the Wiley, the seat of Lord Heytesbury, is a little decayed borough, with a collegiate church, and many barrows, etc, in the neighbourhood.
 
 Here these remains of antiquity begin to multiply, especially on Salisbury plain. Many were investigated by Mr. Cunningham a, draper, of Heytesbury. to whom Sir R. C. Hoare dedicated his "Ancient Wiltshire," in which will be found the fullest account of these memorials. They are of various kinds and shapes.--round, oval square, etc. For warfare or burial (the barrows are usually craves), and have evidently been occupied by Britons, Romans, Saxons, etc., in succession, who attended them to suit their convenience. About 70 principal camps and stations may be counted, many of them ending in *bury*.
 

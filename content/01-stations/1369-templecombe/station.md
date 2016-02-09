@@ -1,6 +1,6 @@
 ﻿section: 1
 ----
-title: Templecombe 
+title: Templecombe
 ----
 region: Somerset
 ----
@@ -9,7 +9,5 @@ company:
 ----
 route:
 - routes/basingstoke-to-salisbury-and-exeter
-----
-meta:
 ----
 text: (Junction)
