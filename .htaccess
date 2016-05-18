@@ -12,9 +12,14 @@
 # RewriteCond %{HTTP_HOST} !^bradshawsguide\.org$ [NC]
 # RewriteRule ^(.*)$ http://bradshawsguide.org/$1 [R=301,L]
 
-# Rewrite cache busting query strings on static files
-  RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteRule ^assets/([a-z]+)/([a-z]+).([0-9]+).(min.js|min.css)$ /assets/$1/$2.$4 [L]
+# Block text files in the content folder from being accessed directly
+  RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
+
+# Block all files in the site folder from being accessed directly
+  RewriteRule ^site/(.*) index.php [L]
+
+# Block all files in the kirby folder from being accessed directly
+  RewriteRule ^kirby/(.*) index.php [L]
 
 # Make panel links work
   RewriteCond %{REQUEST_FILENAME} !-f
@@ -25,17 +30,7 @@
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule ^(.*) index.php [L]
-
-# Block text files in the content folder from being accessed directly
-  RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
-
-# Block all files in the site folder from being accessed directly
-  RewriteRule ^site/(.*) index.php [L]
-
-# Block all files in the kirby folder from being accessed directly
-  RewriteRule ^kirby/(.*) index.php [L]
 </IfModule>
-
 
 # --------------
 # UTF-8 Encoding
@@ -50,9 +45,9 @@
 # ------------
 # PHP Settings
 # ------------
-<IfModule php5_module>
-# Use php5
-  AddHandler php5-script .php
+<IfModule php7_module>
+# Use php7
+  AddHandler php7-script .php
 
 # Allow PHP short tags
   php_flag short_open_tag on
