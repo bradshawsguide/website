@@ -1,41 +1,45 @@
 {
-    "name": "bradshawsguide",
-    "version": "0.1.0",
-    "description": "Bradshaw's Guide for Tourists in Great Britain & Ireland",
-    "author": "Paul Robert Lloyd",
-    "private": "true",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/paulrobertlloyd/bradshawsguide.git"
-    },
-    "devDependencies": {
-        "autoprefixer": "latest",
-        "browser-sync": "latest",
-        "node-sass": "latest",
-        "nodemon": "latest",
-        "parallelshell": "latest",
-        "postcss-cli": "latest"
-    },
-    "scripts": {
-        "browsersync": "browser-sync start --files 'assets, content, site' --proxy 127.0.0.1:80 --open",
-
-        "build:css": "node-sass assets/styles/app.scss | postcss --use autoprefixer -o assets/styles/app.css -c config/postcss.json",
-        "build:js": "echo 'JavaScript TBD'",
-        "build": "npm run build:css && npm run build:js",
-
-        "watch:css": "nodemon -e scss -x 'npm run build:css'",
-        "watch:js": "nodemon -e js -x 'npm run build:js'",
-        "watch": "npm run watch:css && npm run watch:js",
-
-        "start": "parallelshell 'npm run watch' 'npm run browsersync'"
-    },
-    "stylelint": {
-        "extends": "/Volumes/Macintosh/Users/paulrobertlloyd/.atom/packages/linter-stylelint/node_modules/stylelint-config-standard",
-        "rules": {
-            "at-rule-empty-line-before": [ "always", {
-                "except": ["blockless-group", "first-nested"]
-            } ],
-            "indentation": 4
-        }
+  "name": "bradshawsguide",
+  "version": "0.1.0",
+  "description": "Bradshaw's Guide for Tourists in Great Britain & Ireland",
+  "keywords": [
+    "railways",
+    "reference",
+    "travel"
+  ],
+  "homepage": "https://bradshawsguide.org",
+  "bugs": "https://github.com/paulrobertlloyd/bradshawsguide/issues",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Paul Robert Lloyd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulrobertlloyd/bradshawsguide.git"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node_modules/.bin/gulp start",
+    "build": "node_modules/.bin/gulp build",
+    "deploy": "node_modules/.bin/gulp deploy",
+    "dev": "node_modules/.bin/gulp dev"
+  },
+  "config": {
+    "paths": {
+      "assets": "./assets/",
+      "icons": "./assets/icons/",
+      "scripts": "./assets/scripts/",
+      "styles": "./assets/styles/"
     }
+  },
+  "devDependencies": {
+    "del": "latest",
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "latest",
+    "gulp-gh-pages": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-sass": "latest",
+    "gulp-sass-glob": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest"
+  },
+  "private": true
 }
