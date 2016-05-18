@@ -10,10 +10,10 @@
     },
     "devDependencies": {
         "autoprefixer": "latest",
-        "browser-sync": "^2.11.1",
+        "browser-sync": "latest",
         "node-sass": "latest",
         "nodemon": "latest",
-        "parallelshell": "^2.0.0",
+        "parallelshell": "latest",
         "postcss-cli": "latest"
     },
     "scripts": {
