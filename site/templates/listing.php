@@ -1,16 +1,13 @@
-<? snippet('_header') ?>
+<? snippet('head') ?>
 
 <section class="c-page">
-    <?
-        snippet('page/header', array(
-            'title' => $page->title()
-        ));
+<?
+  pattern('common/header');
 
-        $items = $page->children();
-        snippet('listing', array(
-            'items' => $items
-        ));
-    ?>
+  pattern('common/list', array(
+    'items' => $page->children()
+  ));
+?>
 </section>
 
-<? snippet('_footer') ?>
+<? snippet('foot') ?>

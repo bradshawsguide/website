@@ -1,23 +1,21 @@
-<? snippet('_header') ?>
+<? snippet('head') ?>
 
 <article class="c-page">
-    <?
-        snippet('breadcrumb', array(
-            'parent' => $page->company()
-        ));
+<?
+  pattern('common/breadcrumb', array(
+    'parent' => $page->company()
+  ));
 
-        snippet('page/header', array(
-            'title' => $page->title()
-        ));
+  pattern('common/header');
 
-        snippet('content');
+  pattern('content/prose');
 
-        snippet('routemap');
+  pattern('sections/routemap');
 
-        snippet('section-related');
+  pattern('sections/related');
 
-        snippet('shorturl');
-    ?>
+  pattern('common/shorturl');
+?>
 </article>
 
-<? snippet('_footer') ?>
+<? snippet('foot') ?>

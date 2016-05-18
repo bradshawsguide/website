@@ -1,18 +1,15 @@
-<? snippet('_header') ?>
+<? snippet('head') ?>
 
 <section class="c-page">
-    <?
-        snippet('page/header', array(
-            'title' => $page->title()
-        ));
+<?
+  pattern('common/header');
 
-        foreach($pages->findOpen()->children() as $country) {
-            snippet('section-country', array(
-                'country' => $country
-            ));
-        }
-    ?>
-
+  foreach($pages->findOpen()->children() as $country) {
+    pattern('sections/country', array(
+      'country' => $country
+    ));
+  }
+?>
 </section>
 
-<? snippet('_footer') ?>
+<? snippet('foot') ?>

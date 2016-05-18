@@ -1,16 +1,13 @@
-<? snippet('_header') ?>
+<? snippet('head') ?>
 
 <section class="c-page">
-    <?
-        snippet('page/header', array(
-            'title' => $page->title()
-        ));
+<?
+  pattern('common/header');
 
-        $stations = $page->children();
-        snippet('alphabetise', array(
-            'search' => $stations
-        ));
-    ?>
+  pattern('sections/index', array(
+    'search' => $stations = $page->children()
+  ));
+?>
 </section>
 
-<? snippet('_footer') ?>
+<? snippet('foot') ?>

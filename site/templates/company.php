@@ -1,31 +1,29 @@
-<? snippet('_header') ?>
+<? snippet('head') ?>
 
 <article class="c-page">
-    <?
-        snippet('page/header', array(
-            'title' => $page->title()
-        ));
+<?
+  pattern('common/header');
 
-        snippet('content');
+  pattern('content/prose');
 
-        $company = $page->title();
-        $routes = $pages->children()->filterBy('company', $company);
-        snippet('section-routes', array(
-            'routes' => $routes,
-            'context' => 'company'
-        ));
+  $company = $page->title();
+  $routes = $pages->children()->filterBy('company', $company);
+  pattern('sections/routes', array(
+    'routes' => $routes,
+    'context' => 'company'
+  ));
 
-        $company = kirby()->request()->path(2);
-        $stations = $pages->children()->filterBy('company', '*=', $company);
-        snippet('section-stations', array(
-            'stations' => $stations,
-            'context' => 'company'
-        ));
+  $company = kirby()->request()->path(2);
+  $stations = $pages->children()->filterBy('company', '*=', $company);
+  pattern('sections/stations', array(
+    'stations' => $stations,
+    'context' => 'company'
+  ));
 
-        snippet('section-related');
+  pattern('sections/related');
 
-        snippet('shorturl');
-    ?>
+  pattern('shorturl');
+?>
 </article>
 
-<? snippet('_footer') ?>
+<? snippet('foot') ?>

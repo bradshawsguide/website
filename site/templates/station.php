@@ -1,31 +1,29 @@
-<? snippet('_header') ?>
+<? snippet('head') ?>
 
 <article class="c-page">
-    <?
-        snippet('breadcrumb', array(
-            'parent' => $page->region()
-        ));
+<?
+  pattern('common/breadcrumb', array(
+    'parent' => $page->region()
+  ));
 
-        snippet('page/header', array(
-            'title' => $page->title()
-        ));
+  pattern('common/header');
 
-        snippet('content');
+  pattern('content/prose');
 
-        if($page->route()->isNotEmpty()) {
-            $routes = related($page->route());
-            snippet('section-routes', array(
-                'routes' => $routes,
-                'context' => 'station'
-            ));
-        }
+  if($page->route()->isNotEmpty()) {
+    $routes = related($page->route());
+    pattern('sections/routes', array(
+      'routes' => $routes,
+      'context' => 'station'
+    ));
+  }
 
-        snippet('section-related');
+  pattern('sections/related');
 
-        snippet('shorturl');
+  pattern('common/shorturl');
 
-        snippet('prevnext');
-    ?>
+  pattern('common/traverse');
+?>
 </article>
 
-<? snippet('_footer') ?>
+<? snippet('foot') ?>

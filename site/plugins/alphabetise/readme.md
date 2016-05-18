@@ -2,15 +2,18 @@
 
 ## What is it?
 
-The Alphabetise plugin will alphabetise a given [Kirby CMS](http://getkirby.com/) *page* array or *tag* array and return it for further processing/display as an alphabetised array. 
+The Alphabetise plugin will alphabetise a given [Kirby CMS](http://getkirby.com/) *page* array or *tag* array and return it for further processing/display as an alphabetised array.
 
-*The array whose key your are trying to sort on should of course only contain letters of the alphabet, if not problems may occur.* 
+*The array whose key your are trying to sort on should of course only contain letters of the alphabet, if not problems may occur.*
 
 *Also the code (explode) uses a '~' tilde, if you use this in your key, especially at the beginning of the string, then you could run into sorting problems. You could of course manually change it if required.*
 
-## Installation 
+## Installation
 
-Put all the files into your **site/plugins/alphabetise** folder.  If the 'alphabetise' plugin folder doesn't exist then create it.
+Put all the files into your **site/plugins/alphabetise** folderor use the [Kirby CLI](https://github.com/getkirby/cli): In your project folder, from the command line, enter:
+```kirby plugin:install shoesforindustry/kirby-plugins-alphabetise```  
+To update the plugin use:
+```kirby plugin:update shoesforindustry/kirby-plugins-alphabetise```
 
 ## How to use it?
 
@@ -44,13 +47,13 @@ You then want to loop through the returned results and display them for example:
      	            <?php echo $item->title()?>
      	         </a>
      	     </li>
-     	   <?php endforeach ?> 
+     	   <?php endforeach ?>
     </ul>
    <hr/>
 <?php endforeach ?>
 ```
 
-####Example2: Alphabetical list of tags using tag name as the key 
+####Example2: Alphabetical list of tags using tag name as the key
 
 #####A
 + Aa tag
@@ -99,7 +102,7 @@ You can use any valid array element, so for tags you can use also add **$item->r
     </li>
 ```	  
 
-  
+
 ## Author
 Russ Baldwin  
 [shoesforindustry.net](shoesforindustry.net)

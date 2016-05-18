@@ -1,15 +1,13 @@
-<? snippet('_header') ?>
+<? snippet('head') ?>
 
 <article class="c-page">
-    <?
-        snippet('page/header', array(
-            'title' => $page->title()
-        ));
+<?
+  pattern('common/header');
 
-        snippet('page/navigation');
+  pattern('common/navigation');
 
-        snippet('content');
-    ?>
+  pattern('content/prose');
+?>
 </article>
 
-<? snippet('_footer') ?>
+<? snippet('foot') ?>
