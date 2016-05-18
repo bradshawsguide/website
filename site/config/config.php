@@ -432,6 +432,16 @@ array('.', '..', '.DS_Store', '.svn', '.git', '.htaccess');
 */
 c::set('content.file.ignore', array());
 
+/*
+
+---------------------------------------
+Patterns
+---------------------------------------
+
+*/
+c::set('patterns.preview.css', 'assets/dist/app.css');
+c::set('patterns.preview.js', 'assets/dist/app.js');
+
 
 /*
 

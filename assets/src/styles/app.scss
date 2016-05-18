@@ -1,0 +1,24 @@
+// Helpers
+@import "helpers/functions";
+@import "helpers/variables";
+@import "helpers/mixins";
+
+// Base HTML element resets and styling
+// Based on normalise.css v4.0.0 (https://github.com/necolas/normalize.css)
+@import 'base/sections';
+@import 'base/grouping';
+@import 'base/text';
+@import 'base/embedded';
+@import 'base/links';
+@import 'base/tables';
+@import 'base/forms';
+@import 'base/interactive';
+
+// Components
+@import '../../site/patterns/**/*.scss';
+
+// Scopes
+@import '../../site/patterns/scopes/**/*.scss';
+
+// Utilities
+@import '../../site/patterns/utilities/**/*.scss';

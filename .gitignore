@@ -1,6 +1,7 @@
 .DS_Store
 /site/accounts
 /assets/avatars
+/assets/dist
 /thumbs/*
 node_modules
 assets/styles/app.css

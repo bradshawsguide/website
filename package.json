@@ -23,23 +23,22 @@
     "dev": "node_modules/.bin/gulp dev"
   },
   "config": {
-    "paths": {
-      "assets": "./assets/",
-      "icons": "./assets/icons/",
-      "scripts": "./assets/scripts/",
-      "styles": "./assets/styles/"
+    "src": {
+      "assets": "./assets/src/"
+    },
+    "dist": {
+      "assets": "./assets/dist/"
     }
   },
   "devDependencies": {
     "del": "latest",
     "gulp": "gulpjs/gulp#4.0",
     "gulp-autoprefixer": "latest",
-    "gulp-gh-pages": "latest",
     "gulp-imagemin": "latest",
+    "gulp-postcss": "latest",
     "gulp-sass": "latest",
     "gulp-sass-glob": "latest",
-    "gulp-sourcemaps": "latest",
-    "gulp-uglify": "latest"
+    "gulp-sourcemaps": "latest"
   },
   "private": true
 }
