@@ -10,9 +10,9 @@
 
   pattern('content/prose');
 
-  pattern('sections/routemap');
+  pattern('section/routemap');
 
-  pattern('sections/related');
+  pattern('section/related');
 
   pattern('common/shorturl');
 ?>

@@ -4,7 +4,7 @@
 <?
   pattern('common/header');
 
-  pattern('sections/index', array(
+  pattern('section/index', array(
     'search' => $stations = $page->children()
   ));
 ?>

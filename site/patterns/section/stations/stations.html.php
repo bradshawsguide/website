@@ -11,7 +11,7 @@
 <section class="c-section c-section--stations">
   <h1 class="c-section__title"><?= $title ?></h1>
   <?
-    pattern('sections/index', array(
+    pattern('section/index', array(
       'search' => $stations
     ));
   ?>

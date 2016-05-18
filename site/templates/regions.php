@@ -5,7 +5,7 @@
   pattern('common/header');
 
   foreach($pages->findOpen()->children() as $country) {
-    pattern('sections/country', array(
+    pattern('section/country', array(
       'country' => $country
     ));
   }

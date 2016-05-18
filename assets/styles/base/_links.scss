@@ -1,8 +1,28 @@
-//  ===========================================================================
-//  Links
-//  ===========================================================================
+// ============================================================================
+// Links
+// https://w3c.github.io/html/links.html
+// ============================================================================
 
+// Remove grey background on active links in IE 10.
 a {
-    color: inherit;
-    text-decoration: none;
+  background-color: transparent;
+  text-decoration: none;
+  color: $c-link;
+  transition: all 0.2s ease;
+}
+
+// Remove the outline on focused links when they are also active or hovered
+// in all browsers (opinionated).
+a:hover {
+  color: $c-link--hover;
+  text-decoration: underline;
+}
+
+a:active {
+  color: $c-link--active;
+}
+
+a:active,
+a:hover {
+  outline-width: 0;
 }

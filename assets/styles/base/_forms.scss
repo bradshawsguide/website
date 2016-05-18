@@ -1,23 +1,181 @@
-//  ===========================================================================
-//  Forms
-//  ===========================================================================
+// ============================================================================
+// Forms
+// https://w3c.github.io/html/sec-forms.html
+// ============================================================================
 
-fieldset,
-legend,
-button,
-input,
-optgroup,
-select,
-textarea {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: none;
-    font: inherit;
-    line-height: normal;
-    appearance: none;
+// 1. Add the correct display in IE 9-.
+// 2. Add the correct vertical alignment in Chrome, Firefox, and Opera.
+progress,
+meter {
+  display: inline-block; // 1
+  vertical-align: baseline; // 2
 }
 
+// Reset appearance of meter element in all browsers (opinionated).
+meter {
+  appearance: none;
+
+  &::-moz-meter-bar {
+    background: none;
+  }
+
+  &::-webkit-meter-bar {
+    background: none;
+  }
+}
+
+// 1. Change font properties to `inherit` in all browsers (opinionated).
+// 2. Remove the margin in Firefox and Safari.
+button,
+input,
+select,
+textarea {
+  font: inherit; // 1
+  margin: 0; // 2
+}
+
+// Reset the appearance of text inputs in Chrome and Safari.
+input[type=email],
+input[type=number],
+input[type=password],
+input[type=search],
+input[type=tel],
+input[type=text],
+input[type=url],
+textarea {
+  appearance: none;
+}
+
+// Restore the font weight unset by the previous rule.
+optgroup {
+  font-weight: bold;
+}
+
+// Enable styling (opinionated).
+// 1. Remove default appearance.
+// 2. Add new arrow image using background image.
+select {
+  background-image: inline('icons/select.svg'); // 2
+  background-position: top 50% right 0.5rem;
+  background-repeat: no-repeat;
+  padding-right: 1.5rem !important;
+  -webkit-appearance: none; // 1
+  cursor: pointer;
+  min-width: 4rem;
+
+  &::-ms-expand {
+    display: none;
+  }
+}
+
+// Show the overflow in IE.
+// 1. Show the overflow in Edge.
+// 2. Show the overflow in Edge, Firefox, and IE.
+// 3. Ensure inputs inherit text colour of parent element
+button,
+input, // 1
+select { // 2
+  overflow: visible;
+  color: inherit; // 3
+}
+
+// Remove the inheritance of text transform in Edge, Firefox, and IE.
+// 1. Remove the inheritance of text transform in Firefox.
+button,
+select { // 1
+  text-transform: none;
+}
+
+// Change the cursor in all browsers (opinionated).
+button,
+[type=button],
+[type=reset],
+[type=submit],
 label {
-    display: block;
+  cursor: pointer;
+}
+
+// Restore the default cursor to disabled elements unset by the previous rule.
+[disabled] {
+  cursor: default;
+  opacity: 0.75;
+}
+
+// 1. Correct the inability to style clickable types in iOS.
+// 2. Remove default styling (opinionated).
+button,
+[type=reset],
+[type=submit] {
+  -webkit-appearance: button; // 1
+  background: none; // 2
+  border: 0; // 2
+  padding: 0; // 2
+}
+
+// Remove the inner border and padding in Firefox.
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+// Restore the focus styles unset by the previous rule.
+button:-moz-focusring,
+input:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}
+
+// http://thatemil.com/blog/2015/01/03/reset-your-fieldset/
+// 1. Reset minimum width based on content inside fieldset in
+//    WebKit/Blink/Firefox
+// 2. Adjust display mode to ensure 1 works in Firefox
+// 3. Remove default margin and border
+// 4. Fix margin-collapsing behavior coupled with rendering of legend element
+fieldset {
+  min-width: 0; // 1
+  margin: 0; // 3
+  border: 0; // 3
+  padding: 0.01em 0 0 0; // 4
+
+  body:not(:-moz-handler-blocked) & {
+    display: table-cell; // 2
+  }
+}
+
+// 1. Correct the text wrapping in Edge and IE.
+// 2. Correct the color inheritance from `fieldset` elements in IE.
+// 3. Remove the padding so developers are not caught out when they zero out
+//    `fieldset` elements in all browsers.
+legend {
+  box-sizing: border-box; // 1
+  color: inherit; // 2
+  display: table; // 1
+  max-width: 100%; // 1
+  padding: 0; // 3
+  white-space: normal; // 1
+}
+
+// Remove the default vertical scrollbar in IE.
+textarea {
+  overflow: auto;
+}
+
+// 1. Add the correct box sizing in IE 10-.
+// 2. Remove the padding in IE 10-.
+[type=checkbox],
+[type=radio] {
+  box-sizing: border-box; // 1
+  padding: 0; // 2
+}
+
+// Correct the cursor style of increment and decrement buttons in Chrome.
+[type=number]::-webkit-inner-spin-button,
+[type=number]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+// Remove the inner padding and cancel buttons in Chrome and Safari on OS X.
+[type=search]::-webkit-search-cancel-button,
+[type=search]::-webkit-search-decoration {
+  -webkit-appearance: none;
 }

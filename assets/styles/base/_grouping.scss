@@ -1,6 +1,7 @@
-//  ===========================================================================
-//  Grouping content
-//  ===========================================================================
+// ============================================================================
+// Grouping content
+// https://w3c.github.io/html/grouping-content.html
+// ============================================================================
 
 p,
 pre,
@@ -8,26 +9,37 @@ blockquote,
 ul,
 ol,
 dl,
-figure,
-table,
-fieldset {
-    margin: 0;
-    orphans: 3;
-    widows: 3;
+figure {
+  margin: 0;
 }
 
-pre,
+pre {
+  overflow: auto;
+  white-space: pre;
+  hyphens: none;
+  tab-size: 2;
+}
+
 blockquote {
-    @media print {
-        page-break-inside: avoid;
-    }
+  @media print {
+    page-break-inside: avoid;
+  }
 }
 
+// Add the correct display in IE 9-.
+figure,
+figcaption {
+  display: block;
+}
+
+// Default to ’bare’ lists (opinionated).
 ol,
 ul {
-    padding: 0;
+  padding: 0;
+  list-style: none;
 }
 
-ul li {
-    list-style: none;
+// Default to no indenting on defintion data (opinionated).
+dd {
+  margin: 0;
 }

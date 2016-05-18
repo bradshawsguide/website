@@ -1,29 +1,47 @@
-//  ===========================================================================
-//  Sections
-//  ===========================================================================
+// ============================================================================
+// Sections
+// https://w3c.github.io/html/sections.html
+// ============================================================================
 
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
+  height: 100%;
 }
 
 *,
 *::before,
 *::after {
-    box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+::selection {
+  background-color: $c--highlight;
+  text-shadow: 0 0 $c--highlight;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    margin: 0 auto;
-    background-color: $c--neutral-dark;
-    font-smoothing: antialiased;
+  height: 100%;
+  margin: 0 auto;
+  font-family: $f--sans;
+  color: $c--neutral-darkest;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+
+  @media print {
+    margin: 0 1cm;
+    color: black;
+  }
 }
 
-main {
-    // Correct `block` display for `main`
-    // http://caniuse.com/#search=main
-    display: block;
+// Add the correct display in IE 9-.
+article,
+aside,
+footer,
+header,
+main,
+nav,
+section {
+  display: block;
 }
 
 h1,
@@ -32,19 +50,20 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0;
-    font-size: 1em;
-    font-weight: inherit;
-    text-rendering: optimizeLegibility;
+  margin: 0;
+  text-rendering: optimizeLegibility;
+  font-size: inherit;
+  font-weight: inherit;
 
-    @media print {
-        page-break-after: avoid;
-    }
+  @media print {
+    page-break-after: avoid;
+  }
 }
 
+// 1. Add the correct box sizing in Firefox.
+// 2. Show the overflow in Edge and IE.
 hr {
-    height: 0;
-    margin: 0;
-    border: 0;
-    line-height: 0;
+  box-sizing: content-box; // 1
+  height: 0; // 1
+  overflow: visible; // 2
 }

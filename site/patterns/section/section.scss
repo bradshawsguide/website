@@ -8,7 +8,7 @@
     border-top: 1px solid $c--neutral-mid;
 }
 
-.c-section--alphabetise {
+.c-section--index {
     display: flex;
 
     .c-section__title {
@@ -23,7 +23,7 @@
     }
 }
 
-.c-section--alphabetise,
+.c-section--index,
 .c-section--country,
 .c-section--stations {
     .c-list__item {

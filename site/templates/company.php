@@ -8,19 +8,19 @@
 
   $company = $page->title();
   $routes = $pages->children()->filterBy('company', $company);
-  pattern('sections/routes', array(
+  pattern('section/routes', array(
     'routes' => $routes,
     'context' => 'company'
   ));
 
   $company = kirby()->request()->path(2);
   $stations = $pages->children()->filterBy('company', '*=', $company);
-  pattern('sections/stations', array(
+  pattern('section/stations', array(
     'stations' => $stations,
     'context' => 'company'
   ));
 
-  pattern('sections/related');
+  pattern('section/related');
 
   pattern('shorturl');
 ?>

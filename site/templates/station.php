@@ -12,13 +12,13 @@
 
   if($page->route()->isNotEmpty()) {
     $routes = related($page->route());
-    pattern('sections/routes', array(
+    pattern('section/routes', array(
       'routes' => $routes,
       'context' => 'station'
     ));
   }
 
-  pattern('sections/related');
+  pattern('section/related');
 
   pattern('common/shorturl');
 

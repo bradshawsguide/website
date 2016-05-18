@@ -12,12 +12,12 @@
 
   pattern('content/prose');
 
-  pattern('sections/related');
+  pattern('section/related');
 
   $region = $page->title();
   $stations = $pages->find('stations')->children()->filterBy('region', $region);
   if($stations->count()) {
-    pattern('sections/stations', array(
+    pattern('section/stations', array(
       'stations' => $stations,
       'context' => 'region'
     ));

@@ -3,27 +3,35 @@
 //  ===========================================================================
 
 // Values
-$v--max-width: 60rem; // 960px
+$v-max-width: 60rem; // 960px
 
-$v--text-indent: 1.25rem; // 20px
+$v-text-indent: 1.25rem; // 20px
 
-$v--breakpoint-a: 20rem; // 320px
-$v--breakpoint-b: 30rem; // 480px
-$v--breakpoint-c: 40rem; // 640px
-$v--breakpoint-d: $v--max-width;
+$v-breakpoint--a: 20rem; // 320px
+$v-breakpoint--b: 30rem; // 480px
+$v-breakpoint--c: 40rem; // 640px
+$v-breakpoint--d: $v-max-width;
 
 // Colours
-$c--brand-yellow: hsb(24, 80, 100);
-$c--brand-crimson: hsb(00, 80, 053);
+$c-brand-yellow: hsb(24, 80, 100);
+$c-brand-crimson: hsb(00, 80, 053);
 
-$c--neutral-darkest: hsb(24, 40, 021);
-$c--neutral-dark: hsb(24, 40, 028);
-$c--neutral-mid: hsb(24, 05, 077);
-$c--neutral-light: hsb(24, 01, 091);
-$c--neutral-lightest: hsb(24, 01, 100);
+$c-neutral--darkest: hsb(24, 40, 021);
+$c-neutral--dark: hsb(24, 40, 028);
+$c-neutral--mid: hsb(24, 05, 077);
+$c-neutral--light: hsb(24, 01, 091);
+$c-neutral--lightest: hsb(24, 01, 100);
+
+// Colour assignments
+$c-focus: $c-brand-yellow;
+$c-highlight: $c-brand-yellow;
+
+$c-link: $c-brand-crimson;
+$c-link--hover: $c-brand-crimson;
+$c-link--active: $c-brand-crimson;
 
 // Fonts
-$f--sans: "Source Sans Pro", sans-serif;
-$f--serif: "Cardo", serif;
-$f--slab: "Kameron", serif;
-$f--block: "League Gothic", serif;
+$f-sans: "Source Sans Pro", sans-serif;
+$f-serif: "Cardo", serif;
+$f-slab: "Kameron", serif;
+$f-block: "League Gothic", serif;
