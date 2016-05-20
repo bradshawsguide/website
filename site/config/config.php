@@ -46,6 +46,14 @@ c::set('url', '/');
 
 c::set('url', '/');
 
+c::set('routes', array(
+  array(
+    'pattern' => 'manifest.json',
+    'action'  => function() {
+      return site()->visit('manifest');
+    }
+  )
+));
 
 /*
 

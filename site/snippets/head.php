@@ -16,14 +16,13 @@
 <? endif ?>
   <meta name="twitter:site" content="@bradshawsguide"/>
 
-  <meta name="application-name" content="<?= $site->short_title() ?>"/>
   <meta name="referrer" content="origin"/>
   <meta name="robots" content="index, follow"/>
-  <meta name="theme-color" content="#f83"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
+  <link rel="manifest" href="<?= url('maniest.json') ?>"/>
   <link rel="shortcut icon" href="<?= url('assets/icons/icon.ico') ?>" type="image/ico"/>
-  <link rel="mask-icon" href="<?= url('assets/icons/icon.svg') ?>" color="#f83"/>
+  <link rel="mask-icon" href="<?= url('assets/icons/icon.svg') ?>" color="<?= $site->background_color() ?>"/>
   <link rel="apple-touch-icon" href="<?= url('assets/icons/icon.png') ?>" type="image/png"/>
 <? if(!$page->isHomePage()): ?>
   <link rel="canonical" href="<?= $page->url() ?>"/>
