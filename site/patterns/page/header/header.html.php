@@ -1,5 +1,10 @@
 <?
-  $title = (isset($title)) ? $title : $page->title();
+  if ($page->type() == 'child'):
+    $title = (isset($title)) ? $title : $page->parent()->title();
+  else:
+    $title = (isset($title)) ? $title : $page->title();
+  endif;
+
   $notes = (isset($notes)) ? $notes : $page->notes();
 ?>
 <header class="c-page__header">

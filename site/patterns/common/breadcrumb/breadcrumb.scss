@@ -5,3 +5,25 @@
   margin-bottom: 0.5rem;
   padding-bottom: 0.5rem;
 }
+
+.c-breadcrumb__items {
+  display: flex;
+}
+
+// 1. Display items inline
+// 2. If supported, use Flexbox instead
+//    (removes whitespace between items)
+.c-breadcrumb__item {
+  display: inline-block; // 1
+  display: flex; // 2
+}
+
+.c-breadcrumb__item.is-current {
+  &::after {
+    content: none;
+  }
+
+  .c-breadcrumb__label {
+    font-weight: normal;
+  }
+}

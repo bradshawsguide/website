@@ -1,19 +1,20 @@
 .c-banner {
-  order: 1;
-  padding-top: 1rem;
-  padding-bottom: 0.25rem;
   background-color: $c-neutral--darkest;
-}
-
-.c-banner__title {
-  @include l--container;
   color: $c-brand-yellow;
+  flex: 0;
   font-family: $f-block;
   font-size: 2rem;
+  order: -1;
+  padding-top: 1rem;
+  padding-bottom: 0.25rem;
   text-transform: uppercase;
 }
 
-.c-banner__home {
+.c-banner__main {
+  @include l--container;
+}
+
+.c-banner__title {
   color: $c-brand-yellow;
   text-decoration: none;
 }

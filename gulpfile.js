@@ -13,18 +13,17 @@ const imagemin = require('gulp-imagemin');
 const postcss = require('gulp-postcss');
 const sass = require('gulp-sass');
 const sassGlob = require('gulp-sass-glob');
-const scss = require('postcss-scss');
 const sourcemaps = require('gulp-sourcemaps');
 
 // Tasks
 function clean() {
-  return del([config.dist.assets]);
+  return del([config.dest.assets]);
 }
 
 function icons() {
   return gulp.src(config.src.assets + 'icons/**/*')
     .pipe(imagemin())
-    .pipe(gulp.dest(config.dist.assets));
+    .pipe(gulp.dest(config.dest.assets + 'icons'));
 }
 
 function styles() {
@@ -34,7 +33,7 @@ function styles() {
     })
   ];
 
-  return gulp.src(config.src.assets + 'styles/*.scss')
+  return gulp.src(config.src.assets + 'styles/app.scss')
     .pipe(sourcemaps.init())
     .pipe(sassGlob())
     .pipe(sass({
@@ -43,7 +42,7 @@ function styles() {
     }).on('error', sass.logError))
     .pipe(postcss(processors))
     .pipe(sourcemaps.write('./'))
-    .pipe(gulp.dest(config.dist.assets))
+    .pipe(gulp.dest(config.dest.assets))
     .pipe(browserSync.stream({
       match: '**/*.css'
     }));
@@ -51,7 +50,7 @@ function styles() {
 
 function sync() {
   browserSync.init({
-    files: ['!site/accounts/', 'site/**/*.php', 'content/**/*.txt'],
+    files: ['!site/accounts/', 'site/**/*.php', 'content/**/*.md'],
     proxy: 'bradshawsguide.dev',
     open: false
   });
@@ -59,7 +58,7 @@ function sync() {
 
 function watch() {
   gulp.watch(config.src.assets + 'icons', icons);
-  gulp.watch('**/*.scss', styles);
+  gulp.watch(config.src.path + '**/*.scss', styles);
 }
 
 // Task sets

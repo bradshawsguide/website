@@ -1,7 +1,5 @@
 // Helpers
-@import "helpers/functions";
-@import "helpers/variables";
-@import "helpers/mixins";
+@import 'helpers/**/*.scss';
 
 // Base HTML element resets and styling
 // Based on normalise.css v4.0.0 (https://github.com/necolas/normalize.css)
@@ -15,7 +13,7 @@
 @import 'base/interactive';
 
 // Patterns
-@import '../../../site/patterns/**/*.scss';
+@import '../../patterns/**/*.scss';
 
 // Utilities
 @import 'utilities/**/*.scss';

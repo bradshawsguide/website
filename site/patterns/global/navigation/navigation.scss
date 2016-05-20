@@ -1,7 +1,8 @@
 .c-navigation {
   @include fs--system-menu;
   background-color: $c-neutral--dark;
-  order: 2;
+  flex: 0;
+  order: 0;
 }
 
 .c-navigation__list {

@@ -24,10 +24,11 @@
   },
   "config": {
     "src": {
-      "assets": "./assets/src/"
+      "assets": "./site/assets/",
+      "path": "./site/"
     },
-    "dist": {
-      "assets": "./assets/dist/"
+    "dest": {
+      "assets": "./assets/"
     }
   },
   "devDependencies": {
@@ -40,8 +41,7 @@
     "gulp-sass": "latest",
     "gulp-sass-glob": "latest",
     "gulp-sourcemaps": "latest",
-    "postcss-assets": "latest",
-    "postcss-scss": "latest"
+    "postcss-assets": "latest"
   },
   "private": true
 }

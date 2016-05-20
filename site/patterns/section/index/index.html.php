@@ -1,5 +1,5 @@
 <? foreach(alphabetise($search->sortby('title')) as $letter => $items): ?>
-<section class="c-section c-section--alphabetise" id="<?= $letter ?>">
+<section class="c-section c-section--index" id="<?= $letter ?>">
   <h1 class="c-section__title"><?= str::upper($letter) ?></h1>
   <ul class="c-list">
   <? foreach($items as $item): ?>

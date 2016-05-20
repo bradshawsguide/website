@@ -2,13 +2,11 @@
 
 <article class="c-page">
 <?
-  pattern('common/breadcrumb', array(
-    'parent' => $page->country()
-  ));
+  pattern('common/breadcrumb');
 
   pattern('page/header');
 
-  pattern('common/navigation');
+  pattern('page/navigation');
 
   pattern('content/prose');
 

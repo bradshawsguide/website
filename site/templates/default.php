@@ -4,8 +4,6 @@
 <?
   pattern('page/header');
 
-  pattern('common/navigation');
-
   pattern('content/prose');
 ?>
 </article>
