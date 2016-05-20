@@ -9,23 +9,22 @@
   <meta property="og:description" content="<?= smartypants(excerpt($page->text(), $length=300)) ?>"/>
 <? endif ?>
 <? if($page->hasImages()): ?>
-  <meta property="og:image" content="<?= $page->images()->first()->url() ?>">
+  <meta property="og:image" content="<?= $page->images()->first()->url() ?>"/>
   <meta name="twitter:card" content="summary_large_image"/>
 <? else: ?>
-  <meta property="og:image" content="<?= url('assets/icons/192x192.png') ?>">
   <meta name="twitter:card" content="summary"/>
 <? endif ?>
-  <meta name="twitter:site" content="@bradshawsguide">
+  <meta name="twitter:site" content="@bradshawsguide"/>
 
-  <meta name="application-name" content="<?= $site->short_title() ?>">
+  <meta name="application-name" content="<?= $site->short_title() ?>"/>
   <meta name="referrer" content="origin"/>
   <meta name="robots" content="index, follow"/>
-  <meta name="theme-color" content=""/>
+  <meta name="theme-color" content="#f83"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-  <link rel="icon" href="<?= url('assets/icons/32x32.png') ?>"/>
-  <link rel="mask-icon" href="<?= url('assets/icons/mask.svg') ?>"/>
-  <link rel="apple-touch-icon" href="<?= url('assets/icons/192x192.png') ?>"/>
+  <link rel="shortcut icon" href="<?= url('assets/icons/icon.ico') ?>" type="image/ico"/>
+  <link rel="mask-icon" href="<?= url('assets/icons/icon.svg') ?>" color="#f83"/>
+  <link rel="apple-touch-icon" href="<?= url('assets/icons/icon.png') ?>" type="image/png"/>
 <? if(!$page->isHomePage()): ?>
   <link rel="canonical" href="<?= $page->url() ?>"/>
   <? if($page->hasPrevVisible()): ?><link rel="prev" href="<?= $page->prevVisible()->url() ?>"/><? endif ?>
