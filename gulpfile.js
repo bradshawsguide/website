@@ -6,6 +6,7 @@ const config = require('./package.json').config;
 // Dependancies
 //const assets = require('postcss-assets');
 const autoprefixer = require('autoprefixer');
+const browserSync = require('browser-sync').create();
 const del = require('del');
 const gulp = require('gulp');
 const imagemin = require('gulp-imagemin');
@@ -42,7 +43,18 @@ function styles() {
     }).on('error', sass.logError))
     .pipe(postcss(processors))
     .pipe(sourcemaps.write('./'))
-    .pipe(gulp.dest(config.dist.assets));
+    .pipe(gulp.dest(config.dist.assets))
+    .pipe(browserSync.stream({
+      match: '**/*.css'
+    }));
+}
+
+function sync() {
+  browserSync.init({
+    files: ['!site/accounts/', 'site/**/*.php', 'content/**/*.txt'],
+    proxy: 'bradshawsguide.dev',
+    open: false
+  });
 }
 
 function watch() {
@@ -54,4 +66,4 @@ function watch() {
 var compile = gulp.series(clean, gulp.parallel(icons, styles));
 
 gulp.task('default', compile);
-gulp.task('dev', gulp.series(compile, watch));
+gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));

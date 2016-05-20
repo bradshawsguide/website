@@ -32,6 +32,7 @@
   },
   "devDependencies": {
     "autoprefixer": "latest",
+    "browser-sync": "latest",
     "del": "latest",
     "gulp": "gulpjs/gulp#4.0",
     "gulp-imagemin": "latest",
