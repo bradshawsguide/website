@@ -15,15 +15,18 @@ html {
 }
 
 ::selection {
-  background-color: $c--highlight;
-  text-shadow: 0 0 $c--highlight;
+  background-color: $c-highlight;
+  text-shadow: 0 0 $c-highlight;
 }
 
 body {
+  display: flex;
+  flex-direction: column;
   height: 100%;
   margin: 0 auto;
-  font-family: $f--sans;
-  color: $c--neutral-darkest;
+  background-color: $c-neutral--light;
+  font-family: $f-sans;
+  color: $c-neutral--darkest;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 

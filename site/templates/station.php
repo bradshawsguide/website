@@ -6,7 +6,7 @@
     'parent' => $page->region()
   ));
 
-  pattern('common/header');
+  pattern('page/header');
 
   pattern('content/prose');
 

@@ -14,11 +14,8 @@
 @import 'base/forms';
 @import 'base/interactive';
 
-// Components
-@import '../../site/patterns/**/*.scss';
-
-// Scopes
-@import '../../site/patterns/scopes/**/*.scss';
+// Patterns
+@import '../../../site/patterns/**/*.scss';
 
 // Utilities
-@import '../../site/patterns/utilities/**/*.scss';
+@import 'utilities/**/*.scss';

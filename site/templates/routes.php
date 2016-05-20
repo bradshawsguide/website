@@ -2,7 +2,7 @@
 
 <section class="c-page">
 <?
-  pattern('common/header');
+  pattern('page/header');
 
   $items = $pages->find('companies')->children()->sortBy('title');
   foreach($items as $item) {

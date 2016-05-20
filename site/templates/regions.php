@@ -2,7 +2,7 @@
 
 <section class="c-page">
 <?
-  pattern('common/header');
+  pattern('page/header');
 
   foreach($pages->findOpen()->children() as $country) {
     pattern('section/country', array(

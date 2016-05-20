@@ -2,7 +2,7 @@
 
 <section class="c-page">
 <?
-  pattern('common/header', array(
+  pattern('page/header', array(
     'title' => "Search results for ‘".esc($query)."’"
   ));
 

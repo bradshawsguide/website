@@ -2,7 +2,7 @@
 
 <article class="c-page">
 <?
-  pattern('common/header');
+  pattern('page/header');
 
   pattern('common/navigation');
 

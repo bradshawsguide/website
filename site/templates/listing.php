@@ -2,7 +2,7 @@
 
 <section class="c-page">
 <?
-  pattern('common/header');
+  pattern('page/header');
 
   pattern('common/list', array(
     'items' => $page->children()

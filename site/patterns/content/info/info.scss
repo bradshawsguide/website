@@ -1,31 +1,27 @@
-//  ===========================================================================
-//  Info
-//  ===========================================================================
-
 .c-info {
-    margin-bottom: 1rem;
+  margin-bottom: 1rem;
 
-    @media screen and (min-width: $v--breakpoint-b) {
-        max-width: 50%;
-        float: right;
-        margin-left: 1rem;
-        border-left: 1px solid;
-        padding-left: 1rem;
-    }
+  @media screen and (min-width: $v-breakpoint--b) {
+    max-width: 50%;
+    float: right;
+    margin-left: 1rem;
+    border-left: 1px solid;
+    padding-left: 1rem;
+  }
 }
 
 .c-info__term {
-    float: left;
-    margin-left: $v--text-indent;
-    font-feature-settings: "smcp" on;
-    font-weight: normal;
+  float: left;
+  margin-left: $v-text-indent;
+  font-feature-settings: "smcp" on;
+  font-weight: normal;
 
-    &::after {
-        content: ".—";
-    }
+  &::after {
+    content: ".—";
+  }
 }
 
 .c-info__desc {
-    margin-bottom: 0.5rem;
-    margin-left: 0;
+  margin-bottom: 0.5rem;
+  margin-left: 0;
 }

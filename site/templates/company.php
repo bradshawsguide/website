@@ -2,21 +2,19 @@
 
 <article class="c-page">
 <?
-  pattern('common/header');
+  pattern('page/header');
 
   pattern('content/prose');
 
   $company = $page->title();
-  $routes = $pages->children()->filterBy('company', $company);
   pattern('section/routes', array(
-    'routes' => $routes,
+    'routes' => $pages->children()->filterBy('company', $company),
     'context' => 'company'
   ));
 
-  $company = kirby()->request()->path(2);
-  $stations = $pages->children()->filterBy('company', '*=', $company);
+  $companyPath = kirby()->request()->path(2);
   pattern('section/stations', array(
-    'stations' => $stations,
+    'stations' => $pages->children()->filterBy('company', '*=', $companyPath),
     'context' => 'company'
   ));
 

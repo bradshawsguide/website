@@ -4,13 +4,15 @@
 const config = require('./package.json').config;
 
 // Dependancies
-const autoprefixer = require('gulp-autoprefixer');
+//const assets = require('postcss-assets');
+const autoprefixer = require('autoprefixer');
 const del = require('del');
 const gulp = require('gulp');
 const imagemin = require('gulp-imagemin');
 const postcss = require('gulp-postcss');
 const sass = require('gulp-sass');
 const sassGlob = require('gulp-sass-glob');
+const scss = require('postcss-scss');
 const sourcemaps = require('gulp-sourcemaps');
 
 // Tasks
@@ -25,18 +27,20 @@ function icons() {
 }
 
 function styles() {
+  const processors = [
+    autoprefixer({
+      browsers: ['> 5%']
+    })
+  ];
+
   return gulp.src(config.src.assets + 'styles/*.scss')
     .pipe(sourcemaps.init())
     .pipe(sassGlob())
     .pipe(sass({
-      outputStyle:'expanded',
+      outputStyle: 'expanded',
       includePaths: ['./node_modules']
     }).on('error', sass.logError))
-    .pipe(postcss([
-      autoprefixer({
-        browsers: ['> 5%'],
-      })
-    ]))
+    .pipe(postcss(processors))
     .pipe(sourcemaps.write('./'))
     .pipe(gulp.dest(config.dist.assets));
 }

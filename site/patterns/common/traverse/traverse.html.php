@@ -1,3 +1,4 @@
+<?= $page ?>
 <nav class="traverse">
   <h1 class="traverse__title">Previous and Next <?= $page->parent()->title() ?></h1>
 

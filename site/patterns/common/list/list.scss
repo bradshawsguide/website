@@ -1,12 +1,8 @@
-//  ===========================================================================
-//  Info
-//  ===========================================================================
-
 .c-list {
-    line-height: 1.5;
-    overflow: hidden;
+  line-height: 1.5;
+  overflow: hidden;
 
-    @media screen and (min-width: $v--breakpoint-c) {
-        line-height: 1.25;
-    }
+  @media screen and (min-width: $v-breakpoint--c) {
+    line-height: 1.25;
+  }
 }

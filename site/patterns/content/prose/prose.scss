@@ -1,66 +1,62 @@
-//  ===========================================================================
-//  Prose
-//  ===========================================================================
-
 .s-prose {
-    @include fs--body;
-    font-feature-settings: "onum" 1, "kern" 1;
+  @include fs--body;
+  font-feature-settings: "onum" 1, "kern" 1;
 
-    > * {
-        margin-bottom: 0.625em;
-    }
+  > * {
+    margin-bottom: 0.625em;
+  }
 
-    h2,
-    summary,
-    caption {
-        @include fs--heading;
-        margin-top: 2rem;
-        font-feature-settings: "dlig" 1;
-    }
+  h2,
+  summary,
+  caption {
+    @include fs--heading;
+    margin-top: 2rem;
+    font-feature-settings: "dlig" 1;
+  }
 
-    summary,
-    caption {
-        text-align: center;
-    }
+  summary,
+  caption {
+    text-align: center;
+  }
 
-    a {
-        color: $c--brand-crimson;
-        text-decoration: underline;
-    }
+  a {
+    color: $c-brand-crimson;
+    text-decoration: underline;
+  }
 
-    p {
-        hyphens: auto;
-        text-align: justify;
-        text-indent: $v--text-indent;
-        word-break: break-word;
-    }
+  p {
+    hyphens: auto;
+    text-align: justify;
+    text-indent: $v-text-indent;
+    word-break: break-word;
+  }
 
-    ul li {
-        margin-left: $v--text-indent;
-        text-indent: ($v--text-indent * -1);
-    }
+  ul li {
+    margin-left: $v-text-indent;
+    text-indent: ($v-text-indent * -1);
+  }
 
-    dt:not([class]) {
-        font-weight: 700;
-    }
+  dt:not([class]) {
+    font-weight: 700;
+  }
 
-    dd:not([class]) {
-        margin-left: $v--text-indent;
-    }
+  dd:not([class]) {
+    margin-left: $v-text-indent;
+  }
 
-    figure {
-        @include l--container-extend;
-    }
+  figure {
+    @include l--container-extend;
+  }
 
-    figcaption {
-        @include fs--system-caption;
-        margin-right: 1rem;
-        margin-bottom: 2rem;
-        margin-left: 1rem;
-        opacity: 0.6;
-    }
+  figcaption {
+    @include fs--system-caption;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    opacity: 0.6;
+  }
 
-    table {
-        font-feature-settings: "lnum" 1, "tnum" 1;
-    }
+  table {
+    font-feature-settings: "lnum" 1, "tnum" 1;
+  }
 }

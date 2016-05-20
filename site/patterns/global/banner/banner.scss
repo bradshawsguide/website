@@ -1,23 +1,19 @@
-//  ===========================================================================
-//  Banner
-//  ===========================================================================
-
 .c-banner {
-    order: 1;
-    padding-top: 1rem;
-    padding-bottom: 0.25rem;
-    background-color: $c--neutral-darkest;
+  order: 1;
+  padding-top: 1rem;
+  padding-bottom: 0.25rem;
+  background-color: $c-neutral--darkest;
 }
 
 .c-banner__title {
-    @include l--container;
-    color: $c--brand-yellow;
-    font-family: $f--block;
-    font-size: 2rem;
-    text-transform: uppercase;
+  @include l--container;
+  color: $c-brand-yellow;
+  font-family: $f-block;
+  font-size: 2rem;
+  text-transform: uppercase;
 }
 
 .c-banner__home {
-    color: $c--brand-yellow;
-    text-decoration: none;
+  color: $c-brand-yellow;
+  text-decoration: none;
 }

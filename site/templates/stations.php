@@ -2,10 +2,10 @@
 
 <section class="c-page">
 <?
-  pattern('common/header');
+  pattern('page/header');
 
   pattern('section/index', array(
-    'search' => $stations = $page->children()
+    'search' => $page->children()
   ));
 ?>
 </section>

@@ -6,7 +6,7 @@
     'parent' => $page->country()
   ));
 
-  pattern('common/header');
+  pattern('page/header');
 
   pattern('common/navigation');
 

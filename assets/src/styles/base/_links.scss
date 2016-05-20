@@ -7,21 +7,12 @@
 a {
   background-color: transparent;
   text-decoration: none;
-  color: $c-link;
   transition: all 0.2s ease;
+  color: inherit;
 }
 
 // Remove the outline on focused links when they are also active or hovered
 // in all browsers (opinionated).
-a:hover {
-  color: $c-link--hover;
-  text-decoration: underline;
-}
-
-a:active {
-  color: $c-link--active;
-}
-
 a:active,
 a:hover {
   outline-width: 0;

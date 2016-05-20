@@ -55,7 +55,7 @@ optgroup {
 // 1. Remove default appearance.
 // 2. Add new arrow image using background image.
 select {
-  background-image: inline('icons/select.svg'); // 2
+  //background-image: inline('select.svg'); // 2
   background-position: top 50% right 0.5rem;
   background-repeat: no-repeat;
   padding-right: 1.5rem !important;

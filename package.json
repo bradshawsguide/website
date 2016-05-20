@@ -31,14 +31,16 @@
     }
   },
   "devDependencies": {
+    "autoprefixer": "latest",
     "del": "latest",
     "gulp": "gulpjs/gulp#4.0",
-    "gulp-autoprefixer": "latest",
     "gulp-imagemin": "latest",
     "gulp-postcss": "latest",
     "gulp-sass": "latest",
     "gulp-sass-glob": "latest",
-    "gulp-sourcemaps": "latest"
+    "gulp-sourcemaps": "latest",
+    "postcss-assets": "latest",
+    "postcss-scss": "latest"
   },
   "private": true
 }
