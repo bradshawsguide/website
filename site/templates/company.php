@@ -4,7 +4,7 @@
 <?
   pattern('page/header');
 
-  pattern('content/prose');
+  pattern('page/content');
 
   $company = $page->title();
   pattern('section/routes', array(
@@ -20,7 +20,7 @@
 
   pattern('section/related');
 
-  pattern('shorturl');
+  pattern('common/shorturl');
 ?>
 </article>
 

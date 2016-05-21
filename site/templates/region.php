@@ -8,7 +8,7 @@
 
   pattern('page/navigation');
 
-  pattern('content/prose');
+  pattern('page/content');
 
   pattern('section/related');
 

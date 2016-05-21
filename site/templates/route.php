@@ -8,7 +8,7 @@
 
   pattern('page/header');
 
-  pattern('content/prose');
+  pattern('page/content');
 
   pattern('section/routemap');
 

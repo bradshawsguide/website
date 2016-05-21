@@ -8,7 +8,7 @@
 
   pattern('page/header');
 
-  pattern('content/prose');
+  pattern('page/content');
 
   if($page->route()->isNotEmpty()) {
     $routes = related($page->route());

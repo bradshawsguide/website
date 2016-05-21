@@ -4,7 +4,7 @@
 <?
   pattern('page/header');
 
-  pattern('content/prose');
+  pattern('page/content');
 ?>
 </article>
 

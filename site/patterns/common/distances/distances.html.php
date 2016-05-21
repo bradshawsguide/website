@@ -1,5 +1,5 @@
 <table class="c-distances">
-  <caption>Distances of Places from <?= smartypants($page->title()) ?></caption>
+  <caption class="c-distances__caption">Distances of Places from <?= smartypants($page->title()) ?></caption>
   <thead>
     <tr>
       <th></th>

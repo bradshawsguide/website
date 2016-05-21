@@ -447,8 +447,8 @@ Patterns
 ---------------------------------------
 
 */
-c::set('patterns.preview.css', 'assets/dist/app.css');
-c::set('patterns.preview.js', 'assets/dist/app.js');
+c::set('patterns.preview.css', 'assets/app.css');
+c::set('patterns.preview.js', 'assets/app.js');
 
 
 /*
