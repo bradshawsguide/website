@@ -6,9 +6,9 @@
     'parent' => $page->company()
   ));
 
-  pattern('page/header');
+  pattern('page/header', ['p' => $page]);
 
-  pattern('page/content');
+  pattern('page/content', ['p' => $page]);
 
   pattern('section/routemap');
 

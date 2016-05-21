@@ -20,7 +20,7 @@
   <meta name="robots" content="index, follow"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-  <link rel="manifest" href="<?= url('maniest.json') ?>"/>
+  <link rel="manifest" href="<?= url('manifest.json') ?>"/>
   <link rel="shortcut icon" href="<?= url('assets/icons/icon.ico') ?>" type="image/ico"/>
   <link rel="mask-icon" href="<?= url('assets/icons/icon.svg') ?>" color="<?= $site->background_color() ?>"/>
   <link rel="apple-touch-icon" href="<?= url('assets/icons/icon.png') ?>" type="image/png"/>

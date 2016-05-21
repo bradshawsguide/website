@@ -44,18 +44,6 @@
     margin-left: $v-text-indent;
   }
 
-  figure {
-    @include l--container-extend;
-  }
-
-  figcaption {
-    @include fs--system-caption;
-    margin-right: 1rem;
-    margin-bottom: 2rem;
-    margin-left: 1rem;
-    opacity: 0.6;
-  }
-
   table {
     font-feature-settings: "lnum" 1, "tnum" 1;
   }

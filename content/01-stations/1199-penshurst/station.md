@@ -33,25 +33,36 @@ text: This is a small but exceedingly pretty village, celebrated for its fine ol
 A few miles more, in the course of which we thrice cross the winding Medway, brings us to [Tunbridge](/stations/tunbridge).
 ----
 distances:
-- location: "Belle Vue (Col. Austen's)"
+- 
+  location: "Belle Vue (Col. Austen's)"
   miles: "3"
-- location: "Chevening Park (Lord Stanhope's)"
+- 
+  location: "Chevening Park (Lord Stanhope's)"
   miles: "7"
-- location: Enfield Well Place
+- 
+  location: Enfield Well Place
   miles: "2"
-- location: Hobby Hall
+- 
+  location: Hobby Hall
   miles: "3¾"
-- location: "Knowle Park (Lord Amherst's)"
+- 
+  location: "Knowle Park (Lord Amherst's)"
   miles: "4"
-- location: Leigh Park
+- 
+  location: Leigh Park
   miles: "2½"
-- location: Montreal Park (Lord Holmesdale)
+- 
+  location: Montreal Park (Lord Holmesdale)
   miles: "5½"
-- location: Penshurst
+- 
+  location: Penshurst
   miles: "3"
-- location: "Penshurst Park (Lord de L'Isle Dudley)"
+- 
+  location: "Penshurst Park (Lord de L'Isle Dudley)"
   miles: "1¾"
-- location: Salmonds
+- 
+  location: Salmonds
   miles: "2"
-- location: South Park Hill
+- 
+  location: South Park Hill
   miles: "3½"

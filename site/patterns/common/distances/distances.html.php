@@ -1,5 +1,5 @@
 <table class="c-distances">
-  <caption class="c-distances__caption">Distances of Places from <?= smartypants($page->title()) ?></caption>
+  <caption class="c-distances__caption">Distances of Places from <?= smartypants($p->title()) ?></caption>
   <thead>
     <tr>
       <th></th>
@@ -7,8 +7,8 @@
     </tr>
   </thead>
   <tbody>
-    <? foreach($page->distances()->yaml() as $distance): ?>
-    <tr>
+    <? foreach($p->distances()->yaml() as $distance): ?>
+    <tr class="c-distances__item">
       <td class="c-distances__location">
         <?= kirbytextRaw($distance['location']) ?>
       </td>

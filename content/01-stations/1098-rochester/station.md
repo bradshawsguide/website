@@ -39,43 +39,63 @@ Rochester now consists principally of one long street, called High Street, which
 In the vicinity are *Upnor Castle*, a fort built by Queen Elizabeth to guard the town (1½ mile); *Cobham Park and Hall*, (3 miles); *Gad's Hill*, (2½ miles); and *Blue Bell Down* on the Maidstone road, a walk over which, crossing over Aylesford Bridge, and back by the banks of the river, will be found interesting and alluring, for its varied prospects.
 ----
 distances:
-- location: Bairborough
+- 
+  location: Bairborough
   miles: "3"
-- location: Bridge Wood
+- 
+  location: Bridge Wood
   miles: "2"
-- location: Cliffe
+- 
+  location: Cliffe
   miles: "5"
-- location: Cobham
+- 
+  location: Cobham
   miles: "4"
-- location: Cole Harbour
+- 
+  location: Cole Harbour
   miles: "5"
-- location: Cowling
+- 
+  location: Cowling
   miles: "4"
-- location: Cuxton
+- 
+  location: Cuxton
   miles: "2"
-- location: Gillingham Fort
+- 
+  location: Gillingham Fort
   miles: "2"
-- location: Hooness Fort
+- 
+  location: Hooness Fort
   miles: "4"
-- location: Lower Hailing
+- 
+  location: Lower Hailing
   miles: "4"
-- location: Luddesdown
+- 
+  location: Luddesdown
   miles: "4"
-- location: Luton
+- 
+  location: Luton
   miles: "3"
-- location: Mortimer Farra
+- 
+  location: Mortimer Farra
   miles: "3"
-- location: Mulling Wood
+- 
+  location: Mulling Wood
   miles: "5"
-- location: New Hythe
+- 
+  location: New Hythe
   miles: "6"
-- location: Park Woods
+- 
+  location: Park Woods
   miles: "5"
-- location: Rainham Park
+- 
+  location: Rainham Park
   miles: "4"
-- location: Rauscombe
+- 
+  location: Rauscombe
   miles: "1"
-- location: Red Wood
+- 
+  location: Red Wood
   miles: "4"
-- location: Snodland
+- 
+  location: Snodland
   miles: "5"

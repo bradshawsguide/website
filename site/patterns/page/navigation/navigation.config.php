@@ -1,8 +1,7 @@
-<?php
+<?
 
 return [
   'defaults' => [
-    'items' => page('regions')->children(),
-    'type' => 'child'
+    'p' => page('regions/england/london/summary'),
   ]
 ];

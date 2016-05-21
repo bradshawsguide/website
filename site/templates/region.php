@@ -4,11 +4,11 @@
 <?
   pattern('common/breadcrumb');
 
-  pattern('page/header');
+  pattern('page/header', ['p' => $page]);
 
-  pattern('page/navigation');
+  pattern('page/navigation', ['p' => $page]);
 
-  pattern('page/content');
+  pattern('page/content', ['p' => $page]);
 
   pattern('section/related');
 

@@ -2,13 +2,13 @@
 
 <article class="c-page">
 <?
-  pattern('common/breadcrumb', array(
+  pattern('common/breadcrumb', [
     'parent' => $page->region()
-  ));
+  ]);
 
-  pattern('page/header');
+  pattern('page/header', ['p' => $page]);
 
-  pattern('page/content');
+  pattern('page/content', ['p' => $page]);
 
   if($page->route()->isNotEmpty()) {
     $routes = related($page->route());

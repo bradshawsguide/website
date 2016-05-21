@@ -1,24 +1,24 @@
 <div class="c-page__content">
 <?
-  if($page->hasImages()) {
-    pattern('common/poster');
+  if($p->hasImages()) {
+    pattern('common/poster', ['p' => $p]);
   }
 
-  if($page->info()->isNotEmpty()) {
-    pattern('common/info');
+  if($p->info()->isNotEmpty()) {
+    pattern('common/info', ['p' => $p]);
   } else {
     // temporary
-    echo kirbytext($page->meta());
+    echo kirbytext($p->meta());
   }
 ?>
 
   <div class="s-prose">
-    <?= kirbytext($page->text()) ?>
+    <?= kirbytext($p->text()) ?>
   </div>
 
 <?
-  if($page->distances()->isNotEmpty()) {
-    pattern('common/distances');
+  if($p->distances()->isNotEmpty()) {
+    pattern('common/distances', ['p' => $p]);
   }
 ?>
 </div>

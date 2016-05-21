@@ -31,93 +31,138 @@ The cathedral is a cross building of the 12th century, 314 feet long, or 377 fee
 **Goodwood** (three miles), seat of the Duke of Richmond, stands in a large park under the South Downs. Here the July races are held, and which are always attended by the *haut ton* and the leading members of the Turf. It is about six miles round, and well wooded, and contains two cork trees, and about 1,000 cedars, planted 1762. From the grotto on Cairney seat (built out of a ruined church), is a fine view of the coast, Isle of Wight, the Downs, &c. The house was built by Sir W. Chambers, and enlarged by Wyattville, with centre and wings. It is 378 feet long, the wings falling back at angles of 45 feet. Stone and flint are used. In the hall is a standard and other trophies from Waterloo (which the late Duke attended as an amateur). The drawing room is 58 feet long. One portrait is that of a beautiful Duchess of Richmond of Charles II.'s time--the original, it is said, of Britannia on the copper com age. Large stables and dog kennels (the latter cost 6,000l.) with a tennis-court, are behind.
 ----
 distances:
-- location: Aldingbourne
+- 
+  location: Aldingbourne
   miles: "5"
-- location: Almondington Green
+- 
+  location: Almondington Green
   miles: "6"
-- location: Applesham
+- 
+  location: Applesham
   miles: "1½"
-- location: Birdham
+- 
+  location: Birdham
   miles: "4"
-- location: Boxgrove
+- 
+  location: Boxgrove
   miles: "3½"
-- location: Chidham
+- 
+  location: Chidham
   miles: "5"
-- location: Dell Quay
+- 
+  location: Dell Quay
   miles: "2"
-- location: Donnington
+- 
+  location: Donnington
   miles: "1½"
-- location: East Ashling
+- 
+  location: East Ashling
   miles: "3"
-- location: Fishbourne
+- 
+  location: Fishbourne
   miles: "2"
-- location: Frintington
+- 
+  location: Frintington
   miles: "5"
-- location: Goodwood
+- 
+  location: Goodwood
   miles: "3"
-- location: Gosden Green
+- 
+  location: Gosden Green
   miles: "6"
-- location: Halnaker Park
+- 
+  location: Halnaker Park
   miles: "3½"
-- location: Highley
+- 
+  location: Highley
   miles: "3¾"
-- location: "Holt's Green"
+- 
+  location: "Holt's Green"
   miles: "3"
-- location: Hunston
+- 
+  location: Hunston
   miles: "2"
-- location: Kingsham
+- 
+  location: Kingsham
   miles: "1"
-- location: Lepring
+- 
+  location: Lepring
   miles: "4"
-- location: Harden North
+- 
+  location: Harden North
   miles: "8"
-- location: Mid Lavant
+- 
+  location: Mid Lavant
   miles: "3"
-- location: Mitener
+- 
+  location: Mitener
   miles: "6"
-- location: Northlands
+- 
+  location: Northlands
   miles: "3"
-- location: Old Brook
+- 
+  location: Old Brook
   miles: "2"
-- location: Old Park
+- 
+  location: Old Park
   miles: "2½"
-- location: Racton
+- 
+  location: Racton
   miles: "4"
-- location: Rumbolds Wyke
+- 
+  location: Rumbolds Wyke
   miles: "2"
-- location: Salt Hill
+- 
+  location: Salt Hill
   miles: "2"
-- location: Shop wick
+- 
+  location: Shop wick
   miles: "2"
-- location: Sidelsham
+- 
+  location: Sidelsham
   miles: "5"
-- location: Singleton
+- 
+  location: Singleton
   miles: "6"
-- location: Stanstead House
+- 
+  location: Stanstead House
   miles: "9"
-- location: Stoke House
+- 
+  location: Stoke House
   miles: "3"
-- location: Stoughton
+- 
+  location: Stoughton
   miles: "5"
-- location: Tangmere
+- 
+  location: Tangmere
   miles: "3½"
-- location: Thorney Island
+- 
+  location: Thorney Island
   miles: "8"
-- location: Walton
+- 
+  location: Walton
   miles: "2"
-- location: Westbourne
+- 
+  location: Westbourne
   miles: "7"
-- location: West Dean
+- 
+  location: West Dean
   miles: "5"
-- location: West Hampnett
+- 
+  location: West Hampnett
   miles: "3"
-- location: West Itchenor
+- 
+  location: West Itchenor
   miles: "6"
-- location: West Lavant
+- 
+  location: West Lavant
   miles: "2½"
-- location: Westerton
+- 
+  location: Westerton
   miles: "3"
-- location: West Stoke
+- 
+  location: West Stoke
   miles: "3"
-- location: Woodlands (Captain James Lyon)
+- 
+  location: Woodlands (Captain James Lyon)
   miles: "8½"

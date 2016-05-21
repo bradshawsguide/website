@@ -2,9 +2,9 @@
 
 <article class="c-page">
 <?
-  pattern('page/header');
+  pattern('page/header', ['p' => $page]);
 
-  pattern('page/content');
+  pattern('page/content', ['p' => $page]);
 ?>
 </article>
 

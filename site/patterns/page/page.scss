@@ -23,3 +23,13 @@
     font-weight: bold;
   }
 }
+
+.c-page__content {
+  .c-poster {
+    @include l--container-extend;
+  }
+
+  .c-poster__caption {
+    @include l--container;
+  }
+}

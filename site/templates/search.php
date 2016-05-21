@@ -2,9 +2,10 @@
 
 <section class="c-page">
 <?
-  pattern('page/header', array(
+  pattern('page/header', [
+    'p' => $page,
     'title' => "Search results for ‘".esc($query)."’"
-  ));
+  ]);
 
   if($results && $results->count()) {
     pattern('common/results');

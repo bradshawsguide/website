@@ -31,95 +31,141 @@ It is a favourite summer resort of invalids and lovers of rural scenery, and it 
 The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](/stations/gomshall-and-sheire).
 ----
 distances:
-- location: Abinger Hall
+- 
+  location: Abinger Hall
   miles: "3"
-- location: Anstie Bury
+- 
+  location: Anstie Bury
   miles: "4½"
-- location: Ashstead
+- 
+  location: Ashstead
   miles: "8"
-- location: Bay Hill
+- 
+  location: Bay Hill
   miles: "1½"
-- location: Bench
+- 
+  location: Bench
   miles: "2"
-- location: Bookham
+- 
+  location: Bookham
   miles: "2"
-- location: Boxhill
+- 
+  location: Boxhill
   miles: "2"
-- location: Brickham Common
+- 
+  location: Brickham Common
   miles: "2½"
-- location: Broadmoor
+- 
+  location: Broadmoor
   miles: "2"
-- location: Burford Grove
+- 
+  location: Burford Grove
   miles: "2"
-- location: Capet
+- 
+  location: Capet
   miles: "7"
-- location: Chardhurst
+- 
+  location: Chardhurst
   miles: "2"
-- location: Cold Harbour
+- 
+  location: Cold Harbour
   miles: "4½"
-- location: Collickmoor
+- 
+  location: Collickmoor
   miles: "2"
-- location: Combe
+- 
+  location: Combe
   miles: "1¾"
-- location: Deepdene
+- 
+  location: Deepdene
   miles: "3"
-- location: Denhies
+- 
+  location: Denhies
   miles: "2"
-- location: Etnngham
+- 
+  location: Etnngham
   miles: "4"
-- location: Folly
+- 
+  location: Folly
   miles: "1½"
-- location: Freeshurst
+- 
+  location: Freeshurst
   miles: "2"
-- location: Holloway
+- 
+  location: Holloway
   miles: "1½"
-- location: Holmbury Hill
+- 
+  location: Holmbury Hill
   miles: "1½"
-- location: Holmwood Common
+- 
+  location: Holmwood Common
   miles: "2½"
-- location: Leith Hill
+- 
+  location: Leith Hill
   miles: "5"
-- location: Livesome Bridge
+- 
+  location: Livesome Bridge
   miles: "2½"
-- location: Menidone
+- 
+  location: Menidone
   miles: "1½"
-- location: Mickleham
+- 
+  location: Mickleham
   miles: "3"
-- location: Norbury Park
+- 
+  location: Norbury Park
   miles: "3"
-- location: Ockley
+- 
+  location: Ockley
   miles: "7"
-- location: Park Farm
+- 
+  location: Park Farm
   miles: "1½"
-- location: Parkpale
+- 
+  location: Parkpale
   miles: "2½"
-- location: Pexham
+- 
+  location: Pexham
   miles: "1½"
-- location: Pit brook Bridge
+- 
+  location: Pit brook Bridge
   miles: "1½"
-- location: Polesden
+- 
+  location: Polesden
   miles: "3"
-- location: Ridland
+- 
+  location: Ridland
   miles: "1½"
-- location: Rookery
+- 
+  location: Rookery
   miles: "1½"
-- location: Scammels
+- 
+  location: Scammels
   miles: "2½"
-- location: Shrub Hill
+- 
+  location: Shrub Hill
   miles: "2"
-- location: Store Bridge
+- 
+  location: Store Bridge
   miles: "2"
-- location: Stubbs
+- 
+  location: Stubbs
   miles: "2"
-- location: Stumble Hole
+- 
+  location: Stumble Hole
   miles: "2"
-- location: Tanhurst near Leith Hill
+- 
+  location: Tanhurst near Leith Hill
   miles: "5"
-- location: Upper Laylands
+- 
+  location: Upper Laylands
   miles: "2½"
-- location: Wescott
+- 
+  location: Wescott
   miles: "2½"
-- location: Wescott Parsonage
+- 
+  location: Wescott Parsonage
   miles: "1½"
-- location: Wotten
+- 
+  location: Wotten
   miles: "2"

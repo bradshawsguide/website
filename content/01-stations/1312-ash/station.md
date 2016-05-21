@@ -27,55 +27,81 @@ text: The line now diverges or turns more towards the north, to [Aldershott](/st
 The line then proceeds through the valley of the Blackwater to [Blackwater](/stations/blackwater).
 ----
 distances:
-- location: Aldershott
+- 
+  location: Aldershott
   miles: "3"
-- location: Ash Common
+- 
+  location: Ash Common
   miles: "1¼"
-- location: Bagshot Green
+- 
+  location: Bagshot Green
   miles: "2¾"
-- location: College Farm
+- 
+  location: College Farm
   miles: "¾"
-- location: Compton
+- 
+  location: Compton
   miles: "4"
-- location: Crondall
+- 
+  location: Crondall
   miles: "7"
-- location: Farnham
+- 
+  location: Farnham
   miles: "5"
-- location: Fox Hills
+- 
+  location: Fox Hills
   miles: "1½"
-- location: Frog Grove Green
+- 
+  location: Frog Grove Green
   miles: "2½"
-- location: Godalming
+- 
+  location: Godalming
   miles: "5¾"
-- location: Henley Park
+- 
+  location: Henley Park
   miles: "3"
-- location: "Hunter's Hole"
+- 
+  location: "Hunter's Hole"
   miles: "2"
-- location: Mitchet Farm
+- 
+  location: Mitchet Farm
   miles: "2"
-- location: Normandy
+- 
+  location: Normandy
   miles: "2"
-- location: Perbright
+- 
+  location: Perbright
   miles: "5"
-- location: Poyle Park
+- 
+  location: Poyle Park
   miles: "1½"
-- location: Puttenham
+- 
+  location: Puttenham
   miles: "2¾"
-- location: Romping Downs
+- 
+  location: Romping Downs
   miles: "2"
-- location: Seal
+- 
+  location: Seal
   miles: "2"
-- location: Tongham
+- 
+  location: Tongham
   miles: "1"
-- location: Warren Hill
+- 
+  location: Warren Hill
   miles: "4"
-- location: Waverley Abbey
+- 
+  location: Waverley Abbey
   miles: "4"
-- location: Week
+- 
+  location: Week
   miles: "1"
-- location: Westwood
+- 
+  location: Westwood
   miles: "1¼"
-- location: Weyburn House
+- 
+  location: Weyburn House
   miles: "3"
-- location: Winchfield Station
+- 
+  location: Winchfield Station
   miles: "9"
