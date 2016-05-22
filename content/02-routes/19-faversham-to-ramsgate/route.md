@@ -4,7 +4,13 @@ title: Faversham to Whitstable, Herne Bay, Margate, and Ramsgate
 ----
 company: London, Chatham, and Dover Railway
 ----
-destination: Whitstable, Herne Bay, Margate and Ramsgate
+stops:
+- faversham
+- whitstable
+- herne-bay
+- birchington
+- broadstairs
+- ramsgate
 ----
 text: ## Faversham to Ramsgate.
 

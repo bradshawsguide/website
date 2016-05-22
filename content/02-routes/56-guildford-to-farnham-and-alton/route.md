@@ -4,6 +4,14 @@ title: Guildford to Farnham and Alton
 ----
 company: London and South Western Railway
 ----
-destination: Farnham, Alton and Winchester
-----
-text: &#32;
+stops:
+- guildford
+- ash
+- tongham
+- farnham
+- bentley
+- alton
+- ropley
+- alresford
+- itchen-abbas
+- winchester

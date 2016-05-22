@@ -7,6 +7,6 @@ company: London, Brighton, and South Coast Railway
 related:
 - (wikipedia: Bognor Regis branch line)
 ----
-destination: Bognor
-----
-text:
+stops:
+- barnham
+- bognor

@@ -4,6 +4,10 @@ title: Victoria to Herne Hill
 ----
 company: London, Chatham, and Dover Railway
 ----
-destination: Herne Hill
-----
-text:
+stops:
+- victoria
+- battersea-park-road
+- stewarts-lane
+- wandsworth-road
+- brixton
+- herne-hill

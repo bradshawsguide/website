@@ -4,6 +4,12 @@ title: Horsham to Guildford
 ----
 company: London, Brighton, and South Coast Railway
 ----
-destination: Guildford
-----
-text:
+stops:
+- horsham
+- slinford
+- rudgwick
+- baynards
+- knowle
+- cranley
+- bramley
+- guildford

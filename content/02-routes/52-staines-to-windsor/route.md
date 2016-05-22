@@ -4,6 +4,8 @@ title: Staines to Windsor
 ----
 company: London and South Western Railway
 ----
-destination: Windsor
-----
-text: 
+stops:
+- staines
+- wraysbury
+- datchet
+- windsor

@@ -4,6 +4,14 @@ title: Bow to Chalk Farm
 ----
 company: North London Railway
 ----
-destination: Chalk Farm
+stops:
+- fenchurch-street
+- bow
+- hackney
+- dalston
+- newington-road
+- islington
+- camden-road
+- chalk-farm
 ----
 text: &#32;

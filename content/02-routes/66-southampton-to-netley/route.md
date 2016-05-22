@@ -4,6 +4,9 @@ title: Southampton to Netley
 ----
 company: London and South Western Railway
 ----
-destination: Netley
-----
-text:
+stops:
+- netley-abbey
+- bitterne-road
+- woolston
+- portswood
+- southampton

@@ -4,6 +4,9 @@ title: Twickenham to Shepperton
 ----
 company: London and South Western Railway
 ----
-destination: Shepperton
-----
-text:
+stops:
+- twickenham
+- fulwell
+- hampton
+- sunbury
+- shepperton

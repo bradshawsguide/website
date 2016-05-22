@@ -4,6 +4,10 @@ title: Wimborne to Blandford
 ----
 company: London and South Western Railway
 ----
-destination: Blandford
+stops:
+- wimborne
+- sturminster
+- spettisbury
+- blandford
 ----
 text: Branch line to Blandford.

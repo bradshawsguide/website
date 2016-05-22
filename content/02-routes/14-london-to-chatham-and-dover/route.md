@@ -4,7 +4,43 @@ title: London and Beckenham to Chatham, Canterbury, and Dover
 ----
 company: London, Chatham, and Dover Railway
 ----
-destination: Chatham, Canterbury and Dover
+stops:
+- farringdon-street
+- ludgate-hill
+- blackfriars
+- borough-road
+- elephant-and-castle
+- wallworth-road
+- camberwell-road
+- loughborough-road
+- brixton
+- herne-hill
+- penge
+- beckenham
+- shortlands
+- bromley
+- bickley
+- st-marys-cray
+- sevenoaks-junction
+- farningham
+- meopham
+- sole-street
+- strood
+- rochester
+- chatham
+- new-brompton
+- rainham-kent
+- newington
+- sittingbourne
+- teynham
+- faversham
+- selling
+- canterbury
+- bekesbourne
+- adisham
+- shepherds-well
+- temple-ewell
+- dover
 ----
 text: This company has now two termini in London; both conveniently situated to accommodate pleasure and business traffic. The West End terminus is a portion of the extensive Victoria station, Pimlico, whilst the City station is at Farringdon Street, where it unites with the Metropolitan or under-ground railway to King's Cross and Paddington. This section of the line, under the name of the [Metropolitan Extension](victoria-to-herne-hill), joins with that of the Western at Herne Hill, and has become very much crowded with local traffic. Leaving Victoria, we almost immediately cross the Thames, pass [Battersea Park](/stations/battersea-park-road), and arrive at [Stewart's Lane](/stations/stewarts-lane), at which are situate extensive works belonging to the company. From thence we pass [Wandsworth Road](/stations/wandsworth-road), [Clapham](/stations/clapham), and [Brixton](/stations/brixton) to [Herne Hill](/stations/herne-hill), the point of connection with the City or eastern section of the line. On leaving [Farringdon Street](/stations/farringdon-street) the line is carried across [Ludgate Hill](/stations/ludgate-hill) by means of a highly ornamented viaduct, and from thence over the Alexandra Bridge, a truly magnificent specimen of engineering skill, to [Blackfriars](/stations/blackfriars). The Charing Cross railway attracts our attention for a moment, when, on passing the station at [Borough Road](/stations/borough-road), we arrive at the well-known station of the
 

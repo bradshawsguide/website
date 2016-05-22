@@ -4,7 +4,10 @@ title: Minster Junction to Deal
 ----
 company: South Eastern Railway
 ----
-destination: Deal
+stops:
+- minster-junction
+- sandwich
+- deal
 ----
 text: After leaving [Minster](/stations/minster-junction), the line crosses the Stour by a double swing bridge built on a new and ingenious principle. Each line has its bridge; one turns to the right on a pivot on the side of the Minister branch, and the other to the left, from a pivot on the side of Ash, which is the next parish. By this arrangement greater stability is obtained, with a nicer power of adjustment. This bridge is considered a curiosity by engineers, and it will well repay examination. It far surpasses the celebrated bridge at Norwich.
 

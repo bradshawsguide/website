@@ -4,6 +4,9 @@ title: Weybridge to Chertsey
 ----
 company: London and South Western Railway
 ----
-destination: Chertsey
+stops:
+- weybridge
+- addlestone
+- chertsey
 ----
 text: Branch line to Chertsey.

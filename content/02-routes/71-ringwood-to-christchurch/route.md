@@ -4,6 +4,7 @@ title: Ringwood to Christchurch
 ----
 company: London and South Western Railway
 ----
-destination: Christchurch
-----
-text: &#32;
+stops:
+- ringwood
+- herne
+- christchurch

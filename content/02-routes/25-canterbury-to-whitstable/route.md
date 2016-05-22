@@ -4,6 +4,6 @@ title: Canterbury to Whitstable
 ----
 company: South Eastern Railway
 ----
-destination: Whitstable
-----
-text: &#32;
+stops:
+- canterbury
+- whitstable

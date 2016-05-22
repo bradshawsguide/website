@@ -4,6 +4,13 @@ title: Camden Road to Willesden Junction
 ----
 company: Hampstead Junction Railway
 ----
-destination: Willesden Junction
+stops:
+- camden-road
+- kentish-town
+- hampstead-heath
+- finchley
+- edgware-road
+- kensal-green
+- willesden-junction
 ----
 text: A transfer of passengers from the [North London Railway](/companies/north-london) can be made at [Camden Road](/stations/camden-road).

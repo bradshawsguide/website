@@ -4,7 +4,19 @@ title: Woking to Godalming and Portsmouth
 ----
 company: London and South Western Railway
 ----
-destination: Godalming and Portsmouth
+stops:
+- woking
+- guildford
+- goldalming
+- milford
+- witley
+- haslemere
+- liphook
+- liss
+- petersfield
+- rowlands-castle
+- havant
+- portsmouth
 ----
 text: Three-quarters of a mile beyond [Woking](/stations/woking) a line branches off to the left to Guildford and Godalming, direct to Portsmouth, from which another branch diverges at Guildford and extends to Ash, Farnham, and Alton.
 

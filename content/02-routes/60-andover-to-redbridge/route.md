@@ -7,6 +7,10 @@ company: London and South Western Railway
 related:
 - (wikipedia: Sprat and Winkle Line)
 ----
-destination: Redbridge
-----
-text:
+stops:
+- andover
+- clatford
+- fullerton-bridge
+- stockbridge
+- horsebridge
+- mottisfont

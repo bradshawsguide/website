@@ -4,6 +4,10 @@ title: Brixton to Crystal Palace
 ----
 company: London, Chatham, and Dover Railway
 ----
-destination: Crystal Palace
-----
-text:
+stops:
+- brixton
+- denmark-hill
+- peckham-rye
+- honor-oak
+- lordship-lane
+- crystal-palace-high-level

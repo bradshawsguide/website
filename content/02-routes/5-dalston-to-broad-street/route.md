@@ -4,6 +4,7 @@ title: Dalston to Broad Street
 ----
 company: North London Railway
 ----
-destination: Broad Street
-----
-text:
+stops:
+- dalston
+- shoreditch
+- broad-street

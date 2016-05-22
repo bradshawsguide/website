@@ -4,6 +4,6 @@ title: Pullborough to Petworth
 ----
 company: London, Brighton, and South Coast Railway
 ----
-destination: Petworth
-----
-text:
+stops:
+- pulborough
+- petworth

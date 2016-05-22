@@ -4,10 +4,18 @@ title: Ashford to Canterbury, Ramsgate, &c.
 ----
 company: South Eastern Railway
 ----
-destination: Canterbury and Ramsgate
+stops:
+- ashford
+- wye
+- chilham
+- canterbury
+- sturry
+- grove-ferry
+- minster-junction
+- ramsgate
+- margate
 ----
 text: ## Ashford to Canterbury
-
 At [Ashford](/stations/ashford), the line branches off to Canterbury, Whitstable, Sandwich, Deal, Ramsgate, and Margate, and, from the accommodation it affords to the towns through which it passes, and the exquisite beauty of the scenery along its route, will not suffer in comparison with any line of similar length in the kingdom. It follows throughout the meanderings of the river Stour, and traversing the most fertile district in the country, has one uninterrupted panorama of luxuriant fertility during its whole length.
 
 On leaving Ashford, the little villages of Brook and Wye are passed in succession to the right, imbedded in a valley sheltered by rising hills, and thickly studded with lofty and umbrageous patches of woodland.

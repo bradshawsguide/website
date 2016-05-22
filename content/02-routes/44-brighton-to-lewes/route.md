@@ -4,7 +4,10 @@ title: Brighton to Lewes
 ----
 company: London, Brighton, and South Coast Railway
 ----
-destination: Lewes
+stops:
+- brighton
+- falmer
+- lewes
 ----
 text: The Preston viaduct of this short line is a magnificent structure, consisting of an elliptic arch 50 feet span, and 73 feet high, flanked on one side by 18, and on the other by 9 semicircular arches, 30 feet span; the former arc built on a curve of three-quarters of a mile radius, and the latter on a 10 chain radius. The length of the viaduct is 400 yards, and ten millions of bricks were used in the construction. In consequence of its being on the curve, one side is above 40 feet longer than the other; all the arcades radiate towards the centre of the curve, and the piers are one foot eight inches thicker at one end than the other, in order to render the openings parallel. The viaduct is universally admired for its beautiful proportions. The view from its summit is exceedingly fine. On the elevated ground to the right is the extensive terminus of the Brighton Railway, and in front lies the town of Brighton and its fine expanse of sea.
 

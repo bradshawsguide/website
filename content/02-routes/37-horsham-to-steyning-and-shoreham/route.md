@@ -7,6 +7,12 @@ company: London, Brighton, and South Coast Railway
 related:
 - (wikipedia: Steyning Line)
 ----
-destination: Steyning and Shoreham
-----
-text: &#32;
+stops:
+- horsham
+- southwater
+- west-grinstead
+- partridge-green
+- henfield
+- steyning
+- bramber
+- new-shoreham

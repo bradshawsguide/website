@@ -4,6 +4,9 @@ title: Willesden Junction to Kew
 ----
 company: North and South Western Junction Railway
 ----
-destination: Kew
+stops:
+- willesden-junction
+- acton
+- kew
 ----
 text: &#32;

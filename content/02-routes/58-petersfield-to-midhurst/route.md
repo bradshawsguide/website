@@ -4,6 +4,8 @@ title: Petersfield to Midhurst
 ----
 company: London and South Western Railway
 ----
-destination: Midhurst
-----
-text:
+stops:
+- petersfield
+- rogate
+- elsted
+- midhurst

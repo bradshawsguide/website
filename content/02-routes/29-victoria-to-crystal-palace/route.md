@@ -7,6 +7,17 @@ company: London, Brighton, and South Coast Railway
 related:
 - (wikipedia: West End of London and Crystal Palace Railway)
 ----
-destination: Crystal Palace
+stops:
+- victoria
+- battersea
+- new-wandsworth
+- balham
+- thorton-heath
+- sellhurst
+- west-croydon
+- streatham
+- norwood-lower
+- gipsey-hill
+- crystal-palace
 ----
 text: For the convenience of the inhabitants of Belgravia and the west end of London, a line has been formed to run from Victoria Station, Chelsea, via [Battersea](/stations/battersea), [New Wandsworth](/stations/new-wandsworth), [Balham](/stations/balham) (where a direct line crosses *Tooting Common*, *Streatham Park*, via [Thorton Heath](/stations/thorton-heath), and [Sellhurst](/stations/sellhurst) to the [West Croydon](/stations/west-croydon) station), [Streatham](/stations/streatham), at which there is a tunnel, [Lower Norwood](/stations/norwood-lower), and [Gipsey Hill](/stations/gipsey-hill) to the Crystal Palace. The scenery along the line is remarkable for its fertility and beauty. It joins the [Brighton main line](london-to-brighton) from [London Bridge](/stations/london-bridge) at Norwood Junction, a little below the Palace.

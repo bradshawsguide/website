@@ -4,6 +4,7 @@ title: Fareham to Gosport
 ----
 company: London and South Western Railway
 ----
-destination: Gosport
-----
-text:
+stops:
+- fareham
+- gosport
+- stokes-bay

@@ -4,6 +4,10 @@ title: Bishopstoke to Salisbury
 ----
 company: London and South Western Railway
 ----
-destination: Salisbury
-----
-text: &#32;
+stops:
+- bishopstoke
+- chandlers-ford
+- romsey
+- dunbridge
+- dean
+- salisbury
