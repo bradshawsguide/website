@@ -8,4 +8,4 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/lewisham-to-chislehurst
+- lewisham-to-chislehurst

@@ -10,8 +10,8 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/ashford-to-canterbury-and-ramsgate
-- routes/minster-junction-to-deal
+- ashford-to-canterbury-and-ramsgate
+- minster-junction-to-deal
 ----
 notes: Distance from station, ¼ mile.
 

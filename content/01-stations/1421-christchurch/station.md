@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/ringwood-to-christchurch
+- ringwood-to-christchurch
 ----
 notes: A telegraph station.
 ----

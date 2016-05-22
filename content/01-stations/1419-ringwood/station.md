@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/ringwood-to-christchurch
+- london-to-southampton-dorchester-and-weymouth
+- ringwood-to-christchurch
 ----
 notes: A telegraph station.
 

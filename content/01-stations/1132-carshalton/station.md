@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/croydon-to-epsom
+- croydon-to-epsom
 ----
 notes: A telegraph station.
 ----

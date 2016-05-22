@@ -8,4 +8,4 @@ company:
 - companies/london-tilbury-and-southend
 ----
 route:
-- routes/fenchurch-street-to-tilbury-and-southend
+- fenchurch-street-to-tilbury-and-southend

@@ -8,4 +8,4 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/sittingbourne-to-sheerness
+- sittingbourne-to-sheerness

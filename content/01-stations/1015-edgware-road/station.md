@@ -10,4 +10,4 @@ company:
 - companies/hampstead-junction
 ----
 route:
-- routes/camden-road-to-willesden-junction
+- camden-road-to-willesden-junction

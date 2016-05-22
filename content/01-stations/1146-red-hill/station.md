@@ -9,9 +9,9 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
-- routes/reigate-to-reading
-- routes/london-to-brighton
+- charing-cross-and-london-bridge-to-folkestone-and-dover
+- reigate-to-reading
+- london-to-brighton
 ----
 notes: A telegraph station.
 ----

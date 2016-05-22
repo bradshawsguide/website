@@ -8,6 +8,6 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/andover-to-redbridge
+- andover-to-redbridge
 ----
 text: A station between Southampton and Dorchester.

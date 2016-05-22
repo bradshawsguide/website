@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/guildford-to-farnham-and-alton
+- guildford-to-farnham-and-alton
 ----
 notes: Distance from station, 1 mile.
 

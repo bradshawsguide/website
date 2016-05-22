@@ -10,7 +10,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
+- london-to-southampton-dorchester-and-weymouth
 ----
 related:
 - (wikipedia: New Malden railway station)

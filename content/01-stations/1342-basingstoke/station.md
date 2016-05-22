@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/basingstoke-to-salisbury-and-exeter
+- london-to-southampton-dorchester-and-weymouth
+- basingstoke-to-salisbury-and-exeter
 ----
 notes: A telegraph station.
 ----

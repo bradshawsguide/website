@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/wimborne-to-blandford
+- london-to-southampton-dorchester-and-weymouth
+- wimborne-to-blandford
 ----
 notes: Distance from station, 1 mile.
 

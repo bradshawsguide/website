@@ -8,7 +8,7 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/london-to-chatham-and-dover
+- london-to-chatham-and-dover
 ----
 notes: A telegraph station
 ----

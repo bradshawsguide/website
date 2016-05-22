@@ -8,6 +8,6 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-greenwich
+- charing-cross-and-london-bridge-to-greenwich
 ----
 notes: A telegraph station.

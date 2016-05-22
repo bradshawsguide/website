@@ -9,9 +9,9 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/london-to-chatham-and-dover
-- routes/ashford-to-canterbury-and-ramsgate
-- routes/canterbury-to-whitstable
+- london-to-chatham-and-dover
+- ashford-to-canterbury-and-ramsgate
+- canterbury-to-whitstable
 ----
 notes: In the western suburb. A telegraph station,
 

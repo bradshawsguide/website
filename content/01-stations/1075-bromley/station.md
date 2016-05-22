@@ -9,8 +9,8 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/fenchurch-street-to-tilbury-and-southend
-- routes/london-to-chatham-and-dover
+- fenchurch-street-to-tilbury-and-southend
+- london-to-chatham-and-dover
 ----
 notes: A telegraph station.
 

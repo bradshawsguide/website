@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/haywards-heath-to-lewes-and-hastings
+- haywards-heath-to-lewes-and-hastings
 ----
 notes: Telegraph station at Polegate, 3½ miles.
 ----

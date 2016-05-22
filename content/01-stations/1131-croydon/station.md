@@ -8,10 +8,10 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/lewisham-to-beckenham-and-croydon
-- routes/london-to-brighton
-- routes/croydon-to-epsom
-- routes/croydon-to-wimbledon
+- lewisham-to-beckenham-and-croydon
+- london-to-brighton
+- croydon-to-epsom
+- croydon-to-wimbledon
 ----
 notes: Distance from station, 1 mile,
 

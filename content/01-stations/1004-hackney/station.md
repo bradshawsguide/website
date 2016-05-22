@@ -8,7 +8,7 @@ company:
 - companies/north-london
 ----
 route:
-- routes/bow-to-chalk-farm
+- bow-to-chalk-farm
 ----
 notes: Distance from station, ½ mile.
 

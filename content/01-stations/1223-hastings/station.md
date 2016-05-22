@@ -9,9 +9,9 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/tunbridge-to-hastings
-- routes/haywards-heath-to-lewes-and-hastings
-- routes/ashford-to-hastings
+- tunbridge-to-hastings
+- haywards-heath-to-lewes-and-hastings
+- ashford-to-hastings
 ----
 notes: A telegraph station.
 

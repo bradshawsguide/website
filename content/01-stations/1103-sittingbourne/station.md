@@ -8,8 +8,8 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/london-to-chatham-and-dover
-- routes/sittingbourne-to-sheerness
+- london-to-chatham-and-dover
+- sittingbourne-to-sheerness
 ----
 info:
 - term: Market Day

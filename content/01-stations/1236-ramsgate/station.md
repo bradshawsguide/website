@@ -9,8 +9,8 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/faversham-to-ramsgate
-- routes/ashford-to-canterbury-and-ramsgate
+- faversham-to-ramsgate
+- ashford-to-canterbury-and-ramsgate
 ----
 notes: A telegraph station.
 

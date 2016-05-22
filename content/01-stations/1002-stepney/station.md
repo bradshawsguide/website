@@ -9,8 +9,8 @@ company:
 - companies/london-tilbury-and-southend
 ----
 route:
-- routes/fenchurch-street-to-blackwall
-- routes/fenchurch-street-to-tilbury-and-southend
+- fenchurch-street-to-blackwall
+- fenchurch-street-to-tilbury-and-southend
 ----
 notes: A telegraph station.
 ----

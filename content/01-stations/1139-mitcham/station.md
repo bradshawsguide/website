@@ -8,4 +8,4 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/croydon-to-wimbledon
+- croydon-to-wimbledon

@@ -9,5 +9,5 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/reigate-to-reading
-- routes/london-to-richmond-staines-wokingham-and-reading
+- reigate-to-reading
+- london-to-richmond-staines-wokingham-and-reading

@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/london-to-richmond-staines-wokingham-and-reading
+- london-to-southampton-dorchester-and-weymouth
+- london-to-richmond-staines-wokingham-and-reading
 ----
 related:
 - (wikipedia: London Waterloo railway station)

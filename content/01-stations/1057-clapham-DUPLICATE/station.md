@@ -8,4 +8,4 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/victoria-to-herne-hill
+- victoria-to-herne-hill

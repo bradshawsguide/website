@@ -10,7 +10,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-greenwich
+- charing-cross-and-london-bridge-to-greenwich
 ----
 related:
 - (wikipedia: Waterloo East railway station)

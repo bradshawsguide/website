@@ -8,8 +8,8 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/london-to-chatham-and-dover
-- routes/faversham-to-ramsgate
+- london-to-chatham-and-dover
+- faversham-to-ramsgate
 ----
 notes: A telegraph station
 

@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/lewes-to-newhaven
+- lewes-to-newhaven
 ----
 notes: A telegraph station.
 ----

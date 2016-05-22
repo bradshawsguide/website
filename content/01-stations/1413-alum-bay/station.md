@@ -7,7 +7,7 @@ region: Isle of Wight
 company:
 ----
 route:
-- routes/ryde-to-the-needles
+- ryde-to-the-needles
 ----
 info:
 - term: Hotels

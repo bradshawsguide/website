@@ -8,4 +8,4 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/caterham-junction-to-caterham
+- caterham-junction-to-caterham

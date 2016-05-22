@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/london-to-brighton
+- london-to-brighton
 ----
 notes: A telegraph station.
 ----

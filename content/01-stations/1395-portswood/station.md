@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/southampton-to-netley
+- london-to-southampton-dorchester-and-weymouth
+- southampton-to-netley
 ----
 related:
 - (wikipedia: St. Denys railway station)

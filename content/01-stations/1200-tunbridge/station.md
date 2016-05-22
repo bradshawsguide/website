@@ -8,8 +8,8 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
-- routes/tunbridge-to-hastings
+- charing-cross-and-london-bridge-to-folkestone-and-dover
+- tunbridge-to-hastings
 ----
 notes: A telegraph station.
 

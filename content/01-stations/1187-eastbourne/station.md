@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/polegate-to-eastbourne
+- polegate-to-eastbourne
 ----
 notes: Distance from station, 1 mile.
 

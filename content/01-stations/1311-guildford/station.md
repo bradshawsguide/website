@@ -10,10 +10,10 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/reigate-to-reading
-- routes/horsham-to-guildford
-- routes/woking-to-godalming-and-portsmouth
-- routes/guildford-to-farnham-and-alton
+- reigate-to-reading
+- horsham-to-guildford
+- woking-to-godalming-and-portsmouth
+- guildford-to-farnham-and-alton
 ----
 notes: A telegraph station.
 

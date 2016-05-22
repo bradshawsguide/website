@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/minster-junction-to-deal
+- minster-junction-to-deal
 ----
 notes: A telegraph station.
 

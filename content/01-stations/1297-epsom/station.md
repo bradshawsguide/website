@@ -9,8 +9,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/croydon-to-epsom
-- routes/wimbledon-to-epsom-and-leatherhead
+- croydon-to-epsom
+- wimbledon-to-epsom-and-leatherhead
 ----
 notes: A telegraph station.
 

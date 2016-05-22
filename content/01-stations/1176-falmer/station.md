@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/brighton-to-lewes
+- brighton-to-lewes
 ----
 notes: Telegraph station at Lewes, 4 miles.
 

@@ -9,5 +9,5 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/victoria-to-herne-hill
-- routes/victoria-to-crystal-palace
+- victoria-to-herne-hill
+- victoria-to-crystal-palace

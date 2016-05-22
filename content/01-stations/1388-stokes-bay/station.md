@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/fareham-to-gosport
+- fareham-to-gosport
 ----
 text: At which point there is a floating bridge which conveys passengers from the railway across the Solent, to the Isle of Wight.
 

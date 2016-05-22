@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/basingstoke-to-salisbury-and-exeter
-- routes/bishopstoke-to-salisbury
+- basingstoke-to-salisbury-and-exeter
+- bishopstoke-to-salisbury
 ----
 notes: Distance from station, ¼ mile. A telegraph station,
 ----

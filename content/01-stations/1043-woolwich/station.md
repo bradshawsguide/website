@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
+- charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
 ----
 notes: A telegraph station. Office open from 7½ a.m. to 10½ p.m.; Sundays, 8 to 10 a.m., 1 to 3 and 6 to 8 p.m.
 ----

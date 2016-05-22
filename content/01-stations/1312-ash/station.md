@@ -9,8 +9,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/reigate-to-reading
-- routes/guildford-to-farnham-and-alton
+- reigate-to-reading
+- guildford-to-farnham-and-alton
 ----
 notes: Distance from the station, 1 mile.
 

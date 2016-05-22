@@ -8,4 +8,4 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/three-bridges-to-horsham-and-arundel
+- three-bridges-to-horsham-and-arundel

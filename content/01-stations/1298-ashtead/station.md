@@ -8,6 +8,6 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/wimbledon-to-epsom-and-leatherhead
+- wimbledon-to-epsom-and-leatherhead
 ----
 text: The seat of Colonel Howard.

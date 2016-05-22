@@ -10,4 +10,4 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/brixton-to-crystal-palace
+- brixton-to-crystal-palace

@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/reigate-to-reading
+- reigate-to-reading
 ----
 notes: Distance from station, ½ mile.
 

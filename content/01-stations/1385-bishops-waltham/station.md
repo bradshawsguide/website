@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/botley-to-bishops-waltham
+- botley-to-bishops-waltham
 ----
 notes: Telegraph station at Botley.
 ----

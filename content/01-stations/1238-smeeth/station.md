@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
+- charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
 text: In this neighbourhood is *Merstham Hatch*, the property of the Knatchbull family since the reign of Henry VII. The mansion is a modern building, of considerable architectural beauty, situated in a very fine park, and the interior is most elegantly fitted up.
 

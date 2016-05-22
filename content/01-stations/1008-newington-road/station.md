@@ -10,4 +10,4 @@ company:
 - companies/north-london
 ----
 route:
-- routes/bow-to-chalk-farm
+- bow-to-chalk-farm

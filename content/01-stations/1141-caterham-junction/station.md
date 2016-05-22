@@ -11,9 +11,9 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
-- routes/london-to-brighton
-- routes/caterham-junction-to-caterham
+- charing-cross-and-london-bridge-to-folkestone-and-dover
+- london-to-brighton
+- caterham-junction-to-caterham
 ----
 notes: A telegraph station.
 ----

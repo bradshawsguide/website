@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-richmond-staines-wokingham-and-reading
+- london-to-richmond-staines-wokingham-and-reading
 ----
 notes: Telegraph station at Vauxhall, 3 miles.
 ----

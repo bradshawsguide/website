@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/tunbridge-to-hastings
+- tunbridge-to-hastings
 ----
 notes: Distance from station, 1 mile.
 

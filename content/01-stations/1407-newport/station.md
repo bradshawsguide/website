@@ -7,7 +7,7 @@ region: Isle of Wight
 company:
 ----
 route:
-- routes/ryde-to-the-needles
+- ryde-to-the-needles
 ----
 related:
 - (wikipedia: Newport railway station IoWCR Isle of Wight)

@@ -8,9 +8,9 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-richmond-staines-wokingham-and-reading
-- routes/twickenham-to-kingston
-- routes/twickenham-to-shepperton
+- london-to-richmond-staines-wokingham-and-reading
+- twickenham-to-kingston
+- twickenham-to-shepperton
 ----
 notes: A telegraph station.
 ----

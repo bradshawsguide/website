@@ -7,8 +7,8 @@ region: Isle of Wight
 company:
 ----
 route:
-- routes/ryde-to-newchurch
-- routes/ryde-to-the-needles
+- ryde-to-newchurch
+- ryde-to-the-needles
 ----
 related:
 - (wikipedia: Ryde St John's Road railway station)

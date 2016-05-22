@@ -6,9 +6,6 @@
 
   if($p->info()->isNotEmpty()) {
     pattern('common/info', ['p' => $p]);
-  } else {
-    // temporary
-    echo kirbytext($p->meta());
   }
 ?>
 

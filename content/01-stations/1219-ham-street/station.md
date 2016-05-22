@@ -8,4 +8,4 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/ashford-to-hastings
+- ashford-to-hastings

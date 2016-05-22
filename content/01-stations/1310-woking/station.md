@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/woking-to-godalming-and-portsmouth
+- london-to-southampton-dorchester-and-weymouth
+- woking-to-godalming-and-portsmouth
 ----
 notes: Distance from station, 1 mile
 

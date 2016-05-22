@@ -8,7 +8,7 @@ company:
 - companies/north-and-south-western-junction
 ----
 route:
-- routes/acton-to-hammersmith
+- acton-to-hammersmith
 ----
 notes: Population: 24,519.
 ----

@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/ashford-to-hastings
+- ashford-to-hastings
 ----
 notes: Distance from station, 1 mile.
 

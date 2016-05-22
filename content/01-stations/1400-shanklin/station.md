@@ -7,7 +7,7 @@ region: Isle of Wight
 company:
 ----
 route:
-- routes/ryde-to-newchurch
+- ryde-to-newchurch
 ----
 notes: A telegraph station.
 ----

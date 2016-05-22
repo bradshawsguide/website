@@ -9,8 +9,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/brighton-to-worthing-chichester-and-portsmouth
-- routes/woking-to-godalming-and-portsmouth
+- brighton-to-worthing-chichester-and-portsmouth
+- woking-to-godalming-and-portsmouth
 ----
 notes: A telegraph station.
 ----

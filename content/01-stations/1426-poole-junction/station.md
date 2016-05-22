@@ -10,7 +10,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/poole-junction-to-poole
+- london-to-southampton-dorchester-and-weymouth
+- poole-junction-to-poole
 ----
 text: A *branch rail* of 1¾ mile runs to the town of [Poole](/stations/poole).

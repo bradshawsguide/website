@@ -9,8 +9,8 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
-- routes/london-to-chatham-and-dover
+- charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
+- london-to-chatham-and-dover
 ----
 notes: Telegraph station at Strood, ¼ mile.
 ----

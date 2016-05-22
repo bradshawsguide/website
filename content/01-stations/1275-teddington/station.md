@@ -8,4 +8,4 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/twickenham-to-kingston
+- twickenham-to-kingston

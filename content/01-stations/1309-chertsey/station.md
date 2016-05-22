@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/weybridge-to-chertsey
+- weybridge-to-chertsey
 ----
 notes: Distance from station, ½ mile.
 

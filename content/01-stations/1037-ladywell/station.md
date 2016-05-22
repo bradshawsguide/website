@@ -8,6 +8,6 @@ company:
 - companies/mid-kent
 ----
 route:
-- routes/lewisham-to-beckenham-and-croydon
+- lewisham-to-beckenham-and-croydon
 ----
 text: To the right of which are the Deptford and Lewisham Cemeteries.

@@ -8,9 +8,9 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/london-to-brighton
-- routes/three-bridges-to-horsham-and-arundel
-- routes/three-bridges-to-east-grinstead
+- london-to-brighton
+- three-bridges-to-horsham-and-arundel
+- three-bridges-to-east-grinstead
 ----
 notes: A telegraph station.
 ----

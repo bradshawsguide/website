@@ -9,8 +9,8 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-greenwich
-- routes/london-to-chatham-and-dover
+- charing-cross-and-london-bridge-to-greenwich
+- london-to-chatham-and-dover
 ----
 notes: A telegraph station.
 ----

@@ -11,9 +11,9 @@ company:
 - companies/mid-kent
 ----
 route:
-- routes/north-kent
-- routes/lewisham-to-chislehurst
-- routes/lewisham-to-beckenham
+- north-kent
+- lewisham-to-chislehurst
+- lewisham-to-beckenham
 ----
 notes: A telegraph station.
 ----

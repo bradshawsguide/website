@@ -8,9 +8,9 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-greenwich
-- routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
-- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
+- charing-cross-and-london-bridge-to-greenwich
+- charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
+- charing-cross-and-london-bridge-to-folkestone-and-dover
 ----
 notes: A telegraph station.
 ----

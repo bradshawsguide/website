@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/surbiton-to-hampton-court
+- surbiton-to-hampton-court
 ----
 notes: Telegraph station at Kingston, 2 miles.
 ----

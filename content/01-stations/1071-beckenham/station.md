@@ -9,8 +9,8 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/lewisham-to-beckenham-and-croydon
-- routes/london-to-chatham-and-dover
+- lewisham-to-beckenham-and-croydon
+- london-to-chatham-and-dover
 ----
 notes: A telegraph station.
 

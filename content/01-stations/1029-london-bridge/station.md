@@ -9,10 +9,10 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-greenwich
-- routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
-- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
-- routes/london-to-brighton
+- charing-cross-and-london-bridge-to-greenwich
+- charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
+- charing-cross-and-london-bridge-to-folkestone-and-dover
+- london-to-brighton
 ----
 notes: A telegraph station.
 ----

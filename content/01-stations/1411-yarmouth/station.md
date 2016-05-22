@@ -7,7 +7,7 @@ region: Isle of Wight
 company:
 ----
 route:
-- routes/ryde-to-the-needles
+- ryde-to-the-needles
 ----
 notes: Distance from station at Southampton, 19 miles.
 

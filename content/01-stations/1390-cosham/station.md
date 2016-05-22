@@ -8,4 +8,4 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/bishopstoke-to-gosport-and-portsmouth
+- bishopstoke-to-gosport-and-portsmouth

@@ -8,4 +8,4 @@ company:
 - companies/north-london
 ----
 route:
-- routes/dalston-to-broad-street
+- dalston-to-broad-street

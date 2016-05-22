@@ -7,7 +7,7 @@ region: Isle of Wight
 company:
 ----
 route:
-- routes/ryde-to-newchurch
+- ryde-to-newchurch
 ----
 notes: Distance from station at Portsmouth, 27 miles.
 

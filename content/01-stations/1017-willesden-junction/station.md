@@ -11,7 +11,7 @@ company:
 - companies/north-and-south-western-junction
 ----
 route:
-- routes/camden-road-to-willesden-junction
-- routes/willesden-junction-to-kew
+- camden-road-to-willesden-junction
+- willesden-junction-to-kew
 ----
 text: *[Junction point of the [Hampstead Junction](/companies/hampstead-junction) and [North and South Western Junction](/companies/north-and-south-western-junction) railways]*

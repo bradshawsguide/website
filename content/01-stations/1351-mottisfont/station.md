@@ -8,4 +8,4 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/andover-to-redbridge
+- andover-to-redbridge

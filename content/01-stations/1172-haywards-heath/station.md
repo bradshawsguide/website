@@ -8,8 +8,8 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/london-to-brighton
-- routes/haywards-heath-to-lewes-and-hastings
+- london-to-brighton
+- haywards-heath-to-lewes-and-hastings
 ----
 notes: A telegraph station.
 ----

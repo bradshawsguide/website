@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/three-bridges-to-horsham-and-arundel
-- routes/pullborough-to-petworth
+- three-bridges-to-horsham-and-arundel
+- pullborough-to-petworth
 ----
 text: The junction of a short line to [Petworth](/stations/petworth).

@@ -9,9 +9,9 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
-- routes/london-to-chatham-and-dover
-- routes/strood-to-maidstone-and-paddock-wood
+- charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester
+- london-to-chatham-and-dover
+- strood-to-maidstone-and-paddock-wood
 ----
 notes: A telegraph station.
 ----

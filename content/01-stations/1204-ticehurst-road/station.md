@@ -10,7 +10,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/tunbridge-to-hastings
+- tunbridge-to-hastings
 ----
 notes: A telegraph station.
 ----

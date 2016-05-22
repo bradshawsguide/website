@@ -8,5 +8,5 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/london-to-chatham-and-dover
-- routes/victoria-to-herne-hill
+- london-to-chatham-and-dover
+- victoria-to-herne-hill

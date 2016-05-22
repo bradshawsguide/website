@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/fareham-to-gosport
+- fareham-to-gosport
 ----
 notes: A telegraph station.
 

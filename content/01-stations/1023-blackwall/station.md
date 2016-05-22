@@ -8,7 +8,7 @@ company:
 - companies/london-and-blackwall
 ----
 route:
-- routes/fenchurch-street-to-blackwall
+- fenchurch-street-to-blackwall
 ----
 notes: Distance from station, 1/4 mile.
 

@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/strood-to-maidstone-and-paddock-wood
+- strood-to-maidstone-and-paddock-wood
 ----
 notes: Is close to the bridge over the Medway.
 

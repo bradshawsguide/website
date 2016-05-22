@@ -8,9 +8,9 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/london-to-brighton
-- routes/brighton-to-worthing-chichester-and-portsmouth
-- routes/brighton-to-lewes
+- london-to-brighton
+- brighton-to-worthing-chichester-and-portsmouth
+- brighton-to-lewes
 ----
 notes: A telegraph station.
 

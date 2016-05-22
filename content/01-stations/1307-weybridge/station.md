@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/weybridge-to-chertsey
+- london-to-southampton-dorchester-and-weymouth
+- weybridge-to-chertsey
 ----
 notes: Distance from station, ¾ mile.
 

@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-richmond-staines-wokingham-and-reading
-- routes/staines-to-windsor
+- london-to-richmond-staines-wokingham-and-reading
+- staines-to-windsor
 ----
 notes: Distance from station, ¾ mile,
 

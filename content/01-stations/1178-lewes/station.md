@@ -8,10 +8,10 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/haywards-heath-to-lewes-and-hastings
-- routes/lewes-to-uckfield
-- routes/lewes-to-newhaven
-- routes/brighton-to-lewes
+- haywards-heath-to-lewes-and-hastings
+- lewes-to-uckfield
+- lewes-to-newhaven
+- brighton-to-lewes
 ----
 notes: Distance from station, ½ mile. A telegraph station.
 

@@ -10,7 +10,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/surbiton-to-hampton-court
+- surbiton-to-hampton-court
 ----
 notes: A telegraph station.
 ----

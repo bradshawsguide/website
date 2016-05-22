@@ -8,7 +8,7 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/sevenoaks-junction-to-sevenoaks
+- sevenoaks-junction-to-sevenoaks
 ----
 notes: A telegraph station.
 ----

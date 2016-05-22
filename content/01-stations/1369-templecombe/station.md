@@ -8,6 +8,6 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/basingstoke-to-salisbury-and-exeter
+- basingstoke-to-salisbury-and-exeter
 ----
 text: (Junction)

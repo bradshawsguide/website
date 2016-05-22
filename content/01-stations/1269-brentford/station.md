@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/barnes-to-hounslow-and-feltham
+- barnes-to-hounslow-and-feltham
 ----
 notes: Distance from station ½ mile.
 

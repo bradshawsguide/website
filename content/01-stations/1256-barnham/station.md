@@ -8,8 +8,8 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/brighton-to-worthing-chichester-and-portsmouth
-- routes/barnham-to-bognor
+- brighton-to-worthing-chichester-and-portsmouth
+- barnham-to-bognor
 ----
 notes: A telegraph station. Distance from station, ¾ mile.
 ----

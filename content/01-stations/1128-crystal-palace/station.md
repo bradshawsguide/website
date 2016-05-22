@@ -8,8 +8,8 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/london-to-brighton
-- routes/victoria-to-crystal-palace
+- london-to-brighton
+- victoria-to-crystal-palace
 ----
 notes: A telegraph station.
 ----

@@ -9,8 +9,8 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
-- routes/london-to-brighton
+- charing-cross-and-london-bridge-to-folkestone-and-dover
+- london-to-brighton
 ----
 related:
 - (wikipedia: Norwood Junction railway station)

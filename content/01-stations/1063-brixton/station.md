@@ -8,6 +8,6 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/london-to-chatham-and-dover
-- routes/victoria-to-herne-hill
-- routes/brixton-to-crystal-palace
+- london-to-chatham-and-dover
+- victoria-to-herne-hill
+- brixton-to-crystal-palace

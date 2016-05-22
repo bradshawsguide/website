@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/victoria-to-crystal-palace
+- victoria-to-crystal-palace
 ----
 related:
 - (wikipedia: West Norwood railway station)

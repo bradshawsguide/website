@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/brockenhurst-to-lymington
+- london-to-southampton-dorchester-and-weymouth
+- brockenhurst-to-lymington
 ----
 notes: Distance from station, 1 mile.
 

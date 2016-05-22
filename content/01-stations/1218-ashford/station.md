@@ -8,9 +8,9 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
-- routes/ashford-to-canterbury-and-ramsgate
-- routes/ashford-to-hastings
+- charing-cross-and-london-bridge-to-folkestone-and-dover
+- ashford-to-canterbury-and-ramsgate
+- ashford-to-hastings
 ----
 notes: A telegraph station.
 

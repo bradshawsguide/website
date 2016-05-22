@@ -8,9 +8,9 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/three-bridges-to-horsham-and-arundel
-- routes/horsham-to-guildford
-- routes/horsham-to-steyning-and-shoreham
+- three-bridges-to-horsham-and-arundel
+- horsham-to-guildford
+- horsham-to-steyning-and-shoreham
 ----
 notes: A telegraph station.
 

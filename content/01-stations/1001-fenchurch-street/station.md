@@ -9,6 +9,6 @@ company:
 - companies/london-tilbury-and-southend
 ----
 route:
-- routes/fenchurch-street-to-blackwall
-- routes/bow-to-chalk-farm
-- routes/fenchurch-street-to-tilbury-and-southend
+- fenchurch-street-to-blackwall
+- bow-to-chalk-farm
+- fenchurch-street-to-tilbury-and-southend

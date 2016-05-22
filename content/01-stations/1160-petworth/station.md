@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/pullborough-to-petworth
+- pullborough-to-petworth
 ----
 notes: A telegraph station.
 ----

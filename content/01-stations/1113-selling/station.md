@@ -8,6 +8,6 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- routes/london-to-chatham-and-dover
+- london-to-chatham-and-dover
 ----
 text: Selling, and a distance of 6½ miles further, archiepiscopal city of [Canterbury](/stations/canterbury).

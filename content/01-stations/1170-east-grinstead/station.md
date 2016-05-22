@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/three-bridges-to-east-grinstead
+- three-bridges-to-east-grinstead
 ----
 notes: A telegraph station.
 ----

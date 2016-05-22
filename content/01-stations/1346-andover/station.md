@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/basingstoke-to-salisbury-and-exeter
-- routes/andover-to-redbridge
+- basingstoke-to-salisbury-and-exeter
+- andover-to-redbridge
 ----
 notes: Distance from station, 1 mile.
 

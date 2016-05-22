@@ -7,7 +7,7 @@ region: Isle of Wight
 company:
 ----
 route:
-- routes/ryde-to-newchurch
+- ryde-to-newchurch
 ----
 notes: Telegraph station at Sandown, 2 miles.
 ----

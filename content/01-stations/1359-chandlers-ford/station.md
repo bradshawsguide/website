@@ -8,4 +8,4 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/bishopstoke-to-salisbury
+- bishopstoke-to-salisbury

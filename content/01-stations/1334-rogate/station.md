@@ -8,4 +8,4 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/petersfield-to-midhurst
+- petersfield-to-midhurst

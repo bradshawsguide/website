@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/bishopstoke-to-gosport-and-portsmouth
+- bishopstoke-to-gosport-and-portsmouth
 ----
 notes: Telegraph station at Fareham, 3 miles.
 ----

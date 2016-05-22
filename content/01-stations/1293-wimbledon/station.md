@@ -9,9 +9,9 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/croydon-to-wimbledon
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/wimbledon-to-epsom-and-leatherhead
+- croydon-to-wimbledon
+- london-to-southampton-dorchester-and-weymouth
+- wimbledon-to-epsom-and-leatherhead
 ----
 notes: Distance from station, ¼ mile.
 

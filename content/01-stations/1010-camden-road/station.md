@@ -10,8 +10,8 @@ company:
 - companies/north-london
 ----
 route:
-- routes/bow-to-chalk-farm
-- routes/camden-road-to-willesden-junction
+- bow-to-chalk-farm
+- camden-road-to-willesden-junction
 ----
 notes: Telegraph station at Camden Town.
 ----

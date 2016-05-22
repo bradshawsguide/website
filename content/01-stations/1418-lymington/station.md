@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/brockenhurst-to-lymington
+- brockenhurst-to-lymington
 ----
 notes: A telegraph station.
 ----

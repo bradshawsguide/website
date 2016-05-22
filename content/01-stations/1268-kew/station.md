@@ -9,8 +9,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/willesden-junction-to-kew
-- routes/barnes-to-hounslow-and-feltham
+- willesden-junction-to-kew
+- barnes-to-hounslow-and-feltham
 ----
 notes: Distance from station, ½ mile.
 

@@ -2,9 +2,15 @@
 ----
 title: Fenchurch Street to Blackwall
 ----
-company: London and Blackwall Railway
+company: london-and-blackwall
 ----
-destination: Blackwall
+stops:
+- fenchurch-street
+- stepney
+- limehouse
+- west-india-docks
+- poplar
+- blackwall
 ----
 text: The growing importance of the London and Blackwall Railway, the immense number of passengers passing through its London terminus, the increase anticipated from the working arrangements of the company with the Great Eastern and the Tilbury and Southend Railways, rendered an enlargement of the Fenchurch Street station necessary in 1853. The new terminus is a fine-looking building, and comprises booking offices and waiting rooms, from which you ascend by a flight of stairs on each side to the platform accommodation above for the following lines:--London and Blackwall, the North London, the Great Eastern, and the Tilbury and Southend. These platforms are all covered with one roof, 100 feet span, and upwards of 300 feet long. The approach to the north side of the line has been much widened to admit of another line of carriages, as the traffic has so much increased, and the amount of goods conveyed to and from the eastern and western parts of the Metropolis for transmission on the various other lines of railway has become very great.
 

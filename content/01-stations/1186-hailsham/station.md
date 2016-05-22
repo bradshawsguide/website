@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/polegate-to-hailsham
+- polegate-to-hailsham
 ----
 notes: A telegraph station.
 ----

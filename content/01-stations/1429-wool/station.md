@@ -8,6 +8,6 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
+- london-to-southampton-dorchester-and-weymouth
 ----
 text: Wool, near which are the ruins of Bindon Abbey.

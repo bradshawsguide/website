@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/twickenham-to-kingston
-- routes/london-to-southampton-dorchester-and-weymouth
+- twickenham-to-kingston
+- london-to-southampton-dorchester-and-weymouth
 ----
 notes: A telegraph station.
 ----

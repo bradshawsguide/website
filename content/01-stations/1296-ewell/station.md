@@ -9,7 +9,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/croydon-to-epsom
-- routes/wimbledon-to-epsom-and-leatherhead
+- croydon-to-epsom
+- wimbledon-to-epsom-and-leatherhead
 ----
 text: A small town with some little trade, and a very large sheep fair. The church has some curious monuments.

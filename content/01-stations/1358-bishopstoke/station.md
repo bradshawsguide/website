@@ -8,9 +8,9 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/bishopstoke-to-gosport-and-portsmouth
-- routes/bishopstoke-to-salisbury
+- london-to-southampton-dorchester-and-weymouth
+- bishopstoke-to-gosport-and-portsmouth
+- bishopstoke-to-salisbury
 ----
 related:
 - (wikipedia: Eastleigh railway station)

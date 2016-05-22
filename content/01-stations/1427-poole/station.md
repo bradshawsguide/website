@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/poole-junction-to-poole
+- poole-junction-to-poole
 ----
 notes: Distance from station, 2 miles.
 

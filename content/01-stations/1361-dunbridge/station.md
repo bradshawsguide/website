@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/bishopstoke-to-salisbury
+- bishopstoke-to-salisbury
 ----
 related:
 - (wikipedia: Mottisfont & Dunbridge railway station)

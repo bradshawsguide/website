@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/brighton-to-worthing-chichester-and-portsmouth
+- brighton-to-worthing-chichester-and-portsmouth
 ----
 notes: A telegraph station.
 ----

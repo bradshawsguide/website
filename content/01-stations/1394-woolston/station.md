@@ -8,4 +8,4 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/southampton-to-netley
+- southampton-to-netley

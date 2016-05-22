@@ -8,8 +8,8 @@ company:
 - companies/north-and-south-western-junction
 ----
 route:
-- routes/willesden-junction-to-kew
-- routes/acton-to-hammersmith
+- willesden-junction-to-kew
+- acton-to-hammersmith
 ----
 notes: Population: 3,151.
 ----

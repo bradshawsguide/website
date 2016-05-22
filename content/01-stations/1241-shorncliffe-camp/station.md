@@ -8,4 +8,4 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
+- charing-cross-and-london-bridge-to-folkestone-and-dover

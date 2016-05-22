@@ -10,8 +10,8 @@ company:
 - companies/south-eastern
 ----
 route:
-- routes/charing-cross-and-london-bridge-to-folkestone-and-dover
-- routes/strood-to-maidstone-and-paddock-wood
+- charing-cross-and-london-bridge-to-folkestone-and-dover
+- strood-to-maidstone-and-paddock-wood
 ----
 notes: A telegraph station.
 ----

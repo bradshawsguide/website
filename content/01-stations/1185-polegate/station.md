@@ -10,9 +10,9 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/haywards-heath-to-lewes-and-hastings
-- routes/polegate-to-hailsham
-- routes/polegate-to-eastbourne
+- haywards-heath-to-lewes-and-hastings
+- polegate-to-hailsham
+- polegate-to-eastbourne
 ----
 notes: Distance from station, 1 mile. A telegraph station.
 ----

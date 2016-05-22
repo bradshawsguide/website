@@ -8,8 +8,8 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/london-to-southampton-dorchester-and-weymouth
-- routes/guildford-to-farnham-and-alton
+- london-to-southampton-dorchester-and-weymouth
+- guildford-to-farnham-and-alton
 ----
 notes: A telegraph station.
 

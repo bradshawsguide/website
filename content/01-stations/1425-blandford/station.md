@@ -8,7 +8,7 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/wimborne-to-blandford
+- wimborne-to-blandford
 ----
 notes: A telegraph station.
 ----

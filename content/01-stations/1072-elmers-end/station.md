@@ -8,4 +8,4 @@ company:
 - companies/mid-kent
 ----
 route:
-- routes/lewisham-to-beckenham-and-croydon
+- lewisham-to-beckenham-and-croydon

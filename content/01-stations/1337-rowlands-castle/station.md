@@ -8,4 +8,4 @@ company:
 - companies/london-and-south-western
 ----
 route:
-- routes/woking-to-godalming-and-portsmouth
+- woking-to-godalming-and-portsmouth

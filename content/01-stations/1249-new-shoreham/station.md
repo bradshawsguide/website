@@ -8,8 +8,8 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/brighton-to-worthing-chichester-and-portsmouth
-- routes/horsham-to-steyning-and-shoreham
+- brighton-to-worthing-chichester-and-portsmouth
+- horsham-to-steyning-and-shoreham
 ----
 notes: A telegraph station.
 ----

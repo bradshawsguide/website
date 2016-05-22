@@ -8,7 +8,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- routes/horsham-to-steyning-and-shoreham
+- horsham-to-steyning-and-shoreham
 ----
 notes: A telegraph station.
 ----
