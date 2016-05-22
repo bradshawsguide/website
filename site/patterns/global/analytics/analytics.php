@@ -4,7 +4,7 @@
     _paq.push(['enableLinkTracking']);
 
   (function () {
-    var host = "https://analytics.paulrobertlloyd.com/";
+    var host = 'https://analytics.paulrobertlloyd.com/';
     var script = document.createElement('script');
     var ref = document.getElementsByTagName('script')[0];
 

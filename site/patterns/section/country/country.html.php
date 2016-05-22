@@ -3,8 +3,8 @@
     <a href="<?= $country->url() ?>"><?= smartypants($country->title()) ?></a>
   </h1>
   <?
-    pattern('common/list', array(
+    pattern('common/list', [
       'items' => $country->children()
-    ));
+    ]);
   ?>
 </section>

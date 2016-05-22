@@ -4,9 +4,9 @@
 <?
   pattern('page/header', ['p' => $page]);
 
-  pattern('section/index', array(
+  pattern('section/index', [
     'search' => $page->children()
-  ));
+  ]);
 ?>
 </section>
 

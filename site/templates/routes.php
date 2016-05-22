@@ -19,11 +19,11 @@
 
     $company = $object->title();
     $routes = $pages->find('routes')->children()->filterBy('company', $company)->filterBy('text', '!=','');
-    pattern('section/routes', array(
+    pattern('section/routes', [
       'routes' => $routes,
       'context' => 'routes',
       'object' => $object
-    ));
+    ]);
   }
 ?>
 </section>

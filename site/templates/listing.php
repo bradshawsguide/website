@@ -4,9 +4,9 @@
 <?
   pattern('page/header', ['p' => $page]);
 
-  pattern('common/list', array(
+  pattern('common/list', [
     'items' => $page->children()
-  ));
+  ]);
 ?>
 </section>
 

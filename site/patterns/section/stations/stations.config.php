@@ -1,9 +1,8 @@
 <?php
 
-$articles = page('stations')->children()->visible()->paginate(5);
-
 return [
   'defaults' => [
-    'pagination' => $articles->pagination()
+    'stations' => page('routes')->children()->filterBy('company', 'South Eastern Railway'),
+    'context' => 'company'
   ]
 ];

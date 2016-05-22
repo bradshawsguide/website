@@ -7,16 +7,16 @@
   pattern('page/content', ['p' => $page]);
 
   $company = $page->title();
-  pattern('section/routes', array(
+  pattern('section/routes', [
     'routes' => $pages->children()->filterBy('company', $company),
     'context' => 'company'
-  ));
+  ]);
 
   $companyPath = kirby()->request()->path(2);
-  pattern('section/stations', array(
+  pattern('section/stations', [
     'stations' => $pages->children()->filterBy('company', '*=', $companyPath),
     'context' => 'company'
-  ));
+  ]);
 
   pattern('section/related');
 

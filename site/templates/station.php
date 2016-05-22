@@ -12,17 +12,17 @@
 
   if($page->route()->isNotEmpty()) {
     $routes = related($page->route());
-    pattern('section/routes', array(
+    pattern('section/routes', [
       'routes' => $routes,
       'context' => 'station'
-    ));
+    ]);
   }
 
-  pattern('section/related');
+  pattern('section/related', ['p' => $page]);
 
   pattern('common/shorturl');
 
-  pattern('common/traverse');
+  pattern('common/traverse', ['p' => $page]);
 ?>
 </article>
 

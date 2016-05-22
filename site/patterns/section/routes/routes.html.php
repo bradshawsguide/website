@@ -20,8 +20,8 @@
 <section class="c-section c-section--routes">
   <h1 class="c-section__title"><?= $heading ?></h1>
   <?
-    pattern('common/list', array(
+    pattern('common/list', [
       'items' => $routes
-    ));
+    ]);
   ?>
 </section>

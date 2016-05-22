@@ -10,9 +10,9 @@
   if($results && $results->count()) {
     pattern('common/results');
 
-    pattern('common/pagination', array(
+    pattern('common/pagination', [
       'pagination' => $results->pagination()
-    ));
+    ]);
   } else {
     echo "<p>No results for <strong>".esc($query)."</strong></p>";
   }

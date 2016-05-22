@@ -1,12 +1,11 @@
-<?= $page ?>
-<nav class="traverse">
-  <h1 class="traverse__title">Previous and Next in <em><?= $page->parent()->title() ?></em></h1>
+<nav class="c-traverse">
+  <h1 class="c-traverse__title">Previous and next in <em><?= $p->parent()->title() ?></em></h1>
 
-<? if ($page->hasPrevVisible() == true): ?>
-  <a rel="prev" href="<?= $page->prevVisible()->url() ?>"><?= smartypants($page->prevVisible()->title()) ?></a>
+<? if ($p->hasPrevVisible() == true): ?>
+  <a rel="prev" href="<?= $p->prevVisible()->url() ?>"><?= smartypants($p->prevVisible()->title()) ?></a>
 <? endif ?>
 
-<? if ($page->hasNextVisible() == true): ?>
-  <a rel="next" href="<?= $page->nextVisible()->url() ?>"><span><?= smartypants($page->nextVisible()->title()) ?></span></a>
+<? if ($p->hasNextVisible() == true): ?>
+  <a rel="next" href="<?= $p->nextVisible()->url() ?>"><span><?= smartypants($p->nextVisible()->title()) ?></span></a>
 <? endif ?>
 </nav>

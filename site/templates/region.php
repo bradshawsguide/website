@@ -15,15 +15,15 @@
   $region = $page->title();
   $stations = $pages->find('stations')->children()->filterBy('region', $region);
   if($stations->count()) {
-    pattern('section/stations', array(
+    pattern('section/stations', [
       'stations' => $stations,
       'context' => 'region'
-    ));
+    ]);
   }
 
   pattern('common/shorturl');
 
-  pattern('common/traverse');
+  pattern('common/traverse', ['p' => $page]);
 ?>
 </article>
 

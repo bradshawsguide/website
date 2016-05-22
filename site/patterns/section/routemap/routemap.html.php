@@ -1,5 +1,4 @@
 <?
-  $route = "- routes/".kirby()->request()->path()->last();
   $items = $pages->find('stations')->children()->filterBy('route', '*=', $route);
   if($items && $items->count()):
 ?>
