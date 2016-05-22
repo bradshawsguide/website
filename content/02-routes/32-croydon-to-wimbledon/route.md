@@ -2,7 +2,7 @@
 ----
 title: Croydon to Wimbledon
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 related:
 - (wikipedia: West Croydon to Wimbledon Line)

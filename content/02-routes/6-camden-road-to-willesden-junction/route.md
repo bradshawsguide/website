@@ -2,7 +2,7 @@
 ----
 title: Camden Road to Willesden Junction
 ----
-company: Hampstead Junction Railway
+company: hampstead-junction
 ----
 stops:
 - camden-road

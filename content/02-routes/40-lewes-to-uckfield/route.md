@@ -2,7 +2,7 @@
 ----
 title: Lewes to Uckfield
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 stops:
 - lewes

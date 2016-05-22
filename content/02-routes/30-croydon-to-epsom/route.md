@@ -2,7 +2,7 @@
 ----
 title: Croydon to Epsom
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 stops:
 - croydon

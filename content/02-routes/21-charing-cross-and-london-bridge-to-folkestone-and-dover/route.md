@@ -2,7 +2,7 @@
 ----
 title: Charing Cross and London Bridge to Folkestone and Dover
 ----
-company: South Eastern Railway
+company: south-eastern
 ----
 stops:
 - charing-cross

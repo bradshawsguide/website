@@ -6,10 +6,13 @@
 
   pattern('page/content', ['p' => $page]);
 
-  $company = $page->title();
+  // $routes = list of route pages where `company:` frontmatter
+  //           value matches the UID of this company
+  $routes = page('routes')->children()->filterBy('company', $page->uid());
+
   pattern('section/routes', [
-    'routes' => $pages->children()->filterBy('company', $company),
-    'context' => 'company'
+    'title' => 'Routes operated',
+    'routes' => $routes
   ]);
 
   $companyPath = kirby()->request()->path(2);

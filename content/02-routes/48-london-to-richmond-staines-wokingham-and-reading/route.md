@@ -2,7 +2,7 @@
 ----
 title: London to Richmond, Staines, Wokingham and Reading
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - waterloo-bridge

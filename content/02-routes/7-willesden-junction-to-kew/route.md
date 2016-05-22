@@ -2,7 +2,7 @@
 ----
 title: Willesden Junction to Kew
 ----
-company: North and South Western Junction Railway
+company: north-and-south-western-junction
 ----
 stops:
 - willesden-junction

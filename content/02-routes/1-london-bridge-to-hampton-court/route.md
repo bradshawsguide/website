@@ -1,6 +1,6 @@
 title: London Bridge to Hampton Court
 ----
-company: London
+company: london
 ----
 destination: Hampton Court
 ----

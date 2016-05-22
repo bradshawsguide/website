@@ -2,7 +2,7 @@
 ----
 title: London and Beckenham to Chatham, Canterbury, and Dover
 ----
-company: London, Chatham, and Dover Railway
+company: london-chatham-and-dover
 ----
 stops:
 - farringdon-street

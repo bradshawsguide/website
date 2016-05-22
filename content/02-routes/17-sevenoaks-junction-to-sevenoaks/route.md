@@ -2,7 +2,7 @@
 ----
 title: Sevenoaks Junction to Sevenoaks
 ----
-company: London, Chatham, and Dover Railway
+company: london-chatham-and-dover
 ----
 stops:
 - sevenoaks-junction

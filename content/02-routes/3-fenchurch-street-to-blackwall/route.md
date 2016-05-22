@@ -2,7 +2,7 @@
 ----
 title: Fenchurch Street to Blackwall
 ----
-company: London and Blackwall Railway
+company: london-and-blackwall
 ----
 stops:
 - fenchurch-street

@@ -2,7 +2,7 @@
 ----
 title: Bishopstoke to Salisbury
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - bishopstoke

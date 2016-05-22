@@ -2,7 +2,7 @@
 ----
 title: Brockenhurst to Lymington
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - brockenhurst

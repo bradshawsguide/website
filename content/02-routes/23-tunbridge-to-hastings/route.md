@@ -2,7 +2,7 @@
 ----
 title: Tunbridge to Hastings
 ----
-company: South Eastern Railway
+company: south-eastern
 ----
 stops:
 - tunbridge

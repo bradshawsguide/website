@@ -2,7 +2,7 @@
 ----
 title: Three Bridges to Horsham & Arundel
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 stops:
 - three-bridges

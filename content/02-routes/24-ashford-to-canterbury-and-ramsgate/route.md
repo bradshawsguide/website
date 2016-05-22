@@ -2,7 +2,7 @@
 ----
 title: Ashford to Canterbury, Ramsgate, &c.
 ----
-company: South Eastern Railway
+company: south-eastern
 ----
 stops:
 - ashford

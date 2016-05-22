@@ -2,7 +2,7 @@
 ----
 title: Basingstoke to Salisbury and Exeter
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 related:
 - (wikipedia: West of England Main Line)

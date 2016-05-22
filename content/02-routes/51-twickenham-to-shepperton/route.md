@@ -2,7 +2,7 @@
 ----
 title: Twickenham to Shepperton
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - twickenham

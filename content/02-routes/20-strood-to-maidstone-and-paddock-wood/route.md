@@ -2,7 +2,7 @@
 ----
 title: Strood to Maidstone and Paddock Wood
 ----
-company: South Eastern Railway
+company: south-eastern
 ----
 stops:
 - strood

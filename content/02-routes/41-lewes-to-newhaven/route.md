@@ -2,7 +2,7 @@
 ----
 title: Lewes to Newhaven
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 stops:
 - lewes

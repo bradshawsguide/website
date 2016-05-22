@@ -2,7 +2,7 @@
 ----
 title: Fenchurch Street to Tilbury and Southend
 ----
-company: London, Tilbury, and Southend Railway
+company: london-tilbury-and-southend
 ----
 stops:
 - fenchurch-street

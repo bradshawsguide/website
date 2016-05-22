@@ -2,7 +2,7 @@
 ----
 title: Dalston to Broad Street
 ----
-company: North London Railway
+company: north-london
 ----
 stops:
 - dalston

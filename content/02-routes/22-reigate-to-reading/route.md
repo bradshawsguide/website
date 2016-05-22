@@ -2,7 +2,7 @@
 ----
 title: Reigate to Reading
 ----
-company: South Eastern Railway
+company: south-eastern
 ----
 stops:
 - red-hill

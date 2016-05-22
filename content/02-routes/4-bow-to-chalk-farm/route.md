@@ -2,7 +2,7 @@
 ----
 title: Bow to Chalk Farm
 ----
-company: North London Railway
+company: north-london
 ----
 stops:
 - fenchurch-street

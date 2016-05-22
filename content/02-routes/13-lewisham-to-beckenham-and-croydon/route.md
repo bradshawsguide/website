@@ -2,7 +2,7 @@
 ----
 title: Lewisham to Beckenham and Croydon
 ----
-company: Mid-Kent Railway
+company: mid-kent
 ----
 stops:
 - ladywell

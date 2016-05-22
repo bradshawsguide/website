@@ -2,7 +2,7 @@
 ----
 title: Bishopstoke to Gosport, Stokes Bay and Portsmouth
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - bishopstoke

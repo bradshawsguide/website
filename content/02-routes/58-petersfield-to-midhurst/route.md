@@ -2,7 +2,7 @@
 ----
 title: Petersfield to Midhurst
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - petersfield

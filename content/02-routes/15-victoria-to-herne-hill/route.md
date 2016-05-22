@@ -2,7 +2,7 @@
 ----
 title: Victoria to Herne Hill
 ----
-company: London, Chatham, and Dover Railway
+company: london-chatham-and-dover
 ----
 stops:
 - victoria

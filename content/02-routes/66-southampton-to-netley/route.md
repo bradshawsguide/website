@@ -2,7 +2,7 @@
 ----
 title: Southampton to Netley
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - netley-abbey

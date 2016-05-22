@@ -2,7 +2,7 @@
 ----
 title: Pullborough to Petworth
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 stops:
 - pulborough

@@ -2,7 +2,7 @@
 ----
 title: Andover to Redbridge
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 related:
 - (wikipedia: Sprat and Winkle Line)

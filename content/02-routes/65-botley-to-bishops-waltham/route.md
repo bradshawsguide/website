@@ -2,7 +2,7 @@
 ----
 title: Botley to Bishop's Waltham
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - botley

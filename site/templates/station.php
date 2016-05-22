@@ -10,11 +10,18 @@
 
   pattern('page/content', ['p' => $page]);
 
-  if($page->route()->isNotEmpty()) {
-    $routes = related($page->route());
+  // $routes = route UIDs listed in `route:` frontmatter
+  $routes = $page->route()->yaml();
+
+  // Convert $routes => array of pages
+  array_walk($routes, function(&$value, $key) {
+    $value = page('routes')->children()->find($value);
+  });
+
+  if (!$page->route()->empty()) {
     pattern('section/routes', [
-      'routes' => $routes,
-      'context' => 'station'
+      'title' => 'Routes serving the station',
+      'routes' => $routes
     ]);
   }
 

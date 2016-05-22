@@ -2,7 +2,7 @@
 ----
 title: Fareham to Gosport
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - fareham

@@ -2,7 +2,7 @@
 ----
 title: Hayward's Heath to Lewes and Hastings
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 stops:
 - haywards-heath

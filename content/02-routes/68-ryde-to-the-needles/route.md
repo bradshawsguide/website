@@ -2,7 +2,7 @@
 ----
 title: Second Route--Ryde to the Needles
 ----
-company: Isle of Wight
+company: isle-of-wight
 ----
 stops:
 - ryde

@@ -1,6 +1,6 @@
 title: London Bridge to Herne Bay by Steamer
 ----
-company: London
+company: london
 ----
 destination: Herne Bay
 ----

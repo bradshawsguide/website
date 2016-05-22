@@ -2,7 +2,7 @@
 ----
 title: Polegate to Eastbourne
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 stops:
 - polegate

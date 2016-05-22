@@ -2,7 +2,7 @@
 ----
 title: Brixton to Crystal Palace
 ----
-company: London, Chatham, and Dover Railway
+company: london-chatham-and-dover
 ----
 stops:
 - brixton

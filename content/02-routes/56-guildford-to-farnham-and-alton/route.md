@@ -2,7 +2,7 @@
 ----
 title: Guildford to Farnham and Alton
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - guildford

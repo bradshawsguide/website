@@ -2,7 +2,7 @@
 ----
 title: London to Southampton, Dorchester and Weymouth
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - waterloo-bridge

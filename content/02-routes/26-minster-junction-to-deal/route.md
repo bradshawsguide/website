@@ -2,7 +2,7 @@
 ----
 title: Minster Junction to Deal
 ----
-company: South Eastern Railway
+company: south-eastern
 ----
 stops:
 - minster-junction

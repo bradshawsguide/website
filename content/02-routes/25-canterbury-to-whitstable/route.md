@@ -2,7 +2,7 @@
 ----
 title: Canterbury to Whitstable
 ----
-company: South Eastern Railway
+company: south-eastern
 ----
 stops:
 - canterbury

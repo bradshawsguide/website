@@ -2,7 +2,7 @@
 ----
 title: Three Bridges to East Grinstead
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 stops:
 - three-bridges

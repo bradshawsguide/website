@@ -2,7 +2,7 @@
 ----
 title: Wimborne to Blandford
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - wimborne

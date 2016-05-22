@@ -2,7 +2,7 @@
 ----
 title: Wimbledon to Epsom and Leatherhead
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - wimbledon

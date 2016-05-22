@@ -2,7 +2,7 @@
 ----
 title: Sutton to Epsom Downs
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 related:
 - (wikipedia: Epsom Downs Branch)

@@ -4,25 +4,27 @@
 <?
   pattern('page/header', ['p' => $page]);
 
-  $items = $pages->find('companies')->children()->sortBy('title');
-  foreach($items as $item) {
-    switch ($item->title()) {
-      case 'Isle of Wight':
-        $object = $pages->findByURI('/regions/england/isle-of-wight');
+  $companies = $pages->find('companies')->children()->sortBy('title');
+  foreach($companies as $company) {
+
+    // Routes for Isle of Wight and London fall under regions
+    switch ($company->uid()) {
+      case 'isle-of-wight':
+        $company = page('/regions/england/isle-of-wight');
         break;
-      case 'London':
-        $object = $pages->findByURI('/regions/england/london');
+      case 'london':
+        $company = page('/regions/england/london');
         break;
       default:
-        $object = $item;
+        $company = $company;
     }
 
-    $company = $object->title();
-    $routes = $pages->find('routes')->children()->filterBy('company', $company)->filterBy('text', '!=','');
+    // Get list of routes pages where `company` matches $company->uid()
+    $routes = $pages->find('routes')->children()->filterBy('company', $company->uid());
+
     pattern('section/routes', [
-      'routes' => $routes,
-      'context' => 'routes',
-      'object' => $object
+      'title' => html::a($company->url(), $company->title()),
+      'routes' => $routes
     ]);
   }
 ?>

@@ -2,7 +2,7 @@
 ----
 title: Ashford to Hastings
 ----
-company: South Eastern Railway
+company: south-eastern
 ----
 stops:
 - ashford

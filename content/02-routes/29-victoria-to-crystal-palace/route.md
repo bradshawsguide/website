@@ -2,7 +2,7 @@
 ----
 title: Victoria to Crystal Palace
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 related:
 - (wikipedia: West End of London and Crystal Palace Railway)

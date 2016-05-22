@@ -2,7 +2,7 @@
 ----
 title: Acton to Hammersmith
 ----
-company: North and South Western Junction Railway
+company: north-and-south-western-junction
 ----
 stops:
 - acton

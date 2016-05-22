@@ -2,7 +2,7 @@ section: 1
 ----
 title: First Route--Ryde to Newchurch
 ----
-company: Isle of Wight
+company: isle-of-wight
 ----
 stops:
 - ryde

@@ -2,7 +2,7 @@
 ----
 title: Surbiton to Hampton Court
 ----
-company: London and South Western Railway
+company: london-and-south-western
 ----
 stops:
 - surbiton

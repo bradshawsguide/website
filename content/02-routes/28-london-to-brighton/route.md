@@ -2,7 +2,7 @@
 ----
 title: London to Brighton
 ----
-company: London, Brighton, and South Coast Railway
+company: london-brighton-and-south-coast
 ----
 stops:
 - london-bridge

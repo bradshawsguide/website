@@ -2,7 +2,7 @@
 ----
 title: Lewisham to Chislehurst
 ----
-company: South Eastern Railway
+company: south-eastern
 ----
 stops:
 - lewisham

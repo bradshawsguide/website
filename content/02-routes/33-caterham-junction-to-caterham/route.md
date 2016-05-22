@@ -2,7 +2,7 @@
 ----
 title: Caterham Junction to Caterham
 ----
-company: South Eastern Railway
+company: south-eastern
 ----
 stops:
 - caterham-junction

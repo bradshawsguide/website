@@ -2,7 +2,7 @@
 ----
 title: Sittingbourne to Sheerness
 ----
-company: London, Chatham, and Dover Railway
+company: london-chatham-and-dover
 ----
 stops:
 - sittingbourne
