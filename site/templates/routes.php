@@ -4,7 +4,7 @@
 <?
   pattern('page/header', ['p' => $page]);
 
-  $companies = $pages->find('companies')->children()->sortBy('title');
+  $companies = page('companies')->children()->sortBy('title');
   foreach($companies as $company) {
 
     // Routes for Isle of Wight and London fall under regions
@@ -20,7 +20,7 @@
     }
 
     // Get list of routes pages where `company` matches $company->uid()
-    $routes = $pages->find('routes')->children()->filterBy('company', $company->uid());
+    $routes = page('routes')->children()->visible()->filterBy('company', $company->uid());
 
     pattern('section/routes', [
       'title' => html::a($company->url(), $company->title()),

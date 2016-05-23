@@ -1,6 +1,6 @@
 ﻿section: 1
 ----
-title: Victoria to Herne Hill
+title: Victoria and Elephant and Castle to Herne Hill
 ----
 company: london-chatham-and-dover
 ----

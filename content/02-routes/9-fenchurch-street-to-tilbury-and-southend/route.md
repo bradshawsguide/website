@@ -1,10 +1,11 @@
 ﻿section: 1
 ----
-title: Fenchurch Street to Tilbury and Southend
+title: Bishopsgate and Fenchurch Street to Tilbury and Southend
 ----
 company: london-tilbury-and-southend
 ----
 stops:
+- bishopsgate
 - fenchurch-street
 - stepney
 - bromley
