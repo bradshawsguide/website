@@ -2,20 +2,16 @@
 
 <article class="c-page">
 <?
-  pattern('common/breadcrumb', [
-    'parent' => $page->region()
-  ]);
-
   pattern('page/header', ['p' => $page]);
 
   pattern('page/content', ['p' => $page]);
 
-  // $routes = route UIDs listed in `route:` frontmatter
+  // Get route UIDs listed under `route:` frontmatter
   $routes = $page->route()->yaml();
 
   // Convert $routes => array of pages
   array_walk($routes, function(&$value, $key) {
-    $value = page('routes')->children()->find($value);
+    $value = page('routes/'.$value);
   });
 
   if (!$page->route()->empty()) {

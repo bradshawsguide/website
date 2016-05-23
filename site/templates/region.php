@@ -2,8 +2,6 @@
 
 <article class="c-page">
 <?
-  pattern('common/breadcrumb');
-
   pattern('page/header', ['p' => $page]);
 
   pattern('page/navigation', ['p' => $page]);
@@ -12,12 +10,11 @@
 
   pattern('section/related');
 
-  $region = $page->title();
-  $stations = $pages->find('stations')->children()->filterBy('region', $region);
+  $stations = $pages->find('stations')->children()->filterBy('region', $page->title());
   if($stations->count()) {
     pattern('section/stations', [
-      'stations' => $stations,
-      'context' => 'region'
+      'title' => 'Stations in the county',
+      'stations' => $stations
     ]);
   }
 

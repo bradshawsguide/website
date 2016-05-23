@@ -2,8 +2,6 @@ title: London Bridge to Hampton Court
 ----
 company: london
 ----
-destination: Hampton Court
-----
 text: <span id="the-bridges">**The Bridges.**</span>--Beyond the dates of their erection and completion, we can add but few particulars to these convenient communications from shore to shore, we therefore present at once the most important facts necessary to be known concerning them,
 
 1. *London:* five stone arches, by Rennie, 1831.

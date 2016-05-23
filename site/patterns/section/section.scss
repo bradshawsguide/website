@@ -22,6 +22,8 @@
 .c-section--index,
 .c-section--country,
 .c-section--stations {
+  overflow: hidden;
+
   .c-list__item {
     @media screen and (min-width: $v-breakpoint--a) {
       width: percentage(1/2);

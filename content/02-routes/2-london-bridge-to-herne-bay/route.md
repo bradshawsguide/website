@@ -2,8 +2,6 @@ title: London Bridge to Herne Bay by Steamer
 ----
 company: london
 ----
-destination: Herne Bay
-----
 text: For the sake of variety, we shall proceed to describe the journey by water, which, on a fine day, is not only the most agreeable, but, as furnishing air excellent opportunity of seeing the scenery of the Thames, is perhaps most desirable to strangers.
 
 <span id="london-bridge">**London Bridge.**</span>--The present bridge was erected from the designs of Rennie, nearly on the site of the old bridge demolished in 1825, and opened by William IV. on the 1st of August, 1831. The length is 950 ft. and the width between the parapets 84 ft., there are five arches, the centre of which has a span of 150 ft., rising 23 ft. above high water.

@@ -2,17 +2,15 @@
 
 <article class="c-page">
 <?
-  pattern('common/breadcrumb', [
-    'parent' => $page->company()
-  ]);
-
   pattern('page/header', ['p' => $page]);
 
   pattern('page/content', ['p' => $page]);
 
-  pattern('section/routemap', [
-    'route' => "- routes/".kirby()->request()->path()->last()
-  ]);
+  if (!$page->stops()->empty()) {
+    pattern('section/routemap', [
+      'stops' => $page->stops()->yaml()
+    ]);
+  }
 
   pattern('section/related');
 

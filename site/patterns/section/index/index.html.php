@@ -4,13 +4,13 @@
   <ul class="c-list">
   <? foreach($items as $item): ?>
     <?
-    if ($item->short_title()->isNotEmpty()) {
+    if (!$item->short_title()->empty()) {
       $title = $item->short_title();
     } else {
       $title = $item->title();
     }
     ?>
-    <li class="c-list__item<? if($item->text()->isEmpty()): ?> unremarkable<? endif ?>">
+    <li class="c-list__item">
       <a href="<?= $item->url() ?>"><?= smartypants($title) ?></a>
     </li>
   <? endforeach ?>

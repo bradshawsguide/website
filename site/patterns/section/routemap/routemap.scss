@@ -7,22 +7,21 @@
   &::before,
   &::after {
     position: absolute;
-    left: -0.75em;
-    width: 1.25em;
+    left: -0.625em;
+    width: 1em;
     content: "";
     z-index: 0;
   }
 
   &::before {
     top: 0;
-    border-top: 0.5em solid $c-neutral--light;
-    border-bottom: 0.25em solid;
+    border-top: 0.75em solid $c-neutral--lightest;
   }
 
   &::after {
     bottom: 0;
     border-top: 0.25em solid;
-    border-bottom: 0.5em solid $c-neutral--light;
+    border-bottom: 1.5em solid $c-neutral--lightest;
   }
 }
 
@@ -34,9 +33,9 @@
     display: block;
     float: left;
     width: 0.25em;
-    margin-top: 0.25rem;
+    margin-top: 0.5rem;
     margin-right: 0.875rem;
-    border-bottom: 0.25em solid blue;
+    border-bottom: 0.25em solid;
     content: "";
   }
 
@@ -55,13 +54,13 @@
     float: left;
     display: block;
     position: relative;
-    margin-left: -0.625rem;
+    margin-left: -0.75rem;
     margin-right: 0.75rem;
-    width: 1rem;
-    height: 1rem;
+    width: 1.25rem;
+    height: 1.25rem;
     border: 0.25em solid;
     border-radius: 1em;
-    background-color: $c-neutral--light;
+    background-color: $c-neutral--lightest;
     content: "";
     z-index: 1;
   }
@@ -79,6 +78,7 @@
     top: -0.3334em;
     left: -1.25em;
     font-size: 1.5em;
+    font-family: sans-serif;
     content: "\261E";
   }
 }

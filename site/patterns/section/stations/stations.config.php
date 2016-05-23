@@ -2,7 +2,7 @@
 
 return [
   'defaults' => [
-    'stations' => page('routes')->children()->filterBy('company', 'South Eastern Railway'),
-    'context' => 'company'
+    'title' => 'Stations served',
+    'stations' => page('routes')->children()->filterBy('company', 'london-brighton-and-south-coast')
   ]
 ];
