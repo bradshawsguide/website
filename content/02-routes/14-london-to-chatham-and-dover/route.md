@@ -35,7 +35,7 @@ stops:
 - teynham
 - faversham
 - selling
-- canterbury
+- canterbury-east
 - bekesbourne
 - adisham
 - shepherds-well

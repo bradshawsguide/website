@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- charing-cross-and-london-bridge-to-folkestone-and-dover
+- charing-cross-to-folkestone-and-dover
 ----
 notes: Distance from station, 1¼ mile.
 

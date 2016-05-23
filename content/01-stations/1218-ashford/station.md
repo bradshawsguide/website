@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- charing-cross-and-london-bridge-to-folkestone-and-dover
+- charing-cross-to-folkestone-and-dover
 - ashford-to-canterbury-and-ramsgate
 - ashford-to-hastings
 ----

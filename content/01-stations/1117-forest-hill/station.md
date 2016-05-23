@@ -1,6 +1,8 @@
 section: 1
 ----
-title: Forest Hill
+title: Dartmouth Arms (Forest Hill)
+----
+short_title: Dartmouth Arms
 ----
 region: Kent
 ----
@@ -9,7 +11,7 @@ company:
 - companies/london-brighton-and-south-coast
 ----
 route:
-- charing-cross-and-london-bridge-to-folkestone-and-dover
+- charing-cross-to-folkestone-and-dover
 - london-to-brighton
 ----
 notes: A telegraph station.

@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- strood-to-maidstone-and-paddock-wood
+- paddock-wood-to-maidstone
 ----
 notes: Distance from station, 1½ mile.
 

@@ -6,8 +6,9 @@ company: london-chatham-and-dover
 ----
 stops:
 - victoria
-- battersea-park-road
+- battersea-park
 - stewarts-lane
 - wandsworth-road
+- clapham
 - brixton
 - herne-hill

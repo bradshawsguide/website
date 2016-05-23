@@ -5,12 +5,10 @@ title: Dover
 region: Kent
 ----
 company:
-- companies/london-chatham-and-dover
 - companies/south-eastern
 ----
 route:
-- london-to-chatham-and-dover
-- charing-cross-and-london-bridge-to-folkestone-and-dover
+- charing-cross-to-folkestone-and-dover
 ----
 notes: A telegraph station.
 

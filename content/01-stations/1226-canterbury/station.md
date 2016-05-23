@@ -5,11 +5,9 @@ title: Canterbury
 region: Kent
 ----
 company:
-- companies/london-chatham-and-dover
 - companies/south-eastern
 ----
 route:
-- london-to-chatham-and-dover
 - ashford-to-canterbury-and-ramsgate
 - canterbury-to-whitstable
 ----
@@ -40,93 +38,93 @@ Riding Gate is in Watling Street, on the old road from London, which Chaucer's p
 Canterbury has a Guildhall, sessions house, cavalry and other barracks, with several schools and hospitals. St. Nicholas's hospital, at Harbledown, was founded by Archbishop Lanfranc in the 11th century. That part of the neighbourhood near the Dover road, is dotted all over with fine scats.
 ----
 distances:
-- 
+-
   location: Adisham Down
   miles: "5"
-- 
+-
   location: Bekesbourne
   miles: "3"
-- 
+-
   location: Beverley Park
   miles: "1½"
-- 
+-
   location: Blean Church
   miles: "2"
-- 
+-
   location: Bridge
   miles: "3"
-- 
+-
   location: Broad Oak Common
   miles: "2"
-- 
+-
   location: Broom Park
   miles: "7"
-- 
+-
   location: Dene Park
   miles: "6"
-- 
+-
   location: Elensden
   miles: "4½"
-- 
+-
   location: Gorsley Wood
   miles: "4½"
-- 
+-
   location: Harbledown
   miles: "¾"
-- 
+-
   location: Heath Farm
   miles: "1½"
-- 
+-
   location: Herne Common
   miles: "5"
-- 
+-
   location: Ickham
   miles: "5"
-- 
+-
   location: Kingston
   miles: "5"
-- 
+-
   location: Lee Park
   miles: "4½"
-- 
+-
   location: Littlebourne
   miles: "4"
-- 
+-
   location: Mayton
   miles: "2½"
-- 
+-
   location: Mote, The
   miles: "2"
-- 
+-
   location: Nackington
   miles: "4"
-- 
+-
   location: Riabel Wood
   miles: "2"
-- 
+-
   location: South Street
   miles: "4½"
-- 
+-
   location: St. Dunstan
   miles: "1½"
-- 
+-
   location: St. Stephens
   miles: "1½"
-- 
+-
   location: Staple Street
   miles: "4½"
-- 
+-
   location: Stone House
   miles: "1½"
-- 
+-
   location: Stuppington Farm
   miles: "2½"
-- 
+-
   location: Thannington
   miles: "1½"
-- 
+-
   location: Way Street
   miles: "5"
-- 
+-
   location: Wingham
   miles: "6"
