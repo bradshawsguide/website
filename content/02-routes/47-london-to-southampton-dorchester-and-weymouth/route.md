@@ -39,7 +39,10 @@ stops:
 - dorchester
 - weymouth
 ----
-text: ## Clapham to Kingston
+text: ## London to Clapham
+The [Metropolitan terminus](/stations/waterloo-bridge) of the [South Western](/companies/london-and-south-western) is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company.
+
+## Clapham to Kingston
 Soon after rejoining the Main Line at Clapham Common, [a branch to the left](/routes/victoria-to-crystal-palace) leads to the Crystal Palace, *via* [Balham](/stations/balham), [Streatham](/stations/streatham), and [Norwood](/stations/norwood-lower).
 
 Emerging from the excavation, we proceed onwards over an embankment, which affords one continued series of delightful views across a country which art has contributed in the highest degree to adorn, at the extremity of which a cursory glimpse of the old square tower of Kingston church is obtained.

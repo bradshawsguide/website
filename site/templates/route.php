@@ -6,11 +6,9 @@
 
   pattern('page/content', ['p' => $page]);
 
-  if (!$page->stops()->empty()) {
-    pattern('section/routemap', [
-      'stops' => $page->stops()->yaml()
-    ]);
-  }
+  pattern('section/routemap', [
+    'stops' => $page->stops()->yaml()
+  ]);
 
   if (!$page->related()->empty()) {
     pattern('section/related', ['p' => $page]);

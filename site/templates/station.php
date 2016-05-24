@@ -14,12 +14,10 @@
     $value = page('routes/'.$value);
   });
 
-  if (!$page->route()->empty()) {
-    pattern('section/routes', [
-      'title' => 'Routes serving the station',
-      'items' => $routes
-    ]);
-  }
+  pattern('section/routes', [
+    'title' => 'Routes serving the station',
+    'items' => $routes
+  ]);
 
   pattern('section/related', ['p' => $page]);
 

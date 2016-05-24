@@ -1,4 +1,4 @@
-<? if($stops && $stops->count()): ?>
+<? if($stops): ?>
   <section class="c-section c-section--route">
     <h1 class="c-section__title">Route Map</h1>
     <ol class="c-routemap">
