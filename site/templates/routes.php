@@ -19,12 +19,9 @@
         $company = $company;
     }
 
-    // Get list of routes pages where `company` matches $company->uid()
-    $routes = page('routes')->children()->visible()->filterBy('company', $company->uid());
-
     pattern('section/routes', [
       'title' => html::a($company->url(), $company->title()),
-      'routes' => $routes
+      'items' => page('routes')->children()->visible()->filterBy('company', $company->uid())
     ]);
   }
 ?>

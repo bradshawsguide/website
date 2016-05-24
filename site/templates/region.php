@@ -10,15 +10,12 @@
 
   pattern('section/related');
 
-  $stations = $pages->find('stations')->children()->filterBy('region', $page->title());
-  if($stations->count()) {
-    pattern('section/stations', [
-      'title' => 'Stations in the county',
-      'stations' => $stations
-    ]);
-  }
+  pattern('section/stations', [
+    'title' => 'Stations in the county',
+    'items' => page('stations')->children()->filterBy('region', $page->title())
+  ]);
 
-  pattern('common/shorturl');
+  pattern('common/shorturl', ['p' => $page]);
 
   pattern('common/traverse', ['p' => $page]);
 ?>

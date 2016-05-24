@@ -5,7 +5,7 @@
   pattern('page/header', ['p' => $page]);
 
   pattern('section/index', [
-    'search' => $page->children()->visible()
+    'items' => $page->children()->visible()
   ]);
 ?>
 </section>

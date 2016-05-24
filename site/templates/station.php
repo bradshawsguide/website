@@ -17,13 +17,13 @@
   if (!$page->route()->empty()) {
     pattern('section/routes', [
       'title' => 'Routes serving the station',
-      'routes' => $routes
+      'items' => $routes
     ]);
   }
 
   pattern('section/related', ['p' => $page]);
 
-  pattern('common/shorturl');
+  pattern('common/shorturl', ['p' => $page]);
 
   pattern('common/traverse', ['p' => $page]);
 ?>

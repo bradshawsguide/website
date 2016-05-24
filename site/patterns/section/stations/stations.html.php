@@ -2,7 +2,7 @@
   <h1 class="c-section__title"><?= $title ?></h1>
   <?
     pattern('section/index', [
-      'search' => $stations
+      'search' => $items
     ]);
   ?>
 </section>

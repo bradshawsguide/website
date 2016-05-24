@@ -6,23 +6,19 @@
 
   pattern('page/content', ['p' => $page]);
 
-  // Get list of route pages where `company:` value  matches UID of this company
-  $routes = page('routes')->children()->filterBy('company', $page->uid());
-
   pattern('section/routes', [
     'title' => 'Routes operated',
-    'routes' => $routes
+    'items' => page('routes')->children()->filterBy('company', $page->uid())
   ]);
 
-  $companyPath = kirby()->request()->path(2);
   pattern('section/stations', [
     'title' => 'Stations served',
-    'stations' => $pages->children()->filterBy('company', '*=', $companyPath)
+    'items' => page('stations')->children()->filterBy('company', '*=', $page->uri())
   ]);
 
-  pattern('section/related');
+  pattern('section/related', ['p' => $page]);
 
-  pattern('common/shorturl');
+  pattern('common/shorturl', ['p' => $page]);
 ?>
 </article>
 

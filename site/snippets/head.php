@@ -35,7 +35,6 @@
 </head>
 
 <body>
-  <? pattern('global/symbols') ?>
   <? pattern('global/banner') ?>
 
   <main class="c-main" role="main">

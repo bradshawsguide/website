@@ -13,10 +13,10 @@
   }
 
   if (!$page->related()->empty()) {
-    pattern('section/related');
+    pattern('section/related', ['p' => $page]);
   }
 
-  pattern('common/shorturl');
+  pattern('common/shorturl', ['p' => $page]);
 ?>
 </article>
 

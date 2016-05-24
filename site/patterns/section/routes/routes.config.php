@@ -3,6 +3,6 @@
 return [
   'defaults' => [
     'title' => 'Routes operated',
-    'routes' => page('routes')->children()->filterBy('company', 'south-eastern')
+    'items' => page('routes')->children()->filterBy('company', 'south-eastern')
   ]
 ];
