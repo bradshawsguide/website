@@ -8,7 +8,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- strood-to-maidstone-and-paddock-wood
+- strood-to-maidstone
 ----
 notes: A telegraph station.
 ----

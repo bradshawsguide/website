@@ -11,7 +11,7 @@ company:
 route:
 - charing-cross-to-woolwich-gravesend-strood-and-rochester
 - london-to-chatham-and-dover
-- strood-to-maidstone-and-paddock-wood
+- strood-to-maidstone
 ----
 notes: A telegraph station.
 ----

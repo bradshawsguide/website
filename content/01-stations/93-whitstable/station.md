@@ -9,7 +9,7 @@ company:
 - companies/south-eastern
 ----
 route:
-- faversham-to-ramsgate
+- faversham-to-ramsgate-harbour
 - canterbury-to-whitstable
 ----
 notes: A telegraph station.

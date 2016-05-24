@@ -8,7 +8,7 @@ company:
 - companies/london-chatham-and-dover
 ----
 route:
-- faversham-to-ramsgate
+- faversham-to-ramsgate-harbour
 ----
 notes: Distance from Sturry station, 6 miles.
 

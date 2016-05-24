@@ -15,13 +15,13 @@
   margin-left: $v-text-indent;
   font-feature-settings: "smcp" on;
   font-weight: normal;
-
-  &::after {
-    content: ".—";
-  }
 }
 
 .c-info__desc {
   margin-bottom: 0.5rem;
   margin-left: 0;
+
+  &::before {
+    content: "—";
+  }
 }

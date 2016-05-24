@@ -12,7 +12,9 @@
     ]);
   }
 
-  pattern('section/related');
+  if (!$page->related()->empty()) {
+    pattern('section/related');
+  }
 
   pattern('common/shorturl');
 ?>
