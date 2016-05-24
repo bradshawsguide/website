@@ -6,21 +6,15 @@
 
   $companies = page('companies')->children()->sortBy('title');
   foreach($companies as $company) {
-
-    // Routes for Isle of Wight and London fall under regions
-    switch ($company->uid()) {
-      case 'isle-of-wight':
-        $company = page('/regions/england/isle-of-wight');
-        break;
-      case 'london':
-        $company = page('/regions/england/london');
-        break;
-      default:
-        $company = $company;
-    }
+    // Only link to companies with visible pages
+    if ($company->isVisible()) {
+      $title = html::a($company->url(), $company->title());
+    } else {
+      $title = $company->title();
+    };
 
     pattern('section/routes', [
-      'title' => html::a($company->url(), $company->title()),
+      'title' => $title,
       'items' => page('routes')->children()->visible()->filterBy('company', $company->uid())
     ]);
   }
