@@ -1,11 +1,11 @@
 ﻿section: 1
 ----
-title: Redbridge
+title: Portland
 ----
-region: Hampshire
+region: Dorsetshire
 ----
 company:
 - companies/london-and-south-western
 ----
 route:
-- london-to-southampton-dorchester-and-weymouth
+- weymouth-to-portland

@@ -9,6 +9,7 @@ company:
 ----
 route:
 - london-to-southampton-dorchester-and-weymouth
+- weymouth-to-portland
 ----
 notes: A telegraph station.
 ----

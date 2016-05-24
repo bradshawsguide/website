@@ -14,3 +14,5 @@ stops:
 - stockbridge
 - horsebridge
 - mottisfont
+- romsey
+- redbridge
