@@ -10,4 +10,4 @@ company:
 route:
 - guildford-to-farnham-and-alton
 ----
-text: Tongham, station for Aldershott.
+text: Tongham, station for [Aldershott](stations/aldershott).

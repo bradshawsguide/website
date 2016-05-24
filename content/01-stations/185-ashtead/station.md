@@ -10,4 +10,4 @@ company:
 route:
 - wimbledon-to-epsom-and-leatherhead
 ----
-text: The seat of Colonel Howard.
+text: *Ashtead Park*, the seat of Colonel Howard.
