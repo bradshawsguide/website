@@ -1,5 +1,5 @@
 <nav class="c-traverse">
-  <h1 class="c-traverse__title">Previous and next in <em><?= $p->parent()->title() ?></em></h1>
+  <h1 class="c-traverse__title">Previous and next in <?= $title ?></h1>
 
 <? if ($p->hasPrevVisible() == true): ?>
   <a rel="prev" href="<?= $p->prevVisible()->url() ?>"><?= smartypants($p->prevVisible()->title()) ?></a>

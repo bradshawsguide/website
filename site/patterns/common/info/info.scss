@@ -1,8 +1,9 @@
 .c-info {
+  @include fs--info;
   margin-bottom: 1rem;
 
   @media screen and (min-width: $v-breakpoint--b) {
-    max-width: 50%;
+    max-width: 40%;
     float: right;
     margin-left: 1rem;
     border-left: 1px solid;
@@ -13,7 +14,7 @@
 .c-info__term {
   float: left;
   margin-left: $v-text-indent;
-  font-feature-settings: "smcp" on;
+  font-variant-caps: small-caps;
   font-weight: normal;
 }
 

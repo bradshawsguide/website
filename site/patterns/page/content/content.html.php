@@ -1,9 +1,9 @@
+<? if (isset($modifier)): ?>
+<div class="c-page__content c-page__content--<?= $modifier ?>">
+<? else: ?>
 <div class="c-page__content">
+<? endif ?>
 <?
-  if($p->hasImages()) {
-    pattern('common/poster', ['p' => $p]);
-  }
-
   if($p->info()->isNotEmpty()) {
     pattern('common/info', ['p' => $p]);
   }

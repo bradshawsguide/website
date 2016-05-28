@@ -4,7 +4,12 @@
 <?
   pattern('page/header', ['p' => $page]);
 
-  pattern('page/content', ['p' => $page]);
+  pattern('page/media', ['p' => $page]);
+
+  pattern('page/content', [
+    'modifier' => 'narrow',
+    'p' => $page
+  ]);
 
   // Get route UIDs listed under `route:` frontmatter
   $routes = $page->route()->yaml();
@@ -23,7 +28,10 @@
 
   pattern('common/shorturl', ['p' => $page]);
 
-  pattern('common/traverse', ['p' => $page]);
+  pattern('common/traverse', [
+    'p' => $page,
+    'title' => 'Section'.$page->section()
+  ]);
 ?>
 </article>
 

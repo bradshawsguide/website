@@ -1,6 +1,6 @@
-// ============================================================================
+// ========================================================
 // Mixins
-// ============================================================================
+// ========================================================
 
 // Visually hide content
 @mixin u--visually-hidden {
@@ -81,10 +81,18 @@
 
 @mixin fs--title {
   font-family: $f-block;
-  font-size: 2.5rem; // 40px
+  font-size: 2rem; // 32px
   letter-spacing: -0.03125rem;
-  line-height: (40 / 40);
+  line-height: 1;
   text-transform: uppercase;
+
+  @media screen and (min-width: $v-breakpoint--b) {
+    font-size: 3rem; // 48px
+  }
+
+  @media screen and (min-width: $v-breakpoint--c) {
+    font-size: 4rem; // 64px
+  }
 }
 
 @mixin fs--heading {
@@ -98,14 +106,29 @@
 
 @mixin fs--body {
   font-family: $f-serif;
-  font-size: 1.125rem; // 18px
-  line-height: (25 / 18);
+  font-size: 1rem; // 16px
+  line-height: (20 / 16);
+
+  @media screen and (min-width: $v-breakpoint--c) {
+    font-size: 1.125rem; // 18px
+    line-height: (24 / 18);
+  }
+
+  @media screen and (min-width: $v-breakpoint--d) {
+    font-size: 1.25rem; // 20px
+    line-height: (32 / 20);
+  }
 }
 
 @mixin fs--info {
   font-family: $f-serif;
   font-size: 1rem; // 16px
   line-height: (20 / 16);
+
+  @media screen and (min-width: $v-breakpoint--c) {
+    font-size: 1.125rem; // 18px
+    line-height: (25 / 18);
+  }
 }
 
 @mixin fs--caption {

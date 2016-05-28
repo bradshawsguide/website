@@ -1,4 +1,4 @@
-<ul>
+<ul class="c-results">
 <? foreach($results as $result): ?>
   <?
   $type = $result->parent()->title();
@@ -12,11 +12,16 @@
     $type = "Railway Company";
   endif
   ?>
-  <li>
-    <a href="<?= $result->url() ?>">
-      <h2><?= html($result->title()); ?> <em><?= $type ?></em></h2>
-      <p><?= excerpt($result->text(), $length=140); ?></p>
-      <?= server::get('server_name'); ?><?= $result->url() ?>
+  <li class="c-results__item">
+    <a class="c-results__result" href="<?= $result->url() ?>">
+      <h2 class="c-results__title">
+        <?= html($result->title()); ?>
+        <em class="c-results__type"><?= $type ?></em>
+      </h2>
+      <div class="c-results__desc s-prose">
+        <p><?= excerpt($result->text(), $length=140); ?></p>
+        <?= server::get('server_name'); ?><?= $result->url() ?>
+      </div>
     </a>
   </li>
 <? endforeach ?>

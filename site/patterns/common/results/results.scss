@@ -1,0 +1,7 @@
+.c-results {
+  margin-bottom: units(2);
+}
+
+.c-results__title {
+  @include fs--heading();
+}

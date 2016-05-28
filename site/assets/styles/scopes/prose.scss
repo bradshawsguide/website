@@ -1,9 +1,9 @@
 .s-prose {
   @include fs--body;
-  font-feature-settings: "onum" 1, "kern" 1;
+  font-variant-numeric: oldstyle-nums;
 
   > * {
-    margin-bottom: 0.625em;
+    margin-bottom: 0.75em;
   }
 
   h2,
@@ -11,7 +11,7 @@
   caption {
     @include fs--heading;
     margin-top: 2rem;
-    font-feature-settings: "dlig" 1;
+    font-variant-ligatures: discretionary-ligatures;
   }
 
   summary,
@@ -45,6 +45,6 @@
   }
 
   table {
-    font-feature-settings: "lnum" 1, "tnum" 1;
+    font-variant-numeric: lining-nums tabular-nums;
   }
 }
