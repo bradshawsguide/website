@@ -15,9 +15,7 @@
     'items' => page('stations')->children()->filterBy('region', $page->title())
   ]);
 
-  pattern('common/shorturl', ['p' => $page]);
-
-  pattern('common/traverse', ['p' => $page]);
+  pattern('page/footer', ['p' => $page]);
 ?>
 </article>
 
