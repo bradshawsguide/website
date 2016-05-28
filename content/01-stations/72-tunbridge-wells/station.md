@@ -21,7 +21,7 @@ info:
   description: to and from the station, also to Paddock Wood.
 - term: Post Horses, Flys, &c
   description: at the station and hotels.
-- Market Days
+- term: Market Days
   description: Daily.
 ----
 text: This town is, with the exception of Bath, the most ancient of the inland watering places. Nature has eminently favoured it by the salubrity of its air, the potency of its mineral springs, and the adjacent appendages of romantic and agreeable scenery. Dudley Lord North, a young nobleman of the Court of James I., whilst on a visit to Bridge House, happened to taste the waters, and these renovating a constitution impaired by too much indulgence, caused him to bring the place into fashionable repute. From that time visitors gradually increased, streets were laid out, lodging-houses built, and now, though the caprice of fashion has somewhat depreciated the fame of our own spas, Tunbridge Wells may still boast a large share of patronage in the season, which extends from May till November.

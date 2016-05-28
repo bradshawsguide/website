@@ -17,7 +17,7 @@ A telegraph station.
 info:
 - term: Hotels
   description: The George, King's Anns.
-- Market Day
+- term: Market Day
   description: Wednesday.
 - term: Fair
   description: June 12th.

@@ -24,6 +24,10 @@
     text-decoration: underline;
   }
 
+  strong {
+    font-family: $f-slab;
+  }
+
   p {
     hyphens: auto;
     text-align: justify;

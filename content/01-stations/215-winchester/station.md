@@ -12,21 +12,18 @@ route:
 - guildford-to-farnham-and-alton
 ----
 notes: A telegraph station.
-
-Population,
-: 14,776.
-
-Hotels
-: The. George ; Black Swan.
-
-Market Days
-: Wednesdays and Saturdays.
-
-Fairs
-: First Monday in Lent, and October 24th.
-
-Races
-: in June
+----
+info:
+- term: Population,
+  description: 14,776.
+- term: Hotels
+  description: The. George; Black Swan.
+- term: Market Days
+  description: Wednesdays and Saturdays.
+- term: Fairs
+  description: First Monday in Lent, and October 24th.
+- term: Races
+  description: in June
 ----
 text: This old capital of the British *Belgoe*, county town of *Hampshire*, a bishop's see, and parliamentary borough (two members); stands among round chalk hills, sloping down to the Itchen, on the South Western Railway, 63½ miles from London, and 12¼ from Southampton. The ancient Britons styled it *Gwent*, a white; which the Romans, who made it one of their head quarters, altered to *Venta Belgarium*, and the West Saxons, after them, to *Wintancestre*. Many of the later Saxon kings and their successors down to Henry VIII, occasionally made Winchester a place of residence. The *Winchester* bushel, the standard of dry-measure, and Henry I.'s standard yard, are to be seen at the Town Hall in High-street, a modem building.
 

@@ -20,7 +20,7 @@ info:
 - term: Hotel
   description: Bugle; Star; Green Dragon.
 - term: Coaches
-  description: to and from Cowes: Ryde, Yarmouth, and the places on the Eastern Route of the Island.
+  description: to and from Cowes&#58; Ryde, Yarmouth, and the places on the Eastern Route of the Island.
 - term: Boat
   description: between Wootton Bridge and Portsmouth, daily.
 - term: Market Day
@@ -33,75 +33,75 @@ text: Newport, the capital of the Island, a clean, well built, country town, in 
 For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.
 ----
 distances:
-- 
+-
   location: Albany Barracks
   miles: "½"
-- 
+-
   location: Alvington
   miles: "2"
-- 
+-
   location: Arreton
   miles: "2½"
-- 
+-
   location: Barton Point
   miles: "4"
-- 
+-
   location: Birchmore
   miles: "2½"
-- 
+-
   location: Blackland
   miles: "2½"
-- 
+-
   location: Brettleford
   miles: "2½"
-- 
+-
   location: Carisbrooke
   miles: "1"
-- 
+-
   location: |
     Carisbrooke Castle
     *Built before the Conquest*
   miles: "1½"
-- 
+-
   location: Carisbrooke Church
   miles: "1¼"
-- 
+-
   location: Carisbrooke Priory, Ruins of
   miles: "1"
-- 
+-
   location: |
     Church, Old
     *Tomb of Charles First's daughter, Princess Elizabeth*
   miles: "¼"
-- 
+-
   location: "King's Forest"
   miles: "½"
-- 
+-
   location: Kite Hill
   miles: "5"
-- 
+-
   location: Marcliff
   miles: "4½"
-- 
+-
   location: |
     Node Hill
     *Monument to Tyerman the Missionary, and lines by Montgomery*
   miles: "2"
-- 
+-
   location: Norris Castle
   miles: "½"
-- 
+-
   location: Park Cross
   miles: "4"
-- 
+-
   location: Parkhurst Reformatory Institution
   miles: "½"
-- 
+-
   location: Thorness
   miles: "4"
-- 
+-
   location: West Cowes
   miles: "5"
-- 
+-
   location: Wootton and Bridge
   miles: "3½"

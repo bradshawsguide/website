@@ -1,9 +1,10 @@
 .c-info {
   @include fs--info;
+  margin-top: 0.25rem;
   margin-bottom: 1rem;
 
   @media screen and (min-width: $v-breakpoint--b) {
-    max-width: 40%;
+    width: 40%;
     float: right;
     margin-left: 1rem;
     border-left: 1px solid;
@@ -13,14 +14,14 @@
 
 .c-info__term {
   float: left;
-  margin-left: $v-text-indent;
-  font-variant-caps: small-caps;
+  font-feature-settings: "smcp" on;
   font-weight: normal;
 }
 
 .c-info__desc {
-  margin-bottom: 0.5rem;
-  margin-left: 0;
+  &:not(:last-of-type) {
+    margin-bottom: 0.5rem;
+  }
 
   &::before {
     content: "—";

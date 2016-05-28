@@ -22,7 +22,7 @@ info:
   description: Angel and Crown.
 - term: Market Day
   description: Saturday.
-- Fairs
+- term: Fairs
   description: May 11th and September 19th.
 ----
 text: Staines is a pleasant market town, in the county of Middlesex, standing on the north bank of the Thames, over which is thrown a bridge, which connects the counties of Middlesex and Surrey. In the old records it is called Stana, a Saxon word for a stone, and Camden supposes that the name was derived from a stone which was fixed on the banks of the river, to mark the extent of the authority of the city of London over the Thames, westward. This town contains a handsome church, besides which there are other places of public worship for dissenters. Nearly all the houses extend along the sides of the high road, but there are a considerable number built in other directions.

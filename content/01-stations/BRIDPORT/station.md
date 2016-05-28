@@ -3,7 +3,3 @@
 title: Bridport
 ----
 region: Dorsetshire
-----
-company:
-----
-route:

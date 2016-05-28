@@ -28,10 +28,6 @@
 
 .c-page__notes {
   @include fs--info;
-
-  @media screen and (min-width: $v-breakpoint--b) {
-    line-height: 2;
-  }
 }
 
 .c-page__navigation-item {
@@ -52,6 +48,10 @@
   .c-poster__caption {
     @include l--container;
   }
+}
+
+.c-page__content {
+  overflow: hidden;
 }
 
 .c-page__content--narrow {

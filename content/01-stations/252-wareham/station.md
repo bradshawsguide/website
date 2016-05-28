@@ -18,13 +18,13 @@ Population: 6,694.
 ----
 info:
 - term: Hotel
-  description:: Red Lion.
+  description: Red Lion.
 - term: Omnibuses
-  description:: to and from Swanage, and Corfe Castle
+  description: to and from Swanage, and Corfe Castle
 - term: Market Days
-  description:: Tuesday and Saturday.
+  description: Tuesday and Saturday.
 - term: Fairs
-  description:: April 6th, July 5th, and September 11th
+  description: April 6th, July 5th, and September 11th
 ----
 text: The town, situated on a rising ground, at the top of Poole harbour was once a Roman station and a port, now a borough (returns one member), in the neighbourhood of which much potters' and fire-stone clay is found. There was a Norman castle here; and the church of St. Mary is half Norman. The corner of Dorsetshire between this and the sea is called the Isle of Purbeck though only a peninsula about 11 miles long. A chalk ridge runs through it, 640 to 650 feet high, to Swanage and Studland bays; beyond which are the beds of Kimmaridge clay (in which alum and lignite coal have been worked) and Purbeck stone--the latter much variegated, rich in shells, and Saurian fossils, and of a smooth marble quality. The West India Docks, and many old churches, have been built of it. In a gap of the downs, about five miles to the south, is
 

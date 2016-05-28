@@ -11,8 +11,8 @@ company:
 - companies/mid-kent
 ----
 route:
-- north-kent
-- lewisham-to-beckenham
+- new-cross-to-chislehurst
+- lewisham-to-beckenham-and-croydon
 ----
 notes: A telegraph station.
 ----

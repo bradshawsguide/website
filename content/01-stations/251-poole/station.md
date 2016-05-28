@@ -18,11 +18,11 @@ info:
 - term: Hotel
   description: Antelope,
 - term: Omnibuses
-  description:: to and from Parkstone, and Bournemouth.
+  description: to and from Parkstone, and Bournemouth.
 - term: Market Days
-  description:: Monday and Thursday.
+  description: Monday and Thursday.
 - term: Fairs
-  description:: May 1st, and November 2nd.
+  description: May 1st, and November 2nd.
 ----
 text: A Dorsetshire borough and port, on the South-Western Railway, 122 miles from London, by a small branch out of the main line. The neighbourhood is a dreary plain of sand and furze. Population 9,759, who return two members. Having been founded since the Conquest, it is a comparatively modern town, but has always preserved a respectable position as a third or fourth class port.
 

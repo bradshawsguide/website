@@ -5,6 +5,7 @@ title: Lewisham to Beckenham and Croydon
 company: mid-kent
 ----
 stops:
+- lewisham
 - ladywell
 - lower-sydenham
 - beckenham
