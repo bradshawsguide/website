@@ -1,0 +1,17 @@
+.c-shorturl {
+  @include fs--caption;
+  display: flex;
+  margin-bottom: 0.5rem;
+}
+
+.c-shorturl__title {
+  font-weight: 600;
+
+  &::after {
+    content: ':'
+  }
+}
+
+.c-shorturl__link {
+  margin-left: 0.5rem;
+}

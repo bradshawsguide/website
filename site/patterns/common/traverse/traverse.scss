@@ -1,0 +1,25 @@
+.c-traverse {
+  @include fs--caption;
+  display: flex;
+  margin-bottom: 0.5rem;
+}
+
+.c-traverse__title {
+  @include u--visually-hidden;
+}
+
+.c-traverse__link {
+  font-weight: 600;
+
+  &:last-of-type {
+    margin-left: 1rem;
+  }
+}
+
+.c-traverse__link[rel="prev"]::before {
+  content: '← ';
+}
+
+.c-traverse__link[rel="next"]::after {
+  content: ' →';
+}

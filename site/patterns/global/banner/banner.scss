@@ -1,11 +1,10 @@
 .c-banner {
   background-color: $c-neutral--darkest;
   color: $c-brand-yellow;
-  flex: 0;
-  font-family: $f-block;
-  font-size: 2rem;
+  flex: 0 0 auto;
+  font: 2rem/1 $f-block;
   order: -1;
-  padding-top: 1rem;
+  padding-top: 1.25rem;
   padding-bottom: 0.25rem;
   text-transform: uppercase;
 }

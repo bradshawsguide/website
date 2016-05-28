@@ -1,8 +1,8 @@
 .c-contentinfo {
-  @include fs--system-caption;
+  @include fs--caption;
   background-color: $c-neutral--darkest;
   color: $c-neutral--lightest;
-  flex: 0;
+  flex: 0 0 auto;
   margin-top: auto;
   order: 2;
   padding: 1rem;

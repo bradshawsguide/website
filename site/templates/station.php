@@ -28,12 +28,7 @@
 
   pattern('section/related', ['p' => $page]);
 
-  pattern('common/shorturl', ['p' => $page]);
-
-  pattern('common/traverse', [
-    'p' => $page,
-    'title' => 'Section'.$page->section()
-  ]);
+  pattern('page/footer', ['p' => $page]);
 ?>
 </article>
 

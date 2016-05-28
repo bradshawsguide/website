@@ -64,7 +64,7 @@
   }
 
   .c-poster__caption {
-    @include fs--system-caption;
+    @include fs--caption;
     @include l--container;
   }
 }

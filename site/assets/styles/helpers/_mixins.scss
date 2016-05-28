@@ -68,15 +68,9 @@
 
 // Font metrics
 @mixin fs--system-menu {
-  font: menu;
+  font: $f-sans;
   font-size: 1rem;
   line-height: (20 / 16);
-}
-
-@mixin fs--system-caption {
-  font: caption;
-  font-size: 0.875rem; // 14px
-  line-height: (20 / 14);
 }
 
 @mixin fs--title {
@@ -107,11 +101,11 @@
 @mixin fs--body {
   font-family: $f-serif;
   font-size: 1rem; // 16px
-  line-height: (20 / 16);
+  line-height: (24 / 16);
 
   @media screen and (min-width: $v-breakpoint--c) {
     font-size: 1.125rem; // 18px
-    line-height: (24 / 18);
+    line-height: (28 / 18);
   }
 
   @media screen and (min-width: $v-breakpoint--d) {
