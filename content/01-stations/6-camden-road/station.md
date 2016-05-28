@@ -7,7 +7,7 @@ short_title: Camden Rd.
 region: Middlesex
 ----
 company:
-- companies/north-london
+- north-london
 ----
 route:
 - fenchurch-street-to-chalk-farm

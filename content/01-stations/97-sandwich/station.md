@@ -5,7 +5,7 @@ title: Sandwich
 region: Kent
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - minster-junction-to-deal

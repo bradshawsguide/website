@@ -5,8 +5,8 @@ title: Chatham
 region: Kent
 ----
 company:
-- companies/south-eastern
-- companies/london-chatham-and-dover
+- south-eastern
+- london-chatham-and-dover
 ----
 route:
 - charing-cross-to-woolwich-gravesend-strood-and-rochester

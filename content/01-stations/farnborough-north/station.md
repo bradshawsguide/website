@@ -5,7 +5,7 @@ title: Farnborough North (SER)
 region: Hampshire
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - reigate-to-reading

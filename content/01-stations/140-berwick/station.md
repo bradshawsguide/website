@@ -5,7 +5,7 @@ title: Berwick
 region: Sussex
 ----
 company:
-- companies/london-brighton-and-south-coast
+- london-brighton-and-south-coast
 ----
 route:
 - haywards-heath-to-lewes-and-hastings

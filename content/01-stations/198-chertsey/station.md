@@ -5,7 +5,7 @@ title: Chertsey
 region: Surrey
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - weybridge-to-chertsey

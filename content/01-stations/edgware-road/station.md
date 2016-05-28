@@ -7,7 +7,7 @@ short_title: Edgware Rd.
 region: Middlesex
 ----
 company:
-- companies/hampstead-junction
+- hampstead-junction
 ----
 route:
 - camden-road-to-willesden-junction

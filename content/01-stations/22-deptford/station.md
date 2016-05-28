@@ -5,7 +5,7 @@ title: Deptford
 region: Kent
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - charing-cross-to-greenwich

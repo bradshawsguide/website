@@ -5,7 +5,7 @@ title: Sellhurst
 region: Surrey
 ----
 company:
-- companies/london-brighton-and-south-coast
+- london-brighton-and-south-coast
 ----
 route:
 - victoria-to-crystal-palace

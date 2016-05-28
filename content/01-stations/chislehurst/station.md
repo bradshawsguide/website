@@ -5,7 +5,7 @@ title: Chislehurst
 region: Kent
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - new-cross-to-chislehurst

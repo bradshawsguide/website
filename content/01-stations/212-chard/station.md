@@ -5,7 +5,7 @@ title: Chard
 region: Somerset
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - chard-road-to-chard

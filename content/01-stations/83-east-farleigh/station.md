@@ -5,7 +5,7 @@ title: East Farleigh
 region: Kent
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - paddock-wood-to-maidstone

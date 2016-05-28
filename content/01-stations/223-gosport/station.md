@@ -5,7 +5,7 @@ title: Gosport
 region: Hampshire
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - fareham-to-gosport

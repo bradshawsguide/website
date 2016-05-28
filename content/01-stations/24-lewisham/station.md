@@ -7,8 +7,8 @@ short_title: Lewisham
 region: Kent
 ----
 company:
-- companies/south-eastern
-- companies/mid-kent
+- south-eastern
+- mid-kent
 ----
 route:
 - new-cross-to-chislehurst

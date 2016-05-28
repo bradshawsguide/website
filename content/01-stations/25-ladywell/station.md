@@ -5,7 +5,7 @@ title: Ladywell
 region: Kent
 ----
 company:
-- companies/mid-kent
+- mid-kent
 ----
 route:
 - lewisham-to-beckenham-and-croydon

@@ -5,7 +5,7 @@ title: Hammersmith
 region: Middlesex
 ----
 company:
-- companies/north-and-south-western-junction
+- north-and-south-western-junction
 ----
 route:
 - acton-to-hammersmith

@@ -5,7 +5,7 @@ title: Poole
 region: Dorsetshire
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - poole-junction-to-poole

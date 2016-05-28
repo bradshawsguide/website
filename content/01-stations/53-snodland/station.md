@@ -5,7 +5,7 @@ title: Snodland
 region: Kent
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - strood-to-maidstone

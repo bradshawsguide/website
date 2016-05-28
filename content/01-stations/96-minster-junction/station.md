@@ -7,7 +7,7 @@ short_title: Minster Jct.
 region: Kent
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - ashford-to-canterbury-and-ramsgate

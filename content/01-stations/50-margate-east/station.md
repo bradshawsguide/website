@@ -5,7 +5,7 @@ title: Margate (C&D)
 region: Kent
 ----
 company:
-- companies/london-chatham-and-dover
+- london-chatham-and-dover
 ----
 route:
 - faversham-to-ramsgate-harbour

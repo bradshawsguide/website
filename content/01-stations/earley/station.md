@@ -5,7 +5,7 @@ title: Earley
 region: Berkshire
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - reigate-to-reading

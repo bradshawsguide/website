@@ -5,7 +5,7 @@ title: Isleworth
 region: Middlesex
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - barnes-to-hounslow-and-feltham

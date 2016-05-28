@@ -5,7 +5,7 @@ title: Billingshurst
 region: Sussex
 ----
 company:
-- companies/london-brighton-and-south-coast
+- london-brighton-and-south-coast
 ----
 route:
 - three-bridges-to-horsham-and-arundel

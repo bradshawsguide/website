@@ -5,7 +5,7 @@ title: Battersea Park
 region: Surrey
 ----
 company:
-- companies/london-chatham-and-dover
+- london-chatham-and-dover
 ----
 route:
 - victoria-to-herne-hill

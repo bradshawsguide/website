@@ -5,7 +5,7 @@ title: Bognor
 region: Sussex
 ----
 company:
-- companies/london-brighton-and-south-coast
+- london-brighton-and-south-coast
 ----
 route:
 - barnham-to-bognor

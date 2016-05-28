@@ -5,8 +5,8 @@ title: Blackfriars
 region: Middlesex
 ----
 company:
-- companies/south-eastern
-- companies/london-chatham-and-dover
+- south-eastern
+- london-chatham-and-dover
 ----
 route:
 - charing-cross-to-greenwich

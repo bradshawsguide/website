@@ -5,7 +5,7 @@ title: Caterham
 region: Surrey
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - caterham-junction-to-caterham

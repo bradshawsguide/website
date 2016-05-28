@@ -5,7 +5,7 @@ title: West India Docks
 region: Middlesex
 ----
 company:
-- companies/london-and-blackwall
+- london-and-blackwall
 ----
 route:
 - fenchurch-street-to-blackwall

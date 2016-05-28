@@ -7,7 +7,7 @@ region: Kent
 notes: Population: 12,015.
 ----
 company:
-- companies/london-chatham-and-dover
+- london-chatham-and-dover
 ----
 route:
 - sittingbourne-to-sheerness

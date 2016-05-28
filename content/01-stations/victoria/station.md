@@ -5,8 +5,8 @@ title: Victoria
 region: Middlesex
 ----
 company:
-- companies/london-chatham-and-dover
-- companies/london-brighton-and-south-coast
+- london-chatham-and-dover
+- london-brighton-and-south-coast
 ----
 route:
 - victoria-to-herne-hill

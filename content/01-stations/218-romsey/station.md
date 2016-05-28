@@ -5,7 +5,7 @@ title: Romsey
 region: Hampshire
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - bishopstoke-to-salisbury

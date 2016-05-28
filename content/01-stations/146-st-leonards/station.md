@@ -5,8 +5,8 @@ title: St. Leonards
 region: Sussex
 ----
 company:
-- companies/south-eastern
-- companies/london-brighton-and-south-coast
+- south-eastern
+- london-brighton-and-south-coast
 ----
 route:
 - tunbridge-to-hastings

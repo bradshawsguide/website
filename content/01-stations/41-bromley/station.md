@@ -5,8 +5,8 @@ title: Bromley
 region: Kent
 ----
 company:
-- companies/london-tilbury-and-southend
-- companies/london-chatham-and-dover
+- london-tilbury-and-southend
+- london-chatham-and-dover
 ----
 route:
 - fenchurch-street-to-tilbury-and-southend

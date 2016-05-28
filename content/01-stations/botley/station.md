@@ -5,7 +5,7 @@ title: Botley
 region: Hampshire
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - botley-to-bishops-waltham

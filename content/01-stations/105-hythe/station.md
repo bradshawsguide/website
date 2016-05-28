@@ -5,7 +5,7 @@ title: Hythe
 region: Kent
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - charing-cross-to-folkestone-and-dover

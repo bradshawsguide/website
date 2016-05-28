@@ -5,8 +5,8 @@ title: London Bridge
 region: Surrey
 ----
 company:
-- companies/south-eastern
-- companies/london-brighton-and-south-coast
+- south-eastern
+- london-brighton-and-south-coast
 ----
 route:
 - charing-cross-to-greenwich

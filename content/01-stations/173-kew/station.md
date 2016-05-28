@@ -5,8 +5,8 @@ title: Kew
 region: Surrey
 ----
 company:
-- companies/north-and-south-western-junction
-- companies/london-and-south-western
+- north-and-south-western-junction
+- london-and-south-western
 ----
 route:
 - willesden-junction-to-kew

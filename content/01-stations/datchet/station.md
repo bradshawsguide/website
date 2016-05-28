@@ -5,7 +5,7 @@ title: Datchet
 region: Buckinghamshire
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - staines-to-windsor

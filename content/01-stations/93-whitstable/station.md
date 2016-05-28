@@ -5,8 +5,8 @@ title: Whitstable
 region: Kent
 ----
 company:
-- companies/london-chatham-and-dover
-- companies/south-eastern
+- london-chatham-and-dover
+- south-eastern
 ----
 route:
 - faversham-to-ramsgate-harbour

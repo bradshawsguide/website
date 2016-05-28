@@ -5,7 +5,7 @@ title: Winchelsea
 region: Sussex
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - ashford-to-hastings

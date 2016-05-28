@@ -5,7 +5,7 @@ title: Eastbourne
 region: Sussex
 ----
 company:
-- companies/london-brighton-and-south-coast
+- london-brighton-and-south-coast
 ----
 route:
 - polegate-to-eastbourne

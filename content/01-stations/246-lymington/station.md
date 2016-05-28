@@ -5,7 +5,7 @@ title: Lymington
 region: Hampshire
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - brockenhurst-to-lymington

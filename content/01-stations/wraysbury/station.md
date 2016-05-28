@@ -5,7 +5,7 @@ title: Wraysbury
 region: Berkshire
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - staines-to-windsor

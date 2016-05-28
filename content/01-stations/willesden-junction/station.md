@@ -7,8 +7,8 @@ short_title: Willesden Jct.
 region: Middlesex
 ----
 company:
-- companies/hampstead-junction
-- companies/north-and-south-western-junction
+- hampstead-junction
+- north-and-south-western-junction
 ----
 route:
 - camden-road-to-willesden-junction

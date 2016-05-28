@@ -5,8 +5,8 @@ title: Epsom
 region: Surrey
 ----
 company:
-- companies/london-brighton-and-south-coast
-- companies/london-and-south-western
+- london-brighton-and-south-coast
+- london-and-south-western
 ----
 route:
 - croydon-to-epsom

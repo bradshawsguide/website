@@ -5,8 +5,8 @@ title: Sydenham
 region: Kent
 ----
 company:
-- companies/south-eastern
-- companies/london-brighton-and-south-coast
+- south-eastern
+- london-brighton-and-south-coast
 ----
 route:
 - charing-cross-to-folkestone-and-dover

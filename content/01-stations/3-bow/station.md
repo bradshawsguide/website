@@ -5,7 +5,7 @@ title: Bow
 region: Middlesex
 ----
 company:
-- companies/north-london
+- north-london
 ----
 route:
 - fenchurch-street-to-chalk-farm

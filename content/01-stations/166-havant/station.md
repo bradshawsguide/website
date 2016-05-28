@@ -5,8 +5,8 @@ title: Havant
 region: Hampshire
 ----
 company:
-- companies/london-brighton-and-south-coast
-- companies/london-and-south-western
+- london-brighton-and-south-coast
+- london-and-south-western
 ----
 route:
 - brighton-to-worthing-chichester-and-portsmouth

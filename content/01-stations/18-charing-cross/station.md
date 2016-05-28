@@ -5,7 +5,7 @@ title: Charing Cross
 region: Middlesex
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - charing-cross-to-greenwich

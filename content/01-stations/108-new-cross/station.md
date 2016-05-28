@@ -5,8 +5,8 @@ title: New Cross
 region: Kent
 ----
 company:
-- companies/south-eastern
-- companies/london-brighton-and-south-coast
+- south-eastern
+- london-brighton-and-south-coast
 ----
 route:
 - new-cross-to-chislehurst

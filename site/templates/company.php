@@ -11,14 +11,15 @@
     'items' => page('routes')->children()->filterBy('company', $page->uid())
   ]);
 
+  $company = kirby()->request()->path()->last();
   pattern('section/stations', [
     'title' => 'Stations served',
-    'items' => page('stations')->children()->filterBy('company', '*=', $page->uri())
+    'items' => page('stations')->children()->filterBy('company', '*=', $company)
   ]);
 
   pattern('section/related', ['p' => $page]);
 
-  pattern('common/shorturl', ['p' => $page]);
+  pattern('page/footer', ['p' => $page]);
 ?>
 </article>
 

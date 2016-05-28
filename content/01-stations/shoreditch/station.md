@@ -5,7 +5,7 @@ title: Shoreditch
 region: Middlesex
 ----
 company:
-- companies/north-london
+- north-london
 ----
 route:
 - dalston-to-broad-street

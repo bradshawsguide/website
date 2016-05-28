@@ -5,7 +5,7 @@ title: Falmer
 region: Sussex
 ----
 company:
-- companies/london-brighton-and-south-coast
+- london-brighton-and-south-coast
 ----
 route:
 - brighton-to-lewes

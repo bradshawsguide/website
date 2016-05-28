@@ -5,7 +5,7 @@ title: Commercial Dock
 region: Surrey
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - charing-cross-to-greenwich

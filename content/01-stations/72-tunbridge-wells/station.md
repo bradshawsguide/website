@@ -5,7 +5,7 @@ title: Tunbridge Wells
 region: Kent
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - tunbridge-to-hastings

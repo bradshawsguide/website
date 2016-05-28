@@ -5,8 +5,8 @@ title: Clapham
 region: Surrey
 ----
 company:
-- companies/london-chatham-and-dover
-- companies/london-and-south-western
+- london-chatham-and-dover
+- london-and-south-western
 ----
 route:
 - victoria-to-herne-hill

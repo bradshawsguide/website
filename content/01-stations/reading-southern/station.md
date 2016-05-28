@@ -5,8 +5,8 @@ title: Reading Southern
 region: Berkshire
 ----
 company:
-- companies/south-eastern
-- companies/london-and-south-western
+- south-eastern
+- london-and-south-western
 ----
 route:
 - reigate-to-reading

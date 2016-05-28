@@ -5,7 +5,7 @@ title: Battle
 region: Sussex
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - tunbridge-to-hastings

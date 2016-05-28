@@ -5,7 +5,7 @@ title: Emsworth
 region: Hampshire
 ----
 company:
-- companies/london-brighton-and-south-coast
+- london-brighton-and-south-coast
 ----
 route:
 - brighton-to-worthing-chichester-and-portsmouth

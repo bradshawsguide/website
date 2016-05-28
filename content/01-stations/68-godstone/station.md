@@ -5,7 +5,7 @@ title: Godstone
 region: Surrey
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - charing-cross-to-folkestone-and-dover

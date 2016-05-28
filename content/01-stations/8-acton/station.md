@@ -5,7 +5,7 @@ title: Acton
 region: Middlesex
 ----
 company:
-- companies/north-and-south-western-junction
+- north-and-south-western-junction
 ----
 route:
 - willesden-junction-to-kew

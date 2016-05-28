@@ -5,7 +5,7 @@ title: Ham Street
 region: Kent
 ----
 company:
-- companies/south-eastern
+- south-eastern
 ----
 route:
 - ashford-to-hastings

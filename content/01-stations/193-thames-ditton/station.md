@@ -5,7 +5,7 @@ title: Thames Ditton
 region: Surrey
 ----
 company:
-- companies/london-and-south-western
+- london-and-south-western
 ----
 route:
 - surbiton-to-hampton-court

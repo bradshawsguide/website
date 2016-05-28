@@ -5,7 +5,7 @@ title: Shoreham
 region: Kent
 ----
 company:
-- companies/london-chatham-and-dover
+- london-chatham-and-dover
 ----
 route:
 - sevenoaks-junction-to-sevenoaks

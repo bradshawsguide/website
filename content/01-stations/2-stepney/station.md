@@ -5,8 +5,8 @@ title: Stepney
 region: Middlesex
 ----
 company:
-- companies/london-and-blackwall
-- companies/london-tilbury-and-southend
+- london-and-blackwall
+- london-tilbury-and-southend
 ----
 route:
 - fenchurch-street-to-blackwall

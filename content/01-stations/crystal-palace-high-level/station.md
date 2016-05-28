@@ -7,7 +7,7 @@ short_title: Crystal Palace (High)
 region: Surrey
 ----
 company:
-- companies/london-chatham-and-dover
+- london-chatham-and-dover
 ----
 route:
 - brixton-to-crystal-palace

@@ -5,9 +5,9 @@ title: Guildford
 region: Surrey
 ----
 company:
-- companies/south-eastern
-- companies/london-brighton-and-south-coast
-- companies/london-and-south-western
+- south-eastern
+- london-brighton-and-south-coast
+- london-and-south-western
 ----
 route:
 - reigate-to-reading
