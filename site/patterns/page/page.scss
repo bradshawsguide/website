@@ -1,5 +1,6 @@
 .c-page {
   @include l--container;
+  position: relative;
 }
 
 .c-page__header {
@@ -14,6 +15,15 @@
     align-items: flex-end;
     padding-top: 1.5rem;
     padding-top: 3rem;
+  }
+
+  @media screen and (min-width: $v-breakpoint--d) {
+    .c-page--has-poster & {
+      position: absolute;
+      top: 0;
+      right: 0;
+      left: 0;
+    }
   }
 }
 
@@ -43,9 +53,18 @@
 
   .c-poster {
     @include l--container-extend;
+    margin-bottom: 2rem;
+  }
+
+  .c-poster__img {
+    display: block;
+    height: auto;
+    width: 100%;
+    margin-bottom: 0.5rem;
   }
 
   .c-poster__caption {
+    @include fs--system-caption;
     @include l--container;
   }
 }

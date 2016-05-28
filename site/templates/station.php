@@ -1,10 +1,12 @@
 <? snippet('head') ?>
 
-<article class="c-page">
+<article class="c-page<? if ($page->hasImages()): ?> c-page--has-poster<? endif ?>">
 <?
   pattern('page/header', ['p' => $page]);
 
-  pattern('page/media', ['p' => $page]);
+  if($page->hasImages()) {
+    pattern('page/media', ['p' => $page]);
+  };
 
   pattern('page/content', [
     'modifier' => 'narrow',
