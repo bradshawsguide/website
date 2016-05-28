@@ -24,11 +24,12 @@
   },
   "config": {
     "src": {
-      "assets": "./site/assets/",
-      "path": "./site/"
+      "assets": "./src/assets/",
+      "path": "./src/"
     },
     "dest": {
-      "assets": "./assets/"
+      "assets": "./www/assets/",
+      "path": "./www/"
     }
   },
   "devDependencies": {

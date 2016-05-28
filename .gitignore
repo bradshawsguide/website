@@ -1,6 +1,6 @@
 .DS_Store
-/site/accounts
-/assets/
-/thumbs/*
+/src/accounts
+/www/assets/
+/www/thumbs/
 node_modules
 *.cache

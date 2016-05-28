@@ -1,9 +1,0 @@
-{
-    "name": "alphabetise",
-    "readable": "Alphabetise",
-    "version": "0.0.7",
-    "description": "Alphabetise a Kirby CMS page array or tag array with key.",
-    "author": "Russ Baldwin",
-    "type": "kirby-plugin",
-    "license": "MIT"
-}

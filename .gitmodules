@@ -1,0 +1,18 @@
+[submodule "www/kirby"]
+	path = www/kirby
+	url = git@github.com:getkirby/kirby.git
+[submodule "www/panel"]
+	path = www/panel
+	url = git@github.com:getkirby/panel.git
+[submodule "src/plugins/patterns"]
+	path = src/plugins/patterns
+	url = git@github.com:getkirby-plugins/patterns-plugin.git
+[submodule "src/plugins/geo"]
+	path = src/plugins/geo
+	url = git@github.com:getkirby-plugins/geo-plugin.git
+[submodule "src/fields/markdown"]
+	path = src/fields/markdown
+	url = git@github.com:JonasDoebertin/kirby-visual-markdown.git
+[submodule "src/plugins/alphabetise"]
+	path = src/plugins/alphabetise
+	url = git@github.com:shoesforindustry/kirby-plugins-alphabetise.git

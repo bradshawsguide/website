@@ -10,7 +10,7 @@
     <? foreach($p->distances()->yaml() as $distance): ?>
     <tr class="c-distances__item">
       <td class="c-distances__location">
-        <?= kirbytextRaw($distance['location']) ?>
+        <?= kirbytext($distance['location']) ?>
       </td>
       <td class="c-distances__miles">
         <?= $distance['miles'] ?>
