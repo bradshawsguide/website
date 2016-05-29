@@ -19,7 +19,6 @@ Sometimes it’s helpful to know what all these files are for…
 
 ```
 bradshawsguide
-│
 ├── etc/                # Configuration files
 │
 ├── src/
@@ -30,26 +29,24 @@ bradshawsguide
 │   │   ├── styles/     # Global CSS files
 │   │   └── vectors/    # Global SVG images, icons and logos
 │   │
-│   ├── blueprints/     #
-│   ├── config/         #
-│   ├── content/        #
-│   ├── controllers/    #
-│   ├── fields/         #
-│   ├── patterns/       #
-│   │   ├── scopes/     # Components (`.s-*`) to style undecorated markup
-│   │   ├── utilities/  # Components (`.u-*`) with single purpose/role
-│   │   └── …           # Components (`.c-*`) that define pieces of UI
+│   ├── content/        # Site content
 │   │
-│   ├── plugins/        #
-│   ├── snippets/       #
-│   ├── tags/           #
-│   └── templates/      #
+│   ├── controllers/    # Template controllers
+│   ├── patterns/       # Template patterns
+│   ├── snippets/       # Template snippets
+│   ├── templates/      # Templates
+│   │
+│   ├── blueprints/     # Kirby Panel: Form blueprints
+│   ├── config/         # Kirby: Configuration
+│   ├── fields/         # Kirby Panel: Form field types
+│   ├── plugins/        # Kirby: Plugins
+│   └── tags/           # Kirby: Tags
 │
 ├── www/
-│   ├── assets/
-│   ├── [kirby]/
-│   ├── [panel]/
-│   ├── thumbs/
+│   ├── assets/         # Compiled assets (not tracked by git)
+│   ├── [kirby]/        # Kirby [submodule]
+│   ├── [panel]/        # Kirby Panel [submodule]
+│   ├── thumbs/         # Thumbnail cache (not tracked by git)
 │   └── index.php
 │
 ├── .editorconfig       # Text editor preferences
