@@ -12,12 +12,6 @@
 # RewriteCond %{HTTP_HOST} !^bradshawsguide\.org$ [NC]
 # RewriteRule ^(.*)$ http://bradshawsguide.org/$1 [R=301,L]
 
-# Block text files in the content folder from being accessed directly
-  RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
-
-# Block all files in the site folder from being accessed directly
-  RewriteRule ^site/(.*) index.php [L]
-
 # Block all files in the kirby folder from being accessed directly
   RewriteRule ^kirby/(.*) index.php [L]
 

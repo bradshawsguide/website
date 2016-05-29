@@ -56,7 +56,7 @@ bradshawsguide
 ├── .stylelintrc        # CSS linting preferences
 ├── gulpfile.js         # Configuration file for Gulp
 ├── package.json        # Project manifest
-├── LICENSE             # License information for this project
+├── LICENSE             # Project license 
 └── readme.md           # This file
 ```
 
