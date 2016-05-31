@@ -1,6 +1,6 @@
 title: London Bridge to Hampton Court
 ----
-company: london
+company: thames-steamers
 ----
 text: <span id="the-bridges">**The Bridges.**</span>--Beyond the dates of their erection and completion, we can add but few particulars to these convenient communications from shore to shore, we therefore present at once the most important facts necessary to be known concerning them,
 
