@@ -7,6 +7,7 @@ company: north-london
 stops:
 - fenchurch-street
 - bow
+- victoria-park
 - hackney
 - dalston
 - newington-road

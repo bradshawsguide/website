@@ -2,7 +2,14 @@
 
 <article class="c-page">
 <?
-  pattern('page/header', ['p' => $page]);
+  $company = $page->company()->uid();
+  $companyUrl = page('companies/'.$company)->url();
+  $companyTitle = page('companies/'.$company)->title();
+
+  pattern('page/header', [
+    'p' => $page,
+    'subtitle' => html::a($companyUrl, smartypants($companyTitle))
+  ]);
 
   pattern('page/content', ['p' => $page]);
 
@@ -14,7 +21,7 @@
     pattern('section/related', ['p' => $page]);
   }
 
-  pattern('common/shorturl', ['p' => $page]);
+  pattern('page/footer', ['p' => $page]);
 ?>
 </article>
 

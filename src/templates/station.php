@@ -2,7 +2,10 @@
 
 <article class="c-page<? if ($page->hasImages()): ?> c-page--has-poster<? endif ?>">
 <?
-  pattern('page/header', ['p' => $page]);
+  pattern('page/header', [
+    'p' => $page,
+    'notes' => $page->notes()
+  ]);
 
   if($page->hasImages()) {
     pattern('page/media', ['p' => $page]);
