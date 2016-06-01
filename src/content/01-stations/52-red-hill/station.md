@@ -13,14 +13,14 @@ route:
 - reigate-to-reading
 - london-to-brighton
 ----
-notes: A telegraph station.
-----
 info:
 - term: Hotel
   description: Railway Hotel.
 - term: Money Order Office
 ----
-text: This is one of the most important junctions of the Kent and Sussex Railways.
+text: A telegraph station.
+
+This is one of the most important junctions of the Kent and Sussex Railways.
 
 The [Reigate and Reading Branch](/routes/reigate-to-reading) goes to the west, through the vale of Dorking to Guildford and Reading, communicating thence to any part of the kingdom.
 
