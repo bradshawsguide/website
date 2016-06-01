@@ -10,4 +10,4 @@ company:
 route:
 - basingstoke-to-salisbury-and-exeter
 ----
-text: (Junction)
+notes: (Junction)

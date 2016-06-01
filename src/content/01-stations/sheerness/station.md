@@ -4,7 +4,9 @@ title: Sheerness
 ----
 region: Kent
 ----
-notes: Population: 12,015.
+info:
+- term: Population
+  description: 12,015.
 ----
 company:
 - london-chatham-and-dover

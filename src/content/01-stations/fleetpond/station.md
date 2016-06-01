@@ -10,4 +10,4 @@ company:
 route:
 - london-to-southampton-dorchester-and-weymouth
 ----
-notes: A telegraph station.
+text: A telegraph station.
