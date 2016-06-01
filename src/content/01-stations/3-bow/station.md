@@ -12,7 +12,7 @@ route:
 ----
 info:
 - term: Money Order Office
-  description: No. 28, Southside.
+  desc: No. 28, Southside.
 ----
 text: A telegraph station.
 

@@ -18,15 +18,15 @@ A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Bugle; Star; Green Dragon.
+  desc: Bugle; Star; Green Dragon.
 - term: Coaches
-  description: to and from Cowes&#58; Ryde, Yarmouth, and the places on the Eastern Route of the Island.
+  desc: to and from Cowes&#58; Ryde, Yarmouth, and the places on the Eastern Route of the Island.
 - term: Boat
-  description: between Wootton Bridge and Portsmouth, daily.
+  desc: between Wootton Bridge and Portsmouth, daily.
 - term: Market Day
-  description: Saturday (Corn), and every other Saturday (Cattle)
+  desc: Saturday (Corn), and every other Saturday (Cattle)
 - term: Fairs
-  description: Whitsuntide and Michaelmas.
+  desc: Whitsuntide and Michaelmas.
 ----
 text: Newport, the capital of the Island, a clean, well built, country town, in a hollow, on the river Medina which divides the Island nearly in halves. Cracknell biscuits are manufactured here; but Cowes is the real place where they were first made. Population 8,047. It sends two members to parliament. Town Hall built 1816, by Nash. Old church, in which Charles I.'s daughter Elizabeth is buried. Large House of Industry for the Island, on the Cowes road; not far from the Albany barracks, whither recruits are sent for exercise, and the Parkhurst Reformatory for boys.
 

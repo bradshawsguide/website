@@ -16,11 +16,11 @@ A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Swan.
+  desc: Swan.
 - term: Market Day
-  description: Wednesday.
+  desc: Wednesday.
 - term: Fairs
-  description: First Monday in Lent, May 14th, August 6th, and September 25th.
+  desc: First Monday in Lent, May 14th, August 6th, and September 25th.
 ----
 text: Chertsey is as old as the days of the ancient Britons, and probably was one of their principal places. Soon after the conversion of the Saxons from Paganism, in 666, a Benedictine monastery was founded here by Frithwald, a petty prince of Surrey, and by him richly endowed. In the original charter it is written, "I beseech those whose names are annexed to subscribe themselves witnesses that I, Frithwald, who am the giver, together with the Abbot Erkenwald, on account of my ignorance of letters, have expressed with the sign of the Holy Cross." It is from this pretty evident that princes in those days had somewhat of Jack Cade's antipathy to those who could "read, write, and cast accompt," and therefore they also "made their mark, like a simple, plain-dealing, honest man."
 

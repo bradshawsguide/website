@@ -13,7 +13,7 @@ route:
 ----
 info:
 - term: Market Day
-  description: Saturday. Much corn is shipped here.
+  desc: Saturday. Much corn is shipped here.
 ----
 text: A telegraph station.
 

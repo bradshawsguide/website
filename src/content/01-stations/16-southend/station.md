@@ -12,7 +12,7 @@ route:
 ----
 info:
 - term: Hotels
-  description: Ship, Chas. Woosnam, family and commercial hotel, a very comfortable house, and deservedly recommended; Royal Hotel, near the railway station.
+  desc: Ship, Chas. Woosnam, family and commercial hotel, a very comfortable house, and deservedly recommended; Royal Hotel, near the railway station.
 ----
 text: A telegraph station.
 

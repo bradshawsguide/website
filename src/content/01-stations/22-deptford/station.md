@@ -12,11 +12,11 @@ route:
 ----
 info:
 - term: Hotels
-  description: Fountain; White Hart
+  desc: Fountain; White Hart
 - term: Omnibuses
-  description: to London, New Cross, and Greenwich, every half hour, daily.
+  desc: to London, New Cross, and Greenwich, every half hour, daily.
 - term: Post Horses, Flys, &c.
-  description: at the station and hotels.
+  desc: at the station and hotels.
 ----
 text: A telegraph station.
 

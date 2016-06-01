@@ -21,19 +21,19 @@ Population: 9,269.
 ----
 info:
 - term: Hotels
-  description: Barnes' Royal Pier; Sivier's Hotel.
+  desc: Barnes' Royal Pier; Sivier's Hotel.
 - term: Coaches
-  description: to the Eastern Route, daily.
+  desc: to the Eastern Route, daily.
 - term: Steamers
-  description: to and from Cowes, Portsmouth, and Southampton several times daily, from 7 a.m. to 6 p.m.
+  desc: to and from Cowes, Portsmouth, and Southampton several times daily, from 7 a.m. to 6 p.m.
 - term: Excursion Steamers
-  description: round the Island in the summer, on Mondays and Thursdays, at 12 noon, fare, 3s.
+  desc: round the Island in the summer, on Mondays and Thursdays, at 12 noon, fare, 3s.
 - term: Market Days
-  description: Tuesday and Friday.
+  desc: Tuesday and Friday.
 - term: Fair
-  description: July 5th.
+  desc: July 5th.
 - term: Regatta
-  description: in August.
+  desc: in August.
 ----
 text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by steam) from Portsmouth, across Spithead. Long timber pier of 2,000 ft. (or two-fifths of a mile), commanding a fine prospect and a healthy blow; for which the charge is 2d. per head, and 1d. per package! New Victoria Yacht Club House, built 1847. Chantrey's bust of Mr. Sanderson, in the Market Place. Holy Trinity Church, modern Gothic, with a spire 146ft high, Baths, hotels, lodgings (with gardens), are numerous, as are the walks and points of view around.
 

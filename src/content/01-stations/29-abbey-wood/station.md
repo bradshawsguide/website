@@ -12,7 +12,7 @@ route:
 ----
 info:
 - term: Omnibuses
-  description: to and from Bexley Heath.
+  desc: to and from Bexley Heath.
 ----
 text: Distance from station, 1 mile.
 

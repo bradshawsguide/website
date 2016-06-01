@@ -12,10 +12,10 @@ route:
 ----
 info:
 - term: Population
-  description: 2,209.
+  desc: 2,209.
 - term: Market Day
-  description: Thursday.
+  desc: Thursday.
 - term: Fair
-  description: May 23rd.
+  desc: May 23rd.
 ----
 text: Telegraph station at Tilbury, 2½ miles.

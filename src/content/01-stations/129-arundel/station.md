@@ -14,13 +14,13 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Norfolk.
+  desc: Norfolk.
 - term: Omnibuses
-  description: to and from Storrington, thrice weekly.
+  desc: to and from Storrington, thrice weekly.
 - term: Market Days
-  description: Monday and Saturday.
+  desc: Monday and Saturday.
 - term: Fairs
-  description: May 14th, August 21st, September 25th, and December 17th.
+  desc: May 14th, August 21st, September 25th, and December 17th.
 ----
 text: Arundel is situated on the declivity of a steep hill, which commands a fine prospect. At the foot of this eminence runs the river Arun, over which is built a handsome stone bridge. From the Worthing Road the appearance of the town, with its stately castle, extensive park, and winding river, is singularly beautiful. On the north-east part of the town stands the
 

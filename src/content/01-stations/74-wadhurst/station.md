@@ -16,6 +16,6 @@ A telegraph station.
 ----
 info:
 - term: Market Day
-  description: Saturday.
+  desc: Saturday.
 - term: Fairs
-  description: April 29th and November 1st.
+  desc: April 29th and November 1st.

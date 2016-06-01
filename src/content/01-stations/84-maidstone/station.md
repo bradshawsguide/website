@@ -17,15 +17,15 @@ Population: 23,058.
 ----
 info:
 - term: Hotels
-  description: The Mitre; Royal Star; Bell.
+  desc: The Mitre; Royal Star; Bell.
 - term: Omnibuses
-  description: to and from station.
+  desc: to and from station.
 - term: Post Horses, Flys, &c
-  description: at the hotels.
+  desc: at the hotels.
 - term: Market Days
-  description: Thursdays and Saturdays.
+  desc: Thursdays and Saturdays.
 - term: Fairs
-  description: 2nd Tuesday in every month (cattle), February 13th, May 12th, June 20th, October 17th (Hops).
+  desc: 2nd Tuesday in every month (cattle), February 13th, May 12th, June 20th, October 17th (Hops).
 ----
 text: Maidstone is a parliamentary borough, and the capital of Kent, on the Medway, in a tract of land of great fertility, among orchards, hop grounds, and woodlands. The distance from London has been recently reduced 13 miles by the opening of the [North Kent line](/routes/charing-cross-and-london-bridge-to-woolwich-gravesend-strood-and-rochester) from Strood. It is not only a shorter route, but commands a splendid view of the valley of the Medway and the adjacent hills.
 

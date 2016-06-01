@@ -18,13 +18,13 @@ notes: A telegraph station.
 Population: 94,799.
 ----
 - term: Hotels
-  description: The Fountain; the York; Pier.
+  desc: The Fountain; the York; Pier.
 - term: Omnibuses
-  description: to and from the station.
+  desc: to and from the station.
 - term: Steam Bridge
-  description: to Gosport every half hour.
+  desc: to Gosport every half hour.
 - term: Market Days
-  description: Thursday and Saturday.
+  desc: Thursday and Saturday.
 ----
 text: Portsmouth, the first naval port in the British Islands, and a parliamentary borough &c., 75 miles, from London by the South Western Line or 95 by way of the Brighton and South Coast Line.
 

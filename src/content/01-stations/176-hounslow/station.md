@@ -18,10 +18,10 @@ Population: 5,760.
 ----
 info:
 - term: Hotel
-  description: George.
+  desc: George.
 - term: Omnibuses
-  description: to and from Harlington and London, daily.
+  desc: to and from Harlington and London, daily.
 - term: Fairs
-  description: Trinity Monday and Monday after Michaelmas Day.
+  desc: Trinity Monday and Monday after Michaelmas Day.
 ----
 text: The Powder Mills and the Cavalry Barracks are about a mile distant. A short distance beyond is *Whitton Park*, which we skirt, and soon after join the Windsor line. We will, however, now retrace our steps to Barnes.

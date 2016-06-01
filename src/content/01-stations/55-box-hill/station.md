@@ -12,7 +12,7 @@ route:
 ----
 info:
 - term: Hotels
-  description: Running Horse, Fox and Hounds.
+  desc: Running Horse, Fox and Hounds.
 ----
 text: A telegraph station.
 

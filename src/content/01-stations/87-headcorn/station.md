@@ -16,13 +16,13 @@ A telegraph station.
 ----
 info:
 - term: Hotels
-  description: The George, King's Anns.
+  desc: The George, King's Anns.
 - term: Market Day
-  description: Wednesday.
+  desc: Wednesday.
 - term: Fair
-  description: June 12th.
+  desc: June 12th.
 - term: Money Order Office
-  description: at Staplehurst.
+  desc: at Staplehurst.
 ----
 text: This village possesses no feature of particular or general interest, beyond the splendid old oak tree in the churchyard. The churches of Chart Sutton, Sutton Valence, and Sutton Castle, are worth visiting.
 

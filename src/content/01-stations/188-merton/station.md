@@ -16,6 +16,6 @@ Telegraph station at Wimbledon, ¾ mile.
 ----
 info:
 - term: Hotel
-  description: White Hart.
+  desc: White Hart.
 ----
 text: The pretty village of Merton, where Lord Nelson lived, is a favourite resort of excursionists.

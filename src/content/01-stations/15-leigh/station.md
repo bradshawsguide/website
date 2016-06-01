@@ -12,11 +12,11 @@ route:
 ----
 info:
 - term: Population
-  description: 1,473.
+  desc: 1,473.
 - term: Hotel
-  description: The Bell
+  desc: The Bell
 - term: Money Order Office,
-  description: Southend, 2½ miles.
+  desc: Southend, 2½ miles.
 ----
 text: Telegraph station at Southend, 2½ miles.
 

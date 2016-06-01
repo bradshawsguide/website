@@ -15,11 +15,11 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotels
-  description: Luce's Royal; Drew's Victoria; Jeffries.
+  desc: Luce's Royal; Drew's Victoria; Jeffries.
 - term: Market Days
-  description: Tuesday and Friday.
+  desc: Tuesday and Friday.
 - term: Races
-  description: In September.
+  desc: In September.
 ----
 text: Nothing can be more striking and picturesque than the situation of this delightful watering-place. The town is built-on the western shore of one of the finest bays in the English Channel, and being separated into two parts by the river, which forms a commodious harbour, it is most conveniently situated for trade. Population, 11,383.
 

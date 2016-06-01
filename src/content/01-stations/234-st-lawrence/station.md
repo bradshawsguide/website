@@ -15,11 +15,11 @@ Telegraph station at Ventnor, 2 miles.
 ----
 info:
 - term: Hotel
-  description: St. Lawrence.
+  desc: St. Lawrence.
 - term: Coaches
-  description: to and from Hyde and Newport, daily.
+  desc: to and from Hyde and Newport, daily.
 - term: Money Order Office
-  description: at Ventnor.
+  desc: at Ventnor.
 ----
 text: There is a spring of deliriously cool water on the road side, under an alcove. The church is a pretty little rustic building, with the grave-yard planted with flowers. Since it was lengthened it is 40 feet long, and will hold 40--a small number, but quite large enough for the population of the parish.
 ----

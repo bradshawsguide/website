@@ -16,7 +16,7 @@ A telegraph station.
 ----
 info:
 - term: Hotel
-  description: King's Head.
+  desc: King's Head.
 ----
 text: Horley was once famous for its iron works. It has traces of an old castle. The church is a fine edifice, and contains some handsome monuments. From the Horley station the line begins for some time rising, and the view on every side continues, as before, uninterrupted.
 

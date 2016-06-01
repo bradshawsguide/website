@@ -15,11 +15,11 @@ Telegraph station at Yarmouth, 2 miles.
 ----
 info:
 - term: Hotels
-  description: Lambert's Hotel; Royal Albion.
+  desc: Lambert's Hotel; Royal Albion.
 - term: Coaches
-  description: to and from Ryde, Cowes, and Newport, daily.
+  desc: to and from Ryde, Cowes, and Newport, daily.
 - term: Money Order Office
-  description: at Yarmouth.
+  desc: at Yarmouth.
 ----
 text: Freshwater Gate, where the baths and lodging houses are stationed, is half a mile from the village, on the south side of the Downs in a gap of the cliffs, which rise up 500 and 600 feet above the sea, white and dazzling, producing a grand effect. They are streaked with parallel lines of flint. Lobsters, &c., are good. Here is the residence of Alfred Tennyson, the poet laureate.
 

@@ -16,11 +16,11 @@ Population: 11,865.
 ----
 info:
 - term: Hotels
-  description: Royal; Royal Albion; Royal Oak.
+  desc: Royal; Royal Albion; Royal Oak.
 - term: Market Days
-  description: Wednesday and Saturday.
+  desc: Wednesday and Saturday.
 - term: Fair
-  description: August 10th, at St Lawrence.
+  desc: August 10th, at St Lawrence.
 ----
 text: Ramsgate was little better than a mere fishing Tillage before the close of the last century, and all the noble streets and terraces stretching seaward are the growth of the present. Its prosperity has been literally built on a sandy foundation, more permanent than the adage would teach us to believe, for the sands, which are really unequalled for extent, were long the prominent attraction of visitors. In 1759 was commenced the pier, built chiefly of stone from the Purbeck and Portland quarries, involving an expenditure of nearly £600,000. This stupendous structure affords an excellent marine promenade of nearly three thousand feet in length. The form is that of a polygon, with the two extremities about two hundred feet apart. The harbour comprises an area of nearly fifty acres, and can receive vessels of five hundred tons at any state of the tide. The first object that arrests attention at the entrance to the eastern branch of the pier is the obelisk, fifty feet in height, which commemorates the embarkation of George IV. from here on his Hanoverian excursion in 1821. The next is a tablet, at the octagonal head, setting forth the name of the engineer and the dates of the erection. Opposite is the lighthouse, casting at night a brilliant reflection over the dark waste of waters, and forming a striking feature in the scenery of the coast. Far away, like a phosphoric gleam upon the channel, is the floating beacon called "the Gull,11 which, with two smaller ones near Deal, becomes visible after dusk from the pier. Eight seamen and a captain, who has only occasionally a month's leave of absence, are entrusted with the management of the beacon, and in this desolate and dangerous region they are doomed to battle with the elements at all seasons, cheered alone by the reflection that through their vigilance thousands are perhaps annually preserved from the perils of shipwreck. The Goodwin sands, traditionally said to have been the estate of earl Godwin, father of King Harold, form the roadstead called the Downs, and extend from the North Foreland to Deal, but as they are continually shifting under the influence of the winds and waves, their exact locality can never be ensured.
 

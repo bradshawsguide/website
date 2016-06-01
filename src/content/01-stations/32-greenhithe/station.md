@@ -12,7 +12,7 @@ route:
 ----
 info:
 - term: Money Order Office
-  description: at Gravesend.
+  desc: at Gravesend.
 ----
 text: Distance from station, 1 mile.
 

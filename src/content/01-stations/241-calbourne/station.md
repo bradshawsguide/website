@@ -15,11 +15,11 @@ Telegraph station at Newport, 5 miles.
 ----
 info:
 - term: Hotel
-  description: Albion.
+  desc: Albion.
 - term: Coaches
-  description: to and from Newport, Ryde, and Cowes, daily.
+  desc: to and from Newport, Ryde, and Cowes, daily.
 - term: Money Order Office
-  description: at Newport.
+  desc: at Newport.
 ----
 text: Calbourne has an old church and is near to Westover Park. To the right, about two miles, is Shalfleet church, which contains a Norman porch, and the escutcheon of William de Montacute, to whom Wight was granted by Richard II.
 

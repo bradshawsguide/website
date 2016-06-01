@@ -17,15 +17,15 @@ Population: 5,482.
 ----
 info:
 - term: Hotel
-  description: Fountain.
+  desc: Fountain.
 - term: Coaches
-  description: to and from Ryde and Newport, daily.
+  desc: to and from Ryde and Newport, daily.
 - term: Vessels
-  description: The rendezvous of ships of all nations for orders.
+  desc: The rendezvous of ships of all nations for orders.
 - term: Steam Vessels
-  description: to Portsmouth, Ryde, and Southampton, six times a day; to Yarmouth, once daily.
+  desc: to Portsmouth, Ryde, and Southampton, six times a day; to Yarmouth, once daily.
 - term: Regatta
-  description: in August.
+  desc: in August.
 ----
 text: Cowes, five miles from Newport. An immense quantity of shipping call off here annually, from all parts of the globe, for orders from their owners or consignees, as to the destination of their cargoes; and in the winter months fleets of merchantmen of all nations rendezvous here weatherbound.
 

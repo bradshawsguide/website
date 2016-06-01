@@ -16,11 +16,11 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Bear.
+  desc: Bear.
 - term: Market Day
-  description: Saturday.
+  desc: Saturday.
 - term: Fairs
-  description: June 22nd and October 17th.
+  desc: June 22nd and October 17th.
 ----
 text: In this vicinity is *Belmont Castle*, *Woodlands*, *Stanstead House*, formerly the seat of the Earl of Halifax, and *Leigh Park*, Sir G, Staunton; *Hayling Island* is adjacent likewise, of some importance as a watering place. The island itself is a flat pasture tract, posessing no peculiar feature or beauty.
 

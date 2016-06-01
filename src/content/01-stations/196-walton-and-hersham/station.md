@@ -16,9 +16,9 @@ Distance from station, 1 mile to either place.
 ----
 info:
 - term: Hotels
-  description: (Walton) Duke's Head; Castle Inn.
+  desc: (Walton) Duke's Head; Castle Inn.
 - term: Fairs
-  description: Wednesday and Thursday in Easter Week.
+  desc: Wednesday and Thursday in Easter Week.
 ----
 text: The Walton station is a short distance from Hersham, one mile to the left, and the same distance from Walton to the right. In the old church of St. Mary's, which may be seen rising amongst the trees, will be found various interesting monuments of considerable antiquity. A "scold bridle" is shown.
 

@@ -6,7 +6,7 @@ region: Kent
 ----
 info:
 - term: Population
-  description: 12,015.
+  desc: 12,015.
 ----
 company:
 - london-chatham-and-dover

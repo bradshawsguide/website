@@ -16,9 +16,9 @@ A telegraph station.
 ----
 info:
 - term: Fairs
-  description: Whit Mondays (Toys and Pedlery), Feast of St. Nicholas (cattle).
+  desc: Whit Mondays (Toys and Pedlery), Feast of St. Nicholas (cattle).
 - term: Money Order Office
-  description: at Ashford.
+  desc: at Ashford.
 ----
 text: In the neighbourhood of Pluckley there are several villages and country seats. *Bethersden* the seat of the Lovelaces, a family now extinct, two and a half miles. Great Chart, once a large market town, and many others.
 

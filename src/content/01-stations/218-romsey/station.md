@@ -14,11 +14,11 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotel
-  description: White Horse.
+  desc: White Horse.
 - term: Market Day
-  description: Thursday.
+  desc: Thursday.
 - term: Fates
-  description: Easter Monday, August 16th, November 18th, and every Tuesday fortnight, from July 31st to December 25th.
+  desc: Easter Monday, August 16th, November 18th, and every Tuesday fortnight, from July 31st to December 25th.
 ----
 text: Like many other places of great antiquity, Romsey owes its foundation to a monastic establishment. Edward here founded a Benedictine abbey on a very extensive scale and appointed his daughter abbess.
 

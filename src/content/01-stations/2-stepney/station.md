@@ -14,9 +14,9 @@ route:
 ----
 info:
 - term: Omnibuses
-  description: to and from all parts of London every quarter of an hour.
+  desc: to and from all parts of London every quarter of an hour.
 - term: Money Order Office
-  description: No. 10, High Street. Dean Colet lived here.
+  desc: No. 10, High Street. Dean Colet lived here.
 ----
 text: A telegraph station.
 

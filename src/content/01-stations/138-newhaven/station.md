@@ -14,11 +14,11 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Bridge Inn.
+  desc: Bridge Inn.
 - term: Steam Packets
-  description: to Dieppe daily
+  desc: to Dieppe daily
 - term: Fair
-  description: October 16th.
+  desc: October 16th.
 ----
 text: Newhaven, formerly a very obscure port or fishing town at the mouth of the river Ouse, is now a rising place, and become of some importance, as the port of communication between London, Dieppe, and Paris. Louis Philippe landed here in 1848, after his flight from France.
 

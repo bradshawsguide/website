@@ -12,15 +12,15 @@ route:
 ----
 info:
 - term: Population
-  description: 9,975.
+  desc: 9,975.
 - term: Hotels
-  description: White Hart, and Swan.
+  desc: White Hart, and Swan.
 - term: Post Horses, Flys, &c.
-  description: at the station and hotels
+  desc: at the station and hotels
 - term: Market Days
-  description: Tuesdays.
+  desc: Tuesdays.
 - term: Fairs
-  description: Whit-Monday and December 9th.
+  desc: Whit-Monday and December 9th.
 - term: Money Order Office
 ----
 text: A telegraph station.

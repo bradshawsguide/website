@@ -16,4 +16,4 @@ Distance from station, ½ mile.
 ----
 info:
 - term: Money Order Office
-  description: at Chichester.
+  desc: at Chichester.

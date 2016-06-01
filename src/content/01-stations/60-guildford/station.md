@@ -17,17 +17,17 @@ route:
 ----
 info:
 - term: Population
-  description: 8,020.
+  desc: 8,020.
 - term: Hotels
-  description: White Lion and White Hart.
+  desc: White Lion and White Hart.
 - term: Omnibuses
-  description: to and from the station.
+  desc: to and from the station.
 - term: Post Horses, Flys, &c
-  description: at the station and hotels.
+  desc: at the station and hotels.
 - term: Market Days
-  description: Saturday,Tuesday, & Wednesday.
+  desc: Saturday,Tuesday, & Wednesday.
 - term: Fairs
-  description: May 4th and November 22nd.
+  desc: May 4th and November 22nd.
 ----
 text: A telegraph station.
 

@@ -18,15 +18,15 @@ Population, 77,693.
 ----
 info:
 - term: Hotels
-  description: The Grand Hotel; The Bedford; Royal York; Bristol; Old Ship; Pier; the Clarence, &c.
+  desc: The Grand Hotel; The Bedford; Royal York; Bristol; Old Ship; Pier; the Clarence, &c.
 - term: Omnibuses
-  description: to and from the station and Hove every train.
+  desc: to and from the station and Hove every train.
 - term: Market Days
-  description: Tuesday (corn), and Saturday.
+  desc: Tuesday (corn), and Saturday.
 - term: Fairs
-  description: Holy Thursday, and September 4th.
+  desc: Holy Thursday, and September 4th.
 - term: Bankers
-  description: Hall, Lloyd, Bevan, and West; London and County Bank; J. G. Cockburn.
+  desc: Hall, Lloyd, Bevan, and West; London and County Bank; J. G. Cockburn.
 ----
 text: The <span class="u-smcp">Brighton Terminus</span> is an elegant structure, fitted up in the most convenient manner. There is a portico in the Roman architectural style, which projects on pillars into the street, and is surmounted by an illuminated clock.
 

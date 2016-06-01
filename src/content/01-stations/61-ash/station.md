@@ -14,9 +14,9 @@ route:
 ----
 info:
 - term: Omnibuses
-  description: to and from the station.
+  desc: to and from the station.
 - term: Money Order Office
-  description: at Farnham.
+  desc: at Farnham.
 ----
 text: Distance from the station, 1 mile.
 

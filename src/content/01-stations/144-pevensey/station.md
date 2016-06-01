@@ -14,11 +14,11 @@ notes: Telegraph station at Polegate, 3½ miles.
 ----
 info:
 - term: Hotel
-  description: Royal Oak.
+  desc: Royal Oak.
 - term: Market Day
-  description: Thursday (Southdown Sheep).
+  desc: Thursday (Southdown Sheep).
 - term: Fairs
-  description: July 5th and Sept. 15th.
+  desc: July 5th and Sept. 15th.
 ----
 text: Though formerly a place of so much importance as to give name to the hundred, it has now dwindled to an inconsiderable village; and the sea, which formerly laved the castle walls, has now receded to a distance of two miles. A number of martello towers, erected at the time of the last war--we hope the phrase will be just as applicable for a hundred generations yet to come--remain as memorials of the means resorted to for the defence of the coast.
 

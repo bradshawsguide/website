@@ -15,11 +15,11 @@ Telegraph station at Newport, 1 mile.
 ----
 info:
 - term: Hotel
-  description: The Castle.
+  desc: The Castle.
 - term: Coaches
-  description: to and from Newport, Cowes, and Ryde, daily.
+  desc: to and from Newport, Cowes, and Ryde, daily.
 - term: Money Order Office
-  description: at Newport.
+  desc: at Newport.
 ----
 text: Carisbrooke, the former capital, where the governor used to reside. Old Church, close to some slight traces of a priory, founded after the Conquest, by William Fitz-Osborne, a Norman Knight, who built the *Castle*. This stands on a hill beyond the village and, including the wards, occupies a site of two acres within the walls. The fine gateway is machicolated, *i.e.*, provided with slits for shooting arrows, &c., down on any one below. The keep commands a good view. There are some remains of the outer walls and towers; and they show (but this is doubtful) the window through which the unfortunate Charles I. tried to make his escape when imprisoned here 1648, in Colonel Hamond's charge.
 

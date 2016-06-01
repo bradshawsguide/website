@@ -15,11 +15,11 @@ Telegraph station at Ventnor, 2 miles.
 ----
 info:
 - term: Hotel
-  description: Bonchurch.
+  desc: Bonchurch.
 - term: Coaches
-  description: to and from Ryde and Newport, daily.
+  desc: to and from Ryde and Newport, daily.
 - term: Money Order Office
-  description: at Shanklin.
+  desc: at Shanklin.
 ----
 text: Bonchurch, so called because the church is dedicated to St. Boniface. An exemplary young clergyman, the author of "Shadows of the Cross," and John Stirling, whose Life, written by Carlyle, has excited considerable interest, are buried in it. The road is overshadowed with trees, and passes a lake and the Pulpit Rock. There is a charming path from Shanklin to Bonchurch, through the Sand-slip. Boniface Down, near Ventnor, rises steeply up 700 or 800 ft above the sea.
 ----

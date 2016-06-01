@@ -12,13 +12,13 @@ route:
 ----
 info:
 - term: Population
-  description: 5,314.
+  desc: 5,314.
 - term: Hotel
-  description: Bull
+  desc: Bull
 - term: Omnibuses
-  description: to and from the trains; also to Farningham, via Button, four times daily.
+  desc: to and from the trains; also to Farningham, via Button, four times daily.
 - term: Fair
-  description: August 2nd.
+  desc: August 2nd.
 ----
 text: A telegraph station.
 

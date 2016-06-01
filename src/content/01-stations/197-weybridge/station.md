@@ -17,7 +17,7 @@ A telegraph station.
 ----
 info:
 - term: Hotels
-  description: Hand and Spear, Ship.
+  desc: Hand and Spear, Ship.
 ----
 text: Here is a commodious hotel adjoining the station, with some extensive grounds. The scenery in this neighbourhood is beautiful, and St George's Hill commands a delightful view of Windsor, Richmond, and Chertsey.
 

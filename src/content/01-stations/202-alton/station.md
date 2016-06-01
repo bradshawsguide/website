@@ -16,8 +16,8 @@ Population: 3,286.
 ----
 info:
 - term: Hotel
-  description: Swan.
+  desc: Swan.
 - term: Market Day
-  description: Saturday.
+  desc: Saturday.
 - term: Fairs
-  description: Last Saturday In April, July 5th, and September 29th.
+  desc: Last Saturday In April, July 5th, and September 29th.

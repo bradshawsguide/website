@@ -12,7 +12,7 @@ route:
 ----
 info:
 - term: Hotel
-  description: Green Man.
+  desc: Green Man.
 ----
 text: A telegraph station. Office open from 7½ a.m. to 10 p.m.; Sundays, 8 to 10 a.m., 1 to 3, and 6 to 9 p.m.
 

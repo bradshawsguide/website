@@ -16,8 +16,8 @@ A telegraph station.
 ----
 info:
 - term: Market Day
-  description: Saturday.
+  desc: Saturday.
 - term: Fairs
-  description: January 25th, June 22nd, Saturday in Easter Week, October 25th.
+  desc: January 25th, June 22nd, Saturday in Easter Week, October 25th.
 - term: Money Order Office
-  description: at Alton.
+  desc: at Alton.

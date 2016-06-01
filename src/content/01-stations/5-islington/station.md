@@ -12,11 +12,11 @@ route:
 ----
 info:
 - term: Hotel
-  description: Angel.
+  desc: Angel.
 - term: Omnibusses
-  description: to and from London (both city and west end), every 5 minutes.
+  desc: to and from London (both city and west end), every 5 minutes.
 - term: Money Order Office
-  description: No. 86, Upper Street.
+  desc: No. 86, Upper Street.
 ----
 text: Distance from station, ½ mile.
 

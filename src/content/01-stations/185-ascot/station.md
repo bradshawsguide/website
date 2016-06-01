@@ -14,9 +14,9 @@ notes: Telegraph station at Sunningdale, 2 miles.
 ----
 info:
 - term: Hotel
-  description: Royal Ascot (Portridge); Swan.
+  desc: Royal Ascot (Portridge); Swan.
 - term: Races
-  description: in June.
+  desc: in June.
 ----
 text: This place is celebrated for it race course on the Heath (nearly 2 miles in circuit), with a Royal Grand Stand, two stables, large coach house, commodious weighing houses, &c., all constructed by the Duke of Cumberland. The sport at these races is first-rate. They are generally attended by the Royal Family in state, and the elite of the court, nobility, and fashion of England.
 

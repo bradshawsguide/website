@@ -15,9 +15,9 @@ route:
 ----
 info:
 - term: Hotel
-  description: Old George.
+  desc: Old George.
 - term: Steam Boats
-  description: to Sheerness several times daily.
+  desc: to Sheerness several times daily.
 ----
 text: A telegraph station.
 

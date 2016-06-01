@@ -16,11 +16,11 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotels
-  description: Two Brewers; Bear and Key.
+  desc: Two Brewers; Bear and Key.
 - term: Omnibuses
-  description: to and from the station.
+  desc: to and from the station.
 - term: Fair
-  description: Thursday before Whit-Sunday.
+  desc: Thursday before Whit-Sunday.
 ----
 text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
 ----

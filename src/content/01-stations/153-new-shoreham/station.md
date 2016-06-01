@@ -15,11 +15,11 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotels
-  description: Surrey Arms, Buckingham Arms, and Swiss Cottage.
+  desc: Surrey Arms, Buckingham Arms, and Swiss Cottage.
 - term: Market Day
-  description: Every alternate Monday (corn).
+  desc: Every alternate Monday (corn).
 - term: Fair
-  description: July 25th.
+  desc: July 25th.
 ----
 text: Old <span class="u-smcp">Shoreham</span>, on the right of the line, has a fine old Saxon church, which has been recently restored, and is much admired as a beautiful specimen of Saxon architecture.
 

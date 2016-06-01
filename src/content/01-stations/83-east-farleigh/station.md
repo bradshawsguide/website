@@ -16,6 +16,6 @@ A telegraph station.
 ----
 info:
 - term: Money Order Office
-  description: at Maidstone.
+  desc: at Maidstone.
 ----
 text: Two miles beyond this the train enters the present terminus of this line at Maidstone. It is a very neat and commodious structure, within a few minutes' walk of the High-street.

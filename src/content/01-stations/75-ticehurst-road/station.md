@@ -16,8 +16,8 @@ notes: A telegraph station.
 ----
 info:
 - term: Market Day
-  description: Saturday.
+  desc: Saturday.
 - term: Fairs
-  description: May 4, and October 7.
+  desc: May 4, and October 7.
 ----
 text: Ticehurst is rather a large town, situated on high ground, about three miles and a half to the east of the station, in the midst of a splendid agricultural country.

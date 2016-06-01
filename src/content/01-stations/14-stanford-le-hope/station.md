@@ -12,9 +12,9 @@ route:
 ----
 info:
 - term: Population
-  description: 504.
+  desc: 504.
 - term: Money Order Office,
-  description: Horndon-on-the-Hill, 1 mile.
+  desc: Horndon-on-the-Hill, 1 mile.
 ----
 text: Telegraph station at Tilbury, 5½ miles.
 

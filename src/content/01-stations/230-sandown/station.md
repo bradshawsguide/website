@@ -13,11 +13,11 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotels
-  description: Star and Garter (Hale's).
+  desc: Star and Garter (Hale's).
 - term: Coaches
-  description: to and from Ryde and Newport, daily.
+  desc: to and from Ryde and Newport, daily.
 - term: Money Order Office
-  description: at Shanklin.
+  desc: at Shanklin.
 ----
 text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
 ----

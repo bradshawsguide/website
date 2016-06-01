@@ -16,7 +16,7 @@ notes: (Junction).
 ----
 info:
 - term: Fairs
-  description: Horses, cattle, and pigs, May 12th and October 13th.
+  desc: Horses, cattle, and pigs, May 12th and October 13th.
 ----
 text: A telegraph station.
 

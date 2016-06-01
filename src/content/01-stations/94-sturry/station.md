@@ -14,10 +14,10 @@ notes: A telegraph station,
 ----
 info:
 - term: Hotel
-  description: The Swan.
+  desc: The Swan.
 - term: Omnibuses
-  description: to and from the station.
+  desc: to and from the station.
 - term: Fair
-  description: Whit-Monday.
+  desc: Whit-Monday.
 - term: Money Order Office
-  description: at Canterbury
+  desc: at Canterbury

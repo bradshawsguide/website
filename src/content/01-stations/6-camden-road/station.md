@@ -15,11 +15,11 @@ route:
 ----
 info:
 - term: Hotel
-  description: Brecknock Arms.
+  desc: Brecknock Arms.
 - term: Omnibuses
-  description: every five minutes to all parts of the city.
+  desc: every five minutes to all parts of the city.
 - term: Money Order Office
-  description: at 39, High Street.
+  desc: at 39, High Street.
 ----
 text: Telegraph station at Camden Town.
 

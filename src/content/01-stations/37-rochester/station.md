@@ -14,13 +14,13 @@ route:
 ----
 info:
 - term: Hotels
-  description: Victoria and Bull Inns; Crown.
+  desc: Victoria and Bull Inns; Crown.
 - term: Steam Boats
-  description: to and from Sheerness, twice daily.
+  desc: to and from Sheerness, twice daily.
 - term: Market Days
-  description: Friday and Saturday; 4th Tuesday in each month for cattle; every Tuesday for corn.
+  desc: Friday and Saturday; 4th Tuesday in each month for cattle; every Tuesday for corn.
 - term: Fairs
-  description: May 15th, 19th; September, each three days. August 26th, 27th, and 28th.
+  desc: May 15th, 19th; September, each three days. August 26th, 27th, and 28th.
 ----
 text: Telegraph station at Strood, ¼ mile.
 

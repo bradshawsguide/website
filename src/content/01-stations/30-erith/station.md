@@ -12,11 +12,11 @@ route:
 ----
 info:
 - term: Omnibuses
-  description: to and from the trains; also to North Cray, Bexley, and Crayford.
+  desc: to and from the trains; also to North Cray, Bexley, and Crayford.
 - term: Fair
-  description: Whit Monday.
+  desc: Whit Monday.
 - term: Money Order Office
-  description: at Dartford.
+  desc: at Dartford.
 ----
 text: A telegraph station.
 

@@ -14,11 +14,11 @@ notes: A telegraph station.
 ----
 info:
 - term: Omnibuses
-  description: to and from the station.
+  desc: to and from the station.
 - term: Fair
-  description: November 8th.
+  desc: November 8th.
 - term: Money Order Office
-  description: at Canterbury.
+  desc: at Canterbury.
 ----
 text: Chilham Home, or Manor is a noble building, situated in beautiful grounds, which command extensive views over the entire Vale of Ashford and the Stour.
 

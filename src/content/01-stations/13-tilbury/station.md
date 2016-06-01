@@ -12,9 +12,9 @@ route:
 ----
 info:
 - term: Hotel
-  description: World's End.
+  desc: World's End.
 - term: Steam Boats
-  description: to and from Gravesend, Southend, Sheerness, Margate, and Ramsgate, daily.
+  desc: to and from Gravesend, Southend, Sheerness, Margate, and Ramsgate, daily.
 ----
 text: A telegraph station.
 

@@ -14,7 +14,7 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotels
-  description: Norfolk, George, and New.
+  desc: Norfolk, George, and New.
 ----
 text: A short distance from a small hamlet on the coast, which has some admirers as a retired watering place.
 

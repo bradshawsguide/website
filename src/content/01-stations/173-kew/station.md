@@ -20,9 +20,9 @@ Population: 1,102.
 ----
 info:
 - term: Hotels
-  description: Coach and Horses; Rose and Crown; Star and Garter.
+  desc: Coach and Horses; Rose and Crown; Star and Garter.
 - term: Omnibuses
-  description: to and from the station.
+  desc: to and from the station.
 ----
 text: Kew, a picturesque village on the banks of the Thames, about seven miles from London, and one mile from Richmond. The palace contains a few pictures, but the gardens are the principal objects of attraction. They are not very large, nor is their situation advantageous, as it is low and commands no prospects; but they contain the finest collection of plants in this country, and are decorated with various ornamental buildings.
 

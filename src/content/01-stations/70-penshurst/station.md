@@ -16,13 +16,13 @@ A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Leicester Arms.
+  desc: Leicester Arms.
 - term: Post Horses, Flys, &c
-  description: at the station and hotel.
+  desc: at the station and hotel.
 - term: Fair
-  description: Monday after June 24th.
+  desc: Monday after June 24th.
 - term: Money Order Office
-  description: at Tunbridge.
+  desc: at Tunbridge.
 ----
 text: This is a small but exceedingly pretty village, celebrated for its fine old castle, the property of the Sidney family. This noble structure stands in a magnificent park, and covers a large area with its court, halls, and quadrangles. It also contains a valuable collection of paintings, which visitors, by the kindness of the noble owner, are permitted to view.
 

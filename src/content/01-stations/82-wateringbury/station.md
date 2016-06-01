@@ -16,9 +16,9 @@ A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Duke's Head.
+  desc: Duke's Head.
 - term: Money Order Office
-  description: at Maidstone.
+  desc: at Maidstone.
 ----
 text: This is a large and handsome village, retaining its rural character, combined with an unusual degree of charming neatness and taste. The cottage gardens are sweetly pretty. The church is rather handsome, and contains several tombs of the Style family. Wateringbury Place in the vicinity is a fine mansion, situated in very beautiful grounds.
 

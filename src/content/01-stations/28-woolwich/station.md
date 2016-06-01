@@ -12,11 +12,11 @@ route:
 ----
 info:
 - term: Hotel
-  description: Royal Pavilion.
+  desc: Royal Pavilion.
 - term: Steam Boats
-  description: from the pier to London every 1/4 of an hour, calling at the different piers on the river.
+  desc: from the pier to London every 1/4 of an hour, calling at the different piers on the river.
 - term: Market Day
-  description: Friday.
+  desc: Friday.
 ----
 text: A telegraph station. Office open from 7½ a.m. to 10½ p.m.; Sundays, 8 to 10 a.m., 1 to 3 and 6 to 8 p.m.
 

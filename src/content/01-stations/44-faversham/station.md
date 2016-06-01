@@ -13,11 +13,11 @@ route:
 ----
 info:
 - term: Population
-  description: 5,858.
+  desc: 5,858.
 - term: Market Days
-  description: Wednesday and Friday.
+  desc: Wednesday and Friday.
 - term: Fairs
-  description: October 11, 12, 13.
+  desc: October 11, 12, 13.
 ----
 text: A telegraph station.
 

@@ -14,9 +14,9 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotels
-  description: South Eastern, King's Head.
+  desc: South Eastern, King's Head.
 - term: Fairs
-  description: Monday after July 20th, Wednesday after September 20th.
+  desc: Monday after July 20th, Wednesday after September 20th.
 ----
 text: The village of the same name is near the station; its fine old church and quaint antique houses are much admired.
 

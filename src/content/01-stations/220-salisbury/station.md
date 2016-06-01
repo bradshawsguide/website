@@ -15,13 +15,13 @@ notes: Distance from station, ¼ mile. A telegraph station,
 ----
 info:
 - term: Hotels
-  description: White Hart; Red Lion; Three Swans.
+  desc: White Hart; Red Lion; Three Swans.
 - term: Omnibuses and Coaches
-  description: to Stapleford, Deptford and all the adjacent towns and villages.
+  desc: to Stapleford, Deptford and all the adjacent towns and villages.
 - term: Market Days
-  description: Tuesday and Saturday; second Tuesday in every month for cheese.
+  desc: Tuesday and Saturday; second Tuesday in every month for cheese.
 - term: Fairs
-  description: Tuesdays after January 6th, and 25th March, second Tuesday in September, second Tuesday after October 10th; for sheep, July 15th and October 30th.
+  desc: Tuesdays after January 6th, and 25th March, second Tuesday in September, second Tuesday after October 10th; for sheep, July 15th and October 30th.
 ----
 text: Salisbury is a parliamentary borough (two members) and a bishop's see, in Wiltshire, at the terminus of a branch of the South Western line, 96 miles from London, on the rich green pastures of the Avon. Population 12,278. It is not an old town, compared with other sees, the original town called *Old Sarum*, being on the hill to the north of the present town. At this place a Cathedral was planted after the Conquest (for which that of Sherborne was deserted), but in 1220 another migration took place, and the present magnificent edifice was begun by Bishop Poore. It was for the most part finished in the course of 32 years, so that it has the great advantage of being not only uniform in design but offers a complete specimen of the style of that age, namely, early English. The shape is a double cross, from end to end 442 feet long; through the greater transept the width is 203 feet, and 147 through the less. The west front (which with the spire is of later date than the body) is 130 feet wide and 200 high, and ornamented with niches, turrets, tracery, &c., and a large painted window; the lower eastern window is a very handsome new one, placed as a memorial to the late dean; the upper eastern window is a very splendid one--subject, the "Brazen Serpent," by Mortimer--the gift of a former Earl of Radnor. Above all rises a most beautiful *steeple*, consisting of a slender crocketted spire, 190 feet long, resting on a tower, which makes its total height from the ground above 400 feet. It is reported to be 22 inches out of the perpendicular; but whether or not it is a most imposing object from all points. There are said to be as many windows in the cathedral as days in the year.
 

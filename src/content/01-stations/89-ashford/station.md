@@ -18,11 +18,11 @@ Population: 5,522.
 ----
 info:
 - term: Hotels
-  description: The Victoria, near the railway station; Saracen's Head; Royal Oak.
+  desc: The Victoria, near the railway station; Saracen's Head; Royal Oak.
 - term: Market Days
-  description: Every Tuesday (corn), 1st, 3rd and 5th Tuesday in every month (cattle)
+  desc: Every Tuesday (corn), 1st, 3rd and 5th Tuesday in every month (cattle)
 - term: Fairs
-  description: May 17th, September 12th, and October 24th for horses, cattle, and pedlery.
+  desc: May 17th, September 12th, and October 24th for horses, cattle, and pedlery.
 ----
 text: This was a quiet agricultural town in East Kent till the South Eastern Railway Company made it the chief station for their works, since which the population has greatly increased. It is on the Stour, at the junction of the branches to Canterbury, Margate, and Hastings, with the main line to Dover, from which it is 21 miles. Among the buildings erected by the Company are a carriage house 645 ft. long; a repairing shop, 395 ft. by 45; an engine room 210 ft. by 63; besides factories for wheels, boilers, &e. Such is the wear and tear a wheel undergoes that it requires to be fresh turned after every 2,000 miles of travelling A church has also been built for their workmen, by the Company. The parish church is a large and handsome edifice, in the Gothic style, containing several brass and stone monuments of the families of the neighbourhood--as the Smythes of Westenhanger, the Fogges of Repton, &c.
 

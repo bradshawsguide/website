@@ -17,7 +17,7 @@ notes: A telegraph station.
 ----
 info:
 - term: Money Order Office
-  description: at Tunbridge
+  desc: at Tunbridge
 ----
 distances:
 -

@@ -15,11 +15,11 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotels
-  description: Sun; Griffin; Southampton Hotel (Railway Station).
+  desc: Sun; Griffin; Southampton Hotel (Railway Station).
 - term: Market Day
-  description: Saturday.
+  desc: Saturday.
 - term: Fairs
-  description: Whit-Thursday, Friday, and Saturday, August 2nd and 3rd, November 13th, and seven following days.
+  desc: Whit-Thursday, Friday, and Saturday, August 2nd and 3rd, November 13th, and seven following days.
 ----
 text: Kingston<span class="u-smcp">-on-Railway</span>, situated in a charming verdant cutting, is a new place which has sprung up in the course of a few years, from its vicinity to the railway station. It has a good street, and contains some elegant houses. The neighbouring Common is the spot on which took place the last straggle of the Royalists, in favour of Charles I., then a prisoner in Carisbrooke Castle.
 

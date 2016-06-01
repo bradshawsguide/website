@@ -12,13 +12,13 @@ route:
 ----
 info:
 - term: Population
-  description: 139,436.
+  desc: 139,436.
 - term: Hotels
-  description: Trafalgar, Charles Hart; the Ship Tavern, Thos. Quartermaine.
+  desc: Trafalgar, Charles Hart; the Ship Tavern, Thos. Quartermaine.
 - term: Steamers
-  description: to and from London, calling at all the piers on the river, every five minutes, daily.
+  desc: to and from London, calling at all the piers on the river, every five minutes, daily.
 - term: Money Order Office
-  description: 12, Nelson Street.
+  desc: 12, Nelson Street.
 ----
 text: A telegraph station.
 

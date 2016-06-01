@@ -14,15 +14,15 @@ route:
 ----
 info:
 - term: Population
-  description: 12,015.
+  desc: 12,015.
 - term: Hotels
-  description: The Sun; the Mitre.
+  desc: The Sun; the Mitre.
 - term: Steam Boats
-  description: to and from Sheerness, several times daily.
+  desc: to and from Sheerness, several times daily.
 - term: Market Day
-  description: Saturday.
+  desc: Saturday.
 - term: Fairs
-  description: May 15th, Sept. 19th (each for 3 days).
+  desc: May 15th, Sept. 19th (each for 3 days).
 ----
 text: Distance from station at Strood, 2 miles.
 

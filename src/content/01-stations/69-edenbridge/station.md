@@ -14,13 +14,13 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Albion (at the station).
+  desc: Albion (at the station).
 - term: Omnibuses
-  description: at the station; also to Westerham
+  desc: at the station; also to Westerham
 - term: Fair
-  description: May 6th.
+  desc: May 6th.
 - term: Money Order Office
-  description: at East Grinstead.
+  desc: at East Grinstead.
 ----
 text: The village of Edenbridge, situated 1 mile from the station, derives its name from the little river Eden, one of the tributary streams of the Medway. There are several chalybeate springs in the neighbourhood. The church of Edenbridge is a fine ancient edifice, containing several handsome tombs; also a curious monument of the Earl of Wiltshire. A few miles distant is the village of Westerham; and a short distance south of the line is
 

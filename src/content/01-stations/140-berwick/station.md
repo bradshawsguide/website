@@ -14,9 +14,9 @@ notes: Telegraph station at Polegate, 4 miles.
 ----
 info:
 - term: Hotel
-  description: Fuller's Arms.
+  desc: Fuller's Arms.
 - term: Money Order Office
-  description: at Eastbourne.
+  desc: at Eastbourne.
 ----
 text: A little to the north of the village of the same name.
 

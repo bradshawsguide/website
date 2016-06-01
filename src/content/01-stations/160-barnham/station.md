@@ -15,9 +15,9 @@ notes: A telegraph station. Distance from station, ¾ mile.
 ----
 info:
 - term: Hotels
-  description: Claremont, Norfolk.
+  desc: Claremont, Norfolk.
 - term: Money Order Office
-  description: at Arundel.
+  desc: at Arundel.
 ----
 text: This station forms the junction of a short line to [Bognor](/stations/bognor).
 ----

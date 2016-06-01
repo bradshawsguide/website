@@ -16,8 +16,8 @@ A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Old George.
+  desc: Old George.
 - term: Market Day
-  description: Thursday.
+  desc: Thursday.
 ----
 text: The village is situated on the banks of the river Rother, and only remarkable for the houses being constructed of red brick, which gives the place a peculiar appearance.

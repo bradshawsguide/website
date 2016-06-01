@@ -17,10 +17,10 @@ Population: 4,O11.
 ----
 info:
 - term: Hotel
-  description: Red Lion.
+  desc: Red Lion.
 - term: Market Day
-  description: Tuesday.
+  desc: Tuesday.
 - term: Fare
-  description: June 29th.
+  desc: June 29th.
 ----
 text: The trade of this place consists of coal, corn, canvas, and ropes. Much resorted to in the sea-bathing season.

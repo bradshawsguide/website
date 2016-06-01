@@ -14,9 +14,9 @@ notes: Telegraph station at St. Leonards, 3 miles.
 ----
 info:
 - term: Hotels
-  description: Bell.
+  desc: Bell.
 - term: Fairs
-  description: June 28th, and 1st Monday in July.
+  desc: June 28th, and 1st Monday in July.
 ----
 text: The village of which name is situated on a rising ground not far from the sea. It is a quiet, retired place, having some good iron springs, and is situated in a beautiful country.
 

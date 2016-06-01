@@ -12,11 +12,11 @@ route:
 ----
 info:
 - term: Hotel
-  description: Brunswick.
+  desc: Brunswick.
 - term: Steam Boats
-  description: to and from Gravesend, daily.
+  desc: to and from Gravesend, daily.
 - term: Money Order Office
-  description: at No. 53, Three Colt Street, Limehouse, 3 miles.
+  desc: at No. 53, Three Colt Street, Limehouse, 3 miles.
 ----
 text: Distance from station, 1/4 mile.
 

@@ -12,9 +12,9 @@ route:
 ----
 info:
 - Population
-  description: 5,076.
+  desc: 5,076.
 - term: Hotels
-  description: The Ship; Bull.
+  desc: The Ship; Bull.
 ----
 text: Telegraph station at Stratford, 3½ miles.
 

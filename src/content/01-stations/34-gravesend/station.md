@@ -12,17 +12,17 @@ route:
 ----
 info:
 - term: Population
-  description: 18,782.
+  desc: 18,782.
 - term: Hotels
-  description: The New Inn; the Terrace Hotel; the Clarendon.
+  desc: The New Inn; the Terrace Hotel; the Clarendon.
 - term: Omnibuses
-  description: at the station; also to Ightham (via Wrotham), Fairseat, and Meopham, once dally.
+  desc: at the station; also to Ightham (via Wrotham), Fairseat, and Meopham, once dally.
 - term: Steam Packets
-  description: to London,; and to Sheerness and Southend, daily, during the summer; to Tilbury, daily, every hour.
+  desc: to London,; and to Sheerness and Southend, daily, during the summer; to Tilbury, daily, every hour.
 - term: Market Days
-  description: Wednesday and Saturday.
+  desc: Wednesday and Saturday.
 - term: Fairs
-  description: May 4th and October 24th.
+  desc: May 4th and October 24th.
 ----
 text: Telegraph station, No. 45, The Terrace.
 

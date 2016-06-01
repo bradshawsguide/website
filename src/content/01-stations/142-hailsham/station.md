@@ -14,10 +14,10 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotels
-  description: Turmunus, George, and Crown.
+  desc: Turmunus, George, and Crown.
 - term: Market Day
-  description: Wednesday (cattle).
+  desc: Wednesday (cattle).
 - term: Fairs
-  description: April 6th and June 3rd.
+  desc: April 6th and June 3rd.
 ----
 text: Hailsham, three miles from the junction, is a quiet little market town, situated on a gentle declivity. It has the remains of a priory, and the pinnacled church of Edward III's time is rather handsome.

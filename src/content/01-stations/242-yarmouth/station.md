@@ -14,15 +14,15 @@ notes: Distance from station at Southampton, 19 miles.
 A telegraph station.
 ----
 - term: Hotel
-  description: George.
+  desc: George.
 - term: Carriers
-  description: to and from Cowes, Newport, and all parts of the Island, daily.
+  desc: to and from Cowes, Newport, and all parts of the Island, daily.
 - term: Steamers
-  description: to Lymiugton and Cowes, daily. Fares to Lymington, 1s. 6d. and 1s.; Day Tickets, 3s. To Cowes, 2s. 6d. and 1s. 6d.; Day Tickets, 4s. and 2s. 6d.
+  desc: to Lymiugton and Cowes, daily. Fares to Lymington, 1s. 6d. and 1s.; Day Tickets, 3s. To Cowes, 2s. 6d. and 1s. 6d.; Day Tickets, 4s. and 2s. 6d.
 - term: Market Day
-  description: Friday.
+  desc: Friday.
 - term: Fair
-  description: July 25th.
+  desc: July 25th.
 ----
 text: Yarmouth, another decayed borough, originally founded by the Rivers family. There is a town hall, one of Henry VIII.'s forts, and a church in which is a monument of Sir Robert Holmes, Captain of the Island, at the visit of Charles II. in 1671. He resided at what is now the King's Head Inn. Hurst Castle is opposite.
 ----

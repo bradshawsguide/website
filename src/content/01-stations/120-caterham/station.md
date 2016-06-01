@@ -14,7 +14,7 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Railway.
+  desc: Railway.
 ----
 text: The village itself does not possess anything worthy of notice; bat there are extensive stone quarries about 1½ mile distant, the quality of which material being well adapted for building, will in all probability cause many villas and residences to be erected here.
 

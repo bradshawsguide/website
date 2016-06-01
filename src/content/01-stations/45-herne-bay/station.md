@@ -12,13 +12,13 @@ route:
 ----
 info:
 - term: Hotels
-  description: Pier, and Dolphin.
+  desc: Pier, and Dolphin.
 - term: Omnibuses
-  description: to and from Sturry station, once daily.
+  desc: to and from Sturry station, once daily.
 - term: Market Day
-  description: Saturday.
+  desc: Saturday.
 - term: Fair
-  description: Easter Monday.
+  desc: Easter Monday.
 ----
 text: Distance from Sturry station, 6 miles.
 

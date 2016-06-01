@@ -12,7 +12,7 @@ route:
 ----
 info:
 - term: Money Order Office
-  description: at Guildford.
+  desc: at Guildford.
 ----
 text: A telegraph station.
 

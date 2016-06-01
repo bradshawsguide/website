@@ -15,7 +15,7 @@ route:
 ----
 info:
 - term: Hotel
-  description: Railway Hotel.
+  desc: Railway Hotel.
 - term: Money Order Office
 ----
 text: A telegraph station.

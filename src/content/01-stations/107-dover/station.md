@@ -15,19 +15,19 @@ notes: A telegraph station.
 Population: 25,323.
 ----
 - term: Hotels
-  description: The Ship; The Lord Warden; The Gun.
+  desc: The Ship; The Lord Warden; The Gun.
 - term: Post Horses, Flys, &c.
-  description: at the hotels.
+  desc: at the hotels.
 - term: Porterage
-  description: of luggage to packets and station, 1s. to 1s. 6d. each person.
+  desc: of luggage to packets and station, 1s. to 1s. 6d. each person.
 - term: Coach
-  description: to Warmer and Deal, four times daily.
+  desc: to Warmer and Deal, four times daily.
 - term: Steamers
-  description: to Calais, twice daily, and Ostend, daily, except on Sundays.
+  desc: to Calais, twice daily, and Ostend, daily, except on Sundays.
 - term: Market Days
-  description: Wednesday and Saturday
+  desc: Wednesday and Saturday
 - term: Fairs
-  description: November 23rd, lasting over three market days, and Charlton Fair in July.
+  desc: November 23rd, lasting over three market days, and Charlton Fair in July.
 ----
 text: This much frequented point of continental embarkation has of late years occupied a prominent position among the watering-places of our island. The line of continuous terraces of noble-looking mansions spreading along the margin of its coast, the pureness of its atmosphere, the bold and rocky headlands that distinguish its marine scenery, all contribute to it an important position among the recently created destinations of our sea-loving' citizens. The associations, too, that cling to the white cliffs of Albion--not, as of yore, frowning defiance to our Gallic neighbours, but with a better spirit illuminating their weather-beaten features with sunny smiles of welcome--all tend to draw every year crowds of fleeting visitors to a spot so renowned in song and story. It has been well said1 that scarcely any great man, from King Arthur to Prince Albert, has failed, at some period or other, to visit Dover, and all history confirms the assertion.
 

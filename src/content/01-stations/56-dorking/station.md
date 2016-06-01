@@ -12,15 +12,15 @@ route:
 ----
 info:
 - term: Population
-  description: 4,161.
+  desc: 4,161.
 - term: Hotels
-  description: Red Lion, and White Horse.
+  desc: Red Lion, and White Horse.
 - term: Omnibuses
-  description: to and from the station; to Epsom station several times daily.
+  desc: to and from the station; to Epsom station several times daily.
 - term: Market Day
-  description: Thursday.
+  desc: Thursday.
 - term: Fair
-  description: The day before Holy Thursday.
+  desc: The day before Holy Thursday.
 ----
 text: A telegraph station.
 

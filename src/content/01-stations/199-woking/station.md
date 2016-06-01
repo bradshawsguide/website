@@ -17,8 +17,8 @@ A telegraph station
 ----
 info:
 - term: Hotels
-  description: White Hart; Railway.
+  desc: White Hart; Railway.
 - term: Fair
-  description: Whit Tuesday.
+  desc: Whit Tuesday.
 ----
 text: On both sides of the line Woking Common is seen to extend for miles, only broken by the windings of the Basingstoke Canal, and terminated by a long range of woodland scenery, which stands out in picturesque relief against the horizon.

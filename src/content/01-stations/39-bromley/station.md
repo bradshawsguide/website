@@ -14,7 +14,7 @@ route:
 ----
 info:
 - term: Population
-  description: 5,505.
+  desc: 5,505.
 ----
 text: A telegraph station.
 

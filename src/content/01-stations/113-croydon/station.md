@@ -21,11 +21,11 @@ Population: 20,325.
 ----
 info:
 - term: Hotels
-  description: Greyhound, Crown.
+  desc: Greyhound, Crown.
 - term: Market Days
-  description: Thursday and Saturday.
+  desc: Thursday and Saturday.
 - term: Fairs
-  description: Jury 6th and October 2nd.
+  desc: Jury 6th and October 2nd.
 ----
 text: The town of Croydon derives its name from *croie*, chalk, and "dune", or hill, from which latter term we obtain our English word "downs" as signifying an extensive range of hills. It is situated in the midst of a beautiful country, and is a place of considerable antiquity. It consists of one principal street more than a mile in length, and a number of smaller ones. The church is a noble building, and has a lofty square tower adorned with pinnacles
 

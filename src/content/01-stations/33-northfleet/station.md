@@ -12,7 +12,7 @@ route:
 ----
 info:
 - term: Inn
-  description: The Leather Bottle.
+  desc: The Leather Bottle.
 ----
 text: A telegraph station.
 

@@ -18,11 +18,11 @@ Population: 2,404.
 ----
 info:
 - term: Hotel
-  description: Bush.
+  desc: Bush.
 - term: Post Horses, Flys, &c
-  description: at the station and hotels.
+  desc: at the station and hotels.
 - term: Fair
-  description: Whit Tuesday.
+  desc: Whit Tuesday.
 ----
 text: Wokingham is situated on the River Wey, on the borders of Windsor Forest. The town consists of three streets, with a handsome new Town Hall (modern Gothic) and Market Place in the centre. The Parish Church is picturesque, and undergoing restoration. A new church is also being built by J. Walter, Esq., proprietor of the Times. The railways have given considerable impetus to trade here, and house property has become valuable.
 

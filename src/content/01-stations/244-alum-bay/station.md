@@ -11,9 +11,9 @@ route:
 ----
 info:
 - term: Hotels
-  description: Needles Hotel and boarding house.
+  desc: Needles Hotel and boarding house.
 - term: Steamers
-  description: to Lymington, thence per rail to Brockenhurst.
+  desc: to Lymington, thence per rail to Brockenhurst.
 ----
 text: The cliffs on one side are white, and on the other are curiously variegated with strata of ochre, fuller's earth, grey and white sand, &c. Here large prawns are found. The cliffs gradually fall to Gary's Sconce, where a strong fort is being constructed. Copperas stones, lignite, or wood coal, alum, pipe day, shells, and fossils are discovered in this quarter of the Island.
 ----

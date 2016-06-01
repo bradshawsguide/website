@@ -12,9 +12,9 @@ route:
 ----
 info:
 - term: Omnibuses
-  description: Every 5 minutes to and from the city and Oxford Street, London.
+  desc: Every 5 minutes to and from the city and Oxford Street, London.
 - term: Money Order Office
-  description: Church Street.
+  desc: Church Street.
 ----
 text: Distance from station, ½ mile.
 

@@ -16,7 +16,7 @@ A telegraph station.
 ----
 info:
 - term: Money Order Office
-  description: at Wadhurst.
+  desc: at Wadhurst.
 ----
 text: The church at Etchingham is a fine old edifice, reputed to be one of the best specimens of Norman architecture in the country.
 

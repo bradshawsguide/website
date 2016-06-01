@@ -14,6 +14,6 @@ notes: A telegraph station.
 ----
 info:
 - term: Money Order Office
-  description: Hurst.
+  desc: Hurst.
 ----
 text: The line passes through a beautiful, cultivated, and fertile country to [Hassock's Gate](/stations/hassocks-gate).

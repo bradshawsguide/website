@@ -16,9 +16,9 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotels
-  description: King's Arms, first-class, private and commercial gentlemen, family and commercial.
+  desc: King's Arms, first-class, private and commercial gentlemen, family and commercial.
 - term: Races
-  description: Hampton, on Moulsey Hurst, in June.
+  desc: Hampton, on Moulsey Hurst, in June.
 ----
 text: The situation of Hampton Court, which stands on the north bank of the Thames, about twelve miles from London, is so happily described by Pope, that we cannot resist quoting the favourite passage:--
 

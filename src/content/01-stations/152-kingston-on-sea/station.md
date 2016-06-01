@@ -14,9 +14,9 @@ notes: A telegraph station.
 ----
 info:
 - term: Hotel
-  description: Kingston Inn.
+  desc: Kingston Inn.
 - term: Money Order Office
-  description: at Shoreham.
+  desc: at Shoreham.
 ----
 text: This village is situated on the right of the line; it has a harbour and wharf, and is said to be prosperous and thriving.
 
