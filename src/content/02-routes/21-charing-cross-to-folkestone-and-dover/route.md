@@ -56,3 +56,7 @@ From Paddock the main line proceeds rapidly in the direction of the coast, and a
 
 ## Ashford to Folkestone and Dover
 The main line on leaving Ashford makes a gradual approach towards the coast, swerving slightly to the south-east, and having on each side a delightful champaign country.
+
+At [Smeeth](/stations/smeeth) the line passes almost immediately to the north of the extensive level of Romney Marsh, which may occasionally be seen from the carriages.
+
+The deep chalk cutting that succeeds our departure from [Westenhanger](/stations/Westenhanger) introduces us to Saltwood Tunnel, and, emerging from this, we immediately catch on the right the first transient glimpse of the sea--that sight which involuntarily quickens our pulse, and sends a pleasurable emotion tingling through our veins. A lofty amphitheatre of hills, stretching away in the blue distance, varies the view in the opposite direction. Passing [Shorncliffe Camp](/stations/shorncliffe-camp), we then come to an embankment, and, borne across a viaduct 90 feet above the valley below, we come almost magically within a fine view of Folkestone and its harbour, immediately afterwards reaching the station at [Folkestone](/stations/folkestone).

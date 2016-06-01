@@ -1,0 +1,143 @@
+section: 1
+----
+title: Ashford
+----
+region: Kent
+----
+company:
+- south-eastern
+----
+route:
+- charing-cross-to-folkestone-and-dover
+- ashford-to-canterbury-and-ramsgate
+- ashford-to-hastings
+----
+info:
+- term: Population
+  desc: 5,522.
+- term: Hotels
+  desc: The Victoria, near the railway station; Saracen's Head; Royal Oak.
+- term: Market Days
+  desc: Every Tuesday (corn), 1st, 3rd and 5th Tuesday in every month (cattle)
+- term: Fairs
+  desc: May 17th, September 12th, and October 24th for horses, cattle, and pedlery.
+----
+text: A telegraph station.
+
+This was a quiet agricultural town in East Kent till the South Eastern Railway Company made it the chief station for their works, since which the population has greatly increased. It is on the Stour, at the junction of the branches to Canterbury, Margate, and Hastings, with the main line to Dover, from which it is 21 miles. Among the buildings erected by the Company are a carriage house 645 ft. long; a repairing shop, 395 ft. by 45; an engine room 210 ft. by 63; besides factories for wheels, boilers, &e. Such is the wear and tear a wheel undergoes that it requires to be fresh turned after every 2,000 miles of travelling A church has also been built for their workmen, by the Company. The parish church is a large and handsome edifice, in the Gothic style, containing several brass and stone monuments of the families of the neighbourhood--as the Smythes of Westenhanger, the Fogges of Repton, &c.
+
+Three miles N.E. is **Eastwell Park**, the seat of the Earl of Winchelsea, standing on a ridge which commands a view of the Thames on one side and the British Channel on the other. There is an extensive lake in the park, with a pretty model ship of war floating on it, fully rigged. The church contains many tombs of the Finches and Moyles; but the most remarkable monument is that to Richard Plantagenet, the last descendant of that royal house, who died here in obscurity as a bricklayer to the Moyles, 22nd Dec., 1550. His name is inserted in the register book under that date. The story concerning him is that he never knew who his father was till the battle of Bosworth Field, when he was taken into Leicestershire, and carried to Richard III.'s tent. The king embraced him and told him he was his son. <q>But child (says he), to-morrow I must fight for my crown, and if I lose that I will lose my life too. If I should be so unfortunate, shift as well as you can, and take care to let nobody know that I am your father, for no mercy will be shown any one so near to me.</q> When the battle was lost he sold his horse and fine clothes, and, to hide all suspicion of his descent, put himself apprentice to a bricklayer. In this situation he was discovered reading: a Latin book by his employer Sir T. Moyle, to whom he told his secret as it has come down to us. Not long ago there was a brick house in the park built by Richard. His singular fate is the subject of a very charming book called the <cite>Last of the Plantagenets.</cite>
+
+Within two or three miles of Ashford are the following seats:--*Merstham Hatch*, Sir Norton Knatchbull, Bart; *Hothfield*, Sir R. Tufton, Bart., for ages the seat of the Thanet (or Tufton family), and near Ripley, where Sheriff Iden seized and killed Jack Cade, who was hiding here. *Surrenden*, an. ancient family seat of the Derings, descended from the Sir Edward whose sufferings in the civil war are eloquently described by Southey in the <cite>Book of the Churches.</cite> *Godington*, N. Toke, Esq., was the seat of Sheriff Toke, a hearty, vigorous old man, who died 1680, when 93 years old, having walked to London a little before to court his sixth wife. He and his four predecessors at Godington counted 430 years among them.
+
+All this east end of the Weald of Kent is thick with woodlands, like the rest of that fertile tract, but the roads are damp and heavy.
+----
+distances:
+-
+  location: Badlesmere
+  miles: "8"
+-
+  location: Beaver Green
+  miles: "1¼"
+-
+  location: Beechborough Park
+  miles: "1"
+-
+  location: Blackwall
+  miles: "2"
+-
+  location: Bromley Green
+  miles: "3¼"
+-
+  location: Brooke
+  miles: "4"
+-
+  location: Cable Hook
+  miles: "3¼"
+-
+  location: Challock
+  miles: "5"
+-
+  location: "Cheeseman's Green"
+  miles: "2"
+-
+  location: Coleman Green
+  miles: "4"
+-
+  location: Conings Brooke
+  miles: "2"
+-
+  location: Dean Court
+  miles: "4½"
+-
+  location: Godmersham
+  miles: "5¼"
+-
+  location: Hastingleigh
+  miles: "8"
+-
+  location: Hinxhill
+  miles: "3"
+-
+  location: Kenardington
+  miles: "7"
+-
+  location: Kennington
+  miles: "2"
+-
+  location: Kingsford Street
+  miles: "1½"
+-
+  location: Kingsnorth
+  miles: "3"
+-
+  location: Mount Norris, (Lord Rokeby)
+  miles: "5"
+-
+  location: New Street
+  miles: "2½"
+-
+  location: Plumbton
+  miles: "2"
+-
+  location: Sevington
+  miles: "2"
+-
+  location: Shaddenden Lodge
+  miles: "3½"
+-
+  location: Shadoxhurst
+  miles: "4½"
+-
+  location: Sheldwick
+  miles: "9¼"
+-
+  location: Shottington
+  miles: "3¼"
+-
+  location: Smeeth
+  miles: "5"
+-
+  location: Snell Hatch
+  miles: "2"
+-
+  location: Stone Cross Green
+  miles: "3¼"
+-
+  location: Tenterden
+  miles: "12"
+-
+  location: Warehorne
+  miles: "6"
+-
+  location: West Hauk
+  miles: "1½"
+-
+  location: Westwell
+  miles: "3¼"
+-
+  location: Woodchurch
+  miles: "7"
+-
+  location: Yousel
+  miles: "2½"
