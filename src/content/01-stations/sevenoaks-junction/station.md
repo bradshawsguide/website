@@ -13,4 +13,4 @@ route:
 - london-to-chatham-and-dover
 - sevenoaks-junction-to-sevenoaks
 ----
-text: A [line](/routes/sevenoaks-junction-to-sevenoaks) here turns off to the right, 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to [Sevenoaks](/stations/sevenoaks).
+text: [A line here turns off to the right](/routes/sevenoaks-junction-to-sevenoaks), 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to [Sevenoaks](/stations/sevenoaks).

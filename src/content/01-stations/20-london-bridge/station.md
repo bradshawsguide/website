@@ -14,6 +14,6 @@ route:
 - charing-cross-to-folkestone-and-dover
 - london-to-brighton
 ----
-notes: A telegraph station.
-----
-text: From [Blackfriars](/stations/blackfriars) we proceed through the populous districts of Bermondsey and Rotherhithe, the first of which is accommodated with the station of [Spa Road](/stations/spa-road).
+text: A telegraph station.
+
+From [Blackfriars](/stations/blackfriars) we proceed through the populous districts of Bermondsey and Rotherhithe, the first of which is accommodated with the station of [Spa Road](/stations/spa-road).

@@ -12,6 +12,6 @@ route:
 - charing-cross-to-greenwich
 - london-to-chatham-and-dover
 ----
-notes: A telegraph station.
-----
-text: Whence it steams over the Borough market (St. Saviour's fine church on our left), to [London Bridge](/stations/london-bridge).
+text: A telegraph station.
+
+Whence it steams over the Borough market (St. Saviour's fine church on our left), to [London Bridge](/stations/london-bridge).

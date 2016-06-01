@@ -10,8 +10,6 @@ company:
 route:
 - charing-cross-to-greenwich
 ----
-notes: A telegraph station.
-----
 info:
 - term: Hotels
   description: Fountain; White Hart
@@ -20,7 +18,9 @@ info:
 - term: Post Horses, Flys, &c.
   description: at the station and hotels.
 ----
-text: Deptford is a town in the county of Kent, built on the banks of the Thames. The principal object of attraction at Deptford is its dockyard, which has three building slips; but it is chiefly used as a victualling yard, the river being crowded with transports. Evelyn, the author of Sylvia, had a seat here, which Peter the Great occupied when studying ship building. Sir F. Drake, after his famous voyage, entertained Queen Elizabeth on board the Pelican. There are also several private yards for the building of sailing vessels.
+text: A telegraph station.
+
+Deptford is a town in the county of Kent, built on the banks of the Thames. The principal object of attraction at Deptford is its dockyard, which has three building slips; but it is chiefly used as a victualling yard, the river being crowded with transports. Evelyn, the author of Sylvia, had a seat here, which Peter the Great occupied when studying ship building. Sir F. Drake, after his famous voyage, entertained Queen Elizabeth on board the Pelican. There are also several private yards for the building of sailing vessels.
 
 The General Steam Navigation Company's Engine and Boiler Manufactory and Dockyard, for their large fleet of steamers, is at the entrance of Deptford Creek, and is one of the most important and interesting establishments on the banks of, the Thames.
 

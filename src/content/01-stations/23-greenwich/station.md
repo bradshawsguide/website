@@ -10,11 +10,9 @@ company:
 route:
 - charing-cross-to-greenwich
 ----
-notes: A telegraph station.
-
-Population: 139,436.
-----
 info:
+- term: Population
+  description: 139,436.
 - term: Hotels
   description: Trafalgar, Charles Hart; the Ship Tavern, Thos. Quartermaine.
 - term: Steamers
@@ -22,7 +20,9 @@ info:
 - term: Money Order Office
   description: 12, Nelson Street.
 ----
-text: Greenwich Pier is five miles from London Bridge.
+text: A telegraph station.
+
+Greenwich Pier is five miles from London Bridge.
 
 Greenwich presents a striking appearance from the river, its Hospital forming one of the most prominent attractions of the place. Here was the palace erected by Humphrey Duke of Gloucester, and by him called Placentia; and here were born Henry VIII. and his two daughters, Queens Mary and Elizabeth. Charles II. began the present magnificent edifice, and William III. appropriated it to its present patriotic purpose, since which time successive sovereigns have contributed to enrich it with various additions. As the first generally seen, we shall begin our description with an account of its interior. The Chapel and Picture Gallery are open gratis on Mondays and Fridays; on other days threepence each is charged for admission. It is as well to remind the reader that the Hospital consists of four distinct piles of building, distinguished by the appellations of King Charles's, King William's, Queen Mary's, and Queen Anne's. King Charles's and Queen Anne's are those next the river, and between them is the grand square, 270 feet wide, and the terrace, by the river front, 865 feet in length. Beyond the square are seen the Hall and Chapel, with their noble domes, and the two colonnades, which are backed by the eminence whereon the Observatory stands throned amid a grove of trees. In the centre of the great square is Rysbrach's statue of George II., carved out of white marble, from a block taken from the French by Sir George Rooke, and which weighed eleven tons. On the west side is King Charles's building, erected chiefly of Portland stone, in the year 1684. The whole contains about 300 beds, distributed in thirteen wards. Queen Anne's building, on the east side of the square, corresponding with that on the opposite side, was begun in 1693, and completed in 1726. There are here 24 wards with 437 beds, and several of the officers' apartments. To the south-west is King William's building, comprising the great hall, vestibule, and dome, erected between 1698 and 1703, by Sir Christopher Wren. It contains eleven wards and 554 beds. Queen Mary's building was, with the chapel, not completed till 1752. It contains 13 wards and 1,100 beds. The **Painted Hall**, a noble structure opposite the chapel, is divided into three rooms, exhibiting, as you enter, statues of Nelson and Duncan, with 28 pictures of various sizes; the chief are Turner's large picture of "The Battle of Trafalgar," the "Relief of Gibraltar," and the "Defeat of the French Fleet under Compte de Grasse." On the opposite side is Loutherbourg's picture" of Lord Howe's victory on the memorable 1st of June, 1794, whilst above are suspended the flags taken in battle. The other pictures up the steps are chronologically arranged, the most prominent being the "Death of Captain Cook," the "Battle of Camperdown," "Nelson leaping into the San Josef," and the "Bombardment of Algiers." It may not be generally known that every mariner, either in the Royal Navy or merchant service, pays sixpence a month towards the support of this noble institution, which has, of course, besides, a handsome revenue (£130,000) derived from other sources. The pensioners, who are of every rank, from the admiral to the humblest sailor, are qualified for admission by being either maimed or disabled by age. Foreigners who have served two consecutive years in the British, service are equally entitled to the privileges, and the widows of seamen are exclusively appointed nurses. The Hospital was first opened in January, 1705, and now the pensioners provided with food, clothes, lodging, and a small stipend for pocket money, number nearly 2,500. The number of out-pensioners is about 3,000. The "Royal Naval School," for training the sons of seamen to the naval service, is a most interesting institution, administering the best instruction to now about 450 boys.
 

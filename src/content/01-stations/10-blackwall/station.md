@@ -10,10 +10,6 @@ company:
 route:
 - fenchurch-street-to-blackwall
 ----
-notes: Distance from station, 1/4 mile.
-
-Telegraph station.
-----
 info:
 - term: Hotel
   description: Brunswick.
@@ -22,4 +18,8 @@ info:
 - term: Money Order Office
   description: at No. 53, Three Colt Street, Limehouse, 3 miles.
 ----
-text: Further particulars [can be found here](/routes/london-bridge-to-herne-bay#blackwall).
+text: Distance from station, 1/4 mile.
+
+Telegraph station.
+
+Further particulars [can be found here](/routes/london-bridge-to-herne-bay#blackwall).

@@ -1,17 +1,14 @@
 .c-info {
   @include fs--info;
   margin-top: 0.25rem;
-  margin-bottom: 1rem;
-  border: double $c-neutral--mid;
-  border-width: 0 0 3px 0;
-  padding: 0 0 1rem 0;
+  margin-bottom: 0.75rem;
+  padding-left: $v-text-indent;
 
   @media screen and (min-width: $v-breakpoint--b) {
     width: 40%;
     float: right;
     margin-left: 1rem;
-    border-width: 0 0 0 3px;
-    padding: 0 0 0 1rem;
+    border-left: 3px double $c-neutral--mid;
   }
 }
 

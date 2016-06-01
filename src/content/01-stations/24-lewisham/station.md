@@ -1,8 +1,6 @@
 section: 1
 ----
-title: Lewisham (Junction)
-----
-short_title: Lewisham
+title: Lewisham
 ----
 region: Kent
 ----
@@ -14,10 +12,12 @@ route:
 - new-cross-to-chislehurst
 - lewisham-to-beckenham-and-croydon
 ----
-notes: A telegraph station.
+notes: (Junction).
 ----
 info:
 - term: Fairs
   description: Horses, cattle, and pigs, May 12th and October 13th.
 ----
-text: Lewisham is a small village, in a beautiful situation on the high road to Sevenoaks and Tunbridge, and near the river Ravensbourne.
+text: A telegraph station.
+
+Lewisham is a small village, in a beautiful situation on the high road to Sevenoaks and Tunbridge, and near the river Ravensbourne.

@@ -1,0 +1,39 @@
+section: 1
+----
+title: Chatham
+----
+region: Kent
+----
+company:
+- south-eastern
+- london-chatham-and-dover
+----
+route:
+- charing-cross-to-woolwich-gravesend-strood-and-rochester
+- london-to-chatham-and-dover
+----
+info:
+- term: Population
+  description: 12,015.
+- term: Hotels
+  description: The Sun; the Mitre.
+- term: Steam Boats
+  description: to and from Sheerness, several times daily.
+- term: Market Day
+  description: Saturday.
+- term: Fairs
+  description: May 15th, Sept. 19th (each for 3 days).
+----
+text: Distance from station at Strood, 2 miles.
+
+A telegraph station.
+
+A parliamentary borough, returning one member, but best known for its naval dockyard, on a bend of the Medway, 19 miles from the Nore, and about 2 miles from the Strood terminus of the North Kent Railway. Omnibuses run through Rochester to meet every tram, and the Sheerness steamer touches here. Population, 36,177, including 7,000 or 8,000 dockyard men and soldiers. Depots of the marines, of several regiments of the line, and East India service, are stationed at Chatham. It was a fishing-village in Saxon times. In the disgraceful reign of Charles II., the Dutch Admiral De Ruyter came up so far as to burn the ships and carry off the Royal Charles.
+
+After passing through a tunnel of l¼ mile, under Higham Down, a chalk ridge is seen stretching out into the river oppositeChatham. Rochester and Chatham form one straggling dirty town, hemmed in by chalk downs, which, on the Chatham side, rise up rather steeply to a very considerable height, There are the "Lines," which are strengthened by Fort Pitt, Fort Clarence, and other military works. They should be ascended for the extensive view of the towns, the Medway and Thames, they offer, &c, Chatham is here seen stuck like a wedge in a gap of the downs.
+
+The *Dockyard* (to be seen by application at the gate) was commenced by Queen Elizabeth, following the wise policy of her father, and is about a mDe long. It contains six building slips, wet and dry clocks,. *Rope House*, 1,140 feet long, blacksmiths' shops, steam saw-mills, oar and *block machinery* by Brunei, a duplicate of that at Portsmouth, copper sheathing and paint mills, pattern room, arsenal, &c. Several ships in ordinary are moored in the river. A ship-gun battery and school are attached to the
+
+**Marine Barracks.**--There are barracks also for the Royal Engineers and Sappers and Miners, with a school for young officers and recruits, where practical lectures are given upon every thing relating to the art of war. Good libraries for both services, and naval and military hospitals. Here Drake and Hawkins founded the *Chatham Chest*, or fund for the benefit of seamen. In the parish church (which replaces one mentioned in Domesday Book), is the monument to *Stephen Burroughs*, the first Englishman who, with Willoughby, sailed by the north-east passage to Russia.
+
+<span id="sheerness">**Sheerness,**</span> at the Medway's mouth, is a naval dockyard, in a dull, flat part of the Isle of Sheppey, near the Nore. Fossils are abundant in this island. Sailors say that "at Plymouth it always rains, at Portsmouth it always blows, but at *Sheerness* it always rains and blows," which may give an idea of the delightful climate prevailing here.
