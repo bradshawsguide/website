@@ -1,0 +1,26 @@
+section: 1
+----
+title: Norwood, Upper
+----
+region: Surrey
+----
+company:
+- south-eastern
+- london-brighton-and-south-coast
+----
+route:
+- charing-cross-to-folkestone-and-dover
+- london-to-brighton
+----
+related:
+- (wikipedia: Norwood Junction railway station)
+----
+info:
+- term: Hotels
+  desc: Beulah Spa, Royal Albert, Royal Crystal Palace
+----
+text: Distance from station, 1½ mile.
+
+A telegraph station.
+
+Norwood is situated on the sides and summit of a considerable eminence, in a most salubrious spot, surrounded with beautiful views of hill and dale, and woodland scenery and of all the most picturesque sites in the two counties of Kent and Surrey. The view, from Upper Norwood, of the west-end of London presents a superb panorama. When the Beulah Spa of Norwood was in its zenith of fame and celebrity, the gipsies were greatly petted by the visitors, but they disappeared with the decline of the Spa, and now rarely visit the neighbourhood. Norwood lies near the Croydon Railway, of which there is a station in the vicinity. The tram passes through a lovely and picturesque country.

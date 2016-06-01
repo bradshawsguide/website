@@ -9,6 +9,6 @@ company:
 ----
 route:
 - three-bridges-to-horsham-and-arundel
-- pullborough-to-petworth
+- pulborough-to-petworth
 ----
 text: The junction of a short line to [Petworth](/stations/petworth).
