@@ -10,8 +10,6 @@ company:
 route:
 - staines-to-windsor
 ----
-notes: A telegraph station.
-----
 info:
 - term: Hotels
   desc: Castle; White Hart
@@ -20,7 +18,8 @@ info:
 - term: Fairs
   desc: Easter Tuesday, July 5th, and October 25th.
 ----
-text:
+text: A telegraph station.
+
 This is a parliamentary borough (two members), with a population of 9,520, and a few public buildings, such as the Town Hall, built 1686, containing several royal portraits, and the modern church, in which are some of G. Gibbon's carvings; but the chief attractions are the *Castle* and Park, the seat of her majesty *the Queen*, and of her ancestors from the period of the Conquest.
 
 **Eton College** also is within a short distance.

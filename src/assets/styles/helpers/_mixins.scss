@@ -41,7 +41,8 @@
   }
 
   @media screen and (min-width: $v-breakpoint--d) {
-    max-width: 70vw;
+    width: 70vw;
+    max-width: 60rem;
   }
 }
 

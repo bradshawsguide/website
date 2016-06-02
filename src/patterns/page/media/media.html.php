@@ -9,7 +9,7 @@
       alt=""/>
     <? if ($image->caption()): ?>
     <figcaption class="c-poster__caption">
-      <?= smartypants($image->caption()) ?>
+      <?= smartypants(kirbytext($image->caption())) ?>
     </figcaption>
     <? endif ?>
   <? endforeach ?>

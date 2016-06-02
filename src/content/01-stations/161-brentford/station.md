@@ -10,13 +10,9 @@ company:
 route:
 - barnes-to-hounslow-and-feltham
 ----
-notes: Distance from station ½ mile.
-
-A telegraph station.
-
-Population: 9,521.
-----
 info:
+- term: Population
+  desc: 9,521.
 - term: Hotels
   desc: Red Lion; George IV.
 - term: Omnibuses
@@ -26,4 +22,8 @@ info:
 - term: Fairs
   desc: May 17th, 18th, and 19th; September 12th, 13th, and 14th.
 ----
-text: Brentford has a weekly market and two annual fairs. It is the county town, where members of Parliament are elected. Here, the Brent falls into the Thames. The town is a long straggling street.
+text: Distance from station ½ mile.
+
+A telegraph station.
+
+Brentford has a weekly market and two annual fairs. It is the county town, where members of Parliament are elected. Here, the Brent falls into the Thames. The town is a long straggling street.
