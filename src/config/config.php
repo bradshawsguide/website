@@ -6,6 +6,9 @@ if(!defined('KIRBY')) die('Direct access is not allowed');
 // Kirby license key
 c::set('license', '');
 
+// URL setup
+c::set('url', '/');
+
 // Routes
 c::set('routes', array(
   array(
@@ -53,6 +56,7 @@ c::set('markdown.extra', true);
 c::set('typography.debug', false);
 c::set('typography.dashes.style', 'em');
 c::set('typography.hyphenation.language', 'en-GB');
+c::set('typography.ordinal.suffix', false);
 c::set('typography.style.quotes.initial', false);
 c::set('typography.style.punctuation.hanging', false);
 c::set('typography.class.caps', 'u-c2sc');
