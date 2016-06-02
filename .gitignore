@@ -1,4 +1,5 @@
 .DS_Store
+/src/cache/
 /www/assets/
 /www/thumbs/
 node_modules

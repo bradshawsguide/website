@@ -10,3 +10,6 @@
 [submodule "src/plugins/alphabetise"]
 	path = src/plugins/alphabetise
 	url = git@github.com:shoesforindustry/kirby-plugins-alphabetise.git
+[submodule "src/plugins/typography"]
+	path = src/plugins/typography
+	url = git@github.com:fabianmichael/kirby-typography.git

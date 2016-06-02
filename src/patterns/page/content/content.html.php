@@ -10,7 +10,7 @@
 ?>
 
   <div class="s-prose">
-    <?= kirbytext($p->text()) ?>
+    <?= smartypants(kirbytext($p->text())) ?>
   </div>
 
 <?

@@ -6,7 +6,7 @@
   <meta property="og:url" content="<?= $page->url() ?>"/>
   <meta property="og:title" content="<?= smartypants(html($page->title())) ?>"/>
 <? if($page->text()->isNotEmpty()): ?>
-  <meta property="og:description" content="<?= smartypants(excerpt($page->text(), $length=300)) ?>"/>
+  <meta property="og:description" content="<?= excerpt($page->text(), $length=300) ?>"/>
 <? endif ?>
 <? if($page->hasImages()): ?>
   <meta property="og:image" content="<?= $page->images()->first()->url() ?>"/>
