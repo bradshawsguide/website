@@ -21,7 +21,7 @@ info:
 - term: Money Order Office
   desc: at Ventnor.
 ----
-text: There is a spring of deliriously cool water on the road side, under an alcove. The church is a pretty little rustic building, with the grave-yard planted with flowers. Since it was lengthened it is 40 feet long, and will hold 40--a small number, but quite large enough for the population of the parish.
+text: There is a spring of deliriously cool water on the road side, under an alcove. The church is a pretty little rustic building, with the grave-yard planted with flowers. Since it was lengthened it is 40 feet long, and will hold 40 -- a small number, but quite large enough for the population of the parish.
 ----
 distances:
 -

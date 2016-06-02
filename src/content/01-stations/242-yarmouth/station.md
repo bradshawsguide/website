@@ -36,7 +36,7 @@ distances:
 - 
   location: |
     Church, The
-    *Sir Richard Holmes' Monument--Governor of the Island in 1671, when visited by Charles II.*
+    *Sir Richard Holmes' Monument -- Governor of the Island in 1671, when visited by Charles II.*
   miles: "¼"
 - 
   location: Clanmore

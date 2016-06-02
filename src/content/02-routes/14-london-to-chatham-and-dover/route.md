@@ -48,7 +48,7 @@ text: This company has now two termini in London; both conveniently situated to 
 
 [Wallworth Road](/stations/wallworth-road), [Camberwell Road](/stations/camberwell-road), and [Loughborough Road](/stations/loughborough-road) stations.
 
-[Brixton](/stations/brixton).--The [line used for the Crystal Palace](/stations/crystal-palace) traffic takes rather a circuitous course eastward from this station, passing [Denmark Hill](/stations/denmark-hill), [Peckham Rye](/stations/peckham-rye), [Honor Oak](/stations/honor-oak), and [Lordship Lane](/stations/lordship-lane), to the [Crystal Palace](/stations/crystal-palace).
+[Brixton](/stations/brixton). -- The [line used for the Crystal Palace](/stations/crystal-palace) traffic takes rather a circuitous course eastward from this station, passing [Denmark Hill](/stations/denmark-hill), [Peckham Rye](/stations/peckham-rye), [Honor Oak](/stations/honor-oak), and [Lordship Lane](/stations/lordship-lane), to the [Crystal Palace](/stations/crystal-palace).
 
 On leaving Loughborough Road on our route from the city, we next come to
 

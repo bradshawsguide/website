@@ -1,6 +1,6 @@
 ﻿section: 1
 ----
-title: Third Route--Culver Cliff, through the centre of the the Island
+title: Third Route -- Culver Cliff, through the centre of the the Island
 ----
 company: isle-of-wight
 ----
@@ -8,7 +8,7 @@ text: This route, seldom taken by visitors, but a most attractive one for walker
 
 <div class="c-distances" markdown="1">
 | To:                           | Miles. |
-| ----------------------------- | ------ |
+|-----------------------------|------|
 | Afton Down                    | 19     |
 | Ashey Mark                    | 4      |
 | Brading Down                  | 3      |

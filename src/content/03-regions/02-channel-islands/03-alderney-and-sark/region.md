@@ -2,7 +2,7 @@
 ----
 country: Channel Islands
 ----
-text: Those who have an opportunity afforded them to visit the little islands of Alderney and Sark will not regret availing themselves of the offer, should there be fan: weather attendant on the excursion. Sark--also called Serk or Sercq--is six miles to the east or Guernsey, and is rather more than three miles in length. Its average breadth is not quite a mile, and in one part it is actually not many yards wide, but the island is still a thriving and fertile spot, and maintains in independent comfort a population of nearly 600 healthy and hardy islanders. The cliffs by which it is bounded are from 100 to 200 feet high.
+text: Those who have an opportunity afforded them to visit the little islands of Alderney and Sark will not regret availing themselves of the offer, should there be fan: weather attendant on the excursion. Sark -- also called Serk or Sercq -- is six miles to the east or Guernsey, and is rather more than three miles in length. Its average breadth is not quite a mile, and in one part it is actually not many yards wide, but the island is still a thriving and fertile spot, and maintains in independent comfort a population of nearly 600 healthy and hardy islanders. The cliffs by which it is bounded are from 100 to 200 feet high.
 
 The Coupée Rock, its chief wonder, is a narrow neck of land, about five feet broad, with a precipitous descent on each side of about 350 feet down to the sea. It is a favourite spot with "pic-nics," but in windy weather is not to be ventured upon without caution.
 

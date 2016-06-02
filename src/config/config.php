@@ -46,7 +46,11 @@ c::set('patterns.preview.js', 'assets/app.js');
 // Content file extension
 c::set('content.file.extension', 'md');
 
+// Markdown options
+c::set('markdown.extra', true);
+
 // Typography
+c::set('typography.debug', false);
 c::set('typography.dashes.style', 'em');
 c::set('typography.hyphenation.language', 'en-GB');
 c::set('typography.style.quotes.initial', false);
