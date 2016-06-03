@@ -7,7 +7,7 @@ company: london-and-south-western
 stops:
 - woking
 - guildford
-- goldalming
+- godalming
 - milford
 - witley
 - haslemere

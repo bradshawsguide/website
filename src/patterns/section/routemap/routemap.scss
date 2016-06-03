@@ -1,61 +1,71 @@
+$rule-width: 0.25rem;
+$station-stop-size: 0.625rem; // 10px
+$line-terminus-size: 1rem; // 16px
+
 .c-routemap {
   position: relative;
-  margin-left: 0.5rem;
-  border-left: 0.25em solid;
-  list-style: none;
-
-  &::before,
-  &::after {
-    position: absolute;
-    left: -0.75em;
-    width: 1.25em;
-    content: "";
-    z-index: 0;
-  }
+  margin-left: 0.75rem;
+  color: $c-neutral--dark;
 
   &::before {
-    top: 0;
-    border-top: 0.75em solid $c-neutral--lightest;
+    position: absolute;
+    top: 0.5rem;
+    bottom: 0.5rem;
+    left: ($rule-width * -1);
+    width: $rule-width;
+    background-color: currentColor;
+    content: "";
   }
+}
 
-  &::after {
-    bottom: -1.25rem;
-    border-top: 0.25em solid;
-    border-bottom: 1.5em solid $c-neutral--lightest;
+.c-routemap__station,
+.c-routemap__interchange {
+  position: relative;
+  margin-top: 0.625rem;
+  margin-bottom: 0.625rem;
+
+  a {
+    position: relative;
+    z-index: 9;
+    margin-left: -0.75rem;
+    padding-left: 1.75rem;
   }
 }
 
 .c-routemap__station {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-
+  // •
   &::before {
     display: block;
-    float: left;
-    width: 0.25em;
-    margin-top: 0.5rem;
-    margin-right: 0.875rem;
-    border-bottom: 0.25em solid;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: (($station-stop-size / -2) - ($rule-width / 2));
+    height: $station-stop-size;
+    width: $station-stop-size;
+    margin-top: ($station-stop-size / -2);
+    border-radius: 100%;
+    background-color: currentColor;
     content: "";
   }
 
+  // Don’t show • for first and last station
   &:first-child::before,
   &:last-child::before {
-    width: 1.25em;
-    margin: 0.75em 0.5em 0.75em -0.75em;
+    left: (($line-terminus-size / -2) - ($rule-width / 2));
+    width: $line-terminus-size;
+    height: $rule-width;
+    margin-top: ($rule-width / -2);
+    border-radius: 0;
   }
 }
 
 .c-routemap__interchange {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-
+  // ⚬
   &::before {
-    float: left;
     display: block;
-    position: relative;
+    position: absolute;
     margin-left: -0.75rem;
-    margin-right: 0.75rem;
+    margin-right: 0.625rem;
     width: 1.25rem;
     height: 1.25rem;
     border: 0.25em solid;
@@ -65,20 +75,74 @@
     z-index: 1;
   }
 
-  li {
-    position: relative;
-    margin-left: 3.25em;
-    font-size: 0.75em;
-    font-weight: 400;
-    text-indent: 0;
+  &:last-child::after {
+    display: block;
+    background-color: $c-neutral--lightest;
+    position: absolute;
+    top: 1.25rem;
+    bottom: 0;
+    left: ($rule-width * -1);
+    z-index: 0;
+    width: $rule-width;
+    content: "";
+  }
+}
+
+.c-routemap__branches {
+  margin: 0.25rem 0;
+  padding-top: 0.5rem;
+  position: relative;
+  z-index: 1;
+
+  &::before,
+  &::after {
+    display: block;
+    position: absolute;
+    border-style: solid;
+    content: "";
   }
 
-  li::before {
+  // ⌞
+  &::before {
+    top: ($rule-width * -1);
+    left: ($rule-width * -1);
+    height: 0.75rem;
+    width: 0.75rem;
+    border-bottom-left-radius: 0.5rem;
+    border-width: 0 0 $rule-width $rule-width;
+  }
+
+  // ⌝
+  &::after {
+    top: 0.25rem;
+    bottom: 1.125rem;
+    left: 0.25rem;
+    border-width: $rule-width $rule-width 0 0;
+    border-top-right-radius: 0.5rem;
+    width: 1rem;
+  }
+}
+
+.c-routemap__branch {
+  position: relative;
+  margin-left: 1.625em;
+  font-size: 0.8125em;
+  font-weight: 400;
+  line-height: (24/13);
+  text-indent: 0;
+
+  // ⌞
+  &::before {
+    display: block;
     position: absolute;
-    top: -0.3334em;
-    left: -1.25em;
-    font-size: 1.5em;
-    font-family: sans-serif;
-    content: "\261E";
+    top: 0.25rem;
+    left: -0.3125rem;
+    height: 0.75rem;
+    width: 0.75rem;
+    margin-top: ($rule-width / -2);
+    border-bottom-left-radius: 0.5rem;
+    border-style: solid;
+    border-width: 0 0 $rule-width $rule-width;
+    content: "";
   }
 }

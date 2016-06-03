@@ -54,10 +54,12 @@
 
   blockquote {
     margin: 0.5rem 4.5rem;
+    font-size: 90%;
     line-height: 1.25;
 
     p {
       white-space: pre-wrap;
+      text-indent: 0;
     }
 
     br {
@@ -95,10 +97,6 @@
     > :last-child::after {
       content: '”';
       text-align: right;
-    }
-
-    p {
-      text-indent: 0;
     }
   }
 

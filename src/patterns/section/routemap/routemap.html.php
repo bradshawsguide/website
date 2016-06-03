@@ -23,13 +23,13 @@
     <li class="c-routemap__<?= $type ?>">
       <?= html::a($stop->url(), smartypants($stop->title())) ?>
       <? if ($type == "interchange"): ?>
-      <ul>
+      <ul class="c-routemap__branches">
         <?
           foreach ($routes as $branch):
             $branch = page('routes/'.$branch);
             $terminus = a::last(str::split($branch->title(), $separator=' to ', $length=1));
         ?>
-        <li><?= html::a($branch->url(), smartypants($terminus)) ?></li>
+        <li class="c-routemap__branch"><?= html::a($branch->url(), smartypants($terminus)) ?></li>
         <? endforeach ?>
       </ul>
       <? endif ?>

@@ -24,7 +24,7 @@ stops:
 - templecombe
 - milbourne-port
 - sherborne
-- yeovil
+- YEOVIL
 - sutton-bingham
 - crewkerne
 - chard-road
@@ -34,6 +34,6 @@ stops:
 - feniton
 - whimple
 - broad-clyst
-- exeter
+- EXETER
 ----
 text: After leaving Basingstoke the line proceeds through a chalky range, from which various parks may be seen extending on every side -- blended with scattered villages Passing the stations of [Oakley](/stations/oakley), [Overton](/stations/overton), and [Whitchurch](/stations/whitchurch), we arrive at the important station of [Andover](/stations/andover).
