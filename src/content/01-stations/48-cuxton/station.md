@@ -2,6 +2,8 @@ section: 1
 ----
 title: Cuxton, or Cuckstone
 ----
+short_title: Cuxton
+----
 region: Kent
 ----
 company:

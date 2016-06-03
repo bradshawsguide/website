@@ -25,6 +25,9 @@
   overflow: hidden;
 
   .c-list__item {
+    margin-bottom: 0.25rem;
+    padding-right: 0.5rem;
+
     @media screen and (min-width: $v-breakpoint--a) {
       width: percentage(1/2);
       float: left;
@@ -36,6 +39,10 @@
 
     @media screen and (min-width: $v-breakpoint--c) {
       width: percentage(1/4);
+    }
+
+    @media screen and (min-width: $v-breakpoint--d) {
+      width: percentage(1/5);
     }
   }
 }

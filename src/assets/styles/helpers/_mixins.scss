@@ -95,8 +95,13 @@
   font-size: 1.125rem; // 18px
   font-weight: bold;
   letter-spacing: 0.025rem;
-  line-height: (25 / 21);
+  line-height: (24 / 18);
   text-transform: uppercase;
+
+  @media screen and (min-width: $v-breakpoint--c) {
+    font-size: 1.25rem; // 20px
+    line-height: (28 / 20);
+  }
 }
 
 @mixin fs--body {
