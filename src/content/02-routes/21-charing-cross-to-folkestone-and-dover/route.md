@@ -17,7 +17,7 @@ stops:
 - red-hill
 - godstone
 - edenbridge
-- penshurt
+- penshurst
 - tunbridge
 - paddock-wood-junction
 - marden
