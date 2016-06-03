@@ -30,7 +30,7 @@ stops:
 - totton
 - lyndhurst-road
 - brockenhurst
-- ringswood
+- ringwood
 - wimborne
 - poole-junction
 - wareham

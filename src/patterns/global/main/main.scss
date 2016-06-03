@@ -5,5 +5,13 @@
 
   a {
     color: $c-brand-crimson;
+
+    &:hover {
+      color: lighten($c-brand-crimson, 20%);
+    }
+
+    &:active {
+      color: darken($c-brand-yellow, 10%);
+    }
   }
 }
