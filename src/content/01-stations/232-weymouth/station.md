@@ -11,8 +11,6 @@ route:
 - london-to-southampton-dorchester-and-weymouth
 - weymouth-to-portland
 ----
-notes: A telegraph station.
-----
 info:
 - term: Hotels
   desc: Luce's Royal; Drew's Victoria; Jeffries.
@@ -21,7 +19,9 @@ info:
 - term: Races
   desc: In September.
 ----
-text: Nothing can be more striking and picturesque than the situation of this delightful watering-place. The town is built-on the western shore of one of the finest bays in the English Channel, and being separated into two parts by the river, which forms a commodious harbour, it is most conveniently situated for trade. Population, 11,383.
+text: A telegraph station.
+
+Nothing can be more striking and picturesque than the situation of this delightful watering-place. The town is built-on the western shore of one of the finest bays in the English Channel, and being separated into two parts by the river, which forms a commodious harbour, it is most conveniently situated for trade. Population, 11,383.
 
 A long and handsome bridge of two arches, constructed of stone, with a swivel in the centre, was erected in 1820, and thus the divided townships enjoy a communication. The town, especially on the Melcombe side of the harbour, is regularly built, and consists chiefly of two principal streets, parallel with each other, intersected with others at right angles; it is well paved and lighted, and is tolerably supplied with fresh water.
 

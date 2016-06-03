@@ -10,8 +10,6 @@ company:
 route:
 - london-to-southampton-dorchester-and-weymouth
 ----
-notes: A telegraph station.
-----
 info:
 - term: Hotels
   desc: King's Arms; Antelope.
@@ -20,7 +18,9 @@ info:
 - term: Fairs
   desc: February 14th, Trinity Monday, July 6th, August 6th, and September 29th.
 ----
-text: The station is about a quarter of a mile from the town, well situated, and neat in its arrangements, the arrival and departure platforms and coverings being complete, and well ordered in every respect.
+text: A telegraph station.
+
+The station is about a quarter of a mile from the town, well situated, and neat in its arrangements, the arrival and departure platforms and coverings being complete, and well ordered in every respect.
 
 **Dorchester** is a small parliamentary borough, and the capital of Dorsetshire, in a pretty part of the South Downs, at the termination of the South Western railway, 141 miles from London. It returns two members; population, 6,823. A trade in sheep, grain and other agricultural produce. It is pleasantly situated on an ascent above the river Frome.
 
