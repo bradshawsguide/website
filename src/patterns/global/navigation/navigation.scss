@@ -8,6 +8,7 @@
 .c-navigation__list {
   @include l--container;
   display: flex;
+  overflow-x: scroll;
 }
 
 .c-navigation__item {
