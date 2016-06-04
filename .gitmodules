@@ -13,3 +13,6 @@
 [submodule "src/plugins/typography"]
 	path = src/plugins/typography
 	url = git@github.com:fabianmichael/kirby-typography.git
+[submodule "src/plugins/kirbytextraw"]
+	path = src/plugins/kirbytextraw
+	url = git@github.com:jbeyerstedt/kirby-plugin-kirbytextRaw

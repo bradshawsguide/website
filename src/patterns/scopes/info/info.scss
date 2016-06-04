@@ -1,4 +1,4 @@
-.c-info {
+.s-info {
   @include fs--info;
   margin-top: 0.25rem;
   margin-bottom: 0.75rem;
@@ -10,20 +10,20 @@
     margin-left: 1rem;
     border-left: 3px double $c-neutral--mid;
   }
-}
 
-.c-info__term {
-  float: left;
-  font-feature-settings: "smcp" on;
-  font-weight: normal;
-}
-
-.c-info__desc {
-  &:not(:last-of-type) {
-    margin-bottom: 0.5rem;
+  dt
+    float: left;
+    font-feature-settings: "smcp" on;
+    font-weight: normal;
   }
 
-  &::before {
-    content: "—";
+  dd
+    &:not(:last-of-type) {
+      margin-bottom: 0.5rem;
+    }
+
+    &::before {
+      content: "—";
+    }
   }
 }

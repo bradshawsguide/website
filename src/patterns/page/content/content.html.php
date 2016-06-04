@@ -5,17 +5,15 @@
 <? endif ?>
 <?
   if($p->info()->isNotEmpty()) {
-    pattern('common/info', ['p' => $p]);
+    pattern('scopes/info', ['p' => $p]);
   }
-?>
 
-  <div class="s-prose">
-    <?= smartypants(kirbytext($p->text())) ?>
-  </div>
+  if($p->text()->isNotEmpty()) {
+    pattern('scopes/prose', ['p' => $p]);
+  }
 
-<?
   if($p->distances()->isNotEmpty()) {
-    pattern('common/distances', ['p' => $p]);
+    pattern('scopes/distances', ['p' => $p]);
   }
 ?>
 </div>

@@ -13,11 +13,8 @@
 @import 'base/forms';
 @import 'base/interactive';
 
-// Patterns
+// Patterns (components, scopes)
 @import '../../patterns/**/*.scss';
-
-// Scopes
-@import 'scopes/**/*.scss';
 
 // Utilities
 @import 'utilities/**/*.scss';

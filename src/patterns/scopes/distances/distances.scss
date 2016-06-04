@@ -1,0 +1,114 @@
+.s-distances {
+  @include fs--body;
+
+
+  table {
+    margin: 1.5rem auto;
+    width: 100%;
+  }
+
+  caption {
+    padding: 0.5rem 0;
+    font-feature-settings: "smcp" on;
+  }
+
+  tr {
+    display: block;
+    width: 100%;
+    break-inside: avoid;
+  }
+
+  td {
+    vertical-align: bottom;
+    width: 100%;
+  }
+
+  thead {
+    display: block;
+
+    th:nth-child(1) {
+      @include u--visually-hidden;
+    }
+
+    th:nth-child(2) {
+      font-weight: normal;
+      text-align: right;
+      display: block;
+
+      @media screen and (min-width: $v-breakpoint--c) {
+        display: block;
+        position: relative;
+        padding: 0;
+      }
+
+      &::after {
+        @media screen and (min-width: $v-breakpoint--c) {
+          content: "Miles.";
+          position: absolute;
+          left: 0;
+          text-align: right;
+          width: 50%;
+        }
+      }
+    }
+  }
+
+  tbody {
+    line-height: 1.25;
+    word-spacing: -0.025em;
+    text-shadow:
+      // x
+      0.03em 0 $c-neutral--lightest, -0.03em 0 $c-neutral--lightest,
+      0.06em 0 $c-neutral--lightest, -0.06em 0 $c-neutral--lightest,
+      0.09em 0 $c-neutral--lightest, -0.09em 0 $c-neutral--lightest,
+      0.12em 0 $c-neutral--lightest, -0.12em 0 $c-neutral--lightest,
+      0.15em 0 $c-neutral--lightest, -0.15em 0 $c-neutral--lightest,
+      0.18em 0 $c-neutral--lightest, -0.18em 0 $c-neutral--lightest,
+      0.21em 0 $c-neutral--lightest, -0.21em 0 $c-neutral--lightest,
+      0.24em 0 $c-neutral--lightest, -0.24em 0 $c-neutral--lightest,
+      0.27em 0 $c-neutral--lightest, -0.27em 0 $c-neutral--lightest,
+      0.30em 0 $c-neutral--lightest, -0.30em 0 $c-neutral--lightest,
+
+      // y
+      0 0.03em $c-neutral--lightest, 0 -0.02em $c-neutral--lightest,
+      0 0.06em $c-neutral--lightest, 0 -0.06em $c-neutral--lightest,
+      0 0.09em $c-neutral--lightest, 0 -0.09em $c-neutral--lightest,
+      0 0.12em $c-neutral--lightest, 0 -0.12em $c-neutral--lightest,
+      0 0.15em $c-neutral--lightest, 0 -0.15em $c-neutral--lightest,
+      0 0.18em $c-neutral--lightest, 0 -0.18em $c-neutral--lightest,
+      0 0.21em $c-neutral--lightest, 0 -0.21em $c-neutral--lightest,
+      0 0.24em $c-neutral--lightest, 0 -0.24em $c-neutral--lightest,
+      0 0.27em $c-neutral--lightest, 0 -0.27em $c-neutral--lightest,
+      0 0.30em $c-neutral--lightest, 0 -0.30em $c-neutral--lightest;
+
+    @media screen and (min-width: $v-breakpoint--c) {
+      display: block;
+      columns: 2;
+      column-fill: balance;
+      column-gap: 1rem;
+      column-rule: 3px double $c-neutral--mid;
+    }
+
+    em {
+      font-size: 80%;
+      letter-spacing: -0.025em;
+    }
+
+    td:nth-child(1) {
+      position: relative;
+
+      &::after {
+        position: absolute;
+        right: 0.25rem;
+        bottom: 0.3334em;
+        left: 0.25rem;
+        z-index: -1;
+        height: 2px;
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='1.5' viewBox='0 0 4 2'%3E%3Ccircle cx='1' cy='1' r='1'/%3E%3C/svg%3E");
+        background-position: bottom right;
+        background-repeat: repeat-x;
+        content: "";
+      }
+    }
+  }
+}
