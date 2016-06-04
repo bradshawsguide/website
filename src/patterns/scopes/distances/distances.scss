@@ -1,6 +1,7 @@
 .s-distances {
   @include fs--body;
-
+  padding-right: 5vw;
+  padding-left: 5vw;
 
   table {
     margin: 1.5rem auto;
@@ -85,7 +86,7 @@
       display: block;
       columns: 2;
       column-fill: balance;
-      column-gap: 1rem;
+      column-gap: 1.5rem;
       column-rule: 3px double $c-neutral--mid;
     }
 

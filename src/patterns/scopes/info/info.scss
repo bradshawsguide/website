@@ -11,13 +11,13 @@
     border-left: 3px double $c-neutral--mid;
   }
 
-  dt
+  dt {
     float: left;
     font-feature-settings: "smcp" on;
     font-weight: normal;
   }
 
-  dd
+  dd {
     &:not(:last-of-type) {
       margin-bottom: 0.5rem;
     }
