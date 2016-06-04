@@ -20,6 +20,11 @@ function clean() {
   return del([config.dest.assets]);
 }
 
+function fonts() {
+  return gulp.src(config.src.assets + 'fonts/**/*')
+    .pipe(gulp.dest(config.dest.assets + 'fonts'));
+}
+
 function icons() {
   return gulp.src(config.src.assets + 'icons/**/*')
     .pipe(imagemin())
@@ -57,12 +62,13 @@ function sync() {
 }
 
 function watch() {
+  gulp.watch(config.src.assets + 'fonts', fonts);
   gulp.watch(config.src.assets + 'icons', icons);
   gulp.watch(config.src.path + '**/*.scss', styles);
 }
 
 // Task sets
-var compile = gulp.series(clean, gulp.parallel(icons, styles));
+var compile = gulp.series(clean, gulp.parallel(fonts, icons, styles));
 
 gulp.task('default', compile);
 gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));

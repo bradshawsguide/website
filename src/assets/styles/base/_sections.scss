@@ -3,9 +3,11 @@
 // w3c.github.io/html/sections.html
 // ========================================================
 
+// 1. Prevent adjustment of font size on orientation change.
 html {
   box-sizing: border-box;
   height: 100%;
+  text-size-adjust: 100%; // 1
 }
 
 *,

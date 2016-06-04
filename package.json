@@ -44,5 +44,8 @@
     "gulp-sourcemaps": "latest",
     "postcss-assets": "latest"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "fontfaceobserver": "^1.7.1"
+  }
 }

@@ -1,0 +1,39 @@
+// ========================================================
+// Webfonts
+// ========================================================
+
+@font-face {
+  font-family: "League Gothic";
+  font-weight: normal;
+  font-style: normal;
+  src:
+    url("/assets/fonts/leaguegothic-regular.woff2") format("woff2"),
+    url("/assets/fonts/leaguegothic-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Kameron";
+  font-weight: bold;
+  font-style: normal;
+  src:
+    url("/assets/fonts/kameron-bold.woff2") format("woff2"),
+    url("/assets/fonts/kameron-bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Linux Libertine";
+  font-weight: regular;
+  font-style: normal;
+  src:
+    url("/assets/fonts/linuxlibertine-regular.woff2") format("woff2"),
+    url("/assets/fonts/linuxlibertine-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Linux Libertine";
+  font-weight: regular;
+  font-style: italic;
+  src:
+    url("/assets/fonts/linuxlibertine-italic.woff2") format("woff2"),
+    url("/assets/fonts/linuxlibertine-italic.woff") format("woff");
+}
