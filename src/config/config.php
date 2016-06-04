@@ -55,7 +55,7 @@ c::set('markdown.extra', true);
 // Typography
 c::set('typography.debug', false);
 c::set('typography.dashes.style', 'em');
-c::set('typography.hyphenation.language', 'en-GB');
+c::set('typography.hyphenation', false);
 c::set('typography.ordinal.suffix', false);
 c::set('typography.space.collapse', false);
 c::set('typography.style.quotes.initial', false);
