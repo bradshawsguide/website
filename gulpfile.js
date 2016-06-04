@@ -14,6 +14,7 @@ const postcss = require('gulp-postcss');
 const sass = require('gulp-sass');
 const sassGlob = require('gulp-sass-glob');
 const sourcemaps = require('gulp-sourcemaps');
+const webpack = require('webpack-stream');
 
 // Tasks
 function clean() {
@@ -29,6 +30,16 @@ function icons() {
   return gulp.src(config.src.assets + 'icons/**/*')
     .pipe(imagemin())
     .pipe(gulp.dest(config.dest.assets + 'icons'));
+}
+
+function scripts() {
+  return gulp.src(config.src.assets + 'scripts/app.js')
+    .pipe(webpack({
+      output: {
+        filename: 'app.js'
+      }
+    }))
+    .pipe(gulp.dest(config.dest.assets));
 }
 
 function styles() {
@@ -64,11 +75,12 @@ function sync() {
 function watch() {
   gulp.watch(config.src.assets + 'fonts', fonts);
   gulp.watch(config.src.assets + 'icons', icons);
+  gulp.watch(config.src.path + '**/*.js', scripts);
   gulp.watch(config.src.path + '**/*.scss', styles);
 }
 
 // Task sets
-var compile = gulp.series(clean, gulp.parallel(fonts, icons, styles));
+var compile = gulp.series(clean, gulp.parallel(fonts, icons, scripts, styles));
 
 gulp.task('default', compile);
 gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));

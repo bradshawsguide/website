@@ -31,6 +31,8 @@
 <? endif ?>
   <link rel="stylesheet" href="<?= url('assets/app.css') ?>"/>
 
+  <script src="<?= url('assets/app.js') ?>" async></script>
+
   <title><?= smartypants($page->title()) ?><? if(!$page->isHomePage()): ?> - <?= $site->title() ?><? endif ?></title>
 </head>
 

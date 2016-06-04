@@ -42,7 +42,8 @@
     "gulp-sass": "latest",
     "gulp-sass-glob": "latest",
     "gulp-sourcemaps": "latest",
-    "postcss-assets": "latest"
+    "postcss-assets": "latest",
+    "webpack-stream": "^3.2.0"
   },
   "private": true,
   "dependencies": {
