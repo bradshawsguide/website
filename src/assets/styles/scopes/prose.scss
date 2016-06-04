@@ -41,19 +41,19 @@
       }
 
       &::before {
-        top: 0%;
+        top: 0;
         left: 3px;
-        height: 65%;
+        height: 50%;
         border-width: 3px 3px 0 0;
-        border-top-right-radius: 50%;
+        border-top-right-radius: 12px;
       }
 
       &::after {
-        bottom: -15%;
+        bottom: 0;
         left: 6px;
         height: 50%;
         border-width: 0 0 3px 3px;
-        border-bottom-left-radius: 50%;
+        border-bottom-left-radius: 12px;
       }
     }
   }

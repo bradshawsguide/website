@@ -33,75 +33,47 @@ Newport, the capital of the Island, a clean, well built, country town, in a holl
 For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.
 ----
 distances:
--
-  location: Albany Barracks
+- location: Albany Barracks
   miles: "½"
--
-  location: Alvington
+- location: Alvington
   miles: "2"
--
-  location: Arreton
+- location: Arreton
   miles: "2½"
--
-  location: Barton Point
+- location: Barton Point
   miles: "4"
--
-  location: Birchmore
+- location: Birchmore
   miles: "2½"
--
-  location: Blackland
+- location: Blackland
   miles: "2½"
--
-  location: Brettleford
+- location: Brettleford
   miles: "2½"
--
-  location: Carisbrooke
+- location: Carisbrooke
   miles: "1"
--
-  location: |
-    Carisbrooke Castle
-    *Built before the Conquest*
+- location: Carisbrooke Castle *Built before the Conquest*
   miles: "1½"
--
-  location: Carisbrooke Church
+- location: Carisbrooke Church
   miles: "1¼"
--
-  location: Carisbrooke Priory, Ruins of
+- location: Carisbrooke Priory, Ruins of
   miles: "1"
--
-  location: |
-    Church, Old
-    *Tomb of Charles First's daughter, Princess Elizabeth*
+- location: Church, Old *Tomb of Charles First's daughter, Princess Elizabeth*
   miles: "¼"
--
-  location: "King's Forest"
+- location: "King's Forest"
   miles: "½"
--
-  location: Kite Hill
+- location: Kite Hill
   miles: "5"
--
-  location: Marcliff
+- location: Marcliff
   miles: "4½"
--
-  location: |
-    Node Hill
-    *Monument to Tyerman the Missionary, and lines by Montgomery*
+- location: Node Hill *Monument to Tyerman the Missionary, and lines by Montgomery*
   miles: "2"
--
-  location: Norris Castle
+- location: Norris Castle
   miles: "½"
--
-  location: Park Cross
+- location: Park Cross
   miles: "4"
--
-  location: Parkhurst Reformatory Institution
+- location: Parkhurst Reformatory Institution
   miles: "½"
--
-  location: Thorness
+- location: Thorness
   miles: "4"
--
-  location: West Cowes
+- location: West Cowes
   miles: "5"
--
-  location: Wootton and Bridge
+- location: Wootton and Bridge
   miles: "3½"

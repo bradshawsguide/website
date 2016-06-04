@@ -32,108 +32,73 @@ The houses of the lower classes present models of architecture, and are beautifu
 On the north side of the town, in the principal street, was situated the castle, some few traces of which are yet visible. It was one of the principal seats of the powerful Earls of Warwick and Surrey; and here the insurgent barons are reported to have held frequent meetings, preceding the celebrated Congress of Runnymede. There is a long passage under the castle mound leading into a vaulted room, called the Baron's Cave, which is said to have been used by the barons as a hiding-place for arms. The church has a few curious and ancient tombs.
 ----
 distances:
--
-  location: Brickland
+- location: Brickland
   miles: "2"
--
-  location: Buckland
+- location: Buckland
   miles: "1¾"
--
-  location: Calley Farm
+- location: Calley Farm
   miles: "¾"
--
-  location: Chalmead Farm
+- location: Chalmead Farm
   miles: "2"
--
-  location: Cophill Farm
+- location: Cophill Farm
   miles: "4"
--
-  location: "Couler's Hole"
+- location: "Couler's Hole"
   miles: "1"
--
-  location: "Dean's Farm"
+- location: "Dean's Farm"
   miles: "7"
--
-  location: Ewood Mill
+- location: Ewood Mill
   miles: "5"
--
-  location: Gadbrook Common
+- location: Gadbrook Common
   miles: "3"
--
-  location: Galton Park
+- location: Galton Park
   miles: "1"
--
-  location: "Hamon's Copse"
+- location: "Hamon's Copse"
   miles: "5"
--
-  location: Hartswood
+- location: Hartswood
   miles: "1¼"
--
-  location: Hatch Farm
+- location: Hatch Farm
   miles: "1"
--
-  location: Headley
+- location: Headley
   miles: "4"
--
-  location: Henfold Farm
+- location: Henfold Farm
   miles: "4"
--
-  location: Hill House
+- location: Hill House
   miles: "4"
--
-  location: Kingswood Garden
+- location: Kingswood Garden
   miles: "3¾"
--
-  location: Kinnersley House
+- location: Kinnersley House
   miles: "3"
--
-  location: Leatherhead
+- location: Leatherhead
   miles: "6"
--
-  location: Leigh
+- location: Leigh
   miles: "3"
--
-  location: Littleton Farm
+- location: Littleton Farm
   miles: "1"
--
-  location: Mason Bridge East
+- location: Mason Bridge East
   miles: "3"
--
-  location: Mead House
+- location: Mead House
   miles: "1"
--
-  location: Newdigate
+- location: Newdigate
   miles: "7"
--
-  location: Nork House
+- location: Nork House
   miles: "5"
--
-  location: Norwood Place
+- location: Norwood Place
   miles: "4"
--
-  location: Parkfall Place
+- location: Parkfall Place
   miles: "4"
--
-  location: Park House
+- location: Park House
   miles: "4¾"
--
-  location: Red Hill Farm
+- location: Red Hill Farm
   miles: "1"
--
-  location: Reigate Mills
+- location: Reigate Mills
   miles: "1"
--
-  location: Reigate Park
+- location: Reigate Park
   miles: "¾"
--
-  location: Rice Bridge
+- location: Rice Bridge
   miles: "2"
--
-  location: Upper Galton
+- location: Upper Galton
   miles: "2"
--
-  location: Walton
+- location: Walton
   miles: "3½"
--
-  location: Walton Park
+- location: Walton Park
   miles: "2"

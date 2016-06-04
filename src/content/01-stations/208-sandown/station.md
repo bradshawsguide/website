@@ -22,26 +22,17 @@ text: A telegraph station.
 Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
 ----
 distances:
--
-  location: Adgeton
+- location: Adgeton
   miles: "1"
--
-  location: Brading
+- location: Brading
   miles: "2"
--
-  location: Culver Cliff
+- location: Culver Cliff
   miles: "2"
--
-  location: Knighton
+- location: Knighton
   miles: "3"
--
-  location: Ryde
+- location: Ryde
   miles: "6"
--
-  location: |
-    Sandown Cottage
-    *Was the seat of Wilkes. The pillar there was set up by him to his friend Churchill.*
+- location: Sandown Cottage *Was the seat of Wilkes. The pillar there was set up by him to his friend Churchill.*
   miles: "1"
--
-  location: Sandown Lake
+- location: Sandown Lake
   miles: "1"

@@ -25,80 +25,55 @@ The name of the village adjacent is derived from a corruption of "good stone," s
 Passing over Stafford's Wood Common, the line now traverses a fine and open country, entering the county of Kent at a spot bearing the diminutive cognomen of "Little Browns." The intervening miles are rapidly left behind, and we again pause for a few brief minutes at [Edenbridge](/stations/edenbridge), the first station in the county of [Kent](/regions/england/kent).
 ----
 distances:
--
-  location: Anchor Farm
+- location: Anchor Farm
   miles: "2½"
--
-  location: Blackgrove
+- location: Blackgrove
   miles: "3½"
--
-  location: Bletchingley
+- location: Bletchingley
   miles: "2½"
--
-  location: Blendley Heath
+- location: Blendley Heath
   miles: "2½"
--
-  location: Bradfield
+- location: Bradfield
   miles: "3½"
--
-  location: Byes
+- location: Byes
   miles: "3"
--
-  location: Comforts Place
+- location: Comforts Place
   miles: "3½"
--
-  location: Cross Ways
+- location: Cross Ways
   miles: "¼"
--
-  location: Dog Kennel
+- location: Dog Kennel
   miles: "3"
--
-  location: Felbridge Park
+- location: Felbridge Park
   miles: "5"
--
-  location: Flower House
+- location: Flower House
   miles: "2¼"
--
-  location: Gassous House
+- location: Gassous House
   miles: "2¼"
--
-  location: Godstone
+- location: Godstone
   miles: "3"
--
-  location: Godstone Green
+- location: Godstone Green
   miles: "4"
--
-  location: Goulds
+- location: Goulds
   miles: "3"
--
-  location: Hedge Court
+- location: Hedge Court
   miles: "7"
--
-  location: Hill Farm
+- location: Hill Farm
   miles: "1½"
--
-  location: Hobbs
+- location: Hobbs
   miles: "3"
--
-  location: Hook
+- location: Hook
   miles: "3"
--
-  location: Home
+- location: Home
   miles: "4"
--
-  location: Ivy House
+- location: Ivy House
   miles: "2¼"
--
-  location: "Jenkins' Land"
+- location: "Jenkins' Land"
   miles: "2½"
--
-  location: Live House
+- location: Live House
   miles: "¾"
--
-  location: Lee Place
+- location: Lee Place
   miles: "2¼"
--
-  location: Legham
+- location: Legham
   miles: "2"
 -
   location: Lingneld

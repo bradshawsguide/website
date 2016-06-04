@@ -29,75 +29,51 @@ Wokingham is situated on the River Wey, on the borders of Windsor Forest. The to
 From this station the railway passes that of [Earley](/stations/earley) and over a level but highly cultivated country, interspersed with villages and country-seats, until it reach the terminus at [Reading](/stations/reading).
 ----
 distances:
--
-  location: Bisley
+- location: Bisley
   miles: "3"
--
-  location: Chobham
+- location: Chobham
   miles: "2½"
--
-  location: Chobham Hall
+- location: Chobham Hall
   miles: "3½"
--
-  location: Chobham Park
+- location: Chobham Park
   miles: "3"
--
-  location: Cross Stock
+- location: Cross Stock
   miles: "2"
--
-  location: Dudsall Court
+- location: Dudsall Court
   miles: "3¾"
--
-  location: Grove Heath
+- location: Grove Heath
   miles: "3"
--
-  location: Hale End
+- location: Hale End
   miles: "3"
--
-  location: Hermitage, The
+- location: Hermitage, The
   miles: "2"
--
-  location: Hide Farm
+- location: Hide Farm
   miles: "2¾"
--
-  location: Hoe Bridge
+- location: Hoe Bridge
   miles: "1"
--
-  location: Hook Hill
+- location: Hook Hill
   miles: "1½"
--
-  location: Horshill
+- location: Horshill
   miles: "1"
--
-  location: Knapp Hill
+- location: Knapp Hill
   miles: "3"
--
-  location: London Necropolis
+- location: London Necropolis
   miles: "2½"
--
-  location: Mayford
+- location: Mayford
   miles: "3"
--
-  location: Newark Abbey Ruins
+- location: Newark Abbey Ruins
   miles: "2"
--
-  location: Ottershaw
+- location: Ottershaw
   miles: "3¼"
--
-  location: Pirford
+- location: Pirford
   miles: "2"
--
-  location: Ripley Park
+- location: Ripley Park
   miles: "3"
--
-  location: Shackleford
+- location: Shackleford
   miles: "3"
--
-  location: Sutton Park
+- location: Sutton Park
   miles: "3"
--
-  location: Westfield
+- location: Westfield
   miles: "2½"
--
-  location: Wokingham
+- location: Wokingham
   miles: "1"

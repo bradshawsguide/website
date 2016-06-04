@@ -20,42 +20,29 @@ info:
 text: A telegraph station.
 ----
 distances:
--
-  location: Bowling Green
+- location: Bowling Green
   miles: "1¾"
--
-  location: Brenchley
+- location: Brenchley
   miles: "3"
--
-  location: Great Brainden
+- location: Great Brainden
   miles: "3"
--
-  location: Homebush Green
+- location: Homebush Green
   miles: "2"
--
-  location: Horsemondean
+- location: Horsemondean
   miles: "4½"
--
-  location: Lamberhurst
+- location: Lamberhurst
   miles: "5½"
--
-  location: Matfield Green
+- location: Matfield Green
   miles: "4½"
--
-  location: "Mereworth Castle (Lady Despencer's)"
+- location: "Mereworth Castle (Lady Despencer's)"
   miles: "5"
--
-  location: Pigfish
+- location: Pigfish
   miles: "2½"
--
-  location: Snoll Hatch
+- location: Snoll Hatch
   miles: "1¾"
--
-  location: Wested
+- location: Wested
   miles: "1"
--
-  location: Woodfall
+- location: Woodfall
   miles: "1¾"
--
-  location: Yaldiug
+- location: Yaldiug
   miles: "3½"

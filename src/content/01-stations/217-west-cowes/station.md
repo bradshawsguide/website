@@ -34,49 +34,31 @@ It lies at the mouth of the Medina and is a stirring port, noted for its shipbui
 On the beach are bathing machines, and it is much visited by fashionable company.
 ----
 distances:
--
-  location: Barton
+- location: Barton
   miles: "2"
--
-  location: Baskets
+- location: Baskets
   miles: "1¾"
--
-  location: East Cowes
+- location: East Cowes
   miles: "¾"
--
-  location: |
-    East Cowes Castle
-    *Earl of Shannon.*
+- location: East Cowes Castle *Earl of Shannon.*
   miles: "1½"
--
-  location: Egypt
+- location: Egypt
   miles: "1"
--
-  location: Gurnet Farm
+- location: Gurnet Farm
   miles: "1"
--
-  location: "King's Key"
+- location: "King's Key"
   miles: "3"
--
-  location: Kingston
+- location: Kingston
   miles: "1½"
--
-  location: Noder
+- location: Noder
   miles: "1½"
--
-  location: Northwood
+- location: Northwood
   miles: "1½"
--
-  location: |
-    Northwood House
-    *Now a School.*
+- location: Northwood House *Now a School.*
   miles: "½"
--
-  location: Osborne
+- location: Osborne
   miles: "1¼"
--
-  location: West Cowes House
+- location: West Cowes House
   miles: "¼"
--
-  location: Yacht Club House
+- location: Yacht Club House
   miles: "½"

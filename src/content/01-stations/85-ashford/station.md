@@ -33,111 +33,75 @@ Within two or three miles of Ashford are the following seats:-- *Merstham Hatch*
 All this east end of the Weald of Kent is thick with woodlands, like the rest of that fertile tract, but the roads are damp and heavy.
 ----
 distances:
--
-  location: Badlesmere
+- location: Badlesmere
   miles: "8"
--
-  location: Beaver Green
+- location: Beaver Green
   miles: "1¼"
--
-  location: Beechborough Park
+- location: Beechborough Park
   miles: "1"
--
-  location: Blackwall
+- location: Blackwall
   miles: "2"
--
-  location: Bromley Green
+- location: Bromley Green
   miles: "3¼"
--
-  location: Brooke
+- location: Brooke
   miles: "4"
--
-  location: Cable Hook
+- location: Cable Hook
   miles: "3¼"
--
-  location: Challock
+- location: Challock
   miles: "5"
--
-  location: "Cheeseman's Green"
+- location: "Cheeseman's Green"
   miles: "2"
--
-  location: Coleman Green
+- location: Coleman Green
   miles: "4"
--
-  location: Conings Brooke
+- location: Conings Brooke
   miles: "2"
--
-  location: Dean Court
+- location: Dean Court
   miles: "4½"
--
-  location: Godmersham
+- location: Godmersham
   miles: "5¼"
--
-  location: Hastingleigh
+- location: Hastingleigh
   miles: "8"
--
-  location: Hinxhill
+- location: Hinxhill
   miles: "3"
--
-  location: Kenardington
+- location: Kenardington
   miles: "7"
--
-  location: Kennington
+- location: Kennington
   miles: "2"
--
-  location: Kingsford Street
+- location: Kingsford Street
   miles: "1½"
--
-  location: Kingsnorth
+- location: Kingsnorth
   miles: "3"
--
-  location: Mount Norris, (Lord Rokeby)
+- location: Mount Norris, (Lord Rokeby)
   miles: "5"
--
-  location: New Street
+- location: New Street
   miles: "2½"
--
-  location: Plumbton
+- location: Plumbton
   miles: "2"
--
-  location: Sevington
+- location: Sevington
   miles: "2"
--
-  location: Shaddenden Lodge
+- location: Shaddenden Lodge
   miles: "3½"
--
-  location: Shadoxhurst
+- location: Shadoxhurst
   miles: "4½"
--
-  location: Sheldwick
+- location: Sheldwick
   miles: "9¼"
--
-  location: Shottington
+- location: Shottington
   miles: "3¼"
--
-  location: Smeeth
+- location: Smeeth
   miles: "5"
--
-  location: Snell Hatch
+- location: Snell Hatch
   miles: "2"
--
-  location: Stone Cross Green
+- location: Stone Cross Green
   miles: "3¼"
--
-  location: Tenterden
+- location: Tenterden
   miles: "12"
--
-  location: Warehorne
+- location: Warehorne
   miles: "6"
--
-  location: West Hauk
+- location: West Hauk
   miles: "1½"
--
-  location: Westwell
+- location: Westwell
   miles: "3¼"
--
-  location: Woodchurch
+- location: Woodchurch
   miles: "7"
--
-  location: Yousel
+- location: Yousel
   miles: "2½"

@@ -24,60 +24,41 @@ Telegraph station at Ventnor, 2 miles.
 Bonchurch, so called because the church is dedicated to St. Boniface. An exemplary young clergyman, the author of "Shadows of the Cross," and John Stirling, whose Life, written by Carlyle, has excited considerable interest, are buried in it. The road is overshadowed with trees, and passes a lake and the Pulpit Rock. There is a charming path from Shanklin to Bonchurch, through the Sand-slip. Boniface Down, near Ventnor, rises steeply up 700 or 800 ft above the sea.
 ----
 distances:
--
-  location: Appuldercombe
+- location: Appuldercombe
   miles: "2"
--
-  location: Beacon, The
+- location: Beacon, The
   miles: "1¼"
--
-  location: Binnel Point
+- location: Binnel Point
   miles: "1"
--
-  location: St. Boniface Down
+- location: St. Boniface Down
   miles: "1½"
--
-  location: Dunnose
+- location: Dunnose
   miles: "¾"
--
-  location: Godshill
+- location: Godshill
   miles: "3"
--
-  location: Lake, The
+- location: Lake, The
   miles: "2½"
--
-  location: Luccombe
+- location: Luccombe
   miles: "1"
--
-  location: Mill Cove
+- location: Mill Cove
   miles: "½"
--
-  location: Nettlecomb
+- location: Nettlecomb
   miles: "2"
--
-  location: Puckester Cove
+- location: Puckester Cove
   miles: "3½"
--
-  location: Pulpit Rock
+- location: Pulpit Rock
   miles: "1½"
--
-  location: Rind
+- location: Rind
   miles: "3½"
--
-  location: Sandford
+- location: Sandford
   miles: "2½"
--
-  location: Steephill
+- location: Steephill
   miles: "¾"
--
-  location: Steephill Cove
+- location: Steephill Cove
   miles: "½"
--
-  location: St. Lawrence
+- location: St. Lawrence
   miles: "2"
--
-  location: Ventnor
+- location: Ventnor
   miles: "2"
--
-  location: Wroncate
+- location: Wroncate
   miles: "¾"

@@ -40,78 +40,53 @@ Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by steam) fro
 **St. John's,** the seat of Sir R. Simeon, Bart.
 ----
 distances:
--
-  location: Apley
+- location: Apley
   miles: "¾"
--
-  location: Bamsley
+- location: Bamsley
   miles: "1½"
--
-  location: Binstead
+- location: Binstead
   miles: "¾"
--
-  location: Copping Bridge
+- location: Copping Bridge
   miles: "5½"
--
-  location: Fairy Hill
+- location: Fairy Hill
   miles: "1¼"
--
-  location: Fearlee
+- location: Fearlee
   miles: "5"
--
-  location: Fishburn Rock
+- location: Fishburn Rock
   miles: "2¾"
--
-  location: Haven Street
+- location: Haven Street
   miles: "2½"
--
-  location: Needles, The
+- location: Needles, The
   miles: "18"
--
-  location: Nettleston Point
+- location: Nettleston Point
   miles: "2"
--
-  location: Pier, The
+- location: Pier, The
   miles: "¼"
--
-  location: Place Street
+- location: Place Street
   miles: "½"
--
-  location: Portsmouth
+- location: Portsmouth
   miles: "8"
--
-  location: Priory, The
+- location: Priory, The
   miles: "¾"
--
-  location: Quarr Abbey
+- location: Quarr Abbey
   miles: "2"
--
-  location: Ryde House
+- location: Ryde House
   miles: "1½"
--
-  location: Ryde Park
+- location: Ryde Park
   miles: "1½"
--
-  location: St. Clare
+- location: St. Clare
   miles: "1½"
--
-  location: "St. John's"
+- location: "St. John's"
   miles: "1"
--
-  location: Stokes Bay
+- location: Stokes Bay
   miles: "3"
--
-  location: Troublefield
+- location: Troublefield
   miles: "¾"
--
-  location: West Cowes
+- location: West Cowes
   miles: "8"
--
-  location: West Mount
+- location: West Mount
   miles: "1½"
--
-  location: Whippingham
+- location: Whippingham
   miles: "3½"
--
-  location: White Mark
+- location: White Mark
   miles: "2½"

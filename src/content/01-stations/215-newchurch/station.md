@@ -22,54 +22,37 @@ Telegraph station at Newport, 6 miles.
 Newchurch, with its white spire, stands at the end of a short village, near the stream which runs into Brading harbour. The parish is the largest in the island, with a population of 14,003, stretching across it so as to take in both Ryde and Ventnor. Fine views on both sides of the Down, which is 6 miles from Ryde.
 ----
 distances:
--
-  location: Adgeton
+- location: Adgeton
   miles: "2"
--
-  location: Arreton
+- location: Arreton
   miles: "1½"
--
-  location: Arreton Street
+- location: Arreton Street
   miles: "1"
--
-  location: Brading
+- location: Brading
   miles: "3"
--
-  location: Chiverton
+- location: Chiverton
   miles: "1½"
--
-  location: Gatcombe House
+- location: Gatcombe House
   miles: "4"
--
-  location: Great Kennerley
+- location: Great Kennerley
   miles: "2½"
--
-  location: Long Down
+- location: Long Down
   miles: "3"
--
-  location: "Queen's Bower"
+- location: "Queen's Bower"
   miles: "1¼"
--
-  location: Rookley
+- location: Rookley
   miles: "3½"
--
-  location: Ryde
+- location: Ryde
   miles: "6"
--
-  location: Sandown and Sandford
+- location: Sandown and Sandford
   miles: "3"
--
-  location: Shitle Bridge
+- location: Shitle Bridge
   miles: "3½"
--
-  location: "Spicer's Hall"
+- location: "Spicer's Hall"
   miles: "1"
--
-  location: Stone
+- location: Stone
   miles: "1¼"
--
-  location: Strattle
+- location: Strattle
   miles: "2"
--
-  location: Winham
+- location: Winham
   miles: "2"

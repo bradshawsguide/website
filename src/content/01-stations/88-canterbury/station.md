@@ -38,93 +38,63 @@ Riding Gate is in Watling Street, on the old road from London, which Chaucer's p
 Canterbury has a Guildhall, sessions house, cavalry and other barracks, with several schools and hospitals. St. Nicholas's hospital, at Harbledown, was founded by Archbishop Lanfranc in the 11th century. That part of the neighbourhood near the Dover road, is dotted all over with fine scats.
 ----
 distances:
--
-  location: Adisham Down
+- location: Adisham Down
   miles: "5"
--
-  location: Bekesbourne
+- location: Bekesbourne
   miles: "3"
--
-  location: Beverley Park
+- location: Beverley Park
   miles: "1½"
--
-  location: Blean Church
+- location: Blean Church
   miles: "2"
--
-  location: Bridge
+- location: Bridge
   miles: "3"
--
-  location: Broad Oak Common
+- location: Broad Oak Common
   miles: "2"
--
-  location: Broom Park
+- location: Broom Park
   miles: "7"
--
-  location: Dene Park
+- location: Dene Park
   miles: "6"
--
-  location: Elensden
+- location: Elensden
   miles: "4½"
--
-  location: Gorsley Wood
+- location: Gorsley Wood
   miles: "4½"
--
-  location: Harbledown
+- location: Harbledown
   miles: "¾"
--
-  location: Heath Farm
+- location: Heath Farm
   miles: "1½"
--
-  location: Herne Common
+- location: Herne Common
   miles: "5"
--
-  location: Ickham
+- location: Ickham
   miles: "5"
--
-  location: Kingston
+- location: Kingston
   miles: "5"
--
-  location: Lee Park
+- location: Lee Park
   miles: "4½"
--
-  location: Littlebourne
+- location: Littlebourne
   miles: "4"
--
-  location: Mayton
+- location: Mayton
   miles: "2½"
--
-  location: Mote, The
+- location: Mote, The
   miles: "2"
--
-  location: Nackington
+- location: Nackington
   miles: "4"
--
-  location: Riabel Wood
+- location: Riabel Wood
   miles: "2"
--
-  location: South Street
+- location: South Street
   miles: "4½"
--
-  location: St. Dunstan
+- location: St. Dunstan
   miles: "1½"
--
-  location: St. Stephens
+- location: St. Stephens
   miles: "1½"
--
-  location: Staple Street
+- location: Staple Street
   miles: "4½"
--
-  location: Stone House
+- location: Stone House
   miles: "1½"
--
-  location: Stuppington Farm
+- location: Stuppington Farm
   miles: "2½"
--
-  location: Thannington
+- location: Thannington
   miles: "1½"
--
-  location: Way Street
+- location: Way Street
   miles: "5"
--
-  location: Wingham
+- location: Wingham
   miles: "6"
