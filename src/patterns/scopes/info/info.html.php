@@ -1,8 +1,8 @@
 <dl class="s-info">
 <? foreach($p->info()->yaml() as $info): ?>
-  <dt><?= $info['term'] ?></dt>
+  <dt><?= smartypants($info['term']) ?></dt>
   <? if(isset($info['desc'])): ?>
-  <dd><?= $info['desc'] ?></dd>
+  <dd><?= smartypants($info['desc']) ?></dd>
   <? endif ?>
 <? endforeach ?>
 </dl>
