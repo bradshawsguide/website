@@ -4,14 +4,14 @@
   padding-bottom: 3rem;
 
   a {
-    color: $c-brand-crimson;
+    color: $c-link;
 
     &:hover {
-      color: lighten($c-brand-crimson, 20%);
+      color: $c-link--hover;
     }
 
     &:active {
-      color: darken($c-brand-yellow, 10%);
+      color: $c-link--active;
     }
   }
 }

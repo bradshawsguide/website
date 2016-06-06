@@ -13,8 +13,8 @@ $v-breakpoint--c: 40rem; // 640px
 $v-breakpoint--d: $v-max-width;
 
 // Colours
-$c-brand-yellow: hsb(24, 80, 100);
 $c-brand-crimson: hsb(00, 80, 053);
+$c-brand-mustard: hsb(24, 80, 100);
 
 $c-neutral--darkest: hsb(24, 40, 021);
 $c-neutral--dark: hsb(24, 40, 028);
@@ -23,12 +23,12 @@ $c-neutral--light: hsb(24, 01, 091);
 $c-neutral--lightest: hsb(24, 01, 100);
 
 // Colour assignments
-$c-focus: $c-brand-yellow;
-$c-highlight: $c-brand-yellow;
+$c-focus: $c-brand-mustard;
+$c-highlight: rgba($c-brand-mustard, 0.2);
 
 $c-link: $c-brand-crimson;
-$c-link--hover: $c-brand-crimson;
-$c-link--active: $c-brand-crimson;
+$c-link--hover: lighten($c-brand-crimson, 20%);
+$c-link--active: darken($c-brand-mustard, 10%);
 
 // Fonts
 $f-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
