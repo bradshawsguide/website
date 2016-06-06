@@ -47,6 +47,7 @@
   },
   "private": true,
   "dependencies": {
-    "fontfaceobserver": "^1.7.1"
+    "fontfaceobserver": "^1.7.1",
+    "turbolinks": "^5.0.0-beta5"
   }
 }

@@ -38,3 +38,6 @@ var FontFaceObserver = require('fontfaceobserver');
   });
 
 }(this, this.document));
+
+var Turbolinks = require("turbolinks")
+Turbolinks.start()
