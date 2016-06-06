@@ -1,0 +1,9 @@
+.c-search {
+  background-color: $c-brand-mustard;
+  padding-top: 1.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.c-search__main {
+  @include l--container;
+}

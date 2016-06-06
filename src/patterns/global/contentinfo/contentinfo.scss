@@ -47,11 +47,21 @@
 
 .c-icon {
   align-items: center;
-  border: 0.03125rem solid currentColor;
+  border: 0.0625rem solid transparent;
+  background-color: $c-neutral--dark;
   border-radius: 100%;
   display: inline-flex;
   height: 2.5rem;
   justify-content: center;
+  margin-top: -0.25rem;
   margin-left: 0.5rem;
   width: 2.5rem;
+
+  &:hover {
+    border-color: $c-brand-mustard;
+
+    svg {
+      fill: $c-brand-mustard;
+    }
+  }
 }

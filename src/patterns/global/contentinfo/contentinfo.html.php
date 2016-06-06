@@ -18,7 +18,7 @@
     <p class="c-contentinfo__rights">
       <small>
         Design: © <time datetime="2016" title="2016">MMXVI</time> <a rel="author" href="https://paulrobertlloyd.com">Paul Robert Lloyd</a>.
-        Content:&nbsp;<a rel="license" href="<?= $site->license_url() ?>">Public&nbsp;Domain</a>
+        Content:&#160;<a rel="license" href="<?= $site->license_url() ?>">Public&#160;Domain</a>
       </small>
     </p>
   </div>
