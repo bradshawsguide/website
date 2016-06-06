@@ -1,0 +1,11 @@
+.u-block {
+  display: block;
+
+  &:hover {
+    text-decoration: none;
+  }
+
+  &:hover .u-block__link {
+    text-decoration: underline;
+  }
+}

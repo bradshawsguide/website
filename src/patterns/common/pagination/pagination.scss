@@ -1,10 +1,14 @@
-.c-traverse {
+.c-pagination {
   @include fs--caption;
   display: flex;
   padding: units(1) 0;
 }
 
-.c-traverse__link {
+.c-pagination__title {
+  margin-right: auto;
+}
+
+.c-pagination__link {
   font-weight: 600;
 
   &:last-of-type {
@@ -12,10 +16,10 @@
   }
 }
 
-.c-traverse__link[rel="prev"]::before {
+.c-pagination__link[rel="prev"]::before {
   content: '← ';
 }
 
-.c-traverse__link[rel="next"]::after {
+.c-pagination__link[rel="next"]::after {
   content: ' →';
 }

@@ -2,11 +2,10 @@
 
 <section class="c-page">
 <?
-  pattern('page/header', [
-    'p' => $page,
-    'title' => "Search results for ‘".esc($query)."’"
-  ]);
-
+  pattern('page/header', ['p' => $page]);
+?>
+<div class="c-page__content">
+<?
   if($results && $results->count()) {
     pattern('common/results');
 
@@ -17,6 +16,7 @@
     echo "<p>No results for <strong>".esc($query)."</strong></p>";
   }
 ?>
+</div>
 </section>
 
 <? snippet('foot') ?>

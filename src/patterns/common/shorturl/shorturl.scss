@@ -1,7 +1,7 @@
 .c-shorturl {
   @include fs--caption;
   display: flex;
-  margin-bottom: 0.5rem;
+  padding: units(1) 0;
 }
 
 .c-shorturl__title {

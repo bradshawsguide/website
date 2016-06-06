@@ -3,8 +3,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  border-top: 1px solid $c-neutral--mid;
-  padding-top: 0.5rem;
+  border-top: 1px solid $c-rule;
 
   @media screen and (min-width: $v-breakpoint--b) {
     flex-direction: row;

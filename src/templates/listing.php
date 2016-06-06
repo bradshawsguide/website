@@ -4,8 +4,8 @@
 <?
   pattern('page/header', ['p' => $page]);
 
-  pattern('common/list', [
-    'items' => $page->children()
+  pattern('section/index', [
+    'items' => $page->children()->visible()
   ]);
 ?>
 </section>

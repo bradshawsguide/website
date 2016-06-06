@@ -34,15 +34,14 @@
     margin-left: 2rem;
   }
 
-  @media screen and (min-width: $v-breakpoint--c) {
+  @media screen and (min-width: $v-breakpoint--d) {
     max-width: 80vw;
     margin-right: auto;
     margin-left: auto;
   }
 
-  @media screen and (min-width: $v-breakpoint--d) {
+  @media screen and (min-width: $v-breakpoint--e) {
     width: 70vw;
-    max-width: 60rem;
   }
 }
 
@@ -55,13 +54,13 @@
     margin-left: -2rem;
   }
 
-  @media screen and (min-width: $v-breakpoint--c) {
+  @media screen and (min-width: $v-breakpoint--d) {
     max-width: 100vw;
     margin-right: -10vw;
     margin-left: -10vw;
   }
 
-  @media screen and (min-width: $v-breakpoint--d) {
+  @media screen and (min-width: $v-breakpoint--e) {
     margin-right: -15vw;
     margin-left: -15vw;
   }
@@ -109,14 +108,14 @@
   font-size: 1rem; // 16px
   line-height: (24 / 16);
 
-  @media screen and (min-width: $v-breakpoint--c) {
+  @media screen and (min-width: $v-breakpoint--b) {
     font-size: 1.125rem; // 18px
     line-height: (28 / 18);
   }
 
-  @media screen and (min-width: $v-breakpoint--d) {
-    font-size: 1.25rem; // 20px
-    line-height: (32 / 20);
+  @media screen and (min-width: $v-breakpoint--c) {
+    font-size: 1.3125rem; // 21px
+    line-height: (35 / 21);
   }
 }
 

@@ -15,5 +15,10 @@
 
 .c-banner__title {
   color: $c-brand-mustard;
-  text-decoration: none;
+  opacity: 0.9;
+
+  &:hover {
+    text-decoration: none;
+    opacity: 1;
+  }
 }

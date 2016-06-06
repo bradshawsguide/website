@@ -1,7 +1,7 @@
 .c-section {
   margin-bottom: 3rem;
   padding-top: 0.5rem;
-  border-top: 1px solid $c-neutral--mid;
+  border-top: 1px solid $c-rule;
 }
 
 .c-section--index {
@@ -10,8 +10,7 @@
   .c-section__title {
     flex: 0 0 auto;
     padding-right: 1rem;
-    font-family: $f-block;
-    font-size: 2.5rem;
+    font: 2.5rem/1 $f-block;
   }
 
   .c-list {

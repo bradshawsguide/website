@@ -1,18 +1,16 @@
 <nav class="c-pagination">
-  <p class="c-pagination__count">
+  <h1 class="c-pagination__title">
     <strong><?= $pagination->items() ?></strong> results.
     <? if($pagination->hasNextPage()): ?>
       Showing <strong><?= $pagination->numStart() ?></strong> - <strong><?= $pagination->numEnd() ?></strong>
     <? endif ?>
-  </p>
+  </h1>
 
-  <p class="c-pagination__pages">
-    <? if($pagination->hasPrevPage()): ?>
-      <a rel="prev" href="<?= $pagination->prevPageURL() ?>">Previous</a>
-    <? endif ?>
+<? if($pagination->hasPrevPage()): ?>
+  <a class="c-traverse__link" rel="prev" href="<?= $pagination->prevPageURL() ?>">Previous</a>
+<? endif ?>
 
-    <? if($pagination->hasNextPage()): ?>
-      <a rel="next" href="<?= $pagination->nextPageURL() ?>">Next</a>
-    <? endif ?>
-  </p>
+<? if($pagination->hasNextPage()): ?>
+  <a class="c-traverse__link" rel="next" href="<?= $pagination->nextPageURL() ?>">Next</a>
+<? endif ?>
 </nav>

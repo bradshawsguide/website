@@ -6,8 +6,8 @@ return function($site, $pages, $page) {
   $results = $results->paginate(10);
 
   return [
-    'query'   => $query,
-    'results' => $results,
+    'query'      => $query,
+    'results'    => $results,
     'pagination' => $results->pagination()
   ];
 };

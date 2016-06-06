@@ -1,0 +1,27 @@
+.c-result {
+  border-bottom: 1px solid $c-rule;
+}
+
+.c-result__title {
+  @include fs--heading;
+  padding-top: units(2);
+}
+
+.c-result__type {
+  @include fs--caption;
+  margin-left: 0.25rem;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: capitalize;
+  letter-spacing: 0;
+  color: $c-neutral--mid;
+}
+
+.c-result__desc {
+  color: $c-neutral--darkest;
+}
+
+.c-result__url {
+  @include fs--caption;
+  padding-bottom: units(2);
+}

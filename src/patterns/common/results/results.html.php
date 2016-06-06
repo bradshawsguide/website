@@ -1,28 +1,16 @@
-<ul class="c-results">
 <? foreach($results as $result): ?>
-  <?
-  $type = $result->parent()->title();
-  if($type == "Stations"):
-    $type = "Station";
-  elseif($type == "Routes"):
-    $type = "Route";
-  elseif($type == "Regions"):
-    $type = "Region";
-  elseif($type == "Railway Companies"):
-    $type = "Railway Company";
-  endif
-  ?>
-  <li class="c-results__item">
-    <a class="c-results__result" href="<?= $result->url() ?>">
-      <h2 class="c-results__title">
-        <?= html($result->title()); ?>
-        <em class="c-results__type"><?= $type ?></em>
-      </h2>
-      <div class="c-results__desc s-prose">
-        <p><?= excerpt($result->text(), $length=140); ?></p>
-        <?= server::get('server_name'); ?><?= $result->url() ?>
-      </div>
-    </a>
-  </li>
+<article class="c-result">
+  <a class="u-block" href="<?= $result->url() ?>">
+    <h2 class="c-result__title">
+      <span class="u-block__link"><?= html($result->title()); ?></span>
+      <span class="u-hidden">(</span>
+      <em class="c-result__type"><?= str::ucfirst($result->content()->name()) ?></em>
+      <span class="u-hidden">)</span>
+    </h2>
+    <div class="c-result__desc s-prose">
+      <p><?= excerpt($result->text(), $length=140); ?></p>
+    </div>
+    <p class="c-result__url"><?= server::get('server_name'); ?><?= $result->url() ?></p>
+  </a>
+</article>
 <? endforeach ?>
-</ul>

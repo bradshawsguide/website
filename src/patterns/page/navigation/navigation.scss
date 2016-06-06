@@ -1,0 +1,7 @@
+.c-page__navigation-item {
+  margin-right: 1rem;
+
+  &[aria-current] {
+    font-weight: bold;
+  }
+}
