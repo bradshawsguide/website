@@ -39,5 +39,6 @@ var FontFaceObserver = require('fontfaceobserver');
 
 }(this, this.document));
 
-var Turbolinks = require("turbolinks")
-Turbolinks.start()
+// TODO: Only load turbolinks when not running on port 3000 (?)
+// var Turbolinks = require("turbolinks");
+// Turbolinks.start();

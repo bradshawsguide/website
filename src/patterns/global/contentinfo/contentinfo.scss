@@ -5,7 +5,7 @@
   flex: 0 0 auto;
   margin-top: auto;
   order: 2;
-  padding: 1rem;
+  padding: 1rem 0;
   position: relative;
 
   &::before {
@@ -53,7 +53,7 @@
   display: inline-flex;
   height: 2.5rem;
   justify-content: center;
-  margin-top: -0.25rem;
+  margin-top: -0.125rem;
   margin-left: 0.5rem;
   width: 2.5rem;
 
