@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-gb" prefix="og: http://ogp.me/ns#">
+<html lang="en-gb" prefix="og: http://ogp.me/ns#" class="no-js">
 <head>
   <meta charset="utf-8"/>
 

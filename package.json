@@ -18,7 +18,6 @@
   "scripts": {
     "prestart": "npm install",
     "start": "node_modules/.bin/gulp start",
-    "build": "node_modules/.bin/gulp build",
     "deploy": "node_modules/.bin/gulp deploy",
     "dev": "node_modules/.bin/gulp dev"
   },
@@ -34,6 +33,9 @@
   },
   "devDependencies": {
     "autoprefixer": "latest",
+    "babel-core": "latest",
+    "babel-loader": "latest",
+    "babel-preset-es2015-native-modules": "latest",
     "browser-sync": "latest",
     "del": "latest",
     "gulp": "gulpjs/gulp#4.0",
@@ -42,12 +44,12 @@
     "gulp-sass": "latest",
     "gulp-sass-glob": "latest",
     "gulp-sourcemaps": "latest",
-    "postcss-assets": "latest",
+    "webpack": "^2.1.0-beta",
     "webpack-stream": "^3.2.0"
   },
   "private": true,
   "dependencies": {
-    "fontfaceobserver": "^1.7.1",
-    "turbolinks": "^5.0.0-beta5"
+    "fontfaceobserver": "latest",
+    "turbolinks": "^5.0.0-beta"
   }
 }

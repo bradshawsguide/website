@@ -4,7 +4,6 @@
 const config = require('./package.json').config;
 
 // Dependancies
-//const assets = require('postcss-assets');
 const autoprefixer = require('autoprefixer');
 const browserSync = require('browser-sync').create();
 const del = require('del');
@@ -14,7 +13,8 @@ const postcss = require('gulp-postcss');
 const sass = require('gulp-sass');
 const sassGlob = require('gulp-sass-glob');
 const sourcemaps = require('gulp-sourcemaps');
-const webpack = require('webpack-stream');
+const webpack = require('webpack');
+const webpackStream = require('webpack-stream');
 
 // Tasks
 function clean() {
@@ -34,11 +34,27 @@ function icons() {
 
 function scripts() {
   return gulp.src(config.src.assets + 'scripts/app.js')
-    .pipe(webpack({
+    .pipe(webpackStream({
       output: {
         filename: 'app.js'
-      }
-    }))
+      },
+      module: {
+        loaders: [{
+          test: /\.js$/,
+          loader: "babel",
+          query: {
+            presets: ['es2015-native-modules'],
+          }
+        }]
+      },
+      devtool: 'source-map',
+      plugins: [
+        new webpack.optimize.UglifyJsPlugin({
+          sourceMap: true,
+          mangle: false
+        })
+      ]
+    }, webpack))
     .pipe(gulp.dest(config.dest.assets));
 }
 

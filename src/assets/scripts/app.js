@@ -1,44 +1,9 @@
-var FontFaceObserver = require('fontfaceobserver');
+// Load dependancies
+import checkJS from './modules/has-js';
+import loadWebfonts from './modules/webfont-loader';
+import enhanceLinks from './modules/links';
 
-(function (win, doc) {
-  'use strict';
-
-  if (document.documentElement.className.indexOf('fonts-loaded') > -1) {
-    return;
-  }
-
-  var serif_regular = new FontFaceObserver('Linux Libertine', {
-    weight: 'normal',
-    style: 'normal'
-  });
-
-  var serif_italic = new FontFaceObserver('Linux Libertine', {
-    weight: 'normal',
-    style: 'italic'
-  });
-
-  var slab = new FontFaceObserver('Kameron', {
-    weight: 'bold',
-    style: 'normal'
-  });
-
-  var block = new FontFaceObserver('League Gothic', {
-    weight: 'bold',
-    style: 'normal'
-  });
-
-  Promise.all([
-    serif_regular.load(),
-    serif_italic.load(),
-    slab.load(),
-    block.load()
-  ]).then(function () {
-    document.documentElement.className += ' fonts-loaded';
-    //window.enhance.cookie('fonts-loaded', !0, 7);
-  });
-
-}(this, this.document));
-
-// TODO: Only load turbolinks when not running on port 3000 (?)
-// var Turbolinks = require("turbolinks");
-// Turbolinks.start();
+// Run
+checkJS();
+loadWebfonts();
+enhanceLinks();
