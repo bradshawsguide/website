@@ -4,6 +4,8 @@ title: Feniton
 ----
 region: Devon
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

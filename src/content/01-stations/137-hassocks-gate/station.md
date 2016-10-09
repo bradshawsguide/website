@@ -4,6 +4,8 @@ title: Hassock's Gate
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

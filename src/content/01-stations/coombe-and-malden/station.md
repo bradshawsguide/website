@@ -6,6 +6,8 @@ short_title: Coombe & Malden
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

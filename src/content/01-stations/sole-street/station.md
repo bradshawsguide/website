@@ -4,6 +4,8 @@ title: Sole Street
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

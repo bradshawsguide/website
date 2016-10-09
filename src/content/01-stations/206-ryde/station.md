@@ -4,6 +4,8 @@ title: Ryde
 ----
 region: Isle of Wight
 ----
+location: 
+----
 company:
 ----
 route:

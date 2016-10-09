@@ -4,6 +4,8 @@ title: Newchurch
 ----
 region: Isle of Wight
 ----
+location: 
+----
 company:
 ----
 route:

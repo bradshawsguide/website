@@ -4,6 +4,8 @@ title: Newport
 ----
 region: Isle of Wight
 ----
+location: 
+----
 company:
 ----
 route:

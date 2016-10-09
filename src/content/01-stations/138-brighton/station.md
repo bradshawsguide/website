@@ -4,6 +4,8 @@ title: Brighton
 ----
 region: Sussex
 ----
+location: 50.8288,0.1411
+----
 company:
 - london-brighton-and-south-coast
 ----

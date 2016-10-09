@@ -4,6 +4,8 @@ title: Itchen Abbas
 ----
 region: Hampshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

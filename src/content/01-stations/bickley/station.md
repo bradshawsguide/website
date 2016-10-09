@@ -4,6 +4,8 @@ title: Bickley
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

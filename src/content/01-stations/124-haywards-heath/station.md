@@ -4,6 +4,8 @@ title: Hayward's Heath
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

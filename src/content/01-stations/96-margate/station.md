@@ -4,6 +4,8 @@ title: Margate
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

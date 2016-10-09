@@ -4,6 +4,8 @@ title: Brentford
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

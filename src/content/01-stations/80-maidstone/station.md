@@ -4,6 +4,8 @@ title: Maidstone
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

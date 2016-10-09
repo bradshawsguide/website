@@ -4,6 +4,8 @@ title: Greenhithe
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

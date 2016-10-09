@@ -4,6 +4,8 @@ title: Belvedere
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

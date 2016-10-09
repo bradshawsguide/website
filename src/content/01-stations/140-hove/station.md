@@ -4,6 +4,8 @@ title: Hove
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

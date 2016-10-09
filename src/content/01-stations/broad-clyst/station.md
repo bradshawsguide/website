@@ -4,6 +4,8 @@ title: Broad Clyst
 ----
 region: Devon
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

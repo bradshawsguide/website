@@ -4,6 +4,8 @@ title: Elmer's End
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - mid-kent
 ----

@@ -4,6 +4,8 @@ title: Fulwell
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

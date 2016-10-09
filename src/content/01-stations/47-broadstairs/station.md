@@ -4,6 +4,8 @@ title: Broadstairs
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

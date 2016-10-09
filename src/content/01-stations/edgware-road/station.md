@@ -6,6 +6,8 @@ short_title: Edgware Rd.
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - hampstead-junction
 ----

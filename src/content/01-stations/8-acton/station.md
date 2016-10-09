@@ -4,6 +4,8 @@ title: Acton
 ----
 region: Middlesex
 ----
+location: 51.5087,0.263
+----
 company:
 - north-and-south-western-junction
 ----

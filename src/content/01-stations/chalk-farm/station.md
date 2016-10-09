@@ -4,6 +4,8 @@ title: Chalk Farm
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - north-london
 ----

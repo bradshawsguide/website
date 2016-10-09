@@ -4,6 +4,8 @@ title: Dalston
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - north-london
 ----

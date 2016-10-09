@@ -6,6 +6,8 @@ short_title: Camden Rd.
 ----
 region: Middlesex
 ----
+location: 51.5414,-0.135
+----
 company:
 - north-london
 ----

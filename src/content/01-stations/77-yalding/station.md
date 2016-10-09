@@ -4,6 +4,8 @@ title: Yalding
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

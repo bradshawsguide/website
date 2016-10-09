@@ -4,6 +4,8 @@ title: Teynham
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

@@ -4,6 +4,8 @@ title: Erith
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

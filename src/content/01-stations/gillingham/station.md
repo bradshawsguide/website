@@ -4,6 +4,8 @@ title: Gillingham
 ----
 region: Dorsetshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

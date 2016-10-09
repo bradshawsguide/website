@@ -4,6 +4,8 @@ title: Kenley
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - south-eastern
 ----

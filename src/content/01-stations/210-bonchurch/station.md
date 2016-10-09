@@ -4,6 +4,8 @@ title: Bonchurch
 ----
 region: Isle of Wight
 ----
+location: 
+----
 company:
 ----
 route:

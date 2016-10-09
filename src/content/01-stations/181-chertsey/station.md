@@ -4,6 +4,8 @@ title: Chertsey
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

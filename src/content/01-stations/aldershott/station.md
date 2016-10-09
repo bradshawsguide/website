@@ -6,6 +6,8 @@ short_title: Aldershott
 ----
 region: Hampshire
 ----
+location: 
+----
 company:
 - south-eastern
 ----

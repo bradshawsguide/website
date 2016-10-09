@@ -4,6 +4,8 @@ title: Hampstead Heath
 ----
 region: Middlesex
 ----
+location: 51.5553,0.1654
+----
 company:
 - hampstead-junction
 ----

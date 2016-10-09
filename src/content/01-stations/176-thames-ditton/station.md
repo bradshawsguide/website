@@ -4,6 +4,8 @@ title: Thames Ditton
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

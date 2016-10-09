@@ -4,6 +4,8 @@ title: Hythe
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

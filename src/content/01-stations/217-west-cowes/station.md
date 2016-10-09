@@ -4,6 +4,8 @@ title: West Cowes
 ----
 region: Isle of Wight
 ----
+location: 
+----
 company:
 ----
 route:

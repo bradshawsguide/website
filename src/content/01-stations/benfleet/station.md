@@ -4,6 +4,8 @@ title: Benfleet
 ----
 region: Essex
 ----
+location: 
+----
 company:
 - london-tilbury-and-southend
 ----

@@ -4,6 +4,8 @@ title: Kentish Town
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - hampstead-junction
 ----

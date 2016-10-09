@@ -4,6 +4,8 @@ title: Slinford
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

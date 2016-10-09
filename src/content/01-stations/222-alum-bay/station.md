@@ -4,6 +4,8 @@ title: Alum Bay
 ----
 region: Isle of Wight
 ----
+location: 
+----
 company:
 ----
 route:

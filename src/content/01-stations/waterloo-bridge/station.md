@@ -4,6 +4,8 @@ title: Waterloo Bridge
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

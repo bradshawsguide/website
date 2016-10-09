@@ -4,6 +4,8 @@ title: Gray's Thurrocks
 ----
 region: Essex
 ----
+location: 51.476,0.322
+----
 company:
 - london-tilbury-and-southend
 ----

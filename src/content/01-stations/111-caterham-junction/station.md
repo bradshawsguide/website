@@ -6,6 +6,8 @@ short_title: Caterham Jct.
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - south-eastern
 - london-brighton-and-south-coast

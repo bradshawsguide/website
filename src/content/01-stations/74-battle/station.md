@@ -4,6 +4,8 @@ title: Battle
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - south-eastern
 ----

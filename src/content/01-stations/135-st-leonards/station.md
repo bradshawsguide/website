@@ -4,6 +4,8 @@ title: St. Leonards
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - south-eastern
 - london-brighton-and-south-coast

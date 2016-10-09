@@ -4,6 +4,8 @@ title: Virginia Water
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

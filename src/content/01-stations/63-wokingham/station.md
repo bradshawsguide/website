@@ -4,6 +4,8 @@ title: Wokingham
 ----
 region: Berkshire
 ----
+location: 
+----
 company:
 - south-eastern
 - london-and-south-western

@@ -4,6 +4,8 @@ title: Ham Street
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

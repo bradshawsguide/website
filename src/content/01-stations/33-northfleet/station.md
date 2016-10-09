@@ -4,6 +4,8 @@ title: Northfleet
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

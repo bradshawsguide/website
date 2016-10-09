@@ -4,6 +4,8 @@ title: Shepherd's Well
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

@@ -4,6 +4,8 @@ title: Yarmouth
 ----
 region: Isle of Wight
 ----
+location: 
+----
 company:
 ----
 route:

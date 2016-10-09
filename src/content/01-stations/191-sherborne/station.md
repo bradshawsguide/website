@@ -4,6 +4,8 @@ title: Sherborne
 ----
 region: Somerset
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

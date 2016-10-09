@@ -4,6 +4,8 @@ title: Woolwich Dock
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

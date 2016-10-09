@@ -4,6 +4,8 @@ title: Hackney
 ----
 region: Middlesex
 ----
+location: 51.5472,-0.0578
+----
 company:
 - north-london
 ----

@@ -4,6 +4,8 @@ title: Ashford
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

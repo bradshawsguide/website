@@ -4,6 +4,8 @@ title: Robertsbridge
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - south-eastern
 ----

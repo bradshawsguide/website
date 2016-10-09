@@ -14,6 +14,48 @@ When developing the site, you may want assets automatically compiled and the bro
 
 * `gulp dev`
 
+## Running locally with HTTPS
+To run with HTTPS locally on macOS, you should follow the setup [as described here][5]. To create the required SSL certificates, follow these steps:
+
+1. Open Terminal.app
+2. Change into the correct directory: `cd Sites/bradshawsguide/etc/ssl`
+3. Configure SSL:
+
+  ```
+  cat > openssl.cnf <<-EOF
+    [req]
+    distinguished_name = req_distinguished_name
+    x509_extensions = v3_req
+    prompt = no
+    [req_distinguished_name]
+    CN = *.bradshawsguide.dev
+    [v3_req]
+    keyUsage = keyEncipherment, dataEncipherment
+    extendedKeyUsage = serverAuth
+    subjectAltName = @alt_names
+    [alt_names]
+    DNS.1 = *.bradshawsguide.dev
+    DNS.2 = bradshawsguide.dev
+  EOF
+  ```
+
+4. Create the certificate files:
+
+  ```
+  openssl req \
+    -new \
+    -newkey rsa:2048 \
+    -sha1 \
+    -days 3650 \
+    -nodes \
+    -x509 \
+    -keyout ssl.key \
+    -out ssl.crt \
+    -config openssl.cnf
+  ```
+
+5. Delete the configuration file: `rm openssl.cnf`
+
 ## Repo structure
 Sometimes it’s helpful to know what all these files are for…
 

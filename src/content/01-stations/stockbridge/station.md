@@ -4,6 +4,8 @@ title: Stockbridge
 ----
 region: Hampshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

@@ -4,6 +4,8 @@ title: Earley
 ----
 region: Berkshire
 ----
+location: 
+----
 company:
 - south-eastern
 ----

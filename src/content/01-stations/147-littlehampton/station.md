@@ -4,6 +4,10 @@ title: Littlehampton
 ----
 region: Sussex
 ----
+location: 50.8098,-0.5459
+----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

@@ -4,6 +4,8 @@ title: Southend
 ----
 region: Essex
 ----
+location: 51.5375,0.7116
+----
 company:
 - london-tilbury-and-southend
 ----

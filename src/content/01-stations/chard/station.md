@@ -4,6 +4,8 @@ title: Chard
 ----
 region: Somerset
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

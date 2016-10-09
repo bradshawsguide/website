@@ -4,6 +4,8 @@ title: Woolwich
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

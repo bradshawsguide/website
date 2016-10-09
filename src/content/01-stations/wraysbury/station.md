@@ -4,6 +4,8 @@ title: Wraysbury
 ----
 region: Berkshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

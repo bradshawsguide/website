@@ -4,6 +4,8 @@ title: Shoreditch
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - north-london
 ----

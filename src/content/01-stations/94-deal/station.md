@@ -4,6 +4,8 @@ title: Deal
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

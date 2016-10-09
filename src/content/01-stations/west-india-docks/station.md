@@ -4,6 +4,8 @@ title: West India Docks
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - london-and-blackwall
 ----

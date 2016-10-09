@@ -4,6 +4,8 @@ title: Banstead
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

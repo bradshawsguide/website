@@ -4,6 +4,8 @@ title: Reading Southern
 ----
 region: Berkshire
 ----
+location: 
+----
 company:
 - south-eastern
 - london-and-south-western

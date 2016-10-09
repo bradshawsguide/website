@@ -6,6 +6,8 @@ short_title: Ashford (Middx.)
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

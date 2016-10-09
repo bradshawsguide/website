@@ -4,6 +4,8 @@ title: Temple Ewell
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

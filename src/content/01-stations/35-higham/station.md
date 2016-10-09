@@ -4,6 +4,8 @@ title: Higham
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

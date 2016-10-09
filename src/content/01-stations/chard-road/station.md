@@ -6,6 +6,8 @@ short_title: Chard Rd.
 ----
 region: Somerset
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

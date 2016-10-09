@@ -4,6 +4,8 @@ title: Bromley
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-tilbury-and-southend
 - london-chatham-and-dover

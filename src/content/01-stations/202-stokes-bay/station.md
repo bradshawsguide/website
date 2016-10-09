@@ -4,6 +4,8 @@ title: Stokes Bay
 ----
 region: Hampshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

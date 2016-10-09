@@ -4,6 +4,8 @@ title: Honor Oak
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

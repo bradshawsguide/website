@@ -4,6 +4,8 @@ title: Aylesford
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

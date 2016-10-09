@@ -4,6 +4,8 @@ title: Whitstable
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 - south-eastern

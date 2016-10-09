@@ -4,6 +4,8 @@ title: Victoria Park
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - north-london
 ----

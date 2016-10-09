@@ -4,6 +4,8 @@ title: Dinton
 ----
 region: Wiltshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

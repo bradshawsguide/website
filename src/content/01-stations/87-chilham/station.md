@@ -4,6 +4,8 @@ title: Chilham
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

@@ -4,6 +4,8 @@ title: Folkestone
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

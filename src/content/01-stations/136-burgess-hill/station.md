@@ -4,6 +4,8 @@ title: Burgess Hill
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

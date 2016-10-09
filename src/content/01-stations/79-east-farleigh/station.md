@@ -4,6 +4,8 @@ title: East Farleigh
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

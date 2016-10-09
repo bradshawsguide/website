@@ -4,6 +4,8 @@ title: Herne Bay
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

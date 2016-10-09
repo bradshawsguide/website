@@ -4,6 +4,8 @@ title: Plumstead
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

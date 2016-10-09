@@ -4,6 +4,8 @@ title: West Croydon
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

@@ -4,6 +4,8 @@ title: Plaistow
 ----
 region: Essex
 ----
+location: 
+----
 company:
 - london-tilbury-and-southend
 ----

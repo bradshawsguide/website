@@ -6,6 +6,8 @@ short_title: Cuxton
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

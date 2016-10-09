@@ -4,6 +4,8 @@ title: Shalford
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - south-eastern
 ----

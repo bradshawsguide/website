@@ -4,6 +4,8 @@ title: Leigh
 ----
 region: Essex
 ----
+location: 51.541,0.64
+----
 company:
 - london-tilbury-and-southend
 ----

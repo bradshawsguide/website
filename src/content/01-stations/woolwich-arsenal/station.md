@@ -4,6 +4,8 @@ title: Woolwich Arsenal
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

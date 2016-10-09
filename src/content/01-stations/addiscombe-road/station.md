@@ -6,6 +6,8 @@ short_title: Addicombe Rd.
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - mid-kent
 ----

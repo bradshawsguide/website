@@ -4,6 +4,8 @@ title: Sturry
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

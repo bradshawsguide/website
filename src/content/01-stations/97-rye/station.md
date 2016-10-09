@@ -4,6 +4,8 @@ title: Rye
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - south-eastern
 ----

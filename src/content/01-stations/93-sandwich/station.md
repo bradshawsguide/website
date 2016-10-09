@@ -4,6 +4,8 @@ title: Sandwich
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

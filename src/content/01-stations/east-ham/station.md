@@ -4,6 +4,8 @@ title: East Ham
 ----
 region: Essex
 ----
+location: 
+----
 company:
 - london-tilbury-and-southend
 ----

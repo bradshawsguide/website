@@ -4,6 +4,8 @@ title: Edenbridge
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

@@ -4,6 +4,8 @@ title: Honiton
 ----
 region: Devon
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

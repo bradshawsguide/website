@@ -4,6 +4,8 @@ title: Sturminster
 ----
 region: Dorsetshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

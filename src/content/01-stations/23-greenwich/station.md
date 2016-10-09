@@ -4,6 +4,8 @@ title: Greenwich
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

@@ -4,6 +4,8 @@ title: Winchelsea
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - south-eastern
 ----

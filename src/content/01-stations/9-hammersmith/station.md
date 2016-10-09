@@ -4,6 +4,8 @@ title: Hammersmith
 ----
 region: Middlesex
 ----
+location: 51.4935,-0.2477
+----
 company:
 - north-and-south-western-junction
 ----

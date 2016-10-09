@@ -4,6 +4,8 @@ title: Ringwood
 ----
 region: Hampshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

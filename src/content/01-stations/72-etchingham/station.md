@@ -4,6 +4,8 @@ title: Etchingham
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - south-eastern
 ----

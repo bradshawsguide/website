@@ -4,6 +4,8 @@ title: Kingston
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

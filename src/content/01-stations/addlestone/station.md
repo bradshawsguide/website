@@ -4,6 +4,8 @@ title: Addlestone
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

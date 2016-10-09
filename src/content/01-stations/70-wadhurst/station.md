@@ -4,6 +4,8 @@ title: Wadhurst
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - south-eastern
 ----

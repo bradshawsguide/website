@@ -6,6 +6,8 @@ short_title: Poole Jct.
 ----
 region: Dorsetshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

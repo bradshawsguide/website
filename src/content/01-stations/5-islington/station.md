@@ -4,6 +4,8 @@ title: Islington
 ----
 region: Middlesex
 ----
+location: 51.5458,0.1050
+----
 company:
 - north-london
 ----

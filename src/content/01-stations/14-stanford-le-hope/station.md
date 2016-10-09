@@ -4,6 +4,8 @@ title: Stanford-le-Hope
 ----
 region: Essex
 ----
+location: 51.514,0.423
+----
 company:
 - london-tilbury-and-southend
 ----

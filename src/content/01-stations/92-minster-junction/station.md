@@ -6,6 +6,8 @@ short_title: Minster Jct.
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

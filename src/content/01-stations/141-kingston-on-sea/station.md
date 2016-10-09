@@ -4,6 +4,8 @@ title: Kingston-on-Sea
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

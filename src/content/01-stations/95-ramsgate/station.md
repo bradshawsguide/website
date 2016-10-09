@@ -4,6 +4,8 @@ title: Ramsgate
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

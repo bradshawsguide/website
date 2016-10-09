@@ -4,6 +4,8 @@ title: Smeeth
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

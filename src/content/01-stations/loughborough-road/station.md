@@ -6,6 +6,8 @@ short_title: Loughborough Rd.
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

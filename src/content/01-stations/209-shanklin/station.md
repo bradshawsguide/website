@@ -4,6 +4,8 @@ title: Shanklin
 ----
 region: Isle of Wight
 ----
+location: 
+----
 company:
 ----
 route:

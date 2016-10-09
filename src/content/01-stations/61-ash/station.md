@@ -4,6 +4,8 @@ title: Ash
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - south-eastern
 - london-and-south-western

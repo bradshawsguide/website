@@ -4,6 +4,8 @@ title: Arundel
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

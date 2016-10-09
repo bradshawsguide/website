@@ -4,6 +4,8 @@ title: Angmering
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

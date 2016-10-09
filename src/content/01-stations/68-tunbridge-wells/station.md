@@ -4,6 +4,8 @@ title: Tunbridge Wells
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

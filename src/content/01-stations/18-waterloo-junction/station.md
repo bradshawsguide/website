@@ -6,6 +6,8 @@ short_title: Waterloo Jct.
 ----
 region: Surrey
 ----
+location: 51.5037,0.111
+----
 company:
 - south-eastern
 ----

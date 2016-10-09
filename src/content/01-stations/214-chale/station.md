@@ -4,6 +4,8 @@ title: Chale
 ----
 region: Isle of Wight
 ----
+location: 
+----
 company:
 ----
 route:

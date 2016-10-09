@@ -4,6 +4,8 @@ title: Chatham
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 - london-chatham-and-dover

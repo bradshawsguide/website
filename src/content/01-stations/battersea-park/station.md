@@ -4,6 +4,8 @@ title: Battersea Park
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

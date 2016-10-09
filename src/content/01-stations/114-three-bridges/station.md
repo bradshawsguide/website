@@ -4,6 +4,8 @@ title: Three Bridges
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

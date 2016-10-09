@@ -4,6 +4,8 @@ title: Ladywell
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - mid-kent
 ----

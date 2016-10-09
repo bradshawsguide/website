@@ -4,6 +4,8 @@ title: Shorncliffe Camp
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

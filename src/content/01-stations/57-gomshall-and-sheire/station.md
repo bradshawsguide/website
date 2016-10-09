@@ -4,6 +4,8 @@ title: Gomshall & Sheire
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - south-eastern
 ----

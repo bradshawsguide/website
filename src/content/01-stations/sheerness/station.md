@@ -8,6 +8,8 @@ info:
 - term: Population
   desc: 12,015.
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

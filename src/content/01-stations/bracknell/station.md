@@ -4,6 +4,8 @@ title: Bracknell
 ----
 region: Berkshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

@@ -4,6 +4,8 @@ title: Sutton Bingham
 ----
 region: Somerset
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

@@ -4,6 +4,8 @@ title: New Brompton
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

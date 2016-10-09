@@ -4,6 +4,8 @@ title: Broad Street
 ----
 region: Middlesex
 ----
+location: 
+----
 company:
 - north-london
 ----

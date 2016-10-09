@@ -4,6 +4,8 @@ title: Basingstoke
 ----
 region: Hampshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

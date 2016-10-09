@@ -4,6 +4,8 @@ title: Ramsgate (C&D)
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

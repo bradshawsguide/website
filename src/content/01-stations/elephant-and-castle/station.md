@@ -4,6 +4,8 @@ title: Elephant & Castle
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 ----

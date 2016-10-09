@@ -4,6 +4,8 @@ title: West Grinstead
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - london-brighton-and-south-coast
 ----

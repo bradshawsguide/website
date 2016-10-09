@@ -4,6 +4,8 @@ title: Brading
 ----
 region: Isle of Wight
 ----
+location: 
+----
 company:
 ----
 route:

@@ -4,6 +4,8 @@ title: Ropley
 ----
 region: Hampshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

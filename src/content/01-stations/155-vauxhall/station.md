@@ -4,6 +4,8 @@ title: Vauxhall
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

@@ -4,6 +4,8 @@ title: Barnes
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----

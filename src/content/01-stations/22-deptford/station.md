@@ -4,6 +4,8 @@ title: Deptford
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

@@ -4,6 +4,8 @@ title: Pluckley
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

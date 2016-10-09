@@ -4,6 +4,8 @@ title: Frant
 ----
 region: Sussex
 ----
+location: 
+----
 company:
 - south-eastern
 ----

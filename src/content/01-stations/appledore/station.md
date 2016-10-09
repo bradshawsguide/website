@@ -4,6 +4,8 @@ title: Appledore
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - south-eastern
 ----

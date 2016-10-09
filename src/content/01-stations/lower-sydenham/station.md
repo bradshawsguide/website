@@ -4,6 +4,8 @@ title: Lower Sydenham
 ----
 region: Kent
 ----
+location: 
+----
 company:
 - mid-kent
 ----

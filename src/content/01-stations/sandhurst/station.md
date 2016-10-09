@@ -4,6 +4,8 @@ title: Sandhurst
 ----
 region: Hampshire
 ----
+location: 
+----
 company:
 - south-eastern
 ----

@@ -4,6 +4,8 @@ title: Clapham
 ----
 region: Surrey
 ----
+location: 
+----
 company:
 - london-chatham-and-dover
 - london-and-south-western

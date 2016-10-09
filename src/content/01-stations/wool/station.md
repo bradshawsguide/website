@@ -4,6 +4,8 @@ title: Wool
 ----
 region: Dorsetshire
 ----
+location: 
+----
 company:
 - london-and-south-western
 ----
