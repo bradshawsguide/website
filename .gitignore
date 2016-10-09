@@ -1,4 +1,5 @@
 .DS_Store
+/etc/ssl/
 /src/cache/
 /www/assets/
 /www/thumbs/
