@@ -4,7 +4,7 @@ title: Glynde
 ----
 region: Sussex
 ----
-location: 
+location: 50.859, 0.07
 ----
 company:
 - london-brighton-and-south-coast

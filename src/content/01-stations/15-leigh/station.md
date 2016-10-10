@@ -2,9 +2,11 @@ section: 1
 ----
 title: Leigh
 ----
+today: Leigh-on-Sea
+----
 region: Essex
 ----
-location: 51.541,0.64
+location: 51.541, 0.64
 ----
 company:
 - london-tilbury-and-southend

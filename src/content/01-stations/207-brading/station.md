@@ -4,9 +4,10 @@ title: Brading
 ----
 region: Isle of Wight
 ----
-location: 
+location: 50.678, -1.139
 ----
 company:
+- isle-of-wight
 ----
 route:
 - ryde-to-newchurch

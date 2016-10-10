@@ -4,13 +4,13 @@ title: Yalding
 ----
 region: Kent
 ----
-location: 
+location: 51.226, 0.412
 ----
 company:
 - south-eastern
 ----
 route:
-- paddock-wood-to-maidstone
+- strood-to-maidstone-and-paddock-wood
 ----
 info:
 - term: Fair

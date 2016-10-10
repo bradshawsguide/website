@@ -6,7 +6,7 @@ short_title: Hampton Court
 ----
 region: Surrey
 ----
-location: 
+location: 51.4028, -0.3425
 ----
 company:
 - london-and-south-western

@@ -4,7 +4,7 @@ title: Alton
 ----
 region: Hampshire
 ----
-location: 
+location: 51.152, -0.96766
 ----
 company:
 - london-and-south-western

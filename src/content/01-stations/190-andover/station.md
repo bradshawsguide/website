@@ -4,7 +4,7 @@ title: Andover
 ----
 region: Hampshire
 ----
-location: 
+location: 51.212, -1.492
 ----
 company:
 - london-and-south-western

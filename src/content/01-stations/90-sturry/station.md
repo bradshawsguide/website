@@ -4,7 +4,7 @@ title: Sturry
 ----
 region: Kent
 ----
-location: 
+location: 51.301056, 1.122222
 ----
 company:
 - south-eastern

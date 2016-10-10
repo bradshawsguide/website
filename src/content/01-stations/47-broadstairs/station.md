@@ -4,7 +4,7 @@ title: Broadstairs
 ----
 region: Kent
 ----
-location: 
+location: 51.360556, 1.433611
 ----
 company:
 - london-chatham-and-dover

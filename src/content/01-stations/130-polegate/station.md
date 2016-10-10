@@ -6,7 +6,7 @@ short_title: Polegate
 ----
 region: Sussex
 ----
-location: 
+location: 50.821111, 0.246111
 ----
 company:
 - london-brighton-and-south-coast

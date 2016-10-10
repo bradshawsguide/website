@@ -4,7 +4,7 @@ title: New Cross
 ----
 region: Kent
 ----
-location: 
+location: 51.4766, -0.0327
 ----
 company:
 - south-eastern

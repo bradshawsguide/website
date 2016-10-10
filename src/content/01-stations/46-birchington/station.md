@@ -2,9 +2,11 @@ section: 1
 ----
 title: Birchington
 ----
+today: Birchington-on-Sea
+----
 region: Kent
 ----
-location: 
+location: 51.377, 1.301
 ----
 company:
 - london-chatham-and-dover

@@ -4,7 +4,7 @@ title: Godstone
 ----
 region: Surrey
 ----
-location: 
+location: 51.218, -0.05
 ----
 company:
 - south-eastern

@@ -4,9 +4,7 @@ title: St. Lawrence
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.588611, -1.239722
 ----
 route:
 - ryde-to-newchurch

@@ -4,7 +4,7 @@ title: Staines
 ----
 region: Middlesex
 ----
-location: 
+location: 51.432, -0.503
 ----
 company:
 - london-and-south-western

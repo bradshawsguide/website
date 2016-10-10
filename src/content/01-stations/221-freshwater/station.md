@@ -4,9 +4,7 @@ title: Freshwater
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.682566, -1.524884
 ----
 route:
 - ryde-to-the-needles

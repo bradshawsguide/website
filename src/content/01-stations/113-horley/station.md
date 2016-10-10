@@ -4,7 +4,7 @@ title: Horley
 ----
 region: Surrey
 ----
-location: 
+location: 51.1713286, -0.1622764
 ----
 company:
 - london-brighton-and-south-coast

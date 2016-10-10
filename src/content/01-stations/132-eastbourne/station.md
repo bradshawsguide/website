@@ -4,7 +4,7 @@ title: Eastbourne
 ----
 region: Sussex
 ----
-location: 
+location: 50.769, 0.281
 ----
 company:
 - london-brighton-and-south-coast

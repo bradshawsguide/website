@@ -4,7 +4,7 @@ title: Rainham (Kent)
 ----
 region: Kent
 ----
-location: 
+location: 51.366411, 0.611328
 ----
 company:
 - london-chatham-and-dover

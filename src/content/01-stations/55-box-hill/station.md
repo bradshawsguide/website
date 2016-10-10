@@ -2,9 +2,11 @@ section: 1
 ----
 title: Box Hill
 ----
+today: Box Hill and Westhumble
+----
 region: Surrey
 ----
-location: 
+location: 51.254, -0.329
 ----
 company:
 - south-eastern

@@ -4,7 +4,7 @@ title: Lewes
 ----
 region: Sussex
 ----
-location: 
+location: 50.870833, 0.011667
 ----
 company:
 - london-brighton-and-south-coast

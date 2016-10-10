@@ -4,7 +4,7 @@ title: Hounslow
 ----
 region: Middlesex
 ----
-location: 
+location: 51.462, -0.3622
 ----
 company:
 - london-and-south-western

@@ -4,7 +4,7 @@ title: Falmer
 ----
 region: Sussex
 ----
-location: 
+location: 50.861944, -0.087222
 ----
 company:
 - london-brighton-and-south-coast

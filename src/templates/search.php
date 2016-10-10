@@ -6,17 +6,6 @@
 ?>
 <div class="c-page__content">
 <?
-  $point = geo::point($geo);
-  $items = page('stations')->children()->filterBy('location', 'radius', [
-    'lat'    => $point->lat(),
-    'lng'    => $point->lng(),
-    'radius' => 10
-  ]);
-
-  foreach($items as $item) {
-    html::a($item->url(), smartypants($item->title()));
-  }
-
   if($results && $results->count()) {
     pattern('common/results');
 

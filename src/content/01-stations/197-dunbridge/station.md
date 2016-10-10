@@ -4,7 +4,7 @@ title: Dunbridge
 ----
 region: Hampshire
 ----
-location: 
+location: 51.0339, -1.5469
 ----
 company:
 - london-and-south-western

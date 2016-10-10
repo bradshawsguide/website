@@ -4,7 +4,7 @@ title: Edenbridge
 ----
 region: Kent
 ----
-location: 
+location: 51.208, 0.061
 ----
 company:
 - south-eastern

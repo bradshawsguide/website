@@ -4,7 +4,7 @@ title: Barnham
 ----
 region: Sussex
 ----
-location: 
+location: 50.831111, -0.640556
 ----
 company:
 - london-brighton-and-south-coast

@@ -4,9 +4,10 @@ title: Sandown
 ----
 region: Isle of Wight
 ----
-location: 
+location: 50.657, -1.162
 ----
 company:
+- isle-of-wight
 ----
 route:
 - ryde-to-newchurch

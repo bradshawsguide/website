@@ -4,7 +4,7 @@ title: Tilbury
 ----
 region: Essex
 ----
-location: 51.4519,0.3646
+location: 51.4519, 0.3646
 ----
 company:
 - london-tilbury-and-southend

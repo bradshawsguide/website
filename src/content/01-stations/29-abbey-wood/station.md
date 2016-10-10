@@ -4,7 +4,7 @@ title: Abbey Wood
 ----
 region: Kent
 ----
-location: 
+location: 51.491, 0.1214
 ----
 company:
 - south-eastern

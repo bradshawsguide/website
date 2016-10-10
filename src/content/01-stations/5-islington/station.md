@@ -2,9 +2,11 @@ section: 1
 ----
 title: Islington
 ----
+today: Highbury & Islington
+----
 region: Middlesex
 ----
-location: 51.5458,0.1050
+location: 51.5458, -0.105
 ----
 company:
 - north-london

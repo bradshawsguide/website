@@ -6,13 +6,13 @@ short_title: Cuxton
 ----
 region: Kent
 ----
-location: 
+location: 51.374, 0.462
 ----
 company:
 - south-eastern
 ----
 route:
-- strood-to-maidstone
+- strood-to-maidstone-and-paddock-wood
 ----
 notes:
 ----

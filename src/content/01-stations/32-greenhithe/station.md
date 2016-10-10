@@ -4,7 +4,7 @@ title: Greenhithe
 ----
 region: Kent
 ----
-location: 
+location: 51.450636, 0.278981
 ----
 company:
 - south-eastern

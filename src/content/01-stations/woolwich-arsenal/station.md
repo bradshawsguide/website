@@ -4,10 +4,12 @@ title: Woolwich Arsenal
 ----
 region: Kent
 ----
-location: 
+location:
 ----
 company:
 - south-eastern
 ----
 route:
 - charing-cross-to-woolwich-gravesend-strood-and-rochester
+----
+text: See [Woolwich](/stations/woolwich)

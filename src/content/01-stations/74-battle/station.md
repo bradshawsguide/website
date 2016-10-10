@@ -4,7 +4,7 @@ title: Battle
 ----
 region: Sussex
 ----
-location: 
+location: 50.913, 0.495
 ----
 company:
 - south-eastern

@@ -4,9 +4,7 @@ title: Niton
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.58687, -1.2849
 ----
 route:
 - ryde-to-newchurch

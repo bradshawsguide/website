@@ -4,7 +4,7 @@ title: Dorking
 ----
 region: Surrey
 ----
-location: 
+location: 51.241, -0.324
 ----
 company:
 - south-eastern

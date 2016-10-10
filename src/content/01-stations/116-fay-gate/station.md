@@ -2,9 +2,11 @@ section: 1
 ----
 title: Fay Gate
 ----
+today: Faygate
+----
 region: Sussex
 ----
-location: 
+location: 51.096, -0.263
 ----
 company:
 - london-brighton-and-south-coast

@@ -2,9 +2,11 @@ section: 1
 ----
 title: Hayward's Heath
 ----
+today: Haywards Heath
+----
 region: Sussex
 ----
-location: 
+location: 51.005, -0.105
 ----
 company:
 - london-brighton-and-south-coast

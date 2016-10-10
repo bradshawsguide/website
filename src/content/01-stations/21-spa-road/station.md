@@ -4,7 +4,7 @@ title: Spa Road
 ----
 region: Surrey
 ----
-location: 
+location: 51.4956, -0.0671
 ----
 company:
 - south-eastern

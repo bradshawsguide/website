@@ -4,7 +4,7 @@ title: Ascot
 ----
 region: Berkshire
 ----
-location: 
+location: 51.406, -0.676
 ----
 company:
 - london-and-south-western

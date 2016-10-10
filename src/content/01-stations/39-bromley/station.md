@@ -2,9 +2,11 @@ section: 1
 ----
 title: Bromley
 ----
+today: Bromley-by-Bow (tube station)
+----
 region: Kent
 ----
-location: 
+location: 51.524, -0.0113
 ----
 company:
 - london-tilbury-and-southend

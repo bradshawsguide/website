@@ -4,7 +4,7 @@ title: Ramsgate
 ----
 region: Kent
 ----
-location: 
+location: 51.3408, 1.406
 ----
 company:
 - south-eastern

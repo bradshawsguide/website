@@ -4,7 +4,7 @@ title: Egham
 ----
 region: Surrey
 ----
-location: 
+location: 51.43, -0.547
 ----
 company:
 - london-and-south-western

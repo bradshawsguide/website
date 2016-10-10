@@ -4,7 +4,7 @@ title: Tunbridge Wells
 ----
 region: Kent
 ----
-location: 
+location: 51.13, 0.263
 ----
 company:
 - south-eastern

@@ -4,9 +4,7 @@ title: Alum Bay
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.666389, -1.576111
 ----
 route:
 - ryde-to-the-needles

@@ -4,7 +4,7 @@ title: Angmering
 ----
 region: Sussex
 ----
-location: 
+location: 50.816389, -0.489167
 ----
 company:
 - london-brighton-and-south-coast

@@ -4,7 +4,7 @@ title: Rye
 ----
 region: Sussex
 ----
-location: 
+location: 50.952, 0.731
 ----
 company:
 - south-eastern

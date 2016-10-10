@@ -4,7 +4,7 @@ title: Sandwich
 ----
 region: Kent
 ----
-location: 
+location: 51.27, 1.343
 ----
 company:
 - south-eastern

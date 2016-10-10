@@ -4,7 +4,7 @@ title: Teynham
 ----
 region: Kent
 ----
-location: 
+location: 51.3333, 0.808
 ----
 company:
 - london-chatham-and-dover

@@ -4,7 +4,7 @@ title: Hailsham
 ----
 region: Sussex
 ----
-location: 
+location: 50.860556, 0.257222
 ----
 company:
 - london-brighton-and-south-coast

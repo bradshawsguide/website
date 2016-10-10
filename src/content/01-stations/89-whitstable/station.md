@@ -4,7 +4,7 @@ title: Whitstable
 ----
 region: Kent
 ----
-location: 
+location: 51.3576, 1.033486
 ----
 company:
 - london-chatham-and-dover

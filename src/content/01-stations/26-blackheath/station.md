@@ -4,7 +4,7 @@ title: Blackheath
 ----
 region: Kent
 ----
-location: 
+location: 51.4658, 0.0089
 ----
 company:
 - south-eastern

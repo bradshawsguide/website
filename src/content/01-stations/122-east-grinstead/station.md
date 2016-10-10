@@ -4,7 +4,7 @@ title: East Grinstead
 ----
 region: Sussex
 ----
-location: 
+location: 51.126, -0.018
 ----
 company:
 - london-brighton-and-south-coast

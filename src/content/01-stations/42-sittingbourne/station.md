@@ -4,7 +4,7 @@ title: Sittingbourne
 ----
 region: Kent
 ----
-location: 
+location: 51.342008, 0.734808
 ----
 company:
 - london-chatham-and-dover

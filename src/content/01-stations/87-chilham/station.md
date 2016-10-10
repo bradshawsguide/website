@@ -4,7 +4,7 @@ title: Chilham
 ----
 region: Kent
 ----
-location: 
+location: 51.245, 0.976
 ----
 company:
 - south-eastern

@@ -4,13 +4,13 @@ title: Wateringbury
 ----
 region: Kent
 ----
-location: 
+location: 51.2493, 0.4225
 ----
 company:
 - south-eastern
 ----
 route:
-- paddock-wood-to-maidstone
+- strood-to-maidstone-and-paddock-wood
 ----
 info:
 - term: Hotel

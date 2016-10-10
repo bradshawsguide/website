@@ -4,7 +4,7 @@ title: Isleworth
 ----
 region: Middlesex
 ----
-location: 
+location: 51.4749, -0.337
 ----
 company:
 - london-and-south-western

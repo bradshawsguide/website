@@ -4,7 +4,7 @@ title: Mortlake
 ----
 region: Surrey
 ----
-location: 
+location: 51.4682, -0.2672
 ----
 company:
 - london-and-south-western

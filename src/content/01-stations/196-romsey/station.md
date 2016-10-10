@@ -4,7 +4,7 @@ title: Romsey
 ----
 region: Hampshire
 ----
-location: 
+location: 50.9927, -1.4933
 ----
 company:
 - london-and-south-western

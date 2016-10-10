@@ -4,9 +4,7 @@ title: Ventnor
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.5976, -1.2088
 ----
 route:
 - ryde-to-newchurch
@@ -18,7 +16,7 @@ route:
 - term: Market Day
   desc: Saturday.
 ----
-text: Distance from station at Shanklin, 5 miles.
+text: Distance from station at [Shanklin](/stations/shanklin), 5 miles.
 
 A telegraph station.
 

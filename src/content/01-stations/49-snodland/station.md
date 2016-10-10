@@ -4,13 +4,13 @@ title: Snodland
 ----
 region: Kent
 ----
-location: 
+location: 51.33, 0.448
 ----
 company:
 - south-eastern
 ----
 route:
-- strood-to-maidstone
+- strood-to-maidstone-and-paddock-wood
 ----
 text: A telegraph station.
 

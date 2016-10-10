@@ -2,9 +2,11 @@ section: 1
 ----
 title: Pevensey
 ----
+today: Pevensey & Westham
+----
 region: Sussex
 ----
-location: 
+location: 50.81583, 0.32475
 ----
 company:
 - london-brighton-and-south-coast

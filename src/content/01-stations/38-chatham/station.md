@@ -4,7 +4,7 @@ title: Chatham
 ----
 region: Kent
 ----
-location: 
+location: 51.3805, 0.5205
 ----
 company:
 - south-eastern

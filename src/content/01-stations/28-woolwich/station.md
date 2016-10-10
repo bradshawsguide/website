@@ -4,7 +4,7 @@ title: Woolwich
 ----
 region: Kent
 ----
-location: 
+location: 51.49, 0.069
 ----
 company:
 - south-eastern

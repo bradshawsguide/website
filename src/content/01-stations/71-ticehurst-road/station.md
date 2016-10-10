@@ -6,7 +6,7 @@ short_title: Ticehurst Rd.
 ----
 region: Sussex
 ----
-location: 
+location: 51.02, 0.364
 ----
 company:
 - south-eastern

@@ -4,7 +4,7 @@ title: Wye
 ----
 region: Kent
 ----
-location: 
+location: 51.185, 0.929
 ----
 company:
 - south-eastern

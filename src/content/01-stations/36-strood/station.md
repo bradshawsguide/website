@@ -4,7 +4,7 @@ title: Strood
 ----
 region: Kent
 ----
-location: 
+location: 51.3968, 0.5005
 ----
 company:
 - south-eastern
@@ -13,7 +13,6 @@ company:
 route:
 - charing-cross-to-woolwich-gravesend-strood-and-rochester
 - london-to-chatham-and-dover
-- strood-to-maidstone
 ----
 info:
 - term: Hotel

@@ -4,7 +4,7 @@ title: Chertsey
 ----
 region: Surrey
 ----
-location: 
+location: 51.387, -0.51
 ----
 company:
 - london-and-south-western

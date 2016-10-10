@@ -4,7 +4,7 @@ title: Betchworth
 ----
 region: Surrey
 ----
-location: 
+location: 51.248, -0.267
 ----
 company:
 - south-eastern

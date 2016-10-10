@@ -1,10 +1,10 @@
 section: 1
 ----
-title: Goldalming
+title: Godalming
 ----
 region: Surrey
 ----
-location: 
+location: 51.187, -0.619
 ----
 company:
 - london-and-south-western

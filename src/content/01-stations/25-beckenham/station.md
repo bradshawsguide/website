@@ -2,9 +2,11 @@ section: 1
 ----
 title: Beckenham
 ----
+today: Beckenham Junction
+----
 region: Kent
 ----
-location: 
+location: 51.4109, -0.0257
 ----
 company:
 - mid-kent

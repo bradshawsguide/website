@@ -2,9 +2,11 @@ section: 1
 ----
 title: Southend
 ----
+today: Southend Central
+----
 region: Essex
 ----
-location: 51.5375,0.7116
+location: 51.537222, 0.711667
 ----
 company:
 - london-tilbury-and-southend

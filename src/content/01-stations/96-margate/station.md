@@ -4,7 +4,7 @@ title: Margate
 ----
 region: Kent
 ----
-location: 
+location: 51.385289, 1.372181
 ----
 company:
 - south-eastern

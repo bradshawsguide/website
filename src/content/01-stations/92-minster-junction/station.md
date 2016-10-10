@@ -2,11 +2,13 @@ section: 1
 ----
 title: Minster Junction
 ----
+today: Minster
+----
 short_title: Minster Jct.
 ----
 region: Kent
 ----
-location: 
+location: 51.329, 1.317
 ----
 company:
 - south-eastern

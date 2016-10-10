@@ -2,9 +2,11 @@ section: 1
 ----
 title: Folkestone
 ----
+today: Folkestone East
+----
 region: Kent
 ----
-location: 
+location: 51.087409, 1.189036
 ----
 company:
 - south-eastern

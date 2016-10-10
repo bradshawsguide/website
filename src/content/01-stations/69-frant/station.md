@@ -4,7 +4,7 @@ title: Frant
 ----
 region: Sussex
 ----
-location: 
+location: 51.104028, 0.294444
 ----
 company:
 - south-eastern

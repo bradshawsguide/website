@@ -4,7 +4,7 @@ title: Wareham
 ----
 region: Dorsetshire
 ----
-location: 
+location: 50.693, -2.115
 ----
 company:
 - london-and-south-western

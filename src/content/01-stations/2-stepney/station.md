@@ -4,7 +4,7 @@ title: Stepney
 ----
 region: Middlesex
 ----
-location: 51.5124,0.0397
+location: 51.5124, -0.0397
 ----
 company:
 - london-and-blackwall

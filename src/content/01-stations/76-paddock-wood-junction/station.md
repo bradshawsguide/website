@@ -2,18 +2,20 @@ section: 1
 ----
 title: Paddock Wood Junction
 ----
+today: Paddock Wood
+----
 short_title: Paddock Wood Jct.
 ----
 region: Kent
 ----
-location: 
+location: 51.1822, 0.389
 ----
 company:
 - south-eastern
 ----
 route:
 - charing-cross-to-folkestone-and-dover
-- paddock-wood-to-maidstone
+- strood-to-maidstone-and-paddock-wood
 ----
 info:
 - term: Money Order Office

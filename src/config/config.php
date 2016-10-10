@@ -32,8 +32,9 @@ c::set('debug', true);
 c::set('troubleshoot', true);
 
 // Tiny URL Setup
-c::set('tinyurl.folder', 'x');
 c::set('tinyurl.enabled', true);
+c::set('tinyurl.folder', 'x');
+c::set('tinyurl.url', 'http://bradshaws.dev');
 
 // Cache
 c::set('cache', false);

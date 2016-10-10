@@ -4,7 +4,7 @@ title: Charlton
 ----
 region: Kent
 ----
-location: 
+location: 51.48686, 0.03232
 ----
 company:
 - south-eastern

@@ -4,9 +4,11 @@ title: Poole Junction
 ----
 short_title: Poole Jct.
 ----
+today: Hamworthy
+----
 region: Dorsetshire
 ----
-location: 
+location:
 ----
 company:
 - london-and-south-western

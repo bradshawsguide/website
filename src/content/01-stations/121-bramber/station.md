@@ -4,7 +4,7 @@ title: Bramber
 ----
 region: Sussex
 ----
-location: 
+location: 50.88093, -0.31549
 ----
 company:
 - london-brighton-and-south-coast

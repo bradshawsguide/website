@@ -2,8 +2,6 @@ section: 1
 ----
 title: First Route -- Ryde to Newchurch
 ----
-company: isle-of-wight
-----
 stops:
 - ryde
 - brading
@@ -25,7 +23,7 @@ distances:
   miles: 2
 - location: '[Sandown](/stations/sandown/) to Shanklin'
   miles: 3
-- location: '[Shanklin](/stations/ryde/) to Succombe'
+- location: '[Shanklin](/stations/shanklin/) to Succombe'
   miles: 2
 - location: 'Succombe to Bonchurch'
   miles: 1
@@ -33,13 +31,13 @@ distances:
   miles: 2
 - location: '[Ventnor](/stations/ventnor/) to St. Lawrence'
   miles: 2
-- location: '[St. Lawrence](/stations/ryde/) to Niton'
+- location: '[St. Lawrence](/stations/st-lawrence/) to Niton'
   miles: 3
 - location: '[Niton](/stations/niton/) to Blackgang'
   miles: 2
-- location: '[Blankgang](/stations/ryde/) to Gatcombe'
+- location: 'Blankgang to Gatcombe'
   miles: 4
 - location: Gatcombe to Ryde
   miles: 8
-- location: 'N.B. -- [Blackgang](/stations/blackgang/) to [Freshwater](/stations/freshwater)'
+- location: 'N.B. -- Blackgang to [Freshwater](/stations/freshwater)'
   miles: 14½

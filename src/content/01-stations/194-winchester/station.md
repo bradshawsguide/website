@@ -4,7 +4,7 @@ title: Winchester
 ----
 region: Hampshire
 ----
-location: 
+location: 51.067, -1.32
 ----
 company:
 - london-and-south-western

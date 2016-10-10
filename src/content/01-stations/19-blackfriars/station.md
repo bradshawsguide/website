@@ -4,7 +4,7 @@ title: Blackfriars
 ----
 region: Middlesex
 ----
-location: 51.5083,-0.1031
+location: 51.5083, -0.1031
 ----
 company:
 - south-eastern

@@ -4,7 +4,7 @@ title: Northfleet
 ----
 region: Kent
 ----
-location: 
+location: 51.445953, 0.323956
 ----
 company:
 - south-eastern

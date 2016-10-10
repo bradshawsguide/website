@@ -4,7 +4,7 @@ title: Shalford
 ----
 region: Surrey
 ----
-location: 
+location: 51.214, -0.567
 ----
 company:
 - south-eastern

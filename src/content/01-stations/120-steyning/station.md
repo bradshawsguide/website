@@ -4,7 +4,7 @@ title: Steyning
 ----
 region: Sussex
 ----
-location: 
+location: 50.8895, -0.3214
 ----
 company:
 - london-brighton-and-south-coast

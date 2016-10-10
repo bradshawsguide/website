@@ -2,9 +2,11 @@ section: 1
 ----
 title: Clapham
 ----
+today: Clapham Junction
+----
 region: Surrey
 ----
-location: 
+location: 51.4646, -0.1705
 ----
 company:
 - london-chatham-and-dover

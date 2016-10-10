@@ -4,7 +4,7 @@ title: Bognor
 ----
 region: Sussex
 ----
-location: 
+location: 50.787, -0.676
 ----
 company:
 - london-brighton-and-south-coast

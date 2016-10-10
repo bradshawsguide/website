@@ -4,7 +4,7 @@ title: Staplehurst
 ----
 region: Kent
 ----
-location: 
+location: 51.171, 0.55
 ----
 company:
 - south-eastern

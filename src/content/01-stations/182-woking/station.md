@@ -4,7 +4,7 @@ title: Woking
 ----
 region: Surrey
 ----
-location: 
+location: 51.318, -0.557
 ----
 company:
 - london-and-south-western

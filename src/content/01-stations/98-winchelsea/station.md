@@ -4,7 +4,7 @@ title: Winchelsea
 ----
 region: Sussex
 ----
-location: 
+location: 51.065, 1.115
 ----
 company:
 - south-eastern

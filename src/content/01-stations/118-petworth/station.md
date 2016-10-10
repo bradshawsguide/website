@@ -4,7 +4,7 @@ title: Petworth
 ----
 region: Sussex
 ----
-location: 
+location: 50.96317, -0.62011
 ----
 company:
 - london-brighton-and-south-coast

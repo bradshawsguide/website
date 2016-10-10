@@ -4,7 +4,7 @@ title: Burgess Hill
 ----
 region: Sussex
 ----
-location: 
+location: 50.953056, -0.1275
 ----
 company:
 - london-brighton-and-south-coast

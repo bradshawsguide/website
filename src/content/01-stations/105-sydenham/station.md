@@ -4,7 +4,7 @@ title: Sydenham
 ----
 region: Kent
 ----
-location: 
+location: 51.4254, -0.0544
 ----
 company:
 - south-eastern

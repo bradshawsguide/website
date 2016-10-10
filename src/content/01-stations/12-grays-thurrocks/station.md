@@ -2,9 +2,11 @@ section: 1
 ----
 title: Gray's Thurrocks
 ----
+today: Grays
+----
 region: Essex
 ----
-location: 51.476,0.322
+location: 51.476, 0.322
 ----
 company:
 - london-tilbury-and-southend

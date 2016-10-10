@@ -4,7 +4,7 @@ title: Epsom
 ----
 region: Surrey
 ----
-location: 
+location: 51.334, -0.269
 ----
 company:
 - london-brighton-and-south-coast

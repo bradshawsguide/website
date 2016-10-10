@@ -4,7 +4,7 @@ title: Lewisham
 ----
 region: Kent
 ----
-location: 
+location: 51.4653, -0.0133
 ----
 company:
 - south-eastern

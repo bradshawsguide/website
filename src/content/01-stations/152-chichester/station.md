@@ -4,7 +4,7 @@ title: Chichester
 ----
 region: Sussex
 ----
-location: 
+location: 50.831944, -0.782222
 ----
 company:
 - london-brighton-and-south-coast

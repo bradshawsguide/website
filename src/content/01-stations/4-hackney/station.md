@@ -2,9 +2,11 @@ section: 1
 ----
 title: Hackney
 ----
+today: Hackney Central
+----
 region: Middlesex
 ----
-location: 51.5472,-0.0578
+location: 51.5471606, -0.0577728
 ----
 company:
 - north-london

@@ -4,7 +4,7 @@ title: Goring
 ----
 region: Sussex
 ----
-location: 
+location: 50.817778, -0.4325
 ----
 company:
 - london-brighton-and-south-coast

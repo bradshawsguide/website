@@ -4,7 +4,7 @@ title: Etchingham
 ----
 region: Sussex
 ----
-location: 
+location: 51.011, 0.442
 ----
 company:
 - south-eastern

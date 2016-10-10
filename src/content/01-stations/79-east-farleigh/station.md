@@ -4,13 +4,13 @@ title: East Farleigh
 ----
 region: Kent
 ----
-location: 
+location: 51.255, 0.485
 ----
 company:
 - south-eastern
 ----
 route:
-- paddock-wood-to-maidstone
+- strood-to-maidstone-and-paddock-wood
 ----
 info:
 - term: Money Order Office

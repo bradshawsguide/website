@@ -4,7 +4,7 @@ title: Worthing
 ----
 region: Sussex
 ----
-location: 
+location: 50.818611, -0.375833
 ----
 company:
 - london-brighton-and-south-coast

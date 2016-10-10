@@ -4,7 +4,7 @@ title: Blandford
 ----
 region: Dorsetshire
 ----
-location: 
+location: 50.8597, -2.1605
 ----
 company:
 - london-and-south-western

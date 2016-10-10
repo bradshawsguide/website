@@ -4,7 +4,7 @@ title: Horsham
 ----
 region: Sussex
 ----
-location: 
+location: 51.066, -0.319
 ----
 company:
 - london-brighton-and-south-coast

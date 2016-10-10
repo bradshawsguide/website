@@ -2,9 +2,11 @@ section: 1
 ----
 title: Windsor
 ----
+today: Windsor & Eton Riverside
+----
 region: Berkshire
 ----
-location: 
+location: 51.485558, -0.606489
 ----
 company:
 - london-and-south-western

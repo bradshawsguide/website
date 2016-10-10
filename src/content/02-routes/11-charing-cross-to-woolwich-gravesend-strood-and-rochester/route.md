@@ -12,7 +12,6 @@ stops:
 - charlton
 - woolwich-dock
 - woolwich-arsenal
-- woolwich
 - plumstead
 - abbey-wood
 - belvedere

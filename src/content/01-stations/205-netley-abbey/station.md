@@ -2,9 +2,11 @@
 ----
 title: Netley Abbey
 ----
+today: Netley
+----
 region: Hampshire
 ----
-location: 
+location: 50.875, -1.342
 ----
 company:
 - london-and-south-western

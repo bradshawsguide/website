@@ -2,9 +2,11 @@
 ----
 title: Farnborough
 ----
+today: Farnborough (Main)
+----
 region: Hampshire
 ----
-location: 
+location: 51.297, -0.756
 ----
 company:
 - london-and-south-western

@@ -4,7 +4,7 @@ title: Robertsbridge
 ----
 region: Sussex
 ----
-location: 
+location: 50.985, 0.469
 ----
 company:
 - south-eastern

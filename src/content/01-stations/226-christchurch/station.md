@@ -4,7 +4,7 @@ title: Christchurch
 ----
 region: Hampshire
 ----
-location: 
+location: 50.738, -1.785
 ----
 company:
 - london-and-south-western

@@ -4,7 +4,7 @@ title: Thames Ditton
 ----
 region: Surrey
 ----
-location: 
+location: 51.3886, -0.3383
 ----
 company:
 - london-and-south-western

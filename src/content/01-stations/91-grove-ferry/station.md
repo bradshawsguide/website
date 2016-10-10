@@ -4,7 +4,7 @@ title: Grove Ferry
 ----
 region: Kent
 ----
-location: 
+location: 51.32408, 1.20675
 ----
 company:
 - south-eastern

@@ -4,7 +4,7 @@ title: Herne Bay
 ----
 region: Kent
 ----
-location: 
+location: 51.364494, 1.117817
 ----
 company:
 - london-chatham-and-dover

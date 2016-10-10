@@ -4,7 +4,7 @@ title: Forest Hill
 ----
 region: Kent
 ----
-location: 
+location: 51.439, -0.053
 ----
 company:
 - south-eastern

@@ -4,7 +4,7 @@ title: Hastings
 ----
 region: Sussex
 ----
-location: 
+location: 50.858, 0.576
 ----
 company:
 - south-eastern

@@ -4,7 +4,7 @@ title: Marden
 ----
 region: Kent
 ----
-location: 
+location: 51.175, 0.493
 ----
 company:
 - south-eastern

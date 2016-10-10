@@ -4,7 +4,7 @@ title: Brentford
 ----
 region: Middlesex
 ----
-location: 
+location: 51.4875, -0.3096
 ----
 company:
 - london-and-south-western

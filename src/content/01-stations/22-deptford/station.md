@@ -4,7 +4,7 @@ title: Deptford
 ----
 region: Kent
 ----
-location: 
+location: 51.4788, -0.0265
 ----
 company:
 - south-eastern

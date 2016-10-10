@@ -2,18 +2,18 @@ section: 1
 ----
 title: Ryde
 ----
+today: Ryde St John's Road
+----
 region: Isle of Wight
 ----
-location: 
+location: 50.724, -1.157
 ----
 company:
+- isle-of-wight
 ----
 route:
 - ryde-to-newchurch
 - ryde-to-the-needles
-----
-related:
-- (wikipedia: Ryde St John's Road railway station)
 ----
 info:
 - term: Population

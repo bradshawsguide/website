@@ -4,7 +4,7 @@ title: Wimborne
 ----
 region: Dorsetshire
 ----
-location: 
+location: 50.7945, -1.9761
 ----
 company:
 - london-and-south-western

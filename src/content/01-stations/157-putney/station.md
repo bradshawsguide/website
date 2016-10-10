@@ -4,7 +4,7 @@ title: Putney
 ----
 region: Surrey
 ----
-location: 
+location: 51.4611, -0.2162
 ----
 company:
 - london-and-south-western

@@ -4,7 +4,7 @@ title: Salisbury
 ----
 region: Wiltshire
 ----
-location: 
+location: 51.0705, -1.8055
 ----
 company:
 - london-and-south-western

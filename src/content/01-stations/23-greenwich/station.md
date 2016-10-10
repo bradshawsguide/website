@@ -4,7 +4,7 @@ title: Greenwich
 ----
 region: Kent
 ----
-location: 
+location: 51.4781, -0.014
 ----
 company:
 - south-eastern

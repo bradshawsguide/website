@@ -4,7 +4,7 @@ title: Poole
 ----
 region: Dorsetshire
 ----
-location: 
+location: 50.7104691,-1.9921609
 ----
 company:
 - london-and-south-western

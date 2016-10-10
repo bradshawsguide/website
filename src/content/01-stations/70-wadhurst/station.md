@@ -4,7 +4,7 @@ title: Wadhurst
 ----
 region: Sussex
 ----
-location: 
+location: 51.073, 0.313
 ----
 company:
 - south-eastern

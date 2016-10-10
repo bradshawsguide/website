@@ -2,9 +2,11 @@ section: 1
 ----
 title: Canterbury (C&D)
 ----
+today: Canterbury East
+----
 region: Kent
 ----
-location: 
+location:
 ----
 company:
 - london-chatham-and-dover

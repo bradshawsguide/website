@@ -4,7 +4,7 @@ title: Ash
 ----
 region: Surrey
 ----
-location: 
+location: 51.25, -0.713
 ----
 company:
 - south-eastern

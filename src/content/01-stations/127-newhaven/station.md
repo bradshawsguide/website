@@ -2,9 +2,11 @@ section: 1
 ----
 title: Newhaven
 ----
+today: Newhaven Town
+----
 region: Sussex
 ----
-location: 
+location: 50.795, 0.055
 ----
 company:
 - london-brighton-and-south-coast

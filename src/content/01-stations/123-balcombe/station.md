@@ -4,7 +4,7 @@ title: Balcombe
 ----
 region: Sussex
 ----
-location: 
+location: 51.056111, -0.1375
 ----
 company:
 - london-brighton-and-south-coast

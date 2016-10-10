@@ -4,7 +4,7 @@ title: Farnham
 ----
 region: Surrey
 ----
-location: 
+location: 51.212, -0.792
 ----
 company:
 - london-and-south-western

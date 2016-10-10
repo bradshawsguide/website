@@ -1,10 +1,12 @@
 section: 1
 ----
-title: Red Hill
+title: Red Hill Junction
+----
+today: Redhill
 ----
 region: Surrey
 ----
-location: 
+location: 51.24022, -0.1659
 ----
 company:
 - south-eastern
@@ -30,7 +32,7 @@ On alighting at this station the traveller will find himself in the midst of the
 
 * * *
 
-This station is reciprocally used by both the Brighton and Dover trains, the latter diverging to the east, and we at once enter the valley of Holmesdale, which was noted as the scene of many conflicts in the early history of our country; an ancient couplet, quoted by Camden, evidently refers to this fact:-- 
+This station is reciprocally used by both the Brighton and Dover trains, the latter diverging to the east, and we at once enter the valley of Holmesdale, which was noted as the scene of many conflicts in the early history of our country; an ancient couplet, quoted by Camden, evidently refers to this fact:--
 
 > The vale of Holmesdall
 > Never wonne, ne never shall.

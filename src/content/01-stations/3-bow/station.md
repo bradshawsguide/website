@@ -4,7 +4,7 @@ title: Bow
 ----
 region: Middlesex
 ----
-location: 51.5283,-0.0221
+location: 51.52833, -0.02211
 ----
 company:
 - north-london

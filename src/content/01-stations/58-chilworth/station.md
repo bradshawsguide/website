@@ -4,7 +4,7 @@ title: Chilworth
 ----
 region: Surrey
 ----
-location: 
+location: 51.215, -0.525
 ----
 company:
 - south-eastern

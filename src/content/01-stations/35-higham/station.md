@@ -4,7 +4,7 @@ title: Higham
 ----
 region: Kent
 ----
-location: 
+location: 51.4267, 0.466308
 ----
 company:
 - south-eastern

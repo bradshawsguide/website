@@ -4,7 +4,7 @@ title: Axminster
 ----
 region: Devon
 ----
-location: 
+location: 50.779, -3.005
 ----
 company:
 - london-and-south-western

@@ -4,7 +4,7 @@ title: Berwick
 ----
 region: Sussex
 ----
-location: 
+location: 50.84, 0.166
 ----
 company:
 - london-brighton-and-south-coast

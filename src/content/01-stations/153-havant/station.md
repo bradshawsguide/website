@@ -4,7 +4,7 @@ title: Havant
 ----
 region: Hampshire
 ----
-location: 
+location: 50.854, -0.982
 ----
 company:
 - london-brighton-and-south-coast

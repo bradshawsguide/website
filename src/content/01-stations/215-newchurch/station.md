@@ -4,9 +4,7 @@ title: Newchurch
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.67, -1.2093
 ----
 route:
 - ryde-to-newchurch

@@ -4,7 +4,7 @@ title: Winchfield
 ----
 region: Hampshire
 ----
-location: 
+location: 51.285, -0.907
 ----
 company:
 - london-and-south-western

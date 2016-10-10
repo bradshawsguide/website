@@ -4,7 +4,7 @@ title: Barking
 ----
 region: Essex
 ----
-location: 51.5393,0.0817
+location: 51.5393, 0.0817
 ----
 company:
 - london-tilbury-and-southend

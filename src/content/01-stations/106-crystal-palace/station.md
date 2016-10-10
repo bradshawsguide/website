@@ -4,7 +4,7 @@ title: Crystal Palace
 ----
 region: Surrey
 ----
-location: 
+location: 51.4182, -0.0726
 ----
 company:
 - london-brighton-and-south-coast

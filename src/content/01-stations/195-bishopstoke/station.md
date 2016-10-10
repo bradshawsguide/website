@@ -2,9 +2,11 @@
 ----
 title: Bishopstoke
 ----
+today: Eastleigh
+----
 region: Hampshire
 ----
-location: 
+location: 50.969444, -1.349444
 ----
 company:
 - london-and-south-western

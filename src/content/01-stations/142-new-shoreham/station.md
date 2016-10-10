@@ -4,7 +4,7 @@ title: New Shoreham
 ----
 region: Sussex
 ----
-location: 
+location: 50.834167, -0.271389
 ----
 company:
 - london-brighton-and-south-coast

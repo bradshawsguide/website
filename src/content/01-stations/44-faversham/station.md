@@ -4,7 +4,7 @@ title: Faversham
 ----
 region: Kent
 ----
-location: 
+location: 51.311389, 0.891667
 ----
 company:
 - london-chatham-and-dover

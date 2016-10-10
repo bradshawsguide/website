@@ -4,7 +4,7 @@ title: Tunbridge
 ----
 region: Kent
 ----
-location: 
+location: 51.191, 0.271
 ----
 company:
 - south-eastern

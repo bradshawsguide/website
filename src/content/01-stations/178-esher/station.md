@@ -4,7 +4,7 @@ title: Esher
 ----
 region: Surrey
 ----
-location: 
+location: 51.38, -0.3526
 ----
 company:
 - london-and-south-western

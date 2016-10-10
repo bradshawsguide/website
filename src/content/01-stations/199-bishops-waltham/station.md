@@ -2,9 +2,11 @@
 ----
 title: Bishop's Waltham
 ----
+today: Bishops Waltham
+----
 region: Hampshire
 ----
-location: 
+location: 50.9575, -1.2192
 ----
 company:
 - london-and-south-western

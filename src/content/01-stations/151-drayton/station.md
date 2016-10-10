@@ -4,7 +4,7 @@ title: Drayton
 ----
 region: Sussex
 ----
-location: 
+location: 50.83244, -0.737373
 ----
 company:
 - london-brighton-and-south-coast

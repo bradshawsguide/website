@@ -4,9 +4,11 @@ title: Caterham Junction
 ----
 short_title: Caterham Jct.
 ----
+today: Purley
+----
 region: Surrey
 ----
-location: 
+location: 51.3377, -0.1135
 ----
 company:
 - south-eastern
@@ -15,7 +17,7 @@ company:
 route:
 - charing-cross-to-folkestone-and-dover
 - london-to-brighton
-- caterham-junction-to-caterham 
+- caterham-junction-to-caterham
 ----
 text: A telegraph station.
 

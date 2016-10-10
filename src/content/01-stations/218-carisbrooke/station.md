@@ -4,9 +4,7 @@ title: Carisbrooke
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.6917, -1.3172
 ----
 route:
 - ryde-to-the-needles

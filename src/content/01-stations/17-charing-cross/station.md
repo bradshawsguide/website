@@ -4,7 +4,7 @@ title: Charing Cross
 ----
 region: Middlesex
 ----
-location: 51.5078,0.1244
+location: 51.5078, -0.1244
 ----
 company:
 - south-eastern

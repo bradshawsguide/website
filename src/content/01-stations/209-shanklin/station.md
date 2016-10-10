@@ -4,9 +4,10 @@ title: Shanklin
 ----
 region: Isle of Wight
 ----
-location: 
+location: 50.633767, -1.179073
 ----
 company:
+- isle-of-wight
 ----
 route:
 - ryde-to-newchurch

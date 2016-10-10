@@ -4,7 +4,7 @@ title: Gosport
 ----
 region: Hampshire
 ----
-location: 
+location: 50.7979, -1.1302
 ----
 company:
 - london-and-south-western

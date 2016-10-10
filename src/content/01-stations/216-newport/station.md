@@ -4,9 +4,7 @@ title: Newport
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.701, -1.2883
 ----
 route:
 - ryde-to-the-needles

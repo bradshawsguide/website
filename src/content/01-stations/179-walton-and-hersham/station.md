@@ -2,9 +2,11 @@ section: 1
 ----
 title: Walton & Hersham
 ----
+today: Walton on Thames
+----
 region: Surrey
 ----
-location: 
+location: 51.3728, -0.4143
 ----
 company:
 - london-and-south-western

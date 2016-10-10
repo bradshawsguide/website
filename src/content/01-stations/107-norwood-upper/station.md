@@ -2,9 +2,11 @@ section: 1
 ----
 title: Norwood, Upper
 ----
+today: Norwood Junction
+----
 region: Surrey
 ----
-location: 
+location: 51.3972, -0.075
 ----
 company:
 - south-eastern
@@ -13,9 +15,6 @@ company:
 route:
 - charing-cross-to-folkestone-and-dover
 - london-to-brighton
-----
-related:
-- (wikipedia: Norwood Junction railway station)
 ----
 info:
 - term: Hotels

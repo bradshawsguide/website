@@ -4,7 +4,7 @@ title: Rochester
 ----
 region: Kent
 ----
-location: 
+location: 51.385551, 0.5096592
 ----
 company:
 - south-eastern

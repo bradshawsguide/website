@@ -4,7 +4,7 @@ title: Weymouth
 ----
 region: Dorsetshire
 ----
-location: 
+location: 50.616, -2.455
 ----
 company:
 - london-and-south-western

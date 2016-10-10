@@ -10,20 +10,18 @@
 # RewriteCond %{HTTPS} !=on
 # RewriteCond %{HTTP_HOST} !^bradshawsguide\.dev$ [NC]
 # RewriteCond %{HTTP_HOST} !^bradshawsguide\.org$ [NC]
-# RewriteRule ^(.*)$ http://bradshawsguide.org/$1 [R=301,L]
+# RewriteRule ^(.*)$ https://bradshawsguide.org/$1 [R=301,L]
 
 # Block all files in the kirby folder from being accessed directly
   RewriteRule ^kirby/(.*) index.php [L]
-
-# Make panel links work
-  RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule ^panel/(.*) panel/index.php [L]
 
 # Make site links work
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule ^(.*) index.php [L]
+
+# Redirect from tinyurl
+  RewriteRule (.*) https://bradshawsguide.org/x/$1 [R=301]
 </IfModule>
 
 # --------------

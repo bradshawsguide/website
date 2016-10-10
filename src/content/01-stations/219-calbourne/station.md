@@ -4,9 +4,7 @@ title: Calbourne
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.677739, -1.400175
 ----
 route:
 - ryde-to-the-needles

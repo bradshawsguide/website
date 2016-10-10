@@ -4,7 +4,7 @@ title: Vauxhall
 ----
 region: Surrey
 ----
-location: 
+location: 51.4854, -0.1229
 ----
 company:
 - london-and-south-western

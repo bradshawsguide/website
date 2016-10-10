@@ -4,7 +4,7 @@ title: Chiswick
 ----
 region: Middlesex
 ----
-location: 
+location: 51.4813, -0.2683
 ----
 company:
 - london-and-south-western

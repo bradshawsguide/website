@@ -4,7 +4,7 @@ title: Pluckley
 ----
 region: Kent
 ----
-location: 
+location: 51.156, 0.747
 ----
 company:
 - south-eastern

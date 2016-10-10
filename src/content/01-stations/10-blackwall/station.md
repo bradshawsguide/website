@@ -4,7 +4,7 @@ title: Blackwall
 ----
 region: Middlesex
 ----
-location: 51.5082,0.0001
+location: 51.50817, 0.00007
 ----
 company:
 - london-and-blackwall

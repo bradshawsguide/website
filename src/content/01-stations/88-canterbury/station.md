@@ -1,10 +1,12 @@
 section: 1
 ----
-title: Canterbury
+title: Canterbury (SER)
+----
+today: Canterbury West
 ----
 region: Kent
 ----
-location: 
+location: 51.284064, 1.075381
 ----
 company:
 - south-eastern

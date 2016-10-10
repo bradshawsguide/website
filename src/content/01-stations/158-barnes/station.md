@@ -4,7 +4,7 @@ title: Barnes
 ----
 region: Surrey
 ----
-location: 
+location: 51.4671, -0.242
 ----
 company:
 - london-and-south-western

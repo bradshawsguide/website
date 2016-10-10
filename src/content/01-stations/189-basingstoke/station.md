@@ -4,7 +4,7 @@ title: Basingstoke
 ----
 region: Hampshire
 ----
-location: 
+location: 51.2683, -1.0878
 ----
 company:
 - london-and-south-western

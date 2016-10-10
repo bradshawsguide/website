@@ -4,7 +4,7 @@ title: Hythe
 ----
 region: Kent
 ----
-location: 
+location: 51.0765, 1.0938
 ----
 company:
 - south-eastern

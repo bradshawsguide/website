@@ -2,9 +2,11 @@ section: 1
 ----
 title: Croydon
 ----
+today: East Croydon
+----
 region: Surrey
 ----
-location: 
+location: 51.3752, -0.0923
 ----
 company:
 - london-brighton-and-south-coast

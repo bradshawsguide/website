@@ -4,7 +4,7 @@ title: Headcorn
 ----
 region: Kent
 ----
-location: 
+location: 51.16575, 0.627192
 ----
 company:
 - south-eastern

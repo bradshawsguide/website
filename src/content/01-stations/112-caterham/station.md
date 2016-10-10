@@ -4,7 +4,7 @@ title: Caterham
 ----
 region: Surrey
 ----
-location: 
+location: 51.2825, -0.0786
 ----
 company:
 - south-eastern

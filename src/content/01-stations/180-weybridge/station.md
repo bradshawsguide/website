@@ -4,7 +4,7 @@ title: Weybridge
 ----
 region: Surrey
 ----
-location: 
+location: 51.3616, -0.4575
 ----
 company:
 - london-and-south-western

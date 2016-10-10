@@ -4,7 +4,7 @@ title: Three Bridges
 ----
 region: Sussex
 ----
-location: 
+location: 51.117, -0.161
 ----
 company:
 - london-brighton-and-south-coast

@@ -4,7 +4,7 @@ title: Lancing
 ----
 region: Sussex
 ----
-location: 
+location: 50.826944, -0.323333
 ----
 company:
 - london-brighton-and-south-coast

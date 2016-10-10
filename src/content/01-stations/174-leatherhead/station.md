@@ -4,7 +4,7 @@ title: Leatherhead
 ----
 region: Surrey
 ----
-location: 
+location: 51.299, -0.333
 ----
 company:
 - london-and-south-western

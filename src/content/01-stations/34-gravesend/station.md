@@ -4,7 +4,7 @@ title: Gravesend
 ----
 region: Kent
 ----
-location: 
+location: 51.441317, 0.366692
 ----
 company:
 - south-eastern

@@ -2,9 +2,11 @@
 ----
 title: Lymington
 ----
+today: Lymington Town
+----
 region: Hampshire
 ----
-location: 
+location: 50.761, -1.537
 ----
 company:
 - london-and-south-western

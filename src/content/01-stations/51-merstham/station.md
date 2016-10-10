@@ -4,7 +4,7 @@ title: Merstham
 ----
 region: Surrey
 ----
-location: 
+location: 51.264, -0.15
 ----
 company:
 - south-eastern

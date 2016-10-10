@@ -4,9 +4,7 @@ title: Chale
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.59652, -1.31625
 ----
 route:
 - ryde-to-newchurch

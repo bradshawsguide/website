@@ -2,9 +2,11 @@ section: 1
 ----
 title: Ashford
 ----
+today: Ashford International
+----
 region: Kent
 ----
-location: 
+location: 51.1436, 0.87448
 ----
 company:
 - south-eastern

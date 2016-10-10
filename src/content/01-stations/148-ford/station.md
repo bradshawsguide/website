@@ -4,7 +4,7 @@ title: Ford
 ----
 region: Sussex
 ----
-location: 
+location: 50.829444, -0.578611
 ----
 company:
 - london-brighton-and-south-coast

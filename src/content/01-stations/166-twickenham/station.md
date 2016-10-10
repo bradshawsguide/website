@@ -4,7 +4,7 @@ title: Twickenham
 ----
 region: Middlesex
 ----
-location: 
+location: 51.4504, -0.3296
 ----
 company:
 - london-and-south-western

@@ -4,7 +4,7 @@ title: Sevenoaks
 ----
 region: Kent
 ----
-location: 
+location: 51.276389, 0.181667
 ----
 company:
 - london-chatham-and-dover

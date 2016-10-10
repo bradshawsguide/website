@@ -4,7 +4,7 @@ title: Penshurt
 ----
 region: Kent
 ----
-location: 
+location: 51.197, 0.173
 ----
 company:
 - south-eastern

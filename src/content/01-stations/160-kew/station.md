@@ -4,7 +4,7 @@ title: Kew
 ----
 region: Surrey
 ----
-location: 
+location: 51.4906, -0.2916
 ----
 company:
 - north-and-south-western-junction

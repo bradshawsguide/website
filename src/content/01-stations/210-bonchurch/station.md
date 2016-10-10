@@ -4,9 +4,7 @@ title: Bonchurch
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.633767, -1.179073
 ----
 route:
 - ryde-to-newchurch
@@ -19,7 +17,7 @@ info:
 - term: Money Order Office
   desc: at Shanklin.
 ----
-text: Distance from station at Shanklin, 3 miles.
+text: Distance from station at [Shanklin](/stations/shanklin), 3 miles.
 
 Telegraph station at Ventnor, 2 miles.
 

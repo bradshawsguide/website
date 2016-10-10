@@ -4,7 +4,7 @@ title: Richmond
 ----
 region: Surrey
 ----
-location: 
+location: 51.463, -0.3
 ----
 company:
 - london-and-south-western

@@ -4,7 +4,7 @@ title: London Bridge
 ----
 region: Surrey
 ----
-location: 51.505,-0.086
+location: 51.505, -0.086
 ----
 company:
 - south-eastern

@@ -4,7 +4,7 @@ title: Fareham
 ----
 region: Hampshire
 ----
-location: 
+location: 50.852934, -1.191898
 ----
 company:
 - london-and-south-western

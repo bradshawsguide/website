@@ -4,7 +4,7 @@ title: Westenhanger
 ----
 region: Kent
 ----
-location: 
+location: 51.095, 1.038
 ----
 company:
 - south-eastern

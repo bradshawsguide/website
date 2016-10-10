@@ -4,7 +4,7 @@ title: Ringwood
 ----
 region: Hampshire
 ----
-location: 
+location: 50.8418, -1.7847
 ----
 company:
 - london-and-south-western

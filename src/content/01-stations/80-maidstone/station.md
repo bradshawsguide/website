@@ -2,16 +2,17 @@ section: 1
 ----
 title: Maidstone
 ----
+today: Maidstone West
+----
 region: Kent
 ----
-location: 
+location: 51.270694, 0.515694
 ----
 company:
 - south-eastern
 ----
 route:
-- strood-to-maidstone
-- paddock-wood-to-maidstone
+- strood-to-maidstone-and-paddock-wood
 ----
 info:
 - term: Population

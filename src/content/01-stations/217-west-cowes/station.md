@@ -4,9 +4,7 @@ title: West Cowes
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.7595, -1.3002
 ----
 route:
 - ryde-to-the-needles

@@ -4,9 +4,7 @@ title: Yarmouth
 ----
 region: Isle of Wight
 ----
-location: 
-----
-company:
+location: 50.7048, -1.495
 ----
 route:
 - ryde-to-the-needles

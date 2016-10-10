@@ -4,7 +4,7 @@ title: Fenchurch Street
 ----
 region: Middlesex
 ----
-location: 51.5116,0.0788
+location: 51.51167, -0.07881
 ----
 company:
 - london-and-blackwall

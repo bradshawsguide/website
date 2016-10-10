@@ -4,7 +4,7 @@ title: Deal
 ----
 region: Kent
 ----
-location: 
+location: 51.2231, 1.3989
 ----
 company:
 - south-eastern

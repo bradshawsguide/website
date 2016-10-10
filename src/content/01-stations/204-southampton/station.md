@@ -2,9 +2,11 @@
 ----
 title: Southampton
 ----
+today: Southampton Central
+----
 region: Hampshire
 ----
-location: 
+location: 50.9075, -1.4141
 ----
 company:
 - london-and-south-western

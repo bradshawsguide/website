@@ -2,9 +2,11 @@
 ----
 title: Portsmouth
 ----
+today: Portsmouth & Southsea
+----
 region: Hampshire
 ----
-location: 
+location: 50.798448, -1.090393
 ----
 company:
 - london-brighton-and-south-coast

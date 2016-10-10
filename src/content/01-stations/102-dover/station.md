@@ -2,9 +2,11 @@ section: 1
 ----
 title: Dover
 ----
+today: Dover Town
+----
 region: Kent
 ----
-location: 
+location: 51.11452, 1.3064783
 ----
 company:
 - south-eastern
@@ -45,7 +47,7 @@ If not the most elegant thoroughfare in Dover, Snargate Street is decidedly the 
 
 But the Castle is, after all, the great lion of Dover, and as the first object that strikes conspicuously upon the eye of the traveller as he emerges from the railway terminus, it is sure to woo his footsteps thither as the cynosure of attraction. Starting on his pilgrimage, early enough, if possible, to behold the artistic effect of the grey sombre ruins, magnified by contrast with a skiey background from which the shades of departing night have not altogether fled, we can promise the pedestrian a rare treat. A sunrise scene from the cliffs round the Castle will honestly challenge comparison with a sunset from the Alps. Well aware that this savours of a bold assertion not altogether orthodox, we merely recommend such as would doubt its veracity to ask Boots to call them at two o'clock in the morning, and try it. Rising northward of the town, from a bold and abrupt ascent of more than 300 feet, and poised upon a commanding eminence, which seems to defy alike the ravages of time and war, Dover Castle answers more to our expectations of what a fortress ought to be than any other defensive building in the kingdom. Its early origin is Involved in the mystery of tradition, though there can be little doubt that a British fortification was line nucleus of its future architectural strength. Julius Cassar has had the honour of erecting the present fortress ascribed to him, but recent antiquaries have come to the conclusion that it was raised between the years A.D. 43 and 49, during the reign of Claudius. The three leading characteristics of the ground plans and buildings are Roman, Saxon, and Norman. All that can now be traced of the fortifications of the former is encircled by a deep ditch. The Saxon portion of the structure is presumed to have been commenced by Alfred the Great, and the foundation of the present keep to have originated with the ingenious Gundulph, Bishop of Rochester, about the year 1153. In its present state the Castle occupies about thirty-six acres.
 
-On approaching the entrance to the Castle from the old Deal road the stranger's notice is first attracted by the faint tinkle of a small bell, moved by a string from the tower of Fitibert de Dover, now used as a debtor's prison. A grated window fronts the road, at which a prisoner stations himself to solicit alms, aided by a further appeal on a board, which bears the following inscription:-- 
+On approaching the entrance to the Castle from the old Deal road the stranger's notice is first attracted by the faint tinkle of a small bell, moved by a string from the tower of Fitibert de Dover, now used as a debtor's prison. A grated window fronts the road, at which a prisoner stations himself to solicit alms, aided by a further appeal on a board, which bears the following inscription:--
 
 > Oh ! ye whose hours exempt from sorrow flow.
 > Behold the seat of pain, and want, and woe !

@@ -4,7 +4,7 @@ title: Crawley
 ----
 region: Sussex
 ----
-location: 
+location: 51.112, -0.187
 ----
 company:
 - london-brighton-and-south-coast

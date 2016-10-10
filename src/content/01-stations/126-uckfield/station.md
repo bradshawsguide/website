@@ -4,7 +4,7 @@ title: Uckfield
 ----
 region: Sussex
 ----
-location: 
+location: 50.969, 0.096
 ----
 company:
 - london-brighton-and-south-coast

@@ -4,7 +4,7 @@ title: Wokingham
 ----
 region: Berkshire
 ----
-location: 
+location: 51.411, -0.843
 ----
 company:
 - south-eastern

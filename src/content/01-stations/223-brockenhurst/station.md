@@ -4,7 +4,7 @@ title: Brockenhurst
 ----
 region: Hampshire
 ----
-location: 
+location: 50.8164, -1.5739
 ----
 company:
 - london-and-south-western

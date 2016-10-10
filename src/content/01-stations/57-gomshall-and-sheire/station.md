@@ -2,9 +2,11 @@ section: 1
 ----
 title: Gomshall & Sheire
 ----
+today: Gomshall
+----
 region: Surrey
 ----
-location: 
+location: 51.219, -0.442
 ----
 company:
 - south-eastern

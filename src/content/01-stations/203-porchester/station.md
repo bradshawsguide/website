@@ -4,7 +4,7 @@ title: Porchester
 ----
 region: Hampshire
 ----
-location: 
+location: 50.848889, -1.125
 ----
 company:
 - london-and-south-western

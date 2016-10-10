@@ -2,9 +2,11 @@
 ----
 title: Dorchester
 ----
+today: Dorchester South
+----
 region: Dorsetshire
 ----
-location: 
+location: 50.709, -2.437
 ----
 company:
 - london-and-south-western

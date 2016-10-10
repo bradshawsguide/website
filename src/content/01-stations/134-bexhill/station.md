@@ -4,7 +4,7 @@ title: Bexhill
 ----
 region: Sussex
 ----
-location: 
+location: 50.841, 0.477
 ----
 company:
 - london-brighton-and-south-coast

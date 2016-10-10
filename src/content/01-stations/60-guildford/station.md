@@ -4,7 +4,7 @@ title: Guildford
 ----
 region: Surrey
 ----
-location: 
+location: 51.237, -0.58
 ----
 company:
 - south-eastern

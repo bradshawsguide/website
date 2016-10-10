@@ -4,7 +4,7 @@ title: Dartford
 ----
 region: Kent
 ----
-location: 
+location: 51.4475, 0.2193
 ----
 company:
 - south-eastern

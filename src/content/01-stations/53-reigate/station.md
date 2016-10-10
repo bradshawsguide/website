@@ -4,7 +4,7 @@ title: Reigate
 ----
 region: Surrey
 ----
-location: 
+location: 51.242, -0.204
 ----
 company:
 - south-eastern

@@ -4,7 +4,7 @@ title: Erith
 ----
 region: Kent
 ----
-location: 
+location: 51.4816, 0.1754
 ----
 company:
 - south-eastern

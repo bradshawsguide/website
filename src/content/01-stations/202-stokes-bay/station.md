@@ -4,7 +4,7 @@ title: Stokes Bay
 ----
 region: Hampshire
 ----
-location: 
+location: 50.776685, 1.150392
 ----
 company:
 - london-and-south-western

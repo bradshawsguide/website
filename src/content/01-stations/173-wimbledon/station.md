@@ -4,7 +4,7 @@ title: Wimbledon
 ----
 region: Surrey
 ----
-location: 
+location: 51.4232, -0.2043
 ----
 company:
 - london-brighton-and-south-coast

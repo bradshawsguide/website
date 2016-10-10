@@ -4,7 +4,7 @@ title: Carshalton
 ----
 region: Surrey
 ----
-location: 
+location: 51.3686, -0.1659
 ----
 company:
 - london-brighton-and-south-coast
