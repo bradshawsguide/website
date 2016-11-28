@@ -1,5 +1,9 @@
 .c-page__media {
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
+
+  @media screen and (min-width: $v-breakpoint--c) {
+    margin-bottom: 3rem;
+  }
 
   .c-poster {
     @include l--container-extend;

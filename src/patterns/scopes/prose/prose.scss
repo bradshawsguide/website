@@ -2,6 +2,7 @@
   @include fs--body;
   font-family: $f-serif;
   font-variant-numeric: oldstyle-nums;
+  max-width: 36em;
 
   > * {
     margin-bottom: 0.75em;

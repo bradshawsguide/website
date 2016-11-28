@@ -1,17 +1,7 @@
 .c-page__content {
-  overflow: hidden;
   margin-bottom: 3rem;
-}
 
-.c-page__content--narrow {
-  @media screen and (min-width: $v-breakpoint--c) {
-    .s-prose {
-      padding-right: 5vw;
-      padding-left: 5vw;
-    }
-
-    .c-info {
-      right: -10vw;
-    }
+  .s-prose {
+    margin: 0 auto;
   }
 }

@@ -1,8 +1,4 @@
-<? if (isset($modifier)): ?>
-<div class="c-page__content c-page__content--<?= $modifier ?>">
-<? else: ?>
 <div class="c-page__content">
-<? endif ?>
 <?
   if($p->info()->isNotEmpty()) {
     pattern('scopes/info', ['p' => $p]);

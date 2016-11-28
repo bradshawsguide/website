@@ -12,7 +12,6 @@
   };
 
   pattern('page/content', [
-    'modifier' => 'narrow',
     'p' => $page
   ]);
 

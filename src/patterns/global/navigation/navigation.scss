@@ -29,7 +29,11 @@
   a,
   button {
     display: inline-block;
-    padding: 1.75rem 0 0.5rem;
+    padding: 0.75rem 0 0.5rem;
+
+    @media screen and (min-width: $v-breakpoint--c) {
+      padding-top: 1.75rem;
+    }
   }
 
   a.is-active {
