@@ -20,6 +20,10 @@
 }
 
 .c-result__desc {
+  @include fs--info;
+  font-family: $f-serif;
+  max-width: 36em;
+  margin-bottom: 0.75rem;
   color: $c-neutral--darkest;
 }
 
