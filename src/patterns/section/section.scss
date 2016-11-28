@@ -37,6 +37,7 @@
 
 .c-section__title {
   @include fs--heading;
+  font-family: $f-slab;
   margin-bottom: 0.5rem;
   color: $c-neutral--dark;
 

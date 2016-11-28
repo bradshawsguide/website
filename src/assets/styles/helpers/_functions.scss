@@ -20,3 +20,8 @@
 @function units($units) {
   @return ($units * $v-unit);
 }
+
+// Parse integer
+@function parse-int($value) {
+  @return $value / ($value * 0 + 1);
+}

@@ -1,16 +1,19 @@
 .s-prose {
   @include fs--body;
+  font-family: $f-serif;
   font-variant-numeric: oldstyle-nums;
 
   > * {
-    margin-bottom: 0.25em;
+    margin-bottom: 0.75em;
   }
 
   h2,
   summary,
   caption {
     @include fs--heading;
-    margin-top: 2rem;
+    font-family: $f-slab;
+    margin-top: 2.5rem;
+    margin-bottom: 0.25em;
     font-variant-ligatures: discretionary-ligatures;
   }
 
@@ -20,30 +23,15 @@
   }
 
   a {
-    box-shadow:
-      inset 0 -0.125em 0 $c-neutral--lightest,
-      inset 0 -0.1875em 0 $c-link;
-    text-decoration: none;
-    text-shadow:
-      0.03em 0 $c-neutral--lightest, -0.03em 0 $c-neutral--lightest,
-      0.06em 0 $c-neutral--lightest, -0.06em 0 $c-neutral--lightest,
-      0.09em 0 $c-neutral--lightest, -0.09em 0 $c-neutral--lightest,
-      0.12em 0 $c-neutral--lightest, -0.12em 0 $c-neutral--lightest,
-      0 0.03em $c-neutral--lightest, 0 -0.02em $c-neutral--lightest,
-      0 0.06em $c-neutral--lightest, 0 -0.06em $c-neutral--lightest,
-      0 0.09em $c-neutral--lightest, 0 -0.09em $c-neutral--lightest,
-      0 0.12em $c-neutral--lightest, 0 -0.12em $c-neutral--lightest;
+    text-decoration: underline;
+    text-decoration-color: rgba($c-link, 0.33);
 
     &:hover {
-      box-shadow:
-        inset 0 -0.125em 0 $c-neutral--lightest,
-        inset 0 -0.1875em 0 $c-link--hover;
+      text-decoration-color: rgba($c-link--hover, 0.5);
     }
 
     &:active {
-      box-shadow:
-        inset 0 -0.125em 0 $c-neutral--lightest,
-        inset 0 -0.1875em 0 $c-link--active;
+      text-decoration-color: rgba($c-link--active, 0.5);
     }
 
     &[href^="/stations/"] {
@@ -88,8 +76,6 @@
 
   p {
     hyphens: auto;
-    text-align: justify;
-    text-indent: $v-text-indent;
     word-break: break-word;
   }
 

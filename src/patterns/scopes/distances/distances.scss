@@ -1,5 +1,6 @@
 .s-distances {
-  @include fs--body;
+  @include fs--info;
+  font-family: $f-serif;
   padding-right: 5vw;
   padding-left: 5vw;
 

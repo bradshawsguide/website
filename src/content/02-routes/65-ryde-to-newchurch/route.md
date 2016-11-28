@@ -2,6 +2,8 @@ section: 1
 ----
 title: First Route -- Ryde to Newchurch
 ----
+company: isle-of-wight
+----
 stops:
 - ryde
 - brading

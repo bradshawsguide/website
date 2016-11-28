@@ -4,11 +4,13 @@
 
 .c-result__title {
   @include fs--heading;
+  font-family: $f-slab;
   padding-top: units(2);
 }
 
 .c-result__type {
   @include fs--caption;
+  font-family: $f-sans;
   margin-left: 0.25rem;
   font-style: normal;
   font-weight: normal;

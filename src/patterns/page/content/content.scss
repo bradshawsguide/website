@@ -14,15 +14,4 @@
       right: -10vw;
     }
   }
-
-  @media screen and (min-width: $v-breakpoint--d) {
-    .s-prose {
-      padding-right: 8vw;
-      padding-left: 8vw;
-    }
-
-    .c-info {
-      right: -16vw;
-    }
-  }
 }

@@ -9,7 +9,7 @@
     flex-direction: row;
     align-items: flex-end;
     padding-top: 1.5rem;
-    padding-top: 3rem;
+    padding-bottom: 3rem;
   }
 
   @media screen and (min-width: $v-breakpoint--d) {
@@ -24,11 +24,8 @@
 
 .c-page__title {
   @include fs--title;
+  font-family: $f-block;
   color: $c-neutral--dark;
-
-  &::after {
-    content: ".";
-  }
 }
 
 .c-page__notes {

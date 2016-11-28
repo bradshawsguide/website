@@ -41,9 +41,13 @@ function scripts() {
       module: {
         loaders: [{
           test: /\.js$/,
-          loader: "babel",
+          loader: "babel-loader",
           query: {
-            presets: ['es2015-native-modules'],
+            presets: [
+              ["es2015", {
+                "modules": false }
+              ]
+            ]
           }
         }]
       },
@@ -69,8 +73,7 @@ function styles() {
     .pipe(sourcemaps.init())
     .pipe(sassGlob())
     .pipe(sass({
-      outputStyle: 'expanded',
-      includePaths: ['./node_modules']
+      outputStyle: 'expanded'
     }).on('error', sass.logError))
     .pipe(postcss(processors))
     .pipe(sourcemaps.write('./'))
@@ -82,8 +85,8 @@ function styles() {
 
 function sync() {
   browserSync.init({
-    files: ['!site/accounts/', 'site/**/*.php', 'content/**/*.md'],
-    proxy: 'bradshawsguide.dev',
+    files: ['src/**/*.php', 'src/**/*.md'],
+    proxy: 'https://bradshawsguide.dev',
     open: false
   });
 }

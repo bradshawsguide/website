@@ -35,13 +35,8 @@
   }
 
   @media screen and (min-width: $v-breakpoint--d) {
-    max-width: 80vw;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
-  @media screen and (min-width: $v-breakpoint--e) {
-    width: 70vw;
+    margin-right: 15vw;
+    margin-left: 15vw;
   }
 }
 
@@ -56,82 +51,56 @@
 
   @media screen and (min-width: $v-breakpoint--d) {
     max-width: 100vw;
-    margin-right: -10vw;
-    margin-left: -10vw;
-  }
-
-  @media screen and (min-width: $v-breakpoint--e) {
     margin-right: -15vw;
     margin-left: -15vw;
   }
 }
 
+// Fluid typography
+@mixin fluid($property, $min-vw, $max-vw, $min-value, $max-value) {
+  #{$property}: $min-value;
+
+  @media screen and (min-width: $min-vw) {
+    #{$property}: calc(#{$min-value} + #{parse-int($max-value - $min-value)} * (100vw - #{$min-vw}) / #{parse-int($max-vw - $min-vw)});
+  }
+
+  @media screen and (min-width: $max-vw) {
+    #{$property}: $max-value;
+  }
+}
+
 // Font metrics
 @mixin fs--system-menu {
-  font: $f-sans;
   font-size: 1rem;
   line-height: (20 / 16);
 }
 
 @mixin fs--title {
-  font-family: $f-block;
-  font-size: 2rem; // 32px
+  @include fluid('font-size', $v-breakpoint--a, $v-breakpoint--d, 2rem, 4rem);
   letter-spacing: -0.03125rem;
   line-height: 1;
   text-transform: uppercase;
-
-  @media screen and (min-width: $v-breakpoint--b) {
-    font-size: 3rem; // 48px
-  }
-
-  @media screen and (min-width: $v-breakpoint--c) {
-    font-size: 4rem; // 64px
-  }
 }
 
 @mixin fs--heading {
-  font-family: $f-slab;
-  font-size: 1.125rem; // 18px
+  @include fluid('font-size', $v-breakpoint--a, $v-breakpoint--d, 1.125rem, 1.25rem);
   font-weight: bold;
   letter-spacing: 0.025rem;
-  line-height: (24 / 18);
+  line-height: 1.25;
   text-transform: uppercase;
-
-  @media screen and (min-width: $v-breakpoint--c) {
-    font-size: 1.25rem; // 20px
-    line-height: (28 / 20);
-  }
 }
 
 @mixin fs--body {
-  font-family: $f-serif;
-  font-size: 1rem; // 16px
-  line-height: (24 / 16);
-
-  @media screen and (min-width: $v-breakpoint--b) {
-    font-size: 1.125rem; // 18px
-    line-height: (28 / 18);
-  }
-
-  @media screen and (min-width: $v-breakpoint--c) {
-    font-size: 1.3125rem; // 21px
-    line-height: (35 / 21);
-  }
+  @include fluid('font-size', $v-breakpoint--a, $v-breakpoint--d, 1rem, 1.375rem);
+  line-height: 1.5;
 }
 
 @mixin fs--info {
-  font-family: $f-serif;
-  font-size: 1rem; // 16px
-  line-height: (20 / 16);
-
-  @media screen and (min-width: $v-breakpoint--c) {
-    font-size: 1.125rem; // 18px
-    line-height: (25 / 18);
-  }
+  @include fluid('font-size', $v-breakpoint--a, $v-breakpoint--d, 1rem, 1.125rem);
+  line-height: 1.25;
 }
 
 @mixin fs--caption {
-  font-family: $f-sans;
   font-size: 0.875rem; // 14px
   line-height: (20 / 14);
 }
