@@ -1,4 +1,4 @@
-﻿section: 1
+section: 1
 ----
 title: Camden Road to Willesden Junction
 ----

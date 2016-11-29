@@ -10,7 +10,7 @@ route:
 - ryde-to-newchurch
 ----
 - term: Hotels
-  desc: Royal -- first-class hotel and boarding establishment, of a superior description; Marine -- first-class family and commercial house. Esplanade Hotel and Boarding House, situated on the beach near the sea, and close to the Baths.
+  desc: Royal--first-class hotel and boarding establishment, of a superior description; Marine--first-class family and commercial house. Esplanade Hotel and Boarding House, situated on the beach near the sea, and close to the Baths.
 - term: Coaches
   desc: to and from Ryde, Cowes, and Newport, daily.
 - term: Market Day

@@ -1,3 +1,5 @@
+section: 1
+----
 title: London, Brighton, and South Coast Railway
 ----
 text: The **London, Brighton and South Coast Railway** (<abbr>LB&SCR</abbr>) (known also as "the Brighton line", "the Brighton Railway" or simply *the Brighton*) operated between 1846 to 1922. Its territory formed a rough triangle, with London at its apex, practically the whole coastline of Sussex as its base, and a large part of Surrey.

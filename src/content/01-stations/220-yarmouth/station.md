@@ -31,7 +31,7 @@ distances:
   miles: "2½"
 - location: Calbourne
   miles: "4½"
-- location: Church, The *Sir Richard Holmes' Monument -- Governor of the Island in 1671, when visited by Charles II.*
+- location: Church, The *Sir Richard Holmes' Monument--Governor of the Island in 1671, when visited by Charles II.*
   miles: "¼"
 - location: Clanmore
   miles: "1"

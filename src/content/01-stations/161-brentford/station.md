@@ -11,6 +11,7 @@ company:
 ----
 route:
 - barnes-to-hounslow-and-feltham
+- southall-to-brentford
 ----
 info:
 - term: Population

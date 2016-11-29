@@ -5,7 +5,7 @@ type: parent
 text: Like the popular BBC television series <cite>[Great British Railway Journeys](http://www.bbc.co.uk/programmes/b00xgqxy)</cite>, this site is inspired by the work of Victoria cartographer, printer and publisher [George Bradshaw](http://en.wikipedia.org/wiki/George_Bradshaw).
 
 ## George Bradshaw
-Born at Windsor Bridge, Pendleton, Lancashire, on the 29th of July 1801, upon leaving school he became apprenticed to an engraver named Beale in Manchester. In 1820 he set up his own engraving business in Belfast, returning to Manchester in 1822 to set up in that city as an engraver and printer -- principally of maps.
+Born at Windsor Bridge, Pendleton, Lancashire, on the 29th of July 1801, upon leaving school he became apprenticed to an engraver named Beale in Manchester. In 1820 he set up his own engraving business in Belfast, returning to Manchester in 1822 to set up in that city as an engraver and printer--principally of maps.
 
 His name was already known as the publisher of <cite>Bradshaw's Maps of Inland Navigation</cite>, when in 1839, soon after the introduction of the railways, he published, at sixpence, <cite>Bradshaw's Railway Time Tables</cite>, the title being changed in 1840 to <cite>Bradshaw's Railway Companion</cite>, and the price raised to one shilling. A new volume was issued at occasional intervals, a supplementary monthly timesheet serving to keep the book up to date.
 
@@ -26,7 +26,7 @@ This site has been developed by [Paul Robert Lloyd](https://paulrobertlloyd.com)
 Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Ireland</cite> by George Bradshaw, published in Great Britain in 1866. Identified as being in the public domain, content is [free of known copyright restrictions](http://creativecommons.org/publicdomain/mark/1.0/). Sourced from [original texts](http://catalog.hathitrust.org/Record/000075905) digitised by the [Hathi Trust](http://www.hathitrust.org). Typographical errors appearing in the original have been corrected, with the exception of instances where the common spelling of a Victorian word appears to differ from the modern-day equivalent. Examples include chimnies and Shakspeare.
 
 * Body text set in *[Linux Libertine](http://www.linuxlibertine.org)*. Headings and emboldened text set in *[Kameron](https://github.com/vernnobile/kameronFont)* by [Vernon Adams](http://code.newtypography.co.uk).
-* Built with *[Kirby](http://getkirby.com/)* -- an extremely flexible and easy-to-use file-based CMS -- and hosted by *[WebFaction](https://webfaction.com/?aid=42929)*.
+* Built with *[Kirby](http://getkirby.com/)*--an extremely flexible and easy-to-use file-based CMS--and hosted by *[WebFaction](https://webfaction.com/?aid=42929)*.
 * Uses *[Alphabetise](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise)*, a Kirby plugin by [Russ Baldwin](http://shoesforindustry.net).
 
 *[CMS]: Content Management System

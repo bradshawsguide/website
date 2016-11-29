@@ -1,4 +1,4 @@
-﻿section: 1
+section: 1
 ----
 title: Fenchcurch Street and Bow to Camden and Chalk Farm
 ----

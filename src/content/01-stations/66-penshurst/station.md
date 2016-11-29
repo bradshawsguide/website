@@ -28,7 +28,7 @@ A telegraph station.
 
 This is a small but exceedingly pretty village, celebrated for its fine old castle, the property of the Sidney family. This noble structure stands in a magnificent park, and covers a large area with its court, halls, and quadrangles. It also contains a valuable collection of paintings, which visitors, by the kindness of the noble owner, are permitted to view.
 
-*South Park*, the seat and property of the late Lord Hardinge, is two miles distant towards the south, and a few miles in the opposite direction in the north is the beautiful village of Seven. Oaks, containing *Knowle Park*, the seat of the Sackvilles -- a most picturesque place. The mansion is built in the old English style of architecture, castellated and with square towers. Knowle Mansion and Park form one of the most splendid seats in the kingdom. The collection of paintings is also very fine, and particularly rich in works of the great Italian masters.
+*South Park*, the seat and property of the late Lord Hardinge, is two miles distant towards the south, and a few miles in the opposite direction in the north is the beautiful village of Seven. Oaks, containing *Knowle Park*, the seat of the Sackvilles--a most picturesque place. The mansion is built in the old English style of architecture, castellated and with square towers. Knowle Mansion and Park form one of the most splendid seats in the kingdom. The collection of paintings is also very fine, and particularly rich in works of the great Italian masters.
 
 *Wilderness*, the seat of the Marquis of Camden, about two miles beyond Seven Oaks, is a more modern mansion, but most beautifully situated.
 

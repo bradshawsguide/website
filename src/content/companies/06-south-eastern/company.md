@@ -1,3 +1,5 @@
+section: 1
+----
 title: South Eastern Railway
 ----
 text: By the trains of this company the watering the inhabitants of the metropolis are thus enabled to enjoy the advantages of a visit to the sea-side at their favourite towns, the climate, temperature, and atmosphere of which many prefer and find more beneficial than that of the watering places on the South Coast.

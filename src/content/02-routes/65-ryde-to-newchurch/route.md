@@ -1,6 +1,6 @@
 section: 1
 ----
-title: First Route -- Ryde to Newchurch
+title: First Route--Ryde to Newchurch
 ----
 company: isle-of-wight
 ----
@@ -41,5 +41,5 @@ distances:
   miles: 4
 - location: Gatcombe to Ryde
   miles: 8
-- location: 'N.B. -- Blackgang to [Freshwater](/stations/freshwater)'
+- location: 'N.B.--Blackgang to [Freshwater](/stations/freshwater)'
   miles: 14½

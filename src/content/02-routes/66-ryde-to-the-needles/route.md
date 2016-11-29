@@ -1,6 +1,6 @@
 ﻿section: 1
 ----
-title: Second Route -- Ryde to the Needles
+title: Second Route--Ryde to the Needles
 ----
 company: isle-of-wight
 ----

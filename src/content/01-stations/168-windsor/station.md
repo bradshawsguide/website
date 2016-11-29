@@ -13,6 +13,7 @@ company:
 ----
 route:
 - staines-to-windsor
+- slough-to-windsor
 ----
 info:
 - term: Hotels
@@ -28,7 +29,7 @@ This is a parliamentary borough (two members), with a population of 9,520, and a
 
 **Eton College** also is within a short distance.
 
-Windsor is accessible by railway, *via* the South Western (25 miles), or the Great Western (21 miles) -- the former by way of Datchet in front of the Castle -- the latter by Slough and Eton.
+Windsor is accessible by railway, *via* the South Western (25 miles), or the Great Western (21 miles)--the former by way of Datchet in front of the Castle--the latter by Slough and Eton.
 
 <span class="u-smcp">Windsor</span> is built on the banks of the Thames, and has long been celebrated for its royal Castle and Park. It is situated on a hill which commands a delightful prospect over the adjacent country. It was first built by William the Conqueror, soon after being seated on the throne of this kingdom. Edward III. was born here, and had such an affection for the spot that he caused the old building to be pulled dawn, and a magnificent palace to be erected on its site, under the direction of the celebrated William of Wykeham; and re-established the princely order of the Garter.
 
@@ -36,45 +37,45 @@ No Briton can view unmoved the stately towers of "Windsor's castled keep." The m
 
 The castle is divided into two courts, the upper and the lower, separated from each other by the Round Tower. On the north side of the upper court are situated the state apartments, and on the south the various apartments belonging to the officers of state. The lower court is chiefly remarkable as containing that beautiful structure St. George's Chapel.
 
-**The Castle.** -- The **State Apartments** are open on Mondays, Tuesdays, Thursdays, and Fridays, from 11 until 6. Tickets gratis, at Moon's, New Oxford Street; Colnaghi's, 14, Pall Mall East; Mitchell's, 33, Old Bond Street; Ackermann's, 96, Strand. Guide books may be had, from 1d. to 1s. These tickets are available for a week from the day of issue, but not transferable; and no payment is to be made to the servants at the Castle. The private apartments are always closed, but a good panorama of their contents may be seen at Taylor's Illustrated Gallery, High-street, Windsor; admittance, 1s. Guide Books, 2d. each. Choral service at St. George's Chapel at 10½ and 4.
+**The Castle.**--The **State Apartments** are open on Mondays, Tuesdays, Thursdays, and Fridays, from 11 until 6. Tickets gratis, at Moon's, New Oxford Street; Colnaghi's, 14, Pall Mall East; Mitchell's, 33, Old Bond Street; Ackermann's, 96, Strand. Guide books may be had, from 1d. to 1s. These tickets are available for a week from the day of issue, but not transferable; and no payment is to be made to the servants at the Castle. The private apartments are always closed, but a good panorama of their contents may be seen at Taylor's Illustrated Gallery, High-street, Windsor; admittance, 1s. Guide Books, 2d. each. Choral service at St. George's Chapel at 10½ and 4.
 
 There is an ascent by the postern steps to the Castle for visitors arriving by the South Western rail; or you may go round to Henry VIII.'s gate, which leads into the town, It stands on a site of 12 acres, on the summit of a hill, commanding a magnificent view from the terrace, which is 1,870 feet, or ½ of a mile long. The great circular keep (open daily) from which the standard waves when the Queen is here, divides the upper and lower ward; it is about 150 feet above the quadrangle or 300 feet above the park, and machicolated round the top, like most of the towers here. Twelve counties are visible in clear weather from the keep. Here state prisoners were confined. Since 1824 the restoration of the Castle, carried on by Sir Jeffry Wyattville has cost about £900,000. The state rooms, private apartments, &c. are in the upper ward; St. George's church, the deanery, apartments of the knights, baronets, &c. in the lower, as you enter from Henry VIII.'s gate.
 
 The state apartments should be visited in the following order:-- They are on the north side of the quadrangle.
 
-**Audience Chamber.** -- Ceiling by Verrio. Coronation of Esther, and the triumph of Mordecai, in Gobelin tapestry; portraits of Mary, Queen of Scots, the "daughter, consort, and mother of kings," as she is styled.
+**Audience Chamber.**--Ceiling by Verrio. Coronation of Esther, and the triumph of Mordecai, in Gobelin tapestry; portraits of Mary, Queen of Scots, the "daughter, consort, and mother of kings," as she is styled.
 
-**Presence Chamber.** -- Charles II.'s queen, Katherine, on the ceiling. Subjects from Esther, in tapestry. Myten's portrait of George I.'s mother. Gibbon's carved work. Bacon's mantel-piece. This room is generally used as the ball room.
+**Presence Chamber.**--Charles II.'s queen, Katherine, on the ceiling. Subjects from Esther, in tapestry. Myten's portrait of George I.'s mother. Gibbon's carved work. Bacon's mantel-piece. This room is generally used as the ball room.
 
-**Guard Chamber.** -- Old armour, including that of John of France (taken at Poitiers), and David of Scotland (captured at Neville's cross), both of whom were prisoners here in the reign of Edward III., who was born in the Castle, 1312. Also Henry, Prince of Wales, (son of James I.), Prince Rupert's, &c. Chantrey's bust of Nelson, on a stand made out of the Victory's mast. Busts of Marlborough and Wellington (the latter by Chantrey), with the yearly banners presented to the Queen, on 2nd August and 18th June, for Blenheim and Waterloo. Henry VIII.'s shield, by B. Cellini, the famous goldsmith.
+**Guard Chamber.**--Old armour, including that of John of France (taken at Poitiers), and David of Scotland (captured at Neville's cross), both of whom were prisoners here in the reign of Edward III., who was born in the Castle, 1312. Also Henry, Prince of Wales, (son of James I.), Prince Rupert's, &c. Chantrey's bust of Nelson, on a stand made out of the Victory's mast. Busts of Marlborough and Wellington (the latter by Chantrey), with the yearly banners presented to the Queen, on 2nd August and 18th June, for Blenheim and Waterloo. Henry VIII.'s shield, by B. Cellini, the famous goldsmith.
 
-**St. George's Banqueting Hall.** -- 200 feet long, 34 feet broad; Gothic ceiling, full, of escutcheons of the Knights of the Garter since 1350, Portraits of sovereigns from James I., by Vandyke, Lely, Kneller, &c. Throne, chair of state, etc. in oak. Knights of the Garter are here knighted.
+**St. George's Banqueting Hall.**--200 feet long, 34 feet broad; Gothic ceiling, full, of escutcheons of the Knights of the Garter since 1350, Portraits of sovereigns from James I., by Vandyke, Lely, Kneller, &c. Throne, chair of state, etc. in oak. Knights of the Garter are here knighted.
 
-**Ball Room.** -- 90 feet long, by 34 broad; one fine Gothic window; furniture of the time of Louis XIV. ("Louis Quatorze" style); Emperor of Russia's malachite vase; Jason and the Golden Fleece, in tapestry.
+**Ball Room.**--90 feet long, by 34 broad; one fine Gothic window; furniture of the time of Louis XIV. ("Louis Quatorze" style); Emperor of Russia's malachite vase; Jason and the Golden Fleece, in tapestry.
 
-**Throne Room.** -- Carvings by Gibbons; ornaments of the Order of the Garter, in the ceiling and carpet; with portraits by Lawrence, &c.
+**Throne Room.**--Carvings by Gibbons; ornaments of the Order of the Garter, in the ceiling and carpet; with portraits by Lawrence, &c.
 
 **Waterloo or Grand Dining Room** is 98 feet long, and 45 high to the lantern ceiling-, In the Elizabethan style. Full of portraits, &c. of Waterloo men, sovereigns, and statesmen of that age; carvings by Gibbons; oak furniture; most of the portraits by Lawrence; among them are Picton, Anglesey, Wellington, Hill, Blucher, Castlereagh, Metternich, Pope Pius VI, Cardinal Gonsalvi (one of the best), Emperor Alexander, Platoff, Canning, and Humboldt
 
 **Grand Vestibule,** 47 ft. long, 45 high, armour, banners, &c.
 
-**Grand Staircase.** -- Chantrey's statue of George IV.
+**Grand Staircase.**--Chantrey's statue of George IV.
 
-**State Ante-room.** -- Verrio's Banquet of the Gods, in the ceiling; tapestry, Gibbons' carvings; Reynolds' George III.
+**State Ante-room.**--Verrio's Banquet of the Gods, in the ceiling; tapestry, Gibbons' carvings; Reynolds' George III.
 
 **Small Vestibule,** near the Waterloo Room. Large paintings by West, of the events in Edward III.'s reign. Carvings by Gibbons.
 
-**Rubens' Room.** -- All paintings by Rubens' mostly life size, including his portrait by himself, his wife, Battle of Nordlingen, &c. Fine view from the Oriel; and chair made of wood from old Alloway Kirk.
+**Rubens' Room.**--All paintings by Rubens' mostly life size, including his portrait by himself, his wife, Battle of Nordlingen, &c. Fine view from the Oriel; and chair made of wood from old Alloway Kirk.
 
 **Council Chamber** of Charles II.'s time, Kneller's Duke of Marlborough, Lely's Charles II. and Prince Rupert. Pictures by Flemish masters, &c.
 
 **King's Closet,** adorned with marine emblems. Quentin Matsys' misers, and other pictures, Flemish, Italian, &c.
 
-**Queen's Closet.** -- A small room with "Adelaide Regina, 1853," in the roof. Charles II. and William III.'s silver tables. George IV.'s state bed. Portraits by Holbein, pictures by C. Lorraine, Teniers, &c.
+**Queen's Closet.**--A small room with "Adelaide Regina, 1853," in the roof. Charles II. and William III.'s silver tables. George IV.'s state bed. Portraits by Holbein, pictures by C. Lorraine, Teniers, &c.
 
-**Queen's Drawing Room.** -- Large pictures by Quccarelle.
+**Queen's Drawing Room.**--Large pictures by Quccarelle.
 
-**Vandyck Room.** -- Portraits by Vandyck of Charles I, his Queen, and family, Sir K. Digby, Duchess of Richmond, &c.
+**Vandyck Room.**--Portraits by Vandyck of Charles I, his Queen, and family, Sir K. Digby, Duchess of Richmond, &c.
 
 On the south and east sides of the quadrangle are the Queen's private apartments. In the middle is a bronze statue of Charles II. with bas-reliefs by Gibbons.
 
