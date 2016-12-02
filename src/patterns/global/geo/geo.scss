@@ -1,3 +1,7 @@
 .c-geo__button[disabled] {
   color: $c-neutral--mid;
+
+  &.has-failed {
+    color: red;
+  }
 }

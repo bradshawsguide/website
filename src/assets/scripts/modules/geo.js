@@ -3,31 +3,42 @@ export default function() {
   // Feature detect
   if (!('querySelector' in document) || !('geolocation' in navigator)) return;
 
-  // Constants
   const $ = document.querySelector.bind(document);
   const $$ = document.querySelectorAll.bind(document);
-  const searchEl = $('.c-navigation__list');
-  const template = $('.c-geo');
-  const clone = document.importNode(template.content, true);
+  const container = $('.c-navigation__list');
 
-  // Activate geo search button
-  searchEl.appendChild(clone);
+  const geo = function(el) {
+    const template = $('.c-geo');
+    const clone = document.importNode(template.content, true);
 
-  // Request current position
-  navigator.geolocation.getCurrentPosition(geoSuccess, geoFail);
+    el.appendChild(clone);
+    const button = $('.c-geo__button');
 
-  function geoSuccess(position) {
-    const lat = position.coords.latitude.toFixed(4);
-    const lng = position.coords.longitude.toFixed(4);
-    const geoButton = $('.c-geo__button');
+    // Geo location options
+    const geoOptions = {
+      maximumAge: 30000,
+      timeout: 27000
+    };
 
-    geoButton.disabled = false;
-    geoButton.addEventListener('click', function(e) {
-      window.location.href = '/search?g=' + lat + ',' + lng;
-    });
-  };
+    // Geo location provided and successful
+    const geoSuccess = function(position) {
+      const lat = position.coords.latitude.toFixed(4);
+      const lng = position.coords.longitude.toFixed(4);
 
-  function geoFail() {
-    alert('Could not locate you.');
+      button.disabled = false;
+      button.addEventListener('click', function(e) {
+        window.location.href = '/search?g=' + lat + ',' + lng;
+      });
+    };
+
+    // Geo location not provided or unsuccessful
+    const geoFail = function() {
+      button.classList.add('has-failed');
+    };
+
+    // Request current position
+    navigator.geolocation.getCurrentPosition(geoSuccess, geoFail, geoOptions);
   }
+
+  geo(container);
 }
