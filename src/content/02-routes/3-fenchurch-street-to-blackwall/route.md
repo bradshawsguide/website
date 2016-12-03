@@ -1,6 +1,8 @@
 section: 1
 ----
-title: Fenchurch Street to Blackwall
+title: London and Blackwall Railway
+----
+description: Fenchurch Street to Blackwall
 ----
 company: london-and-blackwall
 ----

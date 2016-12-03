@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Staines to Windsor
+title: Windsor Branch
+----
+description: Staines to Windsor
 ----
 company: london-and-south-western
 ----

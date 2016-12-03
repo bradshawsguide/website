@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: London to Brighton
+title: London and Brighton Main Line
+----
+description: London to Brighton
 ----
 company: london-brighton-and-south-coast
 ----

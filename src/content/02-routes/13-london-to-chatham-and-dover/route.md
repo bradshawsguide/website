@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: London and Beckenham to Chatham, Canterbury, and Dover
+title: Chatham Main Line
+----
+description: London and Beckenham to Chatham, Canterbury, and Dover
 ----
 company: london-chatham-and-dover
 ----

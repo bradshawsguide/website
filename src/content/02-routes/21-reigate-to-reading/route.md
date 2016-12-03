@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Reigate to Reading
+title: Reading, Guildford, and Reigate Branch
+----
+description: Reigate to Reading
 ----
 company: south-eastern
 ----

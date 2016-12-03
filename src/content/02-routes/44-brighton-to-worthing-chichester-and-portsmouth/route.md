@@ -1,11 +1,12 @@
 ﻿section: 1
 ----
-title: Brighton to Worthing, Chichester and Portsmouth
+title: Portsmouth Branch
+----
+today: West Coastway Line
+----
+description: Brighton to Worthing, Chichester and Portsmouth
 ----
 company: london-brighton-and-south-coast
-----
-related:
-- (wikipedia: West Coastway Line)
 ----
 stops:
 - brighton

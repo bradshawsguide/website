@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Lewes to Newhaven
+title: Newhaven Branch
+----
+description: Lewes to Newhaven
 ----
 company: london-brighton-and-south-coast
 ----

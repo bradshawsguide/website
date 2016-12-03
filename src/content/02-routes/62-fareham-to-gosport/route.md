@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Fareham to Gosport
+title: Gosport Branch
+----
+description: Fareham to Gosport
 ----
 company: london-and-south-western
 ----

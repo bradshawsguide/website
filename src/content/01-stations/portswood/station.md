@@ -2,9 +2,11 @@
 ----
 title: Portswood
 ----
+today: St. Denys
+----
 region: Hampshire
 ----
-location: 
+location:
 ----
 company:
 - london-and-south-western
@@ -12,8 +14,5 @@ company:
 route:
 - london-to-southampton-dorchester-and-weymouth
 - southampton-to-netley
-----
-related:
-- (wikipedia: St. Denys railway station)
 ----
 text: A line of railway, about three miles long, extends from here along the eastern shores of the Southampton Water to [Netley Abbey](/stations/netley-abbey).

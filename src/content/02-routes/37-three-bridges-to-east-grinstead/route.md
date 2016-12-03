@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Three Bridges to East Grinstead
+title: East Grinstead Branch
+----
+description: Three Bridges to East Grinstead
 ----
 company: london-brighton-and-south-coast
 ----

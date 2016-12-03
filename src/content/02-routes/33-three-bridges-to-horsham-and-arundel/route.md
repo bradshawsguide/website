@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Three Bridges to Horsham & Arundel
+title: Horsham Branch
+----
+description: Three Bridges to Horsham, Petworth, and Arundel
 ----
 company: london-brighton-and-south-coast
 ----

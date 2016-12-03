@@ -16,9 +16,6 @@ route:
 - bishopstoke-to-gosport-and-portsmouth
 - bishopstoke-to-salisbury
 ----
-related:
-- (wikipedia: Eastleigh railway station)
-----
 text: A telegraph station.
 
 The little village that gives name to the station is most pleasantly situated, but contains no object worthy of remark.

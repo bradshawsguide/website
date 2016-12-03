@@ -2,6 +2,8 @@
 ----
 title: Dunbridge
 ----
+today: Mottisfont & Dunbridge
+----
 region: Hampshire
 ----
 location: 51.0339, -1.5469
@@ -11,9 +13,6 @@ company:
 ----
 route:
 - bishopstoke-to-salisbury
-----
-related:
-- (wikipedia: Mottisfont & Dunbridge railway station)
 ----
 info:
 - term: Money Order Office

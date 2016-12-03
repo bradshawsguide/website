@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Weymouth to Portland
+title: Portland Branch
+----
+description: Weymouth to Portland
 ----
 company: london-and-south-western
 ----

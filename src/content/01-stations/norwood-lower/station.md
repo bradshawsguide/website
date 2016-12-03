@@ -2,15 +2,14 @@ section: 1
 ----
 title: Norwood, Lower
 ----
+today: West Norwood
+----
 region: Surrey
 ----
-location: 
+location:
 ----
 company:
 - london-brighton-and-south-coast
 ----
 route:
 - victoria-to-crystal-palace
-----
-related:
-- (wikipedia: West Norwood railway station)

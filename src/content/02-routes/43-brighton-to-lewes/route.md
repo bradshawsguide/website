@@ -1,6 +1,10 @@
 ﻿section: 1
 ----
-title: Brighton to Lewes
+title: Brighton and Lewes Branch
+----
+today: East Coastway Line
+----
+description: Brighton to Lewes
 ----
 company: london-brighton-and-south-coast
 ----

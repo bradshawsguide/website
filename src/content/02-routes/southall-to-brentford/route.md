@@ -1,6 +1,8 @@
 ﻿section: 2
 ----
-title: Southall to Brentford
+title: Brentford Branch
+----
+description: Southall to Brentford
 ----
 company: great-western
 ----

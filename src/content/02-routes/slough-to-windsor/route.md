@@ -1,6 +1,8 @@
 ﻿section: 2
 ----
-title: Slough to Windsor
+title: Windsor Branch
+----
+description: Slough to Windsor
 ----
 company: great-western
 ----

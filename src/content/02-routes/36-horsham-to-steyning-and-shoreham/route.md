@@ -1,11 +1,10 @@
 ﻿section: 1
 ----
-title: Horsham to Steyning and Shoreham
+title: Steyning Line
+----
+description: Horsham to Steyning and Shoreham
 ----
 company: london-brighton-and-south-coast
-----
-related:
-- (wikipedia: Steyning Line)
 ----
 stops:
 - horsham

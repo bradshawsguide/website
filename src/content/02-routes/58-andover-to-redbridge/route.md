@@ -1,11 +1,10 @@
 ﻿section: 1
 ----
-title: Andover to Redbridge
+title: Sprat and Winkle Line
+----
+description: Andover to Redbridge
 ----
 company: london-and-south-western
-----
-related:
-- (wikipedia: Sprat and Winkle Line)
 ----
 stops:
 - andover

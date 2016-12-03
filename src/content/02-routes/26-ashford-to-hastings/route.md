@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Ashford to Hastings
+title: Hastings Branch
+----
+description: Ashford to Hastings
 ----
 company: south-eastern
 ----

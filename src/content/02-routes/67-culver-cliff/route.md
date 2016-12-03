@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Third Route--Culver Cliff, through the centre of the the Island
+title: Third Route
+----
+description: Culver Cliff, through the centre of the the Island
 ----
 company: isle-of-wight
 ----

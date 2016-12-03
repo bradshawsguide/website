@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: London to Southampton, Dorchester and Weymouth
+title: South Western Main Line
+----
+description: London to Southampton, Dorchester and Weymouth
 ----
 company: london-and-south-western
 ----
@@ -49,6 +51,8 @@ Emerging from the excavation, we proceed onwards over an embankment, which affor
 
 ## Weybridge to Woking
 From the hill before [Weybridge](/stations/weybridge) to [Woking](/stations/woking), a distance of six miles, there is a gradual descent After crossing the bridge which spans the Basingstoke Canal, here intersected by the canal from Guildford, and passing several villages, we pass over the Woking embankment, whence a succession of picturesque views will delight the traveller. Ottershaw Park affords a pleasing specimen of English forest scenery. The fine effect of these majestic trees, with nothing behind them but the sunny splendour of a summer morning, or the rich glow of an evening sky, realises all that Claude has embodied in his pictures.
+
+Three-quarters of a mile beyond [Woking](/stations/woking) a line branches off to the left to Guildford and Godalming, [direct to Portsmouth](/routes/woking-to-godalming-and-portsmouth), from which [another branch](/routes/guildford-to-farnham-and-alton) diverges at Guildford and extends to Ash, Farnham, and Alton.
 
 ## Woking to Basingstoke
 From Woking the line shortly crosses the road by a viaduct of one arch, and then enters the Goldworthy Hill excavation, on emerging from which it proceeds over the Frimley embankment, about four miles in length, whence an almost unbounded view of the surrounding country bursts upon the sight.

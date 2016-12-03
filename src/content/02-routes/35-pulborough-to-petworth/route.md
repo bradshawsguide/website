@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Pulborough to Petworth
+title: Pulborough Line
+----
+description: Pulborough to Petworth
 ----
 company: london-brighton-and-south-coast
 ----

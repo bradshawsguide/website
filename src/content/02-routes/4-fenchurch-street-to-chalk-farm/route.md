@@ -1,6 +1,8 @@
 section: 1
 ----
-title: Fenchcurch Street and Bow to Camden and Chalk Farm
+title: North London Railway
+----
+description: Fenchcurch Street and Bow to Camden and Chalk Farm
 ----
 company: north-london
 ----

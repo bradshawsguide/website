@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Polegate to Eastbourne
+title: Eastbourne Branch
+----
+description: Polegate to Eastbourne
 ----
 company: london-brighton-and-south-coast
 ----

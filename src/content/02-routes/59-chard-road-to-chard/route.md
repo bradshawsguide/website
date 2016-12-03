@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Chard Road to Chard
+title: Chard Branch
+----
+description: Chard Road to Chard
 ----
 company: london-and-south-western
 ----

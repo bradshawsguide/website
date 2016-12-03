@@ -4,7 +4,11 @@
     <ul class="c-list">
     <? foreach($items as $item): ?>
       <li class="c-list__item">
-        <?= html::a($item->url(), smartypants($item->title())) ?>
+        <?
+          pattern('common/route', [
+            'route' => $item
+          ])
+        ?>
       </li>
     <? endforeach ?>
     </ul>

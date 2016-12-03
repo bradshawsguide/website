@@ -9,9 +9,6 @@ location: 50.701, -1.2883
 route:
 - ryde-to-the-needles
 ----
-related:
-- (wikipedia: Newport railway station IoWCR Isle of Wight)
-----
 info:
 - term: Hotel
   desc: Bugle; Star; Green Dragon.

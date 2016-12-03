@@ -1,11 +1,10 @@
 ﻿section: 1
 ----
-title: Croydon to Wimbledon
+title:  Croydon and Wimbledon Branch
+----
+description: Croydon to Wimbledon
 ----
 company: london-brighton-and-south-coast
-----
-related:
-- (wikipedia: West Croydon to Wimbledon Line)
 ----
 stops:
 - croydon

@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Victoria and Elephant and Castle to Herne Hill
+title: Metropolitan Extension
+----
+description: Victoria and Elephant and Castle to Herne Hill
 ----
 company: london-chatham-and-dover
 ----

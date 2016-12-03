@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Twickenham to Shepperton
+title: Thames Valley Railway
+----
+description: Twickenham to Shepperton
 ----
 company: london-and-south-western
 ----

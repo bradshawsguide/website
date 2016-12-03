@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Petersfield to Midhurst
+title: Petersfield Line
+----
+description: Petersfield to Midhurst
 ----
 company: london-and-south-western
 ----

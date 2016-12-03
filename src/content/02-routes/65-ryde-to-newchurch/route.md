@@ -1,6 +1,8 @@
 section: 1
 ----
-title: First Route--Ryde to Newchurch
+title: First Route
+----
+description: Ryde to Newchurch
 ----
 company: isle-of-wight
 ----

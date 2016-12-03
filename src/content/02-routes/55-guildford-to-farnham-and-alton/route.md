@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Guildford to Farnham and Alton
+title: Alton Branch
+----
+description: Guildford to Farnham and Alton
 ----
 company: london-and-south-western
 ----

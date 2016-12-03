@@ -1,11 +1,10 @@
 ﻿section: 1
 ----
-title: Sutton to Epsom Downs
+title: Epsom Downs Branch
+----
+description: Sutton to Epsom Downs
 ----
 company: london-brighton-and-south-coast
-----
-related:
-- (wikipedia: Epsom Downs Branch)
 ----
 stops:
 - sutton

@@ -1,6 +1,8 @@
 ﻿section: 2
 ----
-title: West Drayton to Uxbridge
+title: Uxbridge Branch
+----
+description: West Drayton to Uxbridge
 ----
 company: great-western
 ----

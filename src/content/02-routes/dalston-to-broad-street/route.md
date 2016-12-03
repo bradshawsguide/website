@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Dalston to Broad Street
+title: Shoreditch Branch
+----
+description: Dalston to Broad Street
 ----
 company: north-london
 ----

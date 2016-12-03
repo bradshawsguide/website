@@ -1,11 +1,10 @@
 ﻿section: 1
 ----
-title: Victoria to Crystal Palace
+title: West End of London and Crystal Palace Railway
+----
+description: Victoria to Crystal Palace
 ----
 company: london-brighton-and-south-coast
-----
-related:
-- (wikipedia: West End of London and Crystal Palace Railway)
 ----
 stops:
 - victoria

@@ -2,6 +2,8 @@ section: 2
 ----
 title: Great Western Main Line
 ----
+description: London to Maidenhead
+----
 company: great-western
 ----
 stops:
@@ -20,8 +22,7 @@ The *Metropolitan Terminus* of the Great Western Railway is situated on the west
 
 It is the joint work of Messrs. Brunei and M. D. Wyatt, the former having arranged the general plan, engineering, and business portion; the latter the architectural details in every department. The principle adopted by them, was to avoid any recurrence to existing styles and to make the experiment of designing everything in accordance with the structural purpose or nature of the materials employed—iron and cement. The office buildings are 580 feet long, varying from thirty to forty in width. The departments for directing and managing the affairs of the Company are carried on in the upper portion of the building, and those in connection with the traffic to and from the station in the lower part.
 
-The space occupied by the platforms and lines of railway under the curved roofing is 700 feet long, and 240 feet six inches wide, and contains four platforms and ten lines of railway The two platforms on the departure side of the station are respectively twenty-seven feet and twenty-four feet six inches wide; and the other two, on the arrival side, are twenty-one feet and forty-seven inches. The latter is of stone. The rooting over the above space is divided into three longitudinal openings, with two transepts, each fifty feet wide, at one-third and two-thirds of the length, the length of which are each 700 feet, and their respective widths seventy feet, 102 feet six inches, and sixty-eight feet. The central half of the curved roofs is glazed, and the other portion is covered with corrugated galvanized iron. The work
-was done by Messrs. Fox, Henderson, and Co.
+The space occupied by the platforms and lines of railway under the curved roofing is 700 feet long, and 240 feet six inches wide, and contains four platforms and ten lines of railway The two platforms on the departure side of the station are respectively twenty-seven feet and twenty-four feet six inches wide; and the other two, on the arrival side, are twenty-one feet and forty-seven inches. The latter is of stone. The rooting over the above space is divided into three longitudinal openings, with two transepts, each fifty feet wide, at one-third and two-thirds of the length, the length of which are each 700 feet, and their respective widths seventy feet, 102 feet six inches, and sixty-eight feet. The central half of the curved roofs is glazed, and the other portion is covered with corrugated galvanized iron. The work was done by Messrs. Fox, Henderson, and Co.
 
 On the departure of the train, it threads the sinuosities of the station at an easy rate, and we have time to notice the metamorphosis that has taken place in the em-irons of the line; walls have become green embankments, embankments diminished into hedges, and bodges grown into avenues of trees, waving a leafy adieu as we are carried past, The increasing velocity of the train now conveys us rapidly into the suburbs of the metropolis--past Kensal Green Cemetery on the right, Wormwood Scrubs on the left, and a transient glimpse is obtained of the London and North-Western Railway winding its course towards the midland counties.
 

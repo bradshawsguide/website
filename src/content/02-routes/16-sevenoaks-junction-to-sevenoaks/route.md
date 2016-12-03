@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Sevenoaks Junction to Sevenoaks
+title: Sevenoaks Branch
+----
+description: Sevenoaks Junction to Sevenoaks
 ----
 company: london-chatham-and-dover
 ----

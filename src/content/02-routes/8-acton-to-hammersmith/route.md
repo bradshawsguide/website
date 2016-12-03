@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Acton to Hammersmith
+title: Hammersmith Branch
+----
+description: Acton to Hammersmith
 ----
 company: north-and-south-western-junction
 ----

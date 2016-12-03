@@ -1,0 +1,36 @@
+.c-route {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: units(1);
+
+  @media screen and (min-width: $v-breakpoint--c) {
+    flex-direction: row;
+  }
+
+  &:hover {
+    text-decoration: none;
+
+    .c-route__title {
+      text-decoration: underline;
+    }
+  }
+}
+
+.c-route__title {
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.c-route__desc {
+  @include fs--caption;
+  white-space: nowrap;
+
+  @media screen and (min-width: $v-breakpoint--c) {
+    margin-top: auto;
+
+    &::before {
+      content: '—';
+      margin: 0 units(1/4);
+    }
+  }
+}

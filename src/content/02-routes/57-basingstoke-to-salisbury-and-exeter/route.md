@@ -1,11 +1,10 @@
 ﻿section: 1
 ----
-title: Basingstoke to Salisbury and Exeter
+title: West of England Main Line
+----
+description: Basingstoke to Salisbury, Yeovil, and Exeter
 ----
 company: london-and-south-western
-----
-related:
-- (wikipedia: West of England Main Line)
 ----
 stops:
 - basingstoke

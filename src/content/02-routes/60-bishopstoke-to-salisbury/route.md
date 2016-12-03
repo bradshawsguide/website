@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: Bishopstoke to Salisbury
+title: Salisbury Branch
+----
+description: Bishopstoke to Salisbury
 ----
 company: london-and-south-western
 ----

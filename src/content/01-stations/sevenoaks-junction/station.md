@@ -4,9 +4,11 @@ title: Sevenoaks Junction
 ----
 short_title: Sevenoaks Jct.
 ----
+today: Swanley
+----
 region: Kent
 ----
-location: 
+location:
 ----
 company:
 - london-chatham-and-dover
