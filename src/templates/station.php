@@ -28,7 +28,10 @@
     'items' => $routes
   ]);
 
-  pattern('section/related', ['p' => $page]);
+  pattern('section/related', [
+    'p' => $page,
+    'type' => 'railway station'
+  ]);
 
   pattern('page/footer', ['p' => $page]);
 ?>

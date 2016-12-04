@@ -17,9 +17,10 @@
     'stops' => $page->stops()->yaml()
   ]);
 
-  if (!$page->related()->empty()) {
-    pattern('section/related', ['p' => $page]);
-  }
+  pattern('section/related', [
+    'p' => $page,
+    'type' => 'line'
+  ]);
 
   pattern('page/footer', ['p' => $page]);
 ?>

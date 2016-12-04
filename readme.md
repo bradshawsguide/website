@@ -78,7 +78,6 @@ bradshawsguide
 │   ├── patterns/     # Template patterns
 │   ├── plugins/      # Kirby plugins
 │   ├── snippets/     # Template snippets
-│   ├── tags/         # Kirbytext tags
 │   └── templates/    # Templates
 │
 ├── www/              # COMPILED/RUNTIME
