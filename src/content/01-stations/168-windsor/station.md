@@ -13,7 +13,6 @@ company:
 ----
 route:
 - staines-to-windsor
-- slough-to-windsor
 ----
 info:
 - term: Hotels

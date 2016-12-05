@@ -1,0 +1,15 @@
+.l-grid {
+  @media screen and (min-width: $v-breakpoint--b) {
+    display: flex;
+    flex-wrap: true;
+    justify-content: space-between;
+
+    > *:first-child {
+      flex-basis: 64%;
+    }
+
+    > *:last-child {
+      flex-basis: 32%;
+    }
+  }
+}

@@ -8,15 +8,21 @@
 
   pattern('page/header', [
     'p' => $page,
-    'subtitle' => html::a($companyUrl, smartypants($companyTitle))
+    'parent' => html::a($companyUrl, $companyTitle)
   ]);
-
-  pattern('page/content', ['p' => $page]);
+?>
+  <div class="l-grid l-grid--route">
+<?
+  pattern('page/content', [
+    'p' => $page
+  ]);
 
   pattern('section/routemap', [
     'stops' => $page->stops()->yaml()
   ]);
-
+?>
+  </div>
+<?
   pattern('section/related', [
     'p' => $page,
     'type' => 'line'

@@ -14,7 +14,7 @@ route:
 - new-cross-to-chislehurst
 - lewisham-to-beckenham-and-croydon
 ----
-notes: (Junction).
+notes: (Junction)
 ----
 info:
 - term: Fairs

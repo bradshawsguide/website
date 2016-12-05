@@ -1,9 +1,18 @@
 <header class="c-page__header">
-  <h1 class="c-page__title"><?= smartypants($p->title()) ?></h1>
-<? if (isset($notes)): ?>
-  <p class="c-page__notes"><?= smartypants($notes) ?></p>
+<? if (isset($parent)): ?>
+  <nav class="c-page__parent">
+    <?= smartypants($parent) ?>
+  </nav>
 <? endif ?>
-<? if (isset($subtitle)): ?>
-  <h2 class="c-page__subtitle"><?= $subtitle ?></h2>
+  <h1 class="c-page__title">
+    <?= smartypants($p->title()) ?>
+    <? if ($p->notes()->isNotEmpty()): ?>
+      <span><?= $p->notes() ?></span>
+    <? endif ?>
+  </h1>
+<? if ($p->description()->isNotEmpty()): ?>
+  <h2 class="c-page__description">
+    <?= smartypants($p->description()) ?>
+  </h2>
 <? endif ?>
 </header>

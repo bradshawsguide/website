@@ -1,6 +1,6 @@
 ﻿section: 2
 ----
-title: Windsor Branch
+title: Slough to Windsor & Eton Line
 ----
 description: Slough to Windsor
 ----
@@ -9,6 +9,6 @@ company: great-western
 stops:
 - slough
 - eton
-- windsor
+- windsor-central
 ----
 text:

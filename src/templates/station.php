@@ -2,9 +2,15 @@
 
 <article class="c-page<? if ($page->hasImages()): ?> c-page--has-poster<? endif ?>">
 <?
+  $region = $page->region()->uid();
+  $regionUid = $site->page('regions')->index()->filterBy('uid','sussex');
+  $regionUrl = $regionUid->url();
+  $regionTitle = page($regionUid)->title();
+
   pattern('page/header', [
     'p' => $page,
-    'notes' => $page->notes()
+    'notes' => $page->notes(),
+    'parent' => html::a($regionUrl, $regionTitle)
   ]);
 
   if($page->hasImages()) {

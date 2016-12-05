@@ -4,7 +4,7 @@
   <meta charset="utf-8"/>
 
   <meta property="og:url" content="<?= $page->url() ?>"/>
-  <meta property="og:title" content="<?= smartypants(html($page->title())) ?>"/>
+  <meta property="og:title" content="<?= $page->title() ?>"/>
 <? if($page->text()->isNotEmpty()): ?>
   <meta property="og:description" content="<?= excerpt($page->text(), $length=300) ?>"/>
 <? endif ?>
@@ -33,7 +33,7 @@
 
   <script src="<?= url('assets/app.js') ?>" async></script>
 
-  <title><?= smartypants($page->title()) ?><? if(!$page->isHomePage()): ?> - <?= $site->title() ?><? endif ?></title>
+  <title><?= $page->title() ?><? if(!$page->isHomePage()): ?> - <?= $site->title() ?><? endif ?></title>
 </head>
 
 <body>

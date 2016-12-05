@@ -14,8 +14,6 @@ company:
 route:
 - strood-to-maidstone-and-paddock-wood
 ----
-notes:
-----
 text: On leaving [Strood](/stations/strood), the line, skirting the banks of the swift Medway, soon brings us to Cuxton.
 
 A telegraph station.

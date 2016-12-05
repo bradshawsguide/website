@@ -1,0 +1,14 @@
+.c-image {
+  margin-bottom: 2rem;
+}
+
+.c-image__img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.c-image__caption {
+  @include fs--caption;
+}

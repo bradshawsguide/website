@@ -14,7 +14,7 @@ route:
 - charing-cross-to-folkestone-and-dover
 - london-to-brighton
 ----
-notes: for Dartmouth Arms.
+notes: for Dartmouth Arms
 ----
 text: A telegraph station.
 

@@ -6,13 +6,13 @@
   padding-bottom: 1.5rem;
 
   @media screen and (min-width: $v-breakpoint--b) {
-    flex-direction: row;
-    align-items: flex-end;
     padding-top: 1.5rem;
     padding-bottom: 3rem;
   }
 
   @media screen and (min-width: $v-breakpoint--d) {
+    padding-top: 3rem;
+
     .c-page--has-poster & {
       position: absolute;
       top: 0;
@@ -26,8 +26,20 @@
   @include fs--title;
   font-family: $f-block;
   color: $c-neutral--dark;
+
+  span {
+    font-size: 75%;
+  }
 }
 
-.c-page__notes {
+.c-page__parent {
   @include fs--info;
+  font-family: $f-serif;
+  font-style: italic;
+}
+
+.c-page__description {
+  @include fs--info;
+  font-family: $f-slab;
+  color: $c-neutral--dark;
 }
