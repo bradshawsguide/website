@@ -10,7 +10,8 @@ company:
 - great-western
 ----
 route:
-- london-to-maidenhead
+- london-to-didcot
+- maidenhead-to-wycombe-and-oxford
 ----
 info:
 - term: Population

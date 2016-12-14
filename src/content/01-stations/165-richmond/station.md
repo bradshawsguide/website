@@ -32,22 +32,22 @@ Richmond had a royal palace from the tune of Edward I., called *Sheen*, i.e. Shi
 
 The old park was behind the palace, and now makes part of Kew Gardens; the great park, on the top of the hill, was not enclosed till Charles I.'s tune. In ascending to it you pass the brick church in which Thomson the poet, Mrs. Yates, and Kean the actors, Dr. Moore the author of "Zeluco" and father of Sir John Moore, are buried; it contains also Flaxman's monument of Mrs. Lowther. Thomson died at *Rosedale House*, now the Dowager Countess of Shaftesbury's seat, and here his desk, garden seat, &c. are to be seen. The sight of the church put Collins in mind of writing his pretty lines on him, beginning, "In yonder shade a Druid lies." At the top of the hill, half a mile from the town, where Sir J. Reynolds's house stands, you catch the splendid prospect so often celebrated:--
 
-> Thy hill, delightful *Shene!*   Here let us sweep  
-> The boundless landscape. Now the raptured eye  
-> Exulting, swift to huge Augusta∗ send,  
-> Now to the sister hills† that skirt her plain,  
-> To lofty Harrow bow, and now to where  
-> Majestic Windsor lifts his princely brow.  
-> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;∗              ∗              ∗              ∗  
-> Slow let us trace the matchless vale of Thames;  
-> Fair windng-up to where the muses haunt  
-> In Twit'ham's bowers—  
-> &#160;&#160;&#160;&#160;&#160;&#160;&#160;∗     ∗        to Royal Hampton's pile,  
+> Thy hill, delightful *Shene!*  Here let us sweep
+> The boundless landscape.  Now the raptured eye
+> Exulting, swift to huge Augusta<sup>∗</sup> send,
+> Now to the sister hills<sup>†</sup> that skirt her plain,
+> To lofty Harrow bow, and now to where
+> Majestic Windsor lifts his princely brow.
+> * * *
+> Slow let us trace the matchless vale of Thames;
+> Fair windng-up to where the muses haunt
+> In Twit'ham's bowers—
+> &#160;&#160;&#160;&#160;&#160;&#160;&#160;∗     ∗        to Royal Hampton's pile,
 > To Claremont's terraced heights and Esher's groves.
 
 <cite>Thompson.</cite>
 
-∗ London. † Hampstead and Highgate.
+<small><sup>∗</sup> London. <sup>†</sup> Hampstead and Highgate.</small>
 
 It would be worth while to read the noble lines which follow this quotation in the poet's "Summer" sitting under elms on this spot; there is a glow and dignity in them equal to the magnificence of the prospect spread out before one's eyes. The great lodge which was Sir R. Walpole's seat, *Pembroke Lodge*, the seat of Earl Russell, and *the New Terrace*, offer some of the best points of view in the park. The *Ranger's Lodge*, formerly the seat of Lord Sidmouth, and many more noble mansions are situated on or round the hill.
 

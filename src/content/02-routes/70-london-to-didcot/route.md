@@ -2,7 +2,7 @@ section: 2
 ----
 title: Great Western Main Line
 ----
-description: London to Maidenhead
+description: London to Didcot
 ----
 company: great-western
 ----
@@ -15,6 +15,13 @@ stops:
 - langley
 - slough
 - maidenhead
+- twyford
+- reading
+- pangbourne
+- goring
+- wallingford-road
+- wallingford
+- didcot
 ----
 text: ## London to Slough
 
@@ -32,3 +39,11 @@ The route at first lies through the Thames Valley, then, after passing the. elev
 Between the lofty and luxuriant foliage of Stoke Park, about two miles to the right of Slough, may be descried, modestly peering through the surrounding trees, the spire of Stoke Pogis Church, the scene of Gray's "Elegy." The following inscription to his memory is on the east wall of the church:--"Opposite to this stone, in the same tomb upon which he has so feelingly recorded his grief at the loss of a beloved parent, lie deposited the remains of Thomas Gray, the author of the 'Elegy written in a Country Churchyard,' &c, &c, &c. He was buried August 6th, 1771." The church itself has no internal beauty, being over-crowded with pews; but the churchyard is one of the prettiest in England. The cloister is worth a visit. As the train proceeds, the broad and verdant fields spread out on each side of us in all the pride of luxuriant vegetation.
 
 Burnham Village is close by, situate in the midst of picturesque woodland scenery, popularised by the adventures of Albert Smith's Mr. Ledbury.
+
+## Maidenhead to Reading
+Upon leaving Maidenhead the railway soon spans, by a bridge, of ten arches, the river Thames which here glides through a flat, but most charming country. Having crossed the Windsor road, and diverged gradually to the southward we suddenly dip into an excavation of considerable depth; the characteristic chalky sides of which are replete with geological interest. This cutting, which continues for upwards of five miles, completely shuts out the surrounding country; but coming suddenly upon the Ruscombe embankment, we are amply repaid by a magnificent expanse of landscape. Hill and dale, dotted with elegant villas and noble mansions, woodland and water scenery, together with wide far-stretching meadow and corn-land, follow each other in varied succession to the very verge of the horizon. We have scarcely had time, however, to feast our vision with this delightful prospect, before we are again buried in a cutting, though of shorter duration, and through this we reach the station at Twyford.
+
+Within a few minutes after quitting the station, we emerge from the excavation, and cross, on an embankment, the river Loddon. From this we enter into another cutting of great depth conducting us to an embankment which affords a pleasing view of the county bordering on the woody lands of Oxfordshire. Crossing, on a level embankment, the river Kennet, we soon after reach the station at Reading.
+
+## Reading to Didcot
+Passing slowly from the station at a pace that affords us a pleasing bird's eye view of the town, we are earned forward on the same level embankment, and crossing the valley of the Thames soon reach the Roebuck excavation. An embankment, followed by a brief though deep cutting, through the grounds of Purley Park, gives us some charming prospects on the Oxfordshire side, with a mass of woodland scenery scattered over the undulating ground, and cresting even the high summits of the Mapledurham hills beyond.

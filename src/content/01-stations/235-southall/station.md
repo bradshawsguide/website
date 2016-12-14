@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- london-to-maidenhead
+- london-to-didcot
 - southall-to-brentford
 ----
 info:

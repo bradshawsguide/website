@@ -2,15 +2,15 @@
 
 <article class="c-page<? if ($page->hasImages()): ?> c-page--has-poster<? endif ?>">
 <?
-  $region = $page->region()->uid();
-  $regionUid = $site->page('regions')->index()->filterBy('uid','sussex');
-  $regionUrl = $regionUid->url();
-  $regionTitle = page($regionUid)->title();
+  $region = str::lower($page->region()->uid());
+  $regionUrl = $site->page('regions')->index()->filterBy('uid', $region);
+  $regionTitle = page($regionUrl)->title();
 
   pattern('page/header', [
     'p' => $page,
     'notes' => $page->notes(),
-    'parent' => html::a($regionUrl, $regionTitle)
+    'parent' => html::a('/'.$regionUrl, $regionTitle),
+    'subtitle' => $page->today()
   ]);
 
   if($page->hasImages()) {

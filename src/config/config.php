@@ -9,6 +9,9 @@ c::set('license', '');
 // URL setup
 c::set('url', '/');
 
+// Whoops error reporting
+c::set('whoops', false);
+
 // Routes
 c::set('routes', array(
   array(

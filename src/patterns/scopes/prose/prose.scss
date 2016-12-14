@@ -28,6 +28,14 @@
     text-align: center;
   }
 
+  h3 {
+    @include fs--body;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-variant-caps: small-caps;
+    text-align: center;
+  }
+
   a {
     text-decoration: underline;
     text-decoration-color: rgba($c-link, 0.33);
@@ -93,8 +101,19 @@
 
   blockquote {
     margin: 0.75em 10%;
-    font-size: 80%;
+    font-size: 85%;
     line-height: 1.4;
+
+    hr {
+      margin: 1.5rem 0;
+
+      &::after {
+        display: block;
+        height: 0;
+        letter-spacing: 1.5rem;
+        content: '\00A0 ∗ ∗ ∗ ∗ ';
+      }
+    }
 
     p {
       white-space: pre-wrap;
@@ -109,8 +128,9 @@
       display: block;
       margin-top: -0.75rem;
       margin-bottom: 0.75rem;
+      font-size: 75%;
       font-style: normal;
-      font-variant-caps: all-small-caps;
+      font-variant-caps: small-caps;
       text-align: center;
 
       &::before {
@@ -145,6 +165,10 @@
 
   dd:not([class]) {
     margin-left: $v-text-indent;
+  }
+
+  small {
+    font-size: 75%;
   }
 
   table {

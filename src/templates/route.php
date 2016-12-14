@@ -8,7 +8,8 @@
 
   pattern('page/header', [
     'p' => $page,
-    'parent' => html::a($companyUrl, $companyTitle)
+    'parent' => html::a($companyUrl, $companyTitle),
+    'subtitle' => $page->description()
   ]);
 ?>
   <div class="l-grid l-grid--route">

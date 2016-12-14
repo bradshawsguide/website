@@ -3,6 +3,14 @@
 // w3c.github.io/html/grouping-content.html
 // ========================================================
 
+hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+  border: 0;
+  line-height: 0;
+}
+
 p,
 pre,
 blockquote,

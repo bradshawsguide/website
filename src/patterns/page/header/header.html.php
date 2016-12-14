@@ -10,9 +10,9 @@
       <span><?= $p->notes() ?></span>
     <? endif ?>
   </h1>
-<? if ($p->description()->isNotEmpty()): ?>
-  <h2 class="c-page__description">
-    <?= smartypants($p->description()) ?>
+<? if (isset($subtitle)): ?>
+  <h2 class="c-page__subtitle">
+    <?= smartypants($subtitle) ?>
   </h2>
 <? endif ?>
 </header>
