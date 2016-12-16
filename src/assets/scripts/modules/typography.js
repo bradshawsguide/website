@@ -42,10 +42,12 @@ export default function() {
     return node;
   };
 
-  matchText(prose, new RegExp('\\b' + placename + '\\b'), function(node, match, offset) {
-    var span = document.createElement('span');
-    span.className = 'u-smcp';
-    span.textContent = match;
-    return span;
-  });
+  if (prose !== null) {
+    matchText(prose, new RegExp('\\b' + placename + '\\b'), function(node, match, offset) {
+      var span = document.createElement('span');
+      span.className = 'u-smcp';
+      span.textContent = match;
+      return span;
+    });
+  }
 }

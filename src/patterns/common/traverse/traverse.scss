@@ -9,6 +9,10 @@
 
   &:last-of-type {
     margin-left: 1rem;
+
+    @media screen and (min-width: $v-breakpoint--d) {
+      margin-left: 0;
+    }
   }
 
   @media screen and (min-width: $v-breakpoint--d) {

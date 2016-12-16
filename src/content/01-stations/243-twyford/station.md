@@ -12,7 +12,7 @@ company:
 - great-western
 ----
 route:
-- london-to-didcot
+- london-to-swindon
 - twyford-to-henley
 ----
 info:

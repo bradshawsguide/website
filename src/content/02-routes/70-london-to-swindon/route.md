@@ -22,6 +22,12 @@ stops:
 - wallingford-road
 - wallingford
 - didcot
+- steventon
+- wantage-road
+- challow
+- uffington
+- shrivenham
+- swindon-junction
 ----
 text: ## London to Slough
 
@@ -47,3 +53,6 @@ Within a few minutes after quitting the station, we emerge from the excavation, 
 
 ## Reading to Didcot
 Passing slowly from the station at a pace that affords us a pleasing bird's eye view of the town, we are earned forward on the same level embankment, and crossing the valley of the Thames soon reach the Roebuck excavation. An embankment, followed by a brief though deep cutting, through the grounds of Purley Park, gives us some charming prospects on the Oxfordshire side, with a mass of woodland scenery scattered over the undulating ground, and cresting even the high summits of the Mapledurham hills beyond.
+
+## Didcot to Swindon Junction
+Leaving Didcot on a rise of seven feet in a mile, we now enter an excavation of about half-a-mile, and emerging thence, bend gradually to the west on an embankment, when again plunging into a short cutting, we are carried past Milton, a small village to the left, and in a few minutes afterwards stop at Steventon.

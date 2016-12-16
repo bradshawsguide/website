@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- london-to-didcot
+- london-to-swindon
 - reading-to-basingstoke
 - reading-to-hungerford-and-devizes
 ----

@@ -8,6 +8,6 @@ company:
 - great-western
 ----
 route:
-- london-to-didcot
+- london-to-swindon
 ----
 text: Here are still visible the remains of a Nunnery for Augustines, founded in the reign of Henry II.

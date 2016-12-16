@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- london-to-didcot
+- london-to-swindon
 - slough-to-windsor
 ----
 info:

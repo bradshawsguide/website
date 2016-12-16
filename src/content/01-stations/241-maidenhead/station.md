@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- london-to-didcot
+- london-to-swindon
 - maidenhead-to-wycombe-and-oxford
 ----
 info:

@@ -10,4 +10,4 @@ company:
 - great-western
 ----
 route:
-- london-to-didcot
+- london-to-swindon

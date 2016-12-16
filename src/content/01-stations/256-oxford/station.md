@@ -4,7 +4,7 @@ title: Oxford
 ----
 region: oxfordshire
 ----
-location:
+location: 51.7534, -1.2703
 ----
 company:
 - great-western
