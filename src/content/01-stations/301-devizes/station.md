@@ -4,7 +4,7 @@ title: Devizes
 ----
 region: wiltshire
 ----
-location:
+location: 51.35231, -1.9991
 ----
 company:
 - great-western

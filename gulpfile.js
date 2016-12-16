@@ -26,6 +26,11 @@ function fonts() {
     .pipe(gulp.dest(config.dest.assets + 'fonts'));
 }
 
+function images() {
+  return gulp.src(config.src.assets + 'images/**/*')
+    .pipe(gulp.dest(config.dest.assets + 'images'));
+}
+
 function icons() {
   return gulp.src(config.src.assets + 'icons/**/*')
     .pipe(imagemin())
@@ -33,10 +38,14 @@ function icons() {
 }
 
 function scripts() {
-  return gulp.src(config.src.assets + 'scripts/app.js')
+  return gulp.src(config.src.assets + 'scripts/*.js')
     .pipe(webpackStream({
+      entry: {
+        app: config.src.assets + 'scripts/app.js'
+      },
       output: {
-        filename: 'app.js'
+        filename: '[name].js',
+        path: __dirname + '/build'
       },
       module: {
         loaders: [{
@@ -94,12 +103,13 @@ function sync() {
 function watch() {
   gulp.watch(config.src.assets + 'fonts', fonts);
   gulp.watch(config.src.assets + 'icons', icons);
+  gulp.watch(config.src.assets + 'icons', images);
   gulp.watch(config.src.path + '**/*.js', scripts);
   gulp.watch(config.src.path + '**/*.scss', styles);
 }
 
 // Task sets
-var compile = gulp.series(clean, gulp.parallel(fonts, icons, scripts, styles));
+var compile = gulp.series(clean, gulp.parallel(fonts, icons, images, scripts, styles));
 
 gulp.task('default', compile);
 gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));

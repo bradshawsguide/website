@@ -50,6 +50,7 @@
   "private": true,
   "dependencies": {
     "fontfaceobserver": "latest",
+    "leaflet": "^1.0.2",
     "turbolinks": "^5.0.0-beta"
   }
 }

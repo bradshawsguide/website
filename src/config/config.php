@@ -19,7 +19,13 @@ c::set('routes', array(
     'action'  => function() {
       return site()->visit('manifest');
     }
-  )
+  ),
+  array(
+    'pattern' => 'markers.json',
+    'action'  => function() {
+      return site()->visit('markers');
+    }
+  ),
 ));
 
 // Rewrite URLs

@@ -1,10 +1,10 @@
 section: 1
 ----
-title: Kingston-on-Sea
+title: rail
 ----
 region: sussex
 ----
-location:
+location: 50.8325, -0.236944
 ----
 company:
 - london-brighton-and-south-coast
