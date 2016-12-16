@@ -4,7 +4,7 @@ title: Southend
 ----
 today: Southend Central
 ----
-region: Essex
+region: essex
 ----
 location: 51.537222, 0.711667
 ----

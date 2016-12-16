@@ -2,7 +2,7 @@ section: 1
 ----
 title: Snodland
 ----
-region: Kent
+region: kent
 ----
 location: 51.33, 0.448
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Fenchurch Street
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.51167, -0.07881
 ----

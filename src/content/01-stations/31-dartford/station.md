@@ -2,7 +2,7 @@ section: 1
 ----
 title: Dartford
 ----
-region: Kent
+region: kent
 ----
 location: 51.4475, 0.2193
 ----

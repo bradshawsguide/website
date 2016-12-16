@@ -2,7 +2,7 @@ section: 2
 ----
 title: Wallingford Road
 ----
-region: Berkshire
+region: berkshire
 ----
 company:
 - great-western

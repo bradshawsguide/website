@@ -2,7 +2,7 @@
 ----
 title: Tisbury
 ----
-region: Wiltshire
+region: wiltshire
 ----
 location: 
 ----

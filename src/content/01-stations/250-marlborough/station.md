@@ -2,7 +2,7 @@ section: 2
 ----
 title: Marlborough
 ----
-region: Wiltshire
+region: wiltshire
 ----
 location: 51.4162, -1.7224
 ----

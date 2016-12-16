@@ -2,7 +2,7 @@ section: 1
 ----
 title: Broad Street
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

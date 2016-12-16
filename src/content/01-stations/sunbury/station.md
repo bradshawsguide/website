@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sunbury
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ewell
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

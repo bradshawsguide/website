@@ -2,7 +2,7 @@ section: 1
 ----
 title: Rudgwick
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

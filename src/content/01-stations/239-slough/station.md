@@ -2,7 +2,7 @@ section: 2
 ----
 title: Slough
 ----
-region: Buckinghamshire
+region: buckinghamshire
 ----
 location: 51.512, -0.592
 ----

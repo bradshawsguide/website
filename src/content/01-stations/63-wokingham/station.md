@@ -2,7 +2,7 @@ section: 1
 ----
 title: Wokingham
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.411, -0.843
 ----

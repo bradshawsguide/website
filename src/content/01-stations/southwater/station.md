@@ -2,7 +2,7 @@ section: 1
 ----
 title: Southwater
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

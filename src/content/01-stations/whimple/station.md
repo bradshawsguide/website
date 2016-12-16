@@ -2,7 +2,7 @@
 ----
 title: Whimple
 ----
-region: Devon
+region: devon
 ----
 location: 
 ----

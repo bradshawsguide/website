@@ -2,7 +2,7 @@ section: 1
 ----
 title: Commercial Dock
 ----
-region: Surrey
+region: surrey
 ----
 location:
 ----

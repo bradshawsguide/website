@@ -2,7 +2,7 @@
 ----
 title: Broad Clyst
 ----
-region: Devon
+region: devon
 ----
 location: 
 ----

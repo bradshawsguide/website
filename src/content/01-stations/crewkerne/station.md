@@ -2,7 +2,7 @@
 ----
 title: Crewkerne
 ----
-region: Somerset
+region: somerset
 ----
 location: 
 ----

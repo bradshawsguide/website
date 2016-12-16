@@ -2,7 +2,7 @@ section: 1
 ----
 title: Shepperton
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

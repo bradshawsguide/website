@@ -4,7 +4,7 @@ title: St. Leonards
 ----
 today: St. Leonards Warrior Square
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.856, 0.561
 ----

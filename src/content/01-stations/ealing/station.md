@@ -2,7 +2,7 @@ section: 2
 ----
 title: Ealing
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5147, -0.3017
 ----

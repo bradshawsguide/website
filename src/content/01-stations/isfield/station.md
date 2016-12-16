@@ -2,7 +2,7 @@ section: 1
 ----
 title: Isfield
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

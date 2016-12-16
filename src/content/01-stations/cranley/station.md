@@ -4,7 +4,7 @@ title: Cranley
 ----
 today: Cranleigh
 ----
-region: Surrey
+region: surrey
 ----
 location:
 ----

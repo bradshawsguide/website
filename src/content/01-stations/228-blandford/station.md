@@ -2,7 +2,7 @@
 ----
 title: Blandford
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 50.8597, -2.1605
 ----

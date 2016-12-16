@@ -2,7 +2,7 @@ section: 1
 ----
 title: Deal
 ----
-region: Kent
+region: kent
 ----
 location: 51.2231, 1.3989
 ----

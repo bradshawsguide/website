@@ -2,7 +2,7 @@ section: 1
 ----
 title: Wraysbury
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 
 ----

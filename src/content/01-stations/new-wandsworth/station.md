@@ -2,7 +2,7 @@ section: 1
 ----
 title: New Wandsworth
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

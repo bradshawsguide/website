@@ -2,7 +2,7 @@ section: 1
 ----
 title: Haslemere
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

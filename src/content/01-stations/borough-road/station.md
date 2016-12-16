@@ -4,7 +4,7 @@ title: Borough Road
 ----
 short_title: Borough Rd.
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sturry
 ----
-region: Kent
+region: kent
 ----
 location: 51.301056, 1.122222
 ----

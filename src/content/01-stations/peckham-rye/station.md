@@ -2,7 +2,7 @@ section: 1
 ----
 title: Peckham Rye
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

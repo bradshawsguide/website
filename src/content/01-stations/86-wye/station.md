@@ -2,7 +2,7 @@ section: 1
 ----
 title: Wye
 ----
-region: Kent
+region: kent
 ----
 location: 51.185, 0.929
 ----

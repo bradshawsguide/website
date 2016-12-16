@@ -2,7 +2,7 @@ section: 1
 ----
 title: Margate
 ----
-region: Kent
+region: kent
 ----
 location: 51.385289, 1.372181
 ----

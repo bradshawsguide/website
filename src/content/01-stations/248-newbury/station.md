@@ -2,7 +2,7 @@ section: 2
 ----
 title: Newbury
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.398, -1.323
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Frant
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.104028, 0.294444
 ----

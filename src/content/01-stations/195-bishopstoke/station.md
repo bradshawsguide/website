@@ -4,7 +4,7 @@ title: Bishopstoke
 ----
 today: Eastleigh
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.969444, -1.349444
 ----

@@ -4,7 +4,7 @@ title: Wandsworth Road
 ----
 short_title: Wandsworth Rd.
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

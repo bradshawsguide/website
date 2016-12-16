@@ -2,7 +2,7 @@ section: 2
 ----
 title: Aldermaston
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.402222, -1.136667
 ----

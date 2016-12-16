@@ -2,7 +2,7 @@ section: 1
 ----
 title: West India Docks
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

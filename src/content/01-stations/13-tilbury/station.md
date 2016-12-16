@@ -2,7 +2,7 @@ section: 1
 ----
 title: Tilbury
 ----
-region: Essex
+region: essex
 ----
 location: 51.4519, 0.3646
 ----

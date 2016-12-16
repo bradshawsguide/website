@@ -2,7 +2,7 @@ section: 1
 ----
 title: Battle
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.913, 0.495
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Earley
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 
 ----

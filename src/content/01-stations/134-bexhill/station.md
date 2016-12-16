@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bexhill
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.841, 0.477
 ----

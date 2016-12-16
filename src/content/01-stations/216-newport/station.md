@@ -2,7 +2,7 @@ section: 1
 ----
 title: Newport
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.701, -1.2883
 ----

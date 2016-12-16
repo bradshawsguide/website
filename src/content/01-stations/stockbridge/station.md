@@ -2,7 +2,7 @@
 ----
 title: Stockbridge
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

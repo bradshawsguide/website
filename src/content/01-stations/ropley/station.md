@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ropley
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

@@ -4,7 +4,7 @@ title: Maidstone
 ----
 today: Maidstone West
 ----
-region: Kent
+region: kent
 ----
 location: 51.270694, 0.515694
 ----

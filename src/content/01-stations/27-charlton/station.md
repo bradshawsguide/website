@@ -2,7 +2,7 @@ section: 1
 ----
 title: Charlton
 ----
-region: Kent
+region: kent
 ----
 location: 51.48686, 0.03232
 ----

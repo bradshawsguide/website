@@ -2,7 +2,7 @@ section: 1
 ----
 title: Kenley
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

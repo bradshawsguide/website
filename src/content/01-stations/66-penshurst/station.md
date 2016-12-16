@@ -2,7 +2,7 @@ section: 1
 ----
 title: Penshurt
 ----
-region: Kent
+region: kent
 ----
 location: 51.197, 0.173
 ----

@@ -4,7 +4,7 @@ title: Culham
 ----
 title_suffix: (Junction)
 ----
-region: Oxfordshire
+region: oxfordshire
 ----
 location: 51.654, -1.237
 ----

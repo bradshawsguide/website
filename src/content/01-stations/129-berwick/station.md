@@ -2,7 +2,7 @@ section: 1
 ----
 title: Berwick
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.84, 0.166
 ----

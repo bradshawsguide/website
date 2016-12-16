@@ -2,7 +2,7 @@ section: 1
 ----
 title: Shorncliffe Camp
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

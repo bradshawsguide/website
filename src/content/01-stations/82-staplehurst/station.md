@@ -2,7 +2,7 @@ section: 1
 ----
 title: Staplehurst
 ----
-region: Kent
+region: kent
 ----
 location: 51.171, 0.55
 ----

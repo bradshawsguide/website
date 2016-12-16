@@ -2,7 +2,7 @@ section: 1
 ----
 title: Portslade
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Emsworth
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

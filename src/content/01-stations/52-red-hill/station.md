@@ -4,7 +4,7 @@ title: Red Hill Junction
 ----
 today: Redhill
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.24022, -0.1659
 ----

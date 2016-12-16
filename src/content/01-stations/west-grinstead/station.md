@@ -2,7 +2,7 @@ section: 1
 ----
 title: West Grinstead
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

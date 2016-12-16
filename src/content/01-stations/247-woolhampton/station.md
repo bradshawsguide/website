@@ -4,7 +4,7 @@ title: Woolhampton
 ----
 today: Midgham
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.3961, -1.1783
 ----

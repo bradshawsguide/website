@@ -2,7 +2,7 @@ section: 1
 ----
 title: West Croydon
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

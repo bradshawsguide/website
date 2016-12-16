@@ -2,7 +2,7 @@ section: 1
 ----
 title: New Cross
 ----
-region: Kent
+region: kent
 ----
 location: 51.4766, -0.0327
 ----

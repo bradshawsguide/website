@@ -2,7 +2,7 @@
 ----
 title: New Shoreham
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.834167, -0.271389
 ----

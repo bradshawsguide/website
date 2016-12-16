@@ -2,7 +2,7 @@ section: 1
 ----
 title: Headcorn
 ----
-region: Kent
+region: kent
 ----
 location: 51.16575, 0.627192
 ----

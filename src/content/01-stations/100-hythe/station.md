@@ -2,7 +2,7 @@ section: 1
 ----
 title: Hythe
 ----
-region: Kent
+region: kent
 ----
 location: 51.0765, 1.0938
 ----

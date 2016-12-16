@@ -2,7 +2,7 @@ section: 1
 ----
 title: Hailsham
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.860556, 0.257222
 ----

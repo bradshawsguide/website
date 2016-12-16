@@ -2,7 +2,7 @@ section: 1
 ----
 title: Beddington
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

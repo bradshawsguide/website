@@ -2,7 +2,7 @@ section: 1
 ----
 title: Elsted
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

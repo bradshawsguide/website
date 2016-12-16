@@ -4,7 +4,7 @@ title: Portsmouth
 ----
 today: Portsmouth & Southsea
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.798448, -1.090393
 ----

@@ -2,7 +2,7 @@
 ----
 title: Stokes Bay
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.776685, 1.150392
 ----

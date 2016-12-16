@@ -2,7 +2,7 @@ section: 2
 ----
 title: Paddington
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5173, -0.1774
 ----

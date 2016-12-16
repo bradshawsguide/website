@@ -2,7 +2,7 @@ section: 1
 ----
 title: Lower Sydenham
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

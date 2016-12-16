@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sunningdale
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 
 ----

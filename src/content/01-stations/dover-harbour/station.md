@@ -4,7 +4,7 @@ title: Dover Harbour (C&D)
 ----
 short_title: Dover (C&D)
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

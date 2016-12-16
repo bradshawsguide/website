@@ -6,7 +6,7 @@ title_suffix: (Junction)
 ----
 today: Haywards Heath
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.005, -0.105
 ----

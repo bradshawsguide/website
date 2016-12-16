@@ -4,7 +4,7 @@ title: Waterloo Bridge
 ----
 today: London Waterloo
 ----
-region: Surrey
+region: surrey
 ----
 location:
 ----

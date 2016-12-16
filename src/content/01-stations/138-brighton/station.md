@@ -2,7 +2,7 @@ section: 1
 ----
 title: Brighton
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.8288, -0.1411
 ----

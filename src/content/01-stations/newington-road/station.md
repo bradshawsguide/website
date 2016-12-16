@@ -4,7 +4,7 @@ title: Newington Road
 ----
 short_title: Newington Rd.
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

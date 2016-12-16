@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sandwich
 ----
-region: Kent
+region: kent
 ----
 location: 51.27, 1.343
 ----

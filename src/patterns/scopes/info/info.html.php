@@ -6,12 +6,14 @@
       <? endforeach ?>
     </p>
   <? endif ?>
-  <dl>
-  <? foreach($p->info()->yaml() as $info): ?>
-    <dt><?= smartypants($info['term']) ?></dt>
-    <? if(isset($info['desc'])): ?>
-    <dd><?= smartypants($info['desc']) ?></dd>
-    <? endif ?>
-  <? endforeach ?>
-  </dl>
+  <? if($p->info()->isNotEmpty()): ?>
+    <dl>
+    <? foreach($p->info()->yaml() as $info): ?>
+      <dt><?= smartypants($info['term']) ?></dt>
+      <? if(isset($info['desc'])): ?>
+      <dd><?= smartypants($info['desc']) ?></dd>
+      <? endif ?>
+    <? endforeach ?>
+    </dl>
+  <? endif ?>
 </div>

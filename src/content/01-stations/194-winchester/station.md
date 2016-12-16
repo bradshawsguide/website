@@ -2,7 +2,7 @@
 ----
 title: Winchester
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 51.067, -1.32
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sole Street
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

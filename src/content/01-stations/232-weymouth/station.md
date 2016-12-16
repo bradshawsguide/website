@@ -2,7 +2,7 @@
 ----
 title: Weymouth
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 50.616, -2.455
 ----

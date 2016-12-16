@@ -2,7 +2,7 @@ section: 1
 ----
 title: Horley
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.1713286, -0.1622764
 ----

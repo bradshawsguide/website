@@ -2,7 +2,7 @@ section: 1
 ----
 title: Amberley
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

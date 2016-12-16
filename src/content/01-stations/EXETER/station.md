@@ -2,7 +2,7 @@
 ----
 title: Exeter
 ----
-region: Devon
+region: devon
 ----
 location: 
 ----

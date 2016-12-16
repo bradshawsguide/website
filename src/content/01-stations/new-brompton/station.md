@@ -2,7 +2,7 @@ section: 1
 ----
 title: New Brompton
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

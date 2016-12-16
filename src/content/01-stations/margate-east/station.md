@@ -2,7 +2,7 @@ section: 1
 ----
 title: Margate (C&D)
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

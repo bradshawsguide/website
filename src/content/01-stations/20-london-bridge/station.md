@@ -2,7 +2,7 @@ section: 1
 ----
 title: London Bridge
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.505, -0.086
 ----

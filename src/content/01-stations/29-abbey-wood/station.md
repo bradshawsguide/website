@@ -2,7 +2,7 @@ section: 1
 ----
 title: Abbey Wood
 ----
-region: Kent
+region: kent
 ----
 location: 51.491, 0.1214
 ----

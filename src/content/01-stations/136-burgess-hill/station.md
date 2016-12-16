@@ -2,7 +2,7 @@ section: 1
 ----
 title: Burgess Hill
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.953056, -0.1275
 ----

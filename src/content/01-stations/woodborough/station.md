@@ -2,7 +2,7 @@ section: 2
 ----
 title: Woodborough
 ----
-region: Wiltshire
+region: wiltshire
 ----
 company:
 - great-western

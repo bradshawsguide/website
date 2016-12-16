@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ham Street
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

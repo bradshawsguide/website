@@ -2,7 +2,7 @@ section: 1
 ----
 title: Newchurch
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.67, -1.2093
 ----

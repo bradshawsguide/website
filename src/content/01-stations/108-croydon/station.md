@@ -4,7 +4,7 @@ title: Croydon
 ----
 today: East Croydon
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.3752, -0.0923
 ----

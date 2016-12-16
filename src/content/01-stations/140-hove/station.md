@@ -2,7 +2,7 @@ section: 1
 ----
 title: Hove
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.835278, -0.170833
 ----

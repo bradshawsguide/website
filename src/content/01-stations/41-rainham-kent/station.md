@@ -2,7 +2,7 @@ section: 1
 ----
 title: Rainham (Kent)
 ----
-region: Kent
+region: kent
 ----
 location: 51.366411, 0.611328
 ----

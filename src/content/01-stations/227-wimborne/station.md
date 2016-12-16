@@ -2,7 +2,7 @@
 ----
 title: Wimborne
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 50.7945, -1.9761
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Feltham
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

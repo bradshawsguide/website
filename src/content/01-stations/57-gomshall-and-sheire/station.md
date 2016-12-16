@@ -4,7 +4,7 @@ title: Gomshall & Sheire
 ----
 today: Gomshall
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.219, -0.442
 ----

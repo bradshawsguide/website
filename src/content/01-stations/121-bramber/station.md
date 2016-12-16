@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bramber
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.88093, -0.31549
 ----

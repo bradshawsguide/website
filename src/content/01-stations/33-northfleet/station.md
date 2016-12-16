@@ -2,7 +2,7 @@ section: 1
 ----
 title: Northfleet
 ----
-region: Kent
+region: kent
 ----
 location: 51.445953, 0.323956
 ----

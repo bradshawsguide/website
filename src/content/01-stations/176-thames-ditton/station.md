@@ -2,7 +2,7 @@ section: 1
 ----
 title: Thames Ditton
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.3886, -0.3383
 ----

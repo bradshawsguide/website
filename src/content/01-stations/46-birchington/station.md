@@ -4,7 +4,7 @@ title: Birchington
 ----
 today: Birchington-on-Sea
 ----
-region: Kent
+region: kent
 ----
 location: 51.377, 1.301
 ----

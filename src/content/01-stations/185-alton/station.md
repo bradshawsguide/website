@@ -2,7 +2,7 @@ section: 1
 ----
 title: Alton
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 51.152, -0.96766
 ----

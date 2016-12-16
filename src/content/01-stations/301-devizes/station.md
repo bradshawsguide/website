@@ -2,7 +2,7 @@ section: 2
 ----
 title: Devizes
 ----
-region: Wiltshire
+region: wiltshire
 ----
 location:
 ----

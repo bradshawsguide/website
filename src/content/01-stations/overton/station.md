@@ -2,7 +2,7 @@
 ----
 title: Overton
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

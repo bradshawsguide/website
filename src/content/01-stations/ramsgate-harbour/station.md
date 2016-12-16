@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ramsgate (C&D)
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

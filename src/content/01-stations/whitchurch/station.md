@@ -2,7 +2,7 @@
 ----
 title: Whitchurch
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

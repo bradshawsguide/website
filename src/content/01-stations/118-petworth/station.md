@@ -2,7 +2,7 @@ section: 1
 ----
 title: Petworth
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.96317, -0.62011
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Herne Hill
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

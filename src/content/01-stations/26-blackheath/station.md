@@ -2,7 +2,7 @@ section: 1
 ----
 title: Blackheath
 ----
-region: Kent
+region: kent
 ----
 location: 51.4658, 0.0089
 ----

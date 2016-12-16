@@ -2,7 +2,7 @@
 ----
 title: Redbridge
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

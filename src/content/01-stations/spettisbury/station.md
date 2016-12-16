@@ -2,7 +2,7 @@
 ----
 title: Spettisbury
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 
 ----

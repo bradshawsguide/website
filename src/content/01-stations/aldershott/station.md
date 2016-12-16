@@ -4,7 +4,7 @@ title: Aldershott (North Camp)
 ----
 short_title: Aldershott
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

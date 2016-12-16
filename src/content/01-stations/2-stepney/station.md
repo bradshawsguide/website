@@ -2,7 +2,7 @@ section: 1
 ----
 title: Stepney
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5124, -0.0397
 ----

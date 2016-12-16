@@ -2,7 +2,7 @@ section: 1
 ----
 title: Vauxhall
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.4854, -0.1229
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Merstham
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.264, -0.15
 ----

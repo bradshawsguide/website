@@ -2,7 +2,7 @@ section: 2
 ----
 title: Pangbourne
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.4853, -1.09
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Whitstable
 ----
-region: Kent
+region: kent
 ----
 location: 51.3576, 1.033486
 ----

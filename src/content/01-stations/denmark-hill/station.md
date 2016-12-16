@@ -2,7 +2,7 @@ section: 1
 ----
 title: Denmark Hill
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

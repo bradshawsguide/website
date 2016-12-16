@@ -2,7 +2,7 @@
 ----
 title: Calbourne
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.677739, -1.400175
 ----

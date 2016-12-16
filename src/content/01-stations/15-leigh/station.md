@@ -4,7 +4,7 @@ title: Leigh
 ----
 today: Leigh-on-Sea
 ----
-region: Essex
+region: essex
 ----
 location: 51.541, 0.64
 ----

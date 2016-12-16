@@ -2,7 +2,7 @@ section: 2
 ----
 title: Witney
 ----
-region: Oxfordshire
+region: oxfordshire
 ----
 company:
 - great-western

@@ -2,7 +2,7 @@
 ----
 title: Freshwater
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.682566, -1.524884
 ----

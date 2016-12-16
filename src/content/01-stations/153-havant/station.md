@@ -2,7 +2,7 @@ section: 1
 ----
 title: Havant
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.854, -0.982
 ----

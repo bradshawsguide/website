@@ -2,7 +2,7 @@ section: 1
 ----
 title: Barking
 ----
-region: Essex
+region: essex
 ----
 location: 51.5393, 0.0817
 ----
@@ -13,7 +13,7 @@ route:
 - fenchurch-street-to-tilbury-and-southend
 ----
 info:
-- Population
+- term: Population
   desc: 5,076.
 - term: Hotels
   desc: The Ship; Bull.

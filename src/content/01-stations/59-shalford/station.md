@@ -2,7 +2,7 @@ section: 1
 ----
 title: Shalford
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.214, -0.567
 ----

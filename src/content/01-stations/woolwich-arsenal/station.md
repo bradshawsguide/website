@@ -2,7 +2,7 @@ section: 1
 ----
 title: Woolwich Arsenal
 ----
-region: Kent
+region: kent
 ----
 location:
 ----

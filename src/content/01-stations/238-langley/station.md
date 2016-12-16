@@ -2,7 +2,7 @@ section: 2
 ----
 title: Langley
 ----
-region: Buckinghamshire
+region: buckinghamshire
 ----
 location: 51.508, -0.542
 ----

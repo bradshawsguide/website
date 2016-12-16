@@ -6,7 +6,7 @@ short_title: Poole Jct.
 ----
 today: Hamworthy
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location:
 ----

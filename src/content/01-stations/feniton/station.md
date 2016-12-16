@@ -2,7 +2,7 @@
 ----
 title: Feniton
 ----
-region: Devon
+region: devon
 ----
 location: 
 ----

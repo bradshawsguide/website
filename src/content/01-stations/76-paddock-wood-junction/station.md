@@ -6,7 +6,7 @@ today: Paddock Wood
 ----
 short_title: Paddock Wood Jct.
 ----
-region: Kent
+region: kent
 ----
 location: 51.1822, 0.389
 ----

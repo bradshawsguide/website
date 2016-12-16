@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sellhurst
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

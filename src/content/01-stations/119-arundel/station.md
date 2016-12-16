@@ -2,7 +2,7 @@ section: 1
 ----
 title: Arundel
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.848, -0.546
 ----

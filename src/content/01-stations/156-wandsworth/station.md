@@ -4,7 +4,7 @@ title: Wandsworth
 ----
 today: Wandsworth Town
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.4609, -0.1879
 ----

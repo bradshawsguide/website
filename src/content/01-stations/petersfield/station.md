@@ -2,7 +2,7 @@ section: 1
 ----
 title: Petersfield
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

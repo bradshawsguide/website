@@ -2,7 +2,7 @@ section: 1
 ----
 title: Slinford
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

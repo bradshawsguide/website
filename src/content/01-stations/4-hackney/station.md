@@ -4,7 +4,7 @@ title: Hackney
 ----
 today: Hackney Central
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5471606, -0.0577728
 ----

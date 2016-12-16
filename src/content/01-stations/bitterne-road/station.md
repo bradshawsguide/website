@@ -4,7 +4,7 @@ title: Bitterne Road
 ----
 short_title: Bitterne Rd.
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

@@ -2,7 +2,7 @@
 ----
 title: Sutton Bingham
 ----
-region: Somerset
+region: somerset
 ----
 location: 
 ----

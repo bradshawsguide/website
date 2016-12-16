@@ -2,7 +2,7 @@ section: 1
 ----
 title: Rowfant
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

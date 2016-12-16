@@ -2,7 +2,7 @@
 ----
 title: Wool
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 
 ----

@@ -6,7 +6,7 @@ short_title: Waterloo Jct.
 ----
 today: Waterloo East
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.5037, -0.111
 ----

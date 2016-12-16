@@ -4,7 +4,7 @@ title: Folkestone
 ----
 today: Folkestone East
 ----
-region: Kent
+region: kent
 ----
 location: 51.087409, 1.189036
 ----

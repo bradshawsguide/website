@@ -2,7 +2,7 @@ section: 1
 ----
 title: Hampstead Heath
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5553, -0.1654
 ----

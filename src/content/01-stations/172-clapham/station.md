@@ -4,7 +4,7 @@ title: Clapham
 ----
 today: Clapham Junction
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.4646, -0.1705
 ----

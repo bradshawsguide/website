@@ -4,7 +4,7 @@ title: Templecombe
 ----
 title_suffix: (Junction)
 ----
-region: Somerset
+region: somerset
 ----
 location:
 ----

@@ -2,7 +2,7 @@
 ----
 title: Brockenhurst
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.8164, -1.5739
 ----

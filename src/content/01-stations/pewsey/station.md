@@ -2,7 +2,7 @@ section: 2
 ----
 title: Pewsey
 ----
-region: Wiltshire
+region: wiltshire
 ----
 company:
 - great-western

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Westenhanger
 ----
-region: Kent
+region: kent
 ----
 location: 51.095, 1.038
 ----

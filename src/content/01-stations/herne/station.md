@@ -2,7 +2,7 @@
 ----
 title: Herne
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

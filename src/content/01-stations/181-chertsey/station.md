@@ -2,7 +2,7 @@ section: 1
 ----
 title: Chertsey
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.387, -0.51
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Chilworth
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.215, -0.525
 ----
@@ -12,7 +12,7 @@ company:
 route:
 - reigate-to-reading
 ----
-info:
+notes:
 - Distance from station, ½ mile.
 - A telegraph station.
 ----

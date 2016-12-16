@@ -2,7 +2,7 @@ section: 1
 ----
 title: Chislehurst
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

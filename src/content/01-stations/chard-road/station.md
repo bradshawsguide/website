@@ -4,7 +4,7 @@ title: Chard Road
 ----
 short_title: Chard Rd.
 ----
-region: Somerset
+region: somerset
 ----
 location: 
 ----

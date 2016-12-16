@@ -2,7 +2,7 @@ section: 1
 ----
 title: Wimbledon
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.4232, -0.2043
 ----

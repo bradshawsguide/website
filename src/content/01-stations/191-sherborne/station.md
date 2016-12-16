@@ -2,7 +2,7 @@
 ----
 title: Sherborne
 ----
-region: Somerset
+region: somerset
 ----
 location: 50.944, -2.513
 ----

@@ -2,7 +2,7 @@
 ----
 title: Honiton
 ----
-region: Devon
+region: devon
 ----
 location: 50.797, -3.187
 ----

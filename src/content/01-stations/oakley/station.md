@@ -2,7 +2,7 @@
 ----
 title: Oakley
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

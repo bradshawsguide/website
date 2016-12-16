@@ -2,7 +2,7 @@ section: 1
 ----
 title: Godstone
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.218, -0.05
 ----

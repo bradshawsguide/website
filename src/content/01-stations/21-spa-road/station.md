@@ -2,7 +2,7 @@ section: 1
 ----
 title: Spa Road
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.4956, -0.0671
 ----

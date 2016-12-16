@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ford
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.829444, -0.578611
 ----

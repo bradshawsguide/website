@@ -2,7 +2,7 @@ section: 1
 ----
 title: Guildford
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.237, -0.58
 ----

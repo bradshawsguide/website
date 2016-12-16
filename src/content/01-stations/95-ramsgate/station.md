@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ramsgate
 ----
-region: Kent
+region: kent
 ----
 location: 51.3408, 1.406
 ----

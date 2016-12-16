@@ -2,7 +2,7 @@ section: 1
 ----
 title: Witley
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

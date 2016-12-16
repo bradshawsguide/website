@@ -2,7 +2,7 @@ section: 1
 ----
 title: Elmer's End
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

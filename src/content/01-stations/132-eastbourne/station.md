@@ -2,7 +2,7 @@ section: 1
 ----
 title: Eastbourne
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.769, 0.281
 ----

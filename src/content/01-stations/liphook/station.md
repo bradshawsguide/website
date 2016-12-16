@@ -2,7 +2,7 @@ section: 1
 ----
 title: Liphook
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Barnes
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.4671, -0.242
 ----

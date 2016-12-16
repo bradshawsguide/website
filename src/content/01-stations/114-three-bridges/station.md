@@ -2,7 +2,7 @@ section: 1
 ----
 title: Three Bridges
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.117, -0.161
 ----

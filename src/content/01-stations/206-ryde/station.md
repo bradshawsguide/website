@@ -4,7 +4,7 @@ title: Ryde
 ----
 today: Ryde St John's Road
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.724, -1.157
 ----

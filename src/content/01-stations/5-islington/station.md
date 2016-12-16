@@ -4,7 +4,7 @@ title: Islington
 ----
 today: Highbury & Islington
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5458, -0.105
 ----

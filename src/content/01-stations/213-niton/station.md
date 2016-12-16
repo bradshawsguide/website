@@ -2,7 +2,7 @@ section: 1
 ----
 title: Niton
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.58687, -1.2849
 ----

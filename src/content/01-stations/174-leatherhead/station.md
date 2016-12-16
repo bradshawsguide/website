@@ -2,7 +2,7 @@ section: 1
 ----
 title: Leatherhead
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.299, -0.333
 ----

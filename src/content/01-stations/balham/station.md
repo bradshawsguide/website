@@ -2,7 +2,7 @@ section: 1
 ----
 title: Balham
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

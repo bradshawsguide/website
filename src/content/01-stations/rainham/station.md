@@ -2,7 +2,7 @@ section: 1
 ----
 title: Rainham
 ----
-region: Essex
+region: essex
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Weybridge
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.3616, -0.4575
 ----

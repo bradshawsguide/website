@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sheerness
 ----
-region: Kent
+region: kent
 ----
 info:
 - term: Population

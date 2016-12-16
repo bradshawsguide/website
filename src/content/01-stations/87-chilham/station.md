@@ -2,7 +2,7 @@ section: 1
 ----
 title: Chilham
 ----
-region: Kent
+region: kent
 ----
 location: 51.245, 0.976
 ----

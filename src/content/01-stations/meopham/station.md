@@ -2,7 +2,7 @@ section: 1
 ----
 title: Meopham
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

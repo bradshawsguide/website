@@ -2,7 +2,7 @@ section: 1
 ----
 title: Addlestone
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

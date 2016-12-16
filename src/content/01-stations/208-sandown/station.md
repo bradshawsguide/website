@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sandown
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.657, -1.162
 ----

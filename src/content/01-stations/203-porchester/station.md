@@ -2,7 +2,7 @@
 ----
 title: Porchester
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.848889, -1.125
 ----

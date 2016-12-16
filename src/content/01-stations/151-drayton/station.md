@@ -2,7 +2,7 @@ section: 1
 ----
 title: Drayton
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.83244, -0.737373
 ----

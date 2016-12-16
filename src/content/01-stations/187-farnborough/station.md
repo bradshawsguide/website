@@ -4,7 +4,7 @@ title: Farnborough
 ----
 today: Farnborough (Main)
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 51.297, -0.756
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Alum Bay
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.666389, -1.576111
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Steyning
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.8895, -0.3214
 ----

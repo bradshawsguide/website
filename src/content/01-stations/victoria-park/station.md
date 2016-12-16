@@ -2,7 +2,7 @@ section: 1
 ----
 title: Victoria Park
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Richmond
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.463, -0.3
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Dalston
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

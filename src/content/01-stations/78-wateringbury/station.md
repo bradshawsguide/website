@@ -2,7 +2,7 @@ section: 1
 ----
 title: Wateringbury
 ----
-region: Kent
+region: kent
 ----
 location: 51.2493, 0.4225
 ----
@@ -22,7 +22,7 @@ notes:
 - Distance from station, ½ mile.
 - A telegraph station.
 ----
-text: This is a large and handsome village, retaining its rural character, combined with an unusual degree of charming neatness and taste. The cottage gardens are sweetly pretty. The church is rather handsome, and contains several tombs of the Style family. Wateringbury Place in the vicinity is a fine mansion, situated in very beautiful grounds.
+text: Wateringbury is a large and handsome village, retaining its rural character, combined with an unusual degree of charming neatness and taste. The cottage gardens are sweetly pretty. The church is rather handsome, and contains several tombs of the Style family. Wateringbury Place in the vicinity is a fine mansion, situated in very beautiful grounds.
 
 A mile beyond, above the line, is the neat village of Teston, the scenery around which, with the bridge across the Medway, is quite picturesque. *Barham Court*, the mansion and park of the Earl of Gainsborough, is in the vicinity. There are several unusually pretty villages and villas on the right side of the river and railway. East and West Farleigh, on the banks of the Medway, though consisting only of scattered houses, are exceedingly pleasing. The church in the latter place is a very ancient one covered with ivy, and, with the hop-grounds and orchards, has quite a sylvan appearance.
 ----

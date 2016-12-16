@@ -4,7 +4,7 @@ title: Forest Hill
 ----
 title_suffix: for Dartmouth Arms
 ----
-region: Kent
+region: kent
 ----
 location: 51.439, -0.053
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Chichester
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.831944, -0.782222
 ----

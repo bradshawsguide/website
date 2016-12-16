@@ -2,7 +2,7 @@
 ----
 title: Milbourne Port
 ----
-region: Somerset
+region: somerset
 ----
 location: 
 ----

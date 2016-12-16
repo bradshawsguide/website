@@ -2,7 +2,7 @@ section: 1
 ----
 title: Blackfriars
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5083, -0.1031
 ----

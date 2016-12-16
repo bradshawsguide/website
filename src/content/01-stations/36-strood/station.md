@@ -2,7 +2,7 @@ section: 1
 ----
 title: Strood
 ----
-region: Kent
+region: kent
 ----
 location: 51.3968, 0.5005
 ----

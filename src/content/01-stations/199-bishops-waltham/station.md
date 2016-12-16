@@ -4,7 +4,7 @@ title: Bishop's Waltham
 ----
 today: Bishops Waltham
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.9575, -1.2192
 ----

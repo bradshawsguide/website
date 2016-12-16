@@ -2,7 +2,7 @@
 ----
 title: Portland
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 
 ----

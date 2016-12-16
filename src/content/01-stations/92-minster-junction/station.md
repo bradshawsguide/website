@@ -6,7 +6,7 @@ today: Minster
 ----
 short_title: Minster Jct.
 ----
-region: Kent
+region: kent
 ----
 location: 51.329, 1.317
 ----

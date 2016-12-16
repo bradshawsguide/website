@@ -2,7 +2,7 @@ section: 1
 ----
 title: Fulwell
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

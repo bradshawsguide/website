@@ -6,7 +6,7 @@ short_title: Sevenoaks Jct.
 ----
 today: Swanley
 ----
-region: Kent
+region: kent
 ----
 location:
 ----

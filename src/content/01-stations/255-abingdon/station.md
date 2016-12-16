@@ -2,7 +2,7 @@ section: 2
 ----
 title: Abingdon
 ----
-region: Oxfordshire
+region: oxfordshire
 ----
 location: 51.67223, -1.28009
 ----

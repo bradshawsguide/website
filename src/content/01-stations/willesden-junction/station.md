@@ -4,7 +4,7 @@ title: Willesden Junction
 ----
 short_title: Willesden Jct.
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Hammersmith
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.4935, -0.2477
 ----

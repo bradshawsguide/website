@@ -4,7 +4,7 @@ title: Camden Road
 ----
 short_title: Camden Rd.
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5418, -0.1388
 ----

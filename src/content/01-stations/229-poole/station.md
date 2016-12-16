@@ -2,7 +2,7 @@
 ----
 title: Poole
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 50.7104691,-1.9921609
 ----

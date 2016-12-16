@@ -2,7 +2,7 @@ section: 2
 ----
 title: Shiplake
 ----
-region: Berkshire
+region: berkshire
 ----
 company:
 - great-western

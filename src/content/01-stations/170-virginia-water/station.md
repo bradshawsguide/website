@@ -2,7 +2,7 @@ section: 1
 ----
 title: Virginia Water
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.402, -0.562
 ----

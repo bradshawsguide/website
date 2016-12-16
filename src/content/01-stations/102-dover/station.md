@@ -4,7 +4,7 @@ title: Dover
 ----
 today: Dover Town
 ----
-region: Kent
+region: kent
 ----
 location: 51.11452, 1.3064783
 ----

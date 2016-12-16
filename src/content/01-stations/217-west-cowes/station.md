@@ -2,7 +2,7 @@ section: 1
 ----
 title: West Cowes
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.7595, -1.3002
 ----

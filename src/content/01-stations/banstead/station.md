@@ -2,7 +2,7 @@ section: 1
 ----
 title: Banstead
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

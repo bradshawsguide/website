@@ -4,7 +4,7 @@ title: Cliftonville
 ----
 today: Hove
 ----
-region: Sussex
+region: sussex
 ----
 location:
 ----

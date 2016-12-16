@@ -4,7 +4,7 @@ title: Canterbury (C&D)
 ----
 today: Canterbury East
 ----
-region: Kent
+region: kent
 ----
 location:
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Erith
 ----
-region: Kent
+region: kent
 ----
 location: 51.4816, 0.1754
 ----

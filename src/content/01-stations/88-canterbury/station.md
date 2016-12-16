@@ -4,7 +4,7 @@ title: Canterbury (SER)
 ----
 today: Canterbury West
 ----
-region: Kent
+region: kent
 ----
 location: 51.284064, 1.075381
 ----

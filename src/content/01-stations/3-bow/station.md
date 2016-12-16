@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bow
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.52833, -0.02211
 ----

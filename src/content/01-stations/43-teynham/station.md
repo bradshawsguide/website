@@ -2,7 +2,7 @@ section: 1
 ----
 title: Teynham
 ----
-region: Kent
+region: kent
 ----
 location: 51.3333, 0.808
 ----

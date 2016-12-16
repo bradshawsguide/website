@@ -2,7 +2,7 @@ section: 1
 ----
 title: Deptford
 ----
-region: Kent
+region: kent
 ----
 location: 51.4788, -0.0265
 ----

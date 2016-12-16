@@ -2,7 +2,7 @@ section: 1
 ----
 title: Milford
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Twickenham
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.4504, -0.3296
 ----

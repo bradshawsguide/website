@@ -2,7 +2,7 @@ section: 1
 ----
 title: Purfleet
 ----
-region: Essex
+region: essex
 ----
 location: 
 ----

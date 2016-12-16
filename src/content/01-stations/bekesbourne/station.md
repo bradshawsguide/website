@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bekesbourne
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

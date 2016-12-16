@@ -4,7 +4,7 @@ title: Walton & Hersham
 ----
 today: Walton on Thames
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.3728, -0.4143
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Rochester
 ----
-region: Kent
+region: kent
 ----
 location: 51.385551, 0.5096592
 ----

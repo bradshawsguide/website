@@ -2,7 +2,7 @@ section: 2
 ----
 title: Eton
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.483, -0.61
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Shoreham
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Winchelsea
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.065, 1.115
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Henfield
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

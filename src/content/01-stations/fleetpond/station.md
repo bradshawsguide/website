@@ -2,7 +2,7 @@
 ----
 title: Fleetpond
 ----
-region: Hampshire
+region: hampshire
 ----
 location:
 ----

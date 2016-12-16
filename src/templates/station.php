@@ -2,7 +2,7 @@
 
 <article class="c-page<? if ($page->hasImages()): ?> c-page--has-poster<? endif ?>">
 <?
-  $region = str::lower($page->region()->uid());
+  $region = $page->region()->uid();
   $regionUrl = $site->page('regions')->index()->filterBy('uid', $region);
   $regionTitle = page($regionUrl)->title();
 

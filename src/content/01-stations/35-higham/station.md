@@ -2,7 +2,7 @@ section: 1
 ----
 title: Higham
 ----
-region: Kent
+region: kent
 ----
 location: 51.4267, 0.466308
 ----

@@ -4,7 +4,7 @@ title: Box Hill
 ----
 today: Box Hill and Westhumble
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.254, -0.329
 ----

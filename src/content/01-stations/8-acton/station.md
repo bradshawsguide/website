@@ -4,7 +4,7 @@ title: Acton
 ----
 today: Acton Central
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5087, -0.263
 ----

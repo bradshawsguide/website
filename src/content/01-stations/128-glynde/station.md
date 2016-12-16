@@ -2,7 +2,7 @@ section: 1
 ----
 title: Glynde
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.859, 0.07
 ----

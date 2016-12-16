@@ -2,7 +2,7 @@ section: 1
 ----
 title: Crawley
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.112, -0.187
 ----

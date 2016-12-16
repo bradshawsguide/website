@@ -4,7 +4,7 @@ title: Hampton Court (East Moulsey)
 ----
 short_title: Hampton Court
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.4028, -0.3425
 ----

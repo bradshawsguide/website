@@ -2,7 +2,7 @@ section: 2
 ----
 title: West Wycombe
 ----
-region: Buckinghamshire
+region: buckinghamshire
 ----
 company:
 - great-western

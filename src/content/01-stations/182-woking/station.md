@@ -2,7 +2,7 @@ section: 1
 ----
 title: Woking
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.318, -0.557
 ----

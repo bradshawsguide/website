@@ -2,7 +2,7 @@ section: 1
 ----
 title: Kensal Green
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

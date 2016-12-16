@@ -2,7 +2,7 @@ section: 2
 ----
 title: Wallingford
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.5978, -1.1352
 ----

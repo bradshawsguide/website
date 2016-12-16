@@ -4,7 +4,7 @@ title: Bromley
 ----
 today: Bromley-by-Bow (tube station)
 ----
-region: Kent
+region: kent
 ----
 location: 51.524, -0.0113
 ----
@@ -27,4 +27,4 @@ text: Principally composed of one long street; market house, supported on pillar
 
 [Bickley](/stations/bickley) and [St. Mary's Cray](/stations/st-marys-cray) stations.
 
-[Sevenoaks Junction](/stations/sevenoaks-junction).--[A line here turns off to the right](/routes/sevenoaks-junction-to-sevenoaks), 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to [Sevenoaks](/stations/sevenoaks).
+[Sevenoaks Junction](/stations/sevenoaks-junction).--A line here [turns off to the right](/routes/sevenoaks-junction-to-sevenoaks), 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to [Sevenoaks](/stations/sevenoaks).

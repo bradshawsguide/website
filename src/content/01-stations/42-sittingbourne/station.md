@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sittingbourne
 ----
-region: Kent
+region: kent
 ----
 location: 51.342008, 0.734808
 ----

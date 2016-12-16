@@ -2,7 +2,7 @@
 ----
 title: Moreton
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 
 ----

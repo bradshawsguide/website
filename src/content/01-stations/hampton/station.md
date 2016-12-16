@@ -2,7 +2,7 @@ section: 1
 ----
 title: Hampton
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

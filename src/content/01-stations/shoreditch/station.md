@@ -2,7 +2,7 @@ section: 1
 ----
 title: Shoreditch
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

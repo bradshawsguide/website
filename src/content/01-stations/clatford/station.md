@@ -2,7 +2,7 @@
 ----
 title: Clatford
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

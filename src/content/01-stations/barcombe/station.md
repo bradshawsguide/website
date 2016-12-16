@@ -2,7 +2,7 @@ section: 1
 ----
 title: Barcombe
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

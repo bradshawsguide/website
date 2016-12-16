@@ -4,7 +4,7 @@ title: Norwood, Upper
 ----
 today: Norwood Junction
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.3972, -0.075
 ----

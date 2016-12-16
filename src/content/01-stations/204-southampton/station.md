@@ -4,7 +4,7 @@ title: Southampton
 ----
 today: Southampton Central
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.9075, -1.4141
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ascot
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.406, -0.676
 ----

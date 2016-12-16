@@ -2,7 +2,7 @@ section: 2
 ----
 title: Uxbridge
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.5444, -0.4791
 ----

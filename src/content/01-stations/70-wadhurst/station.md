@@ -2,7 +2,7 @@ section: 1
 ----
 title: Wadhurst
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.073, 0.313
 ----

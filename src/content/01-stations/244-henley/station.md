@@ -4,7 +4,7 @@ title: Henley
 ----
 today: Henley-on-Thames
 ----
-region: Oxfordshire
+region: oxfordshire
 ----
 location: 51.534, -0.9
 ----

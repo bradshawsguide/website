@@ -2,7 +2,7 @@
 ----
 title: Carisbrooke
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.6917, -1.3172
 ----
@@ -16,6 +16,7 @@ info:
   desc: to and from Newport, Cowes, and Ryde, daily.
 - term: Money Order Office
   desc: at Newport.
+----
 notes:
 - Distance from station at Portsmouth, 16 miles.
 - Telegraph station at Newport, 1 mile.

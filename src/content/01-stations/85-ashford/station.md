@@ -4,7 +4,7 @@ title: Ashford
 ----
 today: Ashford International
 ----
-region: Kent
+region: kent
 ----
 location: 51.1436, 0.87448
 ----

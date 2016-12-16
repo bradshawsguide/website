@@ -2,7 +2,7 @@ section: 1
 ----
 title: Rye
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.952, 0.731
 ----

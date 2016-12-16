@@ -2,7 +2,7 @@ section: 1
 ----
 title: Stanford-le-Hope
 ----
-region: Essex
+region: essex
 ----
 location: 51.514, 0.423
 ----

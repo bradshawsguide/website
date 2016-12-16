@@ -2,7 +2,7 @@
 ----
 title: Botley
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Etchingham
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.011, 0.442
 ----

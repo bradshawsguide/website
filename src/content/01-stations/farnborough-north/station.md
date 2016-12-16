@@ -2,7 +2,7 @@ section: 1
 ----
 title: Farnborough North (SER)
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

@@ -4,7 +4,7 @@ title: Kingston
 ----
 today: Surbiton
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.394, -0.307
 ----

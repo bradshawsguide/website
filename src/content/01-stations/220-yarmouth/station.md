@@ -2,7 +2,7 @@ section: 1
 ----
 title: Yarmouth
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.7048, -1.495
 ----

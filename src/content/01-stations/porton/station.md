@@ -2,7 +2,7 @@
 ----
 title: Porton
 ----
-region: Wiltshire
+region: wiltshire
 ----
 location: 
 ----

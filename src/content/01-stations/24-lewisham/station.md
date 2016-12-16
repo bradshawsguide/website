@@ -4,7 +4,7 @@ title: Lewisham
 ----
 title_suffix: (Junction)
 ----
-region: Kent
+region: kent
 ----
 location: 51.4653, -0.0133
 ----

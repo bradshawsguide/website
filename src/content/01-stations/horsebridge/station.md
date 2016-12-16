@@ -2,7 +2,7 @@
 ----
 title: Horsebridge
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

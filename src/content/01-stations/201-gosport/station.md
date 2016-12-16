@@ -2,7 +2,7 @@
 ----
 title: Gosport
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.7979, -1.1302
 ----

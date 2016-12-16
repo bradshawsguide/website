@@ -2,7 +2,7 @@
 ----
 title: Fareham
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.852934, -1.191898
 ----

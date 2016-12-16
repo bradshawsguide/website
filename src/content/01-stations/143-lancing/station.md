@@ -2,7 +2,7 @@ section: 1
 ----
 title: Lancing
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.826944, -0.323333
 ----

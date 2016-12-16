@@ -2,7 +2,7 @@ section: 1
 ----
 title: Rowland's Castle
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

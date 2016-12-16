@@ -2,7 +2,7 @@
 ----
 title: Grateley
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

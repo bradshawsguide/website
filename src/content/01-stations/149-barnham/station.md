@@ -2,7 +2,7 @@ section: 1
 ----
 title: Barnham
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.831111, -0.640556
 ----

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Taplow
 ----
-region: Buckinghamshire
+region: buckinghamshire
 ----
 company:
 - great-western

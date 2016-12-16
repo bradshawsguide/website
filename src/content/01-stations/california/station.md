@@ -4,7 +4,7 @@ title: California
 ----
 today: Belmont
 ----
-region: Surrey
+region: surrey
 ----
 location:
 ----

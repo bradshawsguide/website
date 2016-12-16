@@ -2,7 +2,7 @@ section: 1
 ----
 title: Hassock's Gate
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.925, -0.145833
 ----

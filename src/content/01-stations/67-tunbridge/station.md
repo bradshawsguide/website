@@ -2,7 +2,7 @@ section: 1
 ----
 title: Tunbridge
 ----
-region: Kent
+region: kent
 ----
 location: 51.191, 0.271
 ----

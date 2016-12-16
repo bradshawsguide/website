@@ -2,7 +2,7 @@
 ----
 title: Colyton
 ----
-region: Devon
+region: devon
 ----
 location: 
 ----

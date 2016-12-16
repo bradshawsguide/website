@@ -2,7 +2,7 @@ section: 2
 ----
 title: Woburn Green
 ----
-region: Buckinghamshire
+region: buckinghamshire
 ----
 company:
 - great-western

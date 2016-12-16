@@ -2,7 +2,7 @@ section: 1
 ----
 title: Reading Southern
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 
 ----

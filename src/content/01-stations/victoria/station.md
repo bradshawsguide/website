@@ -2,7 +2,7 @@ section: 1
 ----
 title: Victoria
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

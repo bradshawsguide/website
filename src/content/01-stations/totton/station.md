@@ -2,7 +2,7 @@
 ----
 title: Totton
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

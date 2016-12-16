@@ -2,7 +2,7 @@ section: 1
 ----
 title: Knowle
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

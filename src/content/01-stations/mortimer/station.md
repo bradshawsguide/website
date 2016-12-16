@@ -4,7 +4,7 @@ title: Mortimer
 ----
 title_suffix: (Stratfield)
 ----
-region: Berkshire
+region: berkshire
 ----
 company:
 - great-western

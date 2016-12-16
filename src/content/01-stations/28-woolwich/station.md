@@ -2,7 +2,7 @@ section: 1
 ----
 title: Woolwich
 ----
-region: Kent
+region: kent
 ----
 location: 51.49, 0.069
 ----

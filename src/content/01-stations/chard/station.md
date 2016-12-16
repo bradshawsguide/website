@@ -2,7 +2,7 @@
 ----
 title: Chard
 ----
-region: Somerset
+region: somerset
 ----
 location: 
 ----

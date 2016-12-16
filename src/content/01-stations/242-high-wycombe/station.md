@@ -2,7 +2,7 @@ section: 2
 ----
 title: High Wycombe
 ----
-region: Buckinghamshire
+region: buckinghamshire
 ----
 location: 51.63, -0.745
 ----

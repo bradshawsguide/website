@@ -2,7 +2,7 @@
 ----
 title: Christchurch
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.738, -1.785
 ----

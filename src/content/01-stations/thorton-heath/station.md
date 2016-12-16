@@ -2,7 +2,7 @@ section: 1
 ----
 title: Thorton Heath
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

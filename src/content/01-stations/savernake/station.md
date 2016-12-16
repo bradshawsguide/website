@@ -2,7 +2,7 @@ section: 2
 ----
 title: Savernake
 ----
-region: Wiltshire
+region: wiltshire
 ----
 company:
 - great-western

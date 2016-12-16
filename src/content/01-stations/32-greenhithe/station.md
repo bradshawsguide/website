@@ -2,7 +2,7 @@ section: 1
 ----
 title: Greenhithe
 ----
-region: Kent
+region: kent
 ----
 location: 51.450636, 0.278981
 ----

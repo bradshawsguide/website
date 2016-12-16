@@ -2,7 +2,7 @@ section: 1
 ----
 title: Poplar
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

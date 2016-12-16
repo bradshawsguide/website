@@ -2,7 +2,7 @@ section: 1
 ----
 title: Cook's Bridge
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Adisham
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

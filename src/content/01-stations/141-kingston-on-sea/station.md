@@ -2,7 +2,7 @@ section: 1
 ----
 title: Kingston-on-Sea
 ----
-region: Sussex
+region: sussex
 ----
 location:
 ----

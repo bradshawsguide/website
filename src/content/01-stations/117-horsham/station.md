@@ -2,7 +2,7 @@ section: 1
 ----
 title: Horsham
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.066, -0.319
 ----

@@ -4,7 +4,7 @@ title: Woolwich Dock
 ----
 today: Woolwich Dockyard
 ----
-region: Kent
+region: kent
 ----
 location:
 ----

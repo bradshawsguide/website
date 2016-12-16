@@ -4,7 +4,7 @@ title: Polegate (Willingdon)
 ----
 short_title: Polegate
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.821111, 0.246111
 ----

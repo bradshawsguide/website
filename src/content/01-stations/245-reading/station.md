@@ -2,7 +2,7 @@ section: 2
 ----
 title: Reading
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.459, -0.9722
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Kentish Town
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

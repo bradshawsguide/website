@@ -4,7 +4,7 @@ title: Portswood
 ----
 today: St. Denys
 ----
-region: Hampshire
+region: hampshire
 ----
 location:
 ----

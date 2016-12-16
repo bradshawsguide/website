@@ -2,7 +2,7 @@ section: 1
 ----
 title: Epsom Downs
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

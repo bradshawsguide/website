@@ -2,7 +2,7 @@ section: 1
 ----
 title: Chatham
 ----
-region: Kent
+region: kent
 ----
 location: 51.3805, 0.5205
 ----

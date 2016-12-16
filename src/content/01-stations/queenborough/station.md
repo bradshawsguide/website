@@ -2,7 +2,7 @@ section: 1
 ----
 title: Queenborough
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

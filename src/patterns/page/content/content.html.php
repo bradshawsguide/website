@@ -1,6 +1,6 @@
 <div class="c-page__content">
 <?
-  if($p->info()->isNotEmpty()) {
+  if($p->info()->isNotEmpty() || $p->notes()->isNotEmpty()) {
     pattern('scopes/info', ['p' => $p]);
   }
 

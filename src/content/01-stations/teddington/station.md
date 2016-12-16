@@ -2,7 +2,7 @@ section: 1
 ----
 title: Teddington
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

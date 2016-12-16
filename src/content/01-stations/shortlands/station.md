@@ -2,7 +2,7 @@ section: 1
 ----
 title: Shortlands
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

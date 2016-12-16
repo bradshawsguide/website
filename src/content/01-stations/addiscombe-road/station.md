@@ -4,7 +4,7 @@ title: Addiscombe Road
 ----
 short_title: Addicombe Rd.
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

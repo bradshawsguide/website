@@ -2,7 +2,7 @@
 ----
 title: Woolston
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

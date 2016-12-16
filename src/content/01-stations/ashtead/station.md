@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ashtead
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

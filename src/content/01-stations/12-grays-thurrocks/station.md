@@ -4,7 +4,7 @@ title: Gray's Thurrocks
 ----
 today: Grays
 ----
-region: Essex
+region: essex
 ----
 location: 51.476, 0.322
 ----

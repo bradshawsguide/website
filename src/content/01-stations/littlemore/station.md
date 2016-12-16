@@ -2,7 +2,7 @@ section: 2
 ----
 title: Littlemore
 ----
-region: Oxfordshire
+region: oxfordshire
 ----
 company:
 - great-western

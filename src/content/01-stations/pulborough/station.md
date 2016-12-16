@@ -2,7 +2,7 @@ section: 1
 ----
 title: Pulborough
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

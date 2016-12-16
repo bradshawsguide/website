@@ -2,7 +2,7 @@ section: 1
 ----
 title: Dorking
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.241, -0.324
 ----

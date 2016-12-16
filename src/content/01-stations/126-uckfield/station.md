@@ -2,7 +2,7 @@ section: 1
 ----
 title: Uckfield
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.969, 0.096
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Worthing
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.818611, -0.375833
 ----

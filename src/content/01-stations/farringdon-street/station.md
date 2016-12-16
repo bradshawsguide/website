@@ -4,7 +4,7 @@ title: Farringdon Street
 ----
 short_title: Farringdon St.
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

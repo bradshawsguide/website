@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ash
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.25, -0.713
 ----
@@ -20,11 +20,11 @@ info:
 - term: Money Order Office
   desc: at Farnham.
 ----
-text: Distance from the station, 1 mile.
-
-A telegraph station.
-
-The line now diverges or turns more towards the north, to [Aldershott](/stations/aldershott) station (North Camp), and thence to [Farnborough](/stations/farnborough-north), about a mile from the station of the same name on the [South Western](/routes/london-to-southampton-dorchester-and-weymouth) line.
+notes:
+- Distance from the station, 1 mile.
+- A telegraph station.
+----
+text: The line now diverges or turns more towards the north, to [Aldershott](/stations/aldershott) station (North Camp), and thence to [Farnborough](/stations/farnborough-north), about a mile from the station of the same name on the [South Western](/routes/london-to-southampton-dorchester-and-weymouth) line.
 
 The line then proceeds through the valley of the Blackwater to [Blackwater](/stations/blackwater).
 ----

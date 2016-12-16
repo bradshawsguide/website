@@ -2,7 +2,7 @@ section: 1
 ----
 title: Appledore
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

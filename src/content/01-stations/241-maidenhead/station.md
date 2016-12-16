@@ -2,7 +2,7 @@ section: 2
 ----
 title: Maidenhead
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.519, -0.723
 ----

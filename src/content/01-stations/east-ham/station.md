@@ -2,7 +2,7 @@ section: 1
 ----
 title: East Ham
 ----
-region: Essex
+region: essex
 ----
 location: 
 ----

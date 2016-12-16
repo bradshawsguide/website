@@ -2,7 +2,7 @@ section: 1
 ----
 title: Chiswick
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.4813, -0.2683
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ventnor
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.5976, -1.2088
 ----

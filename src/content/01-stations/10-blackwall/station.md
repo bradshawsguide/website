@@ -2,7 +2,7 @@ section: 1
 ----
 title: Blackwall
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.50817, 0.00007
 ----
@@ -22,7 +22,6 @@ info:
 ----
 notes:
 - Distance from station, 1/4 mile.
+- Telegraph station.
 ----
-text: Telegraph station.
-
-Further particulars [can be found here](/routes/london-bridge-to-herne-bay#blackwall).
+text: Further particulars [can be found here](/routes/london-bridge-to-herne-bay#blackwall).

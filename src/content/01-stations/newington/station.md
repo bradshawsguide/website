@@ -2,7 +2,7 @@ section: 1
 ----
 title: Newington
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

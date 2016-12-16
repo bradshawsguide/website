@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bracknell
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 
 ----

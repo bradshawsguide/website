@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bonchurch
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.633767, -1.179073
 ----

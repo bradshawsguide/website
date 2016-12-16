@@ -2,7 +2,7 @@
 ----
 title: Mottisfont
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

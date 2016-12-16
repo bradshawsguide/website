@@ -2,7 +2,7 @@
 ----
 title: Salisbury
 ----
-region: Wiltshire
+region: wiltshire
 ----
 location: 51.0705, -1.8055
 ----

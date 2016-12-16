@@ -2,7 +2,7 @@ section: 1
 ----
 title: Mortlake
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.4682, -0.2672
 ----

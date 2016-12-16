@@ -2,7 +2,7 @@
 ----
 title: Basingstoke
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 51.2683, -1.0878
 ----

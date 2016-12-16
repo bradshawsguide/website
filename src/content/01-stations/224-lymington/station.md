@@ -4,7 +4,7 @@ title: Lymington
 ----
 today: Lymington Town
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.761, -1.537
 ----

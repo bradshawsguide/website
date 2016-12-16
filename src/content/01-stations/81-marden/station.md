@@ -2,7 +2,7 @@ section: 1
 ----
 title: Marden
 ----
-region: Kent
+region: kent
 ----
 location: 51.175, 0.493
 ----

@@ -4,7 +4,7 @@ title: Pevensey
 ----
 today: Pevensey & Westham
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.81583, 0.32475
 ----
@@ -22,7 +22,7 @@ info:
 - term: Fairs
   desc: July 5th and Sept. 15th.
 ----
-info:
+notes:
 - Near the town of that name.
 - Telegraph station at Polegate, 3½ miles.
 ----

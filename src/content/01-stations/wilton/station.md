@@ -2,7 +2,7 @@
 ----
 title: Wilton
 ----
-region: Wiltshire
+region: wiltshire
 ----
 location: 
 ----

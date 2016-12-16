@@ -2,7 +2,7 @@ section: 1
 ----
 title: Angmering
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.816389, -0.489167
 ----

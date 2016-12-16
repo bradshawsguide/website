@@ -2,7 +2,7 @@ section: 1
 ----
 title: Yalding
 ----
-region: Kent
+region: kent
 ----
 location: 51.226, 0.412
 ----

@@ -2,7 +2,7 @@
 ----
 title: Fullerton Bridge
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

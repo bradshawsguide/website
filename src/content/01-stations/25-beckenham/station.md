@@ -4,7 +4,7 @@ title: Beckenham
 ----
 today: Beckenham Junction
 ----
-region: Kent
+region: kent
 ----
 location: 51.4109, -0.0257
 ----

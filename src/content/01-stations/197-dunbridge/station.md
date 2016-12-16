@@ -4,7 +4,7 @@ title: Dunbridge
 ----
 today: Mottisfont & Dunbridge
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 51.0339, -1.5469
 ----

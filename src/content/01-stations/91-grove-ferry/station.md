@@ -2,7 +2,7 @@ section: 1
 ----
 title: Grove Ferry
 ----
-region: Kent
+region: kent
 ----
 location: 51.32408, 1.20675
 ----

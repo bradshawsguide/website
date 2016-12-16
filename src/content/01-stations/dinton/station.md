@@ -2,7 +2,7 @@
 ----
 title: Dinton
 ----
-region: Wiltshire
+region: wiltshire
 ----
 location: 
 ----

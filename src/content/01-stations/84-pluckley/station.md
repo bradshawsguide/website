@@ -2,7 +2,7 @@ section: 1
 ----
 title: Pluckley
 ----
-region: Kent
+region: kent
 ----
 location: 51.156, 0.747
 ----

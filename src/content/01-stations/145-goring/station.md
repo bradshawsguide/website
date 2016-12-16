@@ -2,7 +2,7 @@ section: 1
 ----
 title: Goring
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.817778, -0.4325
 ----

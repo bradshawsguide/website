@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sandhurst
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Pitsea
 ----
-region: Essex
+region: essex
 ----
 location: 
 ----

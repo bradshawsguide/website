@@ -4,7 +4,7 @@ title: Crystal Palace (High Level)
 ----
 short_title: Crystal Palace (High)
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

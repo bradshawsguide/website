@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sevenoaks
 ----
-region: Kent
+region: kent
 ----
 location: 51.276389, 0.181667
 ----

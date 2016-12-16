@@ -2,7 +2,7 @@ section: 1
 ----
 title: Charing Cross
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5078, -0.1244
 ----

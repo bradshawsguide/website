@@ -2,7 +2,7 @@ section: 1
 ----
 title: Rogate
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

@@ -4,7 +4,7 @@ title: Loughborough Road
 ----
 short_title: Loughborough Rd.
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

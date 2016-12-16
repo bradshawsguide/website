@@ -2,7 +2,7 @@ section: 1
 ----
 title: Anerley
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

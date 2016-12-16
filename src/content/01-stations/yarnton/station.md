@@ -2,7 +2,7 @@ section: 2
 ----
 title: Yarnton
 ----
-region: Oxfordshire
+region: oxfordshire
 ----
 company:
 - great-western

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bickley
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

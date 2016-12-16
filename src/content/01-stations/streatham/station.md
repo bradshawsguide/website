@@ -2,7 +2,7 @@ section: 1
 ----
 title: Streatham
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

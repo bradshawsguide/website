@@ -2,7 +2,7 @@ section: 1
 ----
 title: Plumstead
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

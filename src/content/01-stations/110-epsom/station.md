@@ -2,7 +2,7 @@ section: 1
 ----
 title: Epsom
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.334, -0.269
 ----

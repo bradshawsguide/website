@@ -2,7 +2,7 @@ section: 1
 ----
 title: St. Mary's Cray
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

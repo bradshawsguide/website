@@ -2,7 +2,7 @@ section: 2
 ----
 title: Bedwyn
 ----
-region: Wiltshire
+region: wiltshire
 ----
 company:
 - great-western

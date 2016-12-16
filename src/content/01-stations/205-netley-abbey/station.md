@@ -4,7 +4,7 @@ title: Netley Abbey
 ----
 today: Netley
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.875, -1.342
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Warlingham
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

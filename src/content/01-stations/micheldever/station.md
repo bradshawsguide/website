@@ -2,7 +2,7 @@
 ----
 title: Micheldever
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

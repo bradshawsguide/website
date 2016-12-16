@@ -2,7 +2,7 @@ section: 1
 ----
 title: Brentford
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.4875, -0.3096
 ----

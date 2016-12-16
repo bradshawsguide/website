@@ -2,7 +2,7 @@ section: 1
 ----
 title: East Grinstead
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.126, -0.018
 ----

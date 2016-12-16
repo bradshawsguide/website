@@ -2,7 +2,7 @@ section: 1
 ----
 title: Edenbridge
 ----
-region: Kent
+region: kent
 ----
 location: 51.208, 0.061
 ----

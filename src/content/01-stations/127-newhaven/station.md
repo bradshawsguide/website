@@ -4,7 +4,7 @@ title: Newhaven
 ----
 today: Newhaven Town
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.795, 0.055
 ----

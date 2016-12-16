@@ -2,7 +2,7 @@ section: 1
 ----
 title: Isleworth
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.4749, -0.337
 ----

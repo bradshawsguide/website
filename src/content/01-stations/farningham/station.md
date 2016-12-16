@@ -2,7 +2,7 @@ section: 1
 ----
 title: Farningham
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

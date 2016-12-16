@@ -2,7 +2,7 @@ section: 1
 ----
 title: Falmer
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.861944, -0.087222
 ----

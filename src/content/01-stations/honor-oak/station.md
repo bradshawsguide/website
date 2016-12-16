@@ -2,7 +2,7 @@ section: 1
 ----
 title: Honor Oak
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

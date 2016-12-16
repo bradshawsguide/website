@@ -2,7 +2,7 @@ section: 1
 ----
 title: Faversham
 ----
-region: Kent
+region: kent
 ----
 location: 51.311389, 0.891667
 ----

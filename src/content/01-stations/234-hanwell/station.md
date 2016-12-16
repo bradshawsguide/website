@@ -2,7 +2,7 @@ section: 2
 ----
 title: Hanwell
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.5116, -0.3389
 ----

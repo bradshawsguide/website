@@ -2,7 +2,7 @@
 ----
 title: Lyndhurst Road
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

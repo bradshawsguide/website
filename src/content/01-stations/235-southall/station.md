@@ -2,7 +2,7 @@ section: 2
 ----
 title: Southall
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.506, -0.3783
 ----

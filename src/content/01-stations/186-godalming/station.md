@@ -2,7 +2,7 @@ section: 1
 ----
 title: Godalming
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.187, -0.619
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Esher
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.38, -0.3526
 ----

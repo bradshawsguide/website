@@ -2,7 +2,7 @@ section: 1
 ----
 title: Hastings
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.858, 0.576
 ----

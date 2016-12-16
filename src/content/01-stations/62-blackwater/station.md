@@ -2,7 +2,7 @@ section: 1
 ----
 title: Blackwater
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 51.332, -0.777
 ----

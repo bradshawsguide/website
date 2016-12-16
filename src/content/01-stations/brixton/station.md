@@ -2,7 +2,7 @@ section: 1
 ----
 title: Brixton
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

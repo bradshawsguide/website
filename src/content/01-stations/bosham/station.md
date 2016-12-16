@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bosham
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Hungerford
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.415, -1.512
 ----

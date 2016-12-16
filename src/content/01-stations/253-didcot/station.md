@@ -6,7 +6,7 @@ title_suffix: (Junction)
 ----
 today: Didcot Parkway
 ----
-region: Oxfordshire
+region: oxfordshire
 ----
 location: 51.61197, -1.24348
 ----

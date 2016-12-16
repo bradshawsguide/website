@@ -2,7 +2,7 @@ section: 1
 ----
 title: Morden
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

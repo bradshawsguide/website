@@ -2,7 +2,7 @@ section: 1
 ----
 title: Temple Ewell
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

@@ -4,7 +4,7 @@ title: Ticehurst Road
 ----
 short_title: Ticehurst Rd.
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.02, 0.364
 ----

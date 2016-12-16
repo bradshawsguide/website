@@ -2,7 +2,7 @@ section: 1
 ----
 title: Itchen Abbas
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Liss
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

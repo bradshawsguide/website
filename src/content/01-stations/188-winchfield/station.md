@@ -2,7 +2,7 @@
 ----
 title: Winchfield
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 51.285, -0.907
 ----

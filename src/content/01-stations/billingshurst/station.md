@@ -2,7 +2,7 @@ section: 1
 ----
 title: Billingshurst
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

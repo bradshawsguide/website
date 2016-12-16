@@ -2,7 +2,7 @@ section: 1
 ----
 title: Lewes
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.870833, 0.011667
 ----

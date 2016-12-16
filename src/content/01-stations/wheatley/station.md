@@ -2,7 +2,7 @@ section: 2
 ----
 title: Wheatley
 ----
-region: Oxfordshire
+region: oxfordshire
 ----
 company:
 - great-western

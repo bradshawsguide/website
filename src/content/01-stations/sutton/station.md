@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sutton
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

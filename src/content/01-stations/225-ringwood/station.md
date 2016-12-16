@@ -2,7 +2,7 @@
 ----
 title: Ringwood
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.8418, -1.7847
 ----

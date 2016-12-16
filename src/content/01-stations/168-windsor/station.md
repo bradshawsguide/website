@@ -4,7 +4,7 @@ title: Windsor
 ----
 today: Windsor & Eton Riverside
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.485558, -0.606489
 ----

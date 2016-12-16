@@ -2,7 +2,7 @@ section: 1
 ----
 title: Limehouse
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

@@ -2,7 +2,7 @@
 ----
 title: Gillingham
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 
 ----

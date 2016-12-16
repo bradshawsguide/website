@@ -2,7 +2,7 @@ section: 1
 ----
 title: St. Lawrence
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.588611, -1.239722
 ----

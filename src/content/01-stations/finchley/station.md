@@ -2,7 +2,7 @@ section: 1
 ----
 title: Finchley
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

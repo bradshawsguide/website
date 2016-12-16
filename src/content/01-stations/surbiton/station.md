@@ -2,7 +2,7 @@ section: 1
 ----
 title: Surbiton
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

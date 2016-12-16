@@ -2,7 +2,7 @@ section: 1
 ----
 title: Alresford
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

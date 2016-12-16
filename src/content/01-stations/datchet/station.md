@@ -2,7 +2,7 @@ section: 1
 ----
 title: Datchet
 ----
-region: Buckinghamshire
+region: buckinghamshire
 ----
 location: 
 ----

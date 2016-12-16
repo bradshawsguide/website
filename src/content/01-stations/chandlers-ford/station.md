@@ -2,7 +2,7 @@
 ----
 title: Chandler's Ford
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

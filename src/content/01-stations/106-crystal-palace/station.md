@@ -2,7 +2,7 @@ section: 1
 ----
 title: Crystal Palace
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.4182, -0.0726
 ----

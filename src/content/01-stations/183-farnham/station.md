@@ -2,7 +2,7 @@ section: 1
 ----
 title: Farnham
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.212, -0.792
 ----

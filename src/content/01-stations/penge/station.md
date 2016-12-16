@@ -2,7 +2,7 @@ section: 1
 ----
 title: Penge
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

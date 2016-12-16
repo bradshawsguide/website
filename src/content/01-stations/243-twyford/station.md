@@ -4,7 +4,7 @@ title: Twyford
 ----
 title_suffix: (Junction)
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.476, -0.863
 ----

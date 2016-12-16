@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bentley
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 51.181, 0.868
 ----

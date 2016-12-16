@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sydenham
 ----
-region: Kent
+region: kent
 ----
 location: 51.4254, -0.0544
 ----

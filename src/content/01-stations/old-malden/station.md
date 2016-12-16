@@ -2,7 +2,7 @@ section: 1
 ----
 title: Old Malden
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

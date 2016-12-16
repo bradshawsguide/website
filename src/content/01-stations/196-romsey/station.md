@@ -2,7 +2,7 @@
 ----
 title: Romsey
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 50.9927, -1.4933
 ----

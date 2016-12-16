@@ -2,7 +2,7 @@ section: 1
 ----
 title: Partridge Green
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

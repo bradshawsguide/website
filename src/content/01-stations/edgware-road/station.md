@@ -4,7 +4,7 @@ title: Edgware Road
 ----
 short_title: Edgware Rd.
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 
 ----

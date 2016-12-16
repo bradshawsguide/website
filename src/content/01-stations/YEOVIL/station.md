@@ -2,7 +2,7 @@
 ----
 title: Yeovil
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 
 ----

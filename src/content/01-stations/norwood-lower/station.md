@@ -4,7 +4,7 @@ title: Norwood, Lower
 ----
 today: West Norwood
 ----
-region: Surrey
+region: surrey
 ----
 location:
 ----

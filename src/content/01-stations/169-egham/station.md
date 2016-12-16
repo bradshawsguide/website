@@ -2,7 +2,7 @@ section: 1
 ----
 title: Egham
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.43, -0.547
 ----

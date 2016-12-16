@@ -2,3 +2,7 @@
   @include l--container;
   position: relative;
 }
+
+.c-page__content {
+  @include l--clearfix;
+}

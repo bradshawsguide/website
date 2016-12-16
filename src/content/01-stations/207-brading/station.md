@@ -2,7 +2,7 @@
 ----
 title: Brading
 ----
-region: Isle of Wight
+region: isle-of-wight
 ----
 location: 50.678, -1.139
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Carshalton
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.3686, -0.1659
 ----

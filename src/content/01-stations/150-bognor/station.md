@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bognor
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.787, -0.676
 ----

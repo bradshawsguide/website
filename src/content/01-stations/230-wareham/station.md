@@ -2,7 +2,7 @@
 ----
 title: Wareham
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 50.693, -2.115
 ----

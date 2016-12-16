@@ -4,7 +4,7 @@ title: Lordship Lane
 ----
 short_title: Lordship Ln.
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

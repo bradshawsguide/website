@@ -2,7 +2,7 @@ section: 1
 ----
 title: Merton
 ----
-region: Surrey
+region: surrey
 ----
 location:
 ----

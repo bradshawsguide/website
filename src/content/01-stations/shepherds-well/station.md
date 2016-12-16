@@ -2,7 +2,7 @@ section: 1
 ----
 title: Shepherd's Well
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

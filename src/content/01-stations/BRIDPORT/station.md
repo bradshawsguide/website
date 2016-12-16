@@ -2,4 +2,4 @@
 ----
 title: Bridport
 ----
-region: Dorsetshire
+region: dorsetshire

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Reigate
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.242, -0.204
 ----

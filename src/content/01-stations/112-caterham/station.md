@@ -2,7 +2,7 @@ section: 1
 ----
 title: Caterham
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.2825, -0.0786
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Elephant & Castle
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

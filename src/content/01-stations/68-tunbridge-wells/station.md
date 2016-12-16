@@ -2,7 +2,7 @@ section: 1
 ----
 title: Tunbridge Wells
 ----
-region: Kent
+region: kent
 ----
 location: 51.13, 0.263
 ----

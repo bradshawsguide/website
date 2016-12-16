@@ -2,7 +2,7 @@ section: 1
 ----
 title: Eynesford
 ----
-region: Kent
+region: kent
 ----
 location: 
 ----

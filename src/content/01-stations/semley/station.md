@@ -2,7 +2,7 @@
 ----
 title: Semley
 ----
-region: Wiltshire
+region: wiltshire
 ----
 location: 
 ----

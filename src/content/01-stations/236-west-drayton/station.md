@@ -2,7 +2,7 @@ section: 2
 ----
 title: West Drayton
 ----
-region: Middlesex
+region: middlesex
 ----
 location: 51.509942, -0.472264
 ----

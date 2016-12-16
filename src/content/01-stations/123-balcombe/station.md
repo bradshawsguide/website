@@ -2,7 +2,7 @@ section: 1
 ----
 title: Balcombe
 ----
-region: Sussex
+region: sussex
 ----
 location: 51.056111, -0.1375
 ----

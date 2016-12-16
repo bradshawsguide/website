@@ -6,7 +6,7 @@ short_title: Caterham Jct.
 ----
 today: Purley
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.3377, -0.1135
 ----

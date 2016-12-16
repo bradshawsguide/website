@@ -11,8 +11,6 @@
     <? endif ?>
   </h1>
 <? if (isset($subtitle)): ?>
-  <h2 class="c-page__subtitle">
-    <?= smartypants($subtitle) ?>
-  </h2>
+  <h2 class="c-page__subtitle"><?= smartypants($subtitle) ?></h2>
 <? endif ?>
 </header>

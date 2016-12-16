@@ -2,7 +2,7 @@
 ----
 title: Andover
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 51.212, -1.492
 ----

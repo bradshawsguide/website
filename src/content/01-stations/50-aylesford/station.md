@@ -2,7 +2,7 @@ section: 1
 ----
 title: Aylesford
 ----
-region: Kent
+region: kent
 ----
 location: 51.301338, 0.466012
 ----

@@ -6,7 +6,7 @@ today: New Malden
 ----
 short_title: Coombe & Malden
 ----
-region: Surrey
+region: surrey
 ----
 location:
 ----

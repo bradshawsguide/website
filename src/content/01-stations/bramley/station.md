@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bramley
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

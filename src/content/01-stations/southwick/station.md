@@ -2,7 +2,7 @@ section: 1
 ----
 title: Southwick
 ----
-region: Sussex
+region: sussex
 ----
 location: 
 ----

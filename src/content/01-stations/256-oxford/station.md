@@ -2,7 +2,7 @@ section: 2
 ----
 title: Oxford
 ----
-region: Oxfordshire
+region: oxfordshire
 ----
 location:
 ----

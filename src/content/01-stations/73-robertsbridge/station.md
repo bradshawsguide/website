@@ -2,7 +2,7 @@ section: 1
 ----
 title: Robertsbridge
 ----
-region: Sussex
+region: sussex
 ----
 location: 50.985, 0.469
 ----

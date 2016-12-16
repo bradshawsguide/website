@@ -2,7 +2,7 @@ section: 1
 ----
 title: Mitcham
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

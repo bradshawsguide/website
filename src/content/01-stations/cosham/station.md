@@ -2,7 +2,7 @@
 ----
 title: Cosham
 ----
-region: Hampshire
+region: hampshire
 ----
 location: 
 ----

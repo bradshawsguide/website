@@ -2,7 +2,7 @@ section: 1
 ----
 title: Baynards
 ----
-region: Surrey
+region: surrey
 ----
 location: 
 ----

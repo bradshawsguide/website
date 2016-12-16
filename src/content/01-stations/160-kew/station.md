@@ -2,7 +2,7 @@ section: 1
 ----
 title: Kew
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.4906, -0.2916
 ----

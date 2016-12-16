@@ -2,7 +2,7 @@ section: 1
 ----
 title: Betchworth
 ----
-region: Surrey
+region: surrey
 ----
 location: 51.248, -0.267
 ----

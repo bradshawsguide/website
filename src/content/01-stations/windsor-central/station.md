@@ -4,7 +4,7 @@ title: Windsor (GWR)
 ----
 today: Windsor & Eton Central
 ----
-region: Berkshire
+region: berkshire
 ----
 location: 51.483, -0.61
 ----

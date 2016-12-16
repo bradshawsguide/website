@@ -2,7 +2,7 @@
 ----
 title: Sturminster
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 
 ----

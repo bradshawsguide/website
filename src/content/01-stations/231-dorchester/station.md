@@ -4,7 +4,7 @@ title: Dorchester
 ----
 today: Dorchester South
 ----
-region: Dorsetshire
+region: dorsetshire
 ----
 location: 50.709, -2.437
 ----
