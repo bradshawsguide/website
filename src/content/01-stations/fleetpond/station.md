@@ -4,7 +4,7 @@ title: Fleetpond
 ----
 region: Hampshire
 ----
-location: 
+location:
 ----
 company:
 - london-and-south-western
@@ -12,4 +12,5 @@ company:
 route:
 - london-to-southampton-dorchester-and-weymouth
 ----
-text: A telegraph station.
+notes:
+- A telegraph station.

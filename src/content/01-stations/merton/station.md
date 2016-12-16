@@ -4,7 +4,7 @@ title: Merton
 ----
 region: Surrey
 ----
-location: 
+location:
 ----
 company:
 - london-and-south-western
@@ -16,6 +16,7 @@ info:
 - term: Hotel
   desc: White Hart.
 ----
-text: Telegraph station at Wimbledon, ¾ mile.
-
-The pretty village of Merton, where Lord Nelson lived, is a favourite resort of excursionists.
+notes:
+- Telegraph station at Wimbledon, ¾ mile.
+----
+text: The pretty village of Merton, where Lord Nelson lived, is a favourite resort of excursionists.

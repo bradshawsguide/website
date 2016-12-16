@@ -18,9 +18,10 @@ info:
 - term: Omnibuses
   desc: to Odiham, North Warnborough, Hartley, Hartley Row, Hartford Bridge, Wintney and Phoenix, five times daily, and to Bromhill, Hickfield, Strathfieldsaye, and Wokingham.
 ----
-text: Telegraph station at Farnborough, 6 miles.
-
-Leaving the station we enter a deep excavation, and soon after a short tunnel; a lofty embankment follows, which presents us with a series of delightful prospects, amongst which the Odiham hills and their singular clump of trees on the summit figure conspicuously on the left.
+notes:
+- Telegraph station at Farnborough, 6 miles.
+----
+text: Leaving the station we enter a deep excavation, and soon after a short tunnel; a lofty embankment follows, which presents us with a series of delightful prospects, amongst which the Odiham hills and their singular clump of trees on the summit figure conspicuously on the left.
 
 Prior to entering on the Hook Common excavation we pass beneath Odiham bridge, which leads to the seat of the late and present Duke of Wellington, Strathfieldsaye, situated about six miles off to the right.
 

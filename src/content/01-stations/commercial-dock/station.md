@@ -4,7 +4,7 @@ title: Commercial Dock
 ----
 region: Surrey
 ----
-location: 
+location:
 ----
 company:
 - south-eastern
@@ -12,4 +12,5 @@ company:
 route:
 - charing-cross-to-greenwich
 ----
-text: A telegraph station.
+notes:
+- A telegraph station.

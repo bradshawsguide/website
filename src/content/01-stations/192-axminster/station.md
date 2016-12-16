@@ -12,8 +12,11 @@ company:
 route:
 - basingstoke-to-salisbury-and-exeter
 ----
-text: A telegraph station.
-
-Population: 2,896.
-
-Situated on the river Axe. Some of the best and finest description of carpets are made here.
+info:
+- term: Population
+  desc: 2,896.
+----
+notes:
+- A telegraph station.
+----
+text: Situated on the river Axe. Some of the best and finest description of carpets are made here.

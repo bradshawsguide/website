@@ -16,4 +16,7 @@ info:
 - term: Money Order Office
   desc: at Worthing.
 ----
-text: Telegraph station at Worthing, 2½ miles. After which an additional four miles bring us to the station at [Angmering](/stations/angmering)
+notes:
+- Telegraph station at Worthing, 2½ miles.
+----
+text: After which an additional four miles bring us to the station at [Angmering](/stations/angmering)

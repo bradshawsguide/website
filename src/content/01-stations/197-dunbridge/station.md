@@ -18,4 +18,5 @@ info:
 - term: Money Order Office
   desc: at Romsey.
 ----
-text: Telegraph station at Romsey, 4½ miles.
+notes:
+- Telegraph station at Romsey, 4½ miles.

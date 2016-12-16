@@ -16,6 +16,6 @@ info:
 - term: Omnibuses
   desc: to and from Bexley Heath.
 ----
-text: Distance from station, 1 mile.
-
-A telegraph station.
+notes:
+- Distance from station, 1 mile.
+- A telegraph station.

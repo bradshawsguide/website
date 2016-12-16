@@ -16,6 +16,6 @@ info:
 - term: Money Order Office
   desc: at Chichester.
 ----
-text: Telegraph station at Chichester, 2 miles.
-
-Distance from station, ½ mile.
+notes:
+- Telegraph station at Chichester, 2 miles.
+- Distance from station, ½ mile.

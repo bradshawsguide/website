@@ -17,11 +17,11 @@ info:
 - term: Money Order Office
   desc: at Yarmouth.
 ----
-text: Distance from station at Portsmouth, 24 miles.
-
-Telegraph station at Yarmouth, 2 miles.
-
-Freshwater Gate, where the baths and lodging houses are stationed, is half a mile from the village, on the south side of the Downs in a gap of the cliffs, which rise up 500 and 600 feet above the sea, white and dazzling, producing a grand effect. They are streaked with parallel lines of flint. Lobsters, &c., are good. Here is the residence of Alfred Tennyson, the poet laureate.
+notes:
+- Distance from station at Portsmouth, 24 miles.
+- Telegraph station at Yarmouth, 2 miles.
+----
+text: Freshwater Gate, where the baths and lodging houses are stationed, is half a mile from the village, on the south side of the Downs in a gap of the cliffs, which rise up 500 and 600 feet above the sea, white and dazzling, producing a grand effect. They are streaked with parallel lines of flint. Lobsters, &c., are good. Here is the residence of Alfred Tennyson, the poet laureate.
 
 Between this and the Needles are several remarkable objects, most of which can be visited only in a boat (10s. or 20s. the trip), when there is little sea. Even with fine weather the long swell is apt to be disagreeable.
 

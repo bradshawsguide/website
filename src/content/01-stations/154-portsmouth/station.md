@@ -28,9 +28,10 @@ route:
 - term: Market Days
   desc: Thursday and Saturday.
 ----
-text: A telegraph station.
-
-Portsmouth, the first naval port in the British Islands, and a parliamentary borough &c., 75 miles, from London by the South Western Line or 95 by way of the Brighton and South Coast Line.
+notes:
+- A telegraph station.
+----
+text: Portsmouth, the first naval port in the British Islands, and a parliamentary borough &c., 75 miles, from London by the South Western Line or 95 by way of the Brighton and South Coast Line.
 
 Portsmouth, Portsea, Southsea, &c., are seated on a low island, about 4 miles long, between Portsmouth and Langstone Harbours, and inside the Spithead anchorage, and the Isle of Wight, whose beautiful hills are seen about 5 miles over the water. The Dockyard is at Portsea; and on the Gosport side of the harbour are the Victualling Office, Haslar Hospital, and other establishments. Portsdown Hill is to the north.
 

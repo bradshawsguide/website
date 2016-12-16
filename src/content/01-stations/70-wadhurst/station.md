@@ -18,6 +18,6 @@ info:
 - term: Fairs
   desc: April 29th and November 1st.
 ----
-text: Distance from station, ¼ mile.
-
-A telegraph station.
+notes:
+- Distance from station, ¼ mile.
+- A telegraph station.

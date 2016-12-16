@@ -20,9 +20,10 @@ info:
 - term: Money Order Office
   desc: at Canterbury.
 ----
-text: A telegraph station.
-
-*Chilham Home or Manor* is a noble building, situated in beautiful grounds, which command extensive views over the entire Vale of Ashford and the Stour.
+notes:
+- A telegraph station.
+----
+text: *Chilham Home or Manor* is a noble building, situated in beautiful grounds, which command extensive views over the entire Vale of Ashford and the Stour.
 
 Thence the windings of the Stour, spanned ever and anon by some rustic bridge of wood or stone, enhances the romantic beauty of the landscape, and we seem to be for many miles treading the sylvan labyrinth of a miniature Rhine-land.
 

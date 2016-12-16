@@ -12,4 +12,5 @@ company:
 route:
 - charing-cross-to-greenwich
 ----
-text: A telegraph station; and the latter with that of [Commercial Dock](/stations/commercial-dock), a telegraph station.
+notes:
+- A telegraph station; and the latter with that of Commercial Dock, a telegraph station.

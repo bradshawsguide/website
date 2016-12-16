@@ -10,4 +10,5 @@ company:
 route:
 - reading-to-hungerford-and-devizes
 ----
-text: A telegraph station.
+notes:
+- A telegraph station.

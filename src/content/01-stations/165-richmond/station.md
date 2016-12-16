@@ -22,11 +22,11 @@ info:
 - term: Steam Vessels
   desc: from London, calling at Putney, Hammersmith Bridge, and Kew, daily in summer.
 ----
-text: Distance from station, ½ mile.
-
-A telegraph station.
-
-Richmond is a delightful town in Surrey, on the South Western Railway and the river Thames, 10 miles from London, in the midst of scenery which, though often praised and admired, never grows old or wearisome. It may be also reached by the omnibus from St. Paul's, every hour and half hour, or by the Hampton Court steamer from London and Hungerford Bridges. The last way is the best, for enjoying the scenery of the river above Richmond; but the shoals and the long bends or reaches make it rather tedious, especially at low tides. The town stands on an eminence on, the south bank of the Thames--it extends about a mile up the hill--and is skirted and intermingled with agreeable gardens.
+notes:
+- Distance from station, ½ mile.
+- A telegraph station.
+----
+text: Richmond is a delightful town in Surrey, on the South Western Railway and the river Thames, 10 miles from London, in the midst of scenery which, though often praised and admired, never grows old or wearisome. It may be also reached by the omnibus from St. Paul's, every hour and half hour, or by the Hampton Court steamer from London and Hungerford Bridges. The last way is the best, for enjoying the scenery of the river above Richmond; but the shoals and the long bends or reaches make it rather tedious, especially at low tides. The town stands on an eminence on, the south bank of the Thames--it extends about a mile up the hill--and is skirted and intermingled with agreeable gardens.
 
 Richmond had a royal palace from the tune of Edward I., called *Sheen*, i.e. Shining, till Henry VII. gave it the title which he bore as Earl of Richmond, borrowed from his castle of that name in Yorkshire, and revived by Charles I. for the ancestor of the Lennox family. Both places are seated on a high point, "Riche-mont," overlooking a vast range of country. A brick gate and some old walls on one side of the Green are the sole remnants of the palace, which Henry VIII. gave to Wolsey in exchange for Hampton Court, but as it soon returned to the crown it became the residence of Elizabeth, who died here in 1603, and of Henrietta Maria, the queen of Charles I. On the green in front tournaments were held before Henry VII. and Henry VIII. This place is also noted for having had the earliest calico print works established in it (1696) by a Frenchman--these have since thriven in a more congenial spot.
 
@@ -51,7 +51,7 @@ The old park was behind the palace, and now makes part of Kew Gardens; the great
 
 It would be worth while to read the noble lines which follow this quotation in the poet's "Summer" sitting under elms on this spot; there is a glow and dignity in them equal to the magnificence of the prospect spread out before one's eyes. The great lodge which was Sir R. Walpole's seat, *Pembroke Lodge*, the seat of Earl Russell, and *the New Terrace*, offer some of the best points of view in the park. The *Ranger's Lodge*, formerly the seat of Lord Sidmouth, and many more noble mansions are situated on or round the hill.
 
-The Wesleyan body have a <span class="u-smcp">college</span> here for their theological student--a handsome Tudor range, 250 feet long, in which is a good statue of their founder. Close to the bridge (built in 1747, and still taxed) are three small aits or wooded islands. The railway viaduct strides across on three wide arches below.
+The Wesleyan body have a college here for their theological student--a handsome Tudor range, 250 feet long, in which is a good statue of their founder. Close to the bridge (built in 1747, and still taxed) are three small aits or wooded islands. The railway viaduct strides across on three wide arches below.
 
 Within a few miles are Kew Gardens and its pagoda; Twickenham, the favourite retreat of Pope; East Sheen, where Sir W. Temple lived. Ham, the ancient seat of the Dysart family, in which the famous John, Duke of Argyle was born (Scott, in his "Heart of Mid Lothian" brings him to Richmond Park, to introduce Jeanie Deans to Queen Caroline), and Hampton Court, with its half Tudor, half French palace, pictures, cartoons, Lely beauties, gardens, and other attractions.
 

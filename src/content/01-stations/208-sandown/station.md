@@ -20,9 +20,10 @@ info:
 - term: Money Order Office
   desc: at Shanklin.
 ----
-text: A telegraph station.
-
-Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
+notes:
+- A telegraph station.
+----
+text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
 ----
 distances:
 - location: Adgeton

@@ -25,8 +25,8 @@ info:
 - term: Fairs
   desc: May 17th, 18th, and 19th; September 12th, 13th, and 14th.
 ----
-text: Distance from station ½ mile.
-
-A telegraph station.
-
-Brentford has a weekly market and two annual fairs. It is the county town, where members of Parliament are elected. Here, the Brent falls into the Thames. The town is a long straggling street.
+notes:
+- Distance from station ½ mile.
+- A telegraph station.
+----
+text: Brentford has a weekly market and two annual fairs. It is the county town, where members of Parliament are elected. Here, the Brent falls into the Thames. The town is a long straggling street.

@@ -22,6 +22,7 @@ info:
 - term: Fairs
   desc: Monday before New Michaelmas.
 ----
-text: A telegraph station.
-
-<span class="u-smcp">Wycombe</span> is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.
+notes:
+- A telegraph station.
+----
+text: Wycombe is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.

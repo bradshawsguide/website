@@ -18,6 +18,7 @@ info:
 - term: Money Order Office
   desc: at Kingston.
 ----
-text: Telegraph station at Kingston, 2 miles.
-
-Thames Ditton is well-known among anglers; fine barbel, roach, perch, dace, and chub, with some times jack and trout, may be caught.
+notes:
+- Telegraph station at Kingston, 2 miles.
+----
+text: Thames Ditton is well-known among anglers; fine barbel, roach, perch, dace, and chub, with some times jack and trout, may be caught.

@@ -22,4 +22,5 @@ info:
 - term: Fairs
   desc: Last Saturday In April, July 5th, and September 29th.
 ----
-text: A telegraph station.
+notes:
+- A telegraph station.

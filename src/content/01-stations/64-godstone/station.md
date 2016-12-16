@@ -18,11 +18,11 @@ info:
 - term: Fair
   desc: July 22.
 ----
-text: Distance from station, 3 miles.
-
-A telegraph station.
-
-The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked. There was formerly a mineral spring of some repute a short distance, from Godstone. The parks and mansions in this neighbourhood are much admired, and from some of the hills there are beautiful views of the surrounding country of Surrey and Kent. Tandridge and Limpsfield are pretty villages, about two miles distant.
+notes
+- Distance from station, 3 miles.
+- A telegraph station.
+----
+text: The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked. There was formerly a mineral spring of some repute a short distance, from Godstone. The parks and mansions in this neighbourhood are much admired, and from some of the hills there are beautiful views of the surrounding country of Surrey and Kent. Tandridge and Limpsfield are pretty villages, about two miles distant.
 
 Passing over Stafford's Wood Common, the line now traverses a fine and open country, entering the county of Kent at a spot bearing the diminutive cognomen of "Little Browns." The intervening miles are rapidly left behind, and we again pause for a few brief minutes at [Edenbridge](/stations/edenbridge), the first station in the county of [Kent](/regions/england/kent).
 ----

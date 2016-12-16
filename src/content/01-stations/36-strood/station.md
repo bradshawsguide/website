@@ -20,6 +20,7 @@ info:
 - term: Steam Boats
   desc: to Sheerness several times daily.
 ----
-text: A telegraph station.
-
-A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](/stations/rochester).
+notes:
+- A telegraph station.
+----
+text: A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](/stations/rochester).

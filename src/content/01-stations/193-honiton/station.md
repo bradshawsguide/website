@@ -16,6 +16,7 @@ info:
 - term: Population
   desc: 3.301.
 ----
-text: A telegraph station.
-
-Returns two members to parliament, and produces lace of a very costly description.
+notes:
+- A telegraph station.
+----
+text: Returns two members to parliament, and produces lace of a very costly description.

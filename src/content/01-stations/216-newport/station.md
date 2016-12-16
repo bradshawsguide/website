@@ -21,11 +21,11 @@ info:
 - term: Fairs
   desc: Whitsuntide and Michaelmas.
 ----
-text: Distance from station at Portsmouth, 15 miles.
-
-A telegraph station.
-
-Newport, the capital of the Island, a clean, well built, country town, in a hollow, on the river Medina which divides the Island nearly in halves. Cracknell biscuits are manufactured here; but Cowes is the real place where they were first made. Population 8,047. It sends two members to parliament. Town Hall built 1816, by Nash. Old church, in which Charles I.'s daughter Elizabeth is buried. Large House of Industry for the Island, on the Cowes road; not far from the Albany barracks, whither recruits are sent for exercise, and the Parkhurst Reformatory for boys.
+notes:
+- Distance from station at Portsmouth, 15 miles.
+- A telegraph station.
+----
+text: Newport, the capital of the Island, a clean, well built, country town, in a hollow, on the river Medina which divides the Island nearly in halves. Cracknell biscuits are manufactured here; but Cowes is the real place where they were first made. Population 8,047. It sends two members to parliament. Town Hall built 1816, by Nash. Old church, in which Charles I.'s daughter Elizabeth is buried. Large House of Industry for the Island, on the Cowes road; not far from the Albany barracks, whither recruits are sent for exercise, and the Parkhurst Reformatory for boys.
 
 For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.
 ----

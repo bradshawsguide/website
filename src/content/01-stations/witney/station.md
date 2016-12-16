@@ -10,4 +10,7 @@ company:
 route:
 - oxford-to-witney
 ----
-text: A telegraph station, and celebrated for its manufacture of blankets.
+notes:
+- A telegraph station
+----
+text: Celebrated for its manufacture of blankets.

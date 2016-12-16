@@ -24,8 +24,9 @@ info:
 - term: Fairs
   desc: April 5th and 18th, July 17th, November 27th, and Monday before Whitsuntide.
 ----
-text: A telegraph station.
-
-This town stands on the River Arun, and is considered, in a commercial point of view, one of the most important in the county. The church is a large ancient structure, having some fine old tombs. Here is a fine Gothic court house, a county gaol, built on Howard's plan, and an excellent foundation school of Richard Collier's, founded in 1532.
+notes:
+- A telegraph station.
+----
+text: This town stands on the River Arun, and is considered, in a commercial point of view, one of the most important in the county. The church is a large ancient structure, having some fine old tombs. Here is a fine Gothic court house, a county gaol, built on Howard's plan, and an excellent foundation school of Richard Collier's, founded in 1532.
 
 [A line to Guilford](/routes/horsham-to-guildford) branches off here.

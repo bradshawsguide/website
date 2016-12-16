@@ -16,11 +16,11 @@ route:
 - term: Market Day
   desc: Saturday.
 ----
-text: Distance from station at [Shanklin](/stations/shanklin), 5 miles.
-
-A telegraph station.
-
-Ventnor, the capital of Undercliff, had no existence 40 years ago, but is now a respectable town, with a population of 3,208. This is owing to its delightful situation in front of the sea, and being protected by the cliffs behind. Trees have not grown so fast as houses, which being of stone have a white glare in the summer sunshine; but it is in winter that its peculiar advantages are felt by the invalid, who then enjoys a climate not to be had in any other part of England except Torquay. Lodgings are abundant and moderate. Myrtles, fuchsias, and other plants grow to a large size. The Downs behind, affording endless rambles, are covered with heath and thyme. Houses occupy every accessible spot up and down the cliffs, with the Channel and the shipping perpetually in view. There is a new church, with assembly rooms, baths, &c. A fine, pebbly beach below, and attractive walks of all lands.
+notes:
+- Distance from station at Shanklin, 5 miles.
+- A telegraph station.
+----
+text: Ventnor, the capital of Undercliff, had no existence 40 years ago, but is now a respectable town, with a population of 3,208. This is owing to its delightful situation in front of the sea, and being protected by the cliffs behind. Trees have not grown so fast as houses, which being of stone have a white glare in the summer sunshine; but it is in winter that its peculiar advantages are felt by the invalid, who then enjoys a climate not to be had in any other part of England except Torquay. Lodgings are abundant and moderate. Myrtles, fuchsias, and other plants grow to a large size. The Downs behind, affording endless rambles, are covered with heath and thyme. Houses occupy every accessible spot up and down the cliffs, with the Channel and the shipping perpetually in view. There is a new church, with assembly rooms, baths, &c. A fine, pebbly beach below, and attractive walks of all lands.
 
 In the season provisions are scarce, and therefore dear, a drawback felt at Shanklin and other places on this side of the Island. Four or five coaches by way of Brading or Newport run to and fro between this and Ryde daily. Occasionally a steamer touches for Cowes or Ryde; but this is rare, and the landing is by boat. Excellent lobsters, crabs, and prawns. Some curious caves have been formed in the chits by the sea along the beach.
 

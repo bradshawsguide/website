@@ -6,8 +6,8 @@
 <? endif ?>
   <h1 class="c-page__title">
     <?= smartypants($p->title()) ?>
-    <? if ($p->notes()->isNotEmpty()): ?>
-      <span><?= $p->notes() ?></span>
+    <? if ($p->title_suffix()->isNotEmpty()): ?>
+      <span><?= $p->title_suffix() ?></span>
     <? endif ?>
   </h1>
 <? if (isset($subtitle)): ?>

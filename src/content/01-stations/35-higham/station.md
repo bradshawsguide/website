@@ -12,9 +12,10 @@ company:
 route:
 - charing-cross-to-woolwich-gravesend-strood-and-rochester
 ----
-text: A telegraph station.
-
-*Gad's Hill*, (1 mile); *Cliffe*, (3 miles); *Cowling*, with its castle, (3¼ mile)--an embattled gateway forming a picturesque object.
+notes:
+- A telegraph station.
+----
+text: *Gad's Hill*, (1 mile); *Cliffe*, (3 miles); *Cowling*, with its castle, (3¼ mile)--an embattled gateway forming a picturesque object.
 
 Here is Mr. Charles Dicken's Country House.
 

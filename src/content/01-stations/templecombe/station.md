@@ -2,14 +2,14 @@
 ----
 title: Templecombe
 ----
+title_suffix: (Junction)
+----
 region: Somerset
 ----
-location: 
+location:
 ----
 company:
 - london-and-south-western
 ----
 route:
 - basingstoke-to-salisbury-and-exeter
-----
-notes: (Junction)

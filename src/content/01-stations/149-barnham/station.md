@@ -19,9 +19,11 @@ info:
 - term: Money Order Office
   desc: at Arundel.
 ----
-text: A telegraph station. Distance from station, ¾ mile.
-
-This station forms the junction of a short line to [Bognor](/stations/bognor).
+notes:
+- A telegraph station.
+- Distance from station, ¾ mile.
+----
+text: This station forms the junction of a short line to [Bognor](/stations/bognor).
 ----
 distances:
 - location: Aldingbourne

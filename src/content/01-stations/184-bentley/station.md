@@ -20,6 +20,6 @@ info:
 - term: Money Order Office
   desc: at Alton.
 ----
-text: Distance from station, 1 mile.
-
-A telegraph station.
+notes:
+- Distance from station, 1 mile.
+- A telegraph station.

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Mortimer
 ----
-notes: (Stratfield)
+title_suffix: (Stratfield)
 ----
 region: Berkshire
 ----

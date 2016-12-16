@@ -12,6 +12,7 @@ company:
 route:
 - london-to-chatham-and-dover
 ----
-text: A telegraph station
-
-One of the villages on the Old Roman road, Watling Street, passing which, and the station of [Newington](/stations/newington), we arrive at that of [Sittingbourne](/stations/sittingbourne).
+notes:
+- A telegraph station.
+----
+text: One of the villages on the Old Roman road, Watling Street, passing which, and the station of [Newington](/stations/newington), we arrive at that of [Sittingbourne](/stations/sittingbourne).

@@ -16,6 +16,7 @@ info:
 - term: Money Order Office
   desc: at Fareham.
 ----
-text: Telegraph station at Fareham, 3 miles.
-
-This place has an ancient castle, which serves for prisoners of war and ordnance stores.
+notes:
+- Telegraph station at Fareham, 3 miles.
+----
+text: This place has an ancient castle, which serves for prisoners of war and ordnance stores.

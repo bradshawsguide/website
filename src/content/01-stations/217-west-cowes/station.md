@@ -23,11 +23,11 @@ info:
 - term: Regatta
   desc: in August.
 ----
-text: Distance from station at Southampton, 11 miles.
-
-A telegraph station.
-
-Cowes, five miles from Newport. An immense quantity of shipping call off here annually, from all parts of the globe, for orders from their owners or consignees, as to the destination of their cargoes; and in the winter months fleets of merchantmen of all nations rendezvous here weatherbound.
+notes:
+- Distance from station at Southampton, 11 miles.
+- A telegraph station.
+----
+text: Cowes, five miles from Newport. An immense quantity of shipping call off here annually, from all parts of the globe, for orders from their owners or consignees, as to the destination of their cargoes; and in the winter months fleets of merchantmen of all nations rendezvous here weatherbound.
 
 It lies at the mouth of the Medina and is a stirring port, noted for its shipbuilding (especially at White's yard), and yachting. There is deep water here; the Royal Yacht Club hold their *regatta* in August. Handsome Club house, Old castle, built by Henry VIII., from which Cowes derives its name. Dr. Arnold was a native of Cowes. There is a ferry to East Cowes, across the Medina, beyond which *Norris Castle* and *Osborne House* are visible. Sailing boats 2s. per hour.
 

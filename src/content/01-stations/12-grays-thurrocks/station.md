@@ -22,4 +22,5 @@ info:
 - term: Fair
   desc: May 23rd.
 ----
-text: Telegraph station at Tilbury, 2½ miles.
+notes:
+- Telegraph station at Tilbury, 2½ miles.

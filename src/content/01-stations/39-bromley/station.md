@@ -20,9 +20,10 @@ info:
 - term: Population
   desc: 5,505.
 ----
-text: A telegraph station.
-
-Principally composed of one long street; market house, supported on pillars. Dr. Johnson's wife and Hawkesworth, the author of the "Adventurer" lie buried here.
+notes:
+- A telegraph station.
+----
+text: Principally composed of one long street; market house, supported on pillars. Dr. Johnson's wife and Hawkesworth, the author of the "Adventurer" lie buried here.
 
 [Bickley](/stations/bickley) and [St. Mary's Cray](/stations/st-marys-cray) stations.
 

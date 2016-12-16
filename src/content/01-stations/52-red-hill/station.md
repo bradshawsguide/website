@@ -22,9 +22,10 @@ info:
   desc: Railway Hotel.
 - term: Money Order Office
 ----
-text: A telegraph station.
-
-This is one of the most important junctions of the Kent and Sussex Railways.
+notes:
+- A telegraph station.
+----
+text: This is one of the most important junctions of the Kent and Sussex Railways.
 
 The [Reigate and Reading Branch](/routes/reigate-to-reading) goes to the west, through the vale of Dorking to Guildford and Reading, communicating thence to any part of the kingdom.
 

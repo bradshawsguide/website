@@ -25,9 +25,10 @@ info:
   desc: Whit-Monday and December 9th.
 - term: Money Order Office
 ----
-text: A telegraph station.
-
-Reigate, situated near the River Mole, in the valley of Holmesdale, at the foot of the ridge of chalk hills which traverse the country from east to west, consists of a main street of well-built houses, crossed at the eastern end by the Old Brighton Road, which, for upwards of a mile out of town, is adorned by the detached residences of the gentry.
+notes:
+- A telegraph station.
+----
+text: Reigate, situated near the River Mole, in the valley of Holmesdale, at the foot of the ridge of chalk hills which traverse the country from east to west, consists of a main street of well-built houses, crossed at the eastern end by the Old Brighton Road, which, for upwards of a mile out of town, is adorned by the detached residences of the gentry.
 
 The houses of the lower classes present models of architecture, and are beautifully decorated with imbricated tiles of various patterns, a style of cottage ornament characteristic of this part of the country. The church stands on a gentle eminence east of the town, and is a spacious structure of almost every period of Gothic architecture, some parts of which are extremely beautiful. From the summit of Park Hill an extensive view is obtained of the wealds of Surrey and Sussex; and that of Reigate, with the priory and its park, is of singular beauty.
 

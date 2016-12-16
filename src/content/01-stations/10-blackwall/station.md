@@ -20,8 +20,9 @@ info:
 - term: Money Order Office
   desc: at No. 53, Three Colt Street, Limehouse, 3 miles.
 ----
-text: Distance from station, 1/4 mile.
-
-Telegraph station.
+notes:
+- Distance from station, 1/4 mile.
+----
+text: Telegraph station.
 
 Further particulars [can be found here](/routes/london-bridge-to-herne-bay#blackwall).

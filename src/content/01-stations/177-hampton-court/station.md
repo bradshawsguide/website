@@ -20,9 +20,10 @@ info:
 - term: Races
   desc: Hampton, on Moulsey Hurst, in June.
 ----
-text: A telegraph station.
-
-The situation of Hampton Court, which stands on the north bank of the Thames, about twelve miles from London, is so happily described by Pope, that we cannot resist quoting the favourite passage:--
+notes:
+- A telegraph station.
+----
+text: The situation of Hampton Court, which stands on the north bank of the Thames, about twelve miles from London, is so happily described by Pope, that we cannot resist quoting the favourite passage:--
 
 > Close by those meads for over crowned with flowers,
 > Where Thames with pride surveys his rising towers,

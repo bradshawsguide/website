@@ -18,6 +18,7 @@ info:
 - term: Money Order Office
   desc: at Theale.
 ----
-text: A telegraph station.
-
-*Woolhampton House*, Viscount Falmouth.
+notes:
+- A telegraph station.
+----
+text: *Woolhampton House*, Viscount Falmouth.

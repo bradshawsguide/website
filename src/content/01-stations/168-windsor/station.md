@@ -22,15 +22,16 @@ info:
 - term: Fairs
   desc: Easter Tuesday, July 5th, and October 25th.
 ----
-text: A telegraph station.
-
-This is a parliamentary borough (two members), with a population of 9,520, and a few public buildings, such as the Town Hall, built 1686, containing several royal portraits, and the modern church, in which are some of G. Gibbon's carvings; but the chief attractions are the *Castle* and Park, the seat of her majesty *the Queen*, and of her ancestors from the period of the Conquest.
+notes:
+- A telegraph station.
+----
+text: This is a parliamentary borough (two members), with a population of 9,520, and a few public buildings, such as the Town Hall, built 1686, containing several royal portraits, and the modern church, in which are some of G. Gibbon's carvings; but the chief attractions are the *Castle* and Park, the seat of her majesty *the Queen*, and of her ancestors from the period of the Conquest.
 
 **Eton College** also is within a short distance.
 
 Windsor is accessible by railway, *via* the South Western (25 miles), or the Great Western (21 miles)--the former by way of Datchet in front of the Castle--the latter by Slough and Eton.
 
-<span class="u-smcp">Windsor</span> is built on the banks of the Thames, and has long been celebrated for its royal Castle and Park. It is situated on a hill which commands a delightful prospect over the adjacent country. It was first built by William the Conqueror, soon after being seated on the throne of this kingdom. Edward III. was born here, and had such an affection for the spot that he caused the old building to be pulled dawn, and a magnificent palace to be erected on its site, under the direction of the celebrated William of Wykeham; and re-established the princely order of the Garter.
+Windsor is built on the banks of the Thames, and has long been celebrated for its royal Castle and Park. It is situated on a hill which commands a delightful prospect over the adjacent country. It was first built by William the Conqueror, soon after being seated on the throne of this kingdom. Edward III. was born here, and had such an affection for the spot that he caused the old building to be pulled dawn, and a magnificent palace to be erected on its site, under the direction of the celebrated William of Wykeham; and re-established the princely order of the Garter.
 
 No Briton can view unmoved the stately towers of "Windsor's castled keep." The mind is irresistibly carried back to the time when the Norman conqueror so far bent the stubborn necks of our Saxon ancestors, as to compel them to extinguish their fires on the sound of the innovating curfew. Rival houses have in turn held regal sway within its storied walls. Its history is the history of our country, and some of its "brightest and blackest" pages are inseparably linked with the towers that arrest the eye of the traveller as he approaches the station. Its annals take us back to times when the rebellious Barons compelled King John, in its immediate neighbourhood, to sign the first great charter of our country's rights. York and Lancaster have each struggled for its possession. It has witnessed the extinction of royal houses, and sheltered within its walls the representative of England's short-lived Commonwealth, Within its precincts the Tudors have signed decrees to light the fires of Smithfield, and Cromwell has declared to Continental despotism, that no man shall be persecuted on account of his protestantism. Great names, too, are associated with its annals, and he who has read the history of his country can pass in review, before his mind's eye, a long list of warriors, statesmen, churchmen, poets, and others, celebrated for their virtues or their talents, while he is also forcibly reminded that many names are mixed up with its history which he would willingly consign to oblivion.
 

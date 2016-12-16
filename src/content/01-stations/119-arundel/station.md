@@ -22,9 +22,10 @@ info:
 - term: Fairs
   desc: May 14th, August 21st, September 25th, and December 17th.
 ----
-text: A telegraph station.
-
-Arundel is situated on the declivity of a steep hill, which commands a fine prospect. At the foot of this eminence runs the river Arun, over which is built a handsome stone bridge. From the Worthing Road the appearance of the town, with its stately castle, extensive park, and winding river, is singularly beautiful. On the north-east part of the town stands the
+notes:
+- A telegraph station.
+----
+text: Arundel is situated on the declivity of a steep hill, which commands a fine prospect. At the foot of this eminence runs the river Arun, over which is built a handsome stone bridge. From the Worthing Road the appearance of the town, with its stately castle, extensive park, and winding river, is singularly beautiful. On the north-east part of the town stands the
 
 <span class="u-smcp">Castle</span>, which has the remarkable privilege of entitling its owner to the dignity of an earl without creation. It was bequeathed by Alfred the Great to his nephew, Adhelm. It suffered considerably in the troubles which befel England in the reign of Stephen, and subsequently in the Parliamentary War. It is new in the possession of the Howard family. The late Duke of Norfolk rebuilt it on a scale of great magnificence; the only portions of the old castle remaining entire being: the keep, which forms a most striking feature from the neighbouring country, and which is now used as a preserve for a species of owl; and the gateway, built by Richard Fitzadam. The situation of the castle is one of great beauty (itself embosomed in a luxuriant grove), commanding an infinite variety of picturesque views--the valley of the Arun, with its windings, amidst the pretty high ground to the north, and the numerous villages dotting the country over on the one hand, and on the other, "the sea, the sea, the open sea," from Beachy Head to the Wight.
 

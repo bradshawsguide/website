@@ -20,11 +20,11 @@ info:
 - term: Fairs
   desc: First Monday in Lent, May 14th, August 6th, and September 25th.
 ----
-text: Distance from station, ½ mile.
-
-A telegraph station.
-
-Chertsey is as old as the days of the ancient Britons, and probably was one of their principal places. Soon after the conversion of the Saxons from Paganism, in 666, a Benedictine monastery was founded here by Frithwald, a petty prince of Surrey, and by him richly endowed. In the original charter it is written, "I beseech those whose names are annexed to subscribe themselves witnesses that I, Frithwald, who am the giver, together with the Abbot Erkenwald, on account of my ignorance of letters, have expressed with the sign of the Holy Cross." It is from this pretty evident that princes in those days had somewhat of Jack Cade's antipathy to those who could "read, write, and cast accompt," and therefore they also "made their mark, like a simple, plain-dealing, honest man."
+notes:
+- Distance from station, ½ mile.
+- A telegraph station.
+----
+text: Chertsey is as old as the days of the ancient Britons, and probably was one of their principal places. Soon after the conversion of the Saxons from Paganism, in 666, a Benedictine monastery was founded here by Frithwald, a petty prince of Surrey, and by him richly endowed. In the original charter it is written, "I beseech those whose names are annexed to subscribe themselves witnesses that I, Frithwald, who am the giver, together with the Abbot Erkenwald, on account of my ignorance of letters, have expressed with the sign of the Holy Cross." It is from this pretty evident that princes in those days had somewhat of Jack Cade's antipathy to those who could "read, write, and cast accompt," and therefore they also "made their mark, like a simple, plain-dealing, honest man."
 
 The Danes, who were the general "snappers-up of unconsidered trifles," pillaged the abbey in 1009, killed the abbot and monks, and laid the whole building desolate; but being afterwards rebuilt by Egbert, King of Kent, it became more magnificently embellished than ever, and was one of the most important monasteries in the kingdom. Henry VI. was buried here, under a sumptuous mausoleum, but the body was exhumed in 1504, by Henry VII., and conveyed with great pomp, first to Windsor, and afterwards to Westminster Abbey. It is useless to look now for any vestige, of its former grandeur; all that remains is a part of its wall, forming the boundary of an orchard, and part of an archway is still visible on the north side of the town. In the centre of the town is the church, rebuilt in 1808, but having a portion of the old chancel and tower remaining.
 

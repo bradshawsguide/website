@@ -16,11 +16,13 @@ info:
 - term: Money Order Office
   desc: at Cuckfield.
 ----
-text: Distance from station, 1 mile.
-
-A telegraph station.
-
-To the left, on the hills, is Wakehurst Place, the estate of Sir A. Cockburn, St. Leonard's Forest on the right. The rivers Adur, Arun, and Ouse have their source in this forest, within a circle of three or four miles in diameter.
+notes:
+- Distance from station, 1 mile.
+----
+notes:
+- A telegraph station.
+----
+text: To the left, on the hills, is Wakehurst Place, the estate of Sir A. Cockburn, St. Leonard's Forest on the right. The rivers Adur, Arun, and Ouse have their source in this forest, within a circle of three or four miles in diameter.
 
 A short distance further on the line crosses the Ouse by the viaduct of that name, one of the fittest works in the kingdom, which is only excelled by the viaduct over the Dee on the Chester and Shrewsbury Railway. It consists of 37 arches, and its summit commands extensive views of the surrounding country.
 

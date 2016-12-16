@@ -2,7 +2,7 @@ section: 2
 ----
 title: Culham
 ----
-notes: (Junction)
+title_suffix: (Junction)
 ----
 region: Oxfordshire
 ----
@@ -19,4 +19,6 @@ info:
 - term: Money Order Office
   desc: at Abingdon.
 ----
-text: Distance from station, 2 miles. A telegraph station.
+notes:
+- Distance from station, 2 miles.
+- A telegraph station.

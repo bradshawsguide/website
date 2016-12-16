@@ -16,6 +16,7 @@ info:
 - term: Money Order Office
   desc: at Arundel.
 ----
-text: Telegraph station at Ford, 4 miles.
-
-A short distance to the north is *Angmering Park* and *Michel Grove*. The line still proceeding through a fine and highly cultivated country, passes the villages of *Poleing* and *Leominster*, at the latter of which there is a curious old church, and arrives at [Littlehampton](/stations/littlehampton).
+notes:
+- Telegraph station at Ford, 4 miles.
+----
+text: A short distance to the north is *Angmering Park* and *Michel Grove*. The line still proceeding through a fine and highly cultivated country, passes the villages of *Poleing* and *Leominster*, at the latter of which there is a curious old church, and arrives at [Littlehampton](/stations/littlehampton).

@@ -20,9 +20,10 @@ info:
 - term: Fates
   desc: Easter Monday, August 16th, November 18th, and every Tuesday fortnight, from July 31st to December 25th.
 ----
-text: A telegraph station.
-
-Like many other places of great antiquity, Romsey owes its foundation to a monastic establishment. Edward here founded a Benedictine abbey on a very extensive scale and appointed his daughter abbess.
+notes:
+- A telegraph station.
+----
+text: Like many other places of great antiquity, Romsey owes its foundation to a monastic establishment. Edward here founded a Benedictine abbey on a very extensive scale and appointed his daughter abbess.
 
 It was enlarged by Edgar, whose son's remains were interred in its church. Romsey suffered considerably during the incursions of the Danes, who sacked the town and plundered the abbey in the 10th century. Although mentioned in Domesday Book, its first charter of incorporation only dates as far back as the reign of James I.
 

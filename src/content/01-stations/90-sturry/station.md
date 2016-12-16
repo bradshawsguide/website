@@ -22,4 +22,5 @@ info:
 - term: Money Order Office
   desc: at Canterbury
 ----
-text: A telegraph station.
+notes:
+- A telegraph station.

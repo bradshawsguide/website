@@ -21,7 +21,8 @@ info:
 - term: Money Order Office
   desc: at Tunbridge
 ----
-text: A telegraph station.
+notes:
+- A telegraph station.
 ----
 distances:
 - location: Bowling Green

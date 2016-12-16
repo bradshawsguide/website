@@ -16,9 +16,10 @@ info:
 - term: Money Order Office
   desc: Hurst.
 ----
-text: A telegraph station.
-
-In the vicinity are *Hurstpierpoint*, with a new church, by Barry, close to which is the tractarian college of *St. John's*, *Danny Park*, *Clayton Priory*, *Albourn Place*, the ancient seat of the Juxton family.
+notes:
+- A telegraph station.
+----
+text: In the vicinity are *Hurstpierpoint*, with a new church, by Barry, close to which is the tractarian college of *St. John's*, *Danny Park*, *Clayton Priory*, *Albourn Place*, the ancient seat of the Juxton family.
 
 From the Hassock's Gate station, a graceful piece of Gothic architecture marks the entrance to the Clayton tunnel, which is cut through blocks of chalk. These enormous chalk hills are composed of lime, in chemical combination with carbonic gas, the same which sparkles in a bottle of soda water; and if nature had not combined these substances, the first shower of rain would raise the lime to a great heat, and these stalwart cliffs would crumble into atoms.
 

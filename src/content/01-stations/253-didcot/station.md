@@ -2,7 +2,7 @@ section: 2
 ----
 title: Didcot
 ----
-notes: (Junction)
+title_suffix: (Junction)
 ----
 today: Didcot Parkway
 ----

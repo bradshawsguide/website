@@ -18,6 +18,7 @@ info:
 - term: Money Order Office,
   desc: Horndon-on-the-Hill, 1 mile.
 ----
-text: Telegraph station at Tilbury, 5½ miles.
-
-The bend which the river makes here is called "The Hope".
+notes:
+- Telegraph station at Tilbury, 5½ miles.
+----
+text: The bend which the river makes here is called "The Hope".

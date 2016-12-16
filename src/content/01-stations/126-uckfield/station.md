@@ -16,6 +16,7 @@ info:
 - term: Hotels
   desc: Maidenhead; Bell.
 ----
-text: A telegraph station.
-
-Besides its two chalybeate springs in the neighbourhood it has no particular attractions.
+notes:
+- A telegraph station.
+----
+text: Besides its two chalybeate springs in the neighbourhood it has no particular attractions.

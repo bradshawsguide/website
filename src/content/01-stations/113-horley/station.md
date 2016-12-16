@@ -16,11 +16,11 @@ info:
 - term: Hotel
   desc: King's Head.
 ----
-text: Distance from station, ¾ mile.
-
-A telegraph station.
-
-Horley was once famous for its iron works. It has traces of an old castle. The church is a fine edifice, and contains some handsome monuments.
+notes:
+- Distance from station, ¾ mile.
+- A telegraph station.
+----
+text: Horley was once famous for its iron works. It has traces of an old castle. The church is a fine edifice, and contains some handsome monuments.
 
 From the Horley station the line begins for some time rising, and the view on every side continues, as before, uninterrupted.
 

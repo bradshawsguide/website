@@ -12,10 +12,10 @@ company:
 route:
 - reigate-to-reading
 ----
-text: Distance from station, ½ mile.
-
-A telegraph station.
-
-On an eminence in the vicinity, and towards the south, is St. Martha's ancient chapel. *Chilworth Manor* is the property of Godwin Austin, Esq.
+info:
+- Distance from station, ½ mile.
+- A telegraph station.
+----
+text: On an eminence in the vicinity, and towards the south, is St. Martha's ancient chapel. *Chilworth Manor* is the property of Godwin Austin, Esq.
 
 About two miles further is [Shalford](/stations/shalford).

@@ -23,6 +23,6 @@ info:
 - term: Fairs
   desc: Whit Wednesday, September 29th, and November 30th.
 ----
-text: Distance from station, 1½ mile.
-
-A telegraph station.
+notes:
+- Distance from station, 1½ mile.
+- A telegraph station.
