@@ -4,7 +4,7 @@ title: Minster Junction
 ----
 title_later: Minster
 ----
-short_title: Minster Jct.
+title_short: Minster Jct.
 ----
 region: kent
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Farringdon Street
 ----
-short_title: Farringdon St.
+title_short: Farringdon St.
 ----
 region: middlesex
 ----

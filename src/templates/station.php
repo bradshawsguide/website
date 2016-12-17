@@ -18,7 +18,8 @@
   };
 
   pattern('page/content', [
-    'p' => $page
+    'p' => $page,
+    'images' => false
   ]);
 
   // Get route UIDs listed under `route:` frontmatter

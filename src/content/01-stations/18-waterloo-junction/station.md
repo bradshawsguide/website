@@ -2,7 +2,7 @@ section: 1
 ----
 title: Waterloo Junction
 ----
-short_title: Waterloo Jct.
+title_short: Waterloo Jct.
 ----
 title_later: Waterloo East
 ----

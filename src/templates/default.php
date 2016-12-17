@@ -5,7 +5,8 @@
   pattern('page/header', ['p' => $page]);
 
   pattern('page/content', [
-    'p' => $page
+    'p' => $page,
+    'images' => true
   ]);
 ?>
 </article>

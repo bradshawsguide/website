@@ -2,7 +2,7 @@ section: 1
 ----
 title: Loughborough Road
 ----
-short_title: Loughborough Rd.
+title_short: Loughborough Rd.
 ----
 region: surrey
 ----

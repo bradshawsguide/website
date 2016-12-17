@@ -2,7 +2,7 @@ section: 1
 ----
 title: Caterham Junction
 ----
-short_title: Caterham Jct.
+title_short: Caterham Jct.
 ----
 title_later: Purley
 ----

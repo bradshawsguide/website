@@ -38,7 +38,7 @@ stops:
 - wareham
 - wool
 - moreton
-- dorchester
+- dorchester-south
 - weymouth
 ----
 text: ## London to Clapham

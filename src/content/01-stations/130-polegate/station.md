@@ -2,7 +2,7 @@ section: 1
 ----
 title: Polegate (Willingdon)
 ----
-short_title: Polegate
+title_short: Polegate
 ----
 region: sussex
 ----

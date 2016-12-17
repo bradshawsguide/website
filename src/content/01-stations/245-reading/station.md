@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- london-to-chippenham
+- london-to-bristol
 - reading-to-basingstoke
 - reading-to-hungerford-and-devizes
 ----

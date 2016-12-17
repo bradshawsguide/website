@@ -2,7 +2,7 @@ section: 1
 ----
 title: Cuxton, or Cuckstone
 ----
-short_title: Cuxton
+title_short: Cuxton
 ----
 region: kent
 ----

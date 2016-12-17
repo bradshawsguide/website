@@ -1,6 +1,6 @@
 title: Bradshaw’s Guide
 ----
-short_title: Bradshaw’s
+title_short: Bradshaw’s
 ----
 author: George Bradshaw
 ----

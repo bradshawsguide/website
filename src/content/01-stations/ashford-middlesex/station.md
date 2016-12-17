@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ashford (Middlesex)
 ----
-short_title: Ashford (Middx.)
+title_short: Ashford (Middx.)
 ----
 region: middlesex
 ----

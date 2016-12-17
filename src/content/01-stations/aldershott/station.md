@@ -2,7 +2,7 @@ section: 1
 ----
 title: Aldershott (North Camp)
 ----
-short_title: Aldershott
+title_short: Aldershott
 ----
 region: hampshire
 ----

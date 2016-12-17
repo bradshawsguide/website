@@ -14,7 +14,7 @@ company:
 - great-western
 ----
 route:
-- london-to-chippenham
+- london-to-bristol
 - didcot-to-oxford
 ----
 info:

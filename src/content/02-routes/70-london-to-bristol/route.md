@@ -2,7 +2,7 @@ section: 2
 ----
 title: Great Western Main Line
 ----
-description: London to Didcot
+description: London to Bristol
 ----
 company: great-western
 ----
@@ -30,6 +30,13 @@ stops:
 - swindon-junction
 - wootton-basset
 - chippenham
+- corsham
+- box
+- bath
+- twerton
+- saltford
+- keynsham
+- bristol
 ----
 text: ## London to Slough
 
@@ -63,3 +70,16 @@ Leaving Didcot on a rise of seven feet in a mile, we now enter an excavation of 
 About a mile to the left is the market town which gives its name to the station, and which is now rapidly rising into importance. The old town is pleasantly situated on the summit of a considerable eminence, commanding extensive views of Berkshire and Gloucestershire.
 
 The line here continues on a rapid descent, of about seven feet in a mile, and by embankment crosses several roads, leading from the neighbouring towns and villages. About a mile to the right, is Lydiard, near which can be recognised the lofty trees of the park, the ancient seat of the Bolingbroke family. Sweeping in rather a serpentine course over a richly-cultivated country, we next pass in succession a cluster of small hamlets to our left; and looking forward, scenery of that quiet pastoral description so characteristic of English rural life is continued to the very verge of the horizon.
+
+## Chippenham to Yatton
+Leaving the Chippenham station we continue for some time on an embankment, and then dipping into an excavation we arrive at [Corsham](/stations/corsham).
+
+Shortly after leaving this station we enter the Box Tunnel which is upwards of one mile and three quarters in length, through the solid heart and immense mass of Box Hill. At intervals a gleam of light appears down the shafts that have been cut through the rock to the surface above. Emerging once more into daylight we proceed over a wide-ranging pasture land, spotted and diversified with herds and flocks.
+
+Passing [Box](/stations/box) Station (near which is *Wraxhall House*), we soon after enter a small tunnel, which is cut through Middle Hill, adjoining a once-noted spa, so called, but now quite forsaken. Emerging from tins we pass on an embankment two miles in length that carries the line onward over the Avon into the county of [Somerset](/regions/england/somerset).
+
+The hamlets of Bathford, Bathampton, and Bathenston are now passed in rapid succession, and swerving slightly to the south, the outskirts of the "Stone-built city" itself rise in all their magnificence before us, as if evoked by a magician from the fertile pastures we have so recently quitted. A loud and prolonged whistle is borne upon the air as herald of our arrival, and we enter the elegant and commodious station at [Bath](/stations/bath).
+
+From the Bath station the railway is earned on a viaduct, continued by alternate excavation and embankment, over the Old Bath Road. We soon after pass into an excavation, and then through a tunnel. Amid a succession of very varied and beautiful scenery along the line, we reach the station of [Twerton](/stations/twerton), and soon after, that of [Saltford](/stations/saltford).
+
+An embankment succeeds across the valley of the Avon, and passing over a viaduct we arrive at [Keynsham](/stations/keynsham). The train then passes through several tunnels, and flitting over a three-arched bridge that spans the Avon, we again reach an embankment, during our passage over which our speed is gradually slackened, and we pass beneath that splendid archway, the entrance to [Bristol](/stations/bristol).

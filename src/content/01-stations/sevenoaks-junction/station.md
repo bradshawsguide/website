@@ -2,7 +2,7 @@ section: 1
 ----
 title: Sevenoaks Junction
 ----
-short_title: Sevenoaks Jct.
+title_short: Sevenoaks Jct.
 ----
 title_later: Swanley
 ----

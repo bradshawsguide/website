@@ -8,6 +8,6 @@ company:
 - great-western
 ----
 route:
-- london-to-chippenham
+- london-to-bristol
 ----
 text: The station for East and West Challow, about 13 mile to the south.

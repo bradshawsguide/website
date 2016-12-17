@@ -1,6 +1,6 @@
 section: 1
 ----
-title: rail
+title: Kingston-on-Sea
 ----
 region: sussex
 ----

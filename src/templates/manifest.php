@@ -1,7 +1,7 @@
 {
   "lang": "en-gb",
   "name": "<?= $site->title() ?>",
-  "short_name": "<?= $site->short_title() ?>",
+  "short_name": "<?= $site->title_short() ?>",
   "display": "standalone",
   "start_url": "/",
   "scope": "/",

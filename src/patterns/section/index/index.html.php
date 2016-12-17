@@ -6,8 +6,8 @@ if($items && $items->count()):
       <ul class="c-list">
       <?
         foreach($items as $item):
-          if (!$item->short_title()->empty()) {
-            $title = $item->short_title();
+          if (!$item->title_short()->empty()) {
+            $title = $item->title_short();
           } else {
             $title = $item->title();
           };

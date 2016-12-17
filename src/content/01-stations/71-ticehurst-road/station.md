@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ticehurst Road
 ----
-short_title: Ticehurst Rd.
+title_short: Ticehurst Rd.
 ----
 region: sussex
 ----

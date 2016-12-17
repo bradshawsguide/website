@@ -4,7 +4,7 @@ title: Coombe and Malden
 ----
 title_later: New Malden
 ----
-short_title: Coombe & Malden
+title_short: Coombe & Malden
 ----
 region: surrey
 ----

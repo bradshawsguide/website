@@ -4,9 +4,11 @@
     pattern('scopes/info', ['p' => $p]);
   }
 
-  if($p->hasImages()) {
-    pattern('page/image', ['p' => $p]);
-  };
+  if(isset($images) && $images != false) {
+    if($p->hasImages()) {
+      pattern('page/image', ['p' => $p]);
+    };
+  }
 
   if($p->text()->isNotEmpty()) {
     pattern('scopes/prose', ['p' => $p]);

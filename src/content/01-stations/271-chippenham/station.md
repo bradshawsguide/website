@@ -11,7 +11,7 @@ company:
 - wilts-somerset-and-weymouth
 ----
 route:
-- london-to-chippenham
+- london-to-bristol
 - chippenham-to-calne
 - chippenham-to-frome-yeovil-dorchester-and-weymouth
 ----

@@ -2,7 +2,7 @@
 ----
 title: Poole Junction
 ----
-short_title: Poole Jct.
+title_short: Poole Jct.
 ----
 title_later: Hamworthy
 ----
