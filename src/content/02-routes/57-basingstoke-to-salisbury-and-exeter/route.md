@@ -15,7 +15,7 @@ stops:
 - grateley
 - porton
 - salisbury
-- wilton
+- wilton-south
 - dinton
 - tisbury
 - semley

@@ -10,7 +10,8 @@ company:
 - great-western
 ----
 route:
-- london-to-swindon
+- london-to-chippenham
+- swindon-to-cirencester-stroud-gloucester-and-cheltenham
 ----
 info:
 - term: Population

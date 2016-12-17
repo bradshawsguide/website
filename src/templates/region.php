@@ -12,7 +12,7 @@
 
   pattern('section/stations', [
     'title' => 'Stations in the county',
-    'items' => page('stations')->children()->filterBy('region', $page->title())
+    'items' => page('stations')->children()->filterBy('region', $page->uid())
   ]);
 
   pattern('page/footer', ['p' => $page]);

@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- london-to-swindon
+- london-to-chippenham
 - west-drayton-to-uxbridge
 ----
 info:

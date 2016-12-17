@@ -12,6 +12,7 @@ company:
 route:
 - basingstoke-to-salisbury-and-exeter
 - bishopstoke-to-salisbury
+- westbury-to-salisbury
 ----
 info:
 - term: Hotels

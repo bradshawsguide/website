@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- london-to-swindon
+- london-to-chippenham
 ----
 notes:
 - Distance from station, 1 mile.

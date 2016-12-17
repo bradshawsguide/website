@@ -8,7 +8,7 @@ company:
 - great-western
 ----
 route:
-- london-to-swindon
+- london-to-chippenham
 - uffington-to-faringdon
 ----
 text: Here [a short line](/routes/uffington-to-farrington), about three miles, runs out to our right to [Farrington](/stations/farrington).

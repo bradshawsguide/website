@@ -10,6 +10,6 @@ company:
 - great-western
 ----
 route:
-- london-to-swindon
+- london-to-chippenham
 ----
 text: *Gunnersbury Park*, Baron Rothschild; *Castlebear Hill*, and *Twyford Abbey*, close by. Thence passing the pretty hamlet of *Drayton Green*, we stop at [Hanwell](/stations/hanwell).

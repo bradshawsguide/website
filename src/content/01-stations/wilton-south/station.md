@@ -2,9 +2,11 @@
 ----
 title: Wilton
 ----
+today: Wilton South
+----
 region: wiltshire
 ----
-location: 
+location:
 ----
 company:
 - london-and-south-western

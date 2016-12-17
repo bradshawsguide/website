@@ -28,6 +28,8 @@ stops:
 - uffington
 - shrivenham
 - swindon-junction
+- wootton-basset
+- chippenham
 ----
 text: ## London to Slough
 
@@ -56,3 +58,8 @@ Passing slowly from the station at a pace that affords us a pleasing bird's eye 
 
 ## Didcot to Swindon Junction
 Leaving Didcot on a rise of seven feet in a mile, we now enter an excavation of about half-a-mile, and emerging thence, bend gradually to the west on an embankment, when again plunging into a short cutting, we are carried past Milton, a small village to the left, and in a few minutes afterwards stop at Steventon.
+
+## Swindon to Chippenham.
+About a mile to the left is the market town which gives its name to the station, and which is now rapidly rising into importance. The old town is pleasantly situated on the summit of a considerable eminence, commanding extensive views of Berkshire and Gloucestershire.
+
+The line here continues on a rapid descent, of about seven feet in a mile, and by embankment crosses several roads, leading from the neighbouring towns and villages. About a mile to the right, is Lydiard, near which can be recognised the lofty trees of the park, the ancient seat of the Bolingbroke family. Sweeping in rather a serpentine course over a richly-cultivated country, we next pass in succession a cluster of small hamlets to our left; and looking forward, scenery of that quiet pastoral description so characteristic of English rural life is continued to the very verge of the horizon.
