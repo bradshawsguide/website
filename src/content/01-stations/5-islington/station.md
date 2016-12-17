@@ -2,7 +2,7 @@ section: 1
 ----
 title: Islington
 ----
-today: Highbury & Islington
+title_later: Highbury & Islington
 ----
 region: middlesex
 ----

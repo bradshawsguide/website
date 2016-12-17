@@ -2,7 +2,7 @@ section: 1
 ----
 title: Minster Junction
 ----
-today: Minster
+title_later: Minster
 ----
 short_title: Minster Jct.
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Croydon
 ----
-today: East Croydon
+title_later: East Croydon
 ----
 region: surrey
 ----

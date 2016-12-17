@@ -2,7 +2,7 @@ section: 1
 ----
 title: Fay Gate
 ----
-today: Faygate
+title_later: Faygate
 ----
 region: sussex
 ----

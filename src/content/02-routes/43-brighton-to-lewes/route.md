@@ -2,7 +2,7 @@
 ----
 title: Brighton and Lewes Branch
 ----
-today: East Coastway Line
+title_later: East Coastway Line
 ----
 description: Brighton to Lewes
 ----

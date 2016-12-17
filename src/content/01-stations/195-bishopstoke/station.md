@@ -2,7 +2,7 @@
 ----
 title: Bishopstoke
 ----
-today: Eastleigh
+title_later: Eastleigh
 ----
 region: hampshire
 ----

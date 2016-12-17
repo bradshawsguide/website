@@ -2,7 +2,7 @@ section: 2
 ----
 title: Woolhampton
 ----
-today: Midgham
+title_later: Midgham
 ----
 region: berkshire
 ----

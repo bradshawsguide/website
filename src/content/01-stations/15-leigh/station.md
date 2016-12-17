@@ -2,7 +2,7 @@ section: 1
 ----
 title: Leigh
 ----
-today: Leigh-on-Sea
+title_later: Leigh-on-Sea
 ----
 region: essex
 ----

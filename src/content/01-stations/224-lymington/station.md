@@ -2,7 +2,7 @@
 ----
 title: Lymington
 ----
-today: Lymington Town
+title_later: Lymington Town
 ----
 region: hampshire
 ----

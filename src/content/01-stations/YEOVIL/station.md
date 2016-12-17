@@ -4,7 +4,7 @@ title: Yeovil
 ----
 region: dorsetshire
 ----
-location: 
+location:
 ----
 company:
 - london-and-south-western

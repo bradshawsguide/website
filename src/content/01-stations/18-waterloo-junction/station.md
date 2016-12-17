@@ -4,7 +4,7 @@ title: Waterloo Junction
 ----
 short_title: Waterloo Jct.
 ----
-today: Waterloo East
+title_later: Waterloo East
 ----
 region: surrey
 ----

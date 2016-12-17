@@ -4,7 +4,7 @@ title: Hayward's Heath
 ----
 title_suffix: (Junction)
 ----
-today: Haywards Heath
+title_later: Haywards Heath
 ----
 region: sussex
 ----

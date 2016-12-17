@@ -2,7 +2,7 @@ section: 1
 ----
 title: Coombe and Malden
 ----
-today: New Malden
+title_later: New Malden
 ----
 short_title: Coombe & Malden
 ----

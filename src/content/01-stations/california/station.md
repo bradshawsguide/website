@@ -2,7 +2,7 @@ section: 1
 ----
 title: California
 ----
-today: Belmont
+title_later: Belmont
 ----
 region: surrey
 ----

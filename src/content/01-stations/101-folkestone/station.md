@@ -2,7 +2,7 @@ section: 1
 ----
 title: Folkestone
 ----
-today: Folkestone East
+title_later: Folkestone East
 ----
 region: kent
 ----

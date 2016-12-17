@@ -2,7 +2,7 @@ section: 1
 ----
 title: Woolwich Dock
 ----
-today: Woolwich Dockyard
+title_later: Woolwich Dockyard
 ----
 region: kent
 ----

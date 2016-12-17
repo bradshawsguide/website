@@ -2,7 +2,7 @@ section: 2
 ----
 title: Wilton
 ----
-today: Wilton North
+title_later: Wilton North
 ----
 region: wiltshire
 ----

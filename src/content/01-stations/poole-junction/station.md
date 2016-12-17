@@ -4,7 +4,7 @@ title: Poole Junction
 ----
 short_title: Poole Jct.
 ----
-today: Hamworthy
+title_later: Hamworthy
 ----
 region: dorsetshire
 ----

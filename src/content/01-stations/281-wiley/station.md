@@ -2,7 +2,7 @@ section: 2
 ----
 title: Wiley
 ----
-today: Wylye
+title_later: Wylye
 ----
 region: wiltshire
 ----

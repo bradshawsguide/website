@@ -2,6 +2,8 @@ section: 2
 ----
 title: Goring
 ----
+title_later: Goring & Streatley
+----
 region: berkshire
 ----
 company:

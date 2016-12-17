@@ -2,7 +2,7 @@
 ----
 title: Portsmouth Branch
 ----
-today: West Coastway Line
+title_later: West Coastway Line
 ----
 description: Brighton to Worthing, Chichester and Portsmouth
 ----
@@ -17,8 +17,8 @@ stops:
 - kingston-on-sea
 - new-shoreham
 - lancing
-- Worthing
-- goring
+- worthing
+- goring-by-sea
 - angmering
 - littlehampton
 - ford

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Bromley
 ----
-today: Bromley-by-Bow (tube station)
+title_later: Bromley-by-Bow (tube station)
 ----
 region: kent
 ----

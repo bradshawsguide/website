@@ -2,7 +2,7 @@ section: 1
 ----
 title: Canterbury (C&D)
 ----
-today: Canterbury East
+title_later: Canterbury East
 ----
 region: kent
 ----

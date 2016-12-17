@@ -2,7 +2,7 @@ section: 1
 ----
 title: Cliftonville
 ----
-today: Hove
+title_later: Hove
 ----
 region: sussex
 ----

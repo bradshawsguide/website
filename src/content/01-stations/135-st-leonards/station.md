@@ -2,7 +2,7 @@ section: 1
 ----
 title: St. Leonards
 ----
-today: St. Leonards Warrior Square
+title_later: St. Leonards Warrior Square
 ----
 region: sussex
 ----

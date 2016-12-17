@@ -2,7 +2,7 @@ section: 2
 ----
 title: Cheltenham
 ----
-today: Cheltenham Spa St. James
+title_later: Cheltenham Spa St. James
 ----
 region: gloucestershire
 ----

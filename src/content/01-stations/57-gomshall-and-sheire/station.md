@@ -2,7 +2,7 @@ section: 1
 ----
 title: Gomshall & Sheire
 ----
-today: Gomshall
+title_later: Gomshall
 ----
 region: surrey
 ----

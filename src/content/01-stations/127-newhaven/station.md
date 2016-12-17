@@ -2,7 +2,7 @@ section: 1
 ----
 title: Newhaven
 ----
-today: Newhaven Town
+title_later: Newhaven Town
 ----
 region: sussex
 ----

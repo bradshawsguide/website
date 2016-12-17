@@ -2,6 +2,8 @@ section: 1
 ----
 title: Goring
 ----
+title_later: Goring-by-Sea
+----
 region: sussex
 ----
 location: 50.817778, -0.4325

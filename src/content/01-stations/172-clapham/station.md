@@ -2,7 +2,7 @@ section: 1
 ----
 title: Clapham
 ----
-today: Clapham Junction
+title_later: Clapham Junction
 ----
 region: surrey
 ----

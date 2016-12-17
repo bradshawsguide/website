@@ -2,7 +2,7 @@ section: 1
 ----
 title: Gray's Thurrocks
 ----
-today: Grays
+title_later: Grays
 ----
 region: essex
 ----

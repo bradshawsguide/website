@@ -2,7 +2,7 @@ section: 2
 ----
 title: Bradford
 ----
-today: Bradford-on-Avon
+title_later: Bradford-on-Avon
 ----
 region: wiltshire
 ----

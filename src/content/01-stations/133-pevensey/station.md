@@ -2,7 +2,7 @@ section: 1
 ----
 title: Pevensey
 ----
-today: Pevensey & Westham
+title_later: Pevensey & Westham
 ----
 region: sussex
 ----

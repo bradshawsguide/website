@@ -4,7 +4,7 @@ title: Sevenoaks Junction
 ----
 short_title: Sevenoaks Jct.
 ----
-today: Swanley
+title_later: Swanley
 ----
 region: kent
 ----

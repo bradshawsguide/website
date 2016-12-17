@@ -2,7 +2,7 @@
 ----
 title: Southampton
 ----
-today: Southampton Central
+title_later: Southampton Central
 ----
 region: hampshire
 ----

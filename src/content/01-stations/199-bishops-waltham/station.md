@@ -2,7 +2,7 @@
 ----
 title: Bishop's Waltham
 ----
-today: Bishops Waltham
+title_later: Bishops Waltham
 ----
 region: hampshire
 ----

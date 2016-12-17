@@ -2,7 +2,7 @@
 ----
 title: Windsor (GWR)
 ----
-today: Windsor & Eton Central
+title_later: Windsor & Eton Central
 ----
 region: berkshire
 ----

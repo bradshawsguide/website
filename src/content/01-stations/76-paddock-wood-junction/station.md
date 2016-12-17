@@ -2,7 +2,7 @@ section: 1
 ----
 title: Paddock Wood Junction
 ----
-today: Paddock Wood
+title_later: Paddock Wood
 ----
 short_title: Paddock Wood Jct.
 ----

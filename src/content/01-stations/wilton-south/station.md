@@ -2,7 +2,7 @@
 ----
 title: Wilton
 ----
-today: Wilton South
+title_later: Wilton South
 ----
 region: wiltshire
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Canterbury (SER)
 ----
-today: Canterbury West
+title_later: Canterbury West
 ----
 region: kent
 ----

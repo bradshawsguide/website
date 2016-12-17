@@ -10,7 +10,7 @@
     'p' => $page,
     'notes' => $page->notes(),
     'parent' => html::a('/'.$regionUrl, $regionTitle),
-    'subtitle' => $page->today()
+    'subtitle' => $page->title_later()
   ]);
 
   if($page->hasImages()) {

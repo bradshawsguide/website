@@ -2,7 +2,7 @@ section: 1
 ----
 title: Windsor
 ----
-today: Windsor & Eton Riverside
+title_later: Windsor & Eton Riverside
 ----
 region: berkshire
 ----

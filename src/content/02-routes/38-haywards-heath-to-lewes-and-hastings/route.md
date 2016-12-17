@@ -2,7 +2,7 @@
 ----
 title: Hastings Branch
 ----
-today: East Coastway Line
+title_later: East Coastway Line
 ----
 description: Hayward's Heath to Lewes and Hastings
 ----

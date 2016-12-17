@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ashford
 ----
-today: Ashford International
+title_later: Ashford International
 ----
 region: kent
 ----

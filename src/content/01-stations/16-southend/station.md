@@ -2,7 +2,7 @@ section: 1
 ----
 title: Southend
 ----
-today: Southend Central
+title_later: Southend Central
 ----
 region: essex
 ----

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Henley
 ----
-today: Henley-on-Thames
+title_later: Henley-on-Thames
 ----
 region: oxfordshire
 ----

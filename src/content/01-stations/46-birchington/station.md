@@ -2,7 +2,7 @@ section: 1
 ----
 title: Birchington
 ----
-today: Birchington-on-Sea
+title_later: Birchington-on-Sea
 ----
 region: kent
 ----

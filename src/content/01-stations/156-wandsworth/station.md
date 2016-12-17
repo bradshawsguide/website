@@ -2,7 +2,7 @@ section: 1
 ----
 title: Wandsworth
 ----
-today: Wandsworth Town
+title_later: Wandsworth Town
 ----
 region: surrey
 ----
