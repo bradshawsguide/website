@@ -4,7 +4,7 @@ title: Alresford
 ----
 region: hampshire
 ----
-location: 
+location: 51.0878, -1.1596
 ----
 company:
 - london-and-south-western

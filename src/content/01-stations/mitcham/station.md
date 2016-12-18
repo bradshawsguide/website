@@ -4,7 +4,7 @@ title: Mitcham
 ----
 region: surrey
 ----
-location: 
+location: 51.398121, -0.172212
 ----
 company:
 - london-brighton-and-south-coast

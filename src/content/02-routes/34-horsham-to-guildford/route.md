@@ -11,12 +11,11 @@ stops:
 - slinford
 - rudgwick
 - baynards
-- knowle
 - cranley
 - bramley
 - guildford
 ----
-text: This line passes this station of [Slinford](/stations/slinford) to [Rudgwick](/stations/rudgwick), immediately on clearing which we enter the county of Surrey, pass the antiquated farms of [Baynards](/stations/baynards) and [Knowle](/stations/knowle), and arrive at
+text: This line passes this station of [Slinford](/stations/slinford) to [Rudgwick](/stations/rudgwick), immediately on clearing which we enter the county of Surrey, pass the antiquated farms of [Baynards](/stations/baynards) and Knowle, and arrive at
 
 [Cranley](/stations/cranley), the church of which is rendered attractive by its stained windows, &c. It has the honour of conferring the title of viscount upon the Onslow family.
 

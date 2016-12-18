@@ -4,7 +4,7 @@ title: Crewkerne
 ----
 region: somerset
 ----
-location: 
+location: 50.873851, -2.778075
 ----
 company:
 - london-and-south-western

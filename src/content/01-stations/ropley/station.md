@@ -4,7 +4,7 @@ title: Ropley
 ----
 region: hampshire
 ----
-location: 
+location: 51.087919, -1.102584
 ----
 company:
 - london-and-south-western

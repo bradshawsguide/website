@@ -4,6 +4,8 @@ title: Challow
 ----
 region: oxfordshire
 ----
+location: 51.612663, -1.487989
+----
 company:
 - great-western
 ----

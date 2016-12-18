@@ -4,7 +4,7 @@ title: Adisham
 ----
 region: kent
 ----
-location: 
+location: 51.2409, 1.1989
 ----
 company:
 - london-chatham-and-dover

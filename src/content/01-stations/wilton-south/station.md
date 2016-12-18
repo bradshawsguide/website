@@ -6,7 +6,7 @@ title_later: Wilton South
 ----
 region: wiltshire
 ----
-location:
+location: 51.08519, -1.86027
 ----
 company:
 - london-and-south-western

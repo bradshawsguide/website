@@ -4,7 +4,7 @@ title: Sturminster
 ----
 region: dorsetshire
 ----
-location: 
+location: 50.927755, -2.304443
 ----
 company:
 - london-and-south-western

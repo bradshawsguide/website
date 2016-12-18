@@ -4,7 +4,7 @@ title: Portslade
 ----
 region: sussex
 ----
-location: 
+location: 50.835676, -0.205635
 ----
 company:
 - london-brighton-and-south-coast

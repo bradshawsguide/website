@@ -4,7 +4,7 @@ title: Witley
 ----
 region: surrey
 ----
-location: 
+location: 51.13298, -0.645788
 ----
 company:
 - london-and-south-western

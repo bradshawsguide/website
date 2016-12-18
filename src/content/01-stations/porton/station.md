@@ -4,7 +4,7 @@ title: Porton
 ----
 region: wiltshire
 ----
-location: 
+location: 51.125660, -1.725593
 ----
 company:
 - london-and-south-western

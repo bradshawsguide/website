@@ -4,7 +4,7 @@ title: Woolwich Arsenal
 ----
 region: kent
 ----
-location:
+location: 51.49, 0.069
 ----
 company:
 - south-eastern

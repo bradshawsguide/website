@@ -4,7 +4,7 @@ title: Isfield
 ----
 region: sussex
 ----
-location: 
+location: 50.936411, 0.06582
 ----
 company:
 - london-brighton-and-south-coast

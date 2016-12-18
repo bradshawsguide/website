@@ -4,7 +4,7 @@ title: Brixton
 ----
 region: surrey
 ----
-location: 
+location: 51.4629, -0.1132
 ----
 company:
 - london-chatham-and-dover

@@ -4,7 +4,7 @@ title: Meopham
 ----
 region: kent
 ----
-location: 
+location: 51.385987, 0.356211
 ----
 company:
 - london-chatham-and-dover

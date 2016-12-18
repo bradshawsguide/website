@@ -4,7 +4,7 @@ title: Plaistow
 ----
 region: essex
 ----
-location: 
+location: 51.53138, 0.01722
 ----
 company:
 - london-tilbury-and-southend

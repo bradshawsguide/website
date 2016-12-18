@@ -4,7 +4,7 @@ title: Cosham
 ----
 region: hampshire
 ----
-location: 
+location: 50.842149, -1.067537
 ----
 company:
 - london-and-south-western

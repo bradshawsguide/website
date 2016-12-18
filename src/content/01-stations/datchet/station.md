@@ -4,7 +4,7 @@ title: Datchet
 ----
 region: buckinghamshire
 ----
-location: 
+location: 51.482894, -0.579284
 ----
 company:
 - london-and-south-western

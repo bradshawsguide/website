@@ -4,6 +4,8 @@ title: Princess Risborough
 ----
 region: buckinghamshire
 ----
+location: 51.717789, -0.844086
+----
 company:
 - great-western
 ----

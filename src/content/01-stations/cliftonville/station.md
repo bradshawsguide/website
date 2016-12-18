@@ -6,7 +6,7 @@ title_later: Hove
 ----
 region: sussex
 ----
-location:
+location: 50.835125, -0.170151
 ----
 company:
 - london-brighton-and-south-coast

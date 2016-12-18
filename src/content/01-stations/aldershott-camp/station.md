@@ -1,12 +1,12 @@
 section: 1
 ----
-title: Aldershott (North Camp)
+title: Aldershot Camp
 ----
-title_short: Aldershott
+title_later: North Camp
 ----
 region: hampshire
 ----
-location: 
+location: 51.27601, -0.730476
 ----
 company:
 - south-eastern

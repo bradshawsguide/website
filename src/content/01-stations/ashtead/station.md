@@ -4,7 +4,7 @@ title: Ashtead
 ----
 region: surrey
 ----
-location: 
+location: 51.317421, -0.307445
 ----
 company:
 - london-and-south-western

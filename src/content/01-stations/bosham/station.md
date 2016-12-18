@@ -4,7 +4,7 @@ title: Bosham
 ----
 region: sussex
 ----
-location: 
+location: 50.84288, -0.847371
 ----
 company:
 - london-brighton-and-south-coast

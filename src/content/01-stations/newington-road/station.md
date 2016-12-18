@@ -4,9 +4,11 @@ title: Newington Road
 ----
 title_short: Newington Rd.
 ----
+title_later: Canonbury
+----
 region: middlesex
 ----
-location: 
+location: 51.5482, -0.0925
 ----
 company:
 - north-london

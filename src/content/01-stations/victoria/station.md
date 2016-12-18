@@ -4,7 +4,7 @@ title: Victoria
 ----
 region: middlesex
 ----
-location: 
+location: 51.4952, -0.1441
 ----
 company:
 - london-chatham-and-dover

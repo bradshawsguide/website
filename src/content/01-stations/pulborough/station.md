@@ -4,7 +4,7 @@ title: Pulborough
 ----
 region: sussex
 ----
-location: 
+location: 50.957858, -0.51704
 ----
 company:
 - london-brighton-and-south-coast

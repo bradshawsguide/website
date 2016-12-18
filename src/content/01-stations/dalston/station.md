@@ -4,7 +4,7 @@ title: Dalston
 ----
 region: middlesex
 ----
-location: 
+location: 51.54539, -0.07474
 ----
 company:
 - north-london

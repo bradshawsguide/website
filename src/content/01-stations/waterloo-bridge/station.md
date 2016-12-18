@@ -6,7 +6,7 @@ title_later: London Waterloo
 ----
 region: surrey
 ----
-location:
+location: 51.5031, -0.1132
 ----
 company:
 - london-and-south-western

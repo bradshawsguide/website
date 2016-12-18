@@ -4,7 +4,7 @@ title: Bekesbourne
 ----
 region: kent
 ----
-location: 
+location: 51.261541, 1.136835
 ----
 company:
 - london-chatham-and-dover

@@ -4,7 +4,7 @@ title: East Ham
 ----
 region: essex
 ----
-location: 
+location: 51.539, 0.0516
 ----
 company:
 - london-tilbury-and-southend

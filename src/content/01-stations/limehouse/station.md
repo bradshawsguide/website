@@ -4,7 +4,7 @@ title: Limehouse
 ----
 region: middlesex
 ----
-location: 
+location: 51.5106, -0.0297
 ----
 company:
 - london-and-blackwall

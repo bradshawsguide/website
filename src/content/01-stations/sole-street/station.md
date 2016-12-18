@@ -4,7 +4,7 @@ title: Sole Street
 ----
 region: kent
 ----
-location: 
+location: 51.382857, 0.377608
 ----
 company:
 - london-chatham-and-dover

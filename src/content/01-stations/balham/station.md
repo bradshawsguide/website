@@ -4,7 +4,7 @@ title: Balham
 ----
 region: surrey
 ----
-location: 
+location: 51.4426, -0.152
 ----
 company:
 - london-brighton-and-south-coast

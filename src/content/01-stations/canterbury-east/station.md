@@ -6,7 +6,7 @@ title_later: Canterbury East
 ----
 region: kent
 ----
-location:
+location: 51.27395, 1.076019
 ----
 company:
 - london-chatham-and-dover

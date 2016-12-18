@@ -4,7 +4,7 @@ title: Shoreditch
 ----
 region: middlesex
 ----
-location: 
+location: 51.5275, -0.0786
 ----
 company:
 - north-london

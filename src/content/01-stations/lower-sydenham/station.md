@@ -4,7 +4,7 @@ title: Lower Sydenham
 ----
 region: kent
 ----
-location: 
+location: 51.4245, -0.0336
 ----
 company:
 - mid-kent

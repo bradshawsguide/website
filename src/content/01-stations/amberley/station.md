@@ -4,7 +4,7 @@ title: Amberley
 ----
 region: sussex
 ----
-location: 
+location: 50.897017, -0.541726
 ----
 company:
 - london-brighton-and-south-coast

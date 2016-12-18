@@ -4,7 +4,7 @@ title: Farnborough North (SER)
 ----
 region: hampshire
 ----
-location: 
+location: 51.302219, -0.742663
 ----
 company:
 - south-eastern

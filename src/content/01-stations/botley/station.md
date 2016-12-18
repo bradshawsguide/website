@@ -4,7 +4,7 @@ title: Botley
 ----
 region: hampshire
 ----
-location: 
+location: 50.916364, -1.259522
 ----
 company:
 - london-and-south-western

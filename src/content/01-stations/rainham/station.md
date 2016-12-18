@@ -4,7 +4,7 @@ title: Rainham
 ----
 region: essex
 ----
-location: 
+location: 51.5169, 0.1905
 ----
 company:
 - london-tilbury-and-southend

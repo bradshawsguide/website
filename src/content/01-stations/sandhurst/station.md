@@ -4,7 +4,7 @@ title: Sandhurst
 ----
 region: hampshire
 ----
-location: 
+location: 51.346929, -0.804619
 ----
 company:
 - south-eastern

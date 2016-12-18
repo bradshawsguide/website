@@ -4,7 +4,7 @@ title: Oakley
 ----
 region: hampshire
 ----
-location: 
+location: 51.25487, -1.183884
 ----
 company:
 - london-and-south-western

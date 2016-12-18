@@ -4,7 +4,7 @@ title: Eynesford
 ----
 region: kent
 ----
-location: 
+location: 51.362866, 0.204185
 ----
 company:
 - london-chatham-and-dover

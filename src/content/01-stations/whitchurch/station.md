@@ -4,7 +4,7 @@ title: Whitchurch
 ----
 region: hampshire
 ----
-location: 
+location: 51.237856, -1.337456
 ----
 company:
 - london-and-south-western

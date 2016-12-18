@@ -4,7 +4,7 @@ title: Shepperton
 ----
 region: middlesex
 ----
-location: 
+location: 51.397586, -0.446803
 ----
 company:
 - london-and-south-western

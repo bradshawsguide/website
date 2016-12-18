@@ -6,7 +6,7 @@ title_short: Wandsworth Rd.
 ----
 region: surrey
 ----
-location: 
+location: 51.47, -0.1384
 ----
 company:
 - london-chatham-and-dover

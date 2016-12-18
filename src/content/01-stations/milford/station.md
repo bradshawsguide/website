@@ -4,7 +4,7 @@ title: Milford
 ----
 region: surrey
 ----
-location: 
+location: 51.163445, -0.636315
 ----
 company:
 - london-and-south-western

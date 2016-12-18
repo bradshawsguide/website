@@ -9,7 +9,7 @@ company: london-and-south-western
 stops:
 - wimbledon
 - old-malden
-- ewell
+- ewell-west
 - epsom
 - ashtead
 - leatherhead

@@ -4,7 +4,7 @@ title: Gipsey Hill
 ----
 region: surrey
 ----
-location: 
+location: 51.4246, -0.084
 ----
 company:
 - london-brighton-and-south-coast

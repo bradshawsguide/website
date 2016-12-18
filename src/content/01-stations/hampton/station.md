@@ -4,7 +4,7 @@ title: Hampton
 ----
 region: middlesex
 ----
-location: 
+location: 51.4159, -0.3717
 ----
 company:
 - london-and-south-western

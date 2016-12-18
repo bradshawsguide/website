@@ -4,7 +4,7 @@ title: Sutton
 ----
 region: surrey
 ----
-location: 
+location: 51.3601, -0.1903
 ----
 company:
 - london-brighton-and-south-coast

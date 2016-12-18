@@ -2,9 +2,11 @@ section: 1
 ----
 title: Shorncliffe Camp
 ----
+title_later: Folkestone West
+----
 region: kent
 ----
-location: 
+location: 51.084795, 1.153418
 ----
 company:
 - south-eastern

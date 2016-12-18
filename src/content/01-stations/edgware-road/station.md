@@ -4,9 +4,11 @@ title: Edgware Road
 ----
 title_short: Edgware Rd.
 ----
+title_later: Brondesbury
+----
 region: middlesex
 ----
-location: 
+location: 51.5451, -0.202
 ----
 company:
 - hampstead-junction

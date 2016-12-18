@@ -4,7 +4,7 @@ title: Shortlands
 ----
 region: kent
 ----
-location: 
+location: 51.4064, 0.0013
 ----
 company:
 - london-chatham-and-dover

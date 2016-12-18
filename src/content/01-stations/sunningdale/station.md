@@ -4,7 +4,7 @@ title: Sunningdale
 ----
 region: berkshire
 ----
-location: 
+location: 51.391805, -0.632412
 ----
 company:
 - london-and-south-western

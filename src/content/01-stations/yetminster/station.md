@@ -4,6 +4,8 @@ title: Yetminster
 ----
 region: dorsetshire
 ----
+location: 50.895718, -2.573684
+----
 company:
 - wilts-somerset-and-weymouth
 ----

@@ -4,7 +4,7 @@ title: Liss
 ----
 region: hampshire
 ----
-location: 
+location: 51.043852, -0.892318
 ----
 company:
 - london-and-south-western

@@ -4,7 +4,7 @@ title: Smeeth
 ----
 region: kent
 ----
-location: 
+location: 51.107147, 0.952051
 ----
 company:
 - south-eastern

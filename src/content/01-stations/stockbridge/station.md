@@ -4,7 +4,7 @@ title: Stockbridge
 ----
 region: hampshire
 ----
-location: 
+location: 51.114073, -1.488516
 ----
 company:
 - london-and-south-western

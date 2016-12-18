@@ -4,7 +4,7 @@ title: Commercial Dock
 ----
 region: surrey
 ----
-location:
+location: 51.4894, -0.0526
 ----
 company:
 - south-eastern

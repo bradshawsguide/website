@@ -4,7 +4,7 @@ title: Tongham
 ----
 region: surrey
 ----
-location: 
+location: 51.234, -0.7321
 ----
 company:
 - london-and-south-western

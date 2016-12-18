@@ -6,7 +6,7 @@ title_short: Borough Rd.
 ----
 region: surrey
 ----
-location: 
+location: 51.499, -0.0997
 ----
 company:
 - london-chatham-and-dover

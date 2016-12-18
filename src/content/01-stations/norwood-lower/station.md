@@ -6,7 +6,7 @@ title_later: West Norwood
 ----
 region: surrey
 ----
-location:
+location: 51.427025, -0.095539
 ----
 company:
 - london-brighton-and-south-coast

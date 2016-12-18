@@ -2,9 +2,9 @@ section: 1
 ----
 title: Elsted
 ----
-region: hampshire
+region: sussex
 ----
-location: 
+location: 50.979222, -0.81266
 ----
 company:
 - london-and-south-western

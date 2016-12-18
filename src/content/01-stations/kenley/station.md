@@ -4,7 +4,7 @@ title: Kenley
 ----
 region: surrey
 ----
-location: 
+location: 51.3246, -0.1007
 ----
 company:
 - south-eastern

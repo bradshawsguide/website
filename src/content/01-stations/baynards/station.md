@@ -4,7 +4,7 @@ title: Baynards
 ----
 region: surrey
 ----
-location: 
+location: 51.105533, -0.462325
 ----
 company:
 - london-brighton-and-south-coast

@@ -4,7 +4,7 @@ title: Whimple
 ----
 region: devon
 ----
-location: 
+location: 50.767858, -3.354884
 ----
 company:
 - london-and-south-western

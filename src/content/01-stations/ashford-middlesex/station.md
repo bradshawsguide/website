@@ -6,7 +6,7 @@ title_short: Ashford (Middx.)
 ----
 region: middlesex
 ----
-location: 
+location: 51.436538, -0.468502
 ----
 company:
 - london-and-south-western

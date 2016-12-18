@@ -8,7 +8,7 @@ title_later: Swanley
 ----
 region: kent
 ----
-location:
+location: 51.393214, 0.168269
 ----
 company:
 - london-chatham-and-dover

@@ -4,6 +4,8 @@ title: Bedwyn
 ----
 region: wiltshire
 ----
+location: 51.38, -1.599
+----
 company:
 - great-western
 ----

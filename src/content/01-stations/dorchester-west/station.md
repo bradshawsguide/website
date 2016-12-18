@@ -6,6 +6,8 @@ title_later: Dorchester West
 ----
 region: dorsetshire
 ----
+location: 50.711042, -2.442542
+----
 company:
 - wilts-somerset-and-weymouth
 ----

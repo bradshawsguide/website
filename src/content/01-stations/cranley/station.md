@@ -6,7 +6,7 @@ title_later: Cranleigh
 ----
 region: surrey
 ----
-location:
+location: 51.141879, -0.491138
 ----
 company:
 - london-brighton-and-south-coast

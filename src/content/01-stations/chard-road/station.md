@@ -4,9 +4,11 @@ title: Chard Road
 ----
 title_short: Chard Rd.
 ----
+title_later: Chard Junction
+----
 region: somerset
 ----
-location: 
+location: 50.8393, -2.9367
 ----
 company:
 - london-and-south-western

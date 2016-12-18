@@ -4,7 +4,7 @@ title: Cook's Bridge
 ----
 region: sussex
 ----
-location: 
+location: 50.903545, -0.009596
 ----
 company:
 - london-brighton-and-south-coast

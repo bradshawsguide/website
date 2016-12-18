@@ -12,7 +12,7 @@
     var mapContainer = $('.c-main');
 
     var map = L.map(mapContainer, {
-      center: [51.5, 0],
+      center: [51.5, -1.25],
       minZoom: 2,
       zoom: 8
     })

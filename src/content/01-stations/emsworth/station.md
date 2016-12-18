@@ -4,7 +4,7 @@ title: Emsworth
 ----
 region: hampshire
 ----
-location: 
+location: 50.851834, -0.93807
 ----
 company:
 - london-brighton-and-south-coast

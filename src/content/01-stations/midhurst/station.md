@@ -2,9 +2,9 @@ section: 1
 ----
 title: Midhurst
 ----
-region: hampshire
+region: sussex
 ----
-location: 
+location: 50.979376, -0.741431
 ----
 company:
 - london-and-south-western

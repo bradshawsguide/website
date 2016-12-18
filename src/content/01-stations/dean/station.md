@@ -4,7 +4,7 @@ title: Dean
 ----
 region: hampshire
 ----
-location: 
+location: 51.042232, -1.634084
 ----
 company:
 - london-and-south-western

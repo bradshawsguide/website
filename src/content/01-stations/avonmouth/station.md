@@ -4,6 +4,8 @@ title: Avonmouth
 ----
 region: gloucestershire
 ----
+location: 51.5001, -2.6992
+----
 company:
 - bristol-port-and-pier
 ----

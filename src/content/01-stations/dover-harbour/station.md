@@ -6,7 +6,7 @@ title_short: Dover (C&D)
 ----
 region: kent
 ----
-location: 
+location: 51.116916, 1.309240
 ----
 company:
 - london-chatham-and-dover

@@ -4,7 +4,7 @@ title: Plumstead
 ----
 region: kent
 ----
-location: 
+location: 51.4897, 0.0844
 ----
 company:
 - south-eastern

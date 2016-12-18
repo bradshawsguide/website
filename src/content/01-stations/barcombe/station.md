@@ -4,7 +4,7 @@ title: Barcombe
 ----
 region: sussex
 ----
-location: 
+location: 50.9234, 0.0155
 ----
 company:
 - london-brighton-and-south-coast

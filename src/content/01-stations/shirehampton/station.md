@@ -4,6 +4,8 @@ title: Shirehampton
 ----
 region: gloucestershire
 ----
+location: 51.484134, -2.678969
+----
 company:
 - bristol-port-and-pier
 ----

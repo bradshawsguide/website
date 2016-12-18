@@ -4,7 +4,7 @@ title: Shepherd's Well
 ----
 region: kent
 ----
-location: 
+location: 51.187968, 1.229164
 ----
 company:
 - london-chatham-and-dover

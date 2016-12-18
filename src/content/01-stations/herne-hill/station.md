@@ -4,7 +4,7 @@ title: Herne Hill
 ----
 region: surrey
 ----
-location: 
+location: 51.453664, -0.102346
 ----
 company:
 - london-chatham-and-dover

@@ -4,7 +4,7 @@ title: Rogate
 ----
 region: hampshire
 ----
-location: 
+location: 50.990437, -0.855119
 ----
 company:
 - london-and-south-western

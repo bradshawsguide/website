@@ -4,7 +4,7 @@ title: Earley
 ----
 region: berkshire
 ----
-location: 
+location: 51.440655, -0.918718
 ----
 company:
 - south-eastern

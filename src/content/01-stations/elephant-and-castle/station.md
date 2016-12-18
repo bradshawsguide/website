@@ -4,7 +4,7 @@ title: Elephant & Castle
 ----
 region: surrey
 ----
-location: 
+location: 51.4944, -0.0998
 ----
 company:
 - london-chatham-and-dover

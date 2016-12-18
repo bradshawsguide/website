@@ -6,7 +6,7 @@ title_later: Windsor & Eton Central
 ----
 region: berkshire
 ----
-location: 51.483, -0.61
+location: 51.483256, -0.609516
 ----
 company:
 - great-western

@@ -4,7 +4,7 @@ title: West India Docks
 ----
 region: middlesex
 ----
-location: 
+location: 51.5086, -0.0242
 ----
 company:
 - london-and-blackwall

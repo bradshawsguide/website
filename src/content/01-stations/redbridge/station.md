@@ -4,7 +4,7 @@ title: Redbridge
 ----
 region: hampshire
 ----
-location: 
+location: 50.920207, -1.470014
 ----
 company:
 - london-and-south-western

@@ -8,7 +8,7 @@ title_short: Coombe & Malden
 ----
 region: surrey
 ----
-location:
+location: 51.4039, -0.256
 ----
 company:
 - london-and-south-western

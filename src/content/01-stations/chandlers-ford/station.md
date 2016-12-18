@@ -4,7 +4,7 @@ title: Chandler's Ford
 ----
 region: hampshire
 ----
-location: 
+location: 50.983638, -1.385242
 ----
 company:
 - london-and-south-western

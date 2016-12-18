@@ -4,7 +4,7 @@ title: Elmer's End
 ----
 region: kent
 ----
-location: 
+location: 51.3978, -0.0499
 ----
 company:
 - mid-kent

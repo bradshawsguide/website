@@ -4,7 +4,7 @@ title: Bickley
 ----
 region: kent
 ----
-location: 
+location: 51.3995, 0.0441
 ----
 company:
 - london-chatham-and-dover

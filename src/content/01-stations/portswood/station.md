@@ -6,7 +6,7 @@ title_later: St. Denys
 ----
 region: hampshire
 ----
-location:
+location: 50.922501, -1.387471
 ----
 company:
 - london-and-south-western

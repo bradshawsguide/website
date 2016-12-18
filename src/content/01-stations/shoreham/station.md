@@ -4,7 +4,7 @@ title: Shoreham
 ----
 region: kent
 ----
-location: 
+location: 51.332586, 0.188376
 ----
 company:
 - london-chatham-and-dover

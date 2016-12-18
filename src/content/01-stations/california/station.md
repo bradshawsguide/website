@@ -6,7 +6,7 @@ title_later: Belmont
 ----
 region: surrey
 ----
-location:
+location: 51.344, -0.1986
 ----
 company:
 - london-brighton-and-south-coast

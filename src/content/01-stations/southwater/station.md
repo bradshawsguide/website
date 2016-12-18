@@ -4,7 +4,7 @@ title: Southwater
 ----
 region: sussex
 ----
-location: 
+location: 51.024877, -0.350919
 ----
 company:
 - london-brighton-and-south-coast

@@ -4,6 +4,8 @@ title: Witney
 ----
 region: oxfordshire
 ----
+location: 51.777189, -1.484681
+----
 company:
 - great-western
 ----

@@ -4,7 +4,7 @@ title: Battersea Park
 ----
 region: surrey
 ----
-location: 
+location: 51.4779, -0.1477
 ----
 company:
 - london-chatham-and-dover

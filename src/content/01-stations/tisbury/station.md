@@ -4,7 +4,7 @@ title: Tisbury
 ----
 region: wiltshire
 ----
-location: 
+location: 51.060761, -2.079145
 ----
 company:
 - london-and-south-western

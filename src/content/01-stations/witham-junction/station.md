@@ -4,6 +4,8 @@ title: Witham Junction
 ----
 region: somerset
 ----
+location: 51.166667, -2.35
+----
 company:
 - wilts-somerset-and-weymouth
 ----

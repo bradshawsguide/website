@@ -4,6 +4,8 @@ title: Minety
 ----
 region: gloucestershire
 ----
+location: 51.614668, -1.95157
+----
 company:
 - great-western
 ----

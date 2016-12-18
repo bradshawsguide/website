@@ -4,6 +4,8 @@ title: Wallingford Road
 ----
 region: berkshire
 ----
+location: 51.562125, -1.14666
+----
 company:
 - great-western
 ----

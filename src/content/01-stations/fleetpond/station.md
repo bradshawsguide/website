@@ -2,9 +2,11 @@
 ----
 title: Fleetpond
 ----
+title_later: Fleet
+----
 region: hampshire
 ----
-location:
+location: 51.29054, -0.830464
 ----
 company:
 - london-and-south-western

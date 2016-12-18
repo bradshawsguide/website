@@ -4,7 +4,7 @@ title: Fulwell
 ----
 region: middlesex
 ----
-location: 
+location: 51.4334, -0.3508
 ----
 company:
 - london-and-south-western

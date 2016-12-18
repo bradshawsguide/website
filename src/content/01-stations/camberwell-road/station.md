@@ -6,7 +6,7 @@ title_short: Camberwell Rd.
 ----
 region: surrey
 ----
-location: 
+location: 51.4736, -0.0977
 ----
 company:
 - london-chatham-and-dover

@@ -4,6 +4,8 @@ title: Bruton
 ----
 region: somerset
 ----
+location: 51.1117, -2.44732
+----
 company:
 - wilts-somerset-and-weymouth
 ----

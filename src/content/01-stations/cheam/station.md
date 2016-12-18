@@ -4,7 +4,7 @@ title: Cheam
 ----
 region: surrey
 ----
-location: 
+location: 51.356, -0.2147
 ----
 company:
 - london-brighton-and-south-coast

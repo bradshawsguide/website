@@ -4,7 +4,7 @@ title: Totton
 ----
 region: hampshire
 ----
-location: 
+location: 50.917567, -1.482848
 ----
 company:
 - london-and-south-western

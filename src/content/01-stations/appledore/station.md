@@ -4,7 +4,7 @@ title: Appledore
 ----
 region: kent
 ----
-location: 
+location: 51.0330, 0.8164
 ----
 company:
 - south-eastern

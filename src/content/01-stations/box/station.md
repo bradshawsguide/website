@@ -4,6 +4,8 @@ title: Box
 ----
 region: wiltshire
 ----
+location: 51.416559, -2.268137
+----
 company:
 - great-western
 ----

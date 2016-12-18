@@ -6,7 +6,7 @@ title_short: Crystal Palace (High)
 ----
 region: surrey
 ----
-location: 
+location: 51.421789, -0.077777
 ----
 company:
 - london-chatham-and-dover

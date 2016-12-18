@@ -4,7 +4,7 @@ title: Fullerton Bridge
 ----
 region: hampshire
 ----
-location: 
+location: 51.1537709, -1.4602109
 ----
 company:
 - london-and-south-western

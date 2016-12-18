@@ -4,7 +4,7 @@ title: Hampton Wick
 ----
 region: middlesex
 ----
-location: 
+location: 51.4141, -0.3107
 ----
 company:
 - london-and-south-western

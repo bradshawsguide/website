@@ -4,7 +4,7 @@ title: Clatford
 ----
 region: hampshire
 ----
-location: 
+location: 51.176109, -1.486399
 ----
 company:
 - london-and-south-western

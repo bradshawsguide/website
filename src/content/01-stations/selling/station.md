@@ -4,7 +4,7 @@ title: Selling
 ----
 region: kent
 ----
-location: 
+location: 51.27741, 0.941448
 ----
 company:
 - london-chatham-and-dover

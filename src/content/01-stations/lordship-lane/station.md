@@ -6,7 +6,7 @@ title_short: Lordship Ln.
 ----
 region: surrey
 ----
-location: 
+location: 51.4403, -0.0653
 ----
 company:
 - london-chatham-and-dover

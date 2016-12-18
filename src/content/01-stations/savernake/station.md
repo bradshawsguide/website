@@ -4,6 +4,8 @@ title: Savernake
 ----
 region: wiltshire
 ----
+location: 51.366473, -1.660955
+----
 company:
 - great-western
 ----

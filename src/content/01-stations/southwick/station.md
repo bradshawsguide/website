@@ -4,7 +4,7 @@ title: Southwick
 ----
 region: sussex
 ----
-location: 
+location: 50.832557, -0.236997
 ----
 company:
 - london-brighton-and-south-coast

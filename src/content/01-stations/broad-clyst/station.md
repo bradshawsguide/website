@@ -4,7 +4,7 @@ title: Broad Clyst
 ----
 region: devon
 ----
-location: 
+location: 50.747165, -3.43083
 ----
 company:
 - london-and-south-western

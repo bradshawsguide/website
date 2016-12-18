@@ -2,9 +2,11 @@
 ----
 title: Colyton
 ----
+title_later: Seaton Junction
+----
 region: devon
 ----
-location: 
+location: 50.763056, -3.066111
 ----
 company:
 - london-and-south-western

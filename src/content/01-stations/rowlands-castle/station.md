@@ -4,7 +4,7 @@ title: Rowland's Castle
 ----
 region: hampshire
 ----
-location: 
+location: 50.892473, -0.957052
 ----
 company:
 - london-and-south-western

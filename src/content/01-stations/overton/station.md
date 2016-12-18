@@ -4,7 +4,7 @@ title: Overton
 ----
 region: hampshire
 ----
-location: 
+location: 51.254475, -1.259838
 ----
 company:
 - london-and-south-western

@@ -2,9 +2,11 @@
 ----
 title: Herne
 ----
+title_later: Hurn
+----
 region: hampshire
 ----
-location: 
+location: 50.779167, -1.806343
 ----
 company:
 - london-and-south-western

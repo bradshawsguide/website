@@ -4,7 +4,7 @@ title: Purfleet
 ----
 region: essex
 ----
-location: 
+location: 51.481, 0.237
 ----
 company:
 - london-tilbury-and-southend

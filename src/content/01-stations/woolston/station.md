@@ -4,7 +4,7 @@ title: Woolston
 ----
 region: hampshire
 ----
-location: 
+location: 50.899062, -1.376402
 ----
 company:
 - london-and-south-western

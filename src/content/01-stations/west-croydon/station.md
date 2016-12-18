@@ -4,7 +4,7 @@ title: West Croydon
 ----
 region: surrey
 ----
-location: 
+location: 51.3783, -0.1025
 ----
 company:
 - london-brighton-and-south-coast

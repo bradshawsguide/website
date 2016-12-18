@@ -6,7 +6,7 @@ title_later: Woolwich Dockyard
 ----
 region: kent
 ----
-location:
+location: 51.4913, 0.0536
 ----
 company:
 - south-eastern

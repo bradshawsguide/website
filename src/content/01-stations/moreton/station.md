@@ -4,7 +4,7 @@ title: Moreton
 ----
 region: dorsetshire
 ----
-location: 
+location: 50.700669, -2.313589
 ----
 company:
 - london-and-south-western

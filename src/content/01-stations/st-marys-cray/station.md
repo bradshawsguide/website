@@ -4,7 +4,7 @@ title: St. Mary's Cray
 ----
 region: kent
 ----
-location: 
+location: 51.394, 0.106
 ----
 company:
 - london-chatham-and-dover

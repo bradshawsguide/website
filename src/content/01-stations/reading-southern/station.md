@@ -4,7 +4,7 @@ title: Reading Southern
 ----
 region: berkshire
 ----
-location: 
+location: 51.458203, -0.97012
 ----
 company:
 - south-eastern

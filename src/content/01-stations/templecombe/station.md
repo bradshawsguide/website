@@ -6,7 +6,7 @@ title_suffix: (Junction)
 ----
 region: somerset
 ----
-location:
+location: 51.00159, -2.418224
 ----
 company:
 - london-and-south-western

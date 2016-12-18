@@ -4,7 +4,7 @@ title: Ladywell
 ----
 region: kent
 ----
-location: 
+location: 51.4562, -0.0192
 ----
 company:
 - mid-kent

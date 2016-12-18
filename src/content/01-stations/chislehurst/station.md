@@ -4,7 +4,7 @@ title: Chislehurst
 ----
 region: kent
 ----
-location: 
+location: 51.4057, 0.0573
 ----
 company:
 - south-eastern

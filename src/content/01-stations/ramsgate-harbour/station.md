@@ -2,9 +2,11 @@ section: 1
 ----
 title: Ramsgate (C&D)
 ----
+title_later: Ramsgate Harbour
+----
 region: kent
 ----
-location: 
+location: 51.3329, 1.4246
 ----
 company:
 - london-chatham-and-dover

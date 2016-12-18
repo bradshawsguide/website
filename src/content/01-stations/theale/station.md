@@ -4,6 +4,8 @@ title: Theale
 ----
 region: berkshire
 ----
+location: 51.432995, -1.074263
+----
 company:
 - great-western
 ----

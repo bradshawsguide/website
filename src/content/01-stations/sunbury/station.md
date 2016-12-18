@@ -4,7 +4,7 @@ title: Sunbury
 ----
 region: middlesex
 ----
-location: 
+location: 51.417893, -0.418789
 ----
 company:
 - london-and-south-western

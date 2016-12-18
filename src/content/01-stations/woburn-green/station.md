@@ -4,6 +4,8 @@ title: Woburn Green
 ----
 region: buckinghamshire
 ----
+location: 51.587542, -0.685726
+----
 company:
 - great-western
 ----

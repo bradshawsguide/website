@@ -4,7 +4,7 @@ title: Ham Street
 ----
 region: kent
 ----
-location: 
+location: 51.068211, 0.853925
 ----
 company:
 - south-eastern

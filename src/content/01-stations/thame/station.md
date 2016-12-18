@@ -4,6 +4,8 @@ title: Thame
 ----
 region: oxfordshire
 ----
+location: 51.741421, -0.96804
+----
 company:
 - great-western
 ----

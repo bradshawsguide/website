@@ -4,7 +4,7 @@ title: Semley
 ----
 region: wiltshire
 ----
-location: 
+location: 51.039964, -2.181803
 ----
 company:
 - london-and-south-western

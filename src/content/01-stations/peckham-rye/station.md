@@ -4,7 +4,7 @@ title: Peckham Rye
 ----
 region: surrey
 ----
-location: 
+location: 51.46989, -0.06886
 ----
 company:
 - london-chatham-and-dover

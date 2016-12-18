@@ -8,7 +8,7 @@ title_later: Hamworthy
 ----
 region: dorsetshire
 ----
-location:
+location: 50.72537, -2.019074
 ----
 company:
 - london-and-south-western

@@ -4,7 +4,7 @@ title: Sutton Bingham
 ----
 region: somerset
 ----
-location: 
+location: 50.901203, -2.642722
 ----
 company:
 - london-and-south-western

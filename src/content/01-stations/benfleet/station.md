@@ -4,7 +4,7 @@ title: Benfleet
 ----
 region: essex
 ----
-location: 
+location: 51.54445, 0.561987
 ----
 company:
 - london-tilbury-and-southend

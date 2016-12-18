@@ -4,7 +4,7 @@ title: Poplar
 ----
 region: middlesex
 ----
-location: 
+location: 51.508, -0.0066
 ----
 company:
 - london-and-blackwall

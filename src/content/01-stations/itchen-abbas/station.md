@@ -4,7 +4,7 @@ title: Itchen Abbas
 ----
 region: hampshire
 ----
-location: 
+location: 51.09446, -1.24001
 ----
 company:
 - london-and-south-western

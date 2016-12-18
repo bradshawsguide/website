@@ -4,7 +4,7 @@ title: Surbiton
 ----
 region: surrey
 ----
-location: 
+location: 51.3926, -0.3044
 ----
 company:
 - london-and-south-western

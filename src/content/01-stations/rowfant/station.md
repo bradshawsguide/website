@@ -4,7 +4,7 @@ title: Rowfant
 ----
 region: sussex
 ----
-location: 
+location: 51.115618, -0.107656
 ----
 company:
 - london-brighton-and-south-coast

@@ -2,7 +2,9 @@ section: 2
 ----
 title: Uffington
 ----
-region: oxfordshire
+region: berkshire
+----
+location: 51.612019, -1.550096
 ----
 company:
 - great-western

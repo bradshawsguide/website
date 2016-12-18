@@ -4,7 +4,7 @@ title: Billingshurst
 ----
 region: sussex
 ----
-location: 
+location: 51.015436, -0.449624
 ----
 company:
 - london-brighton-and-south-coast

@@ -1,8 +1,10 @@
 section: 2
 ----
-title: Marston
+title: Marston Magna
 ----
 region: somerset
+----
+location: 50.998686, -2.572816
 ----
 company:
 - wilts-somerset-and-weymouth

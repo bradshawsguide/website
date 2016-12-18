@@ -4,6 +4,8 @@ title: Maiden Newton
 ----
 region: dorsetshire
 ----
+location: 50.779735, -2.569426
+----
 company:
 - wilts-somerset-and-weymouth
 ----

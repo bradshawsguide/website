@@ -4,7 +4,7 @@ title: Horsebridge
 ----
 region: hampshire
 ----
-location: 
+location: 51.07235, -1.509671
 ----
 company:
 - london-and-south-western

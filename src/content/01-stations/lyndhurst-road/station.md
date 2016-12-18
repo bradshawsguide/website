@@ -2,9 +2,11 @@
 ----
 title: Lyndhurst Road
 ----
+title_later: Ashurst (New Forest)
+----
 region: hampshire
 ----
-location: 
+location: 50.889878, -1.527228
 ----
 company:
 - london-and-south-western

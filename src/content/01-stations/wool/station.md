@@ -4,7 +4,7 @@ title: Wool
 ----
 region: dorsetshire
 ----
-location: 
+location: 50.681998, -2.220046
 ----
 company:
 - london-and-south-western

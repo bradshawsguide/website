@@ -4,7 +4,7 @@ title: Banstead
 ----
 region: surrey
 ----
-location: 
+location: 51.3292, -0.2132
 ----
 company:
 - london-brighton-and-south-coast

@@ -2,9 +2,11 @@
 ----
 title: Mottisfont
 ----
+title_later: Mottisfont & Dunbridge
+----
 region: hampshire
 ----
-location: 
+location: 51.0339, -1.5469
 ----
 company:
 - london-and-south-western

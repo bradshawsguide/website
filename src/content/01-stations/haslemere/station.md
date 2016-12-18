@@ -4,7 +4,7 @@ title: Haslemere
 ----
 region: surrey
 ----
-location: 
+location: 51.088852, -0.719899
 ----
 company:
 - london-and-south-western

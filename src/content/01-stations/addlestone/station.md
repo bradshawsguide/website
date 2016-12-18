@@ -4,7 +4,7 @@ title: Addlestone
 ----
 region: surrey
 ----
-location: 
+location: 51.373, -0.484
 ----
 company:
 - london-and-south-western

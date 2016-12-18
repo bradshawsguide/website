@@ -17,7 +17,7 @@ stops:
 - shalford
 - guildford
 - ash
-- aldershott
+- aldershott-camp
 - blackwater
 - sandhurst
 - wokingham

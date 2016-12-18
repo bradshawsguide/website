@@ -6,7 +6,7 @@ title_short: Farringdon St.
 ----
 region: middlesex
 ----
-location: 
+location: 51.52, -0.1053
 ----
 company:
 - london-chatham-and-dover

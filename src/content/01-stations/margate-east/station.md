@@ -4,7 +4,7 @@ title: Margate (C&D)
 ----
 region: kent
 ----
-location: 
+location: 51.382004, 1.381526
 ----
 company:
 - london-chatham-and-dover

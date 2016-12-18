@@ -4,7 +4,7 @@ title: Rudgwick
 ----
 region: sussex
 ----
-location: 
+location: 51.090101, -0.451413
 ----
 company:
 - london-brighton-and-south-coast

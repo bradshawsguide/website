@@ -4,7 +4,7 @@ title: Newington
 ----
 region: kent
 ----
-location: 
+location: 51.353226, 0.667645
 ----
 company:
 - london-chatham-and-dover

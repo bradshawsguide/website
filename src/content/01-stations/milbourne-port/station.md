@@ -4,7 +4,7 @@ title: Milbourne Port
 ----
 region: somerset
 ----
-location: 
+location: 50.985673, -2.465807
 ----
 company:
 - london-and-south-western

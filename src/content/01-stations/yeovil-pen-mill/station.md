@@ -6,6 +6,8 @@ title_later: Yeovil Pen Mill
 ----
 region: somerset
 ----
+location: 50.944978, -2.612722
+----
 company:
 - wilts-somerset-and-weymouth
 - bristol-and-exeter

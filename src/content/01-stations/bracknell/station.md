@@ -4,7 +4,7 @@ title: Bracknell
 ----
 region: berkshire
 ----
-location: 
+location: 51.412913, -0.751133
 ----
 company:
 - london-and-south-western

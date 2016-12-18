@@ -4,7 +4,7 @@ title: Wraysbury
 ----
 region: berkshire
 ----
-location: 
+location: 51.458147, -0.541188
 ----
 company:
 - london-and-south-western

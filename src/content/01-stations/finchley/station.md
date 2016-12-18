@@ -2,9 +2,11 @@ section: 1
 ----
 title: Finchley
 ----
+title_later: Finchley Road & Frognal
+----
 region: middlesex
 ----
-location: 
+location: 51.5499, -0.1837
 ----
 company:
 - hampstead-junction
