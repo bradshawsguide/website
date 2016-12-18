@@ -2,7 +2,7 @@
 ----
 title: Broad Clyst
 ----
-region: devon
+region: devonshire
 ----
 location: 50.747165, -3.43083
 ----

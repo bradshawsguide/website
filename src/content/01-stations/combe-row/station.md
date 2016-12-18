@@ -1,0 +1,15 @@
+section: 2
+----
+title: Combe Row
+----
+title_later: Comberow
+----
+region: somerset
+----
+location: 51.108302, -3.387673
+----
+company:
+- west-somerset-mineral
+----
+route:
+- watchet-to-combe-row

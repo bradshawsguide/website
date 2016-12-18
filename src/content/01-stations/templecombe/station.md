@@ -1,4 +1,4 @@
-﻿section: 1
+﻿section: 1, 2
 ----
 title: Templecombe
 ----
@@ -10,6 +10,13 @@ location: 51.00159, -2.418224
 ----
 company:
 - london-and-south-western
+- somerset-and-dorset
 ----
 route:
 - basingstoke-to-salisbury-and-exeter
+- highbridge-to-wells-and-templecombe
+----
+notes:
+- A telegraph station.
+----
+text: This forms the junction of the main line from Salisbury to Exeter with that of the Somerset and Dorset Railway.

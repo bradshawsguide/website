@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Yeovil
-----
-title_later: Yeovil Pen Mill
+title: Yeovil Pen Mill
 ----
 region: somerset
 ----
@@ -10,9 +8,8 @@ location: 50.944978, -2.612722
 ----
 company:
 - wilts-somerset-and-weymouth
-- bristol-and-exeter
 ----
 route:
 - chippenham-to-frome-yeovil-dorchester-and-weymouth
 ----
-text: See [Yeovil](/stations/yeovil).
+text: See [Yeovil](/stations/yeovil-town).

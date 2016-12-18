@@ -2,7 +2,7 @@
 ----
 title: Feniton
 ----
-region: devon
+region: devonshire
 ----
 location: 50.786625, -3.285913
 ----

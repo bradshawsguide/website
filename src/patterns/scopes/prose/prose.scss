@@ -99,8 +99,14 @@
     text-indent: ($v-text-indent * -1);
   }
 
+  p + blockquote {
+    margin-top: -0.75em;
+  }
+
   blockquote {
-    margin: 0.75em 10%;
+    margin-right: 10%;
+    margin-bottom: 0.75em;
+    margin-left: 10%;
     font-size: 85%;
     line-height: 1.4;
 

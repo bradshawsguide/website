@@ -10,9 +10,11 @@ location: 51.449, -2.58
 ----
 company:
 - great-western
+- bristol-and-exeter
 ----
 route:
 - london-to-bristol
+- bristol-to-exeter
 ----
 info:
 - term: Population

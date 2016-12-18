@@ -2,7 +2,7 @@
 ----
 title: Axminster
 ----
-region: devon
+region: devonshire
 ----
 location: 50.779, -3.005
 ----

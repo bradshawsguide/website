@@ -2,7 +2,7 @@
 ----
 title: Whimple
 ----
-region: devon
+region: devonshire
 ----
 location: 50.767858, -3.354884
 ----
