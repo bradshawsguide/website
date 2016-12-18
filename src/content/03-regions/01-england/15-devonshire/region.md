@@ -1,4 +1,4 @@
-title: Devon
+title: Devonshire
 ----
 country: England
 ----
