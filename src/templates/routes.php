@@ -4,14 +4,9 @@
 <?
   pattern('page/header', ['p' => $page]);
 
-  $companies = page('companies')->children()->sortBy('title');
+  $companies = page('companies')->children()->visible()->sortBy('title');
   foreach($companies as $company) {
-    // Only link to companies with visible pages
-    if ($company->isVisible()) {
-      $title = html::a($company->url(), $company->title());
-    } else {
-      $title = $company->title();
-    };
+    $title = html::a($company->url(), $company->title());
 
     pattern('section/routes', [
       'title' => $title,
