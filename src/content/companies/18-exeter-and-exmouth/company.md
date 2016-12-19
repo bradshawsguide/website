@@ -1,3 +1,3 @@
 section: 2
 ----
-title: Exeter and Exmouth
+title: Exeter and Exmouth Railway
