@@ -14,8 +14,8 @@ company:
 - great-western
 ----
 route:
-- london-to-bristol
-- didcot-to-oxford
+- london-to-reading-bath-and-bristol
+- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
 ----
 info:
 - term: Money Order Office

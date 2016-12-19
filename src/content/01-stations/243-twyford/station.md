@@ -12,7 +12,7 @@ company:
 - great-western
 ----
 route:
-- london-to-bristol
+- london-to-reading-bath-and-bristol
 - twyford-to-henley
 ----
 info:

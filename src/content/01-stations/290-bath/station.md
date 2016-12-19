@@ -7,12 +7,11 @@ region: somerset
 location: 51.3775, -2.3564
 ----
 company:
-- wilts-somerset-and-weymouth
 - great-western
 ----
 route:
 - trowbridge-to-bath
-- london-to-bristol
+- london-to-reading-bath-and-bristol
 ----
 info:
 - term: Population

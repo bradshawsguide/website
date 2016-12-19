@@ -9,7 +9,7 @@ region: wiltshire
 location: 51.3448, -2.2527
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
 - trowbridge-to-bath

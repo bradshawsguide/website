@@ -12,7 +12,7 @@ company:
 - great-western
 ----
 route:
-- swindon-to-cirencester-stroud-gloucester-and-cheltenham
+- swindon-to-gloucester-and-cheltenham
 ----
 info:
 - term: Population

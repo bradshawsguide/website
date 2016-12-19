@@ -12,6 +12,6 @@ company:
 - great-western
 ----
 route:
-- london-to-bristol
+- london-to-reading-bath-and-bristol
 ----
 text: Here are still visible the remains of a Nunnery for Augustines, founded in the reign of Henry II.

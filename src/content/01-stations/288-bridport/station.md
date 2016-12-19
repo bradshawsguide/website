@@ -7,7 +7,7 @@ region: dorsetshire
 location: 50.73774, -2.74677
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
 - maiden-newton-to-bridport

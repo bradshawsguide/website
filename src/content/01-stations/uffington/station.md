@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- london-to-bristol
+- london-to-reading-bath-and-bristol
 - uffington-to-faringdon
 ----
 text: Here [a short line](/routes/uffington-to-farrington), about three miles, runs out to our right to [Farrington](/stations/farrington).

@@ -7,10 +7,10 @@ region: somerset
 location: 51.0996, -2.5241
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
-- chippenham-to-frome-yeovil-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth
 ----
 info:
 - term: Population

@@ -10,6 +10,6 @@ company:
 - great-western
 ----
 route:
-- london-to-bristol
+- london-to-reading-bath-and-bristol
 ----
 text: The station for East and West Challow, about 13 mile to the south.

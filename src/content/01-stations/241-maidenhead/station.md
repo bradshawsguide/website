@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- london-to-bristol
+- london-to-reading-bath-and-bristol
 - maidenhead-to-wycombe-and-oxford
 ----
 info:

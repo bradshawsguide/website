@@ -15,7 +15,7 @@ company:
 route:
 - bristol-to-exeter
 - highbridge-to-burnham-on-sea
-- highbridge-to-wells-and-templecombe
+- highbridge-to-glastonbury-wells-and-templecombe
 ----
 info:
 - term: Hotel

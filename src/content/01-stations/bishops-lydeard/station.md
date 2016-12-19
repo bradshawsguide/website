@@ -7,7 +7,7 @@ region: somerset
 location: 51.054678, -3.194874
 ----
 company:
-- west-somerset
+- bristol-and-exeter
 ----
 route:
 - taunton-to-watchet

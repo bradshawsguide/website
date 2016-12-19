@@ -11,7 +11,7 @@ company:
 ----
 route:
 - maidenhead-to-wycombe-and-oxford
-- didcot-to-oxford
+- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
 ----
 info:
 - term: Population

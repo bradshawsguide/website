@@ -14,7 +14,7 @@ company:
 ----
 route:
 - basingstoke-to-salisbury-and-exeter
-- highbridge-to-wells-and-templecombe
+- highbridge-to-glastonbury-wells-and-templecombe
 ----
 notes:
 - A telegraph station.

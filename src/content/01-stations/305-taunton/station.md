@@ -8,7 +8,6 @@ location: 51.02321, -3.102811
 ----
 company:
 - bristol-and-exeter
-- west-somerset
 ----
 route:
 - bristol-to-exeter

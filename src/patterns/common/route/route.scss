@@ -23,7 +23,9 @@
 
 .c-route__desc {
   @include fs--caption;
+  overflow: hidden;
   white-space: nowrap;
+  text-overflow: ellipsis;
 
   @media screen and (min-width: $v-breakpoint--c) {
     margin-top: auto;

@@ -7,10 +7,10 @@ region: wiltshire
 location: 51.32, -2.2143
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
-- chippenham-to-frome-yeovil-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth
 - trowbridge-to-bath
 ----
 info:

@@ -7,10 +7,10 @@ region: somerset
 location: 51.0355, -2.5655
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
-- chippenham-to-frome-yeovil-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth
 ----
 notes:
 - Telegraph station at Yeovil, 7 miles.

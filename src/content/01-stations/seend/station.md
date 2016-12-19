@@ -7,7 +7,7 @@ region: wiltshire
 location: 51.355684, -2.09545
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
 - melksham-to-devizes

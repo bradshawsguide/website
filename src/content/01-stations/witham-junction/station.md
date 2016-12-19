@@ -7,9 +7,9 @@ region: somerset
 location: 51.166667, -2.35
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
-- chippenham-to-frome-yeovil-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth
 ----
 text: Near which is *Witham Park*.

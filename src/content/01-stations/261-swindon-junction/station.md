@@ -10,8 +10,8 @@ company:
 - great-western
 ----
 route:
-- london-to-bristol
-- swindon-to-cirencester-stroud-gloucester-and-cheltenham
+- london-to-reading-bath-and-bristol
+- swindon-to-gloucester-and-cheltenham
 ----
 info:
 - term: Population

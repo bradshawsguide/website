@@ -9,7 +9,7 @@ region: wiltshire
 location: 51.13637, -1.98944
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
 - westbury-to-salisbury

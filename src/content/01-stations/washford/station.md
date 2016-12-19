@@ -7,7 +7,7 @@ region: somerset
 location: 51.161575, -3.36925
 ----
 company:
-- west-somerset-mineral
+- bristol-and-exeter
 ----
 route:
 - watchet-to-combe-row

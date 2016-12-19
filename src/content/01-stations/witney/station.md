@@ -7,12 +7,9 @@ region: oxfordshire
 location: 51.777189, -1.484681
 ----
 company:
-- great-western
+- witney
 ----
 route:
-- oxford-to-witney
+- yarnton-to-witney
 ----
-notes:
-- A telegraph station
-----
-text: Celebrated for its manufacture of blankets.
+text: A telegraph station, and celebrated for its manufacture of blankets.

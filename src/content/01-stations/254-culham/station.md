@@ -12,7 +12,7 @@ company:
 - great-western
 ----
 route:
-- didcot-to-oxford
+- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
 - culham-to-abingdon
 ----
 info:

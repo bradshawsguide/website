@@ -8,7 +8,6 @@ location: 51.35231, -1.9991
 ----
 company:
 - great-western
-- wilts-somerset-and-weymouth
 ----
 route:
 - reading-to-hungerford-and-devizes

@@ -8,12 +8,12 @@ location: 50.616, -2.455
 ----
 company:
 - london-and-south-western
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
 - london-to-southampton-dorchester-and-weymouth
 - weymouth-to-portland
-- chippenham-to-frome-yeovil-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth
 ----
 info:
 - term: Hotels

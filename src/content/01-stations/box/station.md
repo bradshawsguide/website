@@ -10,6 +10,6 @@ company:
 - great-western
 ----
 route:
-- london-to-bristol
+- london-to-reading-bath-and-bristol
 ----
 text: Near which is *Wraxhall House*.

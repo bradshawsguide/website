@@ -8,6 +8,7 @@ location: 51.0705, -1.8055
 ----
 company:
 - london-and-south-western
+- great-western
 ----
 route:
 - basingstoke-to-salisbury-and-exeter

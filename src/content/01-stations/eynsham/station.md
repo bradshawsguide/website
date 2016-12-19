@@ -7,7 +7,7 @@ region: oxfordshire
 location: 51.77667, -1.377429
 ----
 company:
-- great-western
+- witney
 ----
 route:
-- oxford-to-witney
+- yarnton-to-witney

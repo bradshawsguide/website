@@ -7,9 +7,9 @@ region: somerset
 location: 50.998686, -2.572816
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
-- chippenham-to-frome-yeovil-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth
 ----
 text: Passing Marston station, we cross the river Yeo and stop at the station at [Yeovil](/stations/yeovil-pen-mill).

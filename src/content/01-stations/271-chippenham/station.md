@@ -8,12 +8,11 @@ location: 51.4625, -2.1154
 ----
 company:
 - great-western
-- wilts-somerset-and-weymouth
 ----
 route:
-- london-to-bristol
+- london-to-reading-bath-and-bristol
 - chippenham-to-calne
-- chippenham-to-frome-yeovil-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth
 ----
 info:
 - term: Hotels

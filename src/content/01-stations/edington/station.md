@@ -10,4 +10,4 @@ company:
 - somerset-and-dorset
 ----
 route:
-- highbridge-to-wells-and-templecombe
+- highbridge-to-glastonbury-wells-and-templecombe

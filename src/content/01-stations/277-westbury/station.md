@@ -7,10 +7,10 @@ region: wiltshire
 location: 51.2665, -2.1995
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
-- chippenham-to-frome-yeovil-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth
 - westbury-to-salisbury
 ----
 info:

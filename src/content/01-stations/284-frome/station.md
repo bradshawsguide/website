@@ -7,11 +7,11 @@ region: somerset
 location: 51.2263, -2.3107
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 - east-somerset
 ----
 route:
-- chippenham-to-frome-yeovil-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth
 - frome-to-wells
 ----
 info:

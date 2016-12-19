@@ -9,9 +9,9 @@ region: dorsetshire
 location: 50.711042, -2.442542
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
-- chippenham-to-frome-yeovil-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth
 ----
 text: See [Dorchester](/stations/dorchester-south)

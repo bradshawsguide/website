@@ -5,7 +5,7 @@ title: Langford
 region: wiltshire
 ----
 company:
-- wilts-somerset-and-weymouth
+- great-western
 ----
 route:
 - westbury-to-salisbury
