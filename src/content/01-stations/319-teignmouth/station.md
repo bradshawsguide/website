@@ -1,0 +1,28 @@
+section: 2
+----
+title: Teignmouth
+----
+region: devonshire
+----
+location: 50.548519, -3.493971
+----
+company:
+- south-devon
+----
+route:
+- exeter-to-torquay-and-plymouth
+----
+info:
+- term: Population
+  desc: 6,022.
+- term: Hotels
+  desc: Royal; Devon.
+----
+notes:
+- A telegraph station.
+----
+text: Teignmouth, three miles from Dawlish, is recognised as the largest watering-place on the Devonian coast; but, from the irregularity of the streets, it is only in the esplanade that it can rival the others before named. A large export trade is carried on here, which gives a life and animation to the streets, and the bustle that occasionally prevails is often felt as an agreeable change to the monotony of a country residence. The air is more bracing and considerably colder than at Dawlish or Torquay, the town being much exposed to the east winds. In respect both to the excellence and accommodation of houses and apartments, there are few places more convenient for either a temporary or permanent residence than Teignmouth. An excellent supply of gas and water is enjoyed by the town, and all the comforts with most of the luxuries, of life are easily and economically obtainable. There are two churches, situated respectively in East and West Teignmouth, the former being the more modern, and the latter--particularly as regards the interior--being the more interesting. The Assembly Rooms, with Subscription, Reading, Billiard, and New3 Rooms attached, furnish an agreeable source of amusement, and libraries are, with hotels, plentifully scattered through the town.
+
+The river Teign, which here flows into the Channel, yields an abundant supply of fish, and the pleasure of a sail up the river to the interior is to be numbered among the allurements of a sojourn. A bridge, considered the longest in England, has been thrown across the Teign at this point, erected in 1827, at a cost of nearly £20,000. It is 1,672 feet in length, and consists of thirty-four arches, with a drawbridge over the deepest part of the channel, to allow free passage for vessels.
+
+Near the mouth of the river is a lighthouse exhibiting a red light. The noble esplanade--or Teignmouth Den, as it is curiously styled--is a deservedly favourite promenade with all visitors, and the bold and towering cliffs that overhang the sea impart a most romantic aspect to the surrounding scenery. Excursions either on sea or land may be made from Teignmouth with the greatest facility of conveyance, and the environs are so extremely rich in natural and artificial attractions that they are almost inexhaustible. Three fairs are held in the months of January, February, and September, and an annual regatta takes place in August. The post-office is in Bank Street.

@@ -10,9 +10,11 @@ location: 50.729538, -3.543649
 ----
 company:
 - bristol-and-exeter
+- south-devon
 ----
 route:
 - bristol-to-exeter
+- exeter-to-torquay-and-plymouth
 ----
 info:
 - term: Fly Fares
