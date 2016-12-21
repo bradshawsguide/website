@@ -8,10 +8,12 @@ location: 50.264103, -5.063664
 ----
 company:
 - cornwall
+- west-cornwall
 ----
 route:
 - plymouth-to-truro
 - truro-to-falmouth
+- truro-to-redruth-and-penzance
 ----
 info:
 - term: Hotel

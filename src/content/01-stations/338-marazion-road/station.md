@@ -1,0 +1,17 @@
+section: 2
+----
+title: Marazion Road
+----
+region: cornwall
+----
+location: 50.1292, -5.4919
+----
+company:
+- west-cornwall
+----
+route:
+- truro-to-redruth-and-penzance
+----
+text: A little more than a mile to our left is *Marazion*, or *Market Jew*, of some importance in the middle ages as the place of resort for pilgrims proceeding to *St. Michael's Mount*, which majestic island, famed from the earliest ages, lies about a quarter of a mile from the shore immediately opposite, and may be reached at low water by a causeway. A few fishermen's cottages are round the base, and at the top are remains of a priory, founded before the Conquest, and for ages resorted to by pilgrims, whose rock is at the end of the causeway. Here the wife of the Pretender, Perkin Warbeck, found refuge in 1497. There are traces of a great variety of minerals; and it commands by far the best prospect of the bay. In olden times it was called *Ictes*, and was a tin dépôt. There are many semi-feudal and ecclesiastical remains highly interesting to the antiquarian.
+
+*Mount's Bay*, which is spread out before the town, is 18 miles wide at the mouth, from the Lizard Point on the east, to the Rundlestone on the west side. The shores to the cast are rich in beauty, offering many a choice prospect in a few miles' walk.
