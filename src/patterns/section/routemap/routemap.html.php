@@ -10,10 +10,7 @@
     $routes = $stop->route()->yaml();
 
     foreach ($routes as $route) {
-      // Get page array for item in `route:` YAML list
-      $route = page('routes/'.$route);
-
-      if ($route !== $page) {
+      if (count($routes) > 1) {
         $type = 'interchange';
       } else {
         $type = 'station';

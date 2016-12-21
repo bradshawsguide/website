@@ -1,6 +1,6 @@
 ﻿section: 1
 ----
-title: Hastings Branch
+title: Marshlink Line
 ----
 description: Ashford to Hastings
 ----
