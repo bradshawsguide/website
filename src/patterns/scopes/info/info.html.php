@@ -1,4 +1,4 @@
-<div class="s-info u-pull-right">
+<aside class="s-info">
   <? if($p->notes()->isNotEmpty()): ?>
     <p>
       <? foreach($p->notes()->yaml() as $note): ?>
@@ -16,4 +16,4 @@
     <? endforeach ?>
     </dl>
   <? endif ?>
-</div>
+</aside>

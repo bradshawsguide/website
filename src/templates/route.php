@@ -11,19 +11,12 @@
     'parent' => html::a($companyUrl, $companyTitle),
     'subtitle' => $page->description()
   ]);
-?>
-  <div class="l-grid l-grid--route">
-<?
-  pattern('page/content', [
-    'p' => $page
-  ]);
 
-  pattern('section/routemap', [
+  pattern('page/content', [
+    'p' => $page,
     'stops' => $page->stops()->yaml()
   ]);
-?>
-  </div>
-<?
+
   pattern('section/related', [
     'p' => $page,
     'type' => 'line'

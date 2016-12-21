@@ -1,7 +1,6 @@
-<? if($stops): ?>
-<section class="c-section c-section--route">
-  <h1 class="c-section__title">Route Map</h1>
-  <ol class="c-routemap">
+<aside class="c-routemap">
+  <h1 class="u-hidden">Route Map</h1>
+  <ol class="c-routemap__stops">
   <? foreach($stops as $stop):
     // Get page array for item in `stops:` YAML list
     $stop = page('stations/'.$stop);
@@ -40,5 +39,4 @@
     </li>
   <? endforeach ?>
   </ol>
-</section>
-<? endif ?>
+</aside>

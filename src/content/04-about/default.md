@@ -25,7 +25,7 @@ Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Irela
 
 * Body text set in *[Linux Libertine](http://www.linuxlibertine.org)*. Headings and emboldened text set in *[Kameron](https://github.com/vernnobile/kameronFont)* by [Vernon Adams](http://code.newtypography.co.uk).
 * Built with *[Kirby](http://getkirby.com/)*--an extremely flexible and easy-to-use file-based CMS--and hosted by *[WebFaction](https://webfaction.com/?aid=42929)*.
-* Uses *[Alphabetise](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise)*, a Kirby plugin by [Russ Baldwin](http://shoesforindustry.net).
+* Uses *[Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise)*, a Kirby plugin by [Russ Baldwin](http://shoesforindustry.net).
 
 *[CMS]: Content Management System
 *[BBC]: British Broadcasting Corporation

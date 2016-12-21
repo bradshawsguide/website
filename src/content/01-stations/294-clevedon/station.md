@@ -1,6 +1,6 @@
 section: 2
 ----
-title: Clevdon
+title: Clevedon
 ----
 region: somerset
 ----

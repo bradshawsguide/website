@@ -3,7 +3,7 @@
   font-family: $f-serif;
   margin-top: 0.25rem;
   margin-bottom: 1rem;
-  background-color: rgba($c-neutral--light, 0.75);
+  background-color: $c-neutral--lighter;
   padding: 0.5rem;
 
   @media screen and (min-width: $v-breakpoint--b) {
