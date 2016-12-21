@@ -2,7 +2,7 @@ section: 2
 ----
 title: Lydney
 ----
-region: gloucester
+region: gloucestershire
 ----
 location: 51.715973, -2.531898
 ----

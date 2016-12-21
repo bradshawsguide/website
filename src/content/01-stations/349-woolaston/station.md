@@ -2,7 +2,7 @@ section: 2
 ----
 title: Woolaston
 ----
-region: gloucester
+region: gloucestershire
 ----
 location: 51.687408, -2.582917
 ----

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Newnham
 ----
-region: gloucester
+region: gloucestershire
 ----
 location: 51.808012, -2.453208
 ----

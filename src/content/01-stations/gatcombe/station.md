@@ -4,7 +4,7 @@ title: Gatcombe
 ----
 title_suffix: (Purton)
 ----
-region: gloucester
+region: gloucestershire
 ----
 location: 51.739444, -2.477222
 ----

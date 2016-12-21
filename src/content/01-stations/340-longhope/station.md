@@ -17,7 +17,7 @@ route:
 info:
 - term: Hotel
   desc: Railway.
-- Money Order Office
+- term: Money Order Office
   desc: at Newent.
 ----
 notes:
