@@ -11,6 +11,7 @@ company:
 ----
 route:
 - swindon-to-gloucester-and-cheltenham
+- gloucester-to-newport-swansea-carmarthen-and-milford-haven
 ----
 info:
 - term: Population

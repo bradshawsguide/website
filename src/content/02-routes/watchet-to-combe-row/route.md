@@ -4,7 +4,7 @@ title: West Somerset Mineral Railway
 ----
 description: Watchet to Combe Row
 ----
-company: west-somerset-mineral
+company: bristol-and-exeter
 ----
 stops:
 - watchet
