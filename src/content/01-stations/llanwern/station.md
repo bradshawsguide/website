@@ -2,7 +2,7 @@ section: 2
 ----
 title: Llanwern
 ----
-region: monmouth
+region: monmouthshire
 ----
 location: 51.58175, -2.916967
 ----

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Chepstow
 ----
-region: monmouth
+region: monmouthshire
 ----
 location: 51.639732, -2.671176
 ----

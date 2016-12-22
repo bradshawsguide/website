@@ -2,7 +2,7 @@ section: 2
 ----
 title: Portkewet
 ----
-region: monmouth
+region: monmouthshire
 ----
 location: 51.590799, -2.714958
 ----

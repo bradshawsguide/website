@@ -2,7 +2,7 @@ section: 2
 ----
 title: Magor
 ----
-region: monmouth
+region: monmouthshire
 ----
 location: 51.57801, -2.831002
 ----
