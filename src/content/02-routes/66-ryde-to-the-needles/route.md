@@ -8,7 +8,7 @@ company: isle-of-wight
 ----
 stops:
 - ryde
-- newport
+- newport-isle-of-wight
 - west-cowes
 - carisbrooke
 - calbourne

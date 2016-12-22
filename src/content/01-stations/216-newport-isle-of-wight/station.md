@@ -1,6 +1,8 @@
 section: 1
 ----
-title: Newport
+title: Newport (Isle of Wight)
+----
+title_short: Newport (IoW)
 ----
 region: isle-of-wight
 ----
