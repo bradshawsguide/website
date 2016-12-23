@@ -1,12 +1,10 @@
 section: 2
 ----
-title: Merthyr Tydvil
-----
-title_later: Merthyr Tydfil
+title: Quaker's Yard
 ----
 region: glamorganshire
 ----
-location: 51.744177, -3.376657
+location: 51.660266, -3.32351
 ----
 company:
 - great-western

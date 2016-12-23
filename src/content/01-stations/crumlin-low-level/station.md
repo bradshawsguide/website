@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Crumlin
-----
-title_suffix: Low Level
+title: Crumlin Low Level
 ----
 region: monmouthshire
 ----

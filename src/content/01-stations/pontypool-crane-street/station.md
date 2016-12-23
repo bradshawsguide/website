@@ -1,12 +1,10 @@
 section: 2
 ----
-title: Pontypool
-----
-title_later: Pontypool and New Inn
+title: Pontypool Crane Street
 ----
 region: monmouthshire
 ----
-location: 51.697519, -3.013503
+location: 51.700874, -3.041072
 ----
 company:
 - monmouthshire

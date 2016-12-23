@@ -1,15 +1,13 @@
 section: 2
 ----
-title: Tredegar Junction
+title: Pontypool Clarence Street
 ----
 region: monmouthshire
 ----
-location: 51.659362, -3.1817
+location: 51.698202,-3.0384993
 ----
 company:
-- monmouthshire
 - great-western
 ----
 route:
-- risca-to-sirhowy
 - pontypool-road-to-merthyr-tydvil

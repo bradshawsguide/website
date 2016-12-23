@@ -1,15 +1,13 @@
 section: 2
 ----
-title: Tredegar Junction
+title: Crumlin High Level
 ----
 region: monmouthshire
 ----
-location: 51.659362, -3.1817
+location: 51.6762, -3.1442
 ----
 company:
-- monmouthshire
 - great-western
 ----
 route:
-- risca-to-sirhowy
 - pontypool-road-to-merthyr-tydvil

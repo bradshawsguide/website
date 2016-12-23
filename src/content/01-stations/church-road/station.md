@@ -4,7 +4,7 @@ title: Church Road
 ----
 region: monmouthshire
 ----
-location: 51.6160128, -3.1078744
+location: 51.58189, -3.0958451
 ----
 company:
 - monmouthshire

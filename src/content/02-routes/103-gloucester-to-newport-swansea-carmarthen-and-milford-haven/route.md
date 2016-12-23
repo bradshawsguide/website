@@ -19,6 +19,8 @@ stops:
 - magor
 - llanwern
 - newport
+- pontnewydd
+- pontypool-road
 ----
 text: ## Gloucester to Newport
 
@@ -38,3 +40,7 @@ Immediately after leaving this station a short tunnel passes underneath the East
 The line passes along the margin of the river for several miles, and in some places the water is so near, that at high tides it approaches close to the railway.
 
 At [Woolaston](/stations/woolaston) we leave the county of Gloucester, and enter that of Monmouth.
+
+## Newport to Abergavenny and Hereford.
+In ten minutes after leaving Newport we reach [Pontnewydd](/stations/pontnewydd), and in ten minutes more, the station of [Pontypool Road](/stations/pontypool-road). This forms the junction
+with the [Taff Vale Extension](/routes/pontypool-road-to-merthyr-tydvil).

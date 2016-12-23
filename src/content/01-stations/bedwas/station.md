@@ -4,7 +4,7 @@ title: Bedwas
 ----
 region: monmouthshire
 ----
-location: 51.593562, -3.214018
+location: 51.594594, -3.201052
 ----
 company:
 - monmouthshire

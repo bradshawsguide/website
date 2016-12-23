@@ -4,7 +4,7 @@ title: Cwm Avon
 ----
 region: monmouthshire
 ----
-location: 51.613568, -3.763393
+location: 51.752426, -3.0599233
 ----
 company:
 - monmouthshire

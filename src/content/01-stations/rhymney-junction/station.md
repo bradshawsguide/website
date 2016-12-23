@@ -1,15 +1,13 @@
 section: 2
 ----
-title: Tredegar Junction
+title: Rhymney Junction
 ----
 region: monmouthshire
 ----
-location: 51.659362, -3.1817
+location: 51.640475, -3.242005
 ----
 company:
-- monmouthshire
 - great-western
 ----
 route:
-- risca-to-sirhowy
 - pontypool-road-to-merthyr-tydvil

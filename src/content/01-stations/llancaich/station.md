@@ -1,12 +1,12 @@
 section: 2
 ----
-title: Merthyr Tydvil
+title: Llancaich
 ----
-title_later: Merthyr Tydfil
+title_later: Nelson
 ----
-region: glamorganshire
+region: monmouthshire
 ----
-location: 51.744177, -3.376657
+location: 51.656965,-3.289213
 ----
 company:
 - great-western
