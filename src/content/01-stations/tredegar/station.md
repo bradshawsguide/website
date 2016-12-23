@@ -2,12 +2,16 @@ section: 2
 ----
 title: Tredegar
 ----
+title_later: Nantybwch
+----
 region: monmouthshire
 ----
-location: 51.767029, -3.2419804
+location: 51.787694, -3.264894
 ----
 company:
 - monmouthshire
+- great-western
 ----
 route:
 - risca-to-sirhowy
+- pontypool-road-to-abergavenny

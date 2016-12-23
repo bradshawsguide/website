@@ -12,4 +12,4 @@ company:
 - great-western
 ----
 route:
-- pontypool-road-to-merthyr-tydvil
+- pontypool-road-to-merthyr

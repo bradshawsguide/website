@@ -14,6 +14,7 @@ company:
 route:
 - gloucester-to-ross-and-hereford
 - hereford-to-hay-and-brecon
+- pontypool-road-to-abergavenny
 ----
 info:
 - term: Hotels

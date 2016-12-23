@@ -1,13 +1,13 @@
 section: 2
 ----
-title: Crumlin High Level
+title: Llandenny
 ----
 region: monmouthshire
 ----
-location: 51.6762, -3.1442
+location: 51.7309, -2.8444
 ----
 company:
 - great-western
 ----
 route:
-- pontypool-road-to-merthyr
+- pontypool-road-to-monmouth

@@ -12,4 +12,4 @@ company:
 ----
 route:
 - hereford-to-hay-and-brecon
-- talyllyn-junction-to-merthyr-tydfil
+- talyllyn-junction-to-merthyr

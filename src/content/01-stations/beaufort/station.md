@@ -1,13 +1,13 @@
 section: 2
 ----
-title: Crumlin High Level
+title: Beaufort
 ----
 region: monmouthshire
 ----
-location: 51.6762, -3.1442
+location: 51.797293, -3.207157
 ----
 company:
 - great-western
 ----
 route:
-- pontypool-road-to-merthyr
+- abergavenny-to-merthyr

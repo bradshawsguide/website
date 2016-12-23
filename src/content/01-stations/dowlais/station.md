@@ -12,4 +12,4 @@ company:
 - brecon-and-merthyr-tydfil-junction
 ----
 route:
-- talyllyn-junction-to-merthyr-tydfil
+- talyllyn-junction-to-merthyr

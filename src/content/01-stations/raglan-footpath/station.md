@@ -1,13 +1,13 @@
 section: 2
 ----
-title: Crumlin High Level
+title: Raglan Footpath
 ----
 region: monmouthshire
 ----
-location: 51.6762, -3.1442
+location: 51.7607, -2.8425
 ----
 company:
 - great-western
 ----
 route:
-- pontypool-road-to-merthyr
+- pontypool-road-to-monmouth

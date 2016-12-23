@@ -11,7 +11,8 @@ company:
 ----
 route:
 - gloucester-to-newport-swansea-carmarthen-and-milford-haven
-- pontypool-road-to-merthyr-tydvil
+- pontypool-road-to-merthyr
+- pontypool-road-to-monmouth
 ----
 notes:
 - Distance from the town of the

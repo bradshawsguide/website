@@ -12,4 +12,4 @@ company:
 ----
 route:
 - risca-to-sirhowy
-- pontypool-road-to-merthyr-tydvil
+- pontypool-road-to-merthyr

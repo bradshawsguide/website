@@ -21,6 +21,9 @@ stops:
 - newport
 - pontnewydd
 - pontypool-road
+- nantyderry
+- penpergwm
+- abergavenny
 ----
 text: ## Gloucester to Newport
 
@@ -41,6 +44,9 @@ The line passes along the margin of the river for several miles, and in some pla
 
 At [Woolaston](/stations/woolaston) we leave the county of Gloucester, and enter that of Monmouth.
 
-## Newport to Abergavenny and Hereford.
+## Newport to Abergavenny and Hereford
 In ten minutes after leaving Newport we reach [Pontnewydd](/stations/pontnewydd), and in ten minutes more, the station of [Pontypool Road](/stations/pontypool-road). This forms the junction
 with the [Taff Vale Extension](/routes/pontypool-road-to-merthyr-tydvil).
+
+## Pontypool Road to Abergavenny
+Passing the station of [Nantyderry](/statios/nantyderry), or Goitre, we arrive at [Penpergwm](/stations/penpergym), near which is Llanover, the seat of Lord Llanover, and three miles to the right is Glytha. Proceeding along the valley of the Usk, we soon arrive at [Abergavenny](/stations/abergavenny).

@@ -1,15 +1,15 @@
 section: 2
 ----
-title: Llancaich
+title: Trevil
 ----
-title_later: Nelson
+title_later: Trevil Halt
 ----
 region: monmouthshire
 ----
-location: 51.656965,-3.289213
+location: 51.796077, -3.237576
 ----
 company:
 - great-western
 ----
 route:
-- pontypool-road-to-merthyr
+- abergavenny-to-merthyr
