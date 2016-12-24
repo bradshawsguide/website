@@ -1,6 +1,6 @@
-# Bradshaw’s Guide For Tourists in Great Britain & Ireland (1866 Edition)
+# Bradshaw’s Guide For Tourists in Great Britain & Ireland
 
-*A modern-day revival of a victorian classic.*
+*A modern-day revival of a Victorian classic (1866 Edition).*
 
 ## Installation
 1. `git clone git@github.com:paulrobertlloyd/bradshawsguide.git`
