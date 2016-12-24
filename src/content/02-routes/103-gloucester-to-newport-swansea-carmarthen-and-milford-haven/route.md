@@ -21,6 +21,19 @@ stops:
 - newport
 - marshfield
 - cardiff
+- ely-cardiff
+- st-fagans
+- peterston
+- llantrissant
+- pencoed
+- bridgend
+- pyle
+- port-talbot
+- briton-ferry
+- neath
+- llansamlet
+- landore
+- swansea
 ----
 text: ## Gloucester to Newport
 
