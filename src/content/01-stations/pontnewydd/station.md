@@ -14,4 +14,4 @@ company:
 ----
 route:
 - newport-to-blaenavon
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
+- newport-to-abergavenny-and-hereford

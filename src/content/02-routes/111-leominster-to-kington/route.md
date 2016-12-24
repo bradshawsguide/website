@@ -4,7 +4,7 @@ title: Kington and Leominster Branch
 ----
 description: Leominster to Kington
 ----
-company: leominster-and-kington
+company: great-western
 ----
 stops:
 - leominster

@@ -12,7 +12,7 @@ stops:
 - cwmbran
 - pontnewydd
 - pontrhydyrun
-- pontypool
+- pontypool-crane-street
 - pontnewynydd
 - abersychan
 - cwm-avon

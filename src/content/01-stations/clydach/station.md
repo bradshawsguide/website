@@ -7,7 +7,7 @@ region: brecknockshire
 location: 51.808083, -3.116064
 ----
 company:
-- great-western
+- merthyr-tredegar-and-abergavenny
 ----
 route:
-- abergavenny-to-merthyr
+- abergavenny-to-tredegar

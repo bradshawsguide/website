@@ -7,7 +7,7 @@ region: monmouthshire
 location: 51.815733, -3.066929
 ----
 company:
-- great-western
+- merthyr-tredegar-and-abergavenny
 ----
 route:
-- abergavenny-to-merthyr
+- abergavenny-to-tredegar

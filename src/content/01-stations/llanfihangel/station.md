@@ -12,4 +12,4 @@ company:
 - great-western
 ----
 route:
-- abergavenny-to-merthyr
+- newport-to-abergavenny-and-hereford

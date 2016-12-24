@@ -13,6 +13,7 @@ company:
 ----
 route:
 - gloucester-to-newport-swansea-carmarthen-and-milford-haven
+- newport-to-abergavenny-and-hereford
 ----
 info:
 - term: Hotel

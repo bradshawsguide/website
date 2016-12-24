@@ -8,7 +8,7 @@ location: 52.225585, -2.731218
 ----
 company:
 - shrewsbury-and-hereford
-- leominster-and-kington
+- great-western
 ----
 route:
 - hereford-to-shrewsbury

@@ -8,10 +8,11 @@ location: 51.817144, -3.008932
 ----
 company:
 - great-western
+- merthyr-tredegar-and-abergavenny
 ----
 route:
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-- abergavenny-to-merthyr
+- newport-to-abergavenny-and-hereford
+- abergavenny-to-tredegar
 ----
 info:
 - term: Hotel

@@ -7,7 +7,7 @@ region: herefordshire
 location: 52.225787, -2.897388
 ----
 company:
-- leominster-and-kington
+- great-western
 ----
 route:
 - leominster-to-kington

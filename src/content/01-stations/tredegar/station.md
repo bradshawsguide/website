@@ -10,8 +10,8 @@ location: 51.787694, -3.264894
 ----
 company:
 - monmouthshire
-- great-western
+- merthyr-tredegar-and-abergavenny
 ----
 route:
 - risca-to-sirhowy
-- abergavenny-to-merthyr
+- abergavenny-to-tredegar

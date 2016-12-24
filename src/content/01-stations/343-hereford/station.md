@@ -15,6 +15,7 @@ company:
 route:
 - gloucester-to-ross-and-hereford
 - hereford-to-hay-and-brecon
+- newport-to-abergavenny-and-hereford
 - hereford-to-shrewsbury
 ----
 info:
