@@ -2,9 +2,11 @@ section: 2
 ----
 title: Talybont
 ----
+title_later: Talybont-on-Usk
+----
 region: brecknockshire
 ----
-location: 52.772087, -4.096719
+location: 51.899454, -3.281839
 ----
 company:
 - hereford-hay-and-brecon

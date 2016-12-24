@@ -10,11 +10,12 @@ location: 52.061197, -2.708109
 ----
 company:
 - great-western
+- shrewsbury-and-hereford
 ----
 route:
 - gloucester-to-ross-and-hereford
 - hereford-to-hay-and-brecon
-- pontypool-road-to-abergavenny
+- hereford-to-shrewsbury
 ----
 info:
 - term: Hotels

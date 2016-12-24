@@ -10,4 +10,4 @@ company:
 - great-western
 ----
 route:
-- pontypool-road-to-abergavenny
+- abergavenny-to-merthyr

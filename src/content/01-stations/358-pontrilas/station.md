@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- pontypool-road-to-abergavenny
+- abergavenny-to-merthyr
 ----
 notes:
 - Telegraph station at Hereford, 1O¾ miles.

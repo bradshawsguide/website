@@ -14,4 +14,4 @@ company:
 ----
 route:
 - risca-to-sirhowy
-- pontypool-road-to-abergavenny
+- abergavenny-to-merthyr
