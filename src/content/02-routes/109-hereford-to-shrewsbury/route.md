@@ -22,7 +22,7 @@ stops:
 - marsh-brook
 - church-stretton
 - leebotwood
-- borrington
+- dorrington
 - condover
 - shrewsbury
 ----
