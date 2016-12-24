@@ -14,18 +14,12 @@ c::set('whoops', false);
 
 // Routes
 c::set('routes', array(
-  array(
-    'pattern' => 'manifest.json',
+  array( // Redirect to root JSON files
+    'pattern' => '(:any).json',
     'action'  => function() {
-      return site()->visit('manifest');
+      return site()->visit($uid);
     }
-  ),
-  array(
-    'pattern' => 'markers.json',
-    'action'  => function() {
-      return site()->visit('markers');
-    }
-  ),
+  )
 ));
 
 // Rewrite URLs
