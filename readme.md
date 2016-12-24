@@ -12,7 +12,7 @@ When developing the site, you may want assets automatically compiled and the bro
 * `gulp dev`
 
 ## Running locally with HTTPS
-To run with HTTPS locally on macOS, you should follow the setup [as described here][5]. To create the required SSL certificates, follow these steps:
+To run with HTTPS locally on macOS, you should follow the setup [as described here](https://gist.github.com/jed/6147872). To create the required SSL certificates, follow these steps:
 
 1. Open Terminal.app
 2. Change into the correct directory: `cd Sites/bradshawsguide/etc/ssl`
