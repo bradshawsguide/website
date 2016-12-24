@@ -1,15 +1,16 @@
 section: 2
 ----
-title: Quaker's Yard
+title: Aberdare Junction
+----
+title_later: Abercynon
 ----
 region: glamorganshire
 ----
-location: 51.660266, -3.32351
+location: 51.644936, -3.327399
 ----
 company:
-- great-western
 - taff-vale
 ----
 route:
-- pontypool-road-to-merthyr
 - cardiff-to-aberdare-and-merthyr
+- aberdare-junction-to-aberdare

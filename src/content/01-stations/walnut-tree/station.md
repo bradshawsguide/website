@@ -1,15 +1,16 @@
 section: 2
 ----
-title: Quaker's Yard
+title: Walnut Tree
+----
+title_later: Taffs Well
 ----
 region: glamorganshire
 ----
-location: 51.660266, -3.32351
+location: 51.541333, -3.263818
 ----
 company:
-- great-western
 - taff-vale
 ----
 route:
-- pontypool-road-to-merthyr
 - cardiff-to-aberdare-and-merthyr
+- walnut-tree-to-cowbridge

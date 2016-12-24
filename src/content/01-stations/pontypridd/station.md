@@ -1,15 +1,14 @@
 section: 2
 ----
-title: Quaker's Yard
+title: Pontypridd
 ----
 region: glamorganshire
 ----
-location: 51.660266, -3.32351
+location: 51.599811, -3.341965
 ----
 company:
-- great-western
 - taff-vale
 ----
 route:
-- pontypool-road-to-merthyr
 - cardiff-to-aberdare-and-merthyr
+- pontypridd-to-treherbert

@@ -1,0 +1,38 @@
+section: 2
+----
+title: Merthyr
+----
+title_later: Merthyr
+----
+region: glamorganshire
+----
+location: 51.744177, -3.376657
+----
+company:
+- great-western
+- taff-vale
+----
+route:
+- pontypool-road-to-merthyr
+- cardiff-to-aberdare-and-merthyr
+----
+info:
+- term: Population
+  desc: 83,875.
+- term: Hotels
+  desc: Castle Bush.
+- term: Market Days
+  desc: Wednesday and Saturday.
+- term: Bankers
+  desc: Wilkins and Co.; Branch of West of England and South Wales District Banking Company.
+----
+notes:
+- A telegraph station.
+----
+text: Merthyr Tydvil is a parliamentary borough, and great mining town, in South Wales, 21 miles from Cardiff, with which there is railway communication by a branch out of the South Wales line. It stands up the Taff, among the rugged and barren-looking hills in the north-east corner of Glamorganshire, the richest county in Wales for mineral wealth. About a century ago the first ironworks were established here, since which the extension has been amazingly rapid. Blast furnaces, forges, and rolling mills are scattered on all sides. Each iron furnace is about 55 feet high, containing 5,000 cubic feet; and capable of smelting 100 tons of pig-iron weekly, and as there are upwards of 50, the annual quantity of metal may be tolerably estimated; but great as that supply may seem, it is scarcely equal to the demand created for it by railways. The largest works are those belonging to Lady Guest and Messrs. Crawshay, where 3,000 to 5,000 hands are employed At Guest's Dowlais works there are 18 or 20 blast furnaces, besides many furnaces for puddling, balling, and refining; and 1,000 tons of coal a day are consumed.
+
+Visitors should see the furnaces by night, when the red glare of the flames produces an. uncommonly striking; effect. Indeed, the town is best visited at that time, for by day it will be found dirty, and irregularly built, without order or management, decent roads or footpaths, no supply of water, and no public building of the least note, except Barracks, and a vast *Poor-House*, lately finished, in the shape of a cross, on heaps of the rubbish accumulated from the pits and works. Cholera and fever are, of course, at home here, in scenes which would shock even the most "eminent defender of the filth," and winch imperatively demand that their Lady owner should become one of "the Nightingale sisterhood" for a brief space of time. Out of 695 couples married in 1845, 1,016 persons signed with marks, one great secret of which social drawback is the unexampled rapidity with which the town has sprung up; but we do hope that proper measures will be taken henceforth by those who draw enormous wealth from working these works, to improve the condition of the people. Coal and iron are found together in this part of Wales, the coal being worked mostly by levels, in beds 2 to 3 feet thick. Besides the large and small works in and about Merthyr, there are those at Aberdare (a growing rival to Merthyr), Hirwain, Pentwain, Blaenavon, Brynrnawr, Nantydo, Ebbw (*w* as *oo*) Vale, Beaufort, Tredegar, Rhymney, Sirhowy, &c., nearly all seated at the head of valleys, and many of them being in the neighbouring county of Monmouth, which, though reckoned part of England, is essentially Welsh in minerals, scenery, and people. Railways and canals now traverse these valleys to the sea.
+
+Merthyr Tydvil, as well as its church, derives its name, signifying the Martyr1 Tydvil, from St. Tudfyl, the daughter of Brychan (a Welsh chief) who was put to death for her religion in the early ages of the British church Many such confessors are commemoated in the designation bestowed on parishes in Vales.
+
+In the neighbourhood are the following objects of notice. The Taff may be descended to Quaker's Yard and *Newbridge*, where there are large metal works, and a bridge, called *Pont-y-prid* in Welsh. Remarkable as the production of a self-taught local architect, named Edwards, who built it, in 1751. It is a single arch, with a rise of one-fourth the span, which is 140 feet, yet it is only 2½ feet thick in the crown. Once and twice it fell when completed, but the third time the builder was successful, experience having taught him to diminish the strain from its own weight, by boring three, large holes on each side near the pier's. Following the Neath rail, you come to Pont-neath-Vaughan, at the head of the fine Vale of Neath, within a few miles of which are some of the best *Waterfalls* in South Wales,--those of the Hefeste, Purthin, and its branches, which are 40 to 70 or SO feet down. One on the *Mellte* is particularly worth notice, as it flows for half-a-mile through a limestone cave, and then re-appears just before it sweeps down a fall of 40 feet, with so clean a curve that people have actually taken shelter from the rain under it, on a narrow ledge in the face of the rock. The smaller spouts are called Sewbs (*w* as *oo*). These are all in Brecknockshire; but there is one of 90 feet at Merlin Court, half-way down the Vale of Neath; and to the right of this an ancient Roman way, called the Sarn Helen, or *via* Julia Montana, may yet be traced. It went from Neath over the mountains to Brecknock, which was an important Roman station. The direct road from Merthyr to Brecon is through a lofty mountain pass, called Glyn Tarrell, having the, Brecnockshire Beacons, 2,862 feet high on one side, and Mount Cafellente, 2,394 feet high, on the other. For continuation of this route along the Wye, &c, see Brecon and Merthyr.
