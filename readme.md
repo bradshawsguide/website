@@ -1,9 +1,6 @@
-# Bradshaw’s Handbook
+# Bradshaw’s Guide For Tourists in Great Britain & Ireland (1866 Edition)
 
 *A modern-day revival of a victorian classic.*
-
-## Requirements
-[TBD]
 
 ## Installation
 1. `git clone git@github.com:paulrobertlloyd/bradshawsguide.git`
@@ -57,7 +54,6 @@ To run with HTTPS locally on macOS, you should follow the setup [as described he
 5. Delete the configuration file: `rm openssl.cnf`
 
 ## Repo structure
-Sometimes it’s helpful to know what all these files are for…
 
 ```
 bradshawsguide
@@ -65,11 +61,12 @@ bradshawsguide
 │
 ├── src/              # SOURCE
 │   ├── assets/
+│   │   ├── fonts/    # Webfonts
 │   │   ├── icons/    # Favicon and home screen icons
-│   │   ├── props/    # Global design properties
+│   │   ├── images/   # Global bitmap images
 │   │   ├── scripts/  # Global JavaScript files
 │   │   ├── styles/   # Global CSS files
-│   │   └── vectors/  # Global SVG images, icons and logos
+│   │   └── vectors/  # Global SVG images
 │   │
 │   ├── config/       # Kirby configuration
 │   ├── content/      # Site content
@@ -81,15 +78,15 @@ bradshawsguide
 │   └── templates/    # Templates
 │
 ├── www/              # COMPILED/RUNTIME
-│   ├── (assets)      # Compiled assets (not tracked by git)
+│   ├── (assets)      # Compiled assets (ignored by git)
 │   ├── [kirby]       # Kirby [submodule]
-│   ├── (thumbs)      # Thumbnail cache (not tracked by git)
+│   ├── (thumbs)      # Thumbnail cache (ignored by git)
 │   └── index.php     # Kirby launch script
 │
 ├── .editorconfig     # Text editor preferences
 ├── .gitignore        # List of files not tracked by git
+├── .gitmodules       # List of submodules tracked by git
 ├── .eshintrc         # JS linting preferences
-├── .htmllintrc       # HTML linting preferences
 ├── .stylelintrc      # CSS linting preferences
 ├── gulpfile.js       # Configuration file for Gulp
 ├── package.json      # Project manifest
