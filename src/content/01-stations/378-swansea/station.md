@@ -8,9 +8,11 @@ location: 51.625605, -3.940843
 ----
 company:
 - great-western
+- vale-of-neath
 ----
 route:
 - gloucester-to-newport-swansea-carmarthen-and-milford-haven
+- swansea-to-merthyr
 ----
 info:
 - term: Population

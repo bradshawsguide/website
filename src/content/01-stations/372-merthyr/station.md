@@ -11,10 +11,12 @@ location: 51.744177, -3.376657
 company:
 - great-western
 - taff-vale
+- vale-of-neath
 ----
 route:
 - pontypool-road-to-merthyr
 - cardiff-to-aberdare-and-merthyr
+- swansea-to-merthyr
 ----
 info:
 - term: Population
