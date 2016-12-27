@@ -2,40 +2,42 @@
   <h1 class="u-hidden">Route Map</h1>
   <ol class="c-routemap__stops">
   <? foreach($stops as $stop):
-    // Get page array for item in `stops:` YAML list
-    $stop = page('stations/'.$stop);
+    if (is_array($stop)) {
+      $type = 'branch';
+      $station = page('stations/'.$stop['junction']);
+      $branchstops = $stop['stops'];
+    } else {
+      // Get page array for stop in `stops:` YAML list
+      $station = page('stations/'.$stop);
 
-    // Get `routes` YAML list in this stop
-    $routes = $stop->route()->yaml();
+      // Get `routes` YAML list in this stop
+      $routes = $station->route()->yaml();
 
-    foreach ($routes as $route) {
-      if (count($routes) > 1) {
-        $type = 'interchange';
-      } else {
-        $type = 'station';
+      // Get station type
+      foreach ($routes as $route) {
+        if (count($routes) > 1) {
+          $type = 'interchange';
+        } else {
+          $type = 'station';
+        }
       }
     }
   ?>
-    <li class="c-routemap__<?= $type ?>">
-      <?= html::a($stop->url(), smartypants($stop->title())) ?>
-      <? if ($type == "interchange"): ?>
-      <ul class="c-routemap__branches">
-      <?
-        foreach ($routes as $branch):
-          $branch = page('routes/'.$branch);
-          $terminus = a::last(str::split($branch->title(), $separator=' to ', $length=1));
+    <li class="c-routemap__stop c-routemap__stop--<?= $type ?>">
+    <?
+      echo html::a($station->url(), $station->title()->smartypants());
 
-          if ($page->url() != $branch->url()):
-      ?>
-        <li class="c-routemap__branch">
-          <?= html::a($branch->url(), smartypants($terminus)) ?>
-        </li>
-      <?
-          endif;
-        endforeach
-      ?>
-      </ul>
-      <? endif ?>
+      if ($type == 'interchange') {
+        pattern('common/interchange', [
+          'station' => $station,
+          'routes' => $routes
+        ]);
+      } elseif ($type == 'branch') {
+        pattern('common/branch', [
+          'stops' => $branchstops
+        ]);
+      }
+    ?>
     </li>
   <? endforeach ?>
   </ol>

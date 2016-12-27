@@ -13,7 +13,6 @@ company:
 ----
 route:
 - exeter-to-barnstaple-and-bideford
-- barnstaple-to-infracombe
 ----
 info:
 - term: Hotels

@@ -34,6 +34,20 @@ stops:
 - llansamlet
 - landore
 - swansea
+- gower-road
+- llanelly
+- pembrey
+- kidwelly
+- ferryside
+- carmarthen
+- st-clears
+- whitland
+- narberth-road
+- clarbeston-road
+- haverfordwest
+- johnston
+- milford
+- new-milford
 ----
 text: ## Gloucester to Newport
 

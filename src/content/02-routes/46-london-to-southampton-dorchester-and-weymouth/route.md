@@ -34,7 +34,9 @@ stops:
 - brockenhurst
 - ringwood
 - wimborne
-- poole-junction
+- junction: poole-junction
+  stops:
+    - poole
 - wareham
 - wool
 - moreton

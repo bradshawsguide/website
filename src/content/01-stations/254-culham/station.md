@@ -13,7 +13,6 @@ company:
 ----
 route:
 - didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
-- culham-to-abingdon
 ----
 info:
 - term: Money Order Office

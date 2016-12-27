@@ -1,5 +1,5 @@
 $rule-width: 0.25rem;
-$station-stop-size: 0.625rem; // 10px
+$station-stop-size: 0.25rem; // 4px
 $line-terminus-size: 1rem; // 16px
 $background-color: $c-neutral--lighter;
 
@@ -7,7 +7,7 @@ $background-color: $c-neutral--lighter;
   margin-top: 0.25rem;
   margin-bottom: 1rem;
   background-color: $background-color;
-  padding: 0.5rem;
+  padding: 0.75rem;
 
   @media screen and (min-width: $v-breakpoint--b) {
     padding: 0.75rem 1rem 1rem;
@@ -20,7 +20,7 @@ $background-color: $c-neutral--lighter;
 
 .c-routemap__stops {
   position: relative;
-  margin-left: 0.75rem;
+  margin-left: 0.5rem;
   color: $c-neutral--dark;
 
   &::before {
@@ -34,8 +34,7 @@ $background-color: $c-neutral--lighter;
   }
 }
 
-.c-routemap__station,
-.c-routemap__interchange {
+.c-routemap__stop {
   position: relative;
   margin-top: 0.625rem;
   margin-bottom: 0.625rem;
@@ -52,34 +51,44 @@ $background-color: $c-neutral--lighter;
   }
 }
 
-.c-routemap__station {
-  // •
+.c-routemap__stop--station {
+  // ▬
   &::before {
     display: block;
     position: absolute;
-    top: 50%;
-    bottom: 50%;
-    left: (($station-stop-size / -2) - ($rule-width / 2));
-    height: $station-stop-size;
-    width: $station-stop-size;
-    margin-top: ($station-stop-size / -2);
-    border-radius: 100%;
-    background-color: currentColor;
+    top: 0.375em;
+    height: 0.25rem;
+    width: 0.25rem;
+    border-top: 0.25rem currentColor solid;
     content: "";
   }
 
-  // Don’t show • for first and last station
-  &:first-child::before,
-  &:last-child::before {
-    left: (($line-terminus-size / -2) - ($rule-width / 2));
-    width: $line-terminus-size;
-    height: $rule-width;
-    margin-top: ($rule-width / -2);
-    border-radius: 0;
+  // Don’t show ▬ for first and last station
+  // &:first-child::before,
+  // &:last-child::before {
+  //   left: (($line-terminus-size / -2) - ($rule-width / 2));
+  //   width: $line-terminus-size;
+  //   height: $rule-width;
+  //   margin-top: ($rule-width / -2);
+  //   border-radius: 0;
+  // }
+}
+
+.c-routemap__stop--branch {
+  &::before {
+    display: block;
+    position: absolute;
+    top: 0.375em;
+    bottom: 0.5em;
+    width: 0.5rem;
+    border-top: 0.25rem currentColor solid;
+    border-right: 0.25rem currentColor solid;
+    border-top-right-radius: 0.5rem;
+    content: "";
   }
 }
 
-.c-routemap__interchange {
+.c-routemap__stop--interchange {
   // ⚬
   &::before {
     display: block;

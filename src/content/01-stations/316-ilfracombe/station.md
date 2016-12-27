@@ -10,7 +10,7 @@ company:
 - north-devon
 ----
 route:
-- barnstaple-to-infracombe
+- exeter-to-barnstaple-and-bideford
 ----
 info:
 - term: Hotels

@@ -10,7 +10,7 @@ company:
 - taff-vale
 ----
 route:
-- aberdare-junction-to-aberdare
+- cardiff-to-aberdare-and-merthyr
 ----
 info:
 - term: Population

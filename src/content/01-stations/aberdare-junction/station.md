@@ -13,4 +13,3 @@ company:
 ----
 route:
 - cardiff-to-aberdare-and-merthyr
-- aberdare-junction-to-aberdare

@@ -11,7 +11,6 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- new-cross-to-chislehurst
 - charing-cross-to-woolwich-gravesend-strood-and-rochester
 - charing-cross-to-folkestone-and-dover
 - london-to-brighton

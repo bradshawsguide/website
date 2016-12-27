@@ -11,8 +11,12 @@ stops:
 - llandaff
 - walnut-tree
 - treforest
-- pontyprid
-- aberdare-junction
+- pontypridd
+- junction: aberdare-junction
+  stops:
+    - mountain-ash
+    - treaman
+    - aberdare
 - quakers-yard
 - troedyrhiew
 - merthyr

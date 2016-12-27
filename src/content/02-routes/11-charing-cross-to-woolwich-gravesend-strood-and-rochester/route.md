@@ -9,7 +9,9 @@ company: south-eastern
 stops:
 - charing-cross
 - london-bridge
-- new-cross
+- junction: new-cross
+  stops:
+    - chislehurst
 - blackheath
 - charlton
 - woolwich-dock
@@ -27,4 +29,4 @@ stops:
 - rochester
 - chatham
 ----
-text: The North Kent line commences at [New Cross](/stations/new-cross).
+text: The North Kent line commences at [New Cross](/stations/new-cross), from which also a short line of about six miles runs down by *Birkley Park* to [Chislehurst](/stations/chislehurst).

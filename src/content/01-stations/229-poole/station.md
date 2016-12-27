@@ -10,7 +10,7 @@ company:
 - london-and-south-western
 ----
 route:
-- poole-junction-to-poole
+- london-to-southampton-dorchester-and-weymouth
 ----
 info:
 - term: Hotel

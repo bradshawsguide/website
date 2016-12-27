@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- culham-to-abingdon
+- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
 ----
 info:
 - term: Hotels

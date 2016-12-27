@@ -18,7 +18,9 @@ stops:
 - south-molton-road
 - portsmouth-arms
 - umberleigh
-- barnstaple
+- junction: barnstaple
+  stops:
+    - ilfracombe
 - fremington
 - instow
 - bideford

@@ -13,4 +13,3 @@ company:
 ----
 route:
 - truro-to-redruth-and-penzance
-- st-ives-road-to-st-ives
