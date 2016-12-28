@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- west-drayton-to-uxbridge
+- london-to-reading-bath-and-bristol
 ----
 info:
 - term: Population

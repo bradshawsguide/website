@@ -7,9 +7,6 @@ description: Lewisham to Beckenham and Croydon
 company: mid-kent
 ----
 stops:
-- junction: new-cross
-  stops:
-    - chislehurst
 - lewisham
 - ladywell
 - lower-sydenham

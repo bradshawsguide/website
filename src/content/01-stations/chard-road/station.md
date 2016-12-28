@@ -15,6 +15,5 @@ company:
 ----
 route:
 - basingstoke-to-salisbury-and-exeter
-- chard-road-to-chard
 ----
 text: A branch of the railway diverges to the right, three miles long, to the town of [Chard](/stations/chard).

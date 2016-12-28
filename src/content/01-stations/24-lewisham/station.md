@@ -13,6 +13,7 @@ company:
 - mid-kent
 ----
 route:
+- charing-cross-to-woolwich-gravesend-strood-and-rochester
 - lewisham-to-beckenham-and-croydon
 ----
 info:

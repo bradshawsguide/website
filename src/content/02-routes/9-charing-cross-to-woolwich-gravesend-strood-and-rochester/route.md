@@ -7,11 +7,10 @@ description: Charing Cross and London Bridge to Woolwich, Gravesend, Strood and 
 company: south-eastern
 ----
 stops:
-- charing-cross
-- london-bridge
 - junction: new-cross
   stops:
     - chislehurst
+- lewisham
 - blackheath
 - charlton
 - woolwich-dock

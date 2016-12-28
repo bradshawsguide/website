@@ -11,7 +11,6 @@ company:
 ----
 route:
 - london-to-reading-bath-and-bristol
-- west-drayton-to-uxbridge
 ----
 info:
 - term: Hotels

@@ -13,7 +13,9 @@ stops:
 - junction: southall
   stops:
     - brentford
-- west-drayton
+- junction: west-drayton
+  stops:
+    - uxbridge
 - langley
 - slough
 - maidenhead
