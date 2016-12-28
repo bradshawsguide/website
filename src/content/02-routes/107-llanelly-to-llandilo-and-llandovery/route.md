@@ -12,9 +12,9 @@ stops:
 - bynea
 - llangennech
 - pontardulais
-- pantyffynnon
-- junction: cross-inn
+- junction: pantyffynnon
   stops:
+    - cross-inn-ammanford
     - garnant
     - brynamman
 - duffryn
@@ -25,7 +25,7 @@ stops:
   stops:
     - llandilo-bridge
     - golden-grove
-    - llandarthney
+    - llanarthney
     - nantgaredig
     - abergwilly
     - carmarthen

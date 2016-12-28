@@ -35,6 +35,7 @@ stops:
 - landore
 - swansea
 - gower-road
+- loughor
 - llanelly
 - pembrey
 - kidwelly
@@ -45,8 +46,9 @@ stops:
 - narberth-road
 - clarbeston-road
 - haverfordwest
-- johnston
-- milford
+- junction: johnston
+  stops:
+    - milford
 - new-milford
 ----
 text: ## Gloucester to Newport

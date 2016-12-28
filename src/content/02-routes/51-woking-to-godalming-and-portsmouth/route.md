@@ -10,7 +10,7 @@ stops:
 - woking
 - guildford
 - godalming
-- milford
+- milford-surrey
 - witley
 - haslemere
 - liphook
