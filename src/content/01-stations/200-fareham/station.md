@@ -11,7 +11,6 @@ company:
 ----
 route:
 - bishopstoke-to-gosport-and-portsmouth
-- fareham-to-gosport
 ----
 info:
 - term: Population

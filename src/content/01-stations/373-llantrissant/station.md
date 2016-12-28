@@ -13,7 +13,7 @@ company:
 - great-western
 ----
 route:
-- walnut-tree-to-cowbridge
+- cardiff-to-aberdare-and-merthyr
 - gloucester-to-newport-swansea-carmarthen-and-milford-haven
 ----
 info:

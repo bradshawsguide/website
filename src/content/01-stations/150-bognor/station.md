@@ -10,7 +10,7 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- barnham-to-bognor
+- brighton-to-worthing-chichester-and-portsmouth
 ----
 info:
 - term: Population

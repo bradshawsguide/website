@@ -11,7 +11,6 @@ company:
 ----
 route:
 - highbridge-to-glastonbury-wells-and-templecombe
-- glastonbury-to-wells
 ----
 info:
 - term: Hotels

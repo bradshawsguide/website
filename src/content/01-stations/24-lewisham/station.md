@@ -13,7 +13,6 @@ company:
 - mid-kent
 ----
 route:
-- new-cross-to-chislehurst
 - lewisham-to-beckenham-and-croydon
 ----
 info:

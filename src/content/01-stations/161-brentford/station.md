@@ -11,7 +11,7 @@ company:
 ----
 route:
 - barnes-to-hounslow-and-feltham
-- southall-to-brentford
+- london-to-reading-bath-and-bristol
 ----
 info:
 - term: Population

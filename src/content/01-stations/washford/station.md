@@ -10,4 +10,4 @@ company:
 - bristol-and-exeter
 ----
 route:
-- watchet-to-combe-row
+- taunton-to-watchet

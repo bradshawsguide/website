@@ -11,7 +11,6 @@ company:
 ----
 route:
 - london-to-reading-bath-and-bristol
-- southall-to-brentford
 ----
 info:
 - term: Hotel

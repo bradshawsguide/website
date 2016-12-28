@@ -7,7 +7,7 @@ region: devonshire
 location: 50.7844, -3.8939
 ----
 company:
-- devon-and-cornwall
+- north-devon
 ----
 route:
-- yeoford-to-north-tawton
+- exeter-to-barnstaple-and-bideford

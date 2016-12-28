@@ -13,7 +13,6 @@ company:
 ----
 route:
 - swindon-to-gloucester-and-cheltenham
-- tetbury-road-to-cirencester
 ----
 info:
 - term: Hotels

@@ -12,7 +12,7 @@ company:
 - somerset-and-dorset
 ----
 route:
-- glastonbury-to-wells
+- highbridge-to-glastonbury-wells-and-templecombe
 ----
 info:
 - term: Hotels

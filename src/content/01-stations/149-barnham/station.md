@@ -11,7 +11,6 @@ company:
 ----
 route:
 - brighton-to-worthing-chichester-and-portsmouth
-- barnham-to-bognor
 ----
 info:
 - term: Hotels

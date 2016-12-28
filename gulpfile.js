@@ -31,6 +31,11 @@ function images() {
     .pipe(gulp.dest(config.dest.assets + 'images'));
 }
 
+function vectors() {
+  return gulp.src(config.src.assets + 'vectors/**/*')
+    .pipe(gulp.dest(config.dest.assets + 'vectors'));
+}
+
 function icons() {
   return gulp.src(config.src.assets + 'icons/**/*')
     .pipe(imagemin())
@@ -103,13 +108,14 @@ function sync() {
 function watch() {
   gulp.watch(config.src.assets + 'fonts', fonts);
   gulp.watch(config.src.assets + 'icons', icons);
-  gulp.watch(config.src.assets + 'icons', images);
+  gulp.watch(config.src.assets + 'images', images);
+  gulp.watch(config.src.assets + 'vectors', vectors);
   gulp.watch(config.src.path + '**/*.js', scripts);
   gulp.watch(config.src.path + '**/*.scss', styles);
 }
 
 // Task sets
-var compile = gulp.series(clean, gulp.parallel(fonts, icons, images, scripts, styles));
+var compile = gulp.series(clean, gulp.parallel(fonts, icons, images, vectors, scripts, styles));
 
 gulp.task('default', compile);
 gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));

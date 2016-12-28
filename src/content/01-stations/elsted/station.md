@@ -10,4 +10,4 @@ company:
 - london-and-south-western
 ----
 route:
-- petersfield-to-midhurst
+- woking-to-godalming-and-portsmouth

@@ -10,7 +10,7 @@ company:
 - london-and-south-western
 ----
 route:
-- fareham-to-gosport
+- bishopstoke-to-gosport-and-portsmouth
 ----
 info:
 - term: Population

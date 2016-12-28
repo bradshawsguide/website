@@ -12,4 +12,4 @@ company:
 - taff-vale
 ----
 route:
-- walnut-tree-to-cowbridge
+- cardiff-to-aberdare-and-merthyr

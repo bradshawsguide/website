@@ -10,6 +10,4 @@ company:
 - cornwall
 ----
 route:
-- truro-to-falmouth
-----
-text:
+- plymouth-to-truro

@@ -12,7 +12,6 @@ company:
 ----
 route:
 - london-to-southampton-dorchester-and-weymouth
-- weymouth-to-portland
 - chippenham-to-dorchester-and-weymouth
 ----
 info:

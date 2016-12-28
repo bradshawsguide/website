@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- tetbury-road-to-cirencester
+- swindon-to-gloucester-and-cheltenham
 ----
 info:
 - term: Population

@@ -12,7 +12,6 @@ company:
 ----
 route:
 - plymouth-to-truro
-- truro-to-falmouth
 - truro-to-redruth-and-penzance
 ----
 info:
@@ -32,3 +31,5 @@ text: Truro, the mining capital of Cornwall, and a parliamentary borough (two me
 The principal streets diverge from the market place, near which is St. Mary's Church, a handsome later Gothic edifice, with a tower. It contains various monuments to old Truro families. There are two other churches, besides one at Kenwyn, north of the town, near the county infirmary. The *Coinage Hall* is an old building, formerly used as a stannary parliament, i.e., a parliament of turners (*stannum*, tin). Town Hall, built in 1615. Theatre and Assembly Room, at High Cross. A good museum at the Royal Institute of Cornwall. Attempts have been made to establish a mining college, chiefly by the liberal exertions of Sir C. Lemon, after whom Lemon Street, on the Falmouth Road, takes its name. At the top of it is a pillar to the African travellers, Richard and J. Lander, natives of Truro, the latter of whom perished on his third trip to that insalubrious coast.
 
 Within a short distance are the following places, mostly seated on the Fal or its branches. *Polwhele* was the seat of Polwhele the antiquary, a member of an ancient Cornish family, "By Tre, Pol, and Pen, you may know the Cornishmen," is a well known rhyme. *Pencalenick*, seat of J. Vivian, Esq.,--another old name. *Tregothnan*, the seat of the Earl of Falmouth, a beautiful spot. Here Admiral Boscawen was born, in 1711. *Trewarthenick*, another fine seat, near Tregony, *Trelissich*, on the west side of the Fal.
+
+A branch line 11¾ miles long here diverges in a south westerly direction to the station of [Perran](/station/perran), to the left of which lies the beautifully-situated seat of Sir C. Lemon, Bart., at *Carclew*. At tins point the line begins to curve towards the east, passes the scat of J. Enys, Esq., of *Enys*, to the left, and the old borough town of [Penryn](/stations/penryn), whence, by the banks of a pretty creek, we reach [Falmouth](/stations/falmouth).

@@ -12,4 +12,4 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- sutton-to-epsom-downs
+- croydon-to-epsom

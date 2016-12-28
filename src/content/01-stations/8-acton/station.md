@@ -13,7 +13,6 @@ company:
 ----
 route:
 - willesden-junction-to-kew
-- acton-to-hammersmith
 ----
 info:
 - term: Population

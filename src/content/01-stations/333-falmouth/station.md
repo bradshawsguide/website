@@ -12,7 +12,7 @@ company:
 - cornwall
 ----
 route:
-- truro-to-falmouth
+- plymouth-to-truro
 ----
 info:
 - term: Population

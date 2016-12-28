@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- uffington-to-faringdon
+- london-to-reading-bath-and-bristol
 ----
 info:
 - term: Hotels

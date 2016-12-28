@@ -8,6 +8,8 @@ location: 50.5647, -2.4508
 ----
 company:
 - london-and-south-western
+- great-western
 ----
 route:
-- weymouth-to-portland
+- london-to-southampton-dorchester-and-weymouth
+- chippenham-to-dorchester-and-weymouth

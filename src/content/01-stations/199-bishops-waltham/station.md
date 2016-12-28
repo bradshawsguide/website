@@ -12,7 +12,7 @@ company:
 - london-and-south-western
 ----
 route:
-- botley-to-bishops-waltham
+- bishopstoke-to-gosport-and-portsmouth
 ----
 notes:
 - Telegraph station at Botley.

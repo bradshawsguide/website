@@ -11,7 +11,6 @@ company:
 ----
 route:
 - taunton-to-watchet
-- watchet-to-combe-row
 ----
 notes:
 - Telegraph station at Taunton.

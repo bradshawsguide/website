@@ -10,7 +10,7 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- pulborough-to-petworth
+- three-bridges-to-horsham-and-arundel
 ----
 info:
 - term: Hotels

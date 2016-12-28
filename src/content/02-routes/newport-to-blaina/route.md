@@ -24,5 +24,4 @@ stops:
 - abertillery
 - blaina
 ----
-text: The first station on the Western Line is [Bassalleg Junction](/stations/bassaleg-junction); and here the [Rhymney and Newport](/routes/bassaleg-junction-to-rhymney) section of the Brecon
-Line branches off to the left.
+text: The first station on the Western Line is [Bassalleg Junction](/stations/bassaleg-junction); and here the [Rhymney and Newport](/routes/bassaleg-junction-to-rhymney) section of the Brecon Line branches off to the left.

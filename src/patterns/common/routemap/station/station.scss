@@ -1,0 +1,25 @@
+.c-routemap__station {
+  display: block;
+  position: relative;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  font-size: 1rem;
+  line-height: 1;
+
+  &::before { // ▬
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 0.25rem;
+    width: 0.5rem;
+    margin-top: -0.125rem;
+    background-color: currentColor;
+    content: '';
+  }
+}
+
+.c-routemap__station--major {
+  font-weight: 600;
+}

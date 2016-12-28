@@ -11,7 +11,6 @@ company:
 ----
 route:
 - london-to-southampton-dorchester-and-weymouth
-- ringwood-to-christchurch
 ----
 info:
 - term: Hotel
