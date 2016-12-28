@@ -7,7 +7,7 @@ if(!defined('KIRBY')) die('Direct access is not allowed');
 c::set('license', '');
 
 // URL setup
-c::set('url', '/');
+c::set('url', 'https://bradshaws.dev');
 
 // Whoops error reporting
 c::set('whoops', false);

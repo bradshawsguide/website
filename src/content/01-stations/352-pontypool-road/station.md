@@ -19,4 +19,4 @@ notes:
 same name, 1½ mile.
 - A telegraph station.
 ----
-text: Near is *Pontypool Park*, Hanbury. Leigh, Esq. This forms the junction with the [Taff Vale Extension](/routes/pontypool-road-to-merthyr-tydvil).
+text: Near is *Pontypool Park*, Hanbury. Leigh, Esq. This forms the junction with the [Taff Vale Extension](/routes/pontypool-road-to-merthyr).

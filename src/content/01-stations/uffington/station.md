@@ -12,4 +12,4 @@ company:
 route:
 - london-to-reading-bath-and-bristol
 ----
-text: Here [a short line](/routes/uffington-to-farrington), about three miles, runs out to our right to [Farrington](/stations/farrington).
+text: Here a short line, about three miles, runs out to our right to [Farrington](/stations/faringdon).

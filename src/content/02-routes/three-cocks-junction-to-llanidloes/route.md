@@ -18,7 +18,7 @@ stops:
 - tylwch
 - llanidloes
 ----
-text: Leaving the junction at [Three Cocks](/stations/three-cocks), we soon come to [Boughrood](/stations/boughrood), 2¾ miles. [Erwood](/stations/erwood), 4¼ miles then [Builth](/stations/builth).
+text: Leaving the junction at [Three Cocks](/stations/three-cocks-junction), we soon come to [Boughrood](/stations/boughrood), 2¾ miles. [Erwood](/stations/erwood), 4¼ miles then [Builth](/stations/builth).
 
 [Newbridge-on-Wye](/stations/newbridge-on-wye), 5½ miles. [Doldowlod](/stations/) 4¼ miles. [Rhayader](/stations/rhayader).
 

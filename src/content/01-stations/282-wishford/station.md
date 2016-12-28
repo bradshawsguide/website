@@ -15,4 +15,4 @@ route:
 notes:
 - Telegraph station at Wilton, 2½ miles.
 ----
-text: Here is an excellent Free Grammar School, and a handsome church. In the vicinity are South Newton and Wilton Woodford, at which the ancient Bishops of Sarum had a palace. Soon after we arrive at [Wilton](/stations/wilton).
+text: Here is an excellent Free Grammar School, and a handsome church. In the vicinity are South Newton and Wilton Woodford, at which the ancient Bishops of Sarum had a palace. Soon after we arrive at [Wilton](/stations/wilton-north).

@@ -20,4 +20,4 @@ There is nothing else worth notice in the town; except the old church of St. Mic
 
 In the neighbourhood of Pembroke are the following:--*Upton Castle*, seat of Rev. W. Evans. *Pill Priory; Carew* (4 miles), is one of those old baronial seats so abundant in South Wales; built in Henry I's reign, by the ancestor of the Fitzgeralds. There are two great halls 100 feet and 80 feet long. Effigies in the church; and an old roadside cross, 14 feet high. *Orielton* (6 miles) belongs to the Owens.
 
-Proceeding in an easterly direction the next place we come to is the station of [Lamphey](/station/lamphey).
+Proceeding in an easterly direction the next place we come to is the station of [Lamphey](/stations/lamphey).

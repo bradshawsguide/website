@@ -9,7 +9,7 @@
     <? endforeach ?>
   <? else: ?>
       <li class="c-list__item">
-        <a href="http://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title().' '.$type) ?>"><?= smartypants($page->title()) ?> on Wikipedia</a>
+        <a href="https://en.wikipedia.org/w/index.php?search=<?= urlencode($page->title().' '.$type) ?>"><?= smartypants($page->title()) ?> on Wikipedia</a>
       </li>
   <? endif ?>
   </ul>

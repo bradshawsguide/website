@@ -16,7 +16,7 @@ stops:
     - shoreditch
     - broad-street
 - newington-road
-- islington
+- islington-and-highbury
 - camden-road
 - chalk-farm
 ----

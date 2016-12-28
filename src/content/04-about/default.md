@@ -14,17 +14,17 @@ Bradshaw's guides brought order to an otherwise chaotic and rapidly expanding ne
 Bradshaw was a well-known member of the Society of Friends, and gave considerable time to philanthropic work. While touring Norway in 1853 he contracted cholera and died on 6th September. He is interred in the cemetery adjoining the cathedral in Oslo.
 
 ## About this site
-Following the popularity of Michael Portillo's television series, the 1863 edition of <cite>Bradshaw’s Descriptive Railway Hand-Book of Great Britain & Ireland</cite> was republished, and copies of this and other publications by Bradshaw are now available from [Old House Books & Maps](http://bradshawsguides.com/books-and-maps.html).
+Following the popularity of Michael Portillo's television series, the 1863 edition of <cite>Bradshaw’s Descriptive Railway Hand-Book of Great Britain & Ireland</cite> was republished, and copies of this and other publications by Bradshaw are now available from [Old House Books](http://bloomsbury.com/uk/bradshaws-handbook-9781908402028/).
 
 Still, as a tome of considerable size, Bradshaw's insights into the places we pass everyday remain difficult to access when exploring Britain's railways, or enduring the daily commute. The aim of this site is to make Bradshaw's work readily accessible, ready to read anytime and on any device. You can also [follow George Bradshaw on Foursquare](https://foursquare.com/bradshawsguide) and [Twitter](https://twitter.com/bradshawsguide). The first of four sections covering London and South East England is currently available. The remaining sections will be added over the coming years alongside new features and improvements; offline access and geolocation are high on the list.
 
 This site has been developed by [Paul Robert Lloyd](https://paulrobertlloyd.com), a graphic designer and web developer based in Brighton, England. If you have any feedback regarding this site, you can [contact him on Twitter](https://twitter.com/paulrobertlloyd).
 
 ## Colophon
-Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Ireland</cite> by George Bradshaw, published in Great Britain in 1866. Identified as being in the public domain, content is [free of known copyright restrictions](http://creativecommons.org/publicdomain/mark/1.0/). Sourced from [original texts](http://catalog.hathitrust.org/Record/000075905) digitised by the [Hathi Trust](http://www.hathitrust.org). Typographical errors appearing in the original have been corrected, with the exception of instances where the common spelling of a Victorian word appears to differ from the modern-day equivalent. Examples include chimnies and Shakspeare.
+Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Ireland</cite> by George Bradshaw, published in Great Britain in 1866. Identified as being in the public domain, content is [free of known copyright restrictions](https://creativecommons.org/publicdomain/mark/1.0/). Sourced from [original texts](https://catalog.hathitrust.org/Record/000075905) digitised by the [Hathi Trust](https://www.hathitrust.org). Typographical errors appearing in the original have been corrected, with the exception of instances where the common spelling of a Victorian word appears to differ from the modern-day equivalent. Examples include chimnies and Shakspeare.
 
 * Body text set in *[Linux Libertine](http://www.linuxlibertine.org)*. Headings and emboldened text set in *[Kameron](https://github.com/vernnobile/kameronFont)* by [Vernon Adams](http://code.newtypography.co.uk).
-* Built with *[Kirby](http://getkirby.com/)*--an extremely flexible and easy-to-use file-based CMS--and hosted by *[WebFaction](https://webfaction.com/?aid=42929)*.
+* Built with *[Kirby](https://getkirby.com/)*--an extremely flexible and easy-to-use file-based CMS--and hosted by *[WebFaction](https://www.webfaction.com/?aid=42929)*.
 * Uses *[Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise)*, a Kirby plugin by [Russ Baldwin](http://shoesforindustry.net).
 
 *[CMS]: Content Management System

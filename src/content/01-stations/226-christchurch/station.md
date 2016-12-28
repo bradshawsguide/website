@@ -10,7 +10,7 @@ company:
 - london-and-south-western
 ----
 route:
-- ringwood-to-christchurch
+- london-to-southampton-dorchester-and-weymouth
 ----
 info:
 - term: Hotel

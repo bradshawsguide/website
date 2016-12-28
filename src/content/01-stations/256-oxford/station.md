@@ -110,7 +110,7 @@ Beaumont Street, near the castle, is so called after a palace built here by Henr
 
 North of the town, a little up the Thames, is Osrey Mill, on the site of an abbey formerly of great note. Not far from this stood Godstow nunnery, where Rosamond Clifford was wooed by Henry II. Fair Rosamond was a nun here, and was buried under the chapter house; her bones were scattered at the Reformation. The well known story of the bower in which she was concealed by Henry from his jealous queen, Eleanor, and the dagger and the cup of poison, is denied by critical historians.
 
-A [short line](/routes/oxford-to-witney) of 11¾ miles turns off to the left, passing the stations of [Yarnton](/stations/yarnton), [Eynsham](/stations/eynsham) and [South Leigh](/stations/south-leigh), to the town of [Witney](/stations/witney), a telegraph station, and celebrated for its manufacture of blankets.
+A [short line](/routes/yarnton-to-witney) of 11¾ miles turns off to the left, passing the stations of [Yarnton](/stations/yarnton), [Eynsham](/stations/eynsham) and [South Leigh](/stations/south-leigh), to the town of [Witney](/stations/witney), a telegraph station, and celebrated for its manufacture of blankets.
 
 ### Objects of Notice near Oxford.
 

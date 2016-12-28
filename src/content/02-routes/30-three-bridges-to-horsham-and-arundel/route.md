@@ -20,4 +20,4 @@ stops:
 ----
 text: This branch is 8½ miles in length. The line proceeds from [Three Bridges](/stations/crawley) in a west-south-west direction to the station at [Crawley](/stations/crawley).
 
-On leaving Horsham we pass the little village of [Billingshurst](/stations/billingshurst), and very soon arrive at [Pulborough](/stations/pulborough), the junction of [a short line](/routes/pulborough-to-petworth) to [Petworth](/stations/petworth).
+On leaving Horsham we pass the little village of [Billingshurst](/stations/billingshurst), and very soon arrive at [Pulborough](/stations/pulborough), the junction of a short line to [Petworth](/stations/petworth).

@@ -1,6 +1,6 @@
 section: 1
 ----
-title: Islington
+title: Islington and Highbury
 ----
 title_later: Highbury & Islington
 ----
