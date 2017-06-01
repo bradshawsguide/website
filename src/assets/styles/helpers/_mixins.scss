@@ -18,9 +18,9 @@
 @mixin l--clearfix {
   &::before,
   &::after {
-  display: table;
-  clear: both;
-  content: "";
+    display: table;
+    clear: both;
+    content: "";
   }
 }
 
@@ -76,14 +76,14 @@
 }
 
 @mixin fs--title {
-  @include fluid('font-size', $v-breakpoint--a, $v-breakpoint--d, 2rem, 4rem);
+  @include fluid("font-size", $v-breakpoint--a, $v-breakpoint--d, 2rem, 4rem);
   letter-spacing: -0.03125rem;
   line-height: 1;
   text-transform: uppercase;
 }
 
 @mixin fs--heading {
-  @include fluid('font-size', $v-breakpoint--a, $v-breakpoint--d, 1.125rem, 1.25rem);
+  @include fluid("font-size", $v-breakpoint--a, $v-breakpoint--d, 1.125rem, 1.25rem);
   font-weight: bold;
   letter-spacing: 0.025rem;
   line-height: 1.25;
@@ -91,16 +91,16 @@
 }
 
 @mixin fs--body {
-  @include fluid('font-size', $v-breakpoint--a, $v-breakpoint--d, 1rem, 1.5rem);
+  @include fluid("font-size", $v-breakpoint--a, $v-breakpoint--d, 1rem, 1.5rem);
   line-height: 1.6;
 }
 
 @mixin fs--info {
-  @include fluid('font-size', $v-breakpoint--a, $v-breakpoint--d, 1rem, 1.125rem);
+  @include fluid("font-size", $v-breakpoint--a, $v-breakpoint--d, 1rem, 1.125rem);
   line-height: 1.25;
 }
 
 @mixin fs--caption {
-  @include fluid('font-size', $v-breakpoint--a, $v-breakpoint--d, 0.75rem, 0.875rem);
+  @include fluid("font-size", $v-breakpoint--a, $v-breakpoint--d, 0.75rem, 0.875rem);
   line-height: 1.4;
 }

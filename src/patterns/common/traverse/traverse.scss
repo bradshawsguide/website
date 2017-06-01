@@ -43,7 +43,7 @@
 
 .c-traverse__link[rel="prev"] {
   &::before {
-    content: '← ';
+    content: "← ";
   }
 
   @media screen and (min-width: $v-breakpoint--d) {
@@ -54,7 +54,7 @@
 
 .c-traverse__link[rel="next"] {
   &::after {
-    content: ' →';
+    content: " →";
   }
 
   @media screen and (min-width: $v-breakpoint--d) {

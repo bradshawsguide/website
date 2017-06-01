@@ -12,13 +12,13 @@
     background-color: $c-neutral--lighter;
     border: 0.25rem solid currentColor;
     border-radius: 100%;
-    content: '';
+    content: "";
   }
 
   li {
     padding-bottom: 0.5rem;
     padding-left: 2.25rem;
-    background-image: url('/assets/vectors/routemap__interchange.svg');
+    background-image: url("/assets/vectors/routemap__interchange.svg");
     background-repeat: no-repeat;
     background-size: 1.75rem 1.25rem;
     background-position-y: -0.125rem;

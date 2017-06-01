@@ -1,23 +1,23 @@
 // Helpers
-@import 'helpers/**/*.scss';
+@import "helpers/**/*.scss";
 
 // Base HTML element resets and styling
 // Based on normalise.css v4.0.0
 // github.com/necolas/normalize.css
-@import 'base/sections';
-@import 'base/grouping';
-@import 'base/text';
-@import 'base/embedded';
-@import 'base/links';
-@import 'base/tables';
-@import 'base/forms';
-@import 'base/interactive';
+@import "base/sections";
+@import "base/grouping";
+@import "base/text";
+@import "base/embedded";
+@import "base/links";
+@import "base/tables";
+@import "base/forms";
+@import "base/interactive";
 
 // Vendor components
-@import 'vendor/**/*.scss';
+@import "vendor/**/*.scss";
 
 // Patterns (components, scopes)
-@import '../../patterns/**/*.scss';
+@import "../../patterns/**/*.scss";
 
 // Utilities
-@import 'utilities/**/*.scss';
+@import "utilities/**/*.scss";

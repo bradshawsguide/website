@@ -18,10 +18,10 @@
   },
   "scripts": {
     "prestart": "npm install",
-    "start": "node_modules/.bin/gulp start",
-    "deploy": "node_modules/.bin/gulp deploy",
-    "dev": "node_modules/.bin/gulp dev",
-    "test": "xo"
+    "start": "gulp start",
+    "deploy": "gulp deploy",
+    "dev": "gulp dev",
+    "test": "xo || stylelint **/*.scss"
   },
   "config": {
     "src": {
@@ -55,6 +55,14 @@
       "unicorn/no-abusive-eslint-disable": "off"
     }
   },
+  "stylelint": {
+    "extends": "stylelint-config-standard",
+    "files": "**/*.scss",
+    "rules": {
+      "declaration-empty-line-before": "never",
+      "string-quotes": "double"
+    }
+  },
   "devDependencies": {
     "autoprefixer": "latest",
     "babel-core": "latest",
@@ -67,6 +75,8 @@
     "gulp-sass": "latest",
     "gulp-sass-glob": "latest",
     "gulp-sourcemaps": "latest",
+    "stylelint": "^7.10.1",
+    "stylelint-config-standard": "^16.0.0",
     "webpack": "^2.1.0-beta",
     "webpack-stream": "^3.2.0",
     "xo": "^0.18.2"

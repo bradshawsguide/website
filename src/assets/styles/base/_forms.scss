@@ -135,7 +135,7 @@ fieldset {
   min-width: 0; // 1
   margin: 0; // 3
   border: 0; // 3
-  padding: 0.01em 0 0 0; // 4
+  padding: 0.01em 0 0; // 4
 
   body:not(:-moz-handler-blocked) & {
     display: table-cell; // 2

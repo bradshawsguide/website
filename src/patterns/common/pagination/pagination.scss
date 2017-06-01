@@ -17,9 +17,9 @@
 }
 
 .c-pagination__link[rel="prev"]::before {
-  content: '← ';
+  content: "← ";
 }
 
 .c-pagination__link[rel="next"]::after {
-  content: ' →';
+  content: " →";
 }
