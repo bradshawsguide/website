@@ -1,12 +1,12 @@
 import FontFaceObserver from 'fontfaceobserver';
 
-export default function() {
-
-  // Constants
+export default function () {
   const docEl = document.documentElement;
 
   // Feature detect
-  if (!('querySelector' in document) || !('addEventListener' in window) || !docEl.classList) return;
+  if (!('querySelector' in document) || !('addEventListener' in window) || !docEl.classList) {
+    return;
+  }
 
   // Setup
   const storageId = 'fonts-loaded';
@@ -31,16 +31,16 @@ export default function() {
   ];
 
   // Events
-  function eventFontsLoaded () {
+  function eventFontsLoaded() {
     docEl.classList.add(classLoaded);
     sessionStorage[storageId] = true;
   }
 
   // Init
-  function init () {
-    Promise.all(fonts).then(eventFontsLoaded).catch(function(rejected){
+  function init() {
+    Promise.all(fonts).then(eventFontsLoaded).catch(rejected => {
       console.log(rejected);
-    });;
+    });
   }
 
   init();

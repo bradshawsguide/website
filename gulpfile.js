@@ -1,7 +1,5 @@
-'use strict';
-
-// Global configuration
-const config = require('./package.json').config;
+// Utils
+const path = require('path');
 
 // Dependancies
 const autoprefixer = require('autoprefixer');
@@ -15,6 +13,9 @@ const sassGlob = require('gulp-sass-glob');
 const sourcemaps = require('gulp-sourcemaps');
 const webpack = require('webpack');
 const webpackStream = require('webpack-stream');
+
+// Global configuration
+const config = require('./package.json').config;
 
 // Tasks
 function clean() {
@@ -50,17 +51,17 @@ function scripts() {
       },
       output: {
         filename: '[name].js',
-        path: __dirname + '/build'
+        path: path.join(__dirname, '/build')
       },
       module: {
         loaders: [{
           test: /\.js$/,
-          loader: "babel-loader",
+          loader: 'babel-loader',
           query: {
             presets: [
-              ["es2015", {
-                "modules": false }
-              ]
+              ['es2015', {
+                modules: false
+              }]
             ]
           }
         }]
@@ -115,7 +116,7 @@ function watch() {
 }
 
 // Task sets
-var compile = gulp.series(clean, gulp.parallel(fonts, icons, images, vectors, scripts, styles));
+const compile = gulp.series(clean, gulp.parallel(fonts, icons, images, vectors, scripts, styles));
 
 gulp.task('default', compile);
 gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));

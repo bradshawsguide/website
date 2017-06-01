@@ -1,4 +1,4 @@
-export default function() {
-  const Turbolinks = require("turbolinks");
-  Turbolinks.start()
+export default function () {
+  const Turbolinks = require('turbolinks');
+  Turbolinks.start();
 }

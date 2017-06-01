@@ -1,6 +1,7 @@
 {
   "name": "bradshawsguide",
   "version": "0.1.0",
+  "private": true,
   "description": "Bradshaw's Guide for Tourists in Great Britain & Ireland",
   "keywords": [
     "railways",
@@ -19,7 +20,8 @@
     "prestart": "npm install",
     "start": "node_modules/.bin/gulp start",
     "deploy": "node_modules/.bin/gulp deploy",
-    "dev": "node_modules/.bin/gulp dev"
+    "dev": "node_modules/.bin/gulp dev",
+    "test": "xo"
   },
   "config": {
     "src": {
@@ -31,11 +33,32 @@
       "path": "./www/"
     }
   },
+  "xo": {
+    "space": true,
+    "envs": "browser",
+    "ignores": [
+      "src/plugins/**",
+      "www/**"
+    ],
+    "rules": {
+      "unicorn/no-new-buffer": "off",
+      "unicorn/filename-case": "off",
+      "unicorn/custom-error-definition": "off",
+      "unicorn/no-array-instanceof": "off",
+      "unicorn/catch-error-name": "off",
+      "unicorn/no-process-exit": "off",
+      "unicorn/throw-new-error": "off",
+      "unicorn/number-literal-case": "off",
+      "unicorn/prefer-starts-ends-with": "off",
+      "unicorn/prefer-type-error": "off",
+      "unicorn/explicit-length-check": "off",
+      "unicorn/no-abusive-eslint-disable": "off"
+    }
+  },
   "devDependencies": {
     "autoprefixer": "latest",
     "babel-core": "latest",
     "babel-loader": "latest",
-    "babel-preset-es2015-webpack": "latest",
     "browser-sync": "latest",
     "del": "latest",
     "gulp": "gulpjs/gulp#4.0",
@@ -45,9 +68,9 @@
     "gulp-sass-glob": "latest",
     "gulp-sourcemaps": "latest",
     "webpack": "^2.1.0-beta",
-    "webpack-stream": "^3.2.0"
+    "webpack-stream": "^3.2.0",
+    "xo": "^0.18.2"
   },
-  "private": true,
   "dependencies": {
     "fontfaceobserver": "latest",
     "leaflet": "^1.0.2",

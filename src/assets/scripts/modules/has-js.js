@@ -1,7 +1,4 @@
-export default function() {
-  // Constants
+export default function () {
   const docEl = document.documentElement;
-
-  // Replace class
   docEl.className = docEl.className.replace('no-js', 'has-js');
 }

@@ -1,13 +1,13 @@
-export default function() {
+export default function () {
+  const $ = document.querySelector.bind(document);
 
   // Feature detect
-  if (!('querySelector' in document) || !('geolocation' in navigator)) return;
+  if (!('querySelector' in document) || !('geolocation' in navigator)) {
+    return;
+  }
 
-  const $ = document.querySelector.bind(document);
-  const $$ = document.querySelectorAll.bind(document);
   const container = $('.c-navigation__list');
-
-  const geo = function(el) {
+  const geo = function (el) {
     const template = $('.c-geo');
     const clone = document.importNode(template.content, true);
 
@@ -21,24 +21,24 @@ export default function() {
     };
 
     // Geo location provided and successful
-    const geoSuccess = function(position) {
+    const geoSuccess = function (position) {
       const lat = position.coords.latitude.toFixed(4);
       const lng = position.coords.longitude.toFixed(4);
 
       button.disabled = false;
-      button.addEventListener('click', function(e) {
+      button.addEventListener('click', () => {
         window.location.href = '/search?g=' + lat + ',' + lng;
       });
     };
 
     // Geo location not provided or unsuccessful
-    const geoFail = function() {
+    const geoFail = function () {
       button.classList.add('has-failed');
     };
 
     // Request current position
     navigator.geolocation.getCurrentPosition(geoSuccess, geoFail, geoOptions);
-  }
+  };
 
   geo(container);
 }
