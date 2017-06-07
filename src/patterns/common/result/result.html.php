@@ -1,4 +1,3 @@
-<? foreach($results as $result): ?>
 <article class="c-result">
   <a class="u-block" href="<?= $result->url() ?>">
     <h2 class="c-result__title">
@@ -10,7 +9,6 @@
     <div class="c-result__desc">
       <p><?= excerpt($result->text(), $length=240); ?></p>
     </div>
-    <p class="c-result__url"><?= server::get('server_name'); ?><?= $result->url() ?></p>
+    <p class="c-result__url"><?= $result->url() ?></p>
   </a>
 </article>
-<? endforeach ?>

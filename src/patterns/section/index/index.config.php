@@ -2,6 +2,6 @@
 
 return [
   'defaults' => [
-    'index' => page('stations')->children()
+    'items' => page('stations')->children()
   ]
 ];

@@ -7,7 +7,9 @@
 <div class="c-page__content">
 <?
   if($results && $results->count()) {
-    pattern('common/results');
+    foreach($results as $result) {
+      pattern('common/result');
+    }
 
     pattern('common/pagination', [
       'pagination' => $results->pagination()
