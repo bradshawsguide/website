@@ -1,5 +1,5 @@
 .c-pagination {
-  @include fs--caption;
+  @include typeset("caption");
   display: flex;
   padding: units(1) 0;
 }

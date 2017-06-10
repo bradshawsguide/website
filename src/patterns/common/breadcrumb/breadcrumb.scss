@@ -1,9 +1,9 @@
 .c-breadcrumb {
-  @include fs--caption;
-  border-bottom: 1px solid $c-neutral--mid;
-  color: $c-neutral--dark;
-  margin-bottom: 0.5rem;
-  padding-bottom: 0.5rem;
+  @include typeset("label");
+  border-bottom: $__border-width-thin solid $__color-neutral-alpha;
+  color: $__color-neutral-dark;
+  margin-bottom: $__space-xsmall;
+  padding-bottom: $__space-xsmall;
 }
 
 .c-breadcrumb__items {

@@ -17,8 +17,8 @@ html {
 }
 
 ::selection {
-  background-color: $c-highlight;
-  text-shadow: 0 0 $c-highlight;
+  background-color: $__color-highlight;
+  text-shadow: 0 0 $__color-highlight;
 }
 
 body {
@@ -26,9 +26,9 @@ body {
   flex-direction: column;
   height: 100%;
   margin: 0 auto;
-  background-color: $c-neutral--lightest;
-  font-family: $f-sans;
-  color: $c-neutral--darkest;
+  background-color: $__color-neutral-lightest;
+  font-family: $__font-family-sans;
+  color: $__color-neutral-darkest;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 

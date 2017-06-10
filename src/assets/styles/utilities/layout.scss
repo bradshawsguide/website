@@ -2,12 +2,12 @@
   margin-right: -0.5rem;
   margin-left: -0.5rem;
 
-  @media screen and (min-width: $v-breakpoint--b) {
+  @media screen and (min-width: $__breakpoint-small) {
     margin-right: -1rem;
     margin-left: -1rem;
   }
 
-  @media screen and (min-width: $v-breakpoint--c) {
+  @media screen and (min-width: $__breakpoint-medium) {
     width: 18em;
     float: right;
     margin-left: 1.5rem;

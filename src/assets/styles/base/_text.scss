@@ -3,6 +3,26 @@
 // w3c.github.io/html/textlevel-semantics.html
 // ========================================================
 
+// Remove grey background on active links in IE 10.
+a {
+  background-color: transparent;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  color: $__color-link;
+}
+
+// Remove the outline on focused links when they are also active or hovered
+// in all browsers (opinionated).
+a:active,
+a:hover {
+  outline-width: 0;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: $__color-link-hover;
+}
+
 // Add the correct font size in all browsers.
 small {
   font-size: 100%;
@@ -27,7 +47,7 @@ abbr[title] {
 code,
 kbd,
 samp {
-  font-family: $f-mono; // 1
+  font-family: $__font-family-mono; // 1
   font-size: 1em; // 2
 }
 

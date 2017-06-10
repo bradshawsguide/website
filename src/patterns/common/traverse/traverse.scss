@@ -1,5 +1,5 @@
 .c-traverse {
-  @include fs--caption;
+  @include typeset("label");
   display: flex;
   padding: units(1) 0;
 }
@@ -10,19 +10,19 @@
   &:last-of-type {
     margin-left: 1rem;
 
-    @media screen and (min-width: $v-breakpoint--d) {
+    @media screen and (min-width: $__breakpoint-large) {
       margin-left: 0;
     }
   }
 
-  @media screen and (min-width: $v-breakpoint--d) {
+  @media screen and (min-width: $__breakpoint-large) {
     position: fixed;
     z-index: 99;
     top: 50%;
     bottom: 50%;
     margin-top: -1.25rem;
     padding: 1.5em 1em;
-    background-color: rgba($c-neutral--darkest, 0.2);
+    background-color: $__color-neutral-alpha;
     line-height: 0.1;
     color: white !important;
 
@@ -32,7 +32,7 @@
   }
 
   &:hover {
-    background-color: rgba($c-neutral--darkest, 0.8);
+    background-color: rgba($__color-neutral-darkest, 0.8);
     text-decoration: none;
 
     span {
@@ -46,7 +46,7 @@
     content: "← ";
   }
 
-  @media screen and (min-width: $v-breakpoint--d) {
+  @media screen and (min-width: $__breakpoint-large) {
     left: 0;
     border-radius: 0 1.5em 1.5em 0;
   }
@@ -57,7 +57,7 @@
     content: " →";
   }
 
-  @media screen and (min-width: $v-breakpoint--d) {
+  @media screen and (min-width: $__breakpoint-large) {
     right: 0;
     border-radius: 1.5em 0 0 1.5em;
   }

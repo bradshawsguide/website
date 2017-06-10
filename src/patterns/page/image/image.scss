@@ -1,14 +1,16 @@
 .c-image {
-  margin-bottom: 2rem;
+  margin-bottom: $__space-medium;
 }
 
 .c-image__img {
   display: block;
   height: auto;
   max-width: 100%;
-  margin-bottom: 0.5rem;
+  margin-bottom: $__space-xsmall;
 }
 
 .c-image__caption {
-  @include fs--caption;
+  @include typeset("caption");
+  padding-bottom: $__space-medium;
+  border-bottom: $__rule;
 }

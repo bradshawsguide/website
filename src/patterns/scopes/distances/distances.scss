@@ -1,6 +1,4 @@
 .s-distances {
-  @include fs--info;
-  font-family: $f-serif;
   padding-right: 2vw;
   padding-left: 2vw;
 
@@ -37,14 +35,14 @@
       text-align: right;
       display: block;
 
-      @media screen and (min-width: $v-breakpoint--c) {
+      @media screen and (min-width: $__breakpoint-medium) {
         display: block;
         position: relative;
         padding: 0;
       }
 
       &::after {
-        @media screen and (min-width: $v-breakpoint--c) {
+        @media screen and (min-width: $__breakpoint-medium) {
           content: "Miles.";
           position: absolute;
           left: 0;
@@ -60,54 +58,54 @@
     word-spacing: -0.025em;
     text-shadow:
       // x
-      0.03em 0 $c-neutral--lightest,
-      -0.03em 0 $c-neutral--lightest,
-      0.06em 0 $c-neutral--lightest,
-      -0.06em 0 $c-neutral--lightest,
-      0.09em 0 $c-neutral--lightest,
-      -0.09em 0 $c-neutral--lightest,
-      0.12em 0 $c-neutral--lightest,
-      -0.12em 0 $c-neutral--lightest,
-      0.15em 0 $c-neutral--lightest,
-      -0.15em 0 $c-neutral--lightest,
-      0.18em 0 $c-neutral--lightest,
-      -0.18em 0 $c-neutral--lightest,
-      0.21em 0 $c-neutral--lightest,
-      -0.21em 0 $c-neutral--lightest,
-      0.24em 0 $c-neutral--lightest,
-      -0.24em 0 $c-neutral--lightest,
-      0.27em 0 $c-neutral--lightest,
-      -0.27em 0 $c-neutral--lightest,
-      0.3em 0 $c-neutral--lightest,
-      -0.3em 0 $c-neutral--lightest,
+      0.03em 0 $__color-neutral-lightest,
+      -0.03em 0 $__color-neutral-lightest,
+      0.06em 0 $__color-neutral-lightest,
+      -0.06em 0 $__color-neutral-lightest,
+      0.09em 0 $__color-neutral-lightest,
+      -0.09em 0 $__color-neutral-lightest,
+      0.12em 0 $__color-neutral-lightest,
+      -0.12em 0 $__color-neutral-lightest,
+      0.15em 0 $__color-neutral-lightest,
+      -0.15em 0 $__color-neutral-lightest,
+      0.18em 0 $__color-neutral-lightest,
+      -0.18em 0 $__color-neutral-lightest,
+      0.21em 0 $__color-neutral-lightest,
+      -0.21em 0 $__color-neutral-lightest,
+      0.24em 0 $__color-neutral-lightest,
+      -0.24em 0 $__color-neutral-lightest,
+      0.27em 0 $__color-neutral-lightest,
+      -0.27em 0 $__color-neutral-lightest,
+      0.3em 0 $__color-neutral-lightest,
+      -0.3em 0 $__color-neutral-lightest,
       // y
-      0 0.03em $c-neutral--lightest,
-      0 -0.03em $c-neutral--lightest,
-      0 0.06em $c-neutral--lightest,
-      0 -0.06em $c-neutral--lightest,
-      0 0.09em $c-neutral--lightest,
-      0 -0.09em $c-neutral--lightest,
-      0 0.12em $c-neutral--lightest,
-      0 -0.12em $c-neutral--lightest,
-      0 0.15em $c-neutral--lightest,
-      0 -0.15em $c-neutral--lightest,
-      0 0.18em $c-neutral--lightest,
-      0 -0.18em $c-neutral--lightest,
-      0 0.21em $c-neutral--lightest,
-      0 -0.21em $c-neutral--lightest,
-      0 0.24em $c-neutral--lightest,
-      0 -0.24em $c-neutral--lightest,
-      0 0.27em $c-neutral--lightest,
-      0 -0.27em $c-neutral--lightest,
-      0 0.3em $c-neutral--lightest,
-      0 -0.3em $c-neutral--lightest;
+      0 0.03em $__color-neutral-lightest,
+      0 -0.03em $__color-neutral-lightest,
+      0 0.06em $__color-neutral-lightest,
+      0 -0.06em $__color-neutral-lightest,
+      0 0.09em $__color-neutral-lightest,
+      0 -0.09em $__color-neutral-lightest,
+      0 0.12em $__color-neutral-lightest,
+      0 -0.12em $__color-neutral-lightest,
+      0 0.15em $__color-neutral-lightest,
+      0 -0.15em $__color-neutral-lightest,
+      0 0.18em $__color-neutral-lightest,
+      0 -0.18em $__color-neutral-lightest,
+      0 0.21em $__color-neutral-lightest,
+      0 -0.21em $__color-neutral-lightest,
+      0 0.24em $__color-neutral-lightest,
+      0 -0.24em $__color-neutral-lightest,
+      0 0.27em $__color-neutral-lightest,
+      0 -0.27em $__color-neutral-lightest,
+      0 0.3em $__color-neutral-lightest,
+      0 -0.3em $__color-neutral-lightest;
 
-    @media screen and (min-width: $v-breakpoint--c) {
+    @media screen and (min-width: $__breakpoint-medium) {
       display: block;
       columns: 2;
       column-fill: balance;
       column-gap: 1.5rem;
-      column-rule: 3px double $c-neutral--mid;
+      column-rule: 3px double $__color-neutral-mid;
     }
 
     em {

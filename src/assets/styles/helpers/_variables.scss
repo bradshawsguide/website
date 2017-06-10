@@ -2,41 +2,87 @@
 // Global Variables
 // ========================================================
 
-// Values
-$v-max-width: 80rem; // 1280px
-$v-unit: 0.75rem; // 12px
-$v-text-indent: 1.125em; // 18px
-
-$v-breakpoint--a: 20rem; // 320px
-$v-breakpoint--b: 30rem; // 480px
-$v-breakpoint--c: 40rem; // 640px
-$v-breakpoint--d: 60rem; // 960px
-$v-breakpoint--e: $v-max-width;
-
 // Colours
-$c-brand-crimson: hsb(00, 80, 053);
-$c-brand-mustard: hsb(24, 80, 100);
+$__color-crimson: hsb(00, 80, 053);
+$__color-mustard: hsb(24, 80, 100);
 
-$c-neutral--darkest: hsb(24, 40, 21);
-$c-neutral--dark: hsb(24, 40, 28);
-$c-neutral--mid: hsb(24, 05, 49);
-$c-neutral--light: hsb(24, 03, 84);
-$c-neutral--lighter: hsb(24, 02, 91);
-$c-neutral--lightest: hsb(24, 01, 98);
+$__color-neutral-darkest: hsb(24, 40, 21);
+$__color-neutral-dark: hsb(24, 40, 28);
+$__color-neutral-mid: hsb(24, 05, 49);
+$__color-neutral-light: hsb(24, 03, 84);
+$__color-neutral-lighter: hsb(24, 02, 91);
+$__color-neutral-lightest: hsb(24, 01, 98);
+$__color-neutral-alpha: rgba($__color-neutral-dark, 0.25);
 
-// Colour assignments
-$c-focus: $c-brand-mustard;
-$c-highlight: rgba($c-brand-mustard, 0.2);
+$__color-focus: $__color-mustard;
+$__color-highlight: rgba($__color-mustard, 0.2);
 
-$c-link: $c-brand-crimson;
-$c-link--hover: lighten($c-brand-crimson, 20%);
-$c-link--active: darken($c-brand-mustard, 10%);
+$__color-link: $__color-crimson;
+$__color-link-hover: lighten($__color-crimson, 20%);
+$__color-link-active: darken($__color-mustard, 10%);
 
-$c-rule: rgba($c-neutral--dark, 0.2);
+// Font families
+$__font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+$__font-family-serif: "Linux Libertine", "Hoefler Text", "Times New Roman", serif;
+$__font-family-slab: "Kameron", serif;
+$__font-family-block: "League Gothic", "Avenir Next Condensed", serif;
+$__font-family-mono: monospace, monospace;
 
-// Fonts
-$f-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-$f-serif: "Linux Libertine", "Hoefler Text", "Times New Roman", serif;
-$f-slab: "Kameron", serif;
-$f-block: "League Gothic", "Avenir Next Condensed", serif;
-$f-mono: monospace, monospace;
+// Font sizes
+$__font-size-text-xsmall: 12px;
+$__font-size-text-small: 14px;
+$__font-size-text-medium: 16px;
+$__font-size-text-large: 18px;
+$__font-size-text-xlarge: 20px;
+
+$__font-size-display-small: 20px;
+$__font-size-display-medium: 40px;
+$__font-size-display-large: 56px;
+
+$__font-size-poster-small: 80px;
+$__font-size-poster-medium: 96px;
+$__font-size-poster-large: 112px;
+
+// Line heights
+$__line-height-reset: 1;
+$__line-height-baseline: 1rem;
+$__line-height-default: 1.25;
+$__line-height-loose: 1.3334;
+$__line-height-relaxed: 1.5;
+
+// Borders
+$__border-width-thin: rem(1px);
+$__border-width-thick: rem(2px);
+
+// Values
+$__max-width: 1280px;
+$__text-indent: rem(18px);
+
+// Breakpoints
+$__breakpoint-xsmall: 320px;
+$__breakpoint-small: 480px;
+$__breakpoint-medium: 640px;
+$__breakpoint-large: 960px;
+$__breakpoint-xlarge: $__max-width;
+
+// Sizing
+$__size-icon: rem(20px);
+
+// Spacing
+$__space-xxsmall: rem(4px);
+$__space-xsmall: rem(8px);
+$__space-small: rem(12px);
+$__space-medium: rem(16px);
+$__space-large: rem(24px);
+$__space-xlarge: rem(48px);
+$__space-xxlarge: rem(96px);
+
+// Z-indices
+$__z-index-underlay: -1;
+$__z-index-default: 1;
+$__z-index-overlay: 1000;
+$__z-index-backdrop: 8000;
+$__z-index-modal: 9000;
+
+// Rules
+$__rule: $__border-width-thin solid $__color-neutral-alpha;

@@ -1,33 +1,25 @@
 .c-result {
-  border-bottom: 1px solid $c-rule;
+  border-bottom: 1px solid $__color-neutral-alpha;
 }
 
 .c-result__title {
-  @include fs--heading;
-  font-family: $f-slab;
+  @include typeset("heading");
   padding-top: units(2);
 }
 
 .c-result__type {
-  @include fs--caption;
-  font-family: $f-sans;
+  @include typeset("caption");
   margin-left: 0.25rem;
-  font-style: normal;
-  font-weight: normal;
-  text-transform: capitalize;
-  letter-spacing: 0;
-  color: $c-neutral--mid;
+  color: $__color-neutral-mid;
 }
 
 .c-result__desc {
-  @include fs--info;
-  font-family: $f-serif;
   max-width: 36em;
   margin-bottom: 0.75rem;
-  color: $c-neutral--darkest;
+  color: $__color-neutral-darkest;
 }
 
 .c-result__url {
-  @include fs--caption;
+  @include typeset("caption");
   padding-bottom: units(2);
 }

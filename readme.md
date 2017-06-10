@@ -25,14 +25,14 @@ To run with HTTPS locally on macOS, you should follow the setup [as described he
     x509_extensions = v3_req
     prompt = no
     [req_distinguished_name]
-    CN = *.bradshawsguide.dev
+    CN = *.bradshaws.dev
     [v3_req]
     keyUsage = keyEncipherment, dataEncipherment
     extendedKeyUsage = serverAuth
     subjectAltName = @alt_names
     [alt_names]
-    DNS.1 = *.bradshawsguide.dev
-    DNS.2 = bradshawsguide.dev
+    DNS.1 = *.bradshaws.dev
+    DNS.2 = bradshaws.dev
   EOF
   ```
 

@@ -16,12 +16,22 @@
   }
 }
 
-// Convert units
-@function units($units) {
-  @return ($units * $v-unit);
+// Returns $value as a unitless number
+//
+// e.g. strip-unit(10px) => 10
+@function strip-unit($number) {
+  @if type-of($number) == "number" and not unitless($number) {
+    @return $number / ($number * 0 + 1);
+  }
+
+  @return $number;
 }
 
-// Parse integer
-@function parse-int($value) {
-  @return $value / ($value * 0 + 1);
+// Returns a $pixel value in rems
+//
+// e.g. pxem(10px) => 0.625rem
+@function rem($pixels) {
+  $size: $pixels / 16px;
+
+  @return #{$size}rem;
 }

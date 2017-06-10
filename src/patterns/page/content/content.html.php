@@ -5,6 +5,8 @@
         pattern('scopes/info', ['p' => $p]);
       }
 
+      pattern('common/navigation', ['p' => $p]);
+
       if(isset($images) && $images != false) {
         if($p->hasImages()) {
           pattern('page/image', ['p' => $p]);

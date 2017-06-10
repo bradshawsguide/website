@@ -2,16 +2,16 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding-top: 0.75rem;
-  padding-bottom: 1.5rem;
+  padding-top: $__space-small;
+  padding-bottom: $__space-large;
 
-  @media screen and (min-width: $v-breakpoint--b) {
-    padding-top: 1.5rem;
-    padding-bottom: 3rem;
+  @media screen and (min-width: $__breakpoint-small) {
+    padding-top: $__space-large;
+    padding-bottom: $__space-xlarge;
   }
 
-  @media screen and (min-width: $v-breakpoint--d) {
-    padding-top: 3rem;
+  @media screen and (min-width: $__breakpoint-large) {
+    padding-top: $__space-xlarge;
 
     .c-page--has-poster & {
       position: absolute;
@@ -23,9 +23,7 @@
 }
 
 .c-page__title {
-  @include fs--title;
-  font-family: $f-block;
-  color: $c-neutral--dark;
+  @include typeset("display1");
 
   span {
     font-size: 75%;
@@ -33,13 +31,9 @@
 }
 
 .c-page__parent {
-  @include fs--info;
-  font-family: $f-serif;
   font-style: italic;
 }
 
 .c-page__subtitle {
-  @include fs--info;
-  font-family: $f-slab;
-  color: $c-neutral--dark;
+  color: $__color-neutral-dark;
 }

@@ -2,7 +2,6 @@ export default function () {
   const $ = document.querySelector.bind(document);
   const title = $('.c-page__title');
   const prose = $('.c-page__content .s-prose p:first-of-type');
-  const placename = title.textContent.replace(/\s+/g, '');
 
   // http://stackoverflow.com/a/29301739
   // TODO: Only replace within first sentence
@@ -45,7 +44,9 @@ export default function () {
     return node;
   };
 
-  if (prose !== null) {
+  if (prose) {
+    const placename = title.textContent.replace(/\s+/g, '');
+
     matchText(prose, new RegExp('\\b' + placename + '\\b'), (node, match) => {
       const span = document.createElement('span');
       span.className = 'u-smcp';

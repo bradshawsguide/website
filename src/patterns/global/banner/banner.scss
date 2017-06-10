@@ -1,8 +1,8 @@
 .c-banner {
-  background-color: $c-neutral--darkest;
-  color: $c-brand-mustard;
+  background-color: $__color-neutral-darkest;
+  color: $__color-mustard;
   flex: 0 0 auto;
-  font: 2rem/1 $f-block;
+  font: 2rem/1 $__font-family-block;
   order: -1;
   padding-top: 1.25rem;
   padding-bottom: 0.25rem;
@@ -14,7 +14,7 @@
 }
 
 .c-banner__title {
-  color: $c-brand-mustard;
+  color: $__color-mustard;
   opacity: 0.9;
 
   &:hover {

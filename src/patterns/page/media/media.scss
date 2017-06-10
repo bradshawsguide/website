@@ -1,7 +1,7 @@
 .c-page__media {
   margin-bottom: 1.5rem;
 
-  @media screen and (min-width: $v-breakpoint--c) {
+  @media screen and (min-width: $__breakpoint-medium) {
     margin-bottom: 3rem;
   }
 
@@ -18,7 +18,7 @@
   }
 
   .c-poster__caption {
-    @include fs--caption;
+    @include typeset("caption");
     @include l--container;
   }
 }

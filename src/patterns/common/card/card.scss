@@ -1,0 +1,33 @@
+.c-card {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  max-width: 14rem;
+  outline: 1px solid rgba(54, 42, 35, 0.1);
+  box-shadow: 0 0 12px 0 rgba(51, 34, 26, 0.1);
+}
+
+.c-card__header {
+  padding: $__space-xsmall;
+}
+
+.c-card__parent {
+  @include typeset("text");
+  font-style: italic;
+  color: $__color-link;
+}
+
+.c-card__title {
+  @include typeset("display3");
+}
+
+.c-card__main {
+  @include typeset("text");
+  padding: $__space-xsmall;
+}
+
+.c-card__img {
+  order: -1;
+  height: auto;
+  width: 100%;
+}

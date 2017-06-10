@@ -29,12 +29,12 @@
   margin-right: 1rem;
   margin-left: 1rem;
 
-  @media screen and (min-width: $v-breakpoint--b) {
+  @media screen and (min-width: $__breakpoint-small) {
     margin-right: 2rem;
     margin-left: 2rem;
   }
 
-  @media screen and (min-width: $v-breakpoint--d) {
+  @media screen and (min-width: $__breakpoint-large) {
     margin-right: 15vw;
     margin-left: 15vw;
   }
@@ -44,63 +44,164 @@
   margin-right: -1rem;
   margin-left: -1rem;
 
-  @media screen and (min-width: $v-breakpoint--b) {
+  @media screen and (min-width: $__breakpoint-small) {
     margin-right: -2rem;
     margin-left: -2rem;
   }
 
-  @media screen and (min-width: $v-breakpoint--d) {
+  @media screen and (min-width: $__breakpoint-large) {
     max-width: 100vw;
     margin-right: -15vw;
     margin-left: -15vw;
   }
 }
 
-// Fluid typography
-@mixin fluid($property, $min-vw, $max-vw, $min-value, $max-value) {
-  #{$property}: $min-value;
+// Fluid typography increases its size based on viewport
+// https://css-tricks.com/snippets/css/fluid-typography/
+@mixin fluid-type($min-vw, $max-vw, $min-font-size, $max-font-size) {
+  $u1: unit($min-vw);
+  $u2: unit($max-vw);
+  $u3: unit($min-font-size);
+  $u4: unit($max-font-size);
 
-  @media screen and (min-width: $min-vw) {
-    #{$property}: calc(#{$min-value} + #{parse-int($max-value - $min-value)} * (100vw - #{$min-vw}) / #{parse-int($max-vw - $min-vw)});
+  @if $u1 == $u2 and $u1 == $u3 and $u1 == $u4 {
+    & {
+      font-size: $min-font-size;
+
+      @media screen and (min-width: $min-vw) {
+        font-size: calc(#{$min-font-size} + #{strip-unit($max-font-size - $min-font-size)} * ((100vw - #{$min-vw}) / #{strip-unit($max-vw - $min-vw)}));
+      }
+
+      @media screen and (min-width: $max-vw) {
+        font-size: $max-font-size;
+      }
+    }
+  }
+}
+
+// Typeset
+@mixin typeset($preset, $line-height: null, $font-weight: null) {
+  @if $preset == "label" {
+    font-family: $__font-family-sans;
+    font-size: $__font-size-text-small;
+    font-weight: if($font-weight, $font-weight, normal);
+    font-variant: proportional-nums;
+    line-height: if($line-height, $line-height, $__line-height-baseline);
   }
 
-  @media screen and (min-width: $max-vw) {
-    #{$property}: $max-value;
+  @else if $preset == "caption" {
+    font-family: $__font-family-sans;
+    font-size: $__font-size-text-xsmall;
+    font-variant: common-ligatures oldstyle-nums;
+    line-height: if($line-height, $line-height, $__line-height-default);
+    hanging-punctuation: first;
+    hyphens: auto;
   }
-}
 
-// Font metrics
-@mixin fs--system-menu {
-  font-size: 1rem;
-  line-height: (20 / 16);
-}
+  @else if $preset == "prose" {
+    @include fluid-type(
+      $__breakpoint-xsmall,
+      $__breakpoint-large,
+      $__font-size-text-medium,
+      $__font-size-text-xlarge
+    );
+    font-family: $__font-family-serif;
+    font-variant: common-ligatures oldstyle-nums;
+    line-height: if($line-height, $line-height, $__line-height-loose);
+    hanging-punctuation: first;
+    hyphens: auto;
+  }
 
-@mixin fs--title {
-  @include fluid("font-size", $v-breakpoint--a, $v-breakpoint--d, 2rem, 4rem);
-  letter-spacing: -0.03125rem;
-  line-height: 1;
-  text-transform: uppercase;
-}
+  @else if $preset == "text" {
+    @include fluid-type(
+      $__breakpoint-xsmall,
+      $__breakpoint-medium,
+      $__font-size-text-xsmall,
+      $__font-size-text-small
+    );
+    font-family: $__font-family-serif;
+    font-variant: common-ligatures oldstyle-nums;
+    line-height: if($line-height, $line-height, $__line-height-loose);
+    hanging-punctuation: first;
+    hyphens: auto;
+  }
 
-@mixin fs--heading {
-  @include fluid("font-size", $v-breakpoint--a, $v-breakpoint--d, 1.125rem, 1.25rem);
-  font-weight: bold;
-  letter-spacing: 0.025rem;
-  line-height: 1.25;
-  text-transform: uppercase;
-}
+  @else if $preset == "title" {
+    @include fluid-type(
+      $__breakpoint-xsmall,
+      $__breakpoint-medium,
+      $__font-size-display-small,
+      $__font-size-display-large
+    );
+    font-family: $__font-family-slab;
+    font-weight: bold;
+    font-variant: common-ligatures discretionary-ligatures proportional-nums;
+    line-height: if($line-height, $line-height, $__line-height-default);
+    text-rendering: optimizeLegibility;
+  }
 
-@mixin fs--body {
-  @include fluid("font-size", $v-breakpoint--a, $v-breakpoint--d, 1rem, 1.5rem);
-  line-height: 1.6;
-}
+  @else if $preset == "heading" {
+    font-family: $__font-family-slab;
+    font-size: $__font-size-display-small;
+    font-weight: bold;
+    font-variant: common-ligatures discretionary-ligatures proportional-nums;
+    line-height: if($line-height, $line-height, $__line-height-default);
+    text-rendering: optimizeLegibility;
+  }
 
-@mixin fs--info {
-  @include fluid("font-size", $v-breakpoint--a, $v-breakpoint--d, 1rem, 1.125rem);
-  line-height: 1.25;
-}
+  @else if $preset == "display1" {
+    @include fluid-type(
+      $__breakpoint-xsmall,
+      $__breakpoint-medium,
+      $__font-size-display-medium,
+      $__font-size-display-large
+    );
+    font-family: $__font-family-block;
+    line-height: if($line-height, $line-height, $__line-height-reset);
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+  }
 
-@mixin fs--caption {
-  @include fluid("font-size", $v-breakpoint--a, $v-breakpoint--d, 0.75rem, 0.875rem);
-  line-height: 1.4;
+  @else if $preset == "display2" {
+    @include fluid-type(
+      $__breakpoint-xsmall,
+      $__breakpoint-medium,
+      $__font-size-display-small,
+      $__font-size-display-medium
+    );
+    font-family: $__font-family-block;
+    line-height: if($line-height, $line-height, $__line-height-reset);
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+  }
+
+  @else if $preset == "display3" {
+    @include fluid-type(
+      $__breakpoint-xsmall,
+      $__breakpoint-medium,
+      $__font-size-text-large,
+      $__font-size-display-small
+    );
+    font-family: $__font-family-block;
+    line-height: if($line-height, $line-height, $__line-height-reset);
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+  }
+
+  @else if $preset == "poster" {
+    @include fluid-type(
+      $__breakpoint-xsmall,
+      $__breakpoint-medium,
+      $__font-size-display-large,
+      $__font-size-poster-small
+    );
+    font-family: $__font-family-block;
+    line-height: if($line-height, $line-height, $__line-height-reset);
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+  }
+
+  @else {
+    @warn "The preset '#{$preset}' is not recognised";
+  }
 }

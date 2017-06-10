@@ -4,8 +4,6 @@
 <?
   pattern('page/header', ['p' => $page]);
 
-  pattern('page/navigation', ['p' => $page]);
-
   pattern('page/content', ['p' => $page]);
 
   pattern('section/related');

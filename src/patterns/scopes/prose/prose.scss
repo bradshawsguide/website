@@ -1,8 +1,6 @@
 .s-prose {
-  @include fs--body;
-  font-family: $f-serif;
-  font-variant-numeric: oldstyle-nums;
-  max-width: 32em;
+  @include typeset("prose");
+  max-width: 70ch;
 
   > * {
     margin-bottom: 1.5em;
@@ -11,10 +9,8 @@
   h2,
   summary,
   caption {
-    @include fs--heading;
-    font-family: $f-slab;
+    @include typeset("heading");
     margin-bottom: 0.25em;
-    font-variant-ligatures: discretionary-ligatures;
   }
 
   * + h2,
@@ -29,7 +25,7 @@
   }
 
   h3 {
-    @include fs--body;
+    @include typeset("prose");
     margin-top: 1.5rem;
     margin-bottom: 0.5rem;
     font-variant-caps: small-caps;
@@ -38,14 +34,14 @@
 
   a {
     text-decoration: underline;
-    text-decoration-color: rgba($c-link, 0.33);
+    text-decoration-color: rgba($__color-link, 0.33);
 
     &:hover {
-      text-decoration-color: rgba($c-link--hover, 0.5);
+      text-decoration-color: rgba($__color-link-hover, 0.5);
     }
 
     &:active {
-      text-decoration-color: rgba($c-link--active, 0.5);
+      text-decoration-color: rgba($__color-link-active, 0.5);
     }
 
     &[href^="/stations/"] {
@@ -86,7 +82,7 @@
   }
 
   strong {
-    font-family: $f-slab;
+    font-family: $__font-family-slab;
   }
 
   p {
@@ -95,8 +91,8 @@
   }
 
   ul li {
-    margin-left: $v-text-indent;
-    text-indent: ($v-text-indent * -1);
+    margin-left: $__text-indent;
+    text-indent: (#{$__text-indent} * -1);
   }
 
   p + blockquote {
@@ -170,7 +166,7 @@
   }
 
   dd:not([class]) {
-    margin-left: $v-text-indent;
+    margin-left: $__text-indent;
   }
 
   small {
@@ -182,7 +178,6 @@
   }
 
   .footnotes {
-    @include fs--caption;
-    font-family: $f-sans;
+    @include typeset("caption");
   }
 }

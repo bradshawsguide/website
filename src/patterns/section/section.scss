@@ -1,16 +1,16 @@
 .c-section {
   margin-bottom: 3rem;
   padding-top: 0.5rem;
-  border-top: 1px solid $c-rule;
+  border-top: 1px solid $__color-neutral-alpha;
 }
 
 .c-section--index {
   display: flex;
 
   .c-section__title {
+    @include typeset("display2");
     flex: 0 0 auto;
     padding-right: 1rem;
-    font: 2.5rem/1 $f-block;
   }
 
   .c-list {
@@ -36,10 +36,9 @@
 }
 
 .c-section__title {
-  @include fs--heading;
-  font-family: $f-slab;
+  @include typeset("heading");
   margin-bottom: 0.5rem;
-  color: $c-neutral--dark;
+  color: $__color-neutral-dark;
 
   a {
     color: inherit;

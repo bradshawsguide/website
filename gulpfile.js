@@ -101,7 +101,7 @@ function styles() {
 function sync() {
   browserSync.init({
     files: ['src/**/*.php', 'src/**/*.md'],
-    proxy: 'https://bradshawsguide.dev',
+    proxy: 'https://bradshaws.dev',
     open: false
   });
 }

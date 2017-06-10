@@ -7,6 +7,7 @@ export default function () {
   }
 
   const container = $('.c-navigation__list');
+
   const geo = function (el) {
     const template = $('.c-geo');
     const clone = document.importNode(template.content, true);
@@ -40,5 +41,7 @@ export default function () {
     navigator.geolocation.getCurrentPosition(geoSuccess, geoFail, geoOptions);
   };
 
-  geo(container);
+  if (container) {
+    geo(container);
+  }
 }

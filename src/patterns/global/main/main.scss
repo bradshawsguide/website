@@ -4,14 +4,14 @@
   padding-bottom: units(2);
 
   a {
-    color: $c-link;
+    color: $__color-link;
 
     &:hover {
-      color: $c-link--hover;
+      color: $__color-link-hover;
     }
 
     &:active {
-      color: $c-link--active;
+      color: $__color-link-active;
     }
   }
 }

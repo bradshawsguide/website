@@ -3,7 +3,7 @@
   flex-direction: column;
   margin-bottom: units(1);
 
-  @media screen and (min-width: $v-breakpoint--c) {
+  @media screen and (min-width: $__breakpoint-medium) {
     flex-direction: row;
   }
 
@@ -22,12 +22,12 @@
 }
 
 .c-route__desc {
-  @include fs--caption;
+  @include typeset("caption");
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
 
-  @media screen and (min-width: $v-breakpoint--c) {
+  @media screen and (min-width: $__breakpoint-medium) {
     margin-top: auto;
 
     &::before {
