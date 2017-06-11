@@ -2,7 +2,9 @@
 
 <section class="c-page">
 <?
-  pattern('page/header', ['p' => $page]);
+  pattern('page/header', [
+    'p' => $page
+  ]);
 
   $companies = page('companies')->children()->visible()->sortBy('title');
   foreach($companies as $company) {

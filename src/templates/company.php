@@ -2,24 +2,40 @@
 
 <article class="c-page">
 <?
-  pattern('page/header', ['p' => $page]);
+  $company = kirby()->request()->path()->last();
 
-  pattern('page/content', ['p' => $page]);
+  pattern('page/header', [
+    'p' => $page
+  ]);
+
+  pattern('page/content', [
+    'p' => $page
+  ]);
 
   pattern('section/routes', [
     'title' => 'Routes operated',
     'items' => page('routes')->children()->filterBy('company', $page->uid())
   ]);
 
-  $company = kirby()->request()->path()->last();
+  pattern('section/featured', [
+    'title' => 'Featured stations',
+    'items' => page('stations')->children()->filterBy('company', '*=', $company)->filter(function($page) {
+      return $page->hasImages();
+    })
+  ]);
+
   pattern('section/stations', [
     'title' => 'Stations served',
     'items' => page('stations')->children()->filterBy('company', '*=', $company)
   ]);
 
-  pattern('section/related', ['p' => $page]);
+  pattern('section/related', [
+    'p' => $page
+  ]);
 
-  pattern('page/footer', ['p' => $page]);
+  pattern('page/footer', [
+    'p' => $page
+  ]);
 ?>
 </article>
 

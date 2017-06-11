@@ -1,5 +1,5 @@
 <? if($items): ?>
-  <section class="c-section c-section--routes">
+  <section class="c-section">
     <h1 class="c-section__title"><?= $title ?></h1>
     <ul class="c-list">
     <? foreach($items as $item): ?>

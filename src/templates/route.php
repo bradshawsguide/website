@@ -22,7 +22,9 @@
     'type' => 'line'
   ]);
 
-  pattern('page/footer', ['p' => $page]);
+  pattern('page/footer', [
+    'p' => $page
+  ]);
 ?>
 </article>
 

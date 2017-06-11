@@ -40,7 +40,9 @@
     'type' => 'railway station'
   ]);
 
-  pattern('page/footer', ['p' => $page]);
+  pattern('page/footer', [
+    'p' => $page
+  ]);
 ?>
 </article>
 

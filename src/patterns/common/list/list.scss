@@ -1,10 +1,13 @@
+.c-list__item {
+  padding-bottom: $__space-xsmall;
+}
+
 .c-list--columns {
   columns: 10rem 5;
   column-fill: balance;
   column-gap: $__space-small;
 
   .c-list__item {
-    padding-bottom: $__space-xsmall;
     break-inside: avoid;
   }
 }
@@ -16,9 +19,6 @@
 
   .c-list__item {
     display: flex;
-
-    > * {
-      flex: 1;
-    }
+    padding-bottom: 0;
   }
 }

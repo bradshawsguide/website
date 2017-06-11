@@ -1,7 +1,7 @@
 .c-route {
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
-  margin-bottom: units(1);
+  align-items: baseline;
 
   @media screen and (min-width: $__breakpoint-medium) {
     flex-direction: row;
@@ -28,11 +28,9 @@
   text-overflow: ellipsis;
 
   @media screen and (min-width: $__breakpoint-medium) {
-    margin-top: auto;
-
     &::before {
       content: "—";
-      margin: 0 units(1/4);
+      margin: 0 $__space-xxsmall;
     }
   }
 }

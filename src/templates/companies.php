@@ -2,9 +2,11 @@
 
 <section class="c-page">
 <?
-  pattern('page/header', ['p' => $page]);
+  pattern('page/header', [
+    'p' => $page
+  ]);
 
-  pattern('section/index', [
+  pattern('common/list', [
     'items' => $page->children()->visible()
   ]);
 ?>

@@ -31,7 +31,9 @@
 }
 
 .c-page__parent {
+  font-family: $__font-family-serif;
   font-style: italic;
+  margin-bottom: $__space-xxsmall;
 }
 
 .c-page__subtitle {

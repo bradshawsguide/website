@@ -9,6 +9,8 @@
 }
 
 .c-card__header {
+  display: flex;
+  flex-direction: column;
   padding: $__space-xsmall;
 }
 
@@ -16,6 +18,7 @@
   @include typeset("text");
   font-style: italic;
   color: $__color-link;
+  order: -1;
 }
 
 .c-card__title {

@@ -4,7 +4,8 @@
   </h1>
   <?
     pattern('common/list', [
-      'items' => $country->children()
+      'items' => $country->children(),
+      'modifiers' => ['columns']
     ]);
   ?>
 </section>

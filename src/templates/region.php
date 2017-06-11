@@ -2,18 +2,33 @@
 
 <article class="c-page">
 <?
-  pattern('page/header', ['p' => $page]);
+  $regionUrl = $page->parent()->url();
+  $regionTitle = $page->parent()->title();
 
-  pattern('page/content', ['p' => $page]);
+  pattern('page/header', [
+    'p' => $page,
+    'parent' => html::a($regionUrl, $regionTitle),
+  ]);
 
-  pattern('section/related');
+  pattern('page/content', [
+    'p' => $page
+  ]);
 
-  pattern('section/stations', [
-    'title' => 'Stations in the county',
+  pattern('section/featured', [
+    'title' => 'Featured stations',
+    'items' => page('stations')->children()->filterBy('region', $page->uid())->filter(function($page) {
+      return $page->hasImages();
+    })
+  ]);
+
+  pattern('section/list', [
+    'title' => 'All stations',
     'items' => page('stations')->children()->filterBy('region', $page->uid())
   ]);
 
-  pattern('page/footer', ['p' => $page]);
+  pattern('page/footer', [
+    'p' => $page
+  ]);
 ?>
 </article>
 

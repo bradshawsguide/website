@@ -16,6 +16,8 @@ route:
 notes:
 - A telegraph station.
 ----
+desc: The site of the Crystal Palace on the summit of Penge Park is one of the most beautiful in the world.
+----
 text: Situated about half way between [Sydenham](/stations/sydenham) and [Anerley](/stations/anerley) station, on the right side of the railway from London to Croydon, the site of the Crystal Palace on the summit of Penge Park, is one of the most beautiful in the world. Standing on the brow of the hill, some two hundred feet above the valley through which the railway passes, the building is visible for many miles in every direction. But when the train approaches the spot where the brilliant and airy fabric, in the midst of the most enchanting scenery, is revealed suddenly to the eye, the impression produced elicits our warmest admiration. The models of the diluvian and antediluvian extinct animals, the Irish elk with its magnificently branching antlers, the two Iguanodons, the Megalosaurus, &c., &c., in the foreground among the Geological Islands and Lakes; the cascades and terraces, the luxuriant foliage, flower-beds and fountains, ascending up to the splendid and unrivalled fabric of glass which rears its radiant and glittering bulk upon the Surrey hill, form a *coup d'oeil* of wonderful beauty, magnificence, and grandeur, the view of which we may envy the Brighton Railway traveller who enjoys the sight daily, in virtue of his season ticket.
 
 Any one who appreciates the beautiful will always feel gratified even with a passing view; but every person who can spare the time should visit it on a fete day.
