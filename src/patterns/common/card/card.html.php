@@ -1,12 +1,22 @@
-<article class="c-card">
-  <header class="c-card__header">
-    <a class="c-card__parent" href="<?= $item->parent()->url() ?>"><?= $item->parent()->title() ?></a>
-    <h1 class="c-card__title"><a href="<?= $item->url() ?>"><?= $item->title() ?></a></h1>
-  </header>
+<a class="u-block" href="<?= $item->url() ?>">
+  <article class="c-card">
+    <header class="c-card__header">
+      <p class="c-card__parent u-block__link"><?= $item->parent()->title() ?></p>
+      <h1 class="c-card__title"><?= $item->title() ?></h1>
+    </header>
 
-  <img class="c-card__img" src="<?= $item->images()->first()->crop(336, 192)->url() ?>" alt="" width="224" height="128"/>
+    <? if($item->hasImages()): ?>
+      <img class="c-card__img" src="<?= $item->images()->first()->crop(336, 192)->url() ?>" alt="" width="224" height="128"/>
+    <? endif; ?>
 
-  <div class="c-card__main">
-    <p><?= $item->desc() ?></p>
-  </div>
-</article>
+    <div class="c-card__main">
+      <p>
+        <? if($item->desc()->isNotEmpty()): ?>
+          <?= $item->desc(); ?>
+        <? else: ?>
+          <?= excerpt($item->text(), $length=240); ?>
+        <? endif; ?>
+      </p>
+    </div>
+  </article>
+</a>

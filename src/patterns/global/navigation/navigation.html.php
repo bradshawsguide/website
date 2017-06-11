@@ -4,8 +4,11 @@
   <? foreach($pages->visible() as $page): ?>
     <li class="c-navigation__item">
       <a href="<?= $page->url() ?>"<? e($page->isOpen(), ' class="is-active"') ?>>
+      <? if($page->uid() == 'about'): ?>
+        About
+      <? else: ?>
         <?= $page->title() ?>
-        <? if($page->title = 'About'): ?><span class="u-hidden"><?= $site->title() ?></span><? endif ?>
+      <? endif ?>
       </a>
     </li>
   <? endforeach ?>

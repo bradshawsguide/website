@@ -1,3 +1,24 @@
-.c-list {
-  line-height: $__line-height-loose;
+.c-list--columns {
+  columns: 10rem 5;
+  column-fill: balance;
+  column-gap: $__space-small;
+
+  .c-list__item {
+    padding-bottom: $__space-xsmall;
+    break-inside: avoid;
+  }
+}
+
+.c-list--grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  grid-gap: $__space-small;
+
+  .c-list__item {
+    display: flex;
+
+    > * {
+      flex: 1;
+    }
+  }
 }

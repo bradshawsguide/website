@@ -8,7 +8,7 @@ a {
   background-color: transparent;
   text-decoration: none;
   transition: all 0.2s ease;
-  color: $__color-link;
+  color: inherit;
 }
 
 // Remove the outline on focused links when they are also active or hovered
@@ -20,7 +20,6 @@ a:hover {
 
 a:hover {
   text-decoration: underline;
-  color: $__color-link-hover;
 }
 
 // Add the correct font size in all browsers.

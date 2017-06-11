@@ -1,4 +1,4 @@
-title: About
+title: About Bradshaw's Guide
 ----
 text: Like the popular BBC television series <cite>[Great British Railway Journeys](http://www.bbc.co.uk/programmes/b00xgqxy)</cite>, this site is inspired by the work of Victoria cartographer, printer and publisher [George Bradshaw](http://en.wikipedia.org/wiki/George_Bradshaw).
 

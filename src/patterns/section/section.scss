@@ -1,43 +1,20 @@
 .c-section {
-  margin-bottom: 3rem;
-  padding-top: 0.5rem;
-  border-top: 1px solid $__color-neutral-alpha;
+  margin-bottom: $__space-xlarge;
+  padding-top: $__space-small;
+  border-top: $__rule;
 }
 
 .c-section--index {
   display: flex;
 
   .c-section__title {
-    @include typeset("display2");
-    flex: 0 0 auto;
-    padding-right: 1rem;
-  }
-
-  .c-list {
-    flex: 1 1 auto;
-  }
-}
-
-.c-section--index,
-.c-section--country,
-.c-section--stations {
-  overflow: hidden;
-
-  .c-list {
-    columns: 10rem 5;
-    column-fill: balance;
-    column-gap: 0.5rem;
-  }
-
-  .c-list__item {
-    padding-bottom: 0.25rem;
-    break-inside: avoid;
+    padding-right: $__space-small;
   }
 }
 
 .c-section__title {
-  @include typeset("heading");
-  margin-bottom: 0.5rem;
+  @include typeset("display2");
+  padding-bottom: $__space-small;
   color: $__color-neutral-dark;
 
   a {

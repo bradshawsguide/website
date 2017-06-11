@@ -1,7 +1,6 @@
 .c-pagination {
-  @include typeset("caption");
+  @include typeset("label");
   display: flex;
-  padding: units(1) 0;
 }
 
 .c-pagination__title {
