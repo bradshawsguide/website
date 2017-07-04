@@ -17,11 +17,6 @@
     'stops' => $page->stops()->yaml()
   ]);
 
-  pattern('section/related', [
-    'p' => $page,
-    'type' => 'line'
-  ]);
-
   pattern('page/footer', [
     'p' => $page
   ]);

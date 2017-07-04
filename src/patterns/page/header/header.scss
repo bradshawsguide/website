@@ -2,22 +2,25 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: $__space-small var(--page-gutter) $__space-large;
-
-  @media screen and (min-width: $__breakpoint-small) {
-    padding-top: $__space-large;
-    padding-bottom: $__space-xlarge;
-  }
+  margin-bottom: 3vw;
+  padding: 6vw var(--page-gutter) 3vw;
 
   @media screen and (min-width: $__breakpoint-large) {
-    padding-top: $__space-xlarge;
-
     .c-page--has-poster & {
       position: absolute;
       top: 0;
       right: 0;
       left: 0;
     }
+  }
+}
+
+.c-page__header--inverted {
+  background-color: $__color-neutral-darkest;
+  color: $__color-neutral-lightest;
+
+  a {
+    color: $__color-mustard;
   }
 }
 
@@ -37,4 +40,8 @@
 
 .c-page__subtitle {
   color: $__color-neutral-dark;
+
+  .c-page__header--inverted & {
+    color: $__color-neutral-light;
+  }
 }

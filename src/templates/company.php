@@ -29,10 +29,6 @@
     'items' => page('stations')->children()->filterBy('company', '*=', $company)
   ]);
 
-  pattern('section/related', [
-    'p' => $page
-  ]);
-
   pattern('page/footer', [
     'p' => $page
   ]);

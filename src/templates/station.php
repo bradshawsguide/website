@@ -10,7 +10,8 @@
     'p' => $page,
     'notes' => $page->notes(),
     'parent' => html::a('/'.$regionUrl, $regionTitle),
-    'subtitle' => $page->title_later()
+    'subtitle' => $page->title_later(),
+    'modifiers' => ['inverted']
   ]);
 
   if($page->hasImages()) {
@@ -33,11 +34,6 @@
   pattern('section/routes', [
     'title' => 'Routes serving the station',
     'items' => $routes
-  ]);
-
-  pattern('section/related', [
-    'p' => $page,
-    'type' => 'railway station'
   ]);
 
   pattern('page/footer', [

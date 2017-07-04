@@ -1,10 +1,8 @@
 <aside class="s-info">
   <? if($p->notes()->isNotEmpty()): ?>
-    <p>
-      <? foreach($p->notes()->yaml() as $note): ?>
-        <?= $note ?>
-      <? endforeach ?>
-    </p>
+    <? foreach($p->notes()->yaml() as $note): ?>
+      <p><?= $note ?></p>
+    <? endforeach ?>
   <? endif ?>
   <? if($p->info()->isNotEmpty()): ?>
     <dl>

@@ -1,4 +1,4 @@
-<footer class="c-contentinfo" role="contentinfo">
+<footer class="c-contentinfo">
   <div class="c-contentinfo__social">
     <a class="c-icon" rel="me" href="https://foursquare.com/bradshawsguide">
       <span class="u-hidden">Follow George Bradshaw on Foursquare</span>
