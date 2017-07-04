@@ -2,7 +2,7 @@
 
 return [
   'defaults' => [
-    'title' => 'Featured stations',
-    'items' => page('stations')->children()->filterBy('company', 'south-eastern')
+    'title' => 'Group title',
+    'noresult' => 'No items'
   ]
 ];

@@ -1,7 +1,7 @@
 .c-section {
   margin-bottom: $__space-xlarge;
-  padding-top: $__space-small;
-  border-top: $__rule;
+  padding-right: var(--page-gutter);
+  padding-left: var(--page-gutter);
 }
 
 .c-section--index {
@@ -15,6 +15,8 @@
 
 .c-section__title {
   @include typeset("display2");
+  border-top: $__rule;
+  padding-top: $__space-small;
   padding-bottom: $__space-small;
   color: $__color-neutral-dark;
 

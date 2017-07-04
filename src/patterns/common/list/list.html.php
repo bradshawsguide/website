@@ -1,13 +1,10 @@
 <? if(count($items)): ?>
 <?
-  if (isset($modifiers)) {
-    $mods = '';
-    foreach($modifiers as $modifier) {
-      $mods .= ' c-list--'.$modifier;
-    }
+  if(isset($modifiers)) {
+    $mods = implode(preg_filter('/^/', ' c-list--', $modifiers));
   }
 ?>
-<ul class="c-list<?= $mods ?>">
+<ul class="c-list<?= $mods ?? '' ?>">
   <? foreach($items->sortby('title') as $item):
       if (!$item->title_short()->empty()) {
         $title = $item->title_short();
