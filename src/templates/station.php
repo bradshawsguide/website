@@ -46,4 +46,6 @@
 ?>
 </article>
 
+<? pattern('common/related') ?>
+
 <? snippet('foot') ?>
