@@ -86,3 +86,16 @@ $__z-index-modal: 9000;
 
 // Rules
 $__rule: $__border-width-thin solid $__color-neutral-alpha;
+
+// ???
+:root {
+  --page-gutter: $__space-medium;
+
+  @media screen and (min-width: $__breakpoint-small) {
+    --page-gutter: $__space-large;
+  }
+
+  @media screen and (min-width: $__breakpoint-large) {
+    --page-gutter: 15vw;
+  }
+}

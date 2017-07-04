@@ -1,12 +1,14 @@
 .c-contentinfo {
   @include typeset("caption");
+  display: flex;
+  flex-direction: row-reverse;
+  flex: 0 0 auto;
+  order: 2;
+  position: relative;
+  margin-top: auto;
+  padding: 1rem var(--page-gutter);
   background-color: $__color-neutral-darkest;
   color: $__color-neutral-lightest;
-  flex: 0 0 auto;
-  margin-top: auto;
-  order: 2;
-  padding: 1rem 0;
-  position: relative;
 
   &::before {
     height: 5px;
@@ -33,12 +35,6 @@
   a:hover {
     color: $__color-mustard;
   }
-}
-
-.c-contentinfo__main {
-  @include l--container;
-  display: flex;
-  flex-direction: row-reverse;
 }
 
 .c-contentinfo__social {

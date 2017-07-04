@@ -1,11 +1,6 @@
 .c-related {
   background-color: $__color-neutral-lighter;
-  padding: $__space-medium;
-}
-
-.c-related__header,
-.c-related__main {
-  @include l--container;
+  padding: $__space-medium var(--page-gutter);
 }
 
 .c-related__title {

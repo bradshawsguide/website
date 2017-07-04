@@ -2,8 +2,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding-top: $__space-small;
-  padding-bottom: $__space-large;
+  padding: $__space-small var(--page-gutter) $__space-large;
 
   @media screen and (min-width: $__breakpoint-small) {
     padding-top: $__space-large;

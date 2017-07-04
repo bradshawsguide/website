@@ -1,8 +1,6 @@
 title: Bradshaw's Guide For Tourists in Great Britain & Ireland
 ----
-text: 1866 Edition
-
-*(in four sections), adapted to the railway system:*
+text: *In four sections, adapted to the railway system:*
 
 ## [Section I](/routes/section:1)
 Containing a descriptive guide through **London and its Environs**; including the [Crystal Palace](/stations/crystal-palace), [Windsor](/stations/windsor), [Hampton Court](/stations/hampton-court) <abbr title="ecetera">&c.</abbr>

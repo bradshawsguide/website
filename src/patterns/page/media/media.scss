@@ -6,7 +6,6 @@
   }
 
   .c-poster {
-    @include l--container-extend;
     margin-bottom: 2rem;
   }
 
@@ -19,6 +18,7 @@
 
   .c-poster__caption {
     @include typeset("caption");
-    @include l--container;
+    padding-right: var(--page-gutter);
+    padding-left: var(--page-gutter);
   }
 }

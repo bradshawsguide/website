@@ -11,7 +11,7 @@
 }
 
 .c-navigation__list {
-  @include l--container;
+  padding: 0 var(--page-gutter);
   display: flex;
 }
 
