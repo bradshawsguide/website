@@ -17,7 +17,7 @@
     'stops' => $page->stops()->yaml()
   ]);
 
-  pattern('page/footer', [
+  pattern('common/traverse', [
     'p' => $page
   ]);
 ?>

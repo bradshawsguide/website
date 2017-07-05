@@ -26,7 +26,7 @@
     'items' => page('stations')->children()->filterBy('region', $page->uid())
   ]);
 
-  pattern('page/footer', [
+  pattern('common/traverse', [
     'p' => $page
   ]);
 ?>

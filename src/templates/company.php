@@ -29,7 +29,7 @@
     'items' => page('stations')->children()->filterBy('company', '*=', $company)
   ]);
 
-  pattern('page/footer', [
+  pattern('common/traverse', [
     'p' => $page
   ]);
 ?>

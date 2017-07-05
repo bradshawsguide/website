@@ -11,53 +11,40 @@ When developing the site, you may want assets automatically compiled and the bro
 
 * `gulp dev`
 
+## Updating submodules
+This project makes use of third-party libraries, included as git submodules. To update these, run `git submodule foreach git pull origin master`.
+
 ## Running locally with HTTPS
 To run with HTTPS locally on macOS, you should follow the setup [as described here](https://gist.github.com/jed/6147872). To create the required SSL certificates, follow these steps:
 
 1. Open Terminal.app
 2. Change into the correct directory: `cd Sites/bradshaws/etc/ssl`
-3. Configure SSL:
-
-  ```
-  cat > openssl.cnf <<-EOF
-    [req]
-    distinguished_name = req_distinguished_name
-    x509_extensions = v3_req
-    prompt = no
-    [req_distinguished_name]
-    CN = *.bradshaws.dev
-    [v3_req]
-    keyUsage = keyEncipherment, dataEncipherment
-    extendedKeyUsage = serverAuth
-    subjectAltName = @alt_names
-    [alt_names]
-    DNS.1 = *.bradshaws.dev
-    DNS.2 = bradshaws.dev
-  EOF
-  ```
-
-4. Create the certificate files:
+3. Create the certificate files:
 
   ```
   openssl req \
     -new \
     -newkey rsa:2048 \
-    -sha1 \
+    -sha256 \
     -days 3650 \
     -nodes \
     -x509 \
-    -keyout ssl.key \
-    -out ssl.crt \
-    -config openssl.cnf
+    -keyout dev.key \
+    -out dev.crt \
+    -subj /CN=bradshaws.dev \
+    -reqexts SAN \
+    -extensions SAN \
+    -config <(cat /System/Library/OpenSSL/openssl.cnf \
+      <(printf '[SAN]\nsubjectAltName=DNS:bradshaws.dev'))
   ```
-
-5. Delete the configuration file: `rm openssl.cnf`
 
 ## Repo structure
 
 ```
 bradshawsguide
 ├── etc/              # CONFIGURATION
+│   ├── nginx/        # Nginx server
+│   └── ssl/          # SSL certificates (ignored by git)
 │
 ├── src/              # SOURCE
 │   ├── assets/
@@ -86,11 +73,10 @@ bradshawsguide
 ├── .editorconfig     # Text editor preferences
 ├── .gitignore        # List of files not tracked by git
 ├── .gitmodules       # List of submodules tracked by git
-├── .eshintrc         # JS linting preferences
-├── .stylelintrc      # CSS linting preferences
 ├── gulpfile.js       # Configuration file for Gulp
-├── package.json      # Project manifest
-├── LICENSE           # Project license
+├── package-lock.json # Package lock file
+├── package.json      # Package manifest
+├── LICENSE           # License (TBD)
 └── readme.md         # This file
 ```
 

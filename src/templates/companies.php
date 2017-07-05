@@ -3,7 +3,8 @@
 <section class="c-page">
 <?
   pattern('page/header', [
-    'p' => $page
+    'p' => $page,
+    'parent' => html::a('/explore/', 'Explore'),
   ]);
 
   pattern('common/list', [

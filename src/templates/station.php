@@ -36,7 +36,7 @@
     'items' => $routes
   ]);
 
-  pattern('page/footer', [
+  pattern('common/traverse', [
     'p' => $page
   ]);
 ?>
