@@ -2,12 +2,9 @@
 
 <article class="c-page">
 <?
-  $regionUrl = $page->parent()->url();
-  $regionTitle = $page->parent()->title();
-
   pattern('page/header', [
     'p' => $page,
-    'parent' => html::a($regionUrl, $regionTitle),
+    'parent' => $page->parent()
   ]);
 
   pattern('page/content', [

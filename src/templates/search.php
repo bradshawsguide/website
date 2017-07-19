@@ -1,11 +1,12 @@
 <? snippet('head') ?>
 
 <section class="c-page">
-<?
-  pattern('page/header', [
-    'p' => $page
-  ])
-?>
+  <?
+    pattern('page/header', [
+      'p' => $page
+    ])
+  ?>
+
   <div class="c-page__content">
   <? if($results && $results->count()): ?>
     <ul class="c-list c-list--grid">
@@ -21,7 +22,7 @@
       ])
     ?>
   <? else: ?>
-    <p>No results for <strong>".esc($query)."</strong></p>
+    <p>No results for <strong><?= $query ?></strong></p>
   <? endif ?>
   </div>
 </section>

@@ -2,14 +2,10 @@
 
 <article class="c-page<? if ($page->hasImages()): ?> c-page--has-poster<? endif ?>">
 <?
-  $region = $page->region()->uid();
-  $regionUrl = $site->page('regions')->index()->filterBy('uid', $region);
-  $regionTitle = page($regionUrl)->title();
-
   pattern('page/header', [
     'p' => $page,
     'notes' => $page->notes(),
-    'parent' => html::a('/'.$regionUrl, $regionTitle),
+    'parent' => $region,
     'subtitle' => $page->title_later(),
     'modifiers' => ['inverted']
   ]);

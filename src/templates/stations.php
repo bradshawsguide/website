@@ -4,7 +4,7 @@
 <?
   pattern('page/header', [
     'p' => $page,
-    'parent' => html::a('/explore/', 'Explore'),
+    'parent' => page('explore')
   ]);
 
   pattern('section/index', [

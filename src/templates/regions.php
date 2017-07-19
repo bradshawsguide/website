@@ -4,10 +4,10 @@
 <?
   pattern('page/header', [
     'p' => $page,
-    'parent' => html::a('/explore/', 'Explore'),
+    'parent' => page('explore')
   ]);
 
-  foreach(page('regions')->children() as $country) {
+  foreach($countries as $country) {
     pattern('section/country', [
       'country' => $country
     ]);

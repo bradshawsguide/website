@@ -2,13 +2,9 @@
 
 <article class="c-page">
 <?
-  $company = $page->company()->uid();
-  $companyUrl = page('companies/'.$company)->url();
-  $companyTitle = page('companies/'.$company)->title();
-
   pattern('page/header', [
     'p' => $page,
-    'parent' => html::a($companyUrl, $companyTitle),
+    'parent' => page('companies/'.$page->company()->uid()),
     'subtitle' => $page->description()
   ]);
 

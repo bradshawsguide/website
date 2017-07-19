@@ -2,10 +2,9 @@
 
 <article class="c-page">
 <?
-  $company = kirby()->request()->path()->last();
-
   pattern('page/header', [
-    'p' => $page
+    'p' => $page,
+    'parent' => page('companies')
   ]);
 
   pattern('page/content', [
@@ -19,14 +18,14 @@
 
   pattern('section/featured', [
     'title' => 'Featured stations',
-    'items' => page('stations')->children()->filterBy('company', '*=', $company)->filter(function($page) {
+    'items' => page('stations')->children()->filterBy('company', '*=', $page->uid())->filter(function($page) {
       return $page->hasImages();
     })
   ]);
 
   pattern('section/stations', [
     'title' => 'Stations served',
-    'items' => page('stations')->children()->filterBy('company', '*=', $company)
+    'items' => page('stations')->children()->filterBy('company', '*=', $page->uid())
   ]);
 
   pattern('common/traverse', [

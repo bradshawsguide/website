@@ -2,12 +2,9 @@
 
 <section class="c-page">
 <?
-  $countryUrl = $page->parent()->url();
-  $countryTitle = $page->parent()->title();
-
   pattern('page/header', [
     'p' => $page,
-    'parent' => html::a($countryUrl, $countryTitle),
+    'parent' => $page->parent()
   ]);
 
   // Get station UIDs listed under `featured:` frontmatter
