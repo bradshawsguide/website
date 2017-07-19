@@ -33,14 +33,6 @@
       "path": "./www/"
     }
   },
-  "xo": {
-    "space": true,
-    "envs": "browser",
-    "ignores": [
-      "src/plugins/**",
-      "www/**"
-    ]
-  },
   "stylelint": {
     "extends": "stylelint-config-standard",
     "files": "**/*.scss",
@@ -48,6 +40,14 @@
       "declaration-empty-line-before": "never",
       "string-quotes": "double"
     }
+  },
+  "xo": {
+    "space": true,
+    "envs": "browser",
+    "ignores": [
+      "src/plugins/**",
+      "www/**"
+    ]
   },
   "devDependencies": {
     "autoprefixer": "latest",
