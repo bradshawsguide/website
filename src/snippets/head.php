@@ -28,6 +28,10 @@
   <? if($page->hasNextVisible()): ?><link rel="next" href="<?= $page->nextVisible()->url() ?>"/><? endif ?>
   <link rel="stylesheet" href="/assets/app.css"/>
 
+  <script>
+    var docEl = document.documentElement;
+    docEl.className = docEl.className.replace('no-js', 'has-js');
+  </script>
   <script src="/assets/app.js" async></script>
 
   <title><?= $page->title() ?><? if(!$page->isHomePage()): ?> - <?= $site->title() ?><? endif ?></title>

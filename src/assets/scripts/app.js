@@ -1,13 +1,11 @@
 // Load dependancies
-import checkJS from './modules/has-js';
+import turbolinks from 'turbolinks';
 import loadWebfonts from './modules/webfont-loader';
-// TODO: import enhanceLinks from './modules/links';
 import geo from './modules/geo';
 import typography from './modules/typography';
 
 // Run
-checkJS();
+turbolinks.start();
 loadWebfonts();
-// TODO: enhanceLinks();
 geo();
 typography();

@@ -23,16 +23,6 @@
     "dev": "gulp dev",
     "test": "xo || stylelint **/*.scss"
   },
-  "config": {
-    "src": {
-      "assets": "./src/assets/",
-      "path": "./src/"
-    },
-    "dest": {
-      "assets": "./www/assets/",
-      "path": "./www/"
-    }
-  },
   "stylelint": {
     "extends": "stylelint-config-standard",
     "files": "**/*.scss",
@@ -52,8 +42,8 @@
   "devDependencies": {
     "autoprefixer": "latest",
     "babel-core": "^6.25.0",
-    "babel-loader": "^7.1.0",
-    "babel-preset-es2015": "^6.24.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-latest": "^6.24.0",
     "browser-sync": "latest",
     "del": "^3.0.0",
     "gulp": "github:gulpjs/gulp#4.0",
@@ -62,10 +52,13 @@
     "gulp-sass": "latest",
     "gulp-sass-glob": "latest",
     "gulp-sourcemaps": "latest",
-    "stylelint": "^7.12.0",
-    "stylelint-config-standard": "^16.0.0",
-    "webpack": "^3.0.0",
-    "webpack-stream": "^3.2.0",
+    "rollup": "^0.45.2",
+    "rollup-plugin-babel": "^2.7.1",
+    "rollup-plugin-commonjs": "^8.0.2",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-uglify": "^2.0.1",
+    "stylelint": "^8.0.0",
+    "stylelint-config-standard": "^17.0.0",
     "xo": "^0.18.0"
   },
   "dependencies": {

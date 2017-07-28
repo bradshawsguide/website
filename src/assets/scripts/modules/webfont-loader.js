@@ -38,8 +38,8 @@ export default function () {
 
   // Init
   function init() {
-    Promise.all(fonts).then(eventFontsLoaded).catch(rejected => {
-      console.log(rejected);
+    Promise.all(fonts).then(eventFontsLoaded).catch(err => {
+      console.log(err);
     });
   }
 

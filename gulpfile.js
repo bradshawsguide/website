@@ -1,6 +1,3 @@
-// Utils
-const path = require('path');
-
 // Dependancies
 const autoprefixer = require('autoprefixer');
 const browserSync = require('browser-sync').create();
@@ -8,73 +5,79 @@ const del = require('del');
 const gulp = require('gulp');
 const imagemin = require('gulp-imagemin');
 const postcss = require('gulp-postcss');
+const sourcemaps = require('gulp-sourcemaps');
+
+// Sass
 const sass = require('gulp-sass');
 const sassGlob = require('gulp-sass-glob');
-const sourcemaps = require('gulp-sourcemaps');
-const webpack = require('webpack');
-const webpackStream = require('webpack-stream');
 
-// Global configuration
-const config = require('./package.json').config;
+// Rollup + plugins
+const rollup = require('rollup');
+const babel = require('rollup-plugin-babel');
+const commonjs = require('rollup-plugin-commonjs');
+const resolve = require('rollup-plugin-node-resolve');
+const uglify = require('rollup-plugin-uglify');
+
+// Paths
+const paths = {
+  src: {
+    assets: 'src/assets/',
+    root: 'src/'
+  },
+  dest: {
+    assets: 'www/assets/',
+    root: 'www/'
+  }
+};
 
 // Tasks
 function clean() {
-  return del([config.dest.assets]);
+  return del([paths.dest.assets]);
 }
 
 function fonts() {
-  return gulp.src(config.src.assets + 'fonts/**/*')
-    .pipe(gulp.dest(config.dest.assets + 'fonts'));
+  return gulp.src(paths.src.assets + 'fonts/**/*')
+    .pipe(gulp.dest(paths.dest.assets + 'fonts'));
 }
 
 function images() {
-  return gulp.src(config.src.assets + 'images/**/*')
-    .pipe(gulp.dest(config.dest.assets + 'images'));
+  return gulp.src(paths.src.assets + 'images/**/*')
+    .pipe(gulp.dest(paths.dest.assets + 'images'));
 }
 
 function vectors() {
-  return gulp.src(config.src.assets + 'vectors/**/*')
-    .pipe(gulp.dest(config.dest.assets + 'vectors'));
+  return gulp.src(paths.src.assets + 'vectors/**/*')
+    .pipe(gulp.dest(paths.dest.assets + 'vectors'));
 }
 
 function icons() {
-  return gulp.src(config.src.assets + 'icons/**/*')
+  return gulp.src(paths.src.assets + 'icons/**/*')
     .pipe(imagemin())
-    .pipe(gulp.dest(config.dest.assets + 'icons'));
+    .pipe(gulp.dest(paths.dest.assets + 'icons'));
 }
 
-function scripts() {
-  return gulp.src(config.src.assets + 'scripts/*.js')
-    .pipe(webpackStream({
-      entry: {
-        app: config.src.assets + 'scripts/app.js'
-      },
-      output: {
-        filename: '[name].js',
-        path: path.join(__dirname, '/build')
-      },
-      module: {
-        loaders: [{
-          test: /\.js$/,
-          loader: 'babel-loader',
-          query: {
-            presets: [
-              ['es2015', {
-                modules: false
-              }]
-            ]
-          }
-        }]
-      },
-      devtool: 'source-map',
-      plugins: [
-        new webpack.optimize.UglifyJsPlugin({
-          sourceMap: true,
-          mangle: false
-        })
-      ]
-    }, webpack))
-    .pipe(gulp.dest(config.dest.assets));
+async function scripts() {
+  const bundle = await rollup.rollup({
+    entry: paths.src.assets + `scripts/app.js`,
+    plugins: [
+      babel({
+        exclude: 'node_modules/**'
+      }),
+      commonjs(),
+      resolve({
+        browser: true,
+        jsnext: true,
+        main: true
+      }),
+      uglify()
+    ]
+  });
+
+  await bundle.write({
+    format: 'iife',
+    dest: paths.dest.assets + 'app.js',
+    sourceMap: true
+  });
 }
 
 function styles() {
@@ -84,7 +87,7 @@ function styles() {
     })
   ];
 
-  return gulp.src(config.src.assets + 'styles/app.scss')
+  return gulp.src(paths.src.assets + 'styles/app.scss')
     .pipe(sourcemaps.init())
     .pipe(sassGlob())
     .pipe(sass({
@@ -92,7 +95,7 @@ function styles() {
     }).on('error', sass.logError))
     .pipe(postcss(processors))
     .pipe(sourcemaps.write('./'))
-    .pipe(gulp.dest(config.dest.assets))
+    .pipe(gulp.dest(paths.dest.assets))
     .pipe(browserSync.stream({
       match: '**/*.css'
     }));
@@ -107,12 +110,12 @@ function sync() {
 }
 
 function watch() {
-  gulp.watch(config.src.assets + 'fonts', fonts);
-  gulp.watch(config.src.assets + 'icons', icons);
-  gulp.watch(config.src.assets + 'images', images);
-  gulp.watch(config.src.assets + 'vectors', vectors);
-  gulp.watch(config.src.path + '**/*.js', scripts);
-  gulp.watch(config.src.path + '**/*.scss', styles);
+  gulp.watch(paths.src.assets + 'fonts', fonts);
+  gulp.watch(paths.src.assets + 'icons', icons);
+  gulp.watch(paths.src.assets + 'images', images);
+  gulp.watch(paths.src.assets + 'vectors', vectors);
+  gulp.watch(paths.src.root + '**/*.js', scripts);
+  gulp.watch(paths.src.root + '**/*.scss', styles);
 }
 
 // Task sets
