@@ -1,15 +1,15 @@
 // ========================================================
-// Forms
-// w3c.github.io/html/interactive-elements.html
+// Interactive elements
+// http://w3c.github.io/html/interactive-elements.html
 // ========================================================
 
-// Add the correct display in Edge, IE, and Firefox.
+// Add correct display in Edge, IE, and Firefox
 details,
 summary {
   display: block;
 }
 
-// Add the correct display in IE 10-.
+// Add correct display in IE 10-
 [hidden] {
   display: none;
 }

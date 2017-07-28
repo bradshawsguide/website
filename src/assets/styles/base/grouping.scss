@@ -1,0 +1,43 @@
+// ========================================================
+// Grouping content
+// http://w3c.github.io/html/grouping-content.html
+// ========================================================
+
+// 1. Add correct box sizing in Firefox
+// 2. Show overflow in Edge and IE
+hr {
+  box-sizing: content-box; // [1]
+  height: 0; // [1]
+  overflow: visible; // [2]
+}
+
+pre {
+  overflow: auto;
+  white-space: pre;
+  hyphens: none;
+  tab-size: 2;
+}
+
+p,
+blockquote,
+ol,
+ul,
+dl,
+figure {
+  margin: 0 0 var(--flow-space, 0) 0;
+}
+
+// Default to ’bare’ lists
+ol,
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+// Add correct display in IE 9-
+// 1. Add correct display in IE
+figcaption,
+figure,
+main { // [1]
+  display: block;
+}

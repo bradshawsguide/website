@@ -1,13 +1,14 @@
 // ========================================================
 // Sections
-// w3c.github.io/html/sections.html
+// http://w3c.github.io/html/sections.html
 // ========================================================
 
-// 1. Prevent adjustment of font size on orientation change.
+// 1. Prevent adjustments of font size after orientation
+//    change in IE on Windows Phone and iOS
 html {
   box-sizing: border-box;
   height: 100%;
-  text-size-adjust: 100%; // 1
+  text-size-adjust: 100%; // [1]
 }
 
 *,
@@ -17,36 +18,19 @@ html {
 }
 
 ::selection {
-  background-color: $__color-highlight;
-  text-shadow: 0 0 $__color-highlight;
+  background-color: var(--selection-color);
 }
 
 body {
   display: flex;
   flex-direction: column;
   height: 100%;
-  margin: 0 auto;
+  margin: 0;
   background-color: $__color-neutral-lightest;
   font-family: $__font-family-sans;
   color: $__color-neutral-darkest;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-
-  @media print {
-    margin: 0 1cm;
-    color: black;
-  }
-}
-
-// Add the correct display in IE 9-.
-article,
-aside,
-footer,
-header,
-main,
-nav,
-section {
-  display: block;
 }
 
 h1,
@@ -63,12 +47,4 @@ h6 {
   @media print {
     page-break-after: avoid;
   }
-}
-
-// 1. Add the correct box sizing in Firefox.
-// 2. Show the overflow in Edge and IE.
-hr {
-  box-sizing: content-box; // 1
-  height: 0; // 1
-  overflow: visible; // 2
 }

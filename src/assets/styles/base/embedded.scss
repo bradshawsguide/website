@@ -1,9 +1,9 @@
 // ========================================================
 // Embedded content
-// w3c.github.io/html/semantics-embedded-content.html
+// http://w3c.github.io/html/semantics-embedded-content.html
 // ========================================================
 
-// Remove the border on images inside links in IE 10-.
+// Remove border on images inside links in IE 10-
 img {
   border-style: none;
 }
@@ -14,15 +14,9 @@ img {
   }
 }
 
-// Hide the overflow in IE.
+// 1. Hide overflow in IE
+// 2. Fill with currentColor
 svg:not(:root) {
-  display: block;
-  overflow: hidden;
-  fill: currentColor;
-}
-
-audio,
-canvas,
-video {
-  display: inline-block;
+  overflow: hidden; // [1]
+  fill: currentColor; // [2]
 }
