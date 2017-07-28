@@ -4,15 +4,6 @@
   padding-left: var(--page-gutter);
 }
 
-.c-section--index {
-  display: flex;
-  margin-bottom: $__space-large;
-
-  .c-section__title {
-    padding-right: $__space-small;
-  }
-}
-
 .c-section__title {
   @include typeset("display2");
   border-top: $__rule;
@@ -27,15 +18,5 @@
   a::after {
     content: "\0020\261E";
     font-family: serif;
-  }
-}
-
-.c-section__main--grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
-  grid-gap: $__space-small;
-
-  > * {
-    display: flex;
   }
 }

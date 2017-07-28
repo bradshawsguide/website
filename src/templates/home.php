@@ -9,16 +9,14 @@
   ]);
 
   pattern('section/featured', [
-    'title' => 'Section <abbr aria-label="1">I</abbr>: London and its Environs',
-    'url' => '/stations/section:1',
+    'title' => html::a('/stations/section:1', 'Section <abbr aria-label="1">I</abbr>: London and its Environs'),
     'items' => page('stations')->children()->filterBy('section', '1')->filter(function($page) {
       return $page->hasImages();
     })->limit(3)
   ]);
 
   pattern('section/featured', [
-    'title' => 'Section <abbr aria-label="2">II</abbr>: North & South Wales, Ireland and the Lakes of Killarney',
-    'url' => '/stations/section:2',
+    'title' => html::a('/stations/section:2', 'Section <abbr aria-label="2">II</abbr>: North & South Wales, Ireland and the Lakes of Killarney'),
     'items' => page('stations')->children()->filterBy('section', '2')->filter(function($page) {
       return $page->hasImages();
     })->limit(3)

@@ -7,32 +7,28 @@
   ]);
 
   pattern('section/featured', [
-    'title' => 'Stations',
-    'url' => '/stations/',
+    'title' => html::a('/stations/', 'Stations'),
     'items' => page('stations')->children()->filter(function($page) {
       return $page->hasImages();
     })->limit(6)
   ]);
 
   pattern('section/featured', [
-    'title' => 'Routes',
-    'url' => '/routes/',
+    'title' => html::a('/routes/', 'Routes'),
     'items' => page('routes')->children()->filter(function($page) {
       return $page->hasImages();
     })->limit(6)
   ]);
 
   pattern('section/featured', [
-    'title' => 'Regions',
-    'url' => '/regions/',
+    'title' => html::a('/regions/', 'Regions'),
     'items' => page('regions')->children()->filter(function($page) {
       return $page->hasImages();
     })->limit(6)
   ]);
 
   pattern('section/featured', [
-    'title' => 'Companies',
-    'url' => '/companies/',
+    'title' => html::a('/companies/', 'Companies'),
     'items' => page('companies')->children()->filter(function($page) {
       return $page->hasImages();
     })->limit(6)

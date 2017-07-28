@@ -7,7 +7,7 @@
     'parent' => page('explore')
   ]);
 
-  pattern('section/index', [
+  pattern('common/index', [
     'items' => $page->children()->visible()
   ]);
 ?>

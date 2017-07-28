@@ -1,8 +1,8 @@
-<? if($items && $items->count()): ?>
-  <section class="c-section c-section--stations">
+<? if(count($items)): ?>
+  <section class="c-section">
     <h1 class="c-section__title"><?= $title ?></h1>
     <?
-      pattern('section/index', [
+      pattern('common/index', [
         'items' => $items
       ]);
     ?>
