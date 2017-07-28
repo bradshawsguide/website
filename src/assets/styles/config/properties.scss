@@ -1,0 +1,15 @@
+// ========================================================
+// Custom Properties
+// ========================================================
+:root {
+  --selection-color: rgba($__color-mustard, 0.25);
+  --page-gutter: $__space-medium;
+
+  @media screen and (min-width: $__breakpoint-small) {
+    --page-gutter: $__space-large;
+  }
+
+  @media screen and (min-width: $__breakpoint-large) {
+    --page-gutter: 15vw;
+  }
+}

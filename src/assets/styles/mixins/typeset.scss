@@ -1,17 +1,16 @@
 // ========================================================
-// Mixins
+// Typeset
 // ========================================================
 
-// Visually hide content
-@mixin u--visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  border: 0;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
+// Returns $value as a unitless number
+//
+// e.g. strip-unit(10px) => 10
+@function strip-unit($number) {
+  @if type-of($number) == "number" and not unitless($number) {
+    @return $number / ($number * 0 + 1);
+  }
+
+  @return $number;
 }
 
 // Fluid typography increases its size based on viewport

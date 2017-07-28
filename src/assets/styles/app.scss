@@ -1,5 +1,10 @@
-// Helpers
-@import "helpers/**/*.scss";
+// Config
+@import "config/variables.scss";
+@import "config/properties.scss";
+@import "config/webfonts.scss";
+
+// Mixins
+@import "mixins/**/*.scss";
 
 // Base HTML elements
 @import "base/**/*.scss";

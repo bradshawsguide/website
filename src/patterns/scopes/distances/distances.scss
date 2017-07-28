@@ -27,7 +27,7 @@
     display: block;
 
     th:nth-child(1) {
-      @include u--visually-hidden;
+      @include visually-hidden;
     }
 
     th:nth-child(2) {

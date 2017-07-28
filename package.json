@@ -27,6 +27,15 @@
     "extends": "stylelint-config-standard",
     "files": "**/*.scss",
     "rules": {
+      "at-rule-no-unknown": [
+        true,
+        {
+          "ignoreAtRules": [
+            "include",
+            "mixin"
+          ]
+        }
+      ],
       "declaration-empty-line-before": "never",
       "string-quotes": "double"
     }
