@@ -10,13 +10,9 @@
     'modifiers' => ['inverted']
   ]);
 
-  if($page->hasImages()) {
-    pattern('page/media', ['p' => $page]);
-  };
-
   pattern('page/content', [
     'p' => $page,
-    'images' => false
+    'image' => 'u-bleed'
   ]);
 
   // Get route UIDs listed under `route:` frontmatter

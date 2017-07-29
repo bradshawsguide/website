@@ -1,0 +1,19 @@
+.s-image {
+  img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+  }
+
+  figcaption {
+    @include typeset("caption");
+    padding-top: $__space-medium;
+    padding-bottom: $__space-medium;
+    border-bottom: $__rule;
+  }
+
+  &.u-bleed figcaption {
+    margin-right: var(--page-gutter);
+    margin-left: var(--page-gutter);
+  }
+}
