@@ -1,11 +1,14 @@
 .c-card {
-  display: flex;
-  flex: 1;
-  flex-direction: column;
+  --link-decoration: none;
   background-color: white;
   outline: 1px solid rgba(54, 42, 35, 0.1);
   box-shadow: 0 0 12px 0 rgba(51, 34, 26, 0.1);
-  padding-bottom: $__space-xsmall;
+}
+
+.c-card__body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
 }
 
 .c-card__header {
