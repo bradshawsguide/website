@@ -6,7 +6,7 @@
     ]);
   }
 
-  if($p->info()->isNotEmpty() || $p->notes()->isNotEmpty()) {
+  if(!$p->info()->empty() || !$p->notes()->empty()) {
     pattern('scopes/info', ['p' => $p]);
   }
 
@@ -19,13 +19,13 @@
     ]);
   }
 
-  if($p->text()->isNotEmpty()) {
+  if(!$p->text()->empty()) {
     pattern('scopes/prose', [
       'content' => $p->text()
     ]);
   }
 
-  if($p->distances()->isNotEmpty()) {
+  if(!$p->distances()->empty()) {
     pattern('scopes/distances', ['p' => $p]);
   }
 ?>

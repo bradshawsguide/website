@@ -8,7 +8,7 @@
 
   <meta property="og:url" content="<?= $page->url() ?>"/>
   <meta property="og:title" content="<?= $page->title() ?>"/>
-<? if($page->text()->isNotEmpty()): ?>
+<? if(!$page->text()->empty()): ?>
   <meta property="og:description" content="<?= excerpt($page->text(), $length=300) ?>"/>
 <? endif ?>
 <? if($page->hasImages()): ?>

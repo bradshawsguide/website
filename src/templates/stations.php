@@ -1,16 +1,17 @@
 <? snippet('head') ?>
 
-<section class="c-page">
 <?
   pattern('page/header', [
     'p' => $page,
     'parent' => page('explore')
   ]);
 
-  pattern('common/index', [
-    'items' => $page->children()->visible()
-  ]);
+  foreach(alphabetise($stations) as $letter => $items):
+    pattern('common/index', [
+      'items' => $items,
+      'letter' => $letter
+    ]);
+  endforeach;
 ?>
-</section>
 
 <? snippet('foot') ?>

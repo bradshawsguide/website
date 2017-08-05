@@ -1,7 +1,7 @@
 markers = [
 <? foreach($pages->find('stations')->children() as $page): ?>
-  <? if($page->location()->isNotEmpty()):
-    if ($page->title_later()->isNotEmpty()) {
+  <? if(!$page->location()->empty()):
+    if(!$page->title_later()->empty()) {
       $title = $page->title_later();
     } else {
       $title = $page->title();

@@ -12,7 +12,7 @@
     <div class="c-card__main">
       <?
         pattern('scopes/prose', [
-          'content' => $item->desc()->isNotEmpty() ? $item->desc() : excerpt($item->text(), $length=240)
+          'content' => !$item->desc()->empty() ? $item->desc() : excerpt($item->text(), $length=240)
         ]);
       ?>
     </div>

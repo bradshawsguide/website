@@ -1,10 +1,10 @@
 <aside class="s-info">
-  <? if($p->notes()->isNotEmpty()): ?>
+  <? if(!$p->notes()->empty()): ?>
     <? foreach($p->notes()->yaml() as $note): ?>
       <p><?= $note ?></p>
     <? endforeach ?>
   <? endif ?>
-  <? if($p->info()->isNotEmpty()): ?>
+  <? if(!$p->info()->empty()): ?>
     <dl>
     <? foreach($p->info()->yaml() as $info): ?>
       <dt><?= smartypants($info['term']) ?></dt>

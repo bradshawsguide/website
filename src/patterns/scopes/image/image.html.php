@@ -1,5 +1,5 @@
 <?
-  $modifier = $image->position()->isNotEmpty() ? ' s-image--'.$image->position() : null
+  $modifier = !$image->position()->empty() ? ' s-image--'.$image->position() : null
 ?>
 <figure class="s-image<?= $modifier ?>">
 <? if ($image->position() == 'pull-right'): ?>

@@ -11,7 +11,7 @@
 <? endif ?>
   <h1 class="c-page__title">
     <?= smartypants($p->title()) ?>
-    <? if ($p->title_suffix()->isNotEmpty()): ?>
+    <? if (!$p->title_suffix()->empty()): ?>
       <span><?= $p->title_suffix() ?></span>
     <? endif ?>
   </h1>

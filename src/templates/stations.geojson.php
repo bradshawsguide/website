@@ -8,7 +8,7 @@
   $json = array();
 
   foreach($items as $item) {
-    if ($item->location()->isNotEmpty()) {
+    if(!$item->location()->empty()) {
       $latlng = array(
         $item->location()->coordinates()->lng(),
         $item->location()->coordinates()->lat()
