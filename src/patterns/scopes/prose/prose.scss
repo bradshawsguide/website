@@ -177,6 +177,30 @@
     font-variant-numeric: lining-nums tabular-nums;
   }
 
+  // Typesetting
+  .amp {
+    font-family: $__font-family-serif;
+    font-style: italic;
+  }
+
+  .c2sc {
+    letter-spacing: 0.025em;
+    font-variant-caps: all-small-caps;
+  }
+
+  .smcp {
+    font-feature-settings: "smcp" on;
+  }
+
+  .frac-nom {
+    margin-right: 0.05em;
+  }
+
+  .u-frac-denom {
+    margin-left: 0.05em;
+  }
+
+  // Footnotes
   .footnotes {
     @include typeset("caption");
   }

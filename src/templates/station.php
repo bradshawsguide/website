@@ -12,7 +12,7 @@
 
   pattern('page/content', [
     'p' => $page,
-    'image' => 'u-bleed'
+    'image' => 'bleed'
   ]);
 
   // Get route UIDs listed under `route:` frontmatter

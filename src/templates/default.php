@@ -7,8 +7,7 @@
   ]);
 
   pattern('page/content', [
-    'p' => $page,
-    'image' => 'u-pull-right'
+    'p' => $page
   ]);
 ?>
 </article>

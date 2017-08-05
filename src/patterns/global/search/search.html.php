@@ -1,7 +1,5 @@
 <form class="c-search" role="search" action="/search">
-  <fieldset class="c-search__main">
-    <legend class="u-hidden">Search <?= $site->title() ?></legend>
-    <input class="input" type="search" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey…"<? if(isset($search)): ?> value="<?= esc($query) ?><? endif ?>"/>
-    <input class="button" type="submit" value="Search"/>
-  </fieldset>
+  <label class="c-search__label">Search <?= $site->title() ?></label>
+  <input class="c-search__input" type="search" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey…"<? if(isset($search)): ?> value="<?= esc($query) ?><? endif ?>"/>
+  <input class="c-search__button" type="submit" value="Search"/>
 </form>

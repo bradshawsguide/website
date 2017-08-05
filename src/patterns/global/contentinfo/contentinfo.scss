@@ -38,30 +38,10 @@
 }
 
 .c-contentinfo__social {
+  --link-decoration: none;
   flex: 0 0 auto;
 }
 
 .c-contentinfo__rights {
   flex: 1 1 auto;
-}
-
-.c-icon {
-  align-items: center;
-  border: 0.0625rem solid transparent;
-  background-color: $__color-neutral-dark;
-  border-radius: 100%;
-  display: inline-flex;
-  height: 2.5rem;
-  justify-content: center;
-  margin-top: -0.125rem;
-  margin-left: 0.5rem;
-  width: 2.5rem;
-
-  &:hover {
-    border-color: $__color-mustard;
-
-    svg {
-      fill: $__color-mustard;
-    }
-  }
 }

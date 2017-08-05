@@ -2,8 +2,7 @@
 <?
   if($p->hasImages()) {
     pattern('scopes/image', [
-      'p' => $p,
-      'layout' => $image
+      'image' => $p->image()
     ]);
   }
 

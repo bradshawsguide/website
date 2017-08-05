@@ -1,5 +1,5 @@
 <nav class="c-traverse">
-  <h1 class="c-traverse__title u-hidden">
+  <h1 class="c-traverse__title">
     Previous and next <?= str::lower($p->parent()->title()) ?>
   </h1>
 

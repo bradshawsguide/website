@@ -10,6 +10,10 @@
   }
 }
 
+.c-navigation__title {
+  @include visually-hidden;
+}
+
 .c-navigation__list {
   padding: 0 var(--page-gutter);
   display: flex;
@@ -26,8 +30,7 @@
     }
   }
 
-  a,
-  button {
+  a {
     display: inline-block;
     padding: 0.75rem 0 0.5rem;
     color: inherit;

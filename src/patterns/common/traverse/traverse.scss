@@ -4,6 +4,10 @@
   padding: units(1) 0;
 }
 
+.c-traverse__title {
+  @include visually-hidden;
+}
+
 .c-traverse__link {
   font-weight: 600;
 

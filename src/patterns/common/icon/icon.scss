@@ -1,0 +1,11 @@
+.c-icon {
+  align-items: center;
+  display: inline-flex;
+  height: 2rem;
+  justify-content: center;
+  width: 2rem;
+}
+
+.c-icon__label {
+  @include visually-hidden;
+}

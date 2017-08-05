@@ -1,8 +1,8 @@
-<a class="u-block" href="<?= $item->url() ?>">
-  <article class="c-card">
+<article class="c-card">
+  <a class="c-card__body" href="<?= $item->url() ?>">
     <header class="c-card__header">
       <h1 class="c-card__title"><?= $item->title() ?></h1>
-      <p class="c-card__parent u-block__link"><?= $item->parent()->title() ?></p>
+      <p class="c-card__parent"><?= $item->parent()->title() ?></p>
     </header>
 
     <? if($item->hasImages()): ?>
@@ -10,13 +10,11 @@
     <? endif; ?>
 
     <div class="c-card__main">
-      <p>
-        <? if($item->desc()->isNotEmpty()): ?>
-          <?= smartypants(kirbytext($item->desc())); ?>
-        <? else: ?>
-          <?= excerpt($item->text(), $length=240); ?>
-        <? endif; ?>
-      </p>
+      <?
+        pattern('scopes/prose', [
+          'content' => $item->desc()->isNotEmpty() ? $item->desc() : excerpt($item->text(), $length=240)
+        ]);
+      ?>
     </div>
-  </article>
-</a>
+  </a>
+</article>

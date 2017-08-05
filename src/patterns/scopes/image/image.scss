@@ -11,8 +11,21 @@
     padding-bottom: $__space-medium;
     border-bottom: $__rule;
   }
+}
 
-  &.u-bleed figcaption {
+.s-image--pull-right {
+  @media screen and (min-width: $__breakpoint-medium) {
+    width: 18em;
+    float: right;
+    margin-left: 1.5rem;
+  }
+}
+
+.s-image--bleed {
+  margin-right: calc(var(--page-gutter) * -1);
+  margin-left: calc(var(--page-gutter) * -1);
+
+  figcaption {
     margin-right: var(--page-gutter);
     margin-left: var(--page-gutter);
   }
