@@ -2,6 +2,6 @@
 
 return [
   'defaults' => [
-    'p' => page('about'),
+    'image' => page('about')->image(),
   ]
 ];

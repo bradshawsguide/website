@@ -8,7 +8,7 @@ if ($p->type() == 'child') {
 }
 ?>
 
-<? if($items && $items->count()): ?>
+<? if(count($items)): ?>
 <nav class="c-page__navigation" role="navigation">
   <a class="c-page__navigation-item"<? e($p->isActive(), ' aria-current="page"') ?> href="<?= $firstItem->url() ?>"><?= smartypants($firstItem->title()) ?></a>
 <? foreach($items as $item): ?>
