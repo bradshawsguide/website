@@ -12,7 +12,11 @@
     <ul class="c-list c-list--grid">
       <? foreach($results as $result): ?>
       <li class="c-list__item">
-        <? pattern('common/card', ['item' => $result]) ?>
+        <?
+          pattern('common/card', [
+            'item' => $result
+          ])
+        ?>
       </li>
       <? endforeach ?>
     </ul>

@@ -21,7 +21,9 @@
   }
 
   if($p->text()->isNotEmpty()) {
-    pattern('scopes/prose', ['p' => $p]);
+    pattern('scopes/prose', [
+      'content' => $p->text()
+    ]);
   }
 
   if($p->distances()->isNotEmpty()) {

@@ -24,12 +24,16 @@
 
   pattern('section/featured', [
     'title' => 'Section <abbr aria-label="3">III</abbr>: The English and Scotch Lake Districts and Ayr',
-    'noresult' => 'Coming soon'
+    'items' => page('stations')->children()->filterBy('section', '3')->filter(function($page) {
+      return $page->hasImages();
+    })->limit(3)
   ]);
 
   pattern('section/featured', [
     'title' => 'Section <abbr aria-label="4">IV</abbr>: The great manufacturing districts of Lancashire & Yorkshire',
-    'noresult' => 'Coming soon'
+    'items' => page('stations')->children()->filterBy('section', '4')->filter(function($page) {
+      return $page->hasImages();
+    })->limit(3)
   ]);
 ?>
 </article>
