@@ -1,4 +1,4 @@
-<div class="c-page__content">
+<div class="c-content">
 <?
   if($p->hasImages()) {
     pattern('scopes/image', [
@@ -7,10 +7,21 @@
   }
 
   if(!$p->info()->empty() || !$p->notes()->empty()) {
-    pattern('scopes/info', ['p' => $p]);
+    pattern('scopes/info', [
+      'info' => $p->info()->yaml(),
+      'notes' => $p->notes()->yaml()
+    ]);
   }
 
-  pattern('common/navigation', ['p' => $p]);
+  if ($p->type() == 'child') {
+    pattern('scopes/navigation', [
+      'items' => $p->siblings()
+    ]);
+  } else {
+    pattern('scopes/navigation', [
+      'items' => $p->children()
+    ]);
+  }
 
   if(isset($stops) && $stops != false) {
     pattern('common/routemap', [
@@ -26,7 +37,9 @@
   }
 
   if(!$p->distances()->empty()) {
-    pattern('scopes/distances', ['p' => $p]);
+    pattern('scopes/distances', [
+      'p' => $p
+    ]);
   }
 ?>
 </div>

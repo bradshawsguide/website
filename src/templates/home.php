@@ -4,7 +4,7 @@
 <?
   pattern('common/masthead');
 
-  pattern('page/content', [
+  pattern('common/content', [
     'p' => $page
   ]);
 

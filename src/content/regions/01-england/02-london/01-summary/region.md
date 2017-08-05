@@ -1,10 +1,10 @@
-title: Summary
+title: London Summary
+----
+title_short: Summary
 ----
 type: child
 ----
-text: ## London Summary
-
-Which we intend shall include, irrespective of position, whatever characteristics give London its individuality.
+text: Which we intend shall include, irrespective of position, whatever characteristics give London its individuality.
 
 <span class="u-smcp">Its Size</span> is 14 miles long, 10 broad, 48 round, and although Nineveh was rather larger in circumference; although Babylon was 50 miles within the walls, Thebes 27 miles round, Carthage 29, Athens 25, and Rome 13 miles, yet London, in population (3,000,000) greatly exceeds these ancient cities. In sixty years London has trebled its population, and in ninety years more the population will be, it is estimated, 14,000,000 at the present rate of increase, namely from 2,362,236 in 1851, to 2,803,989 in 1861. Compared with modern cities, London contains nearly twice as many inhabitants as Paris; it multiplies Berlin by 5, St. Petersburgh by 5, Vienna by 5, Constantinople by 6, Naples by 7, Lisbon by 10, and Rome by 14. In England the following are, in the order written, the fifteen largest towns: Liverpool, Manchester, Birmingham, Leeds, Sheffield, Bristol, Wolverhampton, Newcastle, Plymouth, Bradford, Portsmouth, Stoke-upon-Trent, Hull, Oldham, and Sunderland; and yet their joint population is less by 25,000 souls than London. This population occupies 359,421 houses, on an area of 78,029 statute acres. Five births occur every hour, and in one week a village of 900 inhabitants may be said to be added to the metropolis. The cost of food is reckoned at £150,000 a day, or £55,000,000 per annum.
 
@@ -85,7 +85,7 @@ as palaces of the rich then as refuges of the poor.
 In conclusion of this summary we may remark, that, as a city, London may well be compared to the English constitution. A conglomeration, glorious in its parts, and not inconvenient as a whole; whilst, if one has its Magna Charta elevated above the commoner events of its history, the metropolis has, also, the dome of St. Paul's as its chief and glorious characteristic. Cities are the dress of nations, and countries may be judged by their capitals, as are individuals by their coats. In this point of view London may truly be regarded as the Great Seal of England; the sign-manual of an enterprising, industrious, free, and order-loving people. It is not a regular city like autocratic St. Petersburg; a beautiful city like Paris or
 Florence; or a stuccoed city like same in Germany.
 
-It is London, as Rome is Rome, and must be judged by itself. Here again a likeness will be found to the English Constitution; the more one is studied, and the longer the other visited and explored, the first feelings of contempt or dislike are lessened, until at last, all shortcomings are pardoned in admiration for what has been achieved--whether in building up the British constitution or capital. The poet fittingly concludes our summary:-- 
+It is London, as Rome is Rome, and must be judged by itself. Here again a likeness will be found to the English Constitution; the more one is studied, and the longer the other visited and explored, the first feelings of contempt or dislike are lessened, until at last, all shortcomings are pardoned in admiration for what has been achieved--whether in building up the British constitution or capital. The poet fittingly concludes our summary:--
 
   > London, I love thee; for thy many men;
   Thou art the greatest thing on the Earth's face

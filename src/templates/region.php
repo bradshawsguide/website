@@ -2,12 +2,12 @@
 
 <article class="c-page">
 <?
-  pattern('page/header', [
+  pattern('common/header', [
     'p' => $page,
     'parent' => $page->parent()
   ]);
 
-  pattern('page/content', [
+  pattern('common/content', [
     'p' => $page
   ]);
 

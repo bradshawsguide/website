@@ -1,7 +1,7 @@
 <? snippet('head') ?>
 
 <?
-  pattern('page/header', [
+  pattern('common/header', [
     'p' => $page,
     'parent' => page('explore')
   ]);

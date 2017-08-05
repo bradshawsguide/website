@@ -1,4 +1,5 @@
 .s-info {
+  @include pull-right;
   margin-top: 0.25rem;
   margin-bottom: 1rem;
   background-color: $__color-neutral-lighter;

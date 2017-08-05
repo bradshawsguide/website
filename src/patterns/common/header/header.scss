@@ -1,4 +1,4 @@
-.c-page__header {
+.c-header {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -15,7 +15,7 @@
   }
 }
 
-.c-page__header--inverted {
+.c-header--inverted {
   background-color: $__color-neutral-darkest;
   color: $__color-neutral-lightest;
 
@@ -24,7 +24,7 @@
   }
 }
 
-.c-page__title {
+.c-header__title {
   @include typeset("display1");
 
   span {
@@ -32,16 +32,16 @@
   }
 }
 
-.c-page__parent {
+.c-header__parent {
   font-family: $__font-family-serif;
   font-style: italic;
   margin-bottom: $__space-xxsmall;
 }
 
-.c-page__subtitle {
+.c-header__subtitle {
   color: $__color-neutral-dark;
 
-  .c-page__header--inverted & {
+  .c-header--inverted & {
     color: $__color-neutral-light;
   }
 }

@@ -2,7 +2,7 @@
 
 <article class="c-page<? if ($page->hasImages()): ?> c-page--has-poster<? endif ?>">
 <?
-  pattern('page/header', [
+  pattern('common/header', [
     'p' => $page,
     'notes' => $page->notes(),
     'parent' => $region,
@@ -10,7 +10,7 @@
     'modifiers' => ['inverted']
   ]);
 
-  pattern('page/content', [
+  pattern('common/content', [
     'p' => $page,
     'image' => 'bleed'
   ]);

@@ -1,17 +1,15 @@
-<aside class="s-info">
-  <? if(!$p->notes()->empty()): ?>
-    <? foreach($p->notes()->yaml() as $note): ?>
-      <p><?= $note ?></p>
-    <? endforeach ?>
-  <? endif ?>
-  <? if(!$p->info()->empty()): ?>
-    <dl>
-    <? foreach($p->info()->yaml() as $info): ?>
-      <dt><?= smartypants($info['term']) ?></dt>
-      <? if(isset($info['desc'])): ?>
-      <dd><?= smartypants($info['desc']) ?></dd>
-      <? endif ?>
-    <? endforeach ?>
-    </dl>
-  <? endif ?>
+<aside class="s-info" role="complementary">
+<? foreach($notes as $note): ?>
+  <p><?= $note ?></p>
+<? endforeach ?>
+<? if(count($info)): ?>
+  <dl>
+  <? foreach($info as $item): ?>
+    <dt><?= smartypants($item['term']) ?></dt>
+    <? if(isset($item['desc'])): ?>
+    <dd><?= smartypants($item['desc']) ?></dd>
+    <? endif ?>
+  <? endforeach ?>
+  </dl>
+<? endif ?>
 </aside>
