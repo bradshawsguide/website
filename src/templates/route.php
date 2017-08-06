@@ -2,13 +2,13 @@
 
 <article class="c-page">
 <?
-  pattern('common/header', [
+  pattern('common/page/header', [
     'parent' => page('companies/'.$page->company()->uid()),
     'title' => $page->title(),
     'subtitle' => $page->description()
   ]);
 
-  snippet('content');
+  pattern('common/page/content');
 
   pattern('common/traverse');
 ?>

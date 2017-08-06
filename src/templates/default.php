@@ -2,11 +2,11 @@
 
 <article class="c-page">
 <?
-  pattern('common/header', [
+  pattern('common/page/header', [
     'title' => $page->title()
   ]);
 
-  snippet('content');
+  pattern('common/page/content');
 ?>
 </article>
 

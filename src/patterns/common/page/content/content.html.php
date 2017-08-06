@@ -1,3 +1,4 @@
+<div class="c-page__content">
 <?
   if($page->hasImages()) {
     pattern('scopes/image', [
@@ -41,3 +42,4 @@
     ]);
   }
 ?>
+</div>

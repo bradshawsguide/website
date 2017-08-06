@@ -4,7 +4,7 @@
 <?
   pattern('common/masthead');
 
-  pattern('scopes/prose', [
+  pattern('common/page/content', [
     'content' => $page->text()
   ]);
 

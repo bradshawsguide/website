@@ -2,7 +2,7 @@
 
 <section class="c-page">
 <?
-  pattern('common/header', [
+  pattern('common/page/header', [
     'parent' => page('explore'),
     'title' => $page->title()
   ]);

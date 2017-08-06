@@ -4,3 +4,51 @@
   padding-right: var(--page-gutter);
   padding-left: var(--page-gutter);
 }
+
+.c-page__header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0 calc(var(--page-gutter) * -1) 3vw;
+  padding: 6vw var(--page-gutter) 3vw;
+
+  @media screen and (min-width: $__breakpoint-large) {
+    .c-page--has-poster & {
+      position: absolute;
+      top: 0;
+      right: 0;
+      left: 0;
+    }
+  }
+}
+
+.c-page__header--inverted {
+  background-color: $__color-neutral-darkest;
+  color: $__color-neutral-lightest;
+
+  a {
+    color: $__color-mustard;
+  }
+}
+
+.c-page__title {
+  @include typeset("display1");
+
+  span {
+    font-size: 75%;
+  }
+}
+
+.c-page__parent {
+  font-family: $__font-family-serif;
+  font-style: italic;
+  margin-bottom: $__space-xxsmall;
+}
+
+.c-page__subtitle {
+  color: $__color-neutral-dark;
+
+  .c-header--inverted & {
+    color: $__color-neutral-light;
+  }
+}

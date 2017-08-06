@@ -1,8 +1,8 @@
 <? snippet('head') ?>
 
-<article class="c-page">
+<section class="c-page">
 <?
-  pattern('common/header', [
+  pattern('common/page/header', [
     'title' => $page->title()
   ]);
 
@@ -34,6 +34,6 @@
     })->limit(6)
   ]);
 ?>
-</article>
+</section>
 
 <? snippet('foot') ?>

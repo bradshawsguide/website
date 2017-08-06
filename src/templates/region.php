@@ -2,12 +2,12 @@
 
 <article class="c-page">
 <?
-  pattern('common/header', [
+  pattern('common/page/header', [
     'parent' => $page->parent(),
     'title' => $page->title()
   ]);
 
-  snippet('content');
+  pattern('common/page/content');
 
   pattern('section/featured', [
     'title' => 'Featured stations',

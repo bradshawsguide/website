@@ -2,12 +2,12 @@
 
 <article class="c-page">
 <?
-  pattern('common/header', [
+  pattern('common/page/header', [
     'parent' => page('companies'),
     'title' => $page->title()
   ]);
 
-  snippet('content');
+  pattern('content');
 
   pattern('section/routes', [
     'title' => 'Routes operated',

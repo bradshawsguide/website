@@ -2,18 +2,10 @@
 
 <section class="c-page">
 <?
-  pattern('common/header', [
+  pattern('common/page/header', [
     'parent' => $page->parent(),
     'title' => $page->title()
   ]);
-
-  // Get station UIDs listed under `featured:` frontmatter
-  $featured = $page->featured()->yaml();
-
-  // Convert $featured => array of pages
-  array_walk($featured, function(&$value, $key) {
-    $value = page('stations/'.$value);
-  });
 
   pattern('section/featured', [
     'title' => 'Featured stations',
