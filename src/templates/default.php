@@ -3,12 +3,10 @@
 <article class="c-page">
 <?
   pattern('common/header', [
-    'p' => $page
+    'title' => $page->title()
   ]);
 
-  pattern('common/content', [
-    'p' => $page
-  ]);
+  snippet('content');
 ?>
 </article>
 

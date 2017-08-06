@@ -1,9 +1,10 @@
 <? snippet('head') ?>
 
+<section class="c-page">
 <?
   pattern('common/header', [
-    'p' => $page,
-    'parent' => page('explore')
+    'parent' => page('explore'),
+    'title' => $page->title()
   ]);
 
   foreach(alphabetise($stations) as $letter => $items):
@@ -13,5 +14,6 @@
     ]);
   endforeach;
 ?>
+</section>
 
 <? snippet('foot') ?>

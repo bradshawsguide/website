@@ -3,19 +3,14 @@
 <article class="c-page">
 <?
   pattern('common/header', [
-    'p' => $page,
     'parent' => page('companies/'.$page->company()->uid()),
+    'title' => $page->title(),
     'subtitle' => $page->description()
   ]);
 
-  pattern('common/content', [
-    'p' => $page,
-    'stops' => $page->stops()->yaml()
-  ]);
+  snippet('content');
 
-  pattern('common/traverse', [
-    'p' => $page
-  ]);
+  pattern('common/traverse');
 ?>
 </article>
 

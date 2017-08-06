@@ -3,13 +3,11 @@
 <article class="c-page">
 <?
   pattern('common/header', [
-    'p' => $page,
-    'parent' => page('companies')
+    'parent' => page('companies'),
+    'title' => $page->title()
   ]);
 
-  pattern('common/content', [
-    'p' => $page
-  ]);
+  snippet('content');
 
   pattern('section/routes', [
     'title' => 'Routes operated',
@@ -28,9 +26,7 @@
     'items' => page('stations')->children()->filterBy('company', '*=', $page->uid())
   ]);
 
-  pattern('common/traverse', [
-    'p' => $page
-  ]);
+  pattern('common/traverse');
 ?>
 </article>
 

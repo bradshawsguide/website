@@ -1,5 +1,6 @@
 .c-masthead {
-  padding: 5vh var(--page-gutter);
+  padding: 5vh 0;
+  margin: 0 calc(var(--page-gutter) * -1);
   background-color: $__color-neutral-darkest;
   color: $__color-neutral-lighter;
 }

@@ -3,7 +3,7 @@
 <article class="c-page">
 <?
   pattern('common/header', [
-    'p' => $page
+    'title' => $page->title()
   ]);
 
   pattern('section/featured', [

@@ -3,8 +3,8 @@
 <section class="c-page">
 <?
   pattern('common/header', [
-    'p' => $page,
-    'parent' => $page->parent()
+    'parent' => $page->parent(),
+    'title' => $page->title()
   ]);
 
   // Get station UIDs listed under `featured:` frontmatter

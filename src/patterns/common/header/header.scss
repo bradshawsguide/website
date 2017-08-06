@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-bottom: 3vw;
+  margin: 0 calc(var(--page-gutter) * -1) 3vw;
   padding: 6vw var(--page-gutter) 3vw;
 
   @media screen and (min-width: $__breakpoint-large) {

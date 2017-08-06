@@ -2,6 +2,6 @@
 
 return [
   'defaults' => [
-    'p' => page('stations/brighton')
+    'page' => page('stations/brighton')
   ]
 ];

@@ -2,6 +2,6 @@
 
 return [
   'defaults' => [
-    'p' => page('about'),
+    'content' => page('about')->text()
   ]
 ];

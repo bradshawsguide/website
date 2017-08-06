@@ -3,17 +3,15 @@
 <article class="c-page<? if ($page->hasImages()): ?> c-page--has-poster<? endif ?>">
 <?
   pattern('common/header', [
-    'p' => $page,
+    'title' => $page->title(),
+    'suffix' => $page->title_suffix(),
     'notes' => $page->notes(),
     'parent' => $region,
     'subtitle' => $page->title_later(),
     'modifiers' => ['inverted']
   ]);
 
-  pattern('common/content', [
-    'p' => $page,
-    'image' => 'bleed'
-  ]);
+  snippet('content');
 
   // Get route UIDs listed under `route:` frontmatter
   $routes = $page->route()->yaml();
@@ -28,9 +26,7 @@
     'items' => $routes
   ]);
 
-  pattern('common/traverse', [
-    'p' => $page
-  ]);
+  pattern('common/traverse');
 ?>
 </article>
 

@@ -3,8 +3,8 @@
 <section class="c-page">
 <?
   pattern('common/header', [
-    'p' => $page,
     'parent' => page('explore'),
+    'title' => $page->title()
   ]);
 
   pattern('common/search');

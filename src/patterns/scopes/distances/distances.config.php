@@ -2,6 +2,7 @@
 
 return [
   'defaults' => [
-    'p' => page('stations/ventnor'),
+    'title' => 'Distances of Places from '.page('stations/ventnor')->title(),
+    'distances' => page('stations/ventnor')->distances()->yaml()
   ]
 ];

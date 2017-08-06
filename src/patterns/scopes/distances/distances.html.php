@@ -1,6 +1,6 @@
 <div class="s-distances">
   <table>
-    <caption>Distances of Places from <?= smartypants($p->title()) ?></caption>
+    <caption><?= smartypants($title) ?></caption>
     <thead>
       <tr>
         <th>To:</th>
@@ -8,7 +8,7 @@
       </tr>
     </thead>
     <tbody>
-    <? foreach($p->distances()->yaml() as $distance): ?>
+    <? foreach($distances as $distance): ?>
       <tr>
         <td><span><?= kirbytextRaw($distance['location']) ?></span></td>
         <td><?= $distance['miles'] ?></td>

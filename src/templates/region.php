@@ -3,13 +3,11 @@
 <article class="c-page">
 <?
   pattern('common/header', [
-    'p' => $page,
-    'parent' => $page->parent()
+    'parent' => $page->parent(),
+    'title' => $page->title()
   ]);
 
-  pattern('common/content', [
-    'p' => $page
-  ]);
+  snippet('content');
 
   pattern('section/featured', [
     'title' => 'Featured stations',
@@ -23,9 +21,7 @@
     'items' => page('stations')->children()->filterBy('region', $page->uid())
   ]);
 
-  pattern('common/traverse', [
-    'p' => $page
-  ]);
+  pattern('common/traverse');
 ?>
 </article>
 

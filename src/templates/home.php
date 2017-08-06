@@ -4,8 +4,8 @@
 <?
   pattern('common/masthead');
 
-  pattern('common/content', [
-    'p' => $page
+  pattern('scopes/prose', [
+    'content' => $page->text()
   ]);
 
   pattern('section/featured', [
