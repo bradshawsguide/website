@@ -2,7 +2,7 @@ title: Places of Amusement
 ----
 type: child
 ----
-text: ## Terms and Times of Admission to the following Buildings, Institutions, &c., in London and its suburbs.
+text: ### Terms and Times of Admission to the following Buildings, Institutions, &c., in London and its suburbs.
 
 * <span class="u-smcp">Antiquarian Society,</span> Somerset House, by letter to the Secretary.
 * <span class="u-smcp">Blind School,</span> St. George's Fields, free,

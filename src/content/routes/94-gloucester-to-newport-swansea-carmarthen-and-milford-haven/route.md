@@ -51,7 +51,7 @@ stops:
     - milford
 - new-milford
 ----
-text: ## Gloucester to Newport
+text: ### Gloucester to Newport
 
 This line of railway affords great facilities to tourists and lovers of the picturesque for visiting the beautiful scenery of Wales.
 
@@ -61,7 +61,7 @@ Upon starting, the line proceeds over an embankment and viaduct over the low mea
 
 [Grange Court Junction](/stations/grange-court-junction).--Westbury-upon-Severn, 1 mile distant. The trains of the [Hereford, Ross, and Gloucester Railway](/routes/gloucester-to-ross-and-hereford) turn off at this station to the right.
 
-## Grange Court to Newport
+### Grange Court to Newport
 The forest hills are soon approached, and then we obtain a glimpse of the Severn, and passing on through Broadoak, we reach the station at [Newnham](/stations/newnham).
 
 Immediately after leaving this station a short tunnel passes underneath the East Dean Road, and, emerging thence, a fine reach of the Severn, called Bullo Pill, is presented to view.
@@ -70,5 +70,5 @@ The line passes along the margin of the river for several miles, and in some pla
 
 At [Woolaston](/stations/woolaston) we leave the county of Gloucester, and enter that of Monmouth.
 
-## Newport to Cardiff
+### Newport to Cardiff
 From [Newport](/stations/newport), we pass through a short tunnel and cross the river Ebbw, soon after arriving at [Marshfield](/stations/marshfield) Station, situated in a dreary extent of country, called the Westloeg Level. Crossing the river Rumney, we enter Glamorganshire.

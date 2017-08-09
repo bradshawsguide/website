@@ -115,7 +115,6 @@ North of the town, a little up the Thames, is Osrey Mill, on the site of an abbe
 A [short line](/routes/yarnton-to-witney) of 11¾ miles turns off to the left, passing the stations of [Yarnton](/stations/yarnton), [Eynsham](/stations/eynsham) and [South Leigh](/stations/south-leigh), to the town of [Witney](/stations/witney), a telegraph station, and celebrated for its manufacture of blankets.
 
 ### Objects of Notice near Oxford.
-
 **Blenheim**, the Duke of Marlborough's seat, is the great attraction. It was part of the Manor of Woodstock, and was given to the great Marlborough, by Queen Anne, to commemorate the important victory over the French, of 2nd August, 1702, on which day, every year, the holder of the seat presents a stand of colours to the queen. The house was built by Vanburgh, avid is an excellent example of his heavy, but. picturesque style; it is nearly 390 feet long; the way the chimnies arc disposed is muck admired. The interior is adorned in the style of that day, with rich tapestries, painted ceilings, &c. A piece of ornamental water in the parks, by "Capability" Brown; also a pillar, 130 feet high, celebrating Marlborough's victories, the inscription being written by Lord Bolingbroke; and Rosamond's Well, which is all that remains of the White Castle, a bower, &c., the chief scene of Scott's Woodstock.
 
 Warton's inscription on a spring here is pretty--
