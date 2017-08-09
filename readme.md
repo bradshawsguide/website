@@ -50,7 +50,6 @@ bradshawsguide
 │   ├── assets/
 │   │   ├── fonts/    # Webfonts
 │   │   ├── icons/    # Favicon and home screen icons
-│   │   ├── images/   # Global bitmap images
 │   │   ├── scripts/  # Global JavaScript files
 │   │   ├── styles/   # Global CSS files
 │   │   └── vectors/  # Global SVG images
