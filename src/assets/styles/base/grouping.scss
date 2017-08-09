@@ -22,9 +22,12 @@ p,
 blockquote,
 ol,
 ul,
-dl,
-figure {
+dl {
   margin: 0 0 var(--flow-space, 0) 0;
+}
+
+figure {
+  margin: 0;
 }
 
 // Default to ’bare’ lists
@@ -34,10 +37,7 @@ ul {
   list-style: none;
 }
 
-// Add correct display in IE 9-
-// 1. Add correct display in IE
-figcaption,
-figure,
-main { // [1]
+// Add correct display in IE
+main {
   display: block;
 }

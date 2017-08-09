@@ -1,0 +1,8 @@
+.c-search {
+  @include typeset("label");
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  padding: $__space-small var(--page-gutter);
+  background-color: $__color-mustard;
+}

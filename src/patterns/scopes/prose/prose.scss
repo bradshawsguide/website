@@ -1,19 +1,19 @@
 .s-prose {
   @include typeset("prose");
+
+  --flow-space: 1.5em;
   max-width: 70ch;
+  hyphens: auto;
+  word-break: break-word;
 
-  > * {
-    margin-bottom: 1.5em;
-  }
-
-  h2,
+  h3,
   summary,
   caption {
     @include typeset("heading");
     margin-bottom: 0.25em;
   }
 
-  * + h2,
+  * + h3,
   * + summary,
   * + caption {
     margin-top: 2.5rem;
@@ -24,7 +24,7 @@
     text-align: center;
   }
 
-  h3 {
+  h4 {
     @include typeset("prose");
     margin-top: 1.5rem;
     margin-bottom: 0.5rem;
@@ -85,14 +85,13 @@
     font-family: $__font-family-slab;
   }
 
-  p {
-    hyphens: auto;
-    word-break: break-word;
-  }
-
   ul li {
     margin-left: $__text-indent;
     text-indent: (#{$__text-indent} * -1);
+
+    &::before {
+      content: "\23AF\2009"; // HORIZONTAL LINE EXTENSION + THIN SPACE
+    }
   }
 
   p + blockquote {
@@ -100,7 +99,6 @@
   }
 
   blockquote {
-    margin-right: 10%;
     margin-bottom: 0.75em;
     margin-left: 10%;
     font-size: 85%;
@@ -196,7 +194,7 @@
     margin-right: 0.05em;
   }
 
-  .u-frac-denom {
+  .frac-denom {
     margin-left: 0.05em;
   }
 

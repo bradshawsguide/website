@@ -2,12 +2,6 @@
 
 <article class="c-page">
 <?
-  pattern('common/masthead');
-
-  pattern('common/page/content', [
-    'content' => $page->text()
-  ]);
-
   pattern('section/featured', [
     'title' => html::a('/stations/section:1', 'Section <abbr aria-label="1">I</abbr>: London and its Environs'),
     'items' => page('stations')->children()->filterBy('section', '1')->filter(function($page) {

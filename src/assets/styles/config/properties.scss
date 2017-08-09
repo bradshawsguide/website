@@ -4,6 +4,9 @@
 :root {
   --selection-color: rgba($__color-mustard, 0.25);
   --page-gutter: $__space-medium;
+  --banner-color: $__color-mustard;
+  --banner-background-color: $__color-neutral-darkest;
+  --navigation-color: $__color-neutral-lightest;
 
   @media screen and (min-width: $__breakpoint-small) {
     --page-gutter: $__space-large;

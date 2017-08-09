@@ -10,7 +10,7 @@
   flex-direction: column;
   justify-content: space-between;
   margin: 0 calc(var(--page-gutter) * -1) 3vw;
-  padding: 6vw var(--page-gutter) 3vw;
+  padding: 3vw var(--page-gutter);
 
   @media screen and (min-width: $__breakpoint-large) {
     .c-page--has-poster & {

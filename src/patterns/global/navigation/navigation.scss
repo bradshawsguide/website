@@ -1,8 +1,13 @@
 .c-navigation {
   @include typeset("label");
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: $__z-index-default;
+  pointer-events: none;
   padding: 0 var(--page-gutter);
-  flex: 0;
-  order: 0;
+  color: var(--navigation-color);
 }
 
 .c-navigation__title {
@@ -12,19 +17,23 @@
 .c-navigation__list {
   display: flex;
   justify-content: flex-end;
-  border-bottom: 1px solid $__color-neutral-mid;
-  margin-right: ($__space-small * -1);
-  margin-left: ($__space-small * -1);
+  box-shadow: 0 1px 0;
 }
 
 .c-navigation__item {
   --link-decoration: none;
   flex: auto 0 0;
-  vertical-align: bottom;
+  margin-left: $__space-small;
 
   a {
-    display: inline-block;
-    padding: $__space-small;
+    display: flex;
+    align-items: center;
+    padding: $__space-large $__space-xxsmall $__space-medium;
+    pointer-events: auto;
+
+    @media (min-width: $__breakpoint-medium) {
+      padding-top: $__space-xlarge;
+    }
   }
 
   a[aria-current] {
@@ -40,5 +49,12 @@
 
   @media (min-width: $__breakpoint-medium) {
     margin-right: auto;
+  }
+
+  .c-icon::after {
+    @media (min-width: $__breakpoint-medium) {
+      content: "Search";
+      margin-left: $__space-xxsmall;
+    }
   }
 }

@@ -24,12 +24,14 @@ small {
   font-size: 100%;
 }
 
-// 1. Remove bottom border in Chrome 57- and Firefox 39-
-// 2. Reset text decoration in Chrome, Edge, IE, Opera and
-//    Safari
+// Reset text decoration in Chrome, Edge, IE, Opera & Safari
 abbr[title] {
-  border-bottom: none; // [1]
-  text-decoration: underline dotted; // [2]
+  text-decoration: none;
+}
+
+// TODO: Review Minify HTML rendering
+cite::before {
+  content: " ";
 }
 
 // Prevent `sub` and `sup` elements affecting line height

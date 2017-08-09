@@ -9,9 +9,9 @@
           pattern('common/icon', [
             'glyph' => 'search'
           ]);
+        else:
+          echo $page->title_short();
         endif;
-
-        echo $page->title_short();
       ?>
       </a>
     </li>
