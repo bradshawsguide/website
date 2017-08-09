@@ -1,6 +1,6 @@
 <? snippet('head') ?>
 
-<article class="c-page">
+<div class="c-page">
 <?
   pattern('section/featured', [
     'title' => html::a('/stations/section:1', 'Section <abbr aria-label="1">I</abbr>: London and its Environs'),
@@ -30,6 +30,6 @@
     })->limit(3)
   ]);
 ?>
-</article>
+</div>
 
 <? snippet('foot') ?>
