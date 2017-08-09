@@ -1,8 +1,47 @@
 .c-search {
   @include typeset("label");
   display: flex;
-  align-content: center;
-  justify-content: space-between;
-  padding: $__space-small var(--page-gutter);
+  align-items: center;
+  flex: 0 0 auto;
+  padding: $__space-medium var(--page-gutter);
   background-color: $__color-mustard;
+}
+
+.c-search--overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: $__z-index-overlay;
+}
+
+.c-search__label {
+  @include visually-hidden;
+}
+
+.c-search__form {
+  position: relative;
+  display: flex;
+  flex: 1;
+  flex-direction: row-reverse;
+  margin-right: $__space-medium;
+}
+
+.c-search__input {
+  border: 0;
+  flex: 1;
+  padding: $__space-medium;
+  padding-left: calc(#{$__space-medium * 2} + 16px);
+  background-color: $__color-neutral-lighter;
+
+  &:focus {
+    background-color: $__color-neutral-lightest;
+  }
+}
+
+.c-search__button {
+  padding: $__space-medium;
+  position: absolute;
+  top: 0;
+  left: 0;
 }

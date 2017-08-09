@@ -1,5 +1,10 @@
-.c-geo_button[disabled] {
-  color: $__color-neutral-mid;
+.c-geo__button {
+  flex: 0;
+  padding: $__space-small;
+
+  &[disabled] {
+    opacity: 0.5;
+  }
 
   &.has-failed {
     color: red;
