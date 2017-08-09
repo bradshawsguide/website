@@ -58,7 +58,6 @@ bradshawsguide
 │   ├── config/       # Kirby configuration
 │   ├── content/      # Site content
 │   ├── controllers/  # Template controllers
-│   ├── models/       # Page models
 │   ├── patterns/     # Template patterns
 │   ├── plugins/      # Kirby plugins
 │   ├── snippets/     # Template snippets
