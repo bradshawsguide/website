@@ -6,7 +6,7 @@ export default function () {
     return;
   }
 
-  const container = $('.c-navigation__list');
+  const container = $('.c-search');
 
   const geo = function (el) {
     const template = $('.c-geo');

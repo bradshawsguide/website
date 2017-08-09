@@ -9,12 +9,12 @@
     <?= html::a($parent->url(), smartypants($parent->title())) ?>
   </nav>
 <? endif ?>
-  <h1 class="c-page__title">
+  <h2 class="c-page__title">
     <?= smartypants($title) ?>
     <? if (isset($suffix)): ?>
       <span><?= $suffix ?></span>
     <? endif ?>
-  </h1>
+  </h2>
 <? if (isset($subtitle)): ?>
   <p class="c-page__subtitle">
     <?= smartypants($subtitle) ?>

@@ -1,13 +1,8 @@
 .c-navigation {
   @include typeset("label");
-  background-color: $__color-neutral-dark;
+  padding: 0 var(--page-gutter);
   flex: 0;
   order: 0;
-
-  @media screen and (min-width: $__breakpoint-medium) {
-    margin-top: -3.5rem;
-    background-color: transparent;
-  }
 }
 
 .c-navigation__title {
@@ -15,34 +10,35 @@
 }
 
 .c-navigation__list {
-  padding: 0 var(--page-gutter);
   display: flex;
+  justify-content: flex-end;
+  border-bottom: 1px solid $__color-neutral-mid;
+  margin-right: ($__space-small * -1);
+  margin-left: ($__space-small * -1);
 }
 
 .c-navigation__item {
-  color: $__color-neutral-lightest;
+  --link-decoration: none;
   flex: auto 0 0;
-  margin-right: 1.25rem;
-
-  @media screen and (min-width: $__breakpoint-medium) {
-    &:first-of-type {
-      margin-left: auto;
-    }
-  }
+  vertical-align: bottom;
 
   a {
     display: inline-block;
-    padding: 0.75rem 0 0.5rem;
-    color: inherit;
-
-    @media screen and (min-width: $__breakpoint-medium) {
-      padding-top: 1.75rem;
-    }
+    padding: $__space-small;
   }
 
-  a.is-active {
-    box-shadow: inset 0 -2px 0 $__color-mustard;
+  a[aria-current] {
+    box-shadow: inset 0 -2px 0 currentColor;
     font-weight: 600;
     letter-spacing: -0.03125rem;
+  }
+}
+
+.c-navigation__item--search {
+  order: -1;
+  margin-left: 0;
+
+  @media (min-width: $__breakpoint-medium) {
+    margin-right: auto;
   }
 }

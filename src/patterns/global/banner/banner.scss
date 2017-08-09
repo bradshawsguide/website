@@ -1,13 +1,21 @@
 .c-banner {
+  display: flex;
+  justify-content: flex-start;
   flex: 0 0 auto;
-  order: -1;
   padding: $__space-large var(--page-gutter) $__space-xxsmall;
   background-color: $__color-neutral-darkest;
+
+  @media (min-width: $__breakpoint-medium) {
+    justify-content: center;
+  }
 }
 
 .c-banner__title {
+  --link-decoration: none;
+  flex: 0;
   font: 2rem/1 $__font-family-block;
   text-transform: uppercase;
+  white-space: nowrap;
   color: $__color-mustard;
 
   a {
@@ -17,5 +25,11 @@
   &:hover {
     text-decoration: none;
     opacity: 1;
+  }
+
+  span {
+    @media (max-width: $__breakpoint-small) {
+      @include visually-hidden;
+    }
   }
 }

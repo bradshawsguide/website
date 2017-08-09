@@ -40,6 +40,11 @@
 .c-contentinfo__social {
   --link-decoration: none;
   flex: 0 0 auto;
+
+  a {
+    display: inline-block;
+    padding: $__space-xxsmall;
+  }
 }
 
 .c-contentinfo__rights {
