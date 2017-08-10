@@ -2,8 +2,9 @@
 // Custom Properties
 // ========================================================
 :root {
+  --font-size-prose: 0.875rem;
   --selection-color: rgba($__color-mustard, 0.25);
-  --page-gutter: $__space-medium;
+  --page-gutter: $__space-small;
   --banner-color: $__color-mustard;
   --banner-background-color: $__color-neutral-darkest;
   --navigation-color: $__color-neutral-lightest;
@@ -11,11 +12,18 @@
   --link-color-hover: $__color-link-hover;
   --link-color-active: $__color-link-active;
 
+  @media screen and (min-width: $__breakpoint-xsmall) {
+    --font-size-prose: 1rem;
+    --page-gutter: $__space-medium;
+  }
+
   @media screen and (min-width: $__breakpoint-small) {
+    --font-size-prose: 1.125rem;
     --page-gutter: $__space-large;
   }
 
   @media screen and (min-width: $__breakpoint-large) {
+    --font-size-prose: 1.25rem;
     --page-gutter: 15vw;
   }
 }

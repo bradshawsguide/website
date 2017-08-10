@@ -18,7 +18,6 @@
 }
 
 .c-card__parent {
-  @include typeset("text");
   font-style: italic;
   color: $__color-link;
   order: -1;
@@ -30,7 +29,7 @@
 }
 
 .c-card__main {
-  @include typeset("text");
+  --font-size-prose: 1rem;
   padding: $__space-xsmall;
   color: $__color-neutral-dark;
 }
