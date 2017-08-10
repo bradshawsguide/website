@@ -1,20 +1,8 @@
-.s-info {
-  @include pull-right;
-  margin-top: 0.25rem;
-  margin-bottom: 1rem;
-  background-color: $__color-neutral-lighter;
-  padding: 0.5rem;
+.c-info {
+  font-family: $__font-family-serif;
 
-  @media screen and (min-width: $__breakpoint-small) {
-    padding: 0.75rem 1rem 1rem;
-  }
-
-  @media screen and (min-width: $__breakpoint-medium) {
-    margin-top: -0.375rem;
-  }
-
-  > *:not(:last-child) {
-    margin-bottom: 0.5rem;
+  p {
+    margin-bottom: 0.25em;
   }
 
   dt {
@@ -24,8 +12,10 @@
   }
 
   dd {
+    margin-left: $__text-indent;
+
     &:not(:last-of-type) {
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.25em;
     }
 
     &::before {

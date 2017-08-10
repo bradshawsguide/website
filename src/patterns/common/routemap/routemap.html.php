@@ -1,8 +1,28 @@
-<details class="c-routemap" open>
+<details class="c-routemap">
   <summary class="c-routemap__title">Route Map</summary>
-  <?
-    pattern('common/routemap/line', [
-      'stops' => $stops
-    ]);
+  <ol class="c-routemap__line">
+  <? foreach($stops as $stop):
+    if (is_array($stop)) {
+      $type = 'branch';
+      $station = page('stations/'.$stop['junction']);
+    } else {
+      $type = 'station';
+      $station = page('stations/'.$stop);
+    }
   ?>
+    <li>
+    <?
+      pattern('common/routemap/station', [
+        'station' => $station
+      ]);
+
+      if ($type == 'branch') {
+        pattern('common/routemap/line', [
+          'stops' => $stop['stops']
+        ]);
+      }
+    ?>
+    </li>
+  <? endforeach ?>
+  </ol>
 </details>

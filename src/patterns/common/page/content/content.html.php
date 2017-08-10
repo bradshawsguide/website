@@ -7,9 +7,15 @@
   }
 
   if(!$page->info()->empty() || !$page->notes()->empty()) {
-    pattern('scopes/info', [
+    pattern('common/aside/info', [
       'info' => $page->info()->yaml(),
       'notes' => $page->notes()->yaml()
+    ]);
+  }
+
+  if(!$page->stops()->empty()) {
+    pattern('common/aside/route', [
+      'stops' => $page->stops()->yaml()
     ]);
   }
 
@@ -20,12 +26,6 @@
   } else {
     pattern('scopes/navigation', [
       'items' => $page->children()
-    ]);
-  }
-
-  if(!$page->stops()->empty()) {
-    pattern('common/routemap', [
-      'stops' => $page->stops()->yaml()
     ]);
   }
 

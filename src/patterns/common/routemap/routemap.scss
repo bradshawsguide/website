@@ -1,19 +1,59 @@
-$rule-width: 0.25rem;
-$station-stop-size: 0.25rem; // 4px
-$line-terminus-size: 1rem; // 16px
-$background-color: $__color-neutral-lighter;
+.c-routemap__line {
+  position: relative;
+  color: $__color-neutral-dark;
 
-.c-routemap {
-  margin-top: 0.25rem;
-  margin-bottom: 1rem;
-  background-color: $background-color;
-  padding: 0.75rem;
+  .c-routemap__line {
+    padding-left: 1.25rem;
 
-  @media screen and (min-width: $__breakpoint-small) {
-    padding: 0.75rem 1rem 1rem;
+    &::before {
+      display: block;
+      position: absolute;
+      top: -0.5rem;
+      left: 0;
+      height: 1.5rem;
+      width: 1.5rem;
+      background-image: url("/assets/vectors/routemap__branch.svg");
+      background-repeat: no-repeat;
+      content: "";
+    }
   }
 
-  @media screen and (min-width: $__breakpoint-medium) {
-    margin-top: -0.375rem;
+  li {
+    position: relative;
+
+    &::before {
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 0.25rem;
+      background-color: currentColor;
+      content: "";
+    }
+  }
+
+  li:first-of-type {
+    &::before {
+      top: 1rem;
+    }
+  }
+
+  li:only-of-type {
+    &::before {
+      display: none;
+    }
+  }
+
+  li:last-of-type {
+    &::before {
+      top: auto;
+      bottom: 1rem;
+    }
+
+    .c-routemap__station::before {
+      left: -0.25rem;
+      width: 0.75rem;
+    }
   }
 }

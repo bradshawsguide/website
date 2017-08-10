@@ -1,4 +1,4 @@
-<aside class="s-info" role="complementary">
+<div class="c-info">
 <? foreach($notes as $note): ?>
   <p><?= $note ?></p>
 <? endforeach ?>
@@ -12,4 +12,4 @@
   <? endforeach ?>
   </dl>
 <? endif ?>
-</aside>
+</div>
