@@ -61,6 +61,7 @@
     "gulp-sass": "latest",
     "gulp-sass-glob": "latest",
     "gulp-sourcemaps": "latest",
+    "gulp-util": "^3.0.8",
     "rollup": "^0.45.2",
     "rollup-plugin-babel": "^2.7.1",
     "rollup-plugin-commonjs": "^8.0.2",
@@ -72,7 +73,7 @@
   },
   "dependencies": {
     "fontfaceobserver": "^2.0.0",
-    "leaflet": "^1.1.0",
+    "leaflet": "^1.2.0",
     "turbolinks": "^5.0.0"
   }
 }

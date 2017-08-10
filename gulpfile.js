@@ -6,17 +6,14 @@ const gulp = require('gulp');
 const imagemin = require('gulp-imagemin');
 const postcss = require('gulp-postcss');
 const sourcemaps = require('gulp-sourcemaps');
+const util = require('gulp-util');
 
 // Sass
 const sass = require('gulp-sass');
 const sassGlob = require('gulp-sass-glob');
 
-// Rollup + plugins
-const rollup = require('rollup');
-const babel = require('rollup-plugin-babel');
-const commonjs = require('rollup-plugin-commonjs');
-const resolve = require('rollup-plugin-node-resolve');
-const uglify = require('rollup-plugin-uglify');
+// Rollup
+const rollup = require('./rollup');
 
 // Paths
 const paths = {
@@ -56,28 +53,18 @@ function icons() {
     .pipe(gulp.dest(paths.dest.assets + 'icons'));
 }
 
-async function scripts() {
-  const bundle = await rollup.rollup({
-    entry: paths.src.assets + `scripts/app.js`,
-    plugins: [
-      babel({
-        exclude: 'node_modules/**'
-      }),
-      commonjs(),
-      resolve({
-        browser: true,
-        jsnext: true,
-        main: true
-      }),
-      uglify()
-    ]
-  });
-
-  await bundle.write({
-    format: 'iife',
+function scripts(callback) {
+  const modules = [{
+    entry: paths.src.assets + 'scripts/app.js',
     dest: paths.dest.assets + 'app.js',
-    sourceMap: true
-  });
+    name: 'app'
+  }, {
+    entry: paths.src.assets + 'scripts/map.js',
+    dest: paths.dest.assets + 'map.js',
+    name: 'map'
+  }];
+
+  rollup(modules, util, callback);
 }
 
 function styles() {
