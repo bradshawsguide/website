@@ -1,8 +1,8 @@
 import Leaflet from 'leaflet';
 
-export default function (url) {
+export default function (el, url) {
   const $ = document.querySelector.bind(document);
-  const container = $('.c-main');
+  const container = $(el);
 
   const map = Leaflet.map(container, {
     center: [51.5, -1.25],
@@ -35,9 +35,11 @@ export default function (url) {
   fetch(url)
     .then(response => response.json())
     .then(data => {
-      Leaflet.geoJSON(data, {
+      const geojsonLayer = Leaflet.geoJSON(data, {
         pointToLayer: featurePoint,
         onEachFeature: featurePopup
       }).addTo(map);
+
+      map.fitBounds(geojsonLayer.getBounds());
     });
 }

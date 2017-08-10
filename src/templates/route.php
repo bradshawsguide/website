@@ -10,6 +10,10 @@
 
   pattern('common/page/content');
 
+  pattern('common/map', [
+    'url' => $page->uri()
+  ]);
+
   pattern('common/traverse');
 ?>
 </article>

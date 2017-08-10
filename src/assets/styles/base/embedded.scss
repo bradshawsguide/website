@@ -20,3 +20,7 @@ svg:not(:root) {
   overflow: hidden; // [1]
   fill: currentColor; // [2]
 }
+
+iframe {
+  border: 0;
+}

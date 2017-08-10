@@ -1,0 +1,7 @@
+<?
+
+return [
+  'defaults' => [
+    'url' => '/stations'
+  ]
+];
