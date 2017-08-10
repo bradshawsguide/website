@@ -4,7 +4,7 @@ title: Bentley
 ----
 region: hampshire
 ----
-location: 51.181, 0.868
+location: 51.182308, -0.873343
 ----
 company:
 - london-and-south-western

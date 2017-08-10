@@ -3,7 +3,11 @@
 
   // Convert stops() into an array of pages
   array_walk($items, function(&$value, $key) {
-    $value = page('stations/'.$value);
+    if (is_array($value)) {
+      $value = page('stations/'.$value['junction']);
+    } else {
+      $value = page('stations/'.$value);
+    }
   });
 
   $json = array();

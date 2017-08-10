@@ -4,7 +4,7 @@ title: Wellington
 ----
 region: somerset
 ----
-location: 51.180915, -3.329762
+location: 50.9837, -3.2411
 ----
 company:
 - bristol-and-exeter
