@@ -24,7 +24,6 @@
   display: flex;
   flex: 1;
   flex-direction: row-reverse;
-  margin-right: $__space-medium;
 }
 
 .c-search__input {
@@ -44,4 +43,13 @@
   position: absolute;
   top: 0;
   left: 0;
+}
+
+.c-search__button--geo {
+  right: 0;
+  left: auto;
+
+  &.has-failed {
+    color: red;
+  }
 }
