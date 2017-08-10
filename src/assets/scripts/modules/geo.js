@@ -15,30 +15,29 @@ export default function () {
     el.appendChild(clone);
     const button = $('.c-geo__button');
 
-    // Geo location options
-    const geoOptions = {
-      maximumAge: 30000,
-      timeout: 27000
-    };
+    button.onclick = function () {
+      // Geo location options
+      const geoOptions = {
+        maximumAge: 30000,
+        timeout: 27000
+      };
 
-    // Geo location provided and successful
-    const geoSuccess = function (position) {
-      const lat = position.coords.latitude.toFixed(4);
-      const lng = position.coords.longitude.toFixed(4);
+      // Geo location provided and successful
+      const geoSuccess = function (position) {
+        const lat = position.coords.latitude.toFixed(4);
+        const lng = position.coords.longitude.toFixed(4);
 
-      button.disabled = false;
-      button.addEventListener('click', () => {
         window.location.href = '/search?g=' + lat + ',' + lng;
-      });
-    };
+      };
 
-    // Geo location not provided or unsuccessful
-    const geoFail = function () {
-      button.classList.add('has-failed');
-    };
+      // Geo location not provided or unsuccessful
+      const geoFail = function () {
+        button.classList.add('has-failed');
+      };
 
-    // Request current position
-    navigator.geolocation.getCurrentPosition(geoSuccess, geoFail, geoOptions);
+      // Request current position
+      navigator.geolocation.getCurrentPosition(geoSuccess, geoFail, geoOptions);
+    };
   };
 
   if (container) {
