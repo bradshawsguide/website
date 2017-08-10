@@ -13,7 +13,7 @@ const sass = require('gulp-sass');
 const sassGlob = require('gulp-sass-glob');
 
 // Rollup
-const rollup = require('./rollup');
+const rollup = require('./etc/gulp/rollup');
 
 // Paths
 const paths = {
@@ -35,11 +35,6 @@ function clean() {
 function fonts() {
   return gulp.src(paths.src.assets + 'fonts/**/*')
     .pipe(gulp.dest(paths.dest.assets + 'fonts'));
-}
-
-function images() {
-  return gulp.src(paths.src.assets + 'images/**/*')
-    .pipe(gulp.dest(paths.dest.assets + 'images'));
 }
 
 function vectors() {
@@ -99,14 +94,13 @@ function sync() {
 function watch() {
   gulp.watch(paths.src.assets + 'fonts', fonts);
   gulp.watch(paths.src.assets + 'icons', icons);
-  gulp.watch(paths.src.assets + 'images', images);
   gulp.watch(paths.src.assets + 'vectors', vectors);
   gulp.watch(paths.src.root + '**/*.js', scripts);
   gulp.watch(paths.src.root + '**/*.scss', styles);
 }
 
 // Task sets
-const compile = gulp.series(clean, gulp.parallel(fonts, icons, images, vectors, scripts, styles));
+const compile = gulp.series(clean, gulp.parallel(fonts, icons, vectors, scripts, styles));
 
 gulp.task('default', compile);
 gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));
