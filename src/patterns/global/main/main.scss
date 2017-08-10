@@ -20,16 +20,4 @@
     content: "";
     display: block;
   }
-
-  a {
-    color: $__color-link;
-
-    &:hover {
-      color: $__color-link-hover;
-    }
-
-    &:active {
-      color: $__color-link-active;
-    }
-  }
 }

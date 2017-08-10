@@ -1,5 +1,8 @@
 .c-navigation {
   @include typeset("label");
+
+  --link-color: currentColor;
+  --link-color-hover: $__color-mustard;
   position: absolute;
   top: 0;
   right: 0;

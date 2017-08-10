@@ -1,4 +1,6 @@
 .c-banner {
+  --link-color: currentColor;
+  --link-color-hover: $__color-mustard;
   display: flex;
   justify-content: flex-start;
   flex: 0 0 auto;

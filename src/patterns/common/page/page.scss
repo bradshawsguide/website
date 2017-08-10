@@ -23,12 +23,9 @@
 }
 
 .c-page__header--inverted {
+  --link-color: $__color-mustard;
   background-color: $__color-neutral-darkest;
   color: $__color-neutral-lightest;
-
-  a {
-    color: $__color-mustard;
-  }
 }
 
 .c-page__title {
@@ -48,7 +45,7 @@
 .c-page__subtitle {
   color: $__color-neutral-dark;
 
-  .c-header--inverted & {
+  .c-page__header--inverted & {
     color: $__color-neutral-light;
   }
 }

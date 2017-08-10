@@ -1,5 +1,8 @@
 .c-contentinfo {
   @include typeset("caption");
+
+  --link-color: currentColor;
+  --link-color-hover: $__color-mustard;
   display: flex;
   flex-direction: row-reverse;
   flex: 0 0 auto;
@@ -7,14 +10,6 @@
   padding: 1rem var(--page-gutter);
   background-color: $__color-neutral-darkest;
   color: $__color-neutral-lightest;
-
-  a {
-    color: inherit;
-  }
-
-  a:hover {
-    color: $__color-mustard;
-  }
 }
 
 .c-contentinfo__social {

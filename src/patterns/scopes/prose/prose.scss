@@ -87,10 +87,10 @@
 
   ul li {
     margin-left: $__text-indent;
-    text-indent: (#{$__text-indent} * -1);
+    text-indent: calc(#{$__text-indent} * -1);
 
     &::before {
-      content: "\23AF\2009"; // HORIZONTAL LINE EXTENSION + THIN SPACE
+      content: "—\2009"; // EM DASH + THIN SPACE
     }
   }
 
@@ -105,12 +105,14 @@
     line-height: 1.4;
 
     hr {
-      margin: 1.5rem 0;
+      margin-top: -1.5em;
+      margin-bottom: 1.5em;
+      border: 0;
 
       &::after {
         display: block;
         height: 0;
-        letter-spacing: 1.5rem;
+        letter-spacing: 1.5em;
         content: "\00A0 ∗ ∗ ∗ ∗ ";
       }
     }

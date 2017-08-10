@@ -7,6 +7,9 @@
   --banner-color: $__color-mustard;
   --banner-background-color: $__color-neutral-darkest;
   --navigation-color: $__color-neutral-lightest;
+  --link-color: $__color-link;
+  --link-color-hover: $__color-link-hover;
+  --link-color-active: $__color-link-active;
 
   @media screen and (min-width: $__breakpoint-small) {
     --page-gutter: $__space-large;
