@@ -9,7 +9,7 @@
 
   pattern('section/featured', [
     'title' => 'Featured stations',
-    'items' => $featured
+    'items' => $page->featured()
   ]);
 
   pattern('section/list', [

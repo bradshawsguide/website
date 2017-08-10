@@ -1,6 +1,6 @@
 title: England
 ----
-featured:
+feature:
 - brighton
 - bristol
 - crystal-palace

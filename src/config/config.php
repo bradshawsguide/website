@@ -9,9 +9,6 @@ c::set('license', '');
 // URL setup
 c::set('url', 'https://bradshaws.dev');
 
-// Whoops error reporting
-c::set('whoops', false);
-
 // Routes
 c::set('routes', array(
   array(
@@ -34,11 +31,14 @@ c::set('rewrite', true);
 // Force SSL
 c::set('ssl', false);
 
-// Debug
+// Debugging
 c::set('debug', true);
 
 // Troubleshooting
 c::set('troubleshoot', true);
+
+// Whoops error reporting
+c::set('whoops', true);
 
 // Tiny URL Setup
 c::set('tinyurl.enabled', true);

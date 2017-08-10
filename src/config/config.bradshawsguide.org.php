@@ -1,10 +1,13 @@
 <?
 
-// Enabled caching
+// Enable caching
 c::set('cache', true);
 
-// Disable debuging
+// Disable debugging
 c::set('debug', false);
+
+// Disable Whoops error reporting
+c::set('whoops', false);
 
 // URLs
 c::set('url', 'https://bradshaws.guide');

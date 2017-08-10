@@ -6,7 +6,7 @@
     'title' => $page->title(),
     'suffix' => $page->title_suffix(),
     'notes' => $page->notes(),
-    'parent' => $region,
+    'parent' => $page->parent(),
     'subtitle' => $page->title_later(),
     'modifiers' => ['inverted']
   ]);
@@ -15,7 +15,7 @@
 
   pattern('section/routes', [
     'title' => 'Routes serving the station',
-    'items' => $routes
+    'items' => $page->routes()
   ]);
 
   pattern('common/traverse');
