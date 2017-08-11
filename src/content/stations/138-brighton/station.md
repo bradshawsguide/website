@@ -33,7 +33,7 @@ notes:
 ----
 desc: This once famous resort of royalty and fashion may now, through the levelling of the railroad, be fairly entitled to the appellation of the Marine Metropolis.
 ----
-text: The <span class="u-smcp">Brighton Terminus</span> is an elegant structure, fitted up in the most convenient manner. There is a portico in the Roman architectural style, which projects on pillars into the street, and is surmounted by an illuminated clock.
+text: The <span class="smcp">Brighton Terminus</span> is an elegant structure, fitted up in the most convenient manner. There is a portico in the Roman architectural style, which projects on pillars into the street, and is surmounted by an illuminated clock.
 
 This once famous resort of royalty and fashion may now, through the literal as well as metaphorical levelling of the railroad, be fairly entitled to the appellation of the Marine Metropolis. Merchants who formerly made Dulwich or Dalston the boundaries of their suburban residences, now have got their mansions on the south coast, and still get in less time, by a less expensive conveyance, to their counting-houses in the city. Excursions are now made with greater facility, and possibly more enjoyment, to Brighton, than would have, a few years back, sufficed for the common-place pilgrimage to Hampton Court; and a constant succession of trains, conveying a host of pleasure-seekers and businessmen to and fro, now traverse with marvellous frequency and precision the line that has sprung, by the magical enterprise of man, from tracts of waving corn-fields and boundless breadths of pasture.
 

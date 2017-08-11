@@ -49,7 +49,7 @@ export default function () {
 
     matchText(prose, new RegExp('\\b' + placename + '\\b'), (node, match) => {
       const span = document.createElement('span');
-      span.className = 'u-smcp';
+      span.className = 'smcp';
       span.textContent = match;
       return span;
     });
