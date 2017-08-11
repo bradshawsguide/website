@@ -1,8 +1,8 @@
 .c-card {
   --link-decoration: none;
   background-color: white;
-  outline: 1px solid rgba(54, 42, 35, 0.1);
-  box-shadow: 0 0 12px 0 rgba(51, 34, 26, 0.1);
+  outline: 1px solid rgba($__color-neutral-darkest, 0.1);
+  box-shadow: 0 0 12px 0 rgba($__color-neutral-darkest, 0.1);
 }
 
 .c-card__body {

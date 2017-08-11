@@ -37,7 +37,7 @@
   <title><?= $page->title() ?><? if(!$page->isHomePage()): ?> - <?= $site->title() ?><? endif ?></title>
 </head>
 
-<body>
+<body<?= isset($class) ? ' class="'.$class.'"' : null; ?>>
   <? pattern('global/banner') ?>
 
   <main class="c-main" role="main">

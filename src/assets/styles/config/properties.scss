@@ -27,3 +27,9 @@
     --page-gutter: 15vw;
   }
 }
+
+.has-poster {
+  --banner-color: $__color-neutral-darkest;
+  --banner-background-color: transparent;
+  --navigation-color: $__color-neutral-darkest;
+}

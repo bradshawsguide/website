@@ -1,14 +1,20 @@
-<? snippet('head') ?>
-
-<article class="c-page<? if ($page->hasImages()): ?> c-page--has-poster<? endif ?>">
 <?
+  $class = $page->hasImages() ? 'has-poster' : null;
+  snippet('head', [
+    'class' => $class
+  ])
+?>
+
+<article class="c-page">
+<?
+  $mods = $page->hasImages() ? 'poster' : 'inverted';
   pattern('common/page/header', [
     'title' => $page->title(),
     'suffix' => $page->title_suffix(),
     'notes' => $page->notes(),
     'parent' => $page->parent(),
     'subtitle' => $page->title_later(),
-    'modifiers' => ['inverted']
+    'modifiers' => [$mods]
   ]);
 
   pattern('common/page/content');
