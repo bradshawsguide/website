@@ -5,21 +5,12 @@
 ?>
 <header class="c-page__header<?= $mods ?? '' ?>">
   <div class="c-page__header-inset">
-    <? if(isset($parent)): ?>
-      <nav class="c-page__parent">
-        <?= html::a($parent->url(), smartypants($parent->title())) ?>
-      </nav>
-    <? endif ?>
-    <h2 class="c-page__title">
-      <?= smartypants($title) ?>
-      <? if(!$suffix->empty()): ?>
-        <span><?= $suffix ?></span>
-      <? endif ?>
-    </h2>
-    <? if(!$subtitle->empty()): ?>
-      <p class="c-page__subtitle">
-        <?= smartypants($subtitle) ?>
-      </p>
-    <? endif ?>
+  <? if(isset($parent)): ?>
+    <nav class="c-page__parent"><?= html::a($parent->url(), smartypants($parent->title())) ?></nav>
+  <? endif ?>
+    <h2 class="c-page__title"><?= smartypants($title) ?></h2>
+  <? if(!$subtitle->empty()): ?>
+    <p class="c-page__subtitle"><?= smartypants($subtitle) ?></p>
+  <? endif ?>
   </div>
 </header>

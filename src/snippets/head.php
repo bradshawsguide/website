@@ -40,4 +40,4 @@
 <body<?= isset($class) ? ' class="'.$class.'"' : null; ?>>
   <? pattern('global/banner') ?>
 
-  <main class="c-main" role="main">
+  <main class="c-main">

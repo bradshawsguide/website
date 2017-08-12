@@ -1,4 +1,4 @@
-<header class="c-banner<? e($page->isHomePage(), ' c-banner--home') ?>" role="banner">
+<header class="c-banner<? e($page->isHomePage(), ' c-banner--home') ?>">
   <h1 class="c-banner__title">
   <? if($page->isHomePage()): ?>
     <span class="c-banner__masthead">
