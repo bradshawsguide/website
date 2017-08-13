@@ -8,7 +8,7 @@
   ]);
 
   foreach($countries as $country) {
-    pattern('section/list', [
+    pattern('common/section/list', [
       'title' => html::a($country->url(), smartypants($country->title())),
       'items' => $country->children()
     ]);

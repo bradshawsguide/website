@@ -7,12 +7,12 @@
     'title' => $page->title()
   ]);
 
-  pattern('section/featured', [
+  pattern('common/section/featured', [
     'title' => 'Featured stations',
     'items' => $page->featured()
   ]);
 
-  pattern('section/list', [
+  pattern('common/section/list', [
     'title' => 'Counties',
     'items' => $page->children()->visible()
   ]);

@@ -3,8 +3,8 @@
 return [
   'defaults' => [
     'items' => [
-      ['#view','List view'],
-      ['#map','Map view']
+      ['?view=list','List view'],
+      ['?view=map','Map view']
     ]
   ]
 ];

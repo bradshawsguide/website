@@ -1,0 +1,15 @@
+.c-switch {
+  --link-decoration: none;
+  display: flex;
+  border-top: $__rule;
+}
+
+.c-switch__label {
+  display: inline-block;
+  padding: $__space-small;
+
+  &[aria-current] {
+    font-weight: 600;
+    letter-spacing: -0.03125rem;
+  }
+}
