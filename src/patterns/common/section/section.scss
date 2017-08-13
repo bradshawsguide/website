@@ -1,5 +1,9 @@
 .c-section {
-  margin-top: $__space-large;
+  margin-top: $__space-xlarge;
+
+  .s-prose {
+    --flow-space: $__space-medium;
+  }
 }
 
 .c-section__title {
