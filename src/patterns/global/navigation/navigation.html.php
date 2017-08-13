@@ -1,5 +1,5 @@
-<nav class="c-navigation" role="navigation">
-  <h1 class="c-navigation__title">Explore <?= $site->title() ?></h1>
+<nav class="c-navigation">
+  <h2 class="c-navigation__title">Explore <?= $site->title() ?></h2>
   <ul class="c-navigation__list">
   <? foreach($pages->visible() as $page): ?>
     <li class="c-navigation__item c-navigation__item--<?= str::lower($page->title_short()) ?>">

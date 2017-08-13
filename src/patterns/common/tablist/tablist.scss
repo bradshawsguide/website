@@ -1,4 +1,16 @@
 .c-tablist {
-  padding-right: var(--page-gutter);
-  padding-left: var(--page-gutter);
+  --link-decoration: none;
+  display: flex;
+  border-top: $__rule;
+}
+
+.c-tablist__label {
+  display: inline-block;
+  padding: $__space-small;
+
+  &[aria-current] {
+    box-shadow: inset 0 2px 0 currentColor;
+    font-weight: 600;
+    letter-spacing: -0.03125rem;
+  }
 }
