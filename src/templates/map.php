@@ -16,7 +16,7 @@
   <body>
     <div id="map"></div>
     <script>
-      map('#map','<?= url(kirby()->request()->query()->geojson().'.geojson') ?>');
+      map('#map','<?= url(kirby()->request()->query()->geojson()) ?>');
     </script>
   </body>
 </html>

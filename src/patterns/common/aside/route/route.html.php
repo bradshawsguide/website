@@ -1,7 +1,7 @@
 <aside class="c-aside" role="complementary">
   <?
     pattern('common/map', [
-      'url' => $page->uri()
+      'url' => $page->uri().'.geojson'
     ]);
 
     pattern('common/routemap', [
