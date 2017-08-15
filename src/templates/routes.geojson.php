@@ -16,7 +16,10 @@
       }
     });
 
+    $json = array();
     $geometry = array();
+    $coords = array();
+
     foreach($stops as $stop) {
       if(!$stop->location()->empty()) {
         $coords[] = array(
