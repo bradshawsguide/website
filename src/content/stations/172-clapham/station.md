@@ -9,11 +9,9 @@ region: surrey
 location: 51.4646, -0.1705
 ----
 company:
-- london-chatham-and-dover
 - london-and-south-western
 ----
 route:
-- victoria-to-herne-hill
 - london-to-southampton-dorchester-and-weymouth
 ----
 info:

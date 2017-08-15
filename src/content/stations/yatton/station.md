@@ -12,3 +12,4 @@ company:
 route:
 - bristol-to-exeter
 - yatton-to-clevedon
+- yatton-to-banwell

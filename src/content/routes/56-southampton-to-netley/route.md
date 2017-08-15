@@ -8,7 +8,7 @@ company: london-and-south-western
 ----
 stops:
 - netley-abbey
-- bitterne-road
 - woolston
+- bitterne-road
 - portswood
 - southampton

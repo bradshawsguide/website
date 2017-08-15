@@ -10,7 +10,7 @@ company:
 - bristol-and-exeter
 ----
 route:
-- bristol-to-exeter
+- yatton-to-banwell
 ----
 info:
 - term: Population

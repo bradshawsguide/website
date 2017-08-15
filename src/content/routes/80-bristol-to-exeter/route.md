@@ -11,7 +11,6 @@ stops:
 - bourton
 - nailsea
 - yatton
-- banwell
 - weston-junction
 - highbridge
 - bridgewater

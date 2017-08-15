@@ -2,11 +2,11 @@ section: 1
 ----
 title: Bromley
 ----
-title_later: Bromley-by-Bow (tube station)
+title_later: Bromley South
 ----
 region: kent
 ----
-location: 51.524, -0.0113
+location: 51.4,0.01523
 ----
 company:
 - london-tilbury-and-southend

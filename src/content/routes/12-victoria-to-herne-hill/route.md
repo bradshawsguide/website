@@ -11,7 +11,7 @@ stops:
 - battersea-park
 - stewarts-lane
 - wandsworth-road
-- clapham
+- clapham-high-street
 - brixton
 - herne-hill
 ----

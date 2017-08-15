@@ -19,7 +19,7 @@ stops:
 - abbey-wood
 - belvedere
 - erith
-- deptford
+- dartford
 - greenhithe
 - northfleet
 - gravesend
