@@ -2,3 +2,9 @@
   width: 100%;
   height: 30rem;
 }
+
+.l-bleed {
+  width: 100vw;
+  margin-left: calc(var(--page-gutter) * -1);
+  margin-right: calc(var(--page-gutter) * -1);
+}

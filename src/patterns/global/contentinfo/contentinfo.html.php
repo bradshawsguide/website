@@ -3,13 +3,15 @@
     <a rel="me" href="https://foursquare.com/bradshawsguide">
       <? pattern('common/icon', [
         'glyph' => 'foursquare',
-        'label' => 'Follow George Bradshaw on Foursquare'
+        'label' => 'Follow George Bradshaw on Foursquare',
+        'size' => 24
       ]) ?>
     </a>
     <a rel="me" href="https://twitter.com/bradshawsguide">
       <? pattern('common/icon', [
         'glyph' => 'twitter',
-        'label' => 'Follow George Bradshaw on Twitter'
+        'label' => 'Follow George Bradshaw on Twitter',
+        'size' => 24
       ]) ?>
     </a>
   </div>
