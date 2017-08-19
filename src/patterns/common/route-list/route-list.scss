@@ -1,7 +1,9 @@
-.c-route {
-  display: inline-flex;
+.c-route-list__item {
+  display: flex;
   flex-direction: column;
   align-items: baseline;
+  padding-bottom: $__space-xsmall;
+  text-decoration: none;
 
   @media screen and (min-width: $__breakpoint-medium) {
     flex-direction: row;
@@ -9,19 +11,16 @@
 
   &:hover {
     text-decoration: none;
-
-    .c-route__title {
-      text-decoration: underline;
-    }
   }
 }
 
-.c-route__title {
+.c-route-list__label {
+  text-decoration: underline;
   font-weight: bold;
   white-space: nowrap;
 }
 
-.c-route__desc {
+.c-route-list__desc {
   @include typeset("caption");
   overflow: hidden;
   white-space: nowrap;

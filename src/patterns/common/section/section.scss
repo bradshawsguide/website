@@ -8,16 +8,15 @@
 
 .c-section__title {
   @include typeset("display2");
+
+  --link-color: currentColor;
+  --link-decoration: none;
   border-top: $__rule;
   padding-top: $__space-small;
   padding-bottom: $__space-small;
   color: $__color-neutral-dark;
 
-  a {
-    color: inherit;
-  }
-
-  a::after {
+  &::after {
     content: "\0020\261E";
     font-family: serif;
   }

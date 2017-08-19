@@ -7,13 +7,9 @@
     'title' => $page->title()
   ]);
 
-  pattern('common/tablist', [
-    'items' => $sectionTabs
-  ]);
+  pattern('common/tablist');
 
-  pattern('common/switch');
-
-  if (kirby()->request()->query()->view() == 'map') {
+  if (param('view') == 'map') {
     pattern('common/map', [
       'url' => $page->uri().'.geojson/'.$kirby->request()->params(),
       'class' => 'l-bleed'

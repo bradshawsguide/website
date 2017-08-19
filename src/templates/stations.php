@@ -7,18 +7,21 @@
     'title' => $page->title()
   ]);
 
-  pattern('common/tablist', [
-    'items' => $sectionTabs
-  ]);
+  pattern('common/tablist');
 
-  pattern('common/switch');
-
-  foreach(alphabetise($stations) as $letter => $items):
-    pattern('common/index', [
-      'items' => $items,
-      'letter' => $letter
+  if (param('view') == 'map') {
+    pattern('common/map', [
+      'url' => $page->uri().'.geojson/'.$kirby->request()->params(),
+      'class' => 'l-bleed'
     ]);
-  endforeach;
+  } else {
+    foreach(alphabetise($stations) as $letter => $items):
+      pattern('common/index', [
+        'items' => $items,
+        'letter' => $letter
+      ]);
+    endforeach;
+  };
 ?>
 </section>
 

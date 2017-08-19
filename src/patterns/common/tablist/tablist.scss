@@ -1,16 +1,31 @@
-.c-tablist {
-  --link-decoration: none;
+.c-tabs {
   display: flex;
-  border-top: $__rule;
+  justify-content: space-between;
+  padding-bottom: $__space-medium;
 }
 
-.c-tablist__label {
+.c-tabs__list {
+  --link-decoration: none;
+  display: inline-flex;
+  justify-content: center;
+  width: max-content;
+  border: 1px solid $__color-neutral-darkest;
+}
+
+.c-tabs__label {
+  flex: 1;
   display: inline-block;
-  padding: $__space-small;
+  padding: $__space-xsmall $__space-medium;
+  white-space: nowrap;
 
   &[aria-current] {
-    box-shadow: inset 0 2px 0 currentColor;
+    background-color: $__color-neutral-darkest;
     font-weight: 600;
     letter-spacing: -0.03125rem;
+    color: white;
+  }
+
+  + .c-tabs__label {
+    border-left: 1px solid $__color-neutral-darkest;
   }
 }

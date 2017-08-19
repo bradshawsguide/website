@@ -40,6 +40,9 @@ c::set('troubleshoot', true);
 // Whoops error reporting
 c::set('whoops', true);
 
+// Disable HTML minification
+c::set('MinifyHTML', true);
+
 // Tiny URL Setup
 c::set('tinyurl.enabled', true);
 c::set('tinyurl.folder', 'x');

@@ -2,6 +2,7 @@
   padding-bottom: $__space-xsmall;
 }
 
+// Column list
 .c-list--columns {
   columns: 10rem 5;
   column-fill: balance;
@@ -12,6 +13,7 @@
   }
 }
 
+// Grid list
 .c-list--grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
