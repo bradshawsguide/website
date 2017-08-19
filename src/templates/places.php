@@ -19,13 +19,6 @@
       'items' => $country->children()
     ]);
   }
-
-  pattern('common/section/featured', [
-    'title' => html::a('/companies/', 'Companies'),
-    'items' => page('companies')->children()->filter(function($page) {
-      return $page->hasImages();
-    })->limit(6)
-  ]);
 ?>
 </section>
 

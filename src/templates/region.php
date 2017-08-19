@@ -11,12 +11,12 @@
 
   pattern('common/page/content');
 
-  if (count($featured)) {
+  if (count($page->featured())) {
     pattern('common/section/featured', [
       'title' => 'Featured stations',
-      'items' => $featured
+      'items' => $page->featured()
     ]);
-  }
+  };
 
   pattern('common/section/list', [
     'title' => 'Stations in '.$page->title(),

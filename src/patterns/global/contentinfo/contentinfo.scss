@@ -1,20 +1,31 @@
 .c-contentinfo {
-  @include typeset("caption");
-
   --link-color: currentColor;
   --link-color-hover: $__color-mustard;
   display: flex;
-  flex-direction: row-reverse;
   flex: 0 0 auto;
+  flex-flow: row wrap;
+  align-items: flex-end;
   margin-top: auto;
   padding: 1rem var(--page-gutter);
   background-color: $__color-neutral-darkest;
   color: $__color-neutral-lightest;
 }
 
+.c-contentinfo__links {
+  @include typeset("label");
+  display: flex;
+  flex: 1 0 100%;
+  margin-bottom: $__space-small;
+
+  li + li {
+    margin-left: $__space-small;
+  }
+}
+
 .c-contentinfo__social {
   --link-decoration: none;
   flex: 0 0 auto;
+  order: 2;
 
   a {
     display: inline-block;
@@ -23,5 +34,7 @@
 }
 
 .c-contentinfo__rights {
+  @include typeset("caption");
   flex: 1 1 auto;
+  margin-bottom: $__space-small;
 }

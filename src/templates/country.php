@@ -7,10 +7,12 @@
     'title' => $page->title()
   ]);
 
-  pattern('common/section/featured', [
-    'title' => 'Featured stations',
-    'items' => $page->featured()
-  ]);
+  if (count($page->featured())) {
+    pattern('common/section/featured', [
+      'title' => 'Featured stations',
+      'items' => $page->featured()
+    ]);
+  };
 
   pattern('common/section/list', [
     'title' => 'Counties',

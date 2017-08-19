@@ -9,21 +9,21 @@
 
   pattern('content');
 
+  if (count($page->featured())) {
+    pattern('common/section/featured', [
+      'title' => 'Key stations served',
+      'items' => $page->featured()
+    ]);
+  };
+
+  pattern('common/section/list', [
+    'title' => 'All stations',
+    'items' => $page->stations()
+  ]);
+
   pattern('common/section/routes', [
     'title' => 'Routes operated',
     'items' => page('routes')->children()->filterBy('company', $page->uid())
-  ]);
-
-  pattern('common/section/featured', [
-    'title' => 'Featured stations',
-    'items' => page('stations')->children()->filterBy('company', '*=', $page->uid())->filter(function($page) {
-      return $page->hasImages();
-    })
-  ]);
-
-  pattern('common/section/stations', [
-    'title' => 'Stations served',
-    'items' => page('stations')->children()->filterBy('company', '*=', $page->uid())
   ]);
 
   pattern('common/traverse');

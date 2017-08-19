@@ -7,9 +7,12 @@
     'title' => $page->title()
   ]);
 
-  pattern('common/list', [
-    'items' => $page->children()->visible()
-  ]);
+  foreach(alphabetise($page->children()->visible()) as $letter => $items):
+    pattern('common/index', [
+      'items' => $items,
+      'letter' => $letter
+    ]);
+  endforeach;
 ?>
 </section>
 

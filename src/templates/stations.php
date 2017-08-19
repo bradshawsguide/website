@@ -1,4 +1,9 @@
-<? snippet('head') ?>
+<?
+  if (param('view') == null) {
+    go($page->uri().'/section:1/view:list');
+  };
+  snippet('head')
+?>
 
 <section class="c-page">
 <?
@@ -18,7 +23,8 @@
     foreach(alphabetise($stations) as $letter => $items):
       pattern('common/index', [
         'items' => $items,
-        'letter' => $letter
+        'letter' => $letter,
+        'listAs' => 'columns'
       ]);
     endforeach;
   };

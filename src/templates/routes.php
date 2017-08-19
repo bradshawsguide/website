@@ -1,9 +1,13 @@
-<? snippet('head') ?>
+<?
+  if (param('view') == null) {
+    go($page->uri().'/section:1/view:list');
+  };
+  snippet('head')
+?>
 
 <section class="c-page">
 <?
   pattern('common/page/header', [
-    'parent' => page('places'),
     'title' => $page->title()
   ]);
 

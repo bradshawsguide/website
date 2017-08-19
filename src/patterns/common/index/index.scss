@@ -1,9 +1,11 @@
 .c-index {
   display: flex;
-  margin-bottom: $__space-large;
+  border-top: $__rule;
+  margin-bottom: $__space-xlarge;
+  padding-top: $__space-small;
 }
 
 .c-index__title {
-  @include typeset("display3");
+  @include typeset("display2");
   padding-right: $__space-small;
 }

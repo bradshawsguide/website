@@ -16,7 +16,7 @@
   padding-bottom: $__space-small;
   color: $__color-neutral-dark;
 
-  &::after {
+  a::after {
     content: "\0020\261E";
     font-family: serif;
   }

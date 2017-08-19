@@ -1,4 +1,6 @@
 .c-tabs {
+  @include typeset("label");
+  font-variant-caps: all-small-caps;
   display: flex;
   justify-content: space-between;
   padding-bottom: $__space-medium;
@@ -9,7 +11,7 @@
   display: inline-flex;
   justify-content: center;
   width: max-content;
-  border: 1px solid $__color-neutral-darkest;
+  border: 1px solid $__color-crimson;
 }
 
 .c-tabs__label {
@@ -19,13 +21,13 @@
   white-space: nowrap;
 
   &[aria-current] {
-    background-color: $__color-neutral-darkest;
+    background-color: $__color-crimson;
     font-weight: 600;
     letter-spacing: -0.03125rem;
     color: white;
   }
 
   + .c-tabs__label {
-    border-left: 1px solid $__color-neutral-darkest;
+    border-left: 1px solid $__color-crimson;
   }
 }
