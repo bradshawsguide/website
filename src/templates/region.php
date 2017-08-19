@@ -9,12 +9,12 @@
 
   pattern('common/page/content');
 
-  pattern('common/section/featured', [
-    'title' => 'Featured stations',
-    'items' => page('stations')->children()->filterBy('region', $page->uid())->filter(function($page) {
-      return $page->hasImages();
-    })
-  ]);
+  if (count($featured)) {
+    pattern('common/section/featured', [
+      'title' => 'Featured stations',
+      'items' => $featured
+    ]);
+  }
 
   pattern('common/section/list', [
     'title' => 'Stations in '.$page->title(),

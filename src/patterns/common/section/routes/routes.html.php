@@ -1,6 +1,6 @@
 <? if(count($items)): ?>
   <section class="c-section">
-    <h1 class="c-section__title"><?= $title ?></h1>
+    <?= brick('h'.(isset($level) ? $level : 2))->html($title)->attr('class', 'c-section__title') ?>
     <?
       pattern('common/route-list', [
         'routes' => $items

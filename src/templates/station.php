@@ -20,6 +20,7 @@
 
   pattern('common/section/routes', [
     'title' => 'Routes serving the station',
+    'level' => 3,
     'items' => $page->routes()
   ]);
 

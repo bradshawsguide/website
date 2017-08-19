@@ -5,7 +5,7 @@
 ?>
 <header class="c-page__header<?= $mods ?? '' ?>">
   <div class="c-page__header-inset">
-  <? if(isset($parent) && !$parent->empty()): ?>
+  <? if(isset($parent)): ?>
     <nav class="c-page__parent"><?= html::a($parent->url(), smartypants($parent->title())) ?></nav>
   <? endif ?>
     <h2 class="c-page__title"><?= smartypants($title) ?></h2>

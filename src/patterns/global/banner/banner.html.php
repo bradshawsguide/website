@@ -12,4 +12,7 @@
     </a>
   <? endif ?>
   </h1>
+  <? if($page->isHomePage()): ?>
+    <p class="c-banner__edition">1866 Edition</p>
+  <? endif ?>
 </header>

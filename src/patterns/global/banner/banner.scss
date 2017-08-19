@@ -25,6 +25,7 @@
 
 .c-banner--home {
   flex-direction: column;
+  margin-bottom: $__space-xlarge;
   padding-top: calc(5vh + 5rem);
   padding-bottom: 5vh;
 }
@@ -42,7 +43,7 @@
 
   > span:nth-child(2) {
     font-family: $__font-family-serif;
-    margin-bottom: 0.75em;
+    margin-bottom: 0.875em;
     color: var(--navigation-color);
   }
 
@@ -62,6 +63,36 @@
 
     @media (min-width: $__breakpoint-medium) {
       padding-top: $__space-xlarge;
+    }
+  }
+}
+
+.c-banner__edition {
+  display: flex;
+  align-items: center;
+  margin-top: 1vw;
+  font: italic 1.125rem/1 $__font-family-serif;
+  text-transform: capitalize;
+  color: $__color-neutral-lighter;
+
+  @media (min-width: $__breakpoint-medium) {
+    justify-content: center;
+
+    &::before,
+    &::after {
+      display: block;
+      background-color: currentColor;
+      width: 5vw;
+      height: 1px;
+      content: "";
+    }
+
+    &::before {
+      margin-right: $__space-xsmall;
+    }
+
+    &::after {
+      margin-left: $__space-xsmall;
     }
   }
 }
