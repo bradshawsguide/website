@@ -8,12 +8,7 @@
   ]);
 
   pattern('common/tablist', [
-    'items' => [
-      ['/stations/section:1','Section 1'],
-      ['/stations/section:2','Section 2'],
-      ['/stations/section:3','Section 3'],
-      ['/stations/section:4','Section 4']
-    ]
+    'items' => $sectionTabs
   ]);
 
   pattern('common/switch');

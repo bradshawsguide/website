@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
   <meta property="og:url" content="<?= $page->url() ?>"/>
-  <meta property="og:title" content="<?= $page->title() ?>"/>
+  <meta property="og:title" content="<?= str::unhtml($page->title()) ?>"/>
 <? if(!$page->text()->empty()): ?>
   <meta property="og:description" content="<?= excerpt($page->text(), $length=300) ?>"/>
 <? endif ?>
@@ -34,7 +34,7 @@
   </script>
   <script src="/assets/app.js" async></script>
 
-  <title><?= $page->title() ?><? if(!$page->isHomePage()): ?> - <?= $site->title() ?><? endif ?></title>
+  <title><?= str::unhtml($page->title()) ?><? if(!$page->isHomePage()): ?> - <?= $site->title() ?><? endif ?></title>
 </head>
 
 <body<?= isset($class) ? ' class="'.$class.'"' : null; ?>>

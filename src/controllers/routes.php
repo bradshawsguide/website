@@ -1,14 +1,22 @@
 <?
 
 return function($site, $pages, $page) {
-  $section = param('section');
+  $sectionParam = param('section');
   $companies = page('companies')->children()->visible()->sortBy('title');
   $routes = page('routes')->children()->visible();
 
-  // Filter by section
-  if ($section == true) {
-    $routes = $routes->filterBy('section', $section);
+  // Construct links for section tabs
+  foreach(page('sections')->children() as $section) {
+    $sectionTabs[] = array(
+      '/routes/section:'.$section->dirname(),
+      $section->title()
+    );
   };
 
-  return compact('companies', 'routes');
+  // Filter by section
+  if ($sectionParam == true) {
+    $routes = $routes->filterBy('section', $sectionParam);
+  };
+
+  return compact('companies', 'routes', 'sectionTabs');
 };
