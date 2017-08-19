@@ -2,6 +2,6 @@
 
 return [
   'defaults' => [
-    'items' => page('regions')->children()
+    'items' => page('places')->children()
   ]
 ];

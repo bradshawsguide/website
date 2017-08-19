@@ -3,7 +3,7 @@
 class StationPage extends Page {
   // Make parent() refer to region listed under `region:`
   public function parent() {
-    $regionPath = $this->site()->page('regions')->index()->filterBy('uid', $this->region());
+    $regionPath = $this->site()->page('places')->index()->filterBy('uid', $this->region());
 
     return page($regionPath);
   }

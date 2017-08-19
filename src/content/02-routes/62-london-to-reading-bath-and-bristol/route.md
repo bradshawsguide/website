@@ -82,7 +82,7 @@ Leaving the Chippenham station we continue for some time on an embankment, and t
 
 Shortly after leaving this station we enter the Box Tunnel which is upwards of one mile and three quarters in length, through the solid heart and immense mass of Box Hill. At intervals a gleam of light appears down the shafts that have been cut through the rock to the surface above. Emerging once more into daylight we proceed over a wide-ranging pasture land, spotted and diversified with herds and flocks.
 
-Passing [Box](/stations/box) Station (near which is *Wraxhall House*), we soon after enter a small tunnel, which is cut through Middle Hill, adjoining a once-noted spa, so called, but now quite forsaken. Emerging from tins we pass on an embankment two miles in length that carries the line onward over the Avon into the county of [Somerset](/regions/england/somerset).
+Passing [Box](/stations/box) Station (near which is *Wraxhall House*), we soon after enter a small tunnel, which is cut through Middle Hill, adjoining a once-noted spa, so called, but now quite forsaken. Emerging from tins we pass on an embankment two miles in length that carries the line onward over the Avon into the county of [Somerset](/places/england/somerset).
 
 The hamlets of Bathford, Bathampton, and Bathenston are now passed in rapid succession, and swerving slightly to the south, the outskirts of the "Stone-built city" itself rise in all their magnificence before us, as if evoked by a magician from the fertile pastures we have so recently quitted. A loud and prolonged whistle is borne upon the air as herald of our arrival, and we enter the elegant and commodious station at [Bath](/stations/bath).
 

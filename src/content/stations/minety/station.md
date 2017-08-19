@@ -12,4 +12,4 @@ company:
 route:
 - swindon-to-gloucester-and-cheltenham
 ----
-text: Soon after leaving which, we enter [Gloucestershire](/regions/england/gloucestershire). At a distance of 6¼ miles beyond Minety, the train stops at [Tetbury Road](/stations/tetbury-road).
+text: Soon after leaving which, we enter [Gloucestershire](/places/england/gloucestershire). At a distance of 6¼ miles beyond Minety, the train stops at [Tetbury Road](/stations/tetbury-road).

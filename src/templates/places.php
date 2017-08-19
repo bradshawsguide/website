@@ -13,19 +13,12 @@
     })->limit(6)
   ]);
 
-  pattern('common/section/featured', [
-    'title' => html::a('/routes/', 'Routes'),
-    'items' => page('routes')->children()->filter(function($page) {
-      return $page->hasImages();
-    })->limit(6)
-  ]);
-
-  pattern('common/section/featured', [
-    'title' => html::a('/regions/', 'Regions'),
-    'items' => page('regions')->children()->filter(function($page) {
-      return $page->hasImages();
-    })->limit(6)
-  ]);
+  foreach($countries as $country) {
+    pattern('common/section/list', [
+      'title' => html::a($country->url(), smartypants($country->title())),
+      'items' => $country->children()
+    ]);
+  }
 
   pattern('common/section/featured', [
     'title' => html::a('/companies/', 'Companies'),
