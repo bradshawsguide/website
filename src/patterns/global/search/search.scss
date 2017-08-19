@@ -5,6 +5,10 @@
   flex: 0 0 auto;
   padding: $__space-medium var(--page-gutter);
   background-color: $__color-mustard;
+
+  .has-js & {
+    display: none;
+  }
 }
 
 .c-search--overlay {
@@ -13,6 +17,10 @@
   right: 0;
   left: 0;
   z-index: $__z-index-overlay;
+
+  .has-js & {
+    display: flex;
+  }
 }
 
 .c-search__label {

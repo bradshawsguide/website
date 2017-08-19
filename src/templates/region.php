@@ -2,9 +2,11 @@
 
 <article class="c-page">
 <?
+  $mods = $page->hasImages() ? 'poster' : null;
   pattern('common/page/header', [
+    'title' => $page->title(),
     'parent' => $page->parent(),
-    'title' => $page->title()
+    'modifiers' => [$mods]
   ]);
 
   pattern('common/page/content');
