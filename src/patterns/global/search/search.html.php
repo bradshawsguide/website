@@ -8,7 +8,7 @@
         'label' => 'Search'
       ]) ?>
     </button>
-    <button class="c-search__button c-search__button--geo">
+    <button class="c-search__button c-search__button--geo" type="button">
       <? pattern('common/icon', [
         'glyph' => 'locate',
         'label' => 'Show stations near me'

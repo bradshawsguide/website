@@ -11,7 +11,7 @@
 
   caption {
     padding: 0.5rem 0;
-    font-feature-settings: "smcp" on;
+    font-variant-caps: small-caps;
   }
 
   tr {
@@ -107,7 +107,7 @@
       columns: 2;
       column-fill: balance;
       column-gap: 1.5rem;
-      column-rule: 3px double $__color-neutral-mid;
+      column-rule: 3px double $__color-neutral-alpha;
     }
 
     em {
