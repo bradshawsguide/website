@@ -30,21 +30,21 @@ Leaving London Bridge, a perfect forest of masts, belonging to ships of all size
 
 <span id="west-india-docks">**West India Docks.**</span>--Nearly opposite. Greenwich, in the Isle of Dogs, thus named from having once been the repository for the royal hounds, will be seen the West India Docks, began in 1800, and finished in 1802. They communicate with the Thames at Limehouse, and terminate at Blackwall, covering an area of 204 acres, and capable of receiving about 600 vessels of from 200 to 300 tons burthen. The expense of their formation was £1,380,000.
 
-<span id="greenwich">**Greenwich.**</span>--See [Greenwich](/stations/greenwich).
+<span id="greenwich">**Greenwich.**</span>--For particulars see [Greenwich](/stations/greenwich)
 
-<span id="blackwall">**Blackwall.**</span>--There is a fine pier here, whence packets run to and from Gravesend, in conjunction with the trains of the Blackwall railway. Fine views of the shipping in the river, Greenwich, Isle of Dogs, and the country round. Opposite the pier is Shooter's Hill with its commemorative castle of Severndroog, built in 1784 by Sir William Jones, the celebrated Orientalist, to celebrate the conquest of a castle thus named on the coast of Malabar. White-bait dinners form the chief attraction to the taverns adjacent; and here Her Majesty's ministers for the time being regale themselves annually on that fish; the season is from May to the latter end of July, when parliament generally closes for the season. See also: [Blackwall](/stations/blackwall).
+<span id="blackwall">**Blackwall.**</span>--For particulars see [Blackwall](/stations/blackwall)
 
-<span id="woolwich">**Woolwich.**</span>--See [Woolwich](/stations/woolwich);
+<span id="woolwich">**Woolwich.**</span>--For particulars see [Woolwich](/stations/woolwich)
 
-<span id="erith">**Erith.**</span>--See [Erith](/stations/erith);
+<span id="erith">**Erith.**</span>--For particulars see [Erith](/stations/erith)
 
 <span id="purfleet">**Purfleet.**</span>--(On the Essex coast, 16 miles from London, nine miles south-east from Romford, and four miles west of Grays), has a romantic aspect from its high chalky cliffs and chasms. The government powder magazine is kept here, having been in 1762 removed hence from Greenwich. There are generally about 3,000,000 pounds of gunpowder preserved in the building. A pier affords convenient access, and the Gravesend steamers regularly call on their passages going and returning.
 
-<span id="greenhithe">**Greenhithe.**</span>--See [Greenhithe](/stations/greenhithe);
+<span id="greenhithe">**Greenhithe.**</span>--For particulars see [Greenhithe](/stations/greenhithe)
 
-<span id="gravesend">**Gravesend.**</span>--See [Gravesend](/stations/gravesend);
+<span id="gravesend">**Gravesend.**</span>--For particulars see [Gravesend](/stations/gravesend)
 
-<span id="rochester">**Rochester.**</span>--See [Rochester](/stations/rochester).
+<span id="rochester">**Rochester.**</span>--For particulars see [Rochester](/stations/rochester)
 
 <span id="sheerness">**Sheerness.**</span>--(Two miles from Queenborough), a busy shipping town on the north-western point of the Isle of Sheppy. A steamboat on the Medway plies frequently between Sheerness and Chatham. The junction of the Thames and Medway with the Channel is called the Nore; the Nore boat carries a beacon at night to guard mariners from a treacherous shoal which exists in this vicinity.
 
