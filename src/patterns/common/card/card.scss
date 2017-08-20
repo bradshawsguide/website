@@ -3,7 +3,7 @@
   background-color: white;
   outline: 1px solid rgba($__color-neutral-darkest, 0.1);
   box-shadow: 0 0 12px 0 rgba($__color-neutral-darkest, 0.1);
-  transition: transform 0.1s ease-out;
+  transition: all 0.1s ease-out;
 
   &:hover {
     box-shadow: 0 0 24px 0 rgba($__color-neutral-darkest, 0.2);
@@ -25,18 +25,25 @@
 }
 
 .c-card__parent {
+  @include typeset("prose");
+
+  --font-size-prose: $__font-size-text-small;
   font-style: italic;
-  color: $__color-link;
+  color: $__color-neutral-mid;
   order: -1;
 }
 
 .c-card__title {
   @include typeset("display3");
-  color: $__color-neutral-darkest;
+  color: $__color-link;
+
+  .c-card:hover & {
+    text-decoration: underline;
+  }
 }
 
 .c-card__main {
-  --font-size-prose: 1rem;
+  --font-size-prose: $__font-size-text-medium;
   padding: $__space-xsmall;
   color: $__color-neutral-dark;
 }

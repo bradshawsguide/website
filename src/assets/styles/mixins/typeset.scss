@@ -117,8 +117,8 @@
     @include fluid-type(
       $__breakpoint-xsmall,
       $__breakpoint-medium,
-      $__font-size-text-large,
-      $__font-size-display-small
+      $__font-size-display-small,
+      $__font-size-display-medium
     );
     font-family: $__font-family-block;
     line-height: if($line-height, $line-height, $__line-height-reset);

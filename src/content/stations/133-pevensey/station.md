@@ -26,6 +26,8 @@ notes:
 - Near the town of that name.
 - Telegraph station at Polegate, 3½ miles.
 ----
+desc: Though formerly a place of so much importance as to give name to the hundred, it has now dwindled to an inconsiderable village.
+----
 text: Though formerly a place of so much importance as to give name to the hundred, it has now dwindled to an inconsiderable village; and the sea, which formerly laved the castle walls, has now receded to a distance of two miles. A number of martello towers, erected at the time of the last war--we hope the phrase will be just as applicable for a hundred generations yet to come--remain as memorials of the means resorted to for the defence of the coast.
 
 The history of Pevensey might be easily expanded by a skilful topographist into a volume, but a brief enumeration of the leading features will suffice to acquaint the visitor with its bygone glories. It first appears in our chronicles in A.D. 792, when honourable mention is made of it as having been generously given by Bervald, a general of Offa, to the Abbey of St. Denis at Paris. In the reign of Edward the Confessor it was dignified by twenty-four burgesses, and was ravaged by Earl Godwin, falling shortly-after the reign of Henry III. into hopeless decay.
