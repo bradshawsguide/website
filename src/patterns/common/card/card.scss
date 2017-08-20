@@ -1,11 +1,18 @@
 .c-card {
-  --link-decoration: none;
+  display: flex;
   background-color: white;
   outline: 1px solid rgba($__color-neutral-darkest, 0.1);
   box-shadow: 0 0 12px 0 rgba($__color-neutral-darkest, 0.1);
+  transition: transform 0.1s ease-out;
+
+  &:hover {
+    box-shadow: 0 0 24px 0 rgba($__color-neutral-darkest, 0.2);
+    transform: scale(1.015);
+  }
 }
 
 .c-card__body {
+  --link-decoration: none;
   display: flex;
   flex: 1;
   flex-direction: column;

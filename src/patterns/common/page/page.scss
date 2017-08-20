@@ -48,7 +48,6 @@
 
 .c-page__title {
   @include typeset("display1");
-  width: max-content;
   color: $__color-neutral-darkest;
 
   small {
@@ -63,6 +62,7 @@
 
 .c-page__subtitle {
   display: inline-flex;
+  white-space: nowrap;
   color: $__color-neutral-dark;
 
   .c-icon {
