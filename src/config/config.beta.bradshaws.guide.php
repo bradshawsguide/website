@@ -10,5 +10,5 @@ c::set('debug', false);
 c::set('whoops', false);
 
 // URLs
-c::set('url', 'https://bradshaws.guide');
-c::set('tinyurl.url', 'https://bradshaws.guide');
+c::set('url', 'https://beta.bradshaws.guide');
+c::set('tinyurl.url', 'https://beta.bradshaws.guide');
