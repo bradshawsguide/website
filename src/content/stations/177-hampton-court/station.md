@@ -1,8 +1,8 @@
 section: 1
 ----
-title: Hampton Court (East Moulsey)
+title: Hampton Court
 ----
-title_short: Hampton Court
+title_suffix: East Moulsey
 ----
 region: surrey
 ----
@@ -23,6 +23,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Hampton Court stands on the north bank of the Thames, about twelve miles from London. Numerous sovereigns have made it their temporary abode; and the last who resided here were George II. and his Queen.
+----
 text: The situation of Hampton Court, which stands on the north bank of the Thames, about twelve miles from London, is so happily described by Pope, that we cannot resist quoting the favourite passage:--
 
 > Close by those meads for over crowned with flowers,
@@ -36,7 +38,7 @@ text: The situation of Hampton Court, which stands on the north bank of the Tham
 
 In summing up the points of its early history, we may briefly state, that in the thirteenth century the manor of Hampden was vested in the Knights of St. John of Jerusalem. Cardinal Wolsey, its illustrious founder, was the last of the enlightend churchmen of old, whose munificence patronised that style of building, which, originating with the ecclesiastics, seemed to end in his fall. He is supposed to have furnished the designs, and having been commenced in 1515, the building, when finished, was in so magnificent a style that it created great envy at court.
 
-The banquets and masques, so prevalent in the age of Henry VIII., were nowhere more magnificently ordered than here ; and however vast the establishment of the Cardinal, it could not have been more than sufficient for the accommodation of his train or guests. Numerous sovereigns since that time have made it their temporary abode; and the last who resided here were George II. and his Queen, since which period various members of the court have occupied the apartments, the Crown reserving tho right of resuming possession. At present, about 700 decayed gentlemen and gentlewomen, with their servants, occupy offices connected with the establishment, to which they are recommended by the Lord Chamberlain. The Lion Gate, fronting the entrance to Bushey Park, is the chief avenue; and, continuing through the Wilderness, by a path overshadowed with lofty trees, we find ourselves by the side of the palace, in front of which extends a long walk, ornamented with parterres, an exotic shrubbery, and a spacious fountain in the centre. The grand east front extends 330 feet, and the grand south front 328 feet, from the designs of Sir Christopher Wren.
+The banquets and masques, so prevalent in the age of Henry VIII., were nowhere more magnificently ordered than here; and however vast the establishment of the Cardinal, it could not have been more than sufficient for the accommodation of his train or guests. Numerous sovereigns since that time have made it their temporary abode; and the last who resided here were George II. and his Queen, since which period various members of the court have occupied the apartments, the Crown reserving tho right of resuming possession. At present, about 700 decayed gentlemen and gentlewomen, with their servants, occupy offices connected with the establishment, to which they are recommended by the Lord Chamberlain. The Lion Gate, fronting the entrance to Bushey Park, is the chief avenue; and, continuing through the Wilderness, by a path overshadowed with lofty trees, we find ourselves by the side of the palace, in front of which extends a long walk, ornamented with parterres, an exotic shrubbery, and a spacious fountain in the centre. The grand east front extends 330 feet, and the grand south front 328 feet, from the designs of Sir Christopher Wren.
 
 The grand staircase and the guard chamber lead to the picture galleries, to which so many cheap catalogues furnish descriptive guides that our enumeration of their magnificent contents is unnecessary. Suffice it to say, the paintings are about 1,000 in number. Retracing our steps to the middle court, we may observe, under the archway, the flight of steps leading to Wolsey's Hall. It is 106 feet long, forty feet wide, and illuminated by thirteen windows, each fifteen feet from the ground, one of the panes of the bay window at the end, costly material and rarest workmanship, supposed to have been designed by Raphael, and are said to have formed a portion of the gifts interchanged between Henry VIII. and Francis, at the celebrated "Field of the Cloth of Gold." In the centre of the dais there is a doorway leading- to the withdrawal room.
 

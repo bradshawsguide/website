@@ -3,12 +3,16 @@
 <div class="c-page">
 <?
   foreach(page('sections')->children() as $section) {
+    $featured = page('sections/'.$section->dirname())->feature()->yaml();
+
+    array_walk($featured, function(&$value, $key) {
+      $value = page('stations/'.$value);
+    });
+
     pattern('common/section/featured', [
       'title' => html::a('/routes/section:'.$section->dirname(), $section->title()),
       'content' => $section->subtitle(),
-      'items' => page('stations')->children()->filterBy('section', $section->dirname())->filter(function($page) {
-        return $page->hasImages();
-      })->limit(3)
+      'items' => $featured
     ]);
   }
 ?>

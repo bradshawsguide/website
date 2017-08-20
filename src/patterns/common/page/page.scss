@@ -27,7 +27,7 @@
 
   .c-page__header-inset {
     flex: 1;
-    max-width: min-content;
+    max-width: max-content;
     box-shadow: 0 0 12px 6px rgba($__color-neutral-darkest, 0.25);
     padding: $__space-medium $__space-large;
     background-color: rgba($__color-neutral-darkest, 0.85);
