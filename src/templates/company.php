@@ -7,7 +7,7 @@
     'title' => $page->title()
   ]);
 
-  pattern('content');
+  pattern('common/page/content');
 
   if (count($page->featured())) {
     pattern('common/section/featured', [
