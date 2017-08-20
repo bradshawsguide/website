@@ -1,5 +1,7 @@
 .c-traverse {
   @include typeset("label");
+
+  --link-decoration: none;
   display: flex;
   padding: units(1) 0;
 }

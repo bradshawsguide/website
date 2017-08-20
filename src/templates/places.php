@@ -10,7 +10,7 @@
     'title' => html::a('/stations/', 'Stations'),
     'items' => page('stations')->children()->filter(function($page) {
       return $page->hasImages();
-    })->limit(6)
+    })->limit(20)
   ]);
 
   foreach($countries as $country) {

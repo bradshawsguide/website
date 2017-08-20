@@ -27,6 +27,8 @@ info:
 - term: Fairs
   desc: May 4th and October 11th.
 ----
+desc: The appearance of Canterbury, from whatever part approached, is exquisitely beautiful, and as we enter, symbols of its antiquity stare us in the face everywhere.
+----
 text: In the western suburb. A telegraph station.
 
 The appearance of Canterbury, from whatever part approached, is exquisitely beautiful, and as we enter, symbols of its antiquity stare us in the face everywhere; narrow passages, crazy tenements, with over-hanging windows, peaked gables, and wooden balustrades, jut out on every side. Here and there some formless sculpture of a fractured cherub or grotesque image, peer out from a creaking doorway. Crypts and vaults seem natural to every house, and yet withal, an air of liveliness pervades the town, that renders the contrast truly pleasing and striking. The city lies in a fertile vale, sheltered by gently rising hills, from which streams of excellent water are derived.

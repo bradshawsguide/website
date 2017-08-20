@@ -31,6 +31,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: The capital of Kent, on the Medway, and in a tract of land of great fertility, among orchards, hop grounds, and woodlands.
+----
 text: Maidstone is a parliamentary borough, and the capital of Kent, on the Medway, in a tract of land of great fertility, among orchards, hop grounds, and woodlands. The distance from London has been recently reduced 13 miles by the opening of the [North Kent line](/routes/charing-cross-to-woolwich-gravesend-strood-and-rochester) from Strood. It is not only a shorter route, but commands a splendid view of the valley of the Medway and the adjacent hills.
 
 The town is on the slopes of the hills, so that, rising from the banks of the river, at the north entrances are the cavalry barracks (of wood!), and the county jail, the latter being a most complete and extensive pile, nearly two-thirds of a mile round its quadrangular wall, and covering 14 acres. It includes the assize courts, and was built in 1829, of the ragstone which is so abundant in the neighbourhood, the county asylum occupies a site of 37 acres. In High street stands the old brick Town Hall, over the corn market, the butter market being in an adjoining street

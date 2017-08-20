@@ -13,6 +13,7 @@
     'notes' => $page->notes(),
     'parent' => $page->parent(),
     'subtitle' => $page->title_later(),
+    'icon' => true,
     'modifiers' => [$mods]
   ]);
 

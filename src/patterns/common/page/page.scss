@@ -48,6 +48,7 @@
 
 .c-page__title {
   @include typeset("display1");
+  width: max-content;
   color: $__color-neutral-darkest;
 
   small {
@@ -61,7 +62,12 @@
 }
 
 .c-page__subtitle {
+  display: inline-flex;
   color: $__color-neutral-dark;
+
+  .c-icon {
+    margin-right: $__space_xsmall;
+  }
 
   .c-page__header--inverted &,
   .c-page__header--poster & {
