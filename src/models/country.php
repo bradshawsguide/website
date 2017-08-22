@@ -11,4 +11,15 @@ class CountryPage extends Page {
 
     return $featured;
   }
+
+  // Return `title_short` if exists, else normal title
+  public function subdivision() {
+    if ($this->uid() == 'channel-islands') {
+      $subdivision = 'Islands';
+    } else {
+      $subdivision = 'Counties';
+    };
+
+    return $subdivision;
+  }
 };

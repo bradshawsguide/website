@@ -15,7 +15,7 @@
   };
 
   pattern('common/section/list', [
-    'title' => 'Counties',
+    'title' => $page->subdivision(),
     'items' => $page->children()->visible()
   ]);
 ?>
