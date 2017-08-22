@@ -1,0 +1,20 @@
+# Rewrites
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteBase /
+  Options +FollowSymLinks
+
+# Ensure site links work
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*) index.php [L]
+</IfModule>
+
+# PHP settings
+<IfModule php7_module>
+# Allow PHP short tags
+  php_flag short_open_tag on
+
+# Close a security hole that is abused by most XSS attacks
+  php_flag register_globals Off
+</IfModule>
