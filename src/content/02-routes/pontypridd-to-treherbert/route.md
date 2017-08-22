@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Rhondda Valley Line
+title: Pontypridd to Treherbert
 ----
-description: Pontypridd to Treherbert
+line: Rhondda Valley Line
 ----
 company: taff-vale
 ----

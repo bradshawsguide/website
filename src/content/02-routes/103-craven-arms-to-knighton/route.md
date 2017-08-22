@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Knighton Railway
-----
-description: Craven Arms to Knighton
+title: Craven Arms to Knighton
 ----
 company: knighton
 ----

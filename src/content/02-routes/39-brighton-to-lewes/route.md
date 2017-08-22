@@ -1,10 +1,10 @@
 ﻿section: 1
 ----
-title: Brighton and Lewes Branch
+title: Brighton to Lewes
 ----
-title_later: East Coastway Line
+line: Brighton and Lewes Branch
 ----
-description: Brighton to Lewes
+line_later: East Coastway Line
 ----
 company: london-brighton-and-south-coast
 ----

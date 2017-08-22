@@ -1,8 +1,8 @@
 section: 2
 ----
-title: East Somerset Railway
+title: Frome to Wells
 ----
-description: Frome to Wells
+line: East Somerset Railway
 ----
 company: east-somerset
 ----

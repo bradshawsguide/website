@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Bristol Port and Pier Railway
-----
-description: Clifton to Avonmouth
+title: Clifton to Avonmouth
 ----
 company: bristol-port-and-pier
 ----

@@ -9,11 +9,9 @@
 <?
   $mods = $page->hasImages() ? 'poster' : 'inverted';
   pattern('common/page/header', [
-    'title' => $page->title_full(),
+    'title' => $page->displayTitle(),
     'notes' => $page->notes(),
     'parent' => $page->parent(),
-    'subtitle' => $page->title_later(),
-    'icon' => true,
     'modifiers' => [$mods]
   ]);
 

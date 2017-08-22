@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Hampton Court Branch
+title: Surbiton to Hampton Court
 ----
-description: Surbiton to Hampton Court
+line: Hampton Court Branch
 ----
 company: london-and-south-western
 ----

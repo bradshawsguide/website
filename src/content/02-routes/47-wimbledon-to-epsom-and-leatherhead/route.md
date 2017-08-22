@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Leatherhead Branch
+title: Wimbledon to Epsom and Leatherhead
 ----
-description: Wimbledon to Epsom and Leatherhead
+line: Leatherhead Branch
 ----
 company: london-and-south-western
 ----

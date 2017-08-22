@@ -1,10 +1,10 @@
 ﻿section: 1
 ----
-title: Hastings Branch
+title: Hayward's Heath to Lewes and Hastings
 ----
-title_later: East Coastway Line
+line: Hastings Branch
 ----
-description: Hayward's Heath to Lewes and Hastings
+line_later: East Coastway Line
 ----
 company: london-brighton-and-south-coast
 ----

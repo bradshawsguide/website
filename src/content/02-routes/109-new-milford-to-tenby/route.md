@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Pembroke and Tenby Railway
-----
-description: New Milford to Tenby
+title: New Milford to Tenby
 ----
 company: pembroke-and-tenby
 ----

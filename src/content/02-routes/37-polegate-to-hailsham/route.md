@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Hailsham Branch
+title: Polegate to Hailsham
 ----
-description: Polegate to Hailsham
+line: Hailsham Branch
 ----
 company: london-brighton-and-south-coast
 ----

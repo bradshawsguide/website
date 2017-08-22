@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Weston-super-Mare Branch
+title: Weston Junction to Weston-super-Mare
 ----
-description: Weston Junction to Weston-super-Mare
+line: Weston-super-Mare Branch
 ----
 company: bristol-and-exeter
 ----

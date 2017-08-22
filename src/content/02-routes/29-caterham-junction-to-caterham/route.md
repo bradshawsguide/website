@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Caterham Branch
+title: Caterham Junction to Caterham
 ----
-description: Caterham Junction to Caterham
+line: Caterham Branch
 ----
 company: south-eastern
 ----

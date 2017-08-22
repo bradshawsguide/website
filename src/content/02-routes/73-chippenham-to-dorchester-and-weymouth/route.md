@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Wilts, Somerset and Weymouth Railway
+title: Chippenham to Dorchester, and Weymouth
 ----
-description: Chippenham to Dorchester, and Weymouth
+line: Wilts, Somerset and Weymouth Railway
 ----
 company: great-western
 ----

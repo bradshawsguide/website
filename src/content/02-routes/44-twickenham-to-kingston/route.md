@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Kingston Branch
+title: Twickenham to Kingston
 ----
-description: Twickenham to Kingston
+line: Kingston Branch
 ----
 company: london-and-south-western
 ----

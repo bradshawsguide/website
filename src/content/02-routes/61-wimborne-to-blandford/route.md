@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Blandford Branch
+title: Wimborne to Blandford
 ----
-description: Wimborne to Blandford
+line: Blandford Branch
 ----
 company: london-and-south-western
 ----

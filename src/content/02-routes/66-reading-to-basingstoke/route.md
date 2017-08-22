@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Basingstoke Branch
+title: Reading to Basingstoke
 ----
-description: Reading to Basingstoke
+line: Basingstoke Branch
 ----
 company: great-western
 ----

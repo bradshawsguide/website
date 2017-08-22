@@ -2,7 +2,7 @@ section: 1
 ----
 title: London Bridge to Hampton Court, by Steamer
 ----
-description: London Bridge to Hampton Court
+title_short: London Bridge to Hampton Court
 ----
 company: thames-steamers
 ----

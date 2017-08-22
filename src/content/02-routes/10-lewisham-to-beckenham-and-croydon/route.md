@@ -1,8 +1,6 @@
 ﻿section: 1
 ----
-title: Mid Kent Railway
-----
-description: Lewisham to Beckenham and Croydon
+title: Lewisham to Beckenham and Croydon
 ----
 company: mid-kent
 ----

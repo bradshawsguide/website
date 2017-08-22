@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Deal Branch
+title: Minster Junction to Deal
 ----
-description: Minster Junction to Deal
+line: Deal Branch
 ----
 company: south-eastern
 ----

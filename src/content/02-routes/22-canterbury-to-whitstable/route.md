@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Canterbury and Whitstable Branch
+title: Canterbury to Whitstable
 ----
-description: Canterbury to Whitstable
+line: Canterbury and Whitstable Branch
 ----
 company: south-eastern
 ----

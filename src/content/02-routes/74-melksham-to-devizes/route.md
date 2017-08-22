@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Devizes Branch
+title: Melksham to Devizes
 ----
-description: Melksham to Devizes
+line: Devizes Branch
 ----
 company: great-western
 ----

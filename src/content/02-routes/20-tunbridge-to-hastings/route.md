@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Tunbridge Wells and Hastings Branch
+title: Tunbridge to Hastings
 ----
-description: Tunbridge to Hastings
+line: Tunbridge Wells and Hastings Branch
 ----
 company: south-eastern
 ----

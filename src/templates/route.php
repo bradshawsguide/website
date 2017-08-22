@@ -3,9 +3,9 @@
 <article class="c-page">
 <?
   pattern('common/page/header', [
-    'parent' => page('companies/'.$page->company()->uid()),
+    'parent' => page('/routes/'),
     'title' => $page->title(),
-    'subtitle' => $page->description()
+    'subtitle' => $page->railway()
   ]);
 
   pattern('common/page/content');

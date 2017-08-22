@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Cornwall Railway
-----
-description: Plymouth to Truro
+title: Plymouth to Truro
 ----
 company: cornwall
 ----

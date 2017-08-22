@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Brecon and Merthyr Line
+title: Tallyllyn to Merthyr
 ----
-description: Tallyllyn to Merthyr
+line: Brecon and Merthyr Line
 ----
 company: brecon-and-merthyr-tydfil-junction
 ----

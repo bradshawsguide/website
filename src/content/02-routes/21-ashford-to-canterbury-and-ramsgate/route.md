@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Ashford and Canterbury Branch
+title: Ashford to Canterbury, Ramsgate, &c.
 ----
-description: Ashford to Canterbury, Ramsgate, &c.
+line: Ashford and Canterbury Branch
 ----
 company: south-eastern
 ----

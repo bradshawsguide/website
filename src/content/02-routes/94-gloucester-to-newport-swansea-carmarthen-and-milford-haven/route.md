@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Great Western (South Wales Section)
+title: Gloucester to Newport, Swansea, Carmarthen, and Milford Haven
 ----
-description: Gloucester to Newport, Swansea, Carmarthen, and Milford Haven
+line: South Wales Section
 ----
 company: great-western
 ----

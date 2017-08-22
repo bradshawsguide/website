@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Bristol and Exeter Railway
+title: Bristol to Exeter
 ----
-description: Bristol to Exeter
+line: Bristol and Exeter Railway
 ----
 company: bristol-and-exeter
 ----

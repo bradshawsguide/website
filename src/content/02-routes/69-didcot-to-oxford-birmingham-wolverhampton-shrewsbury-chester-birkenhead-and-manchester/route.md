@@ -1,8 +1,10 @@
 section: 2
 ----
-title: Didcot to Manchester Line
+title: Didcot to Oxford, Birmingham, Wolverhampton, Shrewsbury, Chester, Birkenhead and Manchester
 ----
-description: Didcot to Oxford, Birmingham, Wolverhampton, Shrewsbury, Chester, Birkenhead and Manchester
+title_short: Didcot to Manchester
+----
+line: Didcot to Manchester Line
 ----
 company: great-western
 ----

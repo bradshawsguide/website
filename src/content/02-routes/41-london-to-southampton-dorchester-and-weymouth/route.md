@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: South Western Main Line
+title: London to Southampton, Dorchester and Weymouth
 ----
-description: London to Southampton, Dorchester and Weymouth
+line: South Western Main Line
 ----
 company: london-and-south-western
 ----

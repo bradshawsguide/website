@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Epsom Branch
+title: Croydon to Epsom
 ----
-description: Croydon to Epsom
+line: Epsom Branch
 ----
 company: london-brighton-and-south-coast
 ----

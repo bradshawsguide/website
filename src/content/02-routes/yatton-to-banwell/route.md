@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Cheddar Valley Line
+title: Yatton to Banwell
 ----
-description: Yatton to Banwell
+line: Cheddar Valley Line
 ----
 company: bristol-and-exeter
 ----

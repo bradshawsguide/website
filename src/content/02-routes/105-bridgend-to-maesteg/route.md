@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Llynvi Valley Railway
-----
-description: Bridgend to Maesteg
+title: Bridgend to Maesteg
 ----
 company: llynvi-valley
 ----

@@ -1,8 +1,8 @@
 ﻿section: 2
 ----
-title: Slough to Windsor & Eton Line
+title: Slough to Windsor
 ----
-description: Slough to Windsor
+line: Slough to Windsor & Eton Line
 ----
 company: great-western
 ----

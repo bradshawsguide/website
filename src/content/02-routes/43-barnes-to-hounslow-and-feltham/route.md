@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Loop Line
+title: Barnes to Hounslow and Feltham
 ----
-description: Barnes to Hounslow and Feltham
+line: Loop Line
 ----
 company: london-and-south-western
 ----

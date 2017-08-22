@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Manchester and Milford Railway
+title: Pencader to Lampeter
 ----
-description: Pencader to Lampeter
+line: Manchester and Milford Railway
 ----
 company: manchester-and-milford
 ----

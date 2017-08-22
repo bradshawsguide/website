@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title:  Croydon and Wimbledon Branch
+title: Croydon to Wimbledon
 ----
-description: Croydon to Wimbledon
+line: Croydon and Wimbledon Branch
 ----
 company: london-brighton-and-south-coast
 ----

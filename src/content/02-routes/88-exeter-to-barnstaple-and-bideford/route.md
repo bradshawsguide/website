@@ -1,8 +1,6 @@
 section: 2
 ----
-title: North Devon Railway
-----
-description: Exeter to Barnstaple and Bideford
+title: Exeter to Barnstaple and Bideford
 ----
 company: north-devon
 ----

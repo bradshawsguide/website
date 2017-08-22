@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Marlborough Branch
+title: Savernake to Marlborough
 ----
-description: Savernake to Marlborough
+line: Marlborough Branch
 ----
 company: great-western
 ----

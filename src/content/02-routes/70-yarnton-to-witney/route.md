@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Witney Railway
-----
-description: Oxford to Witney
+title: Oxford to Witney
 ----
 company: witney
 ----

@@ -1,9 +1,6 @@
 section: 2
 ----
-title: Shrewsbury and
-Hereford Railway
-----
-description: Hereford to Shrewsbury
+title: Hereford to Shrewsbury
 ----
 company: shrewsbury-and-hereford
 ----

@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Chertsey Branch
+title: Weybridge to Chertsey
 ----
-description: Weybridge to Chertsey
+line: Chertsey Branch
 ----
 company: london-and-south-western
 ----

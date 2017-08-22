@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Burnham Branch
+title: Highbridge to Burnham
 ----
-description: Highbridge to Burnham
+line: Burnham Branch
 ----
 company: bristol-and-exeter
 ----

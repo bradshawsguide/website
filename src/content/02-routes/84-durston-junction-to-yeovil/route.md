@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Yeovil Branch
+title: Durston to Yeovil
 ----
-description: Durston to Yeovil
+line: Yeovil Branch
 ----
 company: bristol-and-exeter
 ----

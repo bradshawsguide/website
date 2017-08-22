@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Tenbury and Bewdley Railway
+title: Wooferton to Bewdley
 ----
-description: Wooferton to Bewdley
+line: Tenbury and Bewdley Railway
 ----
 company: tenbury-and-bewdley
 ----

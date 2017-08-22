@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Calne Branch
+title: Chippenham to Calne
 ----
-description: Chippenham to Calne
+line: Calne Branch
 ----
 company: great-western
 ----

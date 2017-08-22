@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Netley Abbey Branch
+title: Southampton to Netley
 ----
-description: Southampton to Netley
+line: Netley Abbey Branch
 ----
 company: london-and-south-western
 ----

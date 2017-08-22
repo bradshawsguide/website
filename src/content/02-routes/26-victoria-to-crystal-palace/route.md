@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: West End of London and Crystal Palace Railway
+title: Victoria to Crystal Palace
 ----
-description: Victoria to Crystal Palace
+line: West End of London and Crystal Palace Railway
 ----
 company: london-brighton-and-south-coast
 ----

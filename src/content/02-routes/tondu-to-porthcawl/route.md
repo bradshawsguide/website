@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Ogmore Railway
+title: Tondu to Porthcawl
 ----
-description: Tondu to Porthcawl
+line: Ogmore Railway
 ----
 company: llynvi-valley
 ----

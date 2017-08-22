@@ -1,10 +1,10 @@
 ﻿section: 1
 ----
-title: Windsor and Richmond Branch
+title: London to Richmond, Staines, Wokingham and Reading
 ----
-title_later: Waterloo to Reading Line
+line: Windsor and Richmond Branch
 ----
-description: London to Richmond, Staines, Wokingham and Reading
+line_later: Waterloo to Reading Line
 ----
 company: london-and-south-western
 ----

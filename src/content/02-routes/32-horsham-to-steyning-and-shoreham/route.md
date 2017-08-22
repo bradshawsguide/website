@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Steyning Line
+title: Horsham to Steyning and Shoreham
 ----
-description: Horsham to Steyning and Shoreham
+line: Steyning Line
 ----
 company: london-brighton-and-south-coast
 ----

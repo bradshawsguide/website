@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Maidstone Branch
+title: Strood to Maidstone and Paddock Wood
 ----
-description: Strood to Maidstone and Paddock Wood
+line: Maidstone Branch
 ----
 company: south-eastern
 ----

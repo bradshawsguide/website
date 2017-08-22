@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Taff Vale Railway
-----
-description: Cardiff to Aberdare and Merthyr
+title: Cardiff to Aberdare and Merthyr
 ----
 company: taff-vale
 ----

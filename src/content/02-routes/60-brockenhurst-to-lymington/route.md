@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Lymington Branch
+title: Brockenhurst to Lymington
 ----
-description: Brockenhurst to Lymington
+line: Lymington Branch
 ----
 company: london-and-south-western
 ----

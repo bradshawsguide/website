@@ -1,10 +1,8 @@
 section: 2
 ----
-title: Exeter and Exmouth Railway
+title: Exeter to Exmouth
 ----
-title_later: Avocet Line
-----
-description: Exeter to Exmouth
+line_later: Avocet Line
 ----
 company: exeter-and-exmouth
 ----

@@ -1,8 +1,10 @@
 ﻿section: 1
 ----
-title: North Kent Line
+title: Charing Cross and London Bridge to Woolwich, Gravesend, Strood and Rochester
 ----
-description: Charing Cross and London Bridge to Woolwich, Gravesend, Strood and Rochester
+title_short: London to Rochester
+----
+line: North Kent Line
 ----
 company: south-eastern
 ----

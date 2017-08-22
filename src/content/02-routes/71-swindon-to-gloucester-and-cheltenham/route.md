@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Cheltenham Branch
+title: Swindon to Gloucester, and Cheltenham
 ----
-description: Swindon to Gloucester, and Cheltenham
+line: Cheltenham Branch
 ----
 company: great-western
 ----

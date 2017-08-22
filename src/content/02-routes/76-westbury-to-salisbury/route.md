@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Salisbury Branch (GWR)
+title: Westbury to Salisbury
 ----
-description: Westbury to Salisbury
+line: Salisbury Branch
 ----
 company: great-western
 ----

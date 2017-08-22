@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Western Valley Line
+title: Newport to Blaina
 ----
-description: Newport to Blaina
+line: Western Valley Line
 ----
 company: monmouthshire
 ----

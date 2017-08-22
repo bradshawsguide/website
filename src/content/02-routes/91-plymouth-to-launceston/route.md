@@ -1,8 +1,6 @@
 section: 2
 ----
-title: South Devon and Tavistock Line
-----
-description: Plymouth to Tavistock and Launceston
+title: Plymouth to Tavistock and Launceston
 ----
 company: south-devon-and-tavistock
 ----

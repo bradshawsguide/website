@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Tiverton Branch
+title: Tiverton Junction to Tiverton
 ----
-description: Tiverton Junction to Tiverton
+line: Tiverton Branch
 ----
 company: bristol-and-exeter
 ----

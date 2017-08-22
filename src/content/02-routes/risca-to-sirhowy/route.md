@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Sirhowy Railway
+title: Risca to Sirhowy
 ----
-description: Risca to Sirhowy
+line: Sirhowy Railway
 ----
 company: monmouthshire
 ----

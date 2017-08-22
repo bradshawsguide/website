@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Bishops Castle Railway
+title: Leominster to Kington
 ----
-description: Leominster to Kington
+line: Bishops Castle Railway
 ----
 company: bishops-castle
 ----

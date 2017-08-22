@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Sprat and Winkle Line
+title: Andover to Redbridge
 ----
-description: Andover to Redbridge
+line: Sprat and Winkle Line
 ----
 company: london-and-south-western
 ----

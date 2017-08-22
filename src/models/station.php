@@ -9,15 +9,26 @@ class StationPage extends Page {
   }
 
   // Make title_full() include `suffix:` if provided
-  public function title_full() {
+  public function displayTitle() {
     $suffix = $this->title_suffix();
-    $titleFull = $this->title();
+    $displayTitle = $this->title();
 
     if (!$suffix->empty()) {
-      $titleFull = $this->title().' <small>'.$suffix.'</small>';
+      $displayTitle = $this->title().' <small>'.$suffix.'</small>';
     };
 
-    return $titleFull;
+    return $displayTitle;
+  }
+
+  // Return `title_short` if exists, else normal title
+  public function shortTitle() {
+    if (!$this->title_short()->empty()) {
+      $shortTitle = $this->title_short();
+    } else {
+      $shortTitle = $this->title();
+    };
+
+    return $shortTitle;
   }
 
   // Convert UIDs listed under `route:` to array of pages

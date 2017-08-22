@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: London, Tilbury, and Southend Railway
+title: Fenchurch Street to Tilbury and Southend
 ----
-description: Fenchurch Street to Tilbury and Southend
+title_short: London to Southend
 ----
 company: london-tilbury-and-southend
 ----

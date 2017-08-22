@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Torquay and Dartmouth Branch
+title: Newton Junction to Torquay and Brixham
 ----
-description: Newton Junction to Torquay and Brixham
+line: Torquay and Dartmouth Branch
 ----
 company: south-devon
 ----

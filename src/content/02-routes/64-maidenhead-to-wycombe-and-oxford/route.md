@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Wycombe and Thame Branch
+title: Maidenhead to Wycombe and Oxford
 ----
-description: Maidenhead to Wycombe and Oxford
+line: Wycombe and Thame Branch
 ----
 company: great-western
 ----

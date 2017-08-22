@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Bradford Branch
+title: Trowbridge to Bath
 ----
-description: Trowbridge to Bath
+line: Bradford Branch
 ----
 company: great-western
 ----

@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Central Wales Line
+title: Knighton to Llandrindod
 ----
-description: Knighton to Llandrindod
+line: Central Wales Line
 ----
 company: central-wales
 ----

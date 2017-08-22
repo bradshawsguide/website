@@ -1,9 +1,6 @@
 section: 2
 ----
-title: Merthyr, Tredegar and
-Abergavenny Railway
-----
-description: Abergavenny to Tredegar
+title: Abergavenny to Tredegar
 ----
 company: merthyr-tredegar-and-abergavenny
 ----

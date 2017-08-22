@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Eastern Valley Line
+title: Newport to Blaenavon
 ----
-description: Newport to Blaenavon
+line: Eastern Valley Line
 ----
 company: monmouthshire
 ----

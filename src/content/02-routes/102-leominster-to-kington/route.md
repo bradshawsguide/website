@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Kington and Leominster Branch
+title: Leominster to Kington
 ----
-description: Leominster to Kington
+line: Kington and Leominster Branch
 ----
 company: great-western
 ----

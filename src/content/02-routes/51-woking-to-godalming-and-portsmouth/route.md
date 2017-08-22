@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: London and Portsmouth Direct Line
+title: Woking to Godalming and Portsmouth
 ----
-description: Woking to Godalming and Portsmouth
+line: London and Portsmouth Direct Line
 ----
 company: london-and-south-western
 ----

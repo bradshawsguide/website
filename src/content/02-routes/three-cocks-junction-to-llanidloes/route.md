@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Mid-Wales Railway
+title: Three Cocks to Llanidloes
 ----
-description: Three Cocks to Llanidloes
+line: Mid-Wales Railway
 ----
 company: cambrian
 ----

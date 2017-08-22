@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Kent Coast Line
+title: Faversham to Ramsgate
 ----
-description: Faversham to Ramsgate
+line: Kent Coast Line
 ----
 company: london-chatham-and-dover
 ----

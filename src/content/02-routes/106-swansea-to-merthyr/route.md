@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Vale of Neath Railway
-----
-description: Swansea to Merthyr
+title: Swansea to Merthyr
 ----
 company: vale-of-neath
 ----

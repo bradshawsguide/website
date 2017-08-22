@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Crystal Palace and South London Junction Railway
+title: Brixton to Crystal Palace
 ----
-description: Brixton to Crystal Palace
+line: Crystal Palace and South London Junction Railway
 ----
 company: london-chatham-and-dover
 ----

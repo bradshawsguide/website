@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Henley Branch
+title: Twyford to Henley
 ----
-description: Twyford to Henley
+line: Henley Branch
 ----
 company: great-western
 ----

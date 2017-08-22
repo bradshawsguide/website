@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Hungerford Branch
+title: Reading to Hungerford and Devizes
 ----
-description: Reading to Hungerford and Devizes
+line: Hungerford Branch
 ----
 company: great-western
 ----

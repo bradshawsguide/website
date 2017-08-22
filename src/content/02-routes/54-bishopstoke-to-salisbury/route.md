@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Salisbury Branch (LSWR)
+title: Bishopstoke to Salisbury
 ----
-description: Bishopstoke to Salisbury
+line: Salisbury Branch
 ----
 company: london-and-south-western
 ----

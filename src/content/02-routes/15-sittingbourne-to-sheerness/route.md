@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Sheerness Line
+title: Sittingbourne to Sheerness
 ----
-description: Sittingbourne to Sheerness
+line: Sheerness Line
 ----
 company: london-chatham-and-dover
 ----

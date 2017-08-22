@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: West of England Main Line
+title: Basingstoke to Salisbury, Yeovil, and Exeter
 ----
-description: Basingstoke to Salisbury, Yeovil, and Exeter
+line: West of England Main Line
 ----
 company: london-and-south-western
 ----

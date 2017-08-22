@@ -1,8 +1,10 @@
 ﻿section: 1
 ----
-title: Greenwich Branch
+title: Charing Cross and London Bridge to Greenwich
 ----
-description: Charing Cross and London Bridge to Greenwich
+title_short: London to Greenwich
+----
+line: Greenwich Branch
 ----
 company: south-eastern
 ----

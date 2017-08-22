@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Clevedon Branch
+title: Yatton to Clevedon
 ----
-description: Yatton to Clevedon
+line: Clevedon Branch
 ----
 company: bristol-and-exeter
 ----

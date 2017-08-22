@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Clevedon Branch
+title: Highbridge to Glastonbury, Wells and Templecombe
 ----
-description: Highbridge to Glastonbury, Wells and Templecombe
+line: Clevedon Branch
 ----
 company: somerset-and-dorset
 ----

@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Cranley Line
+title: Horsham to Guildford
 ----
-description: Horsham to Guildford
+line: Cranley Line
 ----
 company: london-brighton-and-south-coast
 ----

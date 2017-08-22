@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Staines to Windsor Line
+title: Staines to Windsor
 ----
-description: Staines to Windsor
+line: Staines to Windsor Line
 ----
 company: london-and-south-western
 ----

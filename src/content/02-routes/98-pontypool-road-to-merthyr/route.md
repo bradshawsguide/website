@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Taff Vale Extension
+title: Pontypool Road to Merthyr
 ----
-description: Pontypool Road to Merthyr
+line: Taff Vale Extension
 ----
 company: great-western
 ----

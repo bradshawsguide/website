@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Great Western (West Midlands Section)
+title: Newport to Abergavenny and Hereford
 ----
-description: Newport to Abergavenny and Hereford
+line: West Midlands Section
 ----
 company: great-western
 ----

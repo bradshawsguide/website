@@ -1,8 +1,6 @@
 section: 1
 ----
-title: Hampstead Junction Railway
-----
-description: Camden Road to Willesden Junction
+title: Camden Road to Willesden Junction
 ----
 company: hampstead-junction
 ----

@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Hereford, Hay, and Brecon Railway
-----
-description: Hereford to Hay and Brecon
+title: Hereford to Hay and Brecon
 ----
 company: hereford-hay-and-brecon
 ----

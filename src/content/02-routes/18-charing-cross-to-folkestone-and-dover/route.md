@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: South Eastern Main Line
+title: Charing Cross and London Bridge to Folkestone and Dover
 ----
-description: Charing Cross and London Bridge to Folkestone and Dover
+line: South Eastern Main Line
 ----
 company: south-eastern
 ----

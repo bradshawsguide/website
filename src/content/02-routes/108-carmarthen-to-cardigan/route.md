@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Carmathen and Cardigan Railway
-----
-description: Carmathen to Cardigan
+title: Carmathen to Cardigan
 ----
 company: carmarthen-and-cardigan
 ----

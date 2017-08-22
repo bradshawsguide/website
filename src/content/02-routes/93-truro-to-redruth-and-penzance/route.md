@@ -1,8 +1,6 @@
 section: 2
 ----
-title: West Cornwall Railway
-----
-description: Truro to Redruth and Penzance
+title: Truro to Redruth and Penzance
 ----
 company: west-cornwall
 ----

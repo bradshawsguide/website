@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Uckfield Branch
+title: Lewes to Uckfield
 ----
-description: Lewes to Uckfield
+line: Uckfield Branch
 ----
 company: london-brighton-and-south-coast
 ----

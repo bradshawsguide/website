@@ -1,8 +1,6 @@
 section: 2
 ----
-title: Llanelly Railway and Docks
-----
-description: Llanelly to Llandilo and Llandovery
+title: Llanelly to Llandilo and Llandovery
 ----
 company: llanelly-railway-and-docks
 ----

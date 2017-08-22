@@ -1,8 +1,8 @@
 ﻿section: 1
 ----
-title: Gosport and Portsmouth Branches
+title: Bishopstoke to Gosport & Portsmouth
 ----
-description: Bishopstoke to Gosport & Portsmouth
+line: Gosport and Portsmouth Branches
 ----
 company: london-and-south-western
 ----

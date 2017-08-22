@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Coleford, Monmouth, Usk and Pontypool Railway
+title: Pontypool Road to Monmouth
 ----
-description: Pontypool Road to Monmouth
+line: Coleford, Monmouth, Usk and Pontypool Railway
 ----
 company: great-western
 ----

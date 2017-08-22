@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Bridport Railway
+title: Maiden Newton to Bridport
 ----
-description: Maiden Newton to Bridport
+line: Bridport Railway
 ----
 company: great-western
 ----

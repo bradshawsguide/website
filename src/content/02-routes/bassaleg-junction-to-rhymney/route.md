@@ -1,8 +1,8 @@
 section: 2
 ----
-title: Rhymney and Newport Line
+title: Newport to Rhymney
 ----
-description: Newport to Rhymney
+line: Rhymney and Newport Line
 ----
 company: monmouthshire
 ----

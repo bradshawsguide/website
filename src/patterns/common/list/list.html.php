@@ -5,16 +5,10 @@
   }
 ?>
 <ul class="c-list<?= $mods ?? '' ?>">
-  <? foreach($items->sortby('title') as $item):
-      if (!$item->title_short()->empty()) {
-        $title = $item->title_short();
-      } else {
-        $title = $item->title();
-      };
-  ?>
+<? foreach($items->sortby('title') as $item): ?>
   <li class="c-list__item">
-    <?= html::a($item->url(), smartypants($title)) ?>
+    <?= html::a($item->url(), smartypants($item->shortTitle())) ?>
   </li>
-  <? endforeach ?>
+<? endforeach ?>
 </ul>
 <? endif ?>
