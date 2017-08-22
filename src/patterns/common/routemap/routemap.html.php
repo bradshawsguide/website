@@ -1,5 +1,5 @@
 <details class="c-routemap">
-  <summary class="c-routemap__title">Stops</summary>
+  <summary class="c-routemap__title">Calling points</summary>
   <ol class="c-routemap__line">
   <? foreach($stops as $stop):
     if (is_array($stop)) {

@@ -1,4 +1,4 @@
-<aside class="c-aside" role="complementary">
+<aside class="c-aside">
   <?
     pattern('common/map', [
       'url' => $page->uri().'.geojson'

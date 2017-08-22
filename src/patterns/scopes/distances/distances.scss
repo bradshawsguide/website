@@ -33,9 +33,9 @@
     }
 
     th:nth-child(2) {
+      display: block;
       font-weight: normal;
       text-align: right;
-      display: block;
 
       @media screen and (min-width: $__breakpoint-medium) {
         display: block;
@@ -48,8 +48,8 @@
           content: "Miles.";
           position: absolute;
           left: 0;
-          text-align: right;
           width: 50%;
+          text-align: right;
         }
       }
     }
