@@ -25,7 +25,7 @@ info:
 notes:
 - A telegraph station.
 ----
-desc: The seat of her majesty *the Queen*, and of her ancestors from the period of the Conquest.
+desc: The seat of her majesty *the Queen*, and of her ancestors from the period of the Conquest. Eton College also is within a short distance.
 ----
 text: This is a parliamentary borough (two members), with a population of 9,520, and a few public buildings, such as the Town Hall, built 1686, containing several royal portraits, and the modern church, in which are some of G. Gibbon's carvings; but the chief attractions are the *Castle* and Park, the seat of her majesty *the Queen*, and of her ancestors from the period of the Conquest.
 
