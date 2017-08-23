@@ -1,22 +1,6 @@
-.c-routemap__line {
+.c-routemap {
   position: relative;
-  color: $__color-neutral-dark;
-
-  .c-routemap__line {
-    padding-left: 1.25rem;
-
-    &::before {
-      display: block;
-      position: absolute;
-      top: -0.5rem;
-      left: 0;
-      height: 1.5rem;
-      width: 1.5rem;
-      background-image: url("/assets/vectors/routemap__branch.svg");
-      background-repeat: no-repeat;
-      content: "";
-    }
-  }
+  color: $__color-neutral-mid;
 
   li {
     position: relative;

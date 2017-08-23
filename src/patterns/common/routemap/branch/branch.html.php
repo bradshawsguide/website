@@ -1,4 +1,4 @@
-<ol class="c-routemap">
+<ol class="c-routemap__branch">
 <? foreach($stops as $stop):
   if (is_array($stop)) {
     $type = 'branch';
