@@ -1,16 +1,15 @@
 .s-distances {
-  font-family: $__font-family-serif;
-  font-size: 1rem;
-  padding-right: 2vw;
-  padding-left: 2vw;
+  @include typeset("prose");
+
+  --font-size-prose: $__font-size-text-medium;
 
   table {
-    margin: 1.5rem auto 3em;
     width: 100%;
+    margin: $__space-large auto $__space-xlarge;
   }
 
   caption {
-    padding: 0.5rem 0;
+    margin-bottom: $__space-medium;
     font-variant-caps: small-caps;
   }
 
@@ -21,8 +20,8 @@
   }
 
   td {
-    vertical-align: bottom;
     width: 100%;
+    vertical-align: bottom;
   }
 
   thead {
@@ -34,13 +33,13 @@
 
     th:nth-child(2) {
       display: block;
-      font-weight: normal;
       text-align: right;
+      font-size: 80%;
+      font-weight: normal;
 
       @media screen and (min-width: $__breakpoint-medium) {
         display: block;
         position: relative;
-        padding: 0;
       }
 
       &::after {
@@ -49,6 +48,7 @@
           position: absolute;
           left: 0;
           width: 50%;
+          padding-right: ($__space-large / 2);
           text-align: right;
         }
       }
@@ -56,63 +56,23 @@
   }
 
   tbody {
-    line-height: 1.25;
     word-spacing: -0.025em;
-    text-shadow:
-      // x
-      0.03em 0 $__color-neutral-lightest,
-      -0.03em 0 $__color-neutral-lightest,
-      0.06em 0 $__color-neutral-lightest,
-      -0.06em 0 $__color-neutral-lightest,
-      0.09em 0 $__color-neutral-lightest,
-      -0.09em 0 $__color-neutral-lightest,
-      0.12em 0 $__color-neutral-lightest,
-      -0.12em 0 $__color-neutral-lightest,
-      0.15em 0 $__color-neutral-lightest,
-      -0.15em 0 $__color-neutral-lightest,
-      0.18em 0 $__color-neutral-lightest,
-      -0.18em 0 $__color-neutral-lightest,
-      0.21em 0 $__color-neutral-lightest,
-      -0.21em 0 $__color-neutral-lightest,
-      0.24em 0 $__color-neutral-lightest,
-      -0.24em 0 $__color-neutral-lightest,
-      0.27em 0 $__color-neutral-lightest,
-      -0.27em 0 $__color-neutral-lightest,
-      0.3em 0 $__color-neutral-lightest,
-      -0.3em 0 $__color-neutral-lightest,
-      // y
-      0 0.03em $__color-neutral-lightest,
-      0 -0.03em $__color-neutral-lightest,
-      0 0.06em $__color-neutral-lightest,
-      0 -0.06em $__color-neutral-lightest,
-      0 0.09em $__color-neutral-lightest,
-      0 -0.09em $__color-neutral-lightest,
-      0 0.12em $__color-neutral-lightest,
-      0 -0.12em $__color-neutral-lightest,
-      0 0.15em $__color-neutral-lightest,
-      0 -0.15em $__color-neutral-lightest,
-      0 0.18em $__color-neutral-lightest,
-      0 -0.18em $__color-neutral-lightest,
-      0 0.21em $__color-neutral-lightest,
-      0 -0.21em $__color-neutral-lightest,
-      0 0.24em $__color-neutral-lightest,
-      0 -0.24em $__color-neutral-lightest,
-      0 0.27em $__color-neutral-lightest,
-      0 -0.27em $__color-neutral-lightest,
-      0 0.3em $__color-neutral-lightest,
-      0 -0.3em $__color-neutral-lightest;
 
     @media screen and (min-width: $__breakpoint-medium) {
       display: block;
       columns: 2;
       column-fill: balance;
-      column-gap: 1.5rem;
+      column-gap: $__space-large;
       column-rule: 3px double $__color-neutral-alpha;
+    }
+
+    span {
+      background-color: $__color-neutral-lightest;
+      padding-right: $__space-xxsmall;
     }
 
     em {
       font-size: 80%;
-      letter-spacing: -0.025em;
     }
 
     td:nth-child(1) {
@@ -120,11 +80,11 @@
 
       &::after {
         position: absolute;
-        right: 0.25rem;
+        right: $__space-xxsmall;
         bottom: 0.3334em;
-        left: 0.25rem;
-        z-index: -1;
-        height: 2px;
+        left: $__space-xxsmall;
+        z-index: $__z-index-underlay;
+        height: $__border-width-thick;
         background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='1.5' viewBox='0 0 4 2'%3E%3Ccircle cx='1' cy='1' r='1'/%3E%3C/svg%3E");
         background-position: bottom right;
         background-repeat: repeat-x;
