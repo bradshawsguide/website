@@ -9,11 +9,9 @@ region: kent
 location: 51.4,0.01523
 ----
 company:
-- london-tilbury-and-southend
 - london-chatham-and-dover
 ----
 route:
-- fenchurch-street-to-tilbury-and-southend
 - london-to-chatham-and-dover
 ----
 info:

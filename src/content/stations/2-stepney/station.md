@@ -12,7 +12,7 @@ company:
 ----
 route:
 - fenchurch-street-to-blackwall
-- fenchurch-street-to-tilbury-and-southend
+- stepney-and-ilford-to-tilbury-and-southend
 ----
 info:
 - term: Omnibuses

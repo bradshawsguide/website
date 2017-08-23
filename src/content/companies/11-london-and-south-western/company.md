@@ -1,9 +1,3 @@
 section: 1
 ----
 title: London and South Western Railway
-----
-text: The main branches of this railway communicate with the suburbs of London, and are mostly celebrated for their picturesque beauty, viz.:-- Richmond, Windsor, Kew, and the valley of the Thames, Hampton Court, Kingston, Claremont, Guildford, &c.; also with Portsmouth, Winchester, Southampton, Salisbury, Isle of Wight, and Weymouth, *via* Dorchester.
-
-Of all the many alluring rambles held forth to the tourist who wishes to avail himself of the speedy communication by rail with some of the most picturesque scenery in England, there is no line that possesses more intrinsic advantages, or which intersects in its various routes so many places of glorious memory as the South Western, from the metropolis to the south-western coast of Hampshire and Devonshire,
-
-The <span class="smcp">Metropolitan terminus</span> of the South Western is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company. The gentle pace at which the trains first move afford time for observing the extensive engine houses and workshops at Nine Elms. The line passes over viaducts or arches through a part of the densely populated parish of Lambeth, over the tops of houses, past the grounds of Lambeth Palace, in a line with which is Lambeth Church, and across the river may be seen the splendid towers of the new Houses of Parliament.

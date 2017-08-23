@@ -13,6 +13,7 @@ company:
 ----
 route:
 - london-to-southampton-dorchester-and-weymouth
+- london-to-richmond-staines-wokingham-and-reading
 ----
 info:
 - term: Population

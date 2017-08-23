@@ -48,8 +48,14 @@ stops:
   stops:
     - portland
 ----
-text: ### London to Clapham
-The [Metropolitan terminus](/stations/waterloo-bridge) of the [South Western](/companies/london-and-south-western) is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company.
+text: The main branches of this railway communicate with the suburbs of London, and are mostly celebrated for their picturesque beauty, viz.:-- Richmond, Windsor, Kew, and the valley of the Thames, Hampton Court, Kingston, Claremont, Guildford, &c.; also with Portsmouth, Winchester, Southampton, Salisbury, Isle of Wight, and Weymouth, *via* Dorchester.
+
+Of all the many alluring rambles held forth to the tourist who wishes to avail himself of the speedy communication by rail with some of the most picturesque scenery in England, there is no line that possesses more intrinsic advantages, or which intersects in its various routes so many places of glorious memory as the South Western, from the metropolis to the south-western coast of Hampshire and Devonshire,
+
+The [Metropolitan terminus](/stations/waterloo-bridge) of the [South Western](/companies/london-and-south-western) is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company. The gentle pace at which the trains first move afford time for observing the extensive engine houses and workshops at Nine Elms. The line passes over viaducts or arches through a part of the densely populated parish of Lambeth, over the tops of houses, past the grounds of Lambeth Palace, in a line with which is Lambeth Church, and across the river may be seen the splendid towers of the new Houses of Parliament.
+
+### London to Clapham
+Thence we pass on through [Vauxhall](/stations/vauxhall). We next find ourselves bounded on each side by spacious market gardens, and we see Battersea new town and the park on the one hand, and Battersea Rise, the region of Clapham, on the other. In Battersea church the great statesman, Bolingbroke, lies buried. At this point, the [Richmond, Staines, and Windsor line](/routes/london-to-richmond-staines-wokingham-and-reading) diverges to the right, while the main line turns oft towards the left to Wimbledon.
 
 ### Clapham to Kingston
 Soon after rejoining the Main Line at Clapham Common, [a branch to the left](/routes/victoria-to-crystal-palace) leads to the Crystal Palace, *via* [Balham](/stations/balham), [Streatham](/stations/streatham), and [Norwood](/stations/norwood-lower).

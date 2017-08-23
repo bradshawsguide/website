@@ -8,9 +8,10 @@ location: 51.51167, -0.07881
 ----
 company:
 - london-and-blackwall
-- london-tilbury-and-southend
+- north-london
 ----
 route:
 - fenchurch-street-to-blackwall
 - fenchurch-street-to-chalk-farm
-- fenchurch-street-to-tilbury-and-southend
+----
+text: The growing importance of the London and Blackwall Railway, the immense number of passengers passing through its London terminus, the increase anticipated from the working arrangements of the company with the Great Eastern and the Tilbury and Southend Railways, rendered an enlargement of the Fenchurch Street station necessary in 1853. The new terminus is a fine-looking building, and comprises booking offices and waiting rooms, from which you ascend by a flight of stairs on each side to the platform accommodation above for the following lines:-- [London and Blackwall](/routes/fenchurch-street-to-blackwall), the [North London](/routes/fenchurch-street-to-chalk-farm), the Great Eastern, and the [Tilbury and Southend](/routes/stepney-and-ilford-to-tilbury-and-southend). These platforms are all covered with one roof, 100 feet span, and upwards of 300 feet long. The approach to the north side of the line has been much widened to admit of another line of carriages, as the traffic has so much increased, and the amount of goods conveyed to and from the eastern and western parts of the Metropolis for transmission on the various other lines of railway has become very great.

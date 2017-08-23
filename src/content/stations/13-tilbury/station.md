@@ -10,7 +10,7 @@ company:
 - london-tilbury-and-southend
 ----
 route:
-- fenchurch-street-to-tilbury-and-southend
+- stepney-and-ilford-to-tilbury-and-southend
 ----
 info:
 - term: Hotel

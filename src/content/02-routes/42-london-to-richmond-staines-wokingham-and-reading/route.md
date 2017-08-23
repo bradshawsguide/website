@@ -9,7 +9,7 @@ line_later: Waterloo to Reading Line
 company: london-and-south-western
 ----
 stops:
-- vauxhall
+- clapham
 - wandsworth
 - putney
 - barnes

@@ -16,4 +16,4 @@ company:
 route:
 - charing-cross-to-greenwich
 ----
-text: After passing over the new Hungerford bridge, which hardly vibrates more than does solid ground, we reach, by a sharp curve, the Waterloo Junction. In two minutes from first starting the train stops at [Blackfriars](/stations/blackfriars).
+text: In two minutes from first starting the train stops at [Blackfriars](/stations/blackfriars).

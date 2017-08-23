@@ -1,10 +1,12 @@
 section: 1
 ----
-title: Pitsea
+title: Bromley
 ----
-region: essex
+title_later: Bromley-by-Bow
 ----
-location: 51.560036, 0.506593
+region: middlesex
+----
+location: 51.524, -0.0113
 ----
 company:
 - london-tilbury-and-southend

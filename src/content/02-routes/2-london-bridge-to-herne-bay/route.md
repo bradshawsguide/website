@@ -1,8 +1,6 @@
 section: 1
 ----
-title: London Bridge to Herne Bay, by Steamer
-----
-title_short: London Bridge to Herne Bay
+title: London Bridge to Herne Bay
 ----
 company: thames-steamers
 ----
