@@ -2,9 +2,9 @@
 ----
 country: Channel Islands
 ----
-text: (A telegraph station)
-
-Which many prefer to the island already described, is in form, an irregular parallelogram, about ten miles long, and five broad. Its greatest length from south-east to north-west is about twelve miles, whilst it embraces a circumference, inclusive of its many curves and winding sinuosities, of about fifty miles, and a superficies of some 50,000 acres.
+notes: A telegraph station
+----
+text: Which many prefer to the island already described, is in form, an irregular parallelogram, about ten miles long, and five broad. Its greatest length from south-east to north-west is about twelve miles, whilst it embraces a circumference, inclusive of its many curves and winding sinuosities, of about fifty miles, and a superficies of some 50,000 acres.
 
 Sloping from north to south, in contradistinction to Guernsey, the whole of the northern coast, with the eastern and western projections, will be found composed of rugged and precipitous rocks, while the southern shore, though fringed with crags and undulating cliffs, lies low, and has a considerable portion of that fine sandy beach so inviting to those who come chiefly to bathe-and promenade,by the sea shore. The town of St. Helier's, where the steam-boat passengers from Southampton disembark, lies on the eastern side of the beautiful bay of St Aubin's; and if the visitor be fortunate enough to arrive at high water, the first appearance of the island, with its noble bay, sloping shores, and thickly wooded heights, profusely studded with villas and cottages, will be found happily to unite the attributes of the beautiful and the picturesque.
 

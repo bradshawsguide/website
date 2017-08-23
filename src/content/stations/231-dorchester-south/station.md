@@ -25,6 +25,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: A small parliamentary borough, and the capital of Dorsetshire, in a pretty part of the South Downs, at the termination of the South Western railway, 141 miles from London.
+----
 text: The station is about a quarter of a mile from the town, well situated, and neat in its arrangements, the arrival and departure platforms and coverings being complete, and well ordered in every respect.
 
 **Dorchester** is a small parliamentary borough, and the capital of Dorsetshire, in a pretty part of the South Downs, at the termination of the South Western railway, 141 miles from London. It returns two members; population, 6,823. A trade in sheep, grain and other agricultural produce. It is pleasantly situated on an ascent above the river Frome.
