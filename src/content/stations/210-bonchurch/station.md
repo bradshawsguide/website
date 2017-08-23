@@ -21,6 +21,8 @@ notes:
 - Distance from station at Shanklin, 3 miles.
 - Telegraph station at Ventnor, 2 miles.
 ----
+desc: Bonchurch, so called because the church is dedicated to St. Boniface.
+----
 text: Bonchurch, so called because the church is dedicated to St. Boniface. An exemplary young clergyman, the author of "Shadows of the Cross," and John Stirling, whose Life, written by Carlyle, has excited considerable interest, are buried in it. The road is overshadowed with trees, and passes a lake and the Pulpit Rock. There is a charming path from Shanklin to Bonchurch, through the Sand-slip. Boniface Down, near Ventnor, rises steeply up 700 or 800 ft above the sea.
 ----
 distances:

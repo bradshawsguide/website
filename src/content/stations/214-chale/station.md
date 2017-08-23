@@ -17,9 +17,11 @@ info:
 - term: Money Order Office
   desc: at Ventnor.
 ----
-text:
+notes:
 - Distance from station at Portsmouth, 29 miles.
-- Telegraph station at Ventuor, 6½ miles.
+- Telegraph station at Ventnor, 6½ miles.
+----
+desc: Blackgang Chine is a gap in the cliff, which hangs over the beach in Chale Bay. It is bare and somewhat dark-looking, with an iron spring trickling through it.
 ----
 text: Blackgang Chine is a gap in the cliff, which hangs over the beach in Chale Bay. It is bare and somewhat dark-looking, with an iron spring trickling through it. The highest point is 600 or 700 feet, making it a tiresome job to ascend or descend the steps cut in the side on a summer's day. But it is worth while to go down to the beach to watch the great waves as they roll in, especially if it is at all windy. Here the poor "Clarendon" came ashore.
 
