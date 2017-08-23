@@ -55,18 +55,6 @@
   }
 }
 
-.c-banner__title {
-  flex: 0;
-
-  a {
-    padding: $__space-large $__space-xxsmall $__space-medium;
-
-    @media (min-width: $__breakpoint-medium) {
-      padding-top: $__space-xlarge;
-    }
-  }
-}
-
 .c-banner__edition {
   display: flex;
   align-items: center;
@@ -100,8 +88,13 @@
 .c-banner__homelink {
   --link-decoration: none;
   display: block;
+  padding: $__space-large 0 $__space-medium;
   font: 2rem/0.5 $__font-family-block;
   white-space: nowrap;
+
+  @media (min-width: $__breakpoint-medium) {
+    padding-top: $__space-xlarge;
+  }
 
   span {
     @media (max-width: $__breakpoint-small) {
