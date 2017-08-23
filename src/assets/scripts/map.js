@@ -22,7 +22,7 @@ export default function (el, url) {
 
   const featurePopup = function (feature, layer) {
     if (feature.properties && feature.properties.title) {
-      const popupContent = `<a href="${feature.properties.url}">${feature.properties.title}</a>`;
+      const popupContent = `<a target="_parent" href="${feature.properties.url}">${feature.properties.title}</a>`;
       layer.bindPopup(popupContent);
     }
   };
