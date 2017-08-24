@@ -1,58 +1,36 @@
 <?
-  function generateLineString($stops) {
-    $linestring = array();
-
-    foreach($stops as $stop) {
-      if (is_array($stop)) {
-        $page = page('stations/'.$stop[0]);
-      } else {
-        $page = page('stations/'.$stop);
-      }
-
-      if(!$page->location()->empty()) {
-        $coords[] = array(
-          $page->location()->coordinates()->lng(),
-          $page->location()->coordinates()->lat()
-        );
-
-        $lineString = array(
-          'type' => 'LineString',
-          'coordinates' => $coords
-        );
-      };
-    }
-
-    return $lineString;
-  };
-
   $stops = $page->stops()->yaml();
 
+  // Build geometries array from stops along this route
   $geometries = array(
     generateLineString($stops),
   );
 
+  // Add branch lines to geometries array
   foreach($stops as $stop) {
     if (is_array($stop)) {
-      $branchstops = $stop;
       array_push($geometries, generateLineString($stop));
     }
   }
 
+  // Build geometry array with collection of geometries
   $geometry = array(
     'type' => 'GeometryCollection',
     'geometries' => $geometries
   );
 
+  // Build properties array
   $properties = array(
     'title' => (string)$page->title(),
     'url' => (string)$page->url()
   );
 
-  $json[] = array(
+  // Build GeoJSON array
+  $geojson[] = array(
     'type' => 'Feature',
     'geometry' => $geometry,
     'properties' => $properties
   );
 
-  echo json_encode($json);
-?>
+  // Encode array as JSON
+  echo json_encode($geojson);

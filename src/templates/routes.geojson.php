@@ -1,57 +1,51 @@
 <?
-  if (param('section')) {
-    $routes = $routes->filterBy('section', param('section'));
-  }
-
-  $feature = array();
   foreach($routes as $route) {
     $stops = $route->stops()->yaml();
 
-    // Convert stops() into an array of pages
-    array_walk($stops, function(&$value, $key) {
-      if (is_array($value)) {
-        $value = page('stations/'.$value[0]);
-      } else {
-        $value = page('stations/'.$value);
-      }
-    });
+    // Build geometries array from stops along this route
+    $geometries = array(
+      generateLineString($stops),
+    );
 
-    $json = array();
-    $geometry = array();
-    $coords = array();
-
+    // Add branch lines to geometries array
     foreach($stops as $stop) {
-      if(!$stop->location()->empty()) {
-        $coords[] = array(
-          $stop->location()->coordinates()->lng(),
-          $stop->location()->coordinates()->lat()
-        );
+      if (is_array($stop)) {
+        array_push($geometries, generateLineString($stop));
+      }
+    }
 
+    // Empty coordinates will break maps. So, for each
+    // geometry check if it returns a completed array
+    foreach($geometries as $geometry) {
+      if (!empty($geometry)) {
+        // Build geometry array with collection of geometries
         $geometry = array(
-          'type' => 'LineString',
-          'coordinates' => $coords
+          'type' => 'GeometryCollection',
+          'geometries' => $geometries
         );
       }
     }
 
+    // Build properties array
     $properties = array(
       'title' => (string)$route->title(),
       'url' => (string)$route->url()
     );
 
-    if (!empty($coords)) {
-      $feature[] = array(
-        'type' => 'Feature',
-        'geometry' => $geometry,
-        'properties' => $properties,
-      );
-    };
+    // Build feature array
+    $feature[] = array(
+      'type' => 'Feature',
+      'geometry' => $geometry,
+      'properties' => $properties,
+    );
   }
 
-  $json[] = array(
+  // Build GeoJSON array
+  $geojson[] = array(
     'type' => 'FeatureCollection',
     'features' => $feature
   );
 
-  echo json_encode($json);
+  // Encode array as JSON
+  echo json_encode($geojson);
 ?>
