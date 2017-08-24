@@ -1,37 +1,32 @@
 <?
-  if (param('section')) {
-    $items = $page->children()->filterBy('section', param('section'));
-  } else {
-    $items = $page->children();
-  }
-
-  $json = array();
-
-  foreach($items as $item) {
-    if(!$item->location()->empty()) {
+  foreach($stations as $station) {
+    if(!$station->location()->empty()) {
+      // Build latlng array from station coordinates
       $latlng = array(
-        $item->location()->coordinates()->lng(),
-        $item->location()->coordinates()->lat()
+        $station->location()->coordinates()->lng(),
+        $station->location()->coordinates()->lat()
       );
 
+      // Build geometry array from station coordinates
       $geometry = array(
-        'type'        => 'Point',
+        'type' => 'Point',
         'coordinates' => $latlng
       );
 
+      // Build properties array from station information
       $properties = array(
-        'title'       => (string)$item->title(),
-        'title_later' => ($item->title_later()->isNotEmpty() == 1) ? (string)$item->title_later() : null,
-        'url'         => (string)$item->url()
+        'title' => (string)$station->title(),
+        'url' => (string)$station->url()
       );
 
-      $json[] = array(
-        'type'        => 'Feature',
-        'geometry'    => $geometry,
-        'properties'  => $properties
+      // Build GeoJSON array
+      $geojson[] = array(
+        'type' => 'Feature',
+        'geometry' => $geometry,
+        'properties' => $properties
       );
     }
   }
 
-  echo json_encode($json);
-?>
+  // Encode array as JSON
+  echo json_encode($geojson);

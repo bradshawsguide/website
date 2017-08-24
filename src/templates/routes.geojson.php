@@ -48,4 +48,3 @@
 
   // Encode array as JSON
   echo json_encode($geojson);
-?>

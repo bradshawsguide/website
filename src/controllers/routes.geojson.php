@@ -1,12 +1,11 @@
 <?
 
 return function($site, $pages, $page) {
-  $section = param('section');
   $routes = page('routes')->children()->visible()->sortBy('dirname');
 
   // Filter by section
-  if ($section == true) {
-    $routes = $routes->filterBy('section', $section);
+  if ($sectionParam = param('section')) {
+    $routes = $routes->filterBy('section', $sectionParam);
   };
 
   return compact('routes');
