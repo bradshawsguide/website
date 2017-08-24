@@ -9,11 +9,7 @@ company: london-brighton-and-south-coast
 stops:
 - croydon
 - carshalton
-- junction: sutton
-  stops:
-    - california
-    - banstead
-    - epsom-downs
+- [sutton, california, banstead, epsom-downs]
 - cheam
 - ewell-east
 - epsom

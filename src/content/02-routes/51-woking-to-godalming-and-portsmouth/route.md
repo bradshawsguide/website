@@ -15,11 +15,7 @@ stops:
 - haslemere
 - liphook
 - liss
-- junction: petersfield
-  stops:
-    - rogate
-    - elsted
-    - midhurst
+- [petersfield, rogate, elsted, midhurst]
 - rowlands-castle
 - havant
 - portsmouth

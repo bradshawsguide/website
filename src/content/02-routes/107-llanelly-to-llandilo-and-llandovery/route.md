@@ -10,23 +10,12 @@ stops:
 - bynea
 - llangennech
 - pontardulais
-- junction: pantyffynnon
-  stops:
-    - cross-inn-ammanford
-    - garnant
-    - brynamman
+- [pantyffynnon, cross-inn-ammanford, garnant, brynamman]
 - duffryn
 - llandebie
 - derwydd-road
 - ffairfach
-- junction: llandilo
-  stops:
-    - llandilo-bridge
-    - golden-grove
-    - llanarthney
-    - nantgaredig
-    - abergwilly
-    - carmarthen
+- [llandilo, llandilo-bridge, golden-grove, llanarthney, nantgaredig, abergwilly, carmarthen]
 - talley-road
 - glanrhyd
 - llangadock

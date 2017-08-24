@@ -13,9 +13,7 @@ stops:
 - camborne
 - gwinear-road
 - hayle
-- junction: st-ives-road
-  stops:
-    - st-ives
+- [st-ives-road, st-ives]
 - marazion-road
 - penzance
 ----

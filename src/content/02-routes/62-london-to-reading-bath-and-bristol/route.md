@@ -10,12 +10,8 @@ stops:
 - paddington
 - ealing
 - hanwell
-- junction: southall
-  stops:
-    - brentford
-- junction: west-drayton
-  stops:
-    - uxbridge
+- [southall, brentford]
+- [west-drayton, uxbridge]
 - langley
 - slough
 - maidenhead
@@ -29,9 +25,7 @@ stops:
 - steventon
 - wantage-road
 - challow
-- junction: uffington
-  stops:
-    - faringdon
+- [uffington, faringdon]
 - shrivenham
 - swindon-junction
 - wootton-basset

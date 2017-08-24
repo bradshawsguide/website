@@ -8,13 +8,8 @@ company: london-and-south-western
 ----
 stops:
 - bishopstoke
-- junction: botley
-  stops:
-    - bishops-waltham
-- junction: fareham
-  stops:
-    - gosport
-    - stokes-bay
+- [botley, bishops-waltham]
+- [fareham, gosport, stokes-bay]
 - porchester
 - cosham
 - portsmouth

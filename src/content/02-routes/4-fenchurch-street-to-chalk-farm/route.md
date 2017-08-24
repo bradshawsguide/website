@@ -11,10 +11,7 @@ stops:
 - bow
 - victoria-park
 - hackney
-- junction: dalston
-  stops:
-    - shoreditch
-    - broad-street
+- [dalston, shoreditch, broad-street]
 - newington-road
 - islington-and-highbury
 - camden-road

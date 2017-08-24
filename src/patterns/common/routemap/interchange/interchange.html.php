@@ -6,7 +6,7 @@ foreach ($routes as $branch):
   if ($page->url() != $branch->url()):
 ?>
   <li>
-    <?= html::a($branch->url(), $branch->title()->smartypants()) ?>
+    <?= html::a($branch->url(), smartypants($branch->shortTitle())) ?>
   </li>
 <?
   endif;

@@ -10,7 +10,7 @@
     // Convert stops() into an array of pages
     array_walk($stops, function(&$value, $key) {
       if (is_array($value)) {
-        $value = page('stations/'.$value['junction']);
+        $value = page('stations/'.$value[0]);
       } else {
         $value = page('stations/'.$value);
       }

@@ -12,9 +12,7 @@ stops:
 - edington
 - shapwick
 - ashcott
-- junction: glastonbury
-  stops:
-    - wells
+- [glastonbury, wells]
 - west-pennard
 - pylle
 - evercreech

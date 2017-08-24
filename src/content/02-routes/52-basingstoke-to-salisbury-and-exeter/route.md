@@ -26,9 +26,7 @@ stops:
 - yeovil-junction
 - sutton-bingham
 - crewkerne
-- junction: chard-road
-  stops:
-    - chard
+- [chard-road, chard]
 - axminster
 - colyton
 - honiton

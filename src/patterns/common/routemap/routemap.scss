@@ -1,43 +1,13 @@
 .c-routemap {
   position: relative;
-  color: $__color-neutral-mid;
 
-  li {
-    position: relative;
-
-    &::before {
-      display: block;
-      position: absolute;
-      top: 0;
-      left: 0;
-      height: 100%;
-      width: 0.25rem;
-      background-color: currentColor;
-      content: "";
-    }
-  }
-
-  li:first-of-type {
-    &::before {
-      top: 1rem;
-    }
-  }
-
-  li:only-of-type {
-    &::before {
-      display: none;
-    }
-  }
-
-  li:last-of-type {
-    &::before {
-      top: auto;
-      bottom: 1rem;
-    }
-
-    .c-routemap__station::before {
-      left: -0.25rem;
-      width: 0.75rem;
-    }
+  &::before {
+    display: block;
+    position: absolute;
+    top: 0.5em;
+    bottom: 0.5em;
+    left: 0;
+    border-left: 3px double;
+    content: "";
   }
 }

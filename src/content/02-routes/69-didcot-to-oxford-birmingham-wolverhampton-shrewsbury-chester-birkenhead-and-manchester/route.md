@@ -10,9 +10,7 @@ company: great-western
 ----
 stops:
 - didcot
-- junction: culham
-  stops:
-    - abingdon
+- [culham, abingdon]
 - oxford
 ----
 text: After passing a small and uninteresting village called Appleford, we come to a lofty embankment, from which some expansive and diversified views of the surrounding country are obtained. One mile further is the station of [Culham](/stations/culham).

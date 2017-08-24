@@ -17,8 +17,4 @@ stops:
 - par
 - st-austell
 - grampound-road
-- junction: truro
-  stops:
-    - perran
-    - penryn
-    - falmouth
+- [truro, perran, penryn, falmouth]

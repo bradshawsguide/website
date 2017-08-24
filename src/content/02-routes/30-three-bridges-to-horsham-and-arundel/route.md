@@ -12,9 +12,7 @@ stops:
 - fay-gate
 - horsham
 - billingshurst
-- junction: pulborough
-  stops:
-    - petworth
+- [pulborough, petworth]
 - amberley
 - arundel
 ----

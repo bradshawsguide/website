@@ -7,18 +7,10 @@ company: taff-vale
 stops:
 - cardiff
 - llandaff
-- junction: walnut-tree-junction
-  stops:
-    - llantrissant
-    - ystrad-owen
-    - cowbridge
+- [walnut-tree-junction, llantrissant, ystrad-owen, cowbridge]
 - treforest
 - pontypridd
-- junction: aberdare-junction
-  stops:
-    - mountain-ash
-    - treaman
-    - aberdare
+- [aberdare-junction, mountain-ash, treaman, aberdare]
 - quakers-yard
 - troedyrhiew
 - merthyr

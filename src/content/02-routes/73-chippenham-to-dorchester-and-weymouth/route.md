@@ -22,9 +22,7 @@ stops:
 - maiden-newton
 - grimstone
 - dorchester-west
-- junction: weymouth
-  stops:
-    - portland
+- [weymouth, portland]
 ----
 text: ### Chippenham to Westbury
 From Trowbridge we continue by the Valley of the Avon, with the grounds of *Rowed Ashton* and *Heywood House* on the left, and arrive at [Westbury](/stations/westbury).

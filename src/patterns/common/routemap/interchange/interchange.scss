@@ -1,29 +1,23 @@
 .c-routemap__interchange {
-  position: relative;
+  @include typeset("caption");
+  margin-top: $__space-xxsmall;
 
   &::before {
     display: block;
     position: absolute;
-    top: -1.5rem;
-    left: -0.375rem;
+    top: 2px;
+    left: -4px;
     z-index: 1;
-    height: 1rem;
-    width: 1rem;
+    height: 11px;
+    width: 11px;
     background-color: $__color-neutral-lighter;
-    border: 0.25rem solid currentColor;
+    border: $__border-width-thick solid;
     border-radius: 100%;
     content: "";
   }
 
-  li {
-    padding-bottom: 0.5rem;
-    padding-left: 2.25rem;
-    background-image: url("/assets/vectors/routemap__interchange.svg");
-    background-repeat: no-repeat;
-    background-size: 1.75rem 1.25rem;
-    background-position-y: -0.125rem;
-    font-size: 0.75rem;
-    font-style: italic;
-    line-height: 1;
+  li::before {
+    content: "\21B3\0020"; // ↳
+    font-family: serif;
   }
 }

@@ -1,25 +1,25 @@
 .c-routemap__station {
-  display: block;
+  @include typeset("label");
   position: relative;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  padding-left: 1rem;
-  font-size: 1rem;
-  line-height: 1;
+  padding-bottom: $__space-xsmall;
+  padding-left: $__space-small;
 
-  &::before { // ▬
+  &::before {
     display: block;
     position: absolute;
-    top: 50%;
-    left: 0;
-    height: 0.25rem;
-    width: 0.5rem;
-    margin-top: -0.125rem;
-    background-color: currentColor;
     content: "";
   }
-}
 
-.c-routemap__station--major {
-  font-weight: 600;
+  &::before { // ▬
+    top: $__space-xsmall;
+    left: 0;
+    height: $__border-width-thick;
+    width: 6px;
+    background-color: currentColor;
+  }
+
+  &:last-child::before {
+    top: auto;
+    bottom: $__space-xsmall;
+  }
 }

@@ -7,11 +7,7 @@ company: north-devon
 stops:
 - exeter-st-davids
 - st-cyres
-- junction: crediton
-  stops:
-    - yeoford
-    - bow-devon
-    - north-tawton
+- [crediton, yeoford, bow-devon, north-tawton]
 - yeoford
 - copplestone
 - morchard-road
@@ -20,9 +16,7 @@ stops:
 - south-molton-road
 - portsmouth-arms
 - umberleigh
-- junction: barnstaple
-  stops:
-    - ilfracombe
+- [barnstaple, ilfracombe]
 - fremington
 - instow
 - bideford

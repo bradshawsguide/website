@@ -10,9 +10,7 @@ stops:
 - swindon-junction
 - purton
 - minety
-- junction: tetbury-road
-  stops:
-    - cirencester
+- [tetbury-road, cirencester]
 - brimscomb
 - stroud
 - stonehouse

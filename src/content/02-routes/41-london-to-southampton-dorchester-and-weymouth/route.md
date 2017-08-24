@@ -32,21 +32,14 @@ stops:
 - totton
 - lyndhurst-road
 - brockenhurst
-- junction: ringwood
-  stops:
-    - herne
-    - christchurch
+- [ringwood, herne, christchurch]
 - wimborne
-- junction: poole-junction
-  stops:
-    - poole
+- [poole-junction, poole]
 - wareham
 - wool
 - moreton
 - dorchester-south
-- junction: weymouth
-  stops:
-    - portland
+- [weymouth, portland]
 ----
 text: The main branches of this railway communicate with the suburbs of London, and are mostly celebrated for their picturesque beauty, viz.:-- Richmond, Windsor, Kew, and the valley of the Thames, Hampton Court, Kingston, Claremont, Guildford, &c.; also with Portsmouth, Winchester, Southampton, Salisbury, Isle of Wight, and Weymouth, *via* Dorchester.
 

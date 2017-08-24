@@ -1,5 +1,6 @@
+<li class="c-routemap__station">
 <?
-  echo '<span class="c-routemap__station">'.html::a($station->url(), $station->title()->smartypants()).'</span>';
+  echo html::a($station->url(), $station->title()->smartypants());
 
   // Get `routes` YAML list at this station
   $routes = $station->route()->yaml();
@@ -12,3 +13,4 @@
     ]);
   }
 ?>
+</li>

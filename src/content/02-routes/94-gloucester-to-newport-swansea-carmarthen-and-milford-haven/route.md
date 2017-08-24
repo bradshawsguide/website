@@ -46,9 +46,7 @@ stops:
 - narberth-road
 - clarbeston-road
 - haverfordwest
-- junction: johnston
-  stops:
-    - milford
+- [johnston, milford]
 - new-milford
 ----
 text: ### Gloucester to Newport

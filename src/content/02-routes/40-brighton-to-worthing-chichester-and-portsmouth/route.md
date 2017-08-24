@@ -22,9 +22,7 @@ stops:
 - angmering
 - littlehampton
 - ford
-- junction: barnham
-  stops:
-    - bognor
+- [barnham, bognor]
 - drayton
 - chichester
 - bosham

@@ -1,25 +1,19 @@
 <ol class="c-routemap">
-<? foreach($stops as $stop):
-  if (is_array($stop)) {
-    $type = 'branch';
-    $station = page('stations/'.$stop['junction']);
-  } else {
-    $type = 'station';
-    $station = page('stations/'.$stop);
-  }
-?>
-  <li>
-  <?
-    pattern('common/routemap/station', [
-      'station' => $station
-    ]);
+<?
+  foreach($stops as $stop) {
+    if (is_array($stop)) {
+      pattern('common/routemap/station', [
+        'station' => page('stations/'.$stop[0])
+      ]);
 
-    if ($type == 'branch') {
       pattern('common/routemap/branch', [
-        'stops' => $stop['stops']
+        'stops' => $stop
+      ]);
+    } else {
+      pattern('common/routemap/station', [
+        'station' => page('stations/'.$stop)
       ]);
     }
-  ?>
-  </li>
-<? endforeach ?>
+  }
+?>
 </ol>

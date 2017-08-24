@@ -9,9 +9,7 @@ line: North Kent Line
 company: south-eastern
 ----
 stops:
-- junction: new-cross
-  stops:
-    - chislehurst
+- [new-cross, chislehurst]
 - lewisham
 - blackheath
 - charlton
