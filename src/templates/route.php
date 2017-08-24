@@ -1,4 +1,8 @@
-<? snippet('head') ?>
+<?
+  snippet('head', [
+    'alternate' => $page->url().'.geojson'
+  ]);
+?>
 
 <article class="c-page">
 <?

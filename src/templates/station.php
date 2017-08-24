@@ -1,8 +1,9 @@
 <?
   $class = $page->hasImages() ? 'has-poster' : null;
   snippet('head', [
+    'alternate' => $page->url().'.geojson',
     'class' => $class
-  ])
+  ]);
 ?>
 
 <article class="c-page">

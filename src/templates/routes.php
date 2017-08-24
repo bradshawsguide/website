@@ -2,7 +2,9 @@
   if (param('view') == null) {
     go($page->uri().'/section:1/view:list');
   };
-  snippet('head')
+  snippet('head', [
+    'alternate' => $page->url().'.geojson'.'/section:'.param('section')
+  ]);
 ?>
 
 <section class="c-page">
