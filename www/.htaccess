@@ -18,3 +18,11 @@
 # Close a security hole that is abused by most XSS attacks
   php_flag register_globals Off
 </IfModule>
+
+# Security
+Header set Content-Security-Policy "default-src 'self'"
+Header set Referrer-Policy "no-referrer, strict-origin-when-cross-origin"
+Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+Header set X-Xss-Protection "1; mode=block"
+Header set X-Content-Type-Options "nosniff"
+Header set X-Frame-Options "SAMEORIGIN"
