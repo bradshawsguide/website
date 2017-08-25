@@ -19,8 +19,7 @@
   "scripts": {
     "prestart": "npm install",
     "start": "gulp start",
-    "deploy": "gulp deploy",
-    "dev": "gulp dev",
+    "build": "gulp build",
     "test": "xo || stylelint **/*.scss"
   },
   "stylelint": {

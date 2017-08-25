@@ -5,6 +5,8 @@
 ## Installation
 1. `git clone git@github.com:paulrobertlloyd/bradshawsguide.git`
 2. `git submodule update --init --recursive`
+3. `mkdir src/cache`
+4. `npm build`
 
 ## Development
 When developing the site, you may want assets automatically compiled and the browser to refresh automatically. To do this, run the following task:

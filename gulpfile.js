@@ -102,5 +102,5 @@ function watch() {
 // Task sets
 const compile = gulp.series(clean, gulp.parallel(fonts, icons, vectors, scripts, styles));
 
-gulp.task('default', compile);
-gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));
+gulp.task('build', compile);
+gulp.task('start', gulp.series(compile, gulp.parallel(watch, sync)));
