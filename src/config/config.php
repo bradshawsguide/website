@@ -3,14 +3,6 @@
 // Direct access protection
 if(!defined('KIRBY')) die('Direct access is not allowed');
 
-// Headers
-header('Content-Security-Policy: default-src https: \'unsafe-inline\'');
-header('Referrer-Policy: no-referrer, strict-origin-when-cross-origin');
-header('Strict-Transport-Security: max-age=31536000; includeSubDomains');
-header('X-Content-Type-Options: nosniff');
-header('X-Frame-Options: SAMEORIGIN');
-header('X-XSS-Protection: 1; mode=block');
-
 // Kirby license key
 c::set('license', '');
 
