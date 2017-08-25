@@ -4,19 +4,20 @@
 // ========================================================
 
 // 1. Show overflow in IE and Edge
-// 2. Remove the margin in Firefox and Safari
-// 3. Reset font properties to `inherit`
+// 2. Reset default radius in MobileSafari
+// 3. Reset the margin in Firefox and Safari
+// 4. Reset font properties to `inherit`
 button,
 input,
 select,
 textarea {
   overflow: visible; // [1]
-  margin: 0; // [2]
-  font: inherit; // [3]
+  border-radius: 0; // [2]
+  margin: 0; // [3]
+  font: inherit; // [4]
 }
 
-// 1. Correct inability to style clickable types in iOS
-//    and Safari
+// 1. Correct inability to style clickable types in Safari
 // 2. Reset appearance
 button,
 [type=button],
