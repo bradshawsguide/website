@@ -69,7 +69,7 @@ function styles() {
     })
   ];
 
-  return gulp.src(paths.src.assets + 'styles/app.scss')
+  return gulp.src(paths.src.assets + 'styles/*.scss')
     .pipe(sourcemaps.init())
     .pipe(sassGlob())
     .pipe(sass({

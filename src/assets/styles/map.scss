@@ -1,0 +1,21 @@
+// Config
+@import "config/variables.scss";
+@import "config/properties.scss";
+@import "config/webfonts.scss";
+
+// Mixins
+@import "mixins/**/*.scss";
+
+// Vendor components
+@import "vendor/leaflet.scss";
+
+// Page styles
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+}
