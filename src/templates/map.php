@@ -1,6 +1,6 @@
 <html>
   <head>
-    <link rel="stylesheet" href="//unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="/assets/app.css"/>
     <style>
       body {
         margin: 0;
