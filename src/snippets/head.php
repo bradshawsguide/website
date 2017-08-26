@@ -15,7 +15,7 @@
   <meta property="og:image" content="<?= $page->image()->crop(640, 360)->url() ?>"/>
   <meta name="twitter:card" content="summary_large_image"/>
 <? else: ?>
-  <meta property="og:image" content="/assets/icons/icon.png"/>
+  <meta property="og:image" content="<?= url('/assets/icons/icon.png') ?>"/>
   <meta name="twitter:card" content="summary"/>
 <? endif ?>
   <meta name="twitter:site" content="@bradshawsguide"/>
