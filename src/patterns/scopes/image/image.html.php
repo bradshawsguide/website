@@ -4,14 +4,14 @@
 <figure class="s-image<?= $modifier ?>">
 <? if ($image->position() == 'pull-right'): ?>
   <img
-    srcset="<?= $image->crop(300, 360)->url() ?> 300w, <?= $image->crop(150, 180)->url() ?> 150w"
-    src="<?= $image->crop(150, 180)->url() ?>"
+    srcset="<?= $image->crop(300, 360, 80)->url() ?> 300w, <?= $image->crop(150, 180, 80)->url() ?> 150w"
+    src="<?= $image->crop(150, 180, 80)->url() ?>"
     sizes="(max-width: 640px) 100vw, 18em"
     alt=""/>
 <? else: ?>
   <img
-    srcset="<?= $image->crop(1280, 720)->url() ?> 1280w, <?= $image->crop(640, 360)->url() ?> 640w, <?= $image->crop(320, 180)->url() ?> 320w"
-    src="<?= $image->crop(320, 180)->url() ?>"
+    srcset="<?= $image->crop(1280, 720, 80)->url() ?> 1280w, <?= $image->crop(640, 360, 80)->url() ?> 640w, <?= $image->crop(320, 180, 80)->url() ?> 320w"
+    src="<?= $image->crop(320, 180, 80)->url() ?>"
     sizes="100vw"
     alt=""/>
 <? endif ?>
