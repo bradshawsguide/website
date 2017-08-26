@@ -8,8 +8,10 @@
 
   <meta property="og:url" content="<?= $page->url() ?>"/>
   <meta property="og:title" content="<?= str::unhtml($page->title()) ?>"/>
-<? if(!$page->text()->empty()): ?>
-  <meta property="og:description" content="<?= excerpt($page->text(), $length=300) ?>"/>
+<? if(!$page->desc()->empty()): ?>
+  <meta property="og:description" content="<?= $page->desc() ?>"/>
+<? else: ?>
+  <meta property="og:description" content="<?= $site->desc() ?>"/>
 <? endif ?>
 <? if($page->hasImages()): ?>
   <meta property="og:image" content="<?= $page->image()->crop(640, 360)->url() ?>"/>

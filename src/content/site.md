@@ -12,7 +12,7 @@ license: Public domain
 ----
 license-url: https://creativecommons.org/publicdomain/mark/1.0/
 ----
-desc: Bradshaw's Guide for Tourists in Great Britain & Ireland, (in four sections), adapted to the railway system, complete with maps, plans of towns, & pictorial illustrations.
+desc: Bradshaw's Guide for Tourists in Great Britain & Ireland, adapted to the railway system. Complete with maps, plans of towns, & pictorial illustrations.
 ----
 keywords: railway, guide,
 ----
