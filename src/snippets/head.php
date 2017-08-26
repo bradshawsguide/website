@@ -21,7 +21,6 @@
   <meta charset="utf-8"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="apple-mobile-web-app-title" content="<?= $site->title_short() ?>"/>
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
   <meta name="referrer" content="origin"/>
   <meta name="robots" content="index, follow"/>
   <meta name="theme-color" content="<?= $site->theme_color() ?>"/>
