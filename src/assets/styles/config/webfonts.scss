@@ -3,6 +3,7 @@
 // ========================================================
 
 @font-face {
+  font-display: swap;
   font-family: "League Gothic";
   font-weight: normal;
   font-style: normal;
@@ -12,6 +13,7 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "Kameron";
   font-weight: bold;
   font-style: normal;
@@ -21,6 +23,7 @@
 }
 
 @font-face {
+  font-display: fallback;
   font-family: "Linux Libertine";
   font-weight: normal;
   font-style: normal;
@@ -30,6 +33,7 @@
 }
 
 @font-face {
+  font-display: fallback;
   font-family: "Linux Libertine";
   font-weight: normal;
   font-style: italic;
