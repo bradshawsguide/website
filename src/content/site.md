@@ -16,6 +16,6 @@ desc: Bradshaw's Guide for Tourists in Great Britain & Ireland, adapted to the r
 ----
 keywords: railway, guide,
 ----
-theme-color: #362920
+theme-color: #30241d
 ----
 background-color: #f83
