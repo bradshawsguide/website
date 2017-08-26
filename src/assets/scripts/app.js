@@ -1,12 +1,12 @@
 // Load dependancies
-import turbolinks from 'turbolinks';
+// DISABLED: import turbolinks from 'turbolinks';
 import loadWebfonts from './modules/webfont-loader';
 import geo from './modules/geo';
 import search from './modules/search';
 // REVIEW: import typography from './modules/typography';
 
 // Run
-turbolinks.start();
+// DISABLED: turbolinks.start();
 loadWebfonts();
 geo();
 search();
