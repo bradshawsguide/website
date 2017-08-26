@@ -12,7 +12,7 @@
   <meta property="og:description" content="<?= excerpt($page->text(), $length=300) ?>"/>
 <? endif ?>
 <? if($page->hasImages()): ?>
-  <meta property="og:image" content="<?= $page->image()->resize(640, 360) ?>"/>
+  <meta property="og:image" content="<?= $page->image()->crop(640, 360)->url() ?>"/>
   <meta name="twitter:card" content="summary_large_image"/>
 <? else: ?>
   <meta property="og:image" content="/assets/icons/icon.png"/>
