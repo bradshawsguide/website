@@ -51,13 +51,22 @@
   position: absolute;
   top: 0;
   left: 0;
+  height: 3rem;
+  width: 3rem;
 }
 
 .c-search__button--geo {
-  right: 0;
+  right: 3rem;
   left: auto;
 
   &.has-failed {
     color: red;
   }
+}
+
+.c-search__button--dismiss {
+  right: 0;
+  left: auto;
+  border-left: $__rule;
+  font-weight: bold;
 }
