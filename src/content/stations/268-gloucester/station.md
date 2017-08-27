@@ -28,6 +28,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: A cathedral city, capital of the county, on the Severn, and the Bristol and Birmingham Railway, 114 miles from London.
+----
 distances:
 - location: Badgworth
   miles: "3"

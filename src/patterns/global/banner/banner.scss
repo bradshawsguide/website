@@ -5,21 +5,23 @@
   justify-content: flex-start;
   flex: 0 0 auto;
   padding: 0 var(--page-gutter);
-  background-color: var(--banner-background-color);
+  background-color: $__color-neutral-darkest;
   text-rendering: optimizeLegibility;
   text-transform: uppercase;
-  color: var(--banner-color);
+  color: $__color-mustard;
 
   @media (min-width: $__breakpoint-medium) {
     justify-content: center;
     text-align: center;
-  }
 
-  .has-poster & {
-    position: absolute;
-    right: 0;
-    left: 0;
-    z-index: $__z-index-default;
+    .has-poster & {
+      position: absolute;
+      right: 0;
+      left: 0;
+      z-index: $__z-index-default;
+      background-color: transparent;
+      color: $__color-neutral-darkest;
+    }
   }
 }
 

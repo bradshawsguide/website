@@ -25,6 +25,8 @@ info:
 notes:
 - Telegraph station at Barnstaple, 11 miles.
 ----
+desc: Ilfracombe is a considerable sea port town, and now a fashionable watering place, on the north coast of Devon, near the mouth of the Bristol Channel.
+----
 text: Ilfracombe is a considerable sea port town, and now a fashionable watering place, on the north coast of Devon, near the mouth of the Bristol Channel. The harbour is considered the safest and most convenient along the whole coast. It is formed like a natural basin, and is almost surrounded by craggy heights that are overspread with foliage. The town is built partly at the bottom of a steep declivity, and partly up the side of it. New buildings and streets have been built, to afford accommodation to visitors. The terraces and public rooms, forming the centre of Coronation Terrace, have been constructed—the hot and cold baths at Crewkhorne have been formed, and a number of new houses erected on the eastern side, commanding an extensive prospect over the town and Bristol Channel to the Welsh coast.
 
 <span class="smcp">Baths</span>.--The direct way to Crewkhorne is by North-field to the baths, and through the tunnel.

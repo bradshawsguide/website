@@ -19,6 +19,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This place has, within the last few years, made rapid strides in the march of improvement. The Beacon Hill is covered with buildings, and the Parade is stretching away right and left, with no visible signs, hitherto, of limitation.
+----
 text: This place has, within the last few years, made rapid strides in the march of improvement. The Beacon Hill is covered with buildings, and the Parade is stretching away right and left, with no visible signs, hitherto, of limitation.
 
 Situated on the eastern side of the river Exe, two projecting sand banks form a partial enclosure, leaving an opening of about one-third the width of the harbour. The Exe is here about a mile and a half across, and though the entrance is somewhat difficult, the harbour is very convenient, and will admit the passage of ships of more than 300 tons burden.

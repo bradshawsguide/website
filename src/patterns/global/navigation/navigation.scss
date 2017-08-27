@@ -10,7 +10,13 @@
   z-index: $__z-index-default;
   pointer-events: none;
   padding: 0 var(--page-gutter);
-  color: var(--navigation-color);
+  color: $__color-neutral-lightest;
+
+  @media (min-width: $__breakpoint-medium) {
+    .has-poster & {
+      color: $__color-neutral-darkest;
+    }
+  }
 }
 
 .c-navigation__title {
