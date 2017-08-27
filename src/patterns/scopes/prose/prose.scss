@@ -6,22 +6,13 @@
   hyphens: auto;
   word-break: break-word;
 
-  h3,
-  summary,
-  caption {
+  h3 {
     @include typeset("heading");
     margin-bottom: 0.25em;
   }
 
-  * + h3,
-  * + summary,
-  * + caption {
+  * + h3 {
     margin-top: 2.5rem;
-  }
-
-  summary,
-  caption {
-    text-align: center;
   }
 
   h4 {

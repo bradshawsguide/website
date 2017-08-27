@@ -21,10 +21,6 @@ info:
 notes:
 - A telegraph station.
 ----
-text: The village of the same name is near the station; its fine old church and quaint antique houses are much admired.
-
-The village of Cranbrook, in the heart of the Weald of Kent is remarkable for its handsome church, considered one of the most interesting edifices in the county. The remains of Sissinghurst Castle, four miles, are also well worthy a visit.
-----
 distances:
 - location: Bennendon
   miles: "7"
@@ -88,3 +84,9 @@ distances:
   miles: "1¼"
 - location: Winsley Green
   miles: "4½"
+----
+text: The village of the same name is near the station; its fine old church and quaint antique houses are much admired.
+
+The village of Cranbrook, in the heart of the Weald of Kent is remarkable for its handsome church, considered one of the most interesting edifices in the county. The remains of Sissinghurst Castle, four miles, are also well worthy a visit.
+
+(distances:)

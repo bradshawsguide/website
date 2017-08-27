@@ -25,8 +25,6 @@ info:
 notes:
 - A telegraph station.
 ----
-text: Stroud is a market, town, situated near the confluence of the river Frome and the Slade Water. Woollen cloth forms the staple, manufacture of the town and its environs. Returns two members to Parliament.
-----
 distances:
 - location: Bownham House
   miles: "2"
@@ -76,3 +74,7 @@ distances:
   miles: "6"
 - location: Woodchester
   miles: "2"
+----
+text: Stroud is a market, town, situated near the confluence of the river Frome and the Slade Water. Woollen cloth forms the staple, manufacture of the town and its environs. Returns two members to Parliament.
+
+(distances:)

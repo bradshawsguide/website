@@ -17,6 +17,8 @@ stops:
 - newchurch
 ----
 text: The best part of the first or eastern route may be done by means of the Ryde and Cowes coaches in one day, for 9s. or 10s.; or fly to hold four may be had for a guinea a day.
+
+(distances: title: First Route)
 ----
 distances:
 - location: '[Ryde](/stations/ryde/) to Brading'

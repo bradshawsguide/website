@@ -18,6 +18,8 @@ text: No coach travels the western route, which is much to be lamented, as there
 
 ### Ryde to Newport
 Coach to Newport, 1s. You leave on the right, Binstead and its old church, near the coast. Beyond it are some slight remains of Quarr Abbey at a farm house; and an old stone quarry. Further on, towards Cowes are Whippingham church, and Osborne House, the seat of her Majesty the Queen. It has been entirely rebuilt, and stands on a ridge commanding a view of Spithead, the Solent, the Hampshire Coast, &c. When the Queen is there, the royal standard floats over the great tower. The Medina soon appears in its whole length down to Cowes, especially from some points near [Newport](/stations/newport).
+
+(distances: title: Second Route)
 ----
 distances:
 - location: '[Ryde](/stations/ryde) to Wooton'

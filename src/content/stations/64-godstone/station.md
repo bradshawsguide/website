@@ -22,10 +22,6 @@ notes
 - Distance from station, 3 miles.
 - A telegraph station.
 ----
-text: The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked. There was formerly a mineral spring of some repute a short distance, from Godstone. The parks and mansions in this neighbourhood are much admired, and from some of the hills there are beautiful views of the surrounding country of Surrey and Kent. Tandridge and Limpsfield are pretty villages, about two miles distant.
-
-Passing over Stafford's Wood Common, the line now traverses a fine and open country, entering the county of Kent at a spot bearing the diminutive cognomen of "Little Browns." The intervening miles are rapidly left behind, and we again pause for a few brief minutes at [Edenbridge](/stations/edenbridge), the first station in the county of [Kent](/places/england/kent).
-----
 distances:
 - location: Anchor Farm
   miles: "2½"
@@ -77,78 +73,59 @@ distances:
   miles: "2¼"
 - location: Legham
   miles: "2"
--
-  location: Lingneld
+- location: Lingneld
   miles: "4"
--
-  location: Moat Farm
+- location: Moat Farm
   miles: "3¾"
--
-  location: Nagshall
+- location: Nagshall
   miles: "2½"
--
-  location: Nashes
+- location: Nashes
   miles: "3½"
--
-  location: Nobright
+- location: Nobright
   miles: "3½"
--
-  location: North Park
+- location: North Park
   miles: "4"
--
-  location: Oxted
+- location: Oxted
   miles: "3"
--
-  location: Park Farm
+- location: Park Farm
   miles: "3"
--
-  location: Postergate
+- location: Postergate
   miles: "4½"
--
-  location: Peartree
+- location: Peartree
   miles: "4½"
--
-  location: "Peny's Farm"
+- location: "Peny's Farm"
   miles: "2"
--
-  location: "Periy's"
+- location: "Periy's"
   miles: "3"
--
-  location: Priory House
+- location: Priory House
   miles: "4"
--
-  location: Quarry House
+- location: Quarry House
   miles: "4"
--
-  location: "Rook's Nest"
+- location: "Rook's Nest"
   miles: "2½"
--
-  location: "Snout's Farm"
+- location: "Snout's Farm"
   miles: "2"
--
-  location: Starborough Castle
+- location: Starborough Castle
   miles: "8"
--
-  location: Stile
+- location: Stile
   miles: "3"
--
-  location: Stockwood
+- location: Stockwood
   miles: "3"
--
-  location: Stratton House
+- location: Stratton House
   miles: "2¼"
--
-  location: Tandridge Park
+- location: Tandridge Park
   miles: "2"
--
-  location: Tilberstow Hill
+- location: Tilberstow Hill
   miles: "2½"
--
-  location: "Tyler's Green"
+- location: "Tyler's Green"
   miles: "2¼"
--
-  location: Woldingham
+- location: Woldingham
   miles: "4½"
--
-  location: Wonham
+- location: Wonham
   miles: "3"
+----
+text: The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked. There was formerly a mineral spring of some repute a short distance, from Godstone. The parks and mansions in this neighbourhood are much admired, and from some of the hills there are beautiful views of the surrounding country of Surrey and Kent. Tandridge and Limpsfield are pretty villages, about two miles distant.
+
+(distances:)
+
+Passing over Stafford's Wood Common, the line now traverses a fine and open country, entering the county of Kent at a spot bearing the diminutive cognomen of "Little Browns." The intervening miles are rapidly left behind, and we again pause for a few brief minutes at [Edenbridge](/stations/edenbridge), the first station in the county of [Kent](/places/england/kent).

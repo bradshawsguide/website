@@ -24,10 +24,6 @@ notes:
 - Distance from the station, 1 mile.
 - A telegraph station.
 ----
-text: The line now diverges or turns more towards the north, to [Aldershott](/stations/aldershott-camp) station (North Camp), and thence to [Farnborough](/stations/farnborough-north), about a mile from the station of the same name on the [South Western](/routes/london-to-southampton-dorchester-and-weymouth) line.
-
-The line then proceeds through the valley of the Blackwater to [Blackwater](/stations/blackwater).
-----
 distances:
 - location: Aldershott
   miles: "3"
@@ -81,3 +77,9 @@ distances:
   miles: "3"
 - location: Winchfield Station
   miles: "9"
+----
+text: (distances:)
+
+The line now diverges or turns more towards the north, to [Aldershott](/stations/aldershott-camp) station (North Camp), and thence to [Farnborough](/stations/farnborough-north), about a mile from the station of the same name on the [South Western](/routes/london-to-southampton-dorchester-and-weymouth) line.
+
+The line then proceeds through the valley of the Blackwater to [Blackwater](/stations/blackwater).

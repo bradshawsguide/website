@@ -25,8 +25,6 @@ info:
 notes:
 - A telegraph station.
 ----
-text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
-----
 distances:
 - location: 'Balls Street & Bodkin'
   miles: "2"
@@ -64,3 +62,7 @@ distances:
   miles: "2¾"
 - location: Thorndean Wood
   miles: "2¾"
+----
+text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
+
+(distances:)

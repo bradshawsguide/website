@@ -22,8 +22,6 @@ notes:
 - A telegraph station.
 - Distance from station, ¾ mile.
 ----
-text: This station forms the junction of a short line to [Bognor](/stations/bognor).
-----
 distances:
 - location: Aldingbourne
   miles: "1"
@@ -89,3 +87,7 @@ distances:
   miles: "6"
 - location: Westergate
   miles: "1¼"
+----
+text: This station forms the junction of a short line to [Bognor](/stations/bognor).
+
+(distances:)

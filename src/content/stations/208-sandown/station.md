@@ -23,8 +23,6 @@ info:
 notes:
 - A telegraph station.
 ----
-text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
-----
 distances:
 - location: Adgeton
   miles: "1"
@@ -40,3 +38,7 @@ distances:
   miles: "1"
 - location: Sandown Lake
   miles: "1"
+----
+text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
+
+(distances: title: Distances of Places from Sandown)

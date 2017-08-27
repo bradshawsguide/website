@@ -28,12 +28,6 @@ info:
 notes:
 - A telegraph station.
 ----
-text: Reigate, situated near the River Mole, in the valley of Holmesdale, at the foot of the ridge of chalk hills which traverse the country from east to west, consists of a main street of well-built houses, crossed at the eastern end by the Old Brighton Road, which, for upwards of a mile out of town, is adorned by the detached residences of the gentry.
-
-The houses of the lower classes present models of architecture, and are beautifully decorated with imbricated tiles of various patterns, a style of cottage ornament characteristic of this part of the country. The church stands on a gentle eminence east of the town, and is a spacious structure of almost every period of Gothic architecture, some parts of which are extremely beautiful. From the summit of Park Hill an extensive view is obtained of the wealds of Surrey and Sussex; and that of Reigate, with the priory and its park, is of singular beauty.
-
-On the north side of the town, in the principal street, was situated the castle, some few traces of which are yet visible. It was one of the principal seats of the powerful Earls of Warwick and Surrey; and here the insurgent barons are reported to have held frequent meetings, preceding the celebrated Congress of Runnymede. There is a long passage under the castle mound leading into a vaulted room, called the Baron's Cave, which is said to have been used by the barons as a hiding-place for arms. The church has a few curious and ancient tombs.
-----
 distances:
 - location: Brickland
   miles: "2"
@@ -105,3 +99,11 @@ distances:
   miles: "3½"
 - location: Walton Park
   miles: "2"
+----
+text: Reigate, situated near the River Mole, in the valley of Holmesdale, at the foot of the ridge of chalk hills which traverse the country from east to west, consists of a main street of well-built houses, crossed at the eastern end by the Old Brighton Road, which, for upwards of a mile out of town, is adorned by the detached residences of the gentry.
+
+The houses of the lower classes present models of architecture, and are beautifully decorated with imbricated tiles of various patterns, a style of cottage ornament characteristic of this part of the country. The church stands on a gentle eminence east of the town, and is a spacious structure of almost every period of Gothic architecture, some parts of which are extremely beautiful. From the summit of Park Hill an extensive view is obtained of the wealds of Surrey and Sussex; and that of Reigate, with the priory and its park, is of singular beauty.
+
+On the north side of the town, in the principal street, was situated the castle, some few traces of which are yet visible. It was one of the principal seats of the powerful Earls of Warwick and Surrey; and here the insurgent barons are reported to have held frequent meetings, preceding the celebrated Congress of Runnymede. There is a long passage under the castle mound leading into a vaulted room, called the Baron's Cave, which is said to have been used by the barons as a hiding-place for arms. The church has a few curious and ancient tombs.
+
+(distances:)

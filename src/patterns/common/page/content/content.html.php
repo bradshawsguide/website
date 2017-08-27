@@ -34,12 +34,5 @@
       'content' => $page->text()
     ]);
   }
-
-  if(!$page->distances()->empty()) {
-    pattern('scopes/distances', [
-      'title' => 'Distances of Places from '.$page->title(),
-      'distances' => $page->distances()->yaml()
-    ]);
-  }
 ?>
 </div>

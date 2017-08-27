@@ -27,12 +27,6 @@ info:
 notes:
 - A telegraph station.
 ----
-text: Dorking is situated in a valley near the river Mole, nearly surrounded with hills, and commands some of the finest views in the kingdom. This town is of considerable antiquity, and so conveniently situated that it carries on a large trade in flour and corn and employs several mills on the Mole. The church is a fine old edifice and contains several handsome monuments. It is celebrated for its poultry, particularly for a five-toed breed, called Dorkings, supposed to have been introduced by the Romans.
-
-It is a favourite summer resort of invalids and lovers of rural scenery, and it would be difficult to name any place better calculated for both classes, as the salubrity of the air and the beauty of the surrounding country cannot be surpassed or equalled within so short a distance of the metropolis. There are several very beautiful country-seats villas, and mansions around the town, too numerous, however, to be enumerated in our pages.
-
-The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](/stations/gomshall-and-sheire).
-----
 distances:
 - location: Abinger Hall
   miles: "3"
@@ -126,3 +120,11 @@ distances:
   miles: "1½"
 - location: Wotten
   miles: "2"
+----
+text: Dorking is situated in a valley near the river Mole, nearly surrounded with hills, and commands some of the finest views in the kingdom. This town is of considerable antiquity, and so conveniently situated that it carries on a large trade in flour and corn and employs several mills on the Mole. The church is a fine old edifice and contains several handsome monuments. It is celebrated for its poultry, particularly for a five-toed breed, called Dorkings, supposed to have been introduced by the Romans.
+
+It is a favourite summer resort of invalids and lovers of rural scenery, and it would be difficult to name any place better calculated for both classes, as the salubrity of the air and the beauty of the surrounding country cannot be surpassed or equalled within so short a distance of the metropolis. There are several very beautiful country-seats villas, and mansions around the town, too numerous, however, to be enumerated in our pages.
+
+(distances:)
+
+The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](/stations/gomshall-and-sheire).

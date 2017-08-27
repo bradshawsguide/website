@@ -4,25 +4,37 @@ title: Third Route: Culver Cliff, through the centre of the the Island
 ----
 company: isle-of-wight
 ----
-text: This route, seldom taken by visitors, but a most attractive one for walkers, is towards Head-on-Hill (where fine white sand is dug for the glassmakers), and along the Downs, through the middle of Wight. The distances from Culver Cliff are:--
+distances:
+- location: Afton Down
+  miles: "19"
+- location: Ashey Mark
+  miles: "4"
+- location: Brading Down
+  miles: "3"
+- location: Brixton Down
+  miles: "15"
+- location: Carisbrook
+  miles: "10½"
+- location: Freshwater Gate
+  miles: "20¼"
+- location: Gallyberry Down
+  miles: "13"
+- location: Hare & Hounds on Arreton Down
+  miles: "6¾"
+- location: Motteston Down
+  miles: "16½""
+- location: Needles Light
+  miles: "23½"
+- location: Newport
+  miles: "9"
+- location: Shalcombe Down
+  miles: "18"
+- location: Yarborough Pillar
+  miles: "1"
+----
+text: This route, seldom taken by visitors, but a most attractive one for walkers, is towards Head-on-Hill (where fine white sand is dug for the glassmakers), and along the Downs, through the middle of Wight.
 
-<div class="s-distances" markdown="1">
-| To:                           | Miles. |
-| ----------------------------- | ------ |
-| Afton Down                    | 19     |
-| Ashey Mark                    | 4      |
-| Brading Down                  | 3      |
-| Brixton Down                  | 15     |
-| Carisbrook                    | 10½    |
-| Freshwater Gate               | 20¼    |
-| Gallyberry Down               | 13     |
-| Hare & Hounds on Arreton Down | 6¾     |
-| Motteston Down                | 16½    |
-| Needles Light                 | 23½    |
-| Newport                       | 9      |
-| Shalcombe Down                | 18     |
-| Yarborough Pillar             | 1      |
-</div>
+(distances: title: Distances from Culver Cliff)
 
 **Culver Cliff,** 400 feet high. View over White Cliff Bay, Spithead, &c. Yarborough Pillar, on Bembridge Down, overlooks the harbour. It was built up in 1849, in honour of the late earl; and serves as a landmark.
 

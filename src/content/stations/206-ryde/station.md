@@ -39,10 +39,6 @@ notes:
 ----
 desc: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by steam) from Portsmouth, across Spithead.
 ----
-text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by steam) from Portsmouth, across Spithead. Long timber pier of 2,000 ft. (or two-fifths of a mile), commanding a fine prospect and a healthy blow; for which the charge is 2d. per head, and 1d. per package! New Victoria Yacht Club House, built 1847. Chantrey's bust of Mr. Sanderson, in the Market Place. Holy Trinity Church, modern Gothic, with a spire 146ft high, Baths, hotels, lodgings (with gardens), are numerous, as are the walks and points of view around.
-
-**St. John's,** the seat of Sir R. Simeon, Bart.
-----
 distances:
 - location: Apley
   miles: "¾"
@@ -94,3 +90,9 @@ distances:
   miles: "3½"
 - location: White Mark
   miles: "2½"
+----
+text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by steam) from Portsmouth, across Spithead. Long timber pier of 2,000 ft. (or two-fifths of a mile), commanding a fine prospect and a healthy blow; for which the charge is 2d. per head, and 1d. per package! New Victoria Yacht Club House, built 1847. Chantrey's bust of Mr. Sanderson, in the Market Place. Holy Trinity Church, modern Gothic, with a spire 146ft high, Baths, hotels, lodgings (with gardens), are numerous, as are the walks and points of view around.
+
+(distances: title: Distances of Places from Ryde)
+
+**St. John's,** the seat of Sir R. Simeon, Bart.
