@@ -13,8 +13,6 @@
   ]);
 
   pattern('common/page/content');
-
-  pattern('common/traverse');
 ?>
 </article>
 

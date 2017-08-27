@@ -14,7 +14,7 @@ route:
 - charing-cross-to-greenwich
 - charing-cross-to-woolwich-gravesend-strood-and-rochester
 - charing-cross-to-folkestone-and-dover
-- london-to-brighton
+- london-bridge-to-brighton
 ----
 notes:
 - A telegraph station.

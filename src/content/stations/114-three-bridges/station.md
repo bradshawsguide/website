@@ -10,7 +10,7 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- london-to-brighton
+- london-bridge-to-brighton
 - three-bridges-to-horsham-and-arundel
 - three-bridges-to-east-grinstead
 ----

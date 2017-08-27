@@ -14,7 +14,7 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- london-to-brighton
+- london-bridge-to-brighton
 - haywards-heath-to-lewes-and-hastings
 ----
 notes:

@@ -34,8 +34,6 @@
     'title' => 'Routes operated',
     'items' => page('routes')->children()->filterBy('company', $page->uid())
   ]);
-
-  pattern('common/traverse');
 ?>
 </article>
 

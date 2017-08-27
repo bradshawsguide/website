@@ -18,13 +18,11 @@
 
   pattern('common/page/content');
 
-  pattern('common/section/routes', [
+  pattern('common/section/route-traversals', [
     'title' => 'Routes serving this station',
     'level' => 3,
-    'items' => $page->routes()
+    'routes' => $page->routes()
   ]);
-
-  pattern('common/traverse');
 ?>
 </article>
 

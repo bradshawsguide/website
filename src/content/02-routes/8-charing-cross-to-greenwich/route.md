@@ -11,7 +11,7 @@ company: south-eastern
 stops:
 - charing-cross
 - waterloo-junction
-- blackfriars
+- blackfriars-road
 - london-bridge
 - spa-road
 - commercial-dock

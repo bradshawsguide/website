@@ -9,8 +9,6 @@
   <link rel="mask-icon" href="/assets/icons/icon.svg" color="<?= $site->background_color() ?>"/>
   <link rel="canonical" href="<?= $page->url() ?>"/>
   <? if(isset($alternate)): ?><link rel="alternate" href="<?= $alternate ?>" type="application/vnd.geo+json"/><? endif ?>
-  <? if($page->hasPrevVisible()): ?><link rel="prev" href="<?= $page->prevVisible()->url() ?>"/><? endif ?>
-  <? if($page->hasNextVisible()): ?><link rel="next" href="<?= $page->nextVisible()->url() ?>"/><? endif ?>
 
   <script>
     var docEl = document.documentElement;

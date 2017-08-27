@@ -15,7 +15,7 @@ company:
 route:
 - charing-cross-to-folkestone-and-dover
 - reigate-to-reading
-- london-to-brighton
+- london-bridge-to-brighton
 ----
 info:
 - term: Hotel

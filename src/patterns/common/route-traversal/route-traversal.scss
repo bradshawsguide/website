@@ -1,0 +1,34 @@
+.c-route-traversal {
+  --link-decoration: none;
+  display: grid;
+  grid-auto-flow: row dense;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: $__space-large;
+  border-top: $__rule;
+  padding: $__space-xxsmall 0 $__space-small;
+
+  a[rel="prev"] {
+    grid-column: 1;
+
+    &::before {
+      content: "\261C\0020"; // ☜
+      font-family: serif;
+    }
+  }
+
+  a[rel="next"] {
+    grid-column: 3;
+    text-align: right;
+
+    &::after {
+      content: "\0020\261E"; // ☞
+      font-family: serif;
+    }
+  }
+}
+
+.c-route-traversal__title {
+  grid-column: 2;
+  font-weight: bold;
+  text-align: center;
+}

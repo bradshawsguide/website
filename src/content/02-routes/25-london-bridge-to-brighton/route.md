@@ -1,6 +1,8 @@
 ﻿section: 1
 ----
-title: London to Brighton
+title: London Bridge to Brighton
+----
+title_short: London to Brighton
 ----
 line: London and Brighton Main Line
 ----

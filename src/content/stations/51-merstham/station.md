@@ -12,7 +12,7 @@ company:
 ----
 route:
 - charing-cross-to-folkestone-and-dover
-- london-to-brighton
+- london-bridge-to-brighton
 ----
 notes:
 - A telegraph station.

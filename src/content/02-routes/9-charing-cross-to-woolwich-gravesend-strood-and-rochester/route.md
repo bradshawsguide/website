@@ -9,6 +9,8 @@ line: North Kent Line
 company: south-eastern
 ----
 stops:
+- charing-cross
+- london-bridge
 - [new-cross, chislehurst]
 - lewisham
 - blackheath

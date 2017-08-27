@@ -2,6 +2,6 @@
 
 return [
   'defaults' => [
-    'stops' => page('routes/london-to-brighton')->stops()->yaml()
+    'stops' => page('routes/london-bridge-to-brighton')->stops()->yaml()
   ]
 ];

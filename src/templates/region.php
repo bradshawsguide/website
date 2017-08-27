@@ -22,8 +22,6 @@
     'title' => 'Stations in '.$page->title(),
     'items' => page('stations')->children()->filterBy('region', $page->uid())
   ]);
-
-  pattern('common/traverse');
 ?>
 </article>
 

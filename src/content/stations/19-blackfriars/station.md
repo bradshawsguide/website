@@ -2,19 +2,14 @@ section: 1
 ----
 title: Blackfriars
 ----
+title_later: Blackfriars Bridge
+----
 region: middlesex
 ----
-location: 51.5083, -0.1031
+location: 51.508333, -0.103056
 ----
 company:
-- south-eastern
 - london-chatham-and-dover
 ----
 route:
-- charing-cross-to-greenwich
 - london-to-chatham-and-dover
-----
-notes:
-- A telegraph station.
-----
-text: Whence it steams over the Borough market (St. Saviour's fine church on our left), to [London Bridge](/stations/london-bridge).

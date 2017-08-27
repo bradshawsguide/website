@@ -16,7 +16,7 @@ company:
 ----
 route:
 - charing-cross-to-folkestone-and-dover
-- london-to-brighton
+- london-bridge-to-brighton
 - caterham-junction-to-caterham
 ----
 notes:

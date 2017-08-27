@@ -13,7 +13,7 @@ company:
 ----
 route:
 - lewisham-to-beckenham-and-croydon
-- london-to-brighton
+- london-bridge-to-brighton
 - croydon-to-epsom
 - croydon-to-wimbledon
 ----

@@ -10,7 +10,7 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- london-to-brighton
+- london-bridge-to-brighton
 - brighton-to-worthing-chichester-and-portsmouth
 - brighton-to-lewes
 ----
