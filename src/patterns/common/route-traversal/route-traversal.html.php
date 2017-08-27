@@ -16,9 +16,9 @@
   ?>
 
 <? if(isset($prevUID)): ?>
-  <a rel="prev" href="<?= $prev->url() ?>" aria-label="Previous station: <?= $prev->title()?>"><?= smartypants($prev->title()) ?></a>
+  <a rel="prev" href="<?= $prev->url() ?>" aria-label="Previous station: <?= $prev->shortTitle()?>"><?= smartypants($prev->shortTitle()) ?></a>
 <? endif ?>
 <? if(isset($nextUID)): ?>
-  <a rel="next" href="<?= $next->url() ?>" aria-label="Next station: <?= $prev->title()?>"><?= smartypants($next->title()) ?></a>
+  <a rel="next" href="<?= $next->url() ?>" aria-label="Next station: <?= $next->shortTitle()?>"><?= smartypants($next->shortTitle()) ?></a>
 <? endif ?>
 </nav>

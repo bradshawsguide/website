@@ -18,7 +18,7 @@
 
   pattern('common/page/content');
 
-  pattern('common/section/route-traversals', [
+  pattern('common/section/route-traversal', [
     'title' => 'Routes serving this station',
     'level' => 3,
     'routes' => $page->routes()

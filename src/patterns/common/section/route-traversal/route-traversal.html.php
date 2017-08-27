@@ -4,7 +4,8 @@
     <?
       foreach ($routes as $route) {
         pattern('common/route-traversal', [
-          'title' => html::a($route->url(), smartypants($route->title_short())),
+          'title' => html::a($route->url(), smartypants($route->shortTitle())),
+          'level' => $level + 1,
           'route' => $route
         ]);
       }
