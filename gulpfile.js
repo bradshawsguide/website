@@ -58,12 +58,12 @@ function vectors() {
 
 function scripts(callback) {
   const modules = [{
-    entry: paths.src.assets + 'scripts/app.js',
-    dest: paths.dest.assets + 'app.js',
+    input: paths.src.assets + 'scripts/app.js',
+    file: paths.dest.assets + 'app.js',
     name: 'app'
   }, {
-    entry: paths.src.assets + 'scripts/map.js',
-    dest: paths.dest.assets + 'map.js',
+    input: paths.src.assets + 'scripts/map.js',
+    file: paths.dest.assets + 'map.js',
     name: 'map'
   }];
 

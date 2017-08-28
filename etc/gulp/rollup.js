@@ -7,7 +7,7 @@ const uglify = require('rollup-plugin-uglify');
 module.exports = (modules, logger, callback) => {
   modules.forEach((module, i) => {
     rollup.rollup({
-      entry: module.entry,
+      input: module.input,
       plugins: [
         resolve({
           browser: true,
@@ -23,10 +23,10 @@ module.exports = (modules, logger, callback) => {
     })
     .then(bundle => {
       bundle.write({
-        dest: module.dest,
+        file: module.file,
         format: 'iife',
-        sourceMap: true,
-        moduleName: module.name
+        sourcemap: true,
+        name: module.name
       });
 
       if (i === modules.length - 1) {
