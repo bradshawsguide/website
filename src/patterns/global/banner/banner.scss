@@ -46,14 +46,14 @@
   > span:nth-child(2) {
     font-family: $__font-family-serif;
     margin-bottom: 0.875em;
-    color: var(--navigation-color);
+    color: $__color-neutral-lighter;
   }
 
   > span:nth-child(3) {
     font-family: $__font-family-slab;
     font-size: 3.5vw;
     font-weight: bold;
-    color: var(--navigation-color);
+    color: $__color-neutral-lightest;
   }
 }
 

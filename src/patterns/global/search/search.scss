@@ -3,8 +3,13 @@
   display: flex;
   align-items: center;
   flex: 0 0 auto;
-  padding: $__space-medium var(--page-gutter);
+  padding: $__space-xsmall var(--page-gutter);
   background-color: $__color-mustard;
+
+  @media (min-width: $__breakpoint-medium) {
+    padding-top: 2.25rem;
+    padding-bottom: $__space-xxsmall;
+  }
 
   .has-js & {
     display: none;
@@ -37,26 +42,32 @@
 .c-search__input {
   border: 0;
   flex: 1;
-  padding: $__space-medium;
-  padding-left: calc(#{$__space-medium * 2} + 16px);
+  height: 2.5rem;
+  width: 100%;
+  padding: $__space-small $__space-medium;
+  padding-left: 2.5rem;
   background-color: $__color-neutral-lighter;
 
   &:focus {
     background-color: $__color-neutral-lightest;
   }
+
+  .has-js & {
+    padding-right: 5rem;
+  }
 }
 
 .c-search__button {
-  padding: $__space-medium;
+  padding: $__space-small;
   position: absolute;
   top: 0;
   left: 0;
-  height: 3rem;
-  width: 3rem;
+  height: 2.5rem;
+  width: 2.5rem;
 }
 
 .c-search__button--geo {
-  right: 3rem;
+  right: 2.5rem;
   left: auto;
 
   &.has-failed {

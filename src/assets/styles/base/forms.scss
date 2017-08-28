@@ -4,17 +4,15 @@
 // ========================================================
 
 // 1. Show overflow in IE and Edge
-// 2. Reset default radius in MobileSafari
-// 3. Reset the margin in Firefox and Safari
-// 4. Reset font properties to `inherit`
+// 2. Reset the margin in Firefox and Safari
+// 3. Reset font properties to `inherit`
 button,
 input,
 select,
 textarea {
   overflow: visible; // [1]
-  border-radius: 0; // [2]
-  margin: 0; // [3]
-  font: inherit; // [4]
+  margin: 0; // [2]
+  font: inherit; // [3]
 }
 
 // 1. Correct inability to style clickable types in Safari
@@ -46,8 +44,9 @@ button:-moz-focusring,
 // 1. Correct odd appearance in Chrome and Safari
 // 2. Correct outline style in Safari
 [type="search"] {
-  -webkit-appearance: textfield; // [1]
+  -webkit-appearance: none; // [1]
   outline-offset: -2px; // [2]
+  border-radius: 0; // [1]
 }
 
 // Remove inner padding and cancel buttons in Chrome and
