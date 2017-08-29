@@ -31,6 +31,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Hereford, stands at a *military Ford* on the Wye, which King Harold protected by a castle, the site of which, at Castle Green, is now occupied by the Nelson Column.
+----
 text: Hereford, the capital of Herefordshire, and a parliamentary borough, on the Shrewsbury and Hereford, Newport, Abergavenny, and Hereford, and Hereford, Ross, and Gloucester lines. By rail, *via* Gloucester, the distance from London is 144¼ miles, but the direct distance by road is only 134, or 33 beyond Gloucester. Population, 15,585.
 
 Hereford, as its old Saxon name explains it to be, stands at a *military Ford* on the Wye, which King Harold protected by a castle, the site of which, at Castle Green, is now occupied by the Nelson Column, where an old bridge of the fifteenth century crosses the river a little higher. To this castle the barons brought Edward II's favourite, De Spenser, and executed him, in 1322; and four years later the unfortunate king himself was here deprived of his crown. Parts of the town are low and old fashioned. Some remains of the old town walls are still visible. The soil without is a lich tract of meadow, orchard, and timber; and the internal trade is chiefly in agricultural produce, good cider and perry (which require a little, brandy to qualify them), wool, hops, and prime cattle--the last being a splendid breed, white-faced, with soft reddish brown coats. A few gloves and other leather goods are made. Salmon are caught

@@ -25,5 +25,6 @@ info:
 notes:
 - Telegraph station at Hereford, 12¼ miles.
 ----
-text: Ross has a population of 3,715; is situated on a rocky elevation on the east bank of the Wye. In the church are several monuments of the Rudhall
-family, one of whom opposed Cromwell in his siege of Hereford. There is also one of Mr. J. Kyrle, the celebrated "Man of Ross," who was interred here. From the churchyard are some very beautiful views. Ross has great attractions during the summer months. *Goodrich Court*, the seat of Sir S. R. Meyrick, in the neighbourhood, is visited for its armoury. It may be seen on application.
+desc: Ross is situated on a rocky elevation on the east bank of the Wye. In the church are several monuments of the Rudhall family, one of whom opposed Cromwell in his siege of Hereford.
+----
+text: Ross has a population of 3,715; is situated on a rocky elevation on the east bank of the Wye. In the church are several monuments of the Rudhall family, one of whom opposed Cromwell in his siege of Hereford. There is also one of Mr. J. Kyrle, the celebrated "Man of Ross," who was interred here. From the churchyard are some very beautiful views. Ross has great attractions during the summer months. *Goodrich Court*, the seat of Sir S. R. Meyrick, in the neighbourhood, is visited for its armoury. It may be seen on application.

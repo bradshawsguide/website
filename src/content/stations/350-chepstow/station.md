@@ -28,6 +28,8 @@ notes:
 - Distance from station, ¼ mile.
 - A telegraph station.
 ----
+desc: Chepstow is a market town, in the county of Monmouth, situated near the mouth of the river Wye. The town is large and has within the last few years been much improved.
+----
 text: Chepstow is a market town, in the county of Monmouth, situated near the mouth of the river Wye. The town is large and has within the last few years been much improved. It was formerly surrounded by walls, and defended by a castle.
 
 Excursionists visit Tintern Abbey, Wyndcliffe, and Chepstow Castle, which are thus described in Mr. Cliffe's Guide Book of South Wales:--
