@@ -1,16 +1,7 @@
 <?
-  $stops = $route->stops()->yaml();
-
-  // If stop is a junction, return first value in the array
-  array_walk($stops, function(&$value, $key) {
-    if (is_array($value)) {
-      $value = $value[0];
-    } else {
-      $value = $value;
-    }
-  });
-
-  $stopKey = array_search ($page->uid(), $stops);
+  // Flatten array so that branch stops appear on main route
+  $stops = flatten_array($route->stops()->yaml());
+  $stopKey = array_search($page->uid(), $stops);
 
   if (array_key_exists(($stopKey - 1), $stops)) {
     $prevUID = $stops[$stopKey - 1];

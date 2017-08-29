@@ -1,5 +1,16 @@
 <?php
 
+// Flatten array
+// $array = Array you wish to flatten
+// https://gist.github.com/kohnmd/11197713
+function flatten_array(array $array) {
+  $flattened_array = array();
+  array_walk_recursive($array, function($a) use (&$flattened_array) {
+    $flattened_array[] = $a;
+  });
+  return $flattened_array;
+}
+
 // Generate LineString object for use in GeoJSON
 // $uids = Array of station UIDS, e.g. [brighton, new-cross]
 function generateLineString($uids) {
@@ -28,4 +39,4 @@ function generateLineString($uids) {
   if (!empty($coords)) {
     return $lineString;
   }
-};
+}
