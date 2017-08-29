@@ -23,6 +23,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: A borough, first class fortress, and naval dock-yard in *Devonshire*, at the mouth of the Channel, 246 miles from London by the Great Western Railway.
+----
 text: A borough, first class fortress, and naval dock-yard in *Devonshire*, at the mouth of the Channel, 246 miles from London by the Great Western Railway. The dockyard and harbour are at Devonport, the victualling office is at Stonehouse, and there are other establishments in the neighbourhood, but Plymouth is the common name for all. Two members. Population 62,599. The view from the Hoe, or cliffy height on which the *Citadel* is planted, commands a magnificent prospect of the sound or outer anchorage, Mounts Batten and Edgecumbe hedging it in on both sides, and the breakwater which protects the main entrance. Two rivers run into the sound, the Plym on the east side, and the Tamar on the west, or Devonport. The mouth of the first, on which Plymouth stands, widens into a deep inlet called the Catwater. Close to the town is Sutton Pool, a tide-harbour in which vessels of various tonnage lie. About 35,000 tons of shipping are registered at this port, and the total amount of customs may be stated at £10,000. It is a convenient starting place for emigrants, for whom a depot has been established.
 
 There is a tower, and some other remains of a castle, on the Hoe, which was first regularly fortified in 1670. Here are the new botanic gardens. The climate of this part of Devonshire is somewhat moist, but it keeps up a perpetual verdure to make amends.

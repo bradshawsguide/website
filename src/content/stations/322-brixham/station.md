@@ -19,4 +19,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Close at hand, is chiefly noted for its extensive fisheries, employing more than two hundred vessels and fifteen hundred seamen.
+----
 text: Close at hand, is chiefly noted for its extensive fisheries, employing more than two hundred vessels and fifteen hundred seamen. The weekly average amount received for fish is no less than £600. It was here that the Prince of Orange landed, and to commemorate the event a monument has been fixed in the centre of the fish-market, with a portion of the identical stone he first stepped upon inserted, and inscribed thus:--"On this stone, and near this spot, William Prince of Orange first set foot, on his landing in England, 4th of November, 1688."

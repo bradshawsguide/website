@@ -21,6 +21,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This town was formerly an important mail racket station. Below it are Pendennis Castle and St. Anthony's Light, on the opposite sides of the entrance.
+----
 text: This town was formerly an important mail racket station. Below it are Pendennis Castle and St. Anthony's Light, on the opposite sides of the entrance. The former, built by Henry VIII., was famous in the civil war for its resistance to parliament, against whose forces it held out till 1646. The richest mines are in the granite moorlands to the north, near St. Agnes, &c, or in the neighbourhood of the rail to Penzance. *Trefusis*, beautifully situated on the opposite side of the harbour, is the seat of Lord Clinton.
 
 There are some remains of the ancient seat of the Killigrews, *Aricenach House*; opposite is *St. Mawes Castle*, a circular tower of Henry VIII's building. Days may be spent in exploring the creeks and rounding the headlands of this vicinity, and not be lost time. A journey by *Mawnan* and the picturesque shores of the river *Helford*, with a passing visit, if you please, to the small Cornish pebble, *Tolmean*, a huge block of granite, 800 tons weight, at *Constantine*, will bring us to

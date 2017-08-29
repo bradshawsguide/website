@@ -23,6 +23,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This flourishing port is at the farther end of Cornwall, on the west side of Mount's Bay, at the terminus of the West Cornwall Railway.
+----
 text: This flourishing port is at the farther end of Cornwall, on the west side of Mount's Bay, at the terminus of the West Cornwall Railway. It is a municipal, but not a parliamentary borough, with a population of 9,414. Tin, copper, china, clay, granite, and pilchards, are the principal articles of trade here.
 
 The harbour, enclosed by a pier, 600 feet long, is shallow, but it is easy to reach and get out of. All the best shops are in the Market Place, where the four principal streets centre. The stannary court for the hundred of Penwith is abolished. An excellent Geological Society was founded in 1813; and is enriched by a full collection of specimens obtained by Dr. Boase, from every corner of the county, and carefully arranged. The churches and houses are of stone. Madron is the mother church. Sir Humphrey Davy, the great chemist, was born at Penzance, 1778; Penzance is a cheap and healthy place for a resident. The soil in the neighbourhood is light and rich, from the granite dust at the bottom, and produces uncommonly heavy crops of *potatoes*, the returns being 300 to 600 bushels an acre. Sand, shells, and pilchards, are used to manure it
