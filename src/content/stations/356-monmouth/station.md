@@ -21,6 +21,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Monmouth, the capital of Monmouthshire, is on a delightful part of the Wye, at the junction of the Monnow.
+----
 text: Monmouth, the capital of Monmouthshire, is on a delightful part of the Wye, at the junction of the Monnow, a parliamentary borough, returning one member, conjointly with Newport and Usk, with an agricultural population of 5,783, which is rather on the decrease; but this will no doubt be augmented by the recent opening of the railway from Pontypool. It was the ancient *Blestium*, from which a Roman road, in the direction of the present one went to Usk. There was a castle here, even in Saxon times which afterwards became the residence of Henry IV., and here, in 1387, his famous son, Henry V. was born--"Harry of Monmouth"--the immortal Prince Hal of Shakspeare.
 
 The few remains of this castle (which belongs to the Duke of Beaufort), stand among houses on a ridge over the Monnow, to the west near the gaol, the walls being 6 to 10 feet thick. Here is shown the room in which Henry was born, and the great hall by the side of it. There is a statue of him in the Market Place.
