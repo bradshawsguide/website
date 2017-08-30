@@ -27,6 +27,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Cardiff, a borough town, and capital of Glamorganshire, is built on the east bank of the river Taff or Tay, near its entrance into the mouth of the Severn.
+----
 text: Cardiff, a borough town, and capital of Glamorganshire, is built on the east bank of the river Taff or Tay, near its entrance into the mouth of the Severn. The inhabitants carry on a considerable trade with Bristol, and export a great quantity of wrought iron and coal to foreign parts.
 
 The new Bute Docks, made on a tract of waste land, by the Marquis of Bute, who is lord of the manor, are about one mile below the town, deep enough for ships, with a basin of one and a half acres and an entrance 45 feet wide. A ship canal 1,400 yards long, 67 yards wide, runs up to the town. The coal and iron of Merthyr Tydvil and the neighbourhood are the chief exports, and the quantity almost doubles itself every two or three years.

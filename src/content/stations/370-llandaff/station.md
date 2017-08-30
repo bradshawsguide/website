@@ -25,4 +25,6 @@ info:
 notes:
 - Telegraph station at Cardiff, 3¼ miles.
 ----
+desc: Llandaff, a small decayed village, but the seat of a diocese, founded in the 5th century, having a half ruined Cathedral, 270 feet long, chiefly in the early English style.
+----
 text: Llandaff, a small decayed village, but the seat of a diocese, founded in the 5th century, having a half ruined Cathedral, 270 feet long, chiefly in the early English style. The south door is Norman. Some old monuments are seen--one being ascribed to Dubritias, the first bishop.

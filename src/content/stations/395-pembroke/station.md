@@ -12,6 +12,8 @@ company:
 route:
 - new-milford-to-tenby
 ----
+desc: The capital of the county. In conjunction with Tenby and two or three other little boroughs it returns one member to parliament.
+----
 text: The capital of the county. In conjunction with Tenby and two or three other little boroughs it returns one member to parliament. Population, 15,071. Both the town and shire take name from the Welsh words, *Pen fro*, signifying the head of the peninsula, as the town lies on a long point, marked on both sides by a creek of Milford Haven. In this commanding spot, Arnulph de Montgomery began a Norman *Castle* in 1092, which a few year's after was strengthened by the famous Richard de Clare, or Strongbow, before he sailed for the conquest of Ireland. Its ruins still exist on a hill over the town; the round keep is 75 feet high.
 
 There is a large cave under the hall; and in one of the town-gates the Earl of Richmond (whose mother was of the Welsh family of Tudlor or Tudor, descended from Edward I.) afterwards Henry VII. was born. He landed on this part of Wales after his escape from confinement in Brittany; and supported by Rhys ap Thomas, and other Welsh adherents, marched towards Bosworth Field, where his defeat of Richard III., and subsequent marriage with Elizabeth of York, terminated forever the wars of the roses.
