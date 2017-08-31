@@ -18,6 +18,11 @@
 
   pattern('common/page/content');
 
+  pattern('common/section/links', [
+    'title' => 'Related links',
+    'links' => $page->links()
+  ]);
+
   pattern('common/section/route-traversal', [
     'title' => 'Routes serving this station',
     'level' => 3,

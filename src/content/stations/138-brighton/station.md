@@ -14,6 +14,10 @@ route:
 - brighton-to-worthing-chichester-and-portsmouth
 - brighton-to-lewes
 ----
+links:
+- (nationalrail: BTN)
+- (wikipedia: Brighton_Railway_Station)
+----
 info:
 - term: Population
   desc: 77,693.
