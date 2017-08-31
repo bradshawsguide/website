@@ -64,6 +64,15 @@
     hyphens: auto;
   }
 
+  @else if $preset == "text" {
+    font-family: $__font-family-sans;
+    font-size: $__font-size-text-small;
+    font-variant: common-ligatures oldstyle-nums;
+    line-height: if($line-height, $line-height, $__line-height-relaxed);
+    hanging-punctuation: first;
+    hyphens: auto;
+  }
+
   @else if $preset == "title" {
     @include fluid-type(
       $__breakpoint-xsmall,

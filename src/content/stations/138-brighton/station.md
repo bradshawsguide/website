@@ -16,7 +16,7 @@ route:
 ----
 links:
 - (nationalrail: BTN)
-- (wikipedia: Brighton_Railway_Station)
+- (wikipedia: Brighton_railway_station)
 ----
 info:
 - term: Population

@@ -11,7 +11,7 @@
 
     <div class="c-card__main">
       <?
-        pattern('scopes/prose', [
+        pattern('scopes/text', [
           'content' => !$item->desc()->empty() ? $item->desc() : excerpt($item->text(), $length=240)
         ]);
       ?>

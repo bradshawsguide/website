@@ -14,6 +14,10 @@ company:
 route:
 - fenchurch-street-to-chalk-farm
 ----
+links:
+- (nationalrail: HHY)
+- (wikipedia: Highbury_%26_Islington_station)
+----
 info:
 - term: Hotel
   desc: Angel.

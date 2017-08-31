@@ -19,7 +19,7 @@
   pattern('common/page/content');
 
   pattern('common/section/links', [
-    'title' => 'Related links',
+    'title' => 'Further reading',
     'links' => $page->links()
   ]);
 

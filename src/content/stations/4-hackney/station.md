@@ -14,6 +14,11 @@ company:
 route:
 - fenchurch-street-to-chalk-farm
 ----
+links:
+Station reopened as *Hackney Central* in 1980.
+- (nationalrail: HKC)
+- (wikipedia: Hackney_Central_railway_station)
+----
 info:
 - term: Omnibuses
   desc: Every 5 minutes to and from the city and Oxford Street, London.

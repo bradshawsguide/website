@@ -2,6 +2,8 @@ section: 1
 ----
 title: Stepney
 ----
+title_later: Limehouse
+----
 region: middlesex
 ----
 location: 51.5124, -0.0397
@@ -13,6 +15,11 @@ company:
 route:
 - fenchurch-street-to-blackwall
 - stepney-and-ilford-to-tilbury-and-southend
+----
+links:
+Station renamed *Limehouse* in 1987.
+- (nationalrail: LHS)
+- (wikipedia: Limehouse_station)
 ----
 info:
 - term: Omnibuses

@@ -2,15 +2,22 @@ section: 1
 ----
 title: Hammersmith
 ----
+title_later: Hammersmith & Chiswick
+----
 region: middlesex
 ----
-location: 51.4935, -0.2477
+location: 51.493510, -0.247342
 ----
 company:
 - north-and-south-western-junction
 ----
 route:
 - willesden-junction-to-kew
+----
+links:
+Station renamed *Hammersmith & Chiswick* in 1880. Closed to passengers in 1917, and closed completely in 1965.
+- (disused: h/hammersmith_and_chicwick)
+- (wikipedia: Hammersmith_%26_Chiswick_railway_station)
 ----
 info:
 - term: Population

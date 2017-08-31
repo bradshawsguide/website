@@ -12,6 +12,11 @@ company:
 route:
 - fenchurch-street-to-blackwall
 ----
+links:
+Station closed in 1926.
+- (disused: b/blackwall)
+- (wikipedia: Blackwall_railway_station)
+----
 info:
 - term: Hotel
   desc: Brunswick.

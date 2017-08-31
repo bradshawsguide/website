@@ -4,6 +4,8 @@ title: Camden Road
 ----
 title_short: Camden Rd.
 ----
+title_later: Camden Town
+----
 region: middlesex
 ----
 location: 51.5418, -0.1388
@@ -14,6 +16,10 @@ company:
 route:
 - fenchurch-street-to-chalk-farm
 - camden-road-to-willesden-junction
+----
+links:
+Opened as *Camden Town* and renamed *Camden Road* in 1853, before reverting back to its original name in 1870. Station resited to the west side of Camden Road on the 5th December 1870.
+- (disused: c/camden_town)
 ----
 info:
 - term: Hotel

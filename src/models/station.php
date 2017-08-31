@@ -31,6 +31,17 @@ class StationPage extends Page {
     return $shortTitle;
   }
 
+  // Return `title_later` if exists, else normal title
+  public function currentTitle() {
+    if (!$this->title_later()->empty()) {
+      $currentTitle = $this->title_later();
+    } else {
+      $currentTitle = $this->title();
+    };
+
+    return $currentTitle;
+  }
+
   // Convert UIDs listed under `route:` to array of pages
   public function routes() {
     $routes = $this->route()->yaml();

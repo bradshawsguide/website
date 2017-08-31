@@ -14,6 +14,11 @@ company:
 route:
 - willesden-junction-to-kew
 ----
+links:
+Station renamed *Acton Central* in 1925.
+- (nationalrail: ACC)
+- (wikipedia: Acton_Central_railway_station)
+----
 info:
 - term: Population
   desc: 3,151.
