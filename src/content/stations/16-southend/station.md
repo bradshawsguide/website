@@ -14,6 +14,10 @@ company:
 route:
 - stepney-and-ilford-to-tilbury-and-southend
 ----
+links:
+- (nationalrail: SOC)
+- (wikipedia: Southend_Central_railway_station)
+----
 info:
 - term: Hotels
   desc: Ship, Chas. Woosnam, family and commercial hotel, a very comfortable house, and deservedly recommended; Royal Hotel, near the railway station.

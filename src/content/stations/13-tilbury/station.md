@@ -2,15 +2,21 @@ section: 1
 ----
 title: Tilbury
 ----
+title_later: Tilbury Riverside
+----
 region: essex
 ----
-location: 51.4519, 0.3646
+location: 51.451744, 0.364345
 ----
 company:
 - london-tilbury-and-southend
 ----
 route:
 - stepney-and-ilford-to-tilbury-and-southend
+----
+links:
+Station closed in 1992.
+- (disused: t/tilbury_riverside)
 ----
 info:
 - term: Hotel

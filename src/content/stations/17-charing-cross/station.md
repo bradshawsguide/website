@@ -14,6 +14,10 @@ route:
 - charing-cross-to-woolwich-gravesend-strood-and-rochester
 - charing-cross-to-folkestone-and-dover
 ----
+links:
+- (nationalrail: CHX)
+- (wikipedia: Charing_Cross_railway_station)
+----
 notes:
 - A telegraph station.
 ----

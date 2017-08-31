@@ -14,6 +14,11 @@ company:
 route:
 - stepney-and-ilford-to-tilbury-and-southend
 ----
+links:
+Station renamed *Leigh-on-Sea* in 1904.
+- (nationalrail: LES)
+- (wikipedia: Leigh-on-Sea_railway_station)
+----
 info:
 - term: Population
   desc: 1,473.

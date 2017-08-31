@@ -14,6 +14,11 @@ company:
 route:
 - stepney-and-ilford-to-tilbury-and-southend
 ----
+links:
+Station renamed *Grays* in the early 1900s.
+- (nationalrail: GRY)
+- (wikipedia: Grays_railway_station)
+----
 info:
 - term: Population
   desc: 2,209.

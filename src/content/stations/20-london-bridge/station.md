@@ -16,6 +16,10 @@ route:
 - charing-cross-to-folkestone-and-dover
 - london-bridge-to-brighton
 ----
+links:
+- (nationalrail: LBG)
+- (wikipedia: London_Bridge_station)
+----
 notes:
 - A telegraph station.
 ----

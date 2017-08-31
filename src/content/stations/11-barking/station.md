@@ -12,6 +12,10 @@ company:
 route:
 - stepney-and-ilford-to-tilbury-and-southend
 ----
+links:
+- (nationalrail: BKG)
+- (wikipedia: Barking_station)
+----
 info:
 - term: Population
   desc: 5,076.
