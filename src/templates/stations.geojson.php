@@ -1,32 +1,38 @@
 <?
-  foreach($stations as $station) {
-    if(!$station->location()->empty()) {
+  foreach ($stations as $station) {
+    if (!$station->location()->empty()) {
       // Build latlng array from station coordinates
-      $latlng = array(
+      $latlng = [
         $station->location()->coordinates()->lng(),
         $station->location()->coordinates()->lat()
-      );
+      ];
 
       // Build geometry array from station coordinates
-      $geometry = array(
+      $geometry = [
         'type' => 'Point',
         'coordinates' => $latlng
-      );
+      ];
 
       // Build properties array from station information
-      $properties = array(
-        'title' => (string)$station->title(),
-        'url' => (string)$station->url()
-      );
+      $properties = [
+        'title' => (string) $station->title(),
+        'url' => (string) $station->url()
+      ];
 
-      // Build GeoJSON array
-      $geojson[] = array(
+      // Build feature array
+      $features[] = [
         'type' => 'Feature',
         'geometry' => $geometry,
         'properties' => $properties
-      );
+      ];
     }
   }
+
+  // Build GeoJSON array
+  $geojson = [
+    'type' => 'FeatureCollection',
+    'features' => $features
+  ];
 
   // Encode array as JSON
   echo json_encode($geojson);

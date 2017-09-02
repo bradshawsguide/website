@@ -1,14 +1,14 @@
 <?
-  foreach($routes as $route) {
+  foreach ($routes as $route) {
     $stops = $route->stops()->yaml();
 
     // Build geometries array from stops along this route
-    $geometries = array(
+    $geometries = [
       generateLineString($stops),
-    );
+    ];
 
     // Add branch lines to geometries array
-    foreach($stops as $stop) {
+    foreach ($stops as $stop) {
       if (is_array($stop)) {
         array_push($geometries, generateLineString($stop));
       }
@@ -16,35 +16,35 @@
 
     // Empty coordinates will break maps. So, for each
     // geometry check if it returns a completed array
-    foreach($geometries as $geometry) {
+    foreach ($geometries as $geometry) {
       if (!empty($geometry)) {
         // Build geometry array with collection of geometries
-        $geometry = array(
+        $geometry = [
           'type' => 'GeometryCollection',
           'geometries' => $geometries
-        );
+        ];
       }
     }
 
     // Build properties array
-    $properties = array(
-      'title' => (string)$route->title(),
-      'url' => (string)$route->url()
-    );
+    $properties = [
+      'title' => (string) $route->title(),
+      'url' => (string) $route->url()
+    ];
 
     // Build feature array
-    $feature[] = array(
+    $features[] = [
       'type' => 'Feature',
       'geometry' => $geometry,
       'properties' => $properties,
-    );
+    ];
   }
 
   // Build GeoJSON array
-  $geojson[] = array(
+  $geojson = [
     'type' => 'FeatureCollection',
-    'features' => $feature
-  );
+    'features' => $features
+  ];
 
   // Encode array as JSON
   echo json_encode($geojson);
