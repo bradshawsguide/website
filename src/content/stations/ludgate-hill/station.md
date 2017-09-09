@@ -2,7 +2,7 @@ section: 1
 ----
 title: Ludgate Hill
 ----
-region: london
+region: middlesex
 ----
 location: 51.5129, -0.1036
 ----
