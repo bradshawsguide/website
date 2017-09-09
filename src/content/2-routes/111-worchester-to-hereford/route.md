@@ -6,7 +6,7 @@ line: Worcester and Hereford Railway
 ----
 company: great-western
 ----
-_stops_:
+stops:
 - worcester
 - henwick
 - bransford-road
@@ -16,5 +16,7 @@ _stops_:
 - ledbury
 - ashperton
 - stoke-edith
-- withingtom
+- withington
 - hereford
+----
+text: Leaving [Worcester](/stations/worcester) in a south westerly direction, a run of twenty-five minutes brings us, *via* the stations of [Henwick](/stations/henwick), [Bransford Road](/stations/bransford-road), and [Malvern Link](/stations/malvern-link), to the important town of [Great Malvern](/stations/great-malvern).

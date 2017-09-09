@@ -13,6 +13,11 @@
   ]);
 
   pattern('common/page/content');
+
+  pattern('common/section/links', [
+    'title' => 'Further reading',
+    'links' => $page->links()
+  ]);
 ?>
 </article>
 

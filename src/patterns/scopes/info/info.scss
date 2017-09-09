@@ -9,17 +9,22 @@
     float: left;
     font-feature-settings: "smcp" on;
     font-weight: normal;
+
+    &::after {
+      content: "—";
+    }
   }
 
   dd {
     margin-left: $__text-indent;
+    hyphens: auto;
 
     &:not(:last-of-type) {
       margin-bottom: 0.25em;
     }
+  }
 
-    &::before {
-      content: "—";
-    }
+  dd + dd {
+    text-indent: $__text-indent;
   }
 }

@@ -17,6 +17,7 @@ route:
 - hereford-to-hay-and-brecon
 - newport-to-abergavenny-and-hereford
 - hereford-to-shrewsbury
+- worchester-to-hereford
 ----
 info:
 - term: Hotels

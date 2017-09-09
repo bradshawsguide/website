@@ -25,4 +25,15 @@ class RoutePage extends Page {
 
     return $shortTitle;
   }
+
+  // Return `title_later` if exists, else normal title
+  public function currentTitle() {
+    if (!$this->line()->empty()) {
+      $currentTitle = $this->line();
+    } else {
+      $currentTitle = $this->title();
+    };
+
+    return $currentTitle;
+  }
 };

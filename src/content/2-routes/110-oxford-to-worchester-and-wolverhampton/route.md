@@ -18,20 +18,15 @@ stops:
 - blockley
 - campden
 - [honeybourne, long-marston, milcote, stratford-upon-avon]
-----
-_stops_:
 - evesham
-- bengeworth
-- hinton
-- ashton-under-hill
-- beckford
-- ashchurch
 - fladbury
 - pershore
 - worcester
 - fearnall-heath
 - droitwich
 - hartlebury
+----
+_stops_:
 - kidderminster
 - churchill
 - hagley

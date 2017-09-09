@@ -5,9 +5,11 @@
 <? if(count($info)): ?>
   <dl>
   <? foreach($info as $item): ?>
+    <? if(isset($item['term'])): ?>
     <dt><?= smartypants($item['term']) ?></dt>
+    <? endif ?>
     <? if(isset($item['desc'])): ?>
-    <dd><?= smartypants($item['desc']) ?></dd>
+    <dd><?= kirbytextraw(smartypants($item['desc'])) ?></dd>
     <? endif ?>
   <? endforeach ?>
   </dl>
