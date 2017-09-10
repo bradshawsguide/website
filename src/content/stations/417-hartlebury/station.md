@@ -11,6 +11,7 @@ company:
 ----
 route:
 - oxford-to-worchester-and-wolverhampton
+- hartlebury-to-shrewsbury
 ----
 links:
 - (nationalrail: HBY)

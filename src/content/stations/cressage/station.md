@@ -1,15 +1,17 @@
 section: 2
 ----
-title: Shrewsbury
+title: Cressage
 ----
 region: shropshire
 ----
-location: 52.711837, -2.749686
+location: 52.6357, -2.6056
 ----
 company:
-- shrewsbury-and-hereford
 - great-western
 ----
 route:
-- hereford-to-shrewsbury
 - hartlebury-to-shrewsbury
+----
+links:
+Closed in 1963.
+- (wikipedia: Cressage_railway_station)

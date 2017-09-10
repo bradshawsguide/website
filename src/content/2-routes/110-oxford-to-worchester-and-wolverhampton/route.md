@@ -25,12 +25,10 @@ stops:
 - fearnall-heath
 - droitwich
 - hartlebury
-----
-_stops_:
 - kidderminster
 - churchill
 - hagley
-- stourbridge
+- [stourbridge, lye, cradley]
 - brettel-lane
 - brierley-hill
 - round-oak
