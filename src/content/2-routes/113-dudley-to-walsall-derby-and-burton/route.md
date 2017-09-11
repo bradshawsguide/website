@@ -15,3 +15,10 @@ stops:
 - brownhills
 - hammerwich
 - lichfield
+- trent-valley-junction
+- alrewas
+- wichnor
+- barton
+- burton-on-trent
+- willington
+- derby
