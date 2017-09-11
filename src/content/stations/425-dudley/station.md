@@ -11,6 +11,7 @@ company:
 ----
 route:
 - oxford-to-worchester-and-wolverhampton
+- dudley-to-walsall-derby-and-burton
 ----
 links:
 - (disused: d/dudley)
