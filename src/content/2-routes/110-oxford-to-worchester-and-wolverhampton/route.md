@@ -34,5 +34,11 @@ stops:
 - round-oak
 - netherton
 - dudley
+- tipton-five-ways
+- princes-end
+- daisy-bank
+- bilston
+- priestfield
+- wolverhampton
 ----
 text: Before proceeding further North, we will retrace our journey to Oxford, and introduce our traveller to some of the scenes of Shakspeare.

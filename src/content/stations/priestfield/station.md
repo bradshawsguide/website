@@ -11,6 +11,7 @@ company:
 ----
 route:
 - didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
+- oxford-to-worchester-and-wolverhampton
 ----
 links:
 Station closed in 1972.
