@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- buildwas-to-wellington-and-shifnal
+- buildwas-to-wellington-and-shiffnal
 ----
 links:
 Station closed in 1962.

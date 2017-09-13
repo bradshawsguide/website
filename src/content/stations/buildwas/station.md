@@ -11,7 +11,7 @@ company:
 ----
 route:
 - hartlebury-to-shrewsbury
-- buildwas-to-wellington-and-shifnal
+- buildwas-to-wellington-and-shiffnal
 - buildwas-to-much-wenlock
 ----
 links:

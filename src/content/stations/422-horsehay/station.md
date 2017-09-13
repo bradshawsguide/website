@@ -12,7 +12,7 @@ company:
 - great-western
 ----
 route:
-- buildwas-to-wellington-and-shifnal
+- buildwas-to-wellington-and-shiffnal
 ----
 links:
 Station closed in 1962.
@@ -22,4 +22,4 @@ text: Another seat of the Coalbrookdale Company's operations. -- Since the intro
 
 W. Ball, who at the age of 55 weighed the extraordinary weight of 560 lbs., was born here.
 
-[Lawley Bank](/stations/lawley-bank) and [Ketley](/stations/ketley) stations, [Wellington](/stations/wellington), the joint station of the Great Western and Shropshire Union railways, and terminus of the Wellington and Severn Junction.
+[Lawley Bank](/stations/lawley-bank) and [Ketley](/stations/ketley) stations, [Wellington](/stations/wellington-shropshire), the joint station of the Great Western and Shropshire Union railways, and terminus of the Wellington and Severn Junction.

@@ -10,7 +10,7 @@ company:
 - great-western
 ----
 route:
-- buildwas-to-wellington-and-shifnal
+- buildwas-to-wellington-and-shiffnal
 ----
 links:
 - (wikipedia: Coalbrookdale_railway_station)
@@ -31,4 +31,4 @@ The population of the Dale is about 2,000. It is collected into an ecclesiastica
 
 There are also a chapel for Wesleyans, and a meeting house for members of the Society of Friends.
 
-A short line extends from this place through [Madeley](/stations/madeley) to [Shiffnal](/stations/shifnal), a place on the Great Western line from Wolverhampton to Shrewsbury.
+A short line extends from this place through [Madeley](/stations/madeley) to [Shiffnal](/stations/shiffnal), a place on the Great Western line from Wolverhampton to Shrewsbury.

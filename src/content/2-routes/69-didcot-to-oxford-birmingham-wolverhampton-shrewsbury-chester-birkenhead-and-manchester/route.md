@@ -39,6 +39,15 @@ stops:
 - bilston
 - priestfield
 - wolverhampton
+- codsall
+- albrighton
+- shiffnal
+- oakengates
+- wellington-shropshire
+- admaston
+- walcot
+- upton-magna
+- shrewsbury
 ----
 text: After passing a small and uninteresting village called Appleford, we come to a lofty embankment, from which some expansive and diversified views of the surrounding country are obtained. One mile further is the station of [Culham](/stations/culham).
 
