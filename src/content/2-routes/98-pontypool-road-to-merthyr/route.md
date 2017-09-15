@@ -10,7 +10,7 @@ stops:
 - pontypool-road
 - pontypool-clarence-street
 - crumlin-high-level
-- tredegar
+- tredegar-junction
 - rhymney-junction
 - llancaich
 - quakers-yard
