@@ -9,11 +9,13 @@ location: 52.711837, -2.749686
 company:
 - shrewsbury-and-hereford
 - great-western
+- london-and-north-western
 ----
 route:
 - hereford-to-shrewsbury
 - hartlebury-to-shrewsbury
 - didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
+- shrewsbury-to-welshpool
 ----
 info:
 - term: Hotels
