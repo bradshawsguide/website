@@ -16,6 +16,11 @@ route:
 - hartlebury-to-shrewsbury
 - didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
 - shrewsbury-to-welshpool
+- shrewsbury-to-chester
+----
+links:
+- (nationalrail: SHR)
+- (wikipedia: Shrewsbury_railway_station)
 ----
 info:
 - term: Hotels
@@ -28,7 +33,7 @@ info:
 notes:
 - A telegraph station.
 ----
-desc:
+desc: This fine old capital of Shropshire, and parliamentary town, is 42 miles beyond Birmingham, 161¾ miles from London by the North Western (or 171 *via* Birmingham), and 171 by the Great Western.
 ----
 text: This fine old capital of Shropshire, and parliamentary town, is 42 miles beyond Birmingham, 161¾ miles from London by the North Western (or 171 *via* Birmingham), and 171 by the Great Western. The new line between Gloucester and Hereford affords another route by way of Leominster, Ludlow, &c., and is 195¼ miles. The station is a splendid Tudor building, which, together with the site, cost £100,000. Two members. Population, 22,163. No particular manufacture, but celebrated for its cakes and brawn. It is beautifully placed on a peninsula of the Severn; one main street entering it from Abbey Foregate, by English Bridge and Wyle Cop, and leaving it on the opposite side by Mardol and Welsh Bridge over to Frankwell, whilst another from Drayton comes in at the neck of the isthmus from Castle Foregate. On this favourite site the Britons began a town which the Mercian Saxons, after driving them out, called Scrobbesbyrig, signifying a wooded hill. From this its modern name and that of the county are derived. Henceforth it became an important frontier position; and here Roger de Montgomery, one of the Conqueror's firmest adherents, built his Norman castle, planting it at the neck of the isthmus, in the most commanding spot that could be selected. The great keep and walls still remain, partly restored. Close to it is the County Gaol, built by Telford in 1793, on the plan of Howard, whose bust by Bacon is placed over the gateway.
 
