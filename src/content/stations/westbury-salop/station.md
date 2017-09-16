@@ -2,6 +2,8 @@ section: 2
 ----
 title: Westbury
 ----
+title_suffix: (Salop)
+----
 region: shropshire
 ----
 location: 52.6925, -2.9684

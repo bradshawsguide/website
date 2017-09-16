@@ -13,7 +13,7 @@ stops:
 - nantyderry
 - penpergwm
 - abergavenny
-- llanfihangel
+- llanvihangel
 - pandy
 - pontrilas
 - st-devereux

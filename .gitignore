@@ -3,5 +3,6 @@
 /src/cache/
 /www/assets/
 /www/thumbs/
+_mdwriter.cson
 node_modules
 *.cache

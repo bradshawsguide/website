@@ -2,14 +2,20 @@ section: 2
 ----
 title: Llanfihangel
 ----
-title_later: Llanvihangel
+title_later: Llandre
 ----
-region: monmouthshire
+region: cardiganshire
 ----
-location: 51.873080, -2.997110
+location: 52.462604, -4.024566
 ----
 company:
-- great-western
+- aberystwith-and-welsh-coast
 ----
 route:
-- newport-to-abergavenny-and-hereford
+- machynlleth-to-aberystwith
+----
+links:
+Station closed in 1965.
+- (wikipedia: Llandre#Station)
+----
+text: A little to the right of which is Sarn Cynfelin, or the Wallag shoal. There are remains of a very old castle, said to have been destroyed in the twelfth century.

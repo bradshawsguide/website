@@ -8,7 +8,7 @@ stops:
 - shrewsbury
 - [hanwood, plealey-road, pontesbury, minsterley]
 - yockleton
-- westbury-shropshire
+- westbury-salop
 - middletown
 - buttington
 - welshpool
