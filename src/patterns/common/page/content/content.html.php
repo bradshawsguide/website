@@ -33,6 +33,8 @@
     pattern('scopes/prose', [
       'content' => $page->text()
     ]);
+
+    pattern('common/edit');
   }
 ?>
 </div>

@@ -1,0 +1,7 @@
+.c-edit {
+  @include typeset("caption");
+
+  --link-color: $__color-neutral-mid;
+  --flow-space: $__space-large;
+  color: $__color-neutral-mid;
+}
