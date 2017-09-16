@@ -16,7 +16,7 @@
 
   pattern('common/section/list', [
     'title' => $page->subdivision(),
-    'items' => $page->children()->visible()
+    'items' => $page->children()
   ]);
 ?>
 </section>
