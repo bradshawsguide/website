@@ -15,6 +15,10 @@ stops:
 - cefn-mawr
 - ruabon
 - wrexham
+- gresford
+- rossett
+- saltney
+- chester
 ----
 text: To the tourist, this line of railway holds out peculiar attractions. The Vale of Gresford, the grounds of Wynnstay, the valley of the Dee, and the vale of Llangollen, offer some of the most beautiful views, unsurpassed for grandeur and picturesque effect. Here Cambria discloses herself between the mountains of Trevor and Berwyn, and by her own sacred Dee, the happy valley, which leads to scenes of the richest beauty, where amidst her mountains and lakes she revels in all her native splendour of rocks, woods, and streams. Throughout the rest of the line, as it crosses the valley of the Ceiriog, and passes along the borders of Wales to St. Oswald's town of Shrewsbury, the scenery is most lovely and park-like; and the adjoining Welsh mountains form, a noble and varied background to many a delightful view. It is both a business and pleasure line. It curves so as to either nearly touch or pass through the borders of Wales; it intersects a very important iron and coal district in Denbighshire, and passes either close to, or as near as possible the chief towns on its route--Oswestry, Llangollen, and Wrexham.
 
@@ -45,3 +49,21 @@ The train now traverses for a considerable distance what is called "free" or neu
 Recrossing Watt's Dyke, we arrive at the junction of the
 
 ### Brymbo, Minera, &c, Branch.
+Telegraph station at Wheatsheaf.
+
+This mineral branch diverges to the right, and passes across the coal field to the lime rocks of Minera. It is 6¼ miles in length. There are several smaller branches made for the accommodation of the works at Frood, Brynmally, Westminster, South Sea, Brymbo, and Vron, to the extent of about six miles in addition.
+
+At a place called Wheatsheaf the locomotive portion of the branch terminates, and the lower self-acting inclined plane commences, by which the loaded wagons descend, and draw up the empty ones to Summerhill level.
+
+At Summerhill the branch pierces through the crest of a hill by a tunnel, and enters the Moss Valley, which is here a narrow ravine, beautifully wooded, having its sides studded with cottages and gardens, which are chiefly small freeholds, the property of the workmen.
+
+From Moss Valley the main branch rises by a steep inclined plane to Peutre, at an inclination of 1 in 4. At the top it pierces through the summit of the Peutre by a tunnel, on emerging from which is Brymbo Valley and iron works From the tunnel the railway winds its course for about four miles to Minera, celebrated for its lead mines and limestone rocks. As the railway winds along the slope of the hills a most magnificent panoramic tow is obtained, extending from the Mersey, dotted with white sails, across the Vale Royal, over Cheshire and Shropshire to the Severn, flanked on the left by the Hope Mountains, and on the right by the Berwyn range, to which succeed the Brydden, the Wrekin, Caer Caradoc, and the distant Cheshire hills; and while the eye is charmed with the beauty of the landscape, the mineral treasures and the varied mechanical contrivances by which their value is brought out, commands the attention and admiration of the geologist and scientific visitor.
+
+### ?
+Passing a fine ancient mansion, called *Geversyllt Hall*, the property of Sir Watkin W. Wynne, Bart., and then, by some deep cuttings and long embankments, we reach [Gresford](/stations/gresford).
+
+Soon after passing [Rossett](/stations/rossett) the line proceeds over a flat, fertile country called the Lache Hayes, to the left of which, as far as the eye can see,'is the long range of Clwydian Hills, the centre one being distinguished by the name of Moel Fammau, or the mother of hills. There is a monument on the summit of this mountain, erected to commemorate the fiftieth anniversary of the reign of George III. The view from this elevation is very extensive. The hills nearest the line are those of Hope Mountains, containing minerals of every description in profusion. The iron and coal works are seen burning at night for a considerable distance. We likewise perceive the village of *Doddleston* on the left. The church contains a monument to the memory of Chancellor Egerton, Lord Ellesmere. The next station is [Saltney](/stations/saltney).
+
+Leaving Saltney, we soon after cross the river Dee by the largest cast-iron girder bridge in the kingdom, and a viaduct of 47 arches; then, passing through the west angle of the city walls, over the Ellesmere and Chester Canal, and through the tunnel beneath Northgate, we arrive at the Station at [Chester](/stations/chester).
+
+For continuation of route to Holyhead, see ???.
