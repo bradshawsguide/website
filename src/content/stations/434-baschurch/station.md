@@ -30,5 +30,4 @@ text: The village of Baschurch is of great antiquity, and its salubrity and gene
 
 The British prince, Cynddylan, was buried here.
 
-One mile distant to the left of the line is
-*Boreaton Park*, and in the same direction the pretty little village of Ruyton, formerly one of the "Eleven Towns," with some remains of an old castle. In the same direction (4 miles) is the site of the old castle of the l'Estranges at *Knockin*.
+One mile distant to the left of the line is *Boreaton Park*, and in the same direction the pretty little village of Ruyton, formerly one of the "Eleven Towns," with some remains of an old castle. In the same direction (4 miles) is the site of the old castle of the l'Estranges at *Knockin*.
