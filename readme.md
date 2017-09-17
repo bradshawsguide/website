@@ -1,6 +1,6 @@
 # Bradshaw’s Guide For Tourists in Great Britain & Ireland
 
-*A modern-day revival of a Victorian classic (1866 edition)*
+*Let this digital revival of a Victorian favourite be your guide to Britain and Ireland’s burgeoning railway network, as it existed in 1866.*
 
 ## Installation
 1. `git clone git@github.com:paulrobertlloyd/bradshawsguide.git`
