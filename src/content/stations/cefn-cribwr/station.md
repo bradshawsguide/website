@@ -1,6 +1,6 @@
 section: 2
 ----
-title: Cefn
+title: Cefn Cribwr
 ----
 region: glamorganshire
 ----
