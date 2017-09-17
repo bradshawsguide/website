@@ -63,8 +63,6 @@
 
 .c-page__subtitle {
   @include typeset("label");
-  display: inline-flex;
-  white-space: nowrap;
   color: $__color-neutral-dark;
 
   .c-icon {

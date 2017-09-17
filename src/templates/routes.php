@@ -24,7 +24,7 @@
     foreach ($companies as $company) {
       pattern('common/section/routes', [
         'title' => html::a($company->url(), $company->title()),
-        'items' => $routes->filterBy('company', $company->uid())
+        'items' => $routes->filterBy('company', '*=', $company->uid())
       ]);
     }
   }

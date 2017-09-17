@@ -8,6 +8,7 @@ location: 53.1968, -2.8798
 ----
 company:
 - great-western
+- london-and-north-western
 ----
 route:
 - shrewsbury-to-chester

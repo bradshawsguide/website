@@ -9,7 +9,7 @@
   pattern('common/page/header', [
     'parent' => page('/routes/'),
     'title' => $page->title(),
-    'subtitle' => $page->railway()
+    'subtitle' => $subtitle
   ]);
 
   pattern('common/page/content');
