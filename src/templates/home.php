@@ -2,7 +2,9 @@
 
 <div class="c-page">
 <?
-  pattern('common/page/content');
+  pattern('scopes/prose', [
+    'content' => $page->introduction()
+  ]);
 
   foreach(page('sections')->children() as $section) {
     $featured = page('sections/'.$section->dirname())->feature()->yaml();

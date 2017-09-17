@@ -1,7 +1,5 @@
 title: Bradshaw's Guide For Tourists in Great Britain & Ireland
 ----
-text: A digital revival of a popular Victorian handbook, let this website be your guide to Britain and Ireland’s burgeoning railway network, as it existed in 1866.
+introduction: This digital edition of a Victorian favourite is your guide to Britain and Ireland’s burgeoning railway network, as it existed in 1866. Read [descriptions of the towns and cities](/places/) served by the railway, follow the [routes](/routes/) between them, and learn about the [railway companies](/companies/) that built them.
 
-Read Bradshaw’s [descriptions of the towns, cities and counties](/places/) served by the railway (and other means), follow the [routes](/routes/) taken by every line, and learn about the [companies](/companies/) that built them.
-
-Pages are divided into four sections, adapted to the railway system:
+*Divided into four sections, adapted to the railway system:*
