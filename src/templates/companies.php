@@ -6,7 +6,7 @@
     'title' => $page->title()
   ]);
 
-  foreach(alphabetise($page->children()->visible()) as $letter => $items):
+  foreach(alphabetise($page->children()) as $letter => $items):
     pattern('common/index', [
       'items' => $items,
       'letter' => $letter
