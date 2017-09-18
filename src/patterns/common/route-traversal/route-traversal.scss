@@ -2,13 +2,19 @@
   --link-decoration: none;
   display: grid;
   grid-auto-flow: row dense;
-  grid-template-columns: repeat(3, 1fr);
-  grid-column-gap: $__space-large;
+  grid-template-areas:
+    "title title"
+    "prev  next";
+  grid-gap: $__space-xsmall $__space-large;
   border-top: $__rule;
   padding: $__space-xxsmall 0 $__space-small;
 
+  @media screen and (min-width: $__breakpoint-medium) {
+    grid-template-areas: "prev title next";
+  }
+
   a[rel="prev"] {
-    grid-column: 1;
+    grid-area: prev;
 
     &::before {
       content: "\261C\0020"; // ☜
@@ -17,7 +23,7 @@
   }
 
   a[rel="next"] {
-    grid-column: 3;
+    grid-area: next;
     text-align: right;
 
     &::after {
@@ -28,7 +34,7 @@
 }
 
 .c-route-traversal__title {
-  grid-column: 2;
+  grid-area: title;
   font-weight: bold;
   text-align: center;
 }

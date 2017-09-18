@@ -1,5 +1,5 @@
 @mixin pull-right {
-  @media screen and (min-width: $__breakpoint-xsmall) {
+  @media screen and (min-width: $__breakpoint-small) {
     width: 50%;
     float: right;
     margin-left: 1.5rem;

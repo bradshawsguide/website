@@ -6,7 +6,9 @@
     </header>
 
     <? if($item->hasImages()): ?>
-      <img class="c-card__img" src="<?= $item->image()->crop(336, 192, 80)->url() ?>" alt="" width="224" height="128"/>
+    <div class="c-card__img u-artwork" style="background-image: url(<?= $item->image()->crop(16, 9)->dataUri() ?>)">
+      <img src="<?= $item->image()->crop(336, 192, 80)->url() ?>" alt="" width="224" height="128"/>
+    </div>
     <? endif; ?>
 
     <div class="c-card__main">

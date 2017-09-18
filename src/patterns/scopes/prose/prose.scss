@@ -1,10 +1,20 @@
 .s-prose {
   @include typeset("prose");
-
-  --flow-space: 1.5em;
   max-width: 70ch;
   hyphens: auto;
   word-break: break-word;
+
+  > :last-child {
+    margin-bottom: 1em;
+  }
+
+  p + p {
+    text-indent: $__text-indent;
+  }
+
+  > *:not(p) {
+    margin-top: $__space-xsmall;
+  }
 
   h3 {
     @include typeset("heading");
@@ -87,7 +97,7 @@
 
   ul li {
     margin-left: $__text-indent;
-    text-indent: calc(#{$__text-indent} * -1);
+    text-indent: -1em;
 
     &::before {
       content: "—\2009"; // EM DASH + THIN SPACE

@@ -1,0 +1,34 @@
+.c-figure {
+  margin-bottom: $__space-large;
+}
+
+.c-figure__caption {
+  @include typeset("caption");
+  padding-top: $__space-medium;
+  padding-bottom: $__space-medium;
+  border-bottom: $__rule;
+}
+
+// Pull image to the right
+.c-figure--pull-right {
+  @include pull-right;
+
+  .c-figure__img {
+    padding-top: percentage(6/5);
+  }
+}
+
+// Bleed to the edges of the viewport
+.c-figure--bleed {
+  margin-right: calc(var(--page-gutter) * -1);
+  margin-left: calc(var(--page-gutter) * -1);
+
+  .c-figure__img {
+    padding-top: percentage(9/16);
+  }
+
+  .c-figure__caption {
+    margin-right: var(--page-gutter);
+    margin-left: var(--page-gutter);
+  }
+}

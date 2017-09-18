@@ -1,14 +1,19 @@
+$_card-growth: $__space-xxsmall;
+
 .c-card {
   display: flex;
   flex: 1;
+  overflow: hidden;
   background-color: white;
   outline: 1px solid rgba($__color-neutral-darkest, 0.1);
   box-shadow: 0 0 12px 0 rgba($__color-neutral-darkest, 0.1);
-  transition: all 0.1s ease-out;
+  transition-duration: 0.15s;
+  transition-property: box-shadow, margin, padding;
 
   &:hover {
-    box-shadow: 0 0 24px 0 rgba($__color-neutral-darkest, 0.2);
-    transform: scale(1.015);
+    box-shadow: 0 0 24px 0 rgba($__color-neutral-darkest, 0.25);
+    margin: ($_card-growth * -1);
+    padding: $_card-growth;
   }
 }
 
@@ -37,10 +42,6 @@
 .c-card__title {
   @include typeset("display3");
   color: $__color-link;
-
-  .c-card:hover & {
-    text-decoration: underline;
-  }
 }
 
 .c-card__main {
@@ -50,6 +51,7 @@
 
 .c-card__img {
   order: -1;
-  height: auto;
-  width: 100%;
+  margin: ($_card-growth * -1);
+  margin-bottom: 0;
+  padding-bottom: percentage(4/7);
 }
