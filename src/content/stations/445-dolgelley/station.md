@@ -22,4 +22,6 @@ info:
 - term: Market Days
   desc: Tuesday and Saturday.
 ----
+desc: The town is romantically situated at the foot of the celebrated *Cader Idris*, for the exploration of which it will be found necessary to have a guide or ordnance map.
+----
 text: The town is very romantically situated at the foot of the celebrated *Cader Idris*, for the exploration of which it will be found necessary to have a guide unless the tourist have an ordnance map. NearLC 3,000 feet high, its summit commands a most extensive panoramic view, with Snowdon on one side, Wrekin on another, Plinlimmon to the South, and the Brecknockshire Beacons beyond. Dolgelley itself is a lovely place, and may be made the centre of many an interesting excursion.

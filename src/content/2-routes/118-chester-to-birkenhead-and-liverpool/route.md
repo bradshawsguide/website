@@ -10,14 +10,14 @@ company:
 ----
 stops:
 - chester
+- mollington
+- ledsham
+- hooton
+- bromborough
+- spital
+- bebington
+- rock-ferry
+- birkenhead
+- liverpool-pier-head
 ----
-_stops_:
-- glan-dovey
-- [ynys-las, borth, llanfihangel, bow-street, aberystwith]
-- aberdovey
-- towyn
-- llwyngwril
-- [barmouth-ferry, penmaen-pool, dolgelley]
-- barmouth
-----
-text:
+text: Leaving Chester, the first stations we pass are [Mollington](/stations/mollington), [Ledsham](/stations/ledsham), and [Hooton](/stations/hooton), from the latter of which *Parkgate* is accessible by omnibus; the next place arrived at is [Bromborough](/stations/bromborough).

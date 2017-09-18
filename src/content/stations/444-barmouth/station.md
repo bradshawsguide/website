@@ -20,6 +20,8 @@ info:
 - term: Market Days
   desc: Tuesday and Friday.
 ----
+desc: A small manufacturing town, situated on the slope of a hill, with a considerable miscellaneous trade.
+----
 text: It is a small manufacturing town, situated on the slope of a hill, with a considerable miscellaneous trade.
 
 Ten miles up the coast is *Harlech*, with its historical old ruined castle, from which *Craig Ddrwg* and the *Rhinog Faur* (upwards of 2,000 feet high) may be climbed, with every yard full of Druidical and British remains.

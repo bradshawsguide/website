@@ -32,7 +32,7 @@
 
   pattern('common/section/routes', [
     'title' => 'Routes operated',
-    'items' => page('routes')->children()->filterBy('company', $page->uid())
+    'items' => page('routes')->children()->filterBy('company', '*=', $page->uid())
   ]);
 ?>
 </article>
