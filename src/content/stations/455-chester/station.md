@@ -13,6 +13,7 @@ company:
 route:
 - shrewsbury-to-chester
 - chester-to-birkenhead-and-liverpool
+- chester-to-manchester
 ----
 links:
 - (nationalrail: CTR)

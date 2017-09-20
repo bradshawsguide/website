@@ -12,6 +12,7 @@ company:
 ----
 route:
 - chester-to-birkenhead-and-liverpool
+- chester-to-manchester
 ----
 links:
 - (nationalrail: HOO)
