@@ -11,6 +11,7 @@ company:
 ----
 route:
 - warrington-to-timperley
+- bowdon-to-manchester
 ----
 links:
 Station closed in 1991, and reopened as a Metrolink tram stop in 1992.
