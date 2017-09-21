@@ -94,7 +94,7 @@ function styles() {
 function sync() {
   browserSync.init({
     files: ['src/**/*.php', 'src/**/*.md'],
-    proxy: 'https://bradshaws.dev',
+    proxy: 'https://bradshaws.test',
     open: false
   });
 }

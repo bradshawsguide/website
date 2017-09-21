@@ -7,7 +7,7 @@ if(!defined('KIRBY')) die('Direct access is not allowed');
 c::set('license', '');
 
 // URL setup
-c::set('url', 'https://bradshaws.dev');
+c::set('url', 'https://bradshaws.test');
 
 // Routes
 c::set('routes', array(
@@ -40,7 +40,7 @@ c::set('MinifyHTML', true);
 // Tiny URL Setup
 c::set('tinyurl.enabled', true);
 c::set('tinyurl.folder', 'x');
-c::set('tinyurl.url', 'http://bradshaws.dev');
+c::set('tinyurl.url', 'http://bradshaws.test');
 
 // Cache
 c::set('cache', false);

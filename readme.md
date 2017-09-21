@@ -31,13 +31,13 @@ To run with HTTPS locally on macOS, you should follow the setup [as described he
     -days 3650 \
     -nodes \
     -x509 \
-    -keyout dev.key \
-    -out dev.crt \
-    -subj /CN=bradshaws.dev \
+    -keyout test.key \
+    -out test.crt \
+    -subj /CN=bradshaws.test \
     -reqexts SAN \
     -extensions SAN \
     -config <(cat /System/Library/OpenSSL/openssl.cnf \
-      <(printf '[SAN]\nsubjectAltName=DNS:bradshaws.dev'))
+      <(printf '[SAN]\nsubjectAltName=DNS:bradshaws.test'))
   ```
 
 ## Repo structure
