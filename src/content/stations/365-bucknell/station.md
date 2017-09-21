@@ -4,7 +4,7 @@ title: Bucknell
 ----
 region: shropshire
 ----
-location: 52.423225, -2.884481
+location: 52.3573, -2.948
 ----
 company:
 - knighton
