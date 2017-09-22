@@ -10,9 +10,11 @@ location: 53.3875, -2.3472
 ----
 company:
 - london-and-north-western
+- cheshire-lines-committee
 ----
 route:
 - bowdon-to-manchester
+- altrincham-to-northwich
 ----
 links:
 Renamed *Altrincham Interchange* in 1974.
