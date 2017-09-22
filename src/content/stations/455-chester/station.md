@@ -14,10 +14,12 @@ route:
 - shrewsbury-to-chester
 - chester-to-birkenhead-and-liverpool
 - chester-to-manchester
+- chester-to-mold
+- chester-to-holyhead
 ----
 links:
 - (nationalrail: CTR)
-- (wikipedia: Saltney_railway_station)
+- (wikipedia: Chester_railway_station)
 ----
 info:
 - term: Hotel
