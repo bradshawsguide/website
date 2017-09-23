@@ -9,12 +9,11 @@ company:
 ----
 stops:
 - chester
-----
-- queens-ferry-flintshire
+- queensferry-flintshire
 - flint
 - bagillt
 - holywell
-- mostyn-quay-and-station
+- mostyn
 - prestatyn
 - rhyl
 ----
@@ -32,7 +31,31 @@ On the inner side of the office buildings, a large platform extends, which is ch
 
 In consequence of one of the public roads of the city crossing the rails close to the station, it was necessary to erect a bridge across the line.
 
-Before pursuing his journey on the Main Line the tourist cannot do better than take a rapid survey of the line to Mold, for which purpose we here introduce a short sketch.
+Before pursuing his journey on the Main Line the tourist cannot do better than take a rapid survey of the line to Mold, for which purpose [we here introduce a short sketch](/routes/chester-to-mold).
 
-### Chester to Mold
-From Chester we pass [Broughton](/stations/broughton), to the right of which is *Hawarden*, a small market town in Flintshire, with Six S. Glynne's seat, *Hawarden Castle*, which was built in 1752, on the site of the old fortress. It contains old portraits, antiquities, and the ruins of the keep of the old seat which was destroyed in 1678, by Sergeant Glynne, and was a place of great celebrity during the Welsh Wars. We then reach. [Broughton Hall](/stations/broughton-hall), and soon after, the station at [Hope](/stations/hope).
+### Chester to Rhyl.--Main Line
+From Chester the line of railway skirts along the side of the river Dee; afterwards its course, till near Conway, is close by the sea shore, and again it winds its way by the seaside to Beaumaris Bay, near Penmaen Mawr. The line of the railway being along the sea, much of the beautiful scenery of North Wales is lost; but by this route the undertaking was rendered easier of construction than it otherwise would have been. Yet there are many beautiful landscapes on the line, glimpses of the huge piles of mountains towering high above the vallies whence they rise; and ruins also to be noticed by the way-side, telling of ages past, adding historical interest to the charms of nature.
+
+Upon leaving Chester the whistle of the engine announces our approach to the tunnel under North Gate Street and the adjacent gardens, and we immediately pass through this and merge through deep cuttings of red rock. The train then proceeds over the girder bridge, crossing the Ellesmere and Chester Canal, passing thence through the west angle of the city walls, on to the high and long embankment across the Tower Fields. The line is carried over a viaduct of 47 arches, and passes, on the left, the well known plains of Roodee, where the Chester races take place in the spring and autumn of the year.
+
+Proceeding onwards, we cross the river Dee on the largest cast iron girder bridge in the kingdom, immediately after passing which the line traverses some deep cuttings in Brewer's Hall Hill, from the summit of which Oliver Cromwell bombarded the city. We then reach the Saltney station, where the Shrewsbury line diverges to the left, and our train proceeding over Saltney pasture lands, runs parallel for seven miles with the river Dee. The plain on the right beyond the river is called *Sealand*, from its having been enclosed from the sea by the River Dee Company. After passing a small bridge over a brook, we enter the **[Principality of Wales](/places/wales)**.
+
+We are now approaching the Welsh Mountains; the *Clwydian Hills* are seen in the distance; the one in the centre called *Moel Fammau*, or the Mother of Hills, is the loftiest, on the top of which is a jubilee column, erected to commemorate the fiftieth anniversary of the reign of George III. The view from this elevation is most varied and extensive, comprising the Derbyshire Hills, the Wrekin in Shropshire, Snowdon, and Cader Idris in Wales, as well as the Cumberland Hills, and in clear weather even the Isle of Man.
+
+Continuing our route, we pass, on the left, the [branch railway to Mold](/routes/chester-to-mold), and shortly after reach *Sandycroft*, where there is a large foundry. Two miles to the left of this are seen the town and castle of *Hawarden*. There are several coal mines in the neighbourhood, and in the vicinity of Buckley are earthenware manufactories of considerable repute.
+
+Proceeding onwards, we soon reach [Queen's Ferry](/stations/queensferry-flintshire) station (Flintshire). On leaving this station the line passes through deep cuttings and a short tunnel, and immediately afterwards we have a fine view of the estuary of the Dee, which at high tide assumes the appearance of an arm of the sea, covered at times with innumerable vessels.
+
+About a mile to the left is the mansion of Edward Bates, Esq., which commands a particularly fine view of the estuary and the Cheshire shore.
+
+A little farther on is *Leadbrook*, so named from the profusion of lead ore obtained in the neighbourhood and the adjacent hills, particularly in the *Halkin Mountain*, the metallic productions of which have been immense; one spot alone having yielded, in the space of a few years, upwards of a million sterling in value. The porcelain clay at Halkin is also considered very fine.
+
+On leaving the station at [Flint](/stations/flint), the line proceeds over Flint Marsh, to the left of which is *Coles Hill*, where a battle was fought, between Owen Gwyndwr and Henry II., in which the latter was defeated. The next station we come to is [Bagillt](/stations/bagillt), before reaching [Holywell](/stations/holywell).
+
+Leaving the station at [Mostyn](/stations/mostyn), the train passes over Gwespyr Marsh, which was enclosed from the sea in 1811. On the right, and nearly in the centre of the estuary of the Dee, is situated *Hilbree Island*, and in the same direction *Hoylake*, the extreme point of the peninsula of Wirral, in Cheshire.
+
+The village of *Gwespyr*, celebrated for its quarries of freestone, is situated on the hill to the left. The Custom House of Liverpool is built of the stone from these quarries.
+
+*Talacre*, the beautiful seat of Sir Pyers Mostyn, Bart, is situated on a gentle eminence. It is a very splendid mansion with two fronts, and commands magnificent views of the sea. The village on the hill is *Gronant*; above which is the Observatory. On the right, close to the shore, is the life boat house. [Prestatyn](/stations/prestatyn).
+
+Proceeding onward we pass the village of *Melidan* with its rural Church, on the left; close to which, under a rock, are situated the Talargoch Lead Mines, celebrated as having produced more lead ore than any other mine in the country during the last century, the quantity raised averaging 3,000 tons annually The ruins of *Dyserth Castle*, built in Henry II.'s time, are in the vicinity; and a mile beyond which is *Bodryddon*, the ancient seat of the Conways, situated in a fine forest. [Rhyl](/stations/rhyl).
