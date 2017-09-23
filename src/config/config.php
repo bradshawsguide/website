@@ -12,9 +12,15 @@ c::set('url', 'https://bradshaws.test');
 // Routes
 c::set('routes', array(
   array(
-    'pattern' => 'manifest.json',
+    'pattern' => 'app.webmanifest',
     'action'  => function() {
-      return site()->visit('manifest');
+      tpl::load(kirby()->roots()->templates().DS.'app.webmanifest.php', array('site' => kirby()->site()), false);
+    }
+  ),
+  array(
+    'pattern' => 'map',
+    'action'  => function() {
+      tpl::load(kirby()->roots()->templates().DS.'map.php', null, false);
     }
   )
 ));

@@ -3,7 +3,7 @@
 <head>
   <link rel="preload" href="/assets/fonts/linuxlibertine-regular.woff2" as="font" type="font/woff2" crossorigin/>
   <link rel="stylesheet" href="/assets/app.css"/>
-  <link rel="manifest" href="/manifest.json"/>
+  <link rel="manifest" href="/app.webmanifest" type="application/manifest+json"/>
   <link rel="shortcut icon" href="/assets/icons/icon.ico" type="image/ico"/>
   <link rel="apple-touch-icon" href="/assets/icons/icon.png" type="image/png"/>
   <link rel="mask-icon" href="/assets/icons/icon.svg" color="<?= $site->background_color() ?>"/>
