@@ -1,6 +1,7 @@
 <footer class="c-contentinfo">
   <ul class="c-contentinfo__links">
-    <li><a href="/stations/">Railway Stations</a></li>
+    <li><a href="/about/">About</a></li>
+    <li><a href="/stations/">Station Index</a></li>
     <li><a href="/companies/">Company Index</a></li>
   </ul>
 

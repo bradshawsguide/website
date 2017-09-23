@@ -41,7 +41,7 @@
     pointer-events: auto;
 
     @media (min-width: $__breakpoint-medium) {
-      padding-top: $__space-xlarge;
+      padding: $__space-xlarge $__space-xsmall $__space-medium;
     }
   }
 
