@@ -10,7 +10,7 @@
     'theme_color' => (string) $site->theme_color(),
     'background_color' => (string) $site->background_color(),
     'icons' => [[
-      'src' => url('assets/icons/icon.png'),
+      'src' => url('assets/icons/app.png'),
       'sizes' => '512x512',
       'type' => 'image/png'
     ]]

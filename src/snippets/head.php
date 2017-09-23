@@ -4,9 +4,9 @@
   <link rel="preload" href="/assets/fonts/linuxlibertine-regular.woff2" as="font" type="font/woff2" crossorigin/>
   <link rel="stylesheet" href="/assets/app.css"/>
   <link rel="manifest" href="/app.webmanifest" type="application/manifest+json"/>
-  <link rel="shortcut icon" href="/assets/icons/icon.ico" type="image/ico"/>
-  <link rel="apple-touch-icon" href="/assets/icons/icon.png" type="image/png"/>
-  <link rel="mask-icon" href="/assets/icons/icon.svg" color="<?= $site->background_color() ?>"/>
+  <link rel="shortcut icon" href="/assets/icons/app.ico" type="image/ico"/>
+  <link rel="apple-touch-icon" href="/assets/icons/app.png" type="image/png"/>
+  <link rel="mask-icon" href="/assets/icons/app.svg" color="<?= $site->background_color() ?>"/>
   <link rel="canonical" href="<?= $page->url() ?>"/>
   <? if(isset($alternate)): ?><link rel="alternate" href="<?= $alternate ?>" type="application/vnd.geo+json"/><? endif ?>
 
