@@ -141,7 +141,6 @@
 // Control positioning
 // 1. IE 9-10 doesn't have auto
 .leaflet-control {
-  --link-decoration: none;
   position: relative;
   z-index: 800;
   float: left;
@@ -171,6 +170,7 @@
 .leaflet-control-zoom-in,
 .leaflet-control-zoom-out {
   @include typeset("label", $font-weight: bold);
+  text-decoration: none;
 }
 
 // Attribution controls
@@ -219,8 +219,6 @@
 
 .leaflet-popup-close-button {
   @include typeset("label");
-
-  --link-decoration: none;
   position: absolute;
   top: 0;
   right: 0;
@@ -228,6 +226,7 @@
   border-left: $__rule;
   padding: $__space-small;
   font-weight: bold;
+  text-decoration: none;
 
   &:hover {
     background-color: $__color-neutral-lightest;
