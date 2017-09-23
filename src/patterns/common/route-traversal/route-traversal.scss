@@ -8,28 +8,20 @@
   grid-gap: $__space-xsmall $__space-large;
   border-top: $__rule;
   padding: $__space-xxsmall 0 $__space-small;
+  color: $__color-neutral-mid;
 
   @media screen and (min-width: $__breakpoint-medium) {
     grid-template-areas: "prev title next";
   }
 
-  a[rel="prev"] {
-    grid-area: prev;
-
-    &::before {
-      content: "\261C\0020"; // ☜
-      font-family: serif;
-    }
+  [rel="prev"]::before {
+    content: "\261C\0020"; // ☜
+    font-family: serif;
   }
 
-  a[rel="next"] {
-    grid-area: next;
-    text-align: right;
-
-    &::after {
-      content: "\0020\261E"; // ☞
-      font-family: serif;
-    }
+  [rel="next"]::after {
+    content: "\0020\261E"; // ☞
+    font-family: serif;
   }
 }
 
@@ -37,4 +29,13 @@
   grid-area: title;
   font-weight: bold;
   text-align: center;
+}
+
+.c-route-traversal__prev {
+  grid-area: prev;
+}
+
+.c-route-traversal__next {
+  grid-area: next;
+  text-align: right;
 }

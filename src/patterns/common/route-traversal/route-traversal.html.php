@@ -17,13 +17,17 @@
   <?= brick('h'.(isset($level) ? $level : 3))->html($title)->attr('class', 'c-route-traversal__title') ?>
 
   <? if(isset($prev)): ?>
-    <a rel="prev" href="<?= $prev->url() ?>" aria-label="Previous station: <?= $prev->shortTitle()?>">
+    <a aria-label="Previous station" class="c-route-traversal__prev" rel="prev" href="<?= $prev->url() ?>" aria-label="Previous station: <?= $prev->shortTitle()?>">
       <?= smartypants($prev->shortTitle()) ?>
     </a>
+  <? else: ?>
+    <em class="c-route-traversal__prev">Terminates</em>
   <? endif ?>
   <? if(isset($next)): ?>
-    <a rel="next" href="<?= $next->url() ?>" aria-label="Next station: <?= $next->shortTitle()?>">
+    <a aria-label="Next station" class="c-route-traversal__next" rel="next" href="<?= $next->url() ?>" aria-label="Next station: <?= $next->shortTitle()?>">
       <?= smartypants($next->shortTitle()) ?>
     </a>
+  <? else: ?>
+    <em class="c-route-traversal__next">Terminates</em>
   <? endif ?>
 </nav>

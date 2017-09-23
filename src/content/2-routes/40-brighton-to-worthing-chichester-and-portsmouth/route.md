@@ -2,6 +2,8 @@
 ----
 title: Brighton to Worthing, Chichester and Portsmouth
 ----
+title_short: Brighton to Portsmouth
+----
 line: Portsmouth Branch
 ----
 line_later: West Coastway Line
