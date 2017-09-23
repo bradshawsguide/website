@@ -6,7 +6,9 @@
     'title' => $page->title()
   ]);
 
-  pattern('common/page/content');
+  pattern('common/page/content', [
+    'editable' => false
+  ]);
 ?>
 </article>
 

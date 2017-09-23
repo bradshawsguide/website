@@ -2,8 +2,8 @@
 
 <div class="c-page">
 <?
-  pattern('scopes/prose', [
-    'content' => $page->introduction()
+  pattern('common/page/content', [
+    'editable' => false
   ]);
 
   foreach(page('sections')->children() as $section) {

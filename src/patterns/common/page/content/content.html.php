@@ -33,7 +33,9 @@
     pattern('scopes/prose', [
       'content' => $page->text()
     ]);
+  }
 
+  if(!isset($editable)) {
     pattern('common/edit');
   }
 ?>
