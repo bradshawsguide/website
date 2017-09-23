@@ -8,9 +8,11 @@ location: 53.318, -3.489
 ----
 company:
 - london-and-north-western
+- vale-of-clwyd
 ----
 route:
 - chester-to-holyhead
+- rhyl-to-corwen
 ----
 links:
 - (nationalrail: RHL)

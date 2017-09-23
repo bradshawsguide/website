@@ -21,13 +21,13 @@
       <?= smartypants($prev->shortTitle()) ?>
     </a>
   <? else: ?>
-    <em class="c-route-traversal__prev">Terminates</em>
+    <em class="c-route-traversal__prev">Terminus</em>
   <? endif ?>
   <? if(isset($next)): ?>
     <a aria-label="Next station" class="c-route-traversal__next" rel="next" href="<?= $next->url() ?>" aria-label="Next station: <?= $next->shortTitle()?>">
       <?= smartypants($next->shortTitle()) ?>
     </a>
   <? else: ?>
-    <em class="c-route-traversal__next">Terminates</em>
+    <em class="c-route-traversal__next">Terminus</em>
   <? endif ?>
 </nav>

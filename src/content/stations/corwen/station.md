@@ -8,9 +8,11 @@ location: 52.98138, -3.37852
 ----
 company:
 - great-western
+- vale-of-clwyd
 ----
 route:
 - llangollen-to-corwen
+- rhyl-to-corwen
 ----
 links:
 Station closed in 1964.

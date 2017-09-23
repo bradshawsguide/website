@@ -6,7 +6,6 @@ company:
 - vale-of-clwyd
 ----
 stops:
-----
 - rhyl
 - foryd
 - rhuddlan
@@ -17,8 +16,19 @@ stops:
 - rhewl
 - ruthin
 - eyarth
+- nantclwyd
 - derwen
-- gwyd-delwrn
+- gwyddelwern
 - corwen
 ----
-text:
+text: The district through which this line runs is remarkable for its picturesque beauty, and forms the threshold to some of the richest scenery in North Wales. Passing quickly the little station of [Foryd](/stations/foryd), the arrival of the train is soon announced at the ancient town of [Rhuddlan](/stations/rhuddlan). [St. Asaph](/stations/st-asaph).
+
+[Trefnant](/stations/trefnant) Station, Denbighshire.
+
+[Denbigh](/stations/denbigh).
+
+[Llanrhaidr](/stations/llanrhaidr) and [Rhewl](/stations/rhewl) Stations.
+
+[Ruthin](/stations/ruthin), a market town, standing on the slope of a hill. It has the remains of a castle, built in the 13th century.
+
+Thence the line passes the stations of [Eyarth](/stations/eyarth) 2 miles, to [Nantchwyd](/stations/nantchwyd) 3¼ miles, where it crosses the river Clwyd; it then runs via [Derwen](/stations/derwen) 2 miles, and [Gwyd-delwrn](/stations/gwyddelwern) 2¾ miles, soon after leaving the latter of which it sweeps along the base of *Caer Drewyn*, formerly a retreat of Owen Glyndwr, and a British camp, to [Corwen](/stations/corwen), a little town in Merionethshire at the foot of the Berwyn mountain. Its church is a half Norman building, and in the form of a cross. In the ground adjoining is a monument in the form of a cross, called Glyndwr's sword. A dagger which belonged to that chief is at *Rhug*, the seat of Colonel Vaughan.
