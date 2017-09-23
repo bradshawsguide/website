@@ -1,17 +1,13 @@
 <?
+  $geometries = [];
   $stops = $page->stops()->yaml();
 
-  // LINE STRINGS (ROUTE)
-  // Add `LineString` of route to $geometries array
-  $geometries = [
-    generateLineString($stops),
-  ];
-
-  // If stop is a junction, create `LineString` from stops
-  // along branch, and add to $geometries array
+  // Create `LineString` for route and add to $geometries[]
   foreach ($stops as $stop) {
-    if (is_array($stop)) {
-      array_push($geometries, generateLineString($stop));
+    if (is_array($stop)) { // Stop is a branch (an array of stops)
+      array_push($geometries, generateLineString(UIDStoStationPages($stop)));
+    } else {
+      array_push($geometries, generateLineString(UIDStoStationPages($stops)));
     }
   }
 
@@ -19,11 +15,11 @@
   foreach (flatten_array($stops) as $stop) {
     $stop = page('/stations/'.$stop);
 
-    // Add `Point` to $geometries array
+    // Add `Point` to $geometries[]
     array_push($geometries, generatePoint($stop));
   }
 
-  // Create `GeometryCollection` from $geometries array
+  // Create `GeometryCollection` from $geometries[]
   $geometryCollection = [
     'type' => 'GeometryCollection',
     'geometries' => $geometries

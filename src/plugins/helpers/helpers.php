@@ -11,51 +11,62 @@ function flatten_array(array $array) {
   return $flattened_array;
 }
 
-// Generate `LineString` object for use in GeoJSON
-// $uids = Array of station UIDs, e.g. [brighton, new-cross]
-// TODO: Accepts only a single page() instead of array of UIDs
-function generateLineString($uids) {
-  foreach($uids as $uid) {
-    if (is_array($uid)) {
-      $page = page('stations/'.$uid[0]);
+// Transform array of UIDs to a Kirby Page array
+// $uids = Simple array, e.g [brighton, hove]
+function UIDStoStationPages($uids) {
+  array_walk($uids, function(&$value, $key) {
+    if (is_array($value)) {
+      $value = page('stations/'.$value[0]);
     } else {
-      $page = page('stations/'.$uid);
+      $value = page('stations/'.$value);
     }
+  });
 
+  return $uids;
+}
+
+// Generate `LineString` object for use in GeoJSON
+// $pages = Kirby Page array
+function generateLineString($pages) {
+  foreach($pages as $page) {
+    // Get latlng coordinates from page
     if(!$page->location()->empty()) {
       $coords[] = [
         $page->location()->coordinates()->lng(),
         $page->location()->coordinates()->lat()
       ];
-
-      $lineString = [
-        'type' => 'LineString',
-        'coordinates' => $coords
-      ];
     };
   }
 
   if (!empty($coords)) {
+    // Create `LineString`
+    $lineString = [
+      'type' => 'LineString',
+      'coordinates' => $coords
+    ];
+
     return $lineString;
   }
 }
 
 // Generate `Point` object for use in GeoJSON
-// $page = Page array, e.g. page('/stations/brighton')
+// $page = Kirby Page e.g. page('/stations/brighton')
 function generatePoint($page) {
   // Get latlng coordinates from page
-  $coords = [
-    $page->location()->coordinates()->lng(),
-    $page->location()->coordinates()->lat()
-  ];
-
-  // Create `Point`
-  $point = [
-    'type' => 'Point',
-    'coordinates' => $coords
-  ];
+  if(!$page->location()->empty()) {
+    $coords = [
+      $page->location()->coordinates()->lng(),
+      $page->location()->coordinates()->lat()
+    ];
+  }
 
   if (!empty($coords)) {
+    // Create `Point`
+    $point = [
+      'type' => 'Point',
+      'coordinates' => $coords
+    ];
+
     return $point;
   }
 }
