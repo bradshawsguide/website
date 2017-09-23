@@ -11,12 +11,6 @@
   pointer-events: none;
   padding: 0 var(--page-gutter);
   color: $__color-neutral-lightest;
-
-  @media (min-width: $__breakpoint-medium) {
-    .has-poster & {
-      color: $__color-neutral-darkest;
-    }
-  }
 }
 
 .c-navigation__title {
@@ -26,7 +20,11 @@
 .c-navigation__list {
   display: flex;
   justify-content: flex-end;
-  box-shadow: 0 1px 0;
+  box-shadow: 0 1px 0 rgba($__color-neutral-lightest, 0.25);
+
+  .has-poster & {
+    box-shadow: none;
+  }
 }
 
 .c-navigation__item {

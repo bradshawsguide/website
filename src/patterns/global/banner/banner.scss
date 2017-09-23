@@ -19,8 +19,8 @@
       right: 0;
       left: 0;
       z-index: $__z-index-default;
-      background-color: transparent;
-      color: $__color-neutral-darkest;
+      background-color: rgba($__color-neutral-darkest, 0.9);
+      backdrop-filter: blur(6px);
     }
   }
 }
