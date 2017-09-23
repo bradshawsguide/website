@@ -16,6 +16,10 @@ stops:
 - mostyn
 - prestatyn
 - rhyl
+- abergele
+- llandulas
+- colwyn
+- [llandudno-junction, deganwy, llandudno]
 ----
 text: To tourists the Chester and Holyhead line offers an admirable means of reaching easily the most interesting spots in North Wales. Conway, with its glorious old castle and bridges, and Carnarvon, are within easy distance, as is also Snowdon's huge peak, with the Clwydian Vale, and many other vallies of great beauty and celebrity, with an infinity of picturesque hills, waterfalls, and rums. The Menai Bridge should not be forgotten by the traveller along this line of railway, nor its still more wondrous neighbours the Conway and Britannia Tubular Bridges. The latter, in particular, is a mighty construction, its proportions being gigantic in the extreme, and impressing the beholder with admiration at its surpassing grandeur and design.
 
@@ -59,3 +63,25 @@ The village of *Gwespyr*, celebrated for its quarries of freestone, is situated 
 *Talacre*, the beautiful seat of Sir Pyers Mostyn, Bart, is situated on a gentle eminence. It is a very splendid mansion with two fronts, and commands magnificent views of the sea. The village on the hill is *Gronant*; above which is the Observatory. On the right, close to the shore, is the life boat house. [Prestatyn](/stations/prestatyn).
 
 Proceeding onward we pass the village of *Melidan* with its rural Church, on the left; close to which, under a rock, are situated the Talargoch Lead Mines, celebrated as having produced more lead ore than any other mine in the country during the last century, the quantity raised averaging 3,000 tons annually The ruins of *Dyserth Castle*, built in Henry II.'s time, are in the vicinity; and a mile beyond which is *Bodryddon*, the ancient seat of the Conways, situated in a fine forest. [Rhyl](/stations/rhyl).
+
+### Rhyl to Conway
+Upon leaving the Rhyl station the line proceeds on an embankment and drawbridge over the river Foryd. The extensive tract of land on the left is the celebrated spot where the battle of Rhuddlan Marsh took place in 785; this marsh was secured from the encroachments of the sea in 1799, enclosing about 27,000 acres of sandy loam land.
+
+The village on the hill is called *St. George*, or *Llan St. Sior*. [Abergele](/stations/abergele).
+
+On proceeding onward from the Abergele station, we observe some huge rocks on the right, some miles before us, which are called the Great Orme's Head, a high promontory, projecting from the main land into the sea. We next pass the village of [Llandulas](/stations/llandulas), situated in a glen surrounded with lime-stone rocks.
+
+Nearly 100,000 tons of stone are extracted from the
+quarries here, and shipped annually to all parts
+of the country.
+
+On emerging from the Penmaen Rhos tunnel, we see the village of [Colwyn](/stations/colwyn) on the left; and further on up the valley, that of *Llanelian*, celebrated for its Cursing Well or Ffynnon Eilian.
+
+Further on towards the shore, is the village of *Landrilio*, formerly the residence of a British King.
+
+Proceeding onwards on the left is seen the newly erected mansion of Sir Thomas Erskine, Bart. The line then passes through the small vale Mochtre, and winds round in the direction of Conway to [Llandudno Junction](/stations/llandudno-junction), the point of deviation of the **St. George's Harbour**.
+
+### Conway to Llandudno
+The distant landscapes and marine views presented to the eye of the tourist as he passes along this little line, commanding as it does the full scope of the beautiful Bay of Beaumaris, are of a most varied and interesting character. In ten minutes after passing the junction and the station of [Deganwy](/stations/deganwy), the arrival of the train is announced at [Llandudno](/stations/llandudno).
+
+Retracing our steps to Llandudno Junction, we take another turn along the [Conway & Llanrwst](#).
