@@ -1,3 +1,0 @@
-title: Caernarfonshire
-----
-country: Wales

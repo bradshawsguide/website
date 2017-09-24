@@ -2,7 +2,7 @@ section: 2
 ----
 title: Llandudno
 ----
-region: caernarfonshire
+region: carnarvonshire
 ----
 location: 53.320454, -3.827732
 ----

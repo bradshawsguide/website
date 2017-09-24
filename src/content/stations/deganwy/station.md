@@ -2,7 +2,7 @@ section: 2
 ----
 title: Deganwy
 ----
-region: caernarfonshire
+region: carnarvonshire
 ----
 location: 53.294308, -3.832617
 ----

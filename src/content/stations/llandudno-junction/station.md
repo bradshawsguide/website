@@ -2,7 +2,7 @@ section: 2
 ----
 title: Llandudno Junction
 ----
-region: caernarfonshire
+region: carnarvonshire
 ----
 location: 53.283871, -3.809669
 ----
@@ -11,6 +11,7 @@ company:
 ----
 route:
 - chester-to-holyhead
+- conway-to-llanrwst
 ----
 links:
 - (nationalrail: LLJ)
