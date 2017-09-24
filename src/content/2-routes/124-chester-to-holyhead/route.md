@@ -20,6 +20,10 @@ stops:
 - llandulas
 - colwyn
 - [llandudno-junction, deganwy, llandudno]
+- conway
+- penmaen-mawr
+- aber
+- bangor
 ----
 text: To tourists the Chester and Holyhead line offers an admirable means of reaching easily the most interesting spots in North Wales. Conway, with its glorious old castle and bridges, and Carnarvon, are within easy distance, as is also Snowdon's huge peak, with the Clwydian Vale, and many other vallies of great beauty and celebrity, with an infinity of picturesque hills, waterfalls, and rums. The Menai Bridge should not be forgotten by the traveller along this line of railway, nor its still more wondrous neighbours the Conway and Britannia Tubular Bridges. The latter, in particular, is a mighty construction, its proportions being gigantic in the extreme, and impressing the beholder with admiration at its surpassing grandeur and design.
 
@@ -84,4 +88,16 @@ Proceeding onwards on the left is seen the newly erected mansion of Sir Thomas E
 ### Conway to Llandudno
 The distant landscapes and marine views presented to the eye of the tourist as he passes along this little line, commanding as it does the full scope of the beautiful Bay of Beaumaris, are of a most varied and interesting character. In ten minutes after passing the junction and the station of [Deganwy](/stations/deganwy), the arrival of the train is announced at [Llandudno](/stations/llandudno).
 
-Retracing our steps to Llandudno Junction, we take another turn along the [Conway & Llanrwst](#).
+Retracing our steps to Llandudno Junction, we take another turn along the [Conway & Llanrwst](/routes/conway-to-llanrwst).
+
+Returning once more to Llandudno Junction we again take our seats, and pursuing our course along the main line, suddenly approach the river, where a most magnificent landscape presents itself. The fine old town of *Conway*, with its ancient castles, walls, and towers, appears in front, and the vast range of the Carnarvonshire mountains forming a back ground, has a beautiful effect. The line runs on an embankment several hundred yards parallel with the turnpike road, and then crosses the broad expanse of the river, through the tubular bridge, that wonder of modern engineering skill, and after a few seconds of darkness we emerge into daylight, beneath the lofty shattered walls of Conway Castle. Sweeping round the base of the castle on a circle, the railway glides on and enters the town of [Conway](/stations/conway), under a pointed arch constructed in the old walls of the town. This arch gives great picturesqueness of effect to the station, which adjoins it; and the castellated character of the wall is preserved by the battlements upon it. The station is an extremely handsome and well-designed building, in the Elizabethan style, with gabled wings, rising in steps, and projecting from the main portion.
+
+Upon leaving Conway station, the line proceeds through a tunnel under one of the towers, and thence through some deep cuttings to Conway Marsh. We then cross the Holyhead road, and pass old Conway race course oh the right. Looking across the estuary the traveller will have a fine view of the nuns of Gannock Castle and Great Orme's Head. The railway then skirts the sea shore again, until it enters Penmaen Bach Tunnel, on emerging from which we perceive Penmaen Mawr, the terminating point of the Carnarvonshire range of mountains. On the summit of this hill are the ruins of an extensive fortress. It is surrounded by strong treble walls, within each of which are the foundation sites of more than 100 round towers, with ample room for 20,000 men.
+
+[Penmaen Mawr](/stations/penmaen-mawr) station; the mountain is 1,540 feet high, and Penmaen Bach hill, 837 feet.
+
+Proceeding onwards we pass in succession Penmaen Mawr tunnel, and Meini Herion, one of the most remarkable mountains in all Snowdon. On the right is *Puffin Island*, inhabited by vast numbers of birds called puffins. The railway continues for some time further along the sea shore.
+
+From the village of [Aber](/stations/aber), the railway is then carried over the Ogwen river and valley by two extensive viaducts, commanding beautiful views of the surrounding scenery.
+
+The train shortly enters the Bangor tunnel, through Bangor mountain, and, on emerging from it, arrives at [BANGOR](/stations/bangor).
