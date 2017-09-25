@@ -13,13 +13,13 @@
 
   if (count($page->featured())) {
     pattern('common/section/featured', [
-      'title' => 'Featured stations',
+      'title' => 'Featured places',
       'items' => $page->featured()
     ]);
   };
 
   pattern('common/section/list', [
-    'title' => 'Stations in '.$page->title(),
+    'title' => 'Places in '.$page->title(),
     'items' => page('stations')->children()->filterBy('region', $page->uid())
   ]);
 ?>
