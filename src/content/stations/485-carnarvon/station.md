@@ -15,7 +15,7 @@ route:
 - chester-to-holyhead
 ----
 links:
-Station adopted the Welsh spelling, *Caernarvon*, in 1926.
+Station adopted the Welsh spelling, *Caernarvon*, in 1926, and closed in 1970.
 - (disused: c/caernarvon)
 - (wikipedia: Caernarvon_railway_station)
 ----

@@ -23,9 +23,14 @@ stops:
 - conway
 - penmaen-mawr
 - aber
-- [bangor, treborth, port-dinorwic, griffiths-crossing, carnarvon]
-----
-- menai-bridge
+- bangor
+- [menai-bridge, treborth, port-dinorwic, griffiths-crossing, carnarvon]
+- llanfair
+- gaerwen
+- bodorgan
+- ty-croes
+- valley
+- holyhead
 ----
 text: To tourists the Chester and Holyhead line offers an admirable means of reaching easily the most interesting spots in North Wales. Conway, with its glorious old castle and bridges, and Carnarvon, are within easy distance, as is also Snowdon's huge peak, with the Clwydian Vale, and many other vallies of great beauty and celebrity, with an infinity of picturesque hills, waterfalls, and rums. The Menai Bridge should not be forgotten by the traveller along this line of railway, nor its still more wondrous neighbours the Conway and Britannia Tubular Bridges. The latter, in particular, is a mighty construction, its proportions being gigantic in the extreme, and impressing the beholder with admiration at its surpassing grandeur and design.
 
@@ -102,9 +107,26 @@ Proceeding onwards we pass in succession Penmaen Mawr tunnel, and Meini Herion, 
 
 From the village of [Aber](/stations/aber), the railway is then carried over the Ogwen river and valley by two extensive viaducts, commanding beautiful views of the surrounding scenery.
 
-The train shortly enters the Bangor tunnel, through Bangor mountain, and, on emerging from it, arrives at [BANGOR](/stations/bangor).
+The train shortly enters the Bangor tunnel, through Bangor mountain, and, on emerging from it, arrives at [Bangor](/stations/bangor).
 
 ### Bangor to Carnarvon and Nantlle
 The stations on this branch are [Treborth](/stations/treborth), [Port Dinorwic](/stations/port-dinorwic) (here are the slate quarries belonging to T. A. Smith, Esq., where 1,000 men are constantly employed), and [Griffith's Crossing](/stations/griffiths-crossing). [Carnarvon](/stations/carnarvon).
 
 ### Bangor to Holyhead
+Upon quitting Bangor station we almost immediately enter the Egyptian arch of Belmont Tunnel, under the Carnarvon mountains, on emerging from which we have a beautiful view of the Menai Straits, with its accompaniments, Telford's Suspension Bridge and the Britannia Tubular Bridge. In viewing the massive towers and lengthened tubes of the latter, its heavy and colossal proportions stand out in striking contrast with the slender and gossamer-like components of its older rival, the Menai Bridge, which is used for ordinary vehicles and foot passengers, both structures being situated within a mile of each other. [Menai Bridge](/stations/menai-bridge).
+
+Resuming our route from the Britannia Bridge the train enters thence into the Island of Anglesea, passing over an embankment, at the end of which is the Marquis of Anglesea's column, erected to commemorate the eminent military services of the late venerable Marquis of Anglesea. This island is 24 miles long and 17 broad, containing 4 market towns and 74 parishes; square miles, 402: population, 49,000, who jointly return one member. The soil is fertile; the chief products are grain and cattle.
+
+The railway, after passing the station of [Llanfair](/stations/llanfair), now runs parallel for some miles with the Holyhead road, passing *Plas Pen Myndd*, the ancient seat of the ancestors of the Royal House of Tudor.
+
+Further on the line gradually curves in a south-western direction, near which is Tre'r Dryu, or the habitation, of the Arch Druid, abounding in rude memorials of the religious rites practised by our forefathers.
+
+[Gaerwen](/stations/gaerwen).--The Anglesea central railways [turns off here](/routes/gaerwen-to-amlwch) to the right.
+
+The line from Gaerwen crosses the river Cefni, on a noble viaduct of 19 arches, and shortly after enters the Trefdraeth Tunnel, cut through some very hard rock, on emerging from which a fine view of Carnarvon Bay presents itself, across which are seen the Carnarvonshire hills, called the Rivals.
+
+The line now traverses the parish of Llangadwaladr, and arrives at [Bodorgam](/stations/bodorgam).
+
+The line from [Tŷ Croes](/stations/ty-croes) runs parallel with the Stanley embankment, which crosses the sands and an arm of the sea. On the right is the mansion of the Hon. W. Owen Stanley, M.P., in *Penrhos Park*, and a quarter of a mile east of which is Penrhyn, a cliff projecting into the sea.
+
+Beyond [Valley](/stations/valley) station, we shortly after arrive at [Holyhead](/stations/holyhead).

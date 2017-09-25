@@ -2,7 +2,7 @@ section: 2
 ----
 title: Beaumaris
 ----
-region: anglesey
+region: anglesea
 ----
 location: 53.267, -4.093
 ----

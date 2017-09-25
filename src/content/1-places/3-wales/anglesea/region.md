@@ -1,3 +1,3 @@
-title: Anglesey
+title: Anglesea
 ----
 country: Wales
