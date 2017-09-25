@@ -13,6 +13,7 @@ route:
 - chester-to-holyhead
 ----
 links:
+Station closed in 1960.
 - (disused: a/aber)
 - (wikipedia: Aber_&#x28;LNWR&#x29;_railway_station)
 ----

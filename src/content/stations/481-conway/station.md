@@ -15,7 +15,7 @@ route:
 - chester-to-holyhead
 ----
 links:
-Station renamed *Conwy* in 1987.
+Station adopted the Welsh spelling, *Conwy*, in 1987.
 - (nationalrail: CNW)
 - (wikipedia: Conwy_railway_station)
 ----

@@ -91,8 +91,13 @@
     }
   }
 
+  em {
+    line-height: 0; // Libertine Italic affects line-height
+  }
+
   strong {
     font-family: $__font-family-slab;
+    line-height: 0; // Kameron affects line-height
   }
 
   ul li {

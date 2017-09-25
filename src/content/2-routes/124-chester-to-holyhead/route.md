@@ -23,7 +23,9 @@ stops:
 - conway
 - penmaen-mawr
 - aber
-- bangor
+- [bangor, treborth, port-dinorwic, griffiths-crossing, carnarvon]
+----
+- menai-bridge
 ----
 text: To tourists the Chester and Holyhead line offers an admirable means of reaching easily the most interesting spots in North Wales. Conway, with its glorious old castle and bridges, and Carnarvon, are within easy distance, as is also Snowdon's huge peak, with the Clwydian Vale, and many other vallies of great beauty and celebrity, with an infinity of picturesque hills, waterfalls, and rums. The Menai Bridge should not be forgotten by the traveller along this line of railway, nor its still more wondrous neighbours the Conway and Britannia Tubular Bridges. The latter, in particular, is a mighty construction, its proportions being gigantic in the extreme, and impressing the beholder with admiration at its surpassing grandeur and design.
 
@@ -101,3 +103,8 @@ Proceeding onwards we pass in succession Penmaen Mawr tunnel, and Meini Herion, 
 From the village of [Aber](/stations/aber), the railway is then carried over the Ogwen river and valley by two extensive viaducts, commanding beautiful views of the surrounding scenery.
 
 The train shortly enters the Bangor tunnel, through Bangor mountain, and, on emerging from it, arrives at [BANGOR](/stations/bangor).
+
+### Bangor to Carnarvon and Nantlle
+The stations on this branch are [Treborth](/stations/treborth), [Port Dinorwic](/stations/port-dinorwic) (here are the slate quarries belonging to T. A. Smith, Esq., where 1,000 men are constantly employed), and [Griffith's Crossing](/stations/griffiths-crossing). [Carnarvon](/stations/carnarvon).
+
+### Bangor to Holyhead
