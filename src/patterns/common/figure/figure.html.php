@@ -3,10 +3,10 @@
 ?>
 <figure class="c-figure<?= $modifier ?>">
 <? if ($image->position() == 'pull-right'): ?>
-  <div class="c-figure__img u-artwork" style="background-image: url(<?= $image->crop(5, 6)->dataUri() ?>)">
+  <div class="c-figure__img u-artwork" style="background-image: url(<?= $image->crop(3, 4)->dataUri() ?>)">
     <img
-      srcset="<?= $image->crop(300, 360, 80)->url() ?> 300w, <?= $image->crop(150, 180, 80)->url() ?> 150w"
-      src="<?= $image->crop(150, 180, 80)->url() ?>"
+      srcset="<?= $image->crop(600, 800, 80)->url() ?> 600w, <?= $image->crop(300, 400, 80)->url() ?> 300w, <?= $image->crop(150, 200, 80)->url() ?> 150w"
+      src="<?= $image->crop(150, 200, 80)->url() ?>"
       sizes="(max-width: 640px) 100vw, 18em"
       alt=""/>
   </div>
