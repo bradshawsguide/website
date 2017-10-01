@@ -34,6 +34,11 @@
     'title' => 'Routes operated',
     'items' => page('routes')->children()->filterBy('company', '*=', $page->uid())
   ]);
+
+  pattern('common/section/links', [
+    'title' => 'Further reading',
+    'links' => $page->links()
+  ]);
 ?>
 </article>
 

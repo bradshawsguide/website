@@ -1,6 +1,8 @@
 <?
   // NOTE: Same code used on Routes index and Company page
   // TODO: Might want to merge the two, somehow.
+  $features = [];
+
   foreach ($routes as $route) {
     $stops = $route->stops()->yaml();
 

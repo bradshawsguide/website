@@ -2,9 +2,7 @@ section: 2
 ----
 title: Tondu to Porthcawl
 ----
-line: Ogmore Railway
-----
-company: llynvi-valley
+company: ogmore-valley
 ----
 stops:
 - tondu

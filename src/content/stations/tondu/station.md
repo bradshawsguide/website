@@ -8,7 +8,7 @@ location: 51.547179, -3.595687
 ----
 company:
 - llynvi-valley
-- ogmore
+- ogmore-valley
 ----
 route:
 - bridgend-to-maesteg

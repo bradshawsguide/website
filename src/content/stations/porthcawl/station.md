@@ -7,7 +7,7 @@ region: glamorganshire
 location: 51.480742, -3.7037002
 ----
 company:
-- ogmore
+- ogmore-valley
 ----
 route:
 - tondu-to-porthcawl

@@ -2,9 +2,9 @@ section: 2
 ----
 title: Exeter to Exmouth
 ----
-line_later: Avocet Line
+line: Avocet Line
 ----
-company: exeter-and-exmouth
+company: london-and-south-western
 ----
 stops:
 - exeter-queen-street

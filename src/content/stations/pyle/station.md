@@ -7,7 +7,7 @@ region: glamorganshire
 location: 51.52507, -3.697263
 ----
 company:
-- ogmore
+- ogmore-valley
 - great-western
 ----
 route:

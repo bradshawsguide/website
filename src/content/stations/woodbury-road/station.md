@@ -9,7 +9,7 @@ region: devonshire
 location: 50.667862, -3.443984
 ----
 company:
-- exeter-and-exmouth
+- london-and-south-western
 ----
 route:
 - exeter-to-exmouth

@@ -1,6 +1,9 @@
 section: 1
 ----
-title: London, Brighton, and South Coast Railway
+title: London, Brighton and South Coast Railway
+----
+links:
+- (wikipedia: London, Brighton and South Coast Railway)
 ----
 text: The London and Brighton Railway is 50½ miles in length, and traverses a considerable portion of the counties of [Surrey](/places/england/surrey) and [Sussex](/places/england/sussex).
 
