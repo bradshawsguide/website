@@ -26,12 +26,12 @@
   <meta property="og:url" content="<?= $page->url() ?>"/>
   <meta property="og:title" content="<?= str::unhtml($page->title()) ?>"/>
 <? if(!$page->desc()->empty()): ?>
-  <meta property="og:description" content="<?= $page->desc() ?>"/>
+  <meta property="og:description" content="<?= str::xml($page->desc()) ?>"/>
 <? else: ?>
-  <meta property="og:description" content="<?= $site->desc() ?>"/>
+  <meta property="og:description" content="<?= str::xml($site->desc()) ?>"/>
 <? endif ?>
-<? if($page->image()->name() == 'cover'): ?>
-  <meta property="og:image" content="<?= $page->image()->crop(640, 360)->url() ?>"/>
+<? if($image = $page->image('cover.jpg')): ?>
+  <meta property="og:image" content="<?= $image()->crop(640, 360)->url() ?>"/>
   <meta name="twitter:card" content="summary_large_image"/>
 <? else: ?>
   <meta property="og:image" content="<?= url('/assets/icons/app.jpg') ?>"/>
