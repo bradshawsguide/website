@@ -2,7 +2,9 @@ title: About Bradshaw's Guide
 ----
 title_short: About
 ----
-text: Like the popular BBC television series <cite>[Great British Railway Journeys](http://www.bbc.co.uk/programmes/b00xgqxy)</cite>, this site is inspired by the work of Victoria cartographer, printer and publisher [George Bradshaw](http://en.wikipedia.org/wiki/George_Bradshaw).
+desc: This site is inspired by the work of Victorian cartographer, printer and publisher George Bradshaw.
+----
+text: Like the popular BBC television series <cite>[Great British Railway Journeys](http://www.bbc.co.uk/programmes/b00xgqxy)</cite>, this site is inspired by the work of Victorian cartographer, printer and publisher [George Bradshaw](http://en.wikipedia.org/wiki/George_Bradshaw).
 
 ### George Bradshaw
 Born at Windsor Bridge, Pendleton, Lancashire, on the 29th of July 1801, upon leaving school he became apprenticed to an engraver named Beale in Manchester. In 1820 he set up his own engraving business in Belfast, returning to Manchester in 1822 to set up in that city as an engraver and printer--principally of maps.
