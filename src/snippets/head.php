@@ -30,7 +30,7 @@
 <? else: ?>
   <meta property="og:description" content="<?= $site->desc() ?>"/>
 <? endif ?>
-<? if($page->hasImages()): ?>
+<? if($page->image()->name() == 'cover'): ?>
   <meta property="og:image" content="<?= $page->image()->crop(640, 360)->url() ?>"/>
   <meta name="twitter:card" content="summary_large_image"/>
 <? else: ?>
