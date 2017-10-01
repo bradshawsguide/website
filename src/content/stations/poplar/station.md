@@ -11,3 +11,8 @@ company:
 ----
 route:
 - fenchurch-street-to-blackwall
+----
+links:
+Station closed in 1926.
+- (disused: p/poplar/index1.shtml)
+- (wikipedia: Poplar_railway_station)

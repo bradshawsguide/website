@@ -11,3 +11,9 @@ company:
 ----
 route:
 - fenchurch-street-to-chalk-farm
+----
+links:
+Station closed in 1986, and reopened in 2010.
+- (nationalrail: DLJ)
+- (disused: b/broad_street)
+- (wikipedia: Broad_Street_railway_station_&#x28;London&#x29;)

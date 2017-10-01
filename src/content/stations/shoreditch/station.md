@@ -11,3 +11,8 @@ company:
 ----
 route:
 - fenchurch-street-to-chalk-farm
+----
+links:
+Station closed in 1940.
+- (disused: s/shoreditch)
+- (wikipedia: Shoreditch_railway_station)

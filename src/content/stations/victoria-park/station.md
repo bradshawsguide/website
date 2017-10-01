@@ -12,4 +12,8 @@ company:
 route:
 - fenchurch-street-to-chalk-farm
 ----
-text: A little to the right an extensive view over the Hackney marshes, terminating with a considerable portion of the well-wooded scenery of Essex. Passing onward, through the verdant fields, we come to the retired village of *Homerton*, the church and parsonage house of which are pleasing specimens of architecture. We now arrive at [Hackney](/stations/hackney).
+links:
+- (disused: v/victoria_park/index0.shtml)
+- (wikipedia: Victoria_Park_%26_Bow_railway_station)
+----
+text: A little to the right an extensive view over the Hackney marshes, terminating with a considerable portion of the well-wooded scenery of Essex.

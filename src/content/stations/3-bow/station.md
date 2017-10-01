@@ -24,4 +24,4 @@ info:
 notes:
 - A telegraph station.
 ----
-text: At Bow the train receives and puts down passengers; and soon after starting from which we find ourselves in an open country; on the left is [Victoria Park](/stations/victoria-park).
+text: At Bow the train receives and puts down passengers; and soon after starting from which we find ourselves in an open country.
