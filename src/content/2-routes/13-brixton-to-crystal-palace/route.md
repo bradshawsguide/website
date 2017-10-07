@@ -13,3 +13,6 @@ stops:
 - honor-oak
 - lordship-lane
 - crystal-palace-high-level
+----
+links:
+- (wikipedia: Crystal_Palace_and_South_London_Junction_Railway)

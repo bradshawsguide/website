@@ -44,6 +44,9 @@ stops:
 - temple-ewell
 - dover
 ----
+links:
+- (wikipedia: Chatham_main_line)
+----
 text: On leaving [Farringdon Street](/stations/farringdon-street) the line is carried across [Ludgate Hill](/stations/ludgate-hill) by means of a highly ornamented viaduct, and from thence over the Alexandra Bridge, a truly magnificent specimen of engineering skill, to [Blackfriars](/stations/blackfriars). The Charing Cross railway attracts our attention for a moment, when, on passing the station at [Borough Road](/stations/borough-road), we arrive at the well-known station of the
 
 [Elephant and Castle](/stations/elephant-and-castle), from whence omnibuses may be had to almost every part of the metropolis.

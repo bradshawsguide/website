@@ -16,7 +16,7 @@ export default function (el, url) {
       color: '#d63636',
       fillColor: '#fff',
       fillOpacity: 1,
-      radius: zoom * (1 / 2),
+      radius: zoom * (1 / 4),
       weight: zoom * (1 / 3),
       opacity: 1
     });

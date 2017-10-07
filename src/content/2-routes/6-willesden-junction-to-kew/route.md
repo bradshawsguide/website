@@ -9,6 +9,9 @@ stops:
 - [acton, hammersmith]
 - kew
 ----
+links:
+- (wikipedia: North_and_South_Western_Junction_Railway)
+----
 text: About one mile beyond [Willesden Junction](/stations/willesden-junction) we cross the Great Western, and another mile brings us to the town of [Acton](/stations/acton).
 
 ### Hammersmith branch

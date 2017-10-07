@@ -10,3 +10,6 @@ stops:
 - sittingbourne
 - queenborough
 - sheerness
+----
+links:
+- (wikipedia: Sheerness_line)

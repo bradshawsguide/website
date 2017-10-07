@@ -1,6 +1,4 @@
 <?
-  // NOTE: Same code used on Routes index and Company page
-  // TODO: Might want to merge the two, somehow.
   $features = [];
 
   foreach ($routes as $route) {
@@ -16,6 +14,14 @@
       if (is_array($stop)) {
         array_push($geometries, generateLineString(UIDStoStationPages($stop)));
       }
+    }
+
+    // Create `Point`s for each stop
+    foreach (flatten_array($stops) as $stop) {
+      $stop = page('/stations/'.$stop);
+
+      // Add `Point` to $geometries[]
+      array_push($geometries, generatePoint($stop));
     }
 
     // Create `GeometryCollection` from $geometries[]

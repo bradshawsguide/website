@@ -15,4 +15,7 @@ stops:
 - broadstairs
 - ramsgate-harbour
 ----
+links:
+- (wikipedia: Kent_Coast_line)
+----
 text: This branch turns off to the left at [Faversham](/stations/faversham), taking a direction coastwise by the Whitstable Flats to [Whitstable](/stations/whitstable). A distance of 3¾ miles further brings us to [Herne Bay](/stations/herne-bay).
