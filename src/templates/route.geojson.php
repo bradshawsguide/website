@@ -1,13 +1,15 @@
 <?
-  $geometries = [];
   $stops = $page->stops()->yaml();
+
+  // Create `LineString` for route and add to $geometries[]
+  $geometries = [
+    generateLineString(UIDStoStationPages($stops))
+  ];
 
   // Create `LineString` for route and add to $geometries[]
   foreach ($stops as $stop) {
     if (is_array($stop)) { // Stop is a branch (an array of stops)
       array_push($geometries, generateLineString(UIDStoStationPages($stop)));
-    } else {
-      array_push($geometries, generateLineString(UIDStoStationPages($stops)));
     }
   }
 
