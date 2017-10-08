@@ -15,6 +15,7 @@
 
   .c-result:hover & {
     text-decoration: underline;
+    color: $__color-link-hover;
   }
 }
 
@@ -22,10 +23,11 @@
   color: $__color-neutral-dark;
 }
 
-.c-result__url {
-  @include typeset("caption");
+.c-result__footer {
+  @include typeset("prose");
 
-  .c-result:hover & {
-    color: $__color-link;
-  }
+  --font-size-prose: $__font-size-text-small;
+  margin-right: $__space-xxsmall;
+  font-style: italic;
+  color: $__color-neutral-mid;
 }

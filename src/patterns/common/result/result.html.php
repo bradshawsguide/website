@@ -10,7 +10,10 @@
           'content' => !$result->desc()->empty() ? $result->desc() : excerpt($result->text(), $length=240)
         ]);
       ?>
-      <p class="c-result__url"><?= $result->uri() ?></p>
     </div>
+
+    <footer class="c-result__footer">
+      <p><?= str::ucfirst($result->intendedTemplate()) ?></p>
+    </footer>
   </a>
 </article>

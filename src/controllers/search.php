@@ -9,6 +9,7 @@ return function($site, $pages, $page) {
     'fields' => ['title','text'],
     'words' => true,
     'score' => [
+      'region' => 20,
       'title' => 10,
       'route' => 2,
       'text' => 1

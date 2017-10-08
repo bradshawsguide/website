@@ -46,9 +46,20 @@
     line-height: if($line-height, $line-height, $__line-height-baseline);
   }
 
+  @else if $preset == "text" {
+    font-family: $__font-family-sans;
+    font-size: $__font-size-text-small;
+    font-weight: if($font-weight, $font-weight, normal);
+    font-variant: common-ligatures oldstyle-nums;
+    line-height: if($line-height, $line-height, $__line-height-relaxed);
+    hanging-punctuation: first;
+    hyphens: auto;
+  }
+
   @else if $preset == "caption" {
     font-family: $__font-family-sans;
     font-size: $__font-size-text-xsmall;
+    font-weight: if($font-weight, $font-weight, normal);
     font-variant: common-ligatures oldstyle-nums;
     line-height: if($line-height, $line-height, $__line-height-default);
     hanging-punctuation: first;
@@ -58,17 +69,9 @@
   @else if $preset == "prose" {
     font-family: $__font-family-serif;
     font-size: var(--font-size-prose);
+    font-weight: if($font-weight, $font-weight, normal);
     font-variant: common-ligatures oldstyle-nums;
     line-height: if($line-height, $line-height, $__line-height-relaxed);
-    hanging-punctuation: first;
-    hyphens: auto;
-  }
-
-  @else if $preset == "text" {
-    font-family: $__font-family-serif;
-    font-size: $__font-size-text-medium;
-    font-variant: common-ligatures oldstyle-nums;
-    line-height: if($line-height, $line-height, $__line-height-loose);
     hanging-punctuation: first;
     hyphens: auto;
   }
@@ -81,7 +84,7 @@
       $__font-size-display-large
     );
     font-family: $__font-family-slab;
-    font-weight: bold;
+    font-weight: if($font-weight, $font-weight, bold);
     font-variant: common-ligatures discretionary-ligatures proportional-nums;
     line-height: if($line-height, $line-height, $__line-height-default);
     text-rendering: optimizeLegibility;
@@ -90,7 +93,7 @@
   @else if $preset == "heading" {
     font-family: $__font-family-slab;
     font-size: $__font-size-display-small;
-    font-weight: bold;
+    font-weight: if($font-weight, $font-weight, bold);
     font-variant: common-ligatures discretionary-ligatures proportional-nums;
     line-height: if($line-height, $line-height, $__line-height-default);
     text-rendering: optimizeLegibility;
