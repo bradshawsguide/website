@@ -12,11 +12,14 @@ stops:
 links:
 - (wikipedia: North_and_South_Western_Junction_Railway)
 ----
-text: About one mile beyond [Willesden Junction](/stations/willesden-junction) we cross the Great Western, and another mile brings us to the town of [Acton](/stations/acton).
+text: About one mile beyond [Willesden Junction](/stations/willesden-junction) we cross the Great Western, and another mile brings us to the town of
 
-### Hammersmith branch
-A short branch, 1¼ mile, turns off to the left at [Acton](/stations/acton), by which the tourist is enabled to visit [Hammersmith](/stations/hammersmith).
+(station: acton)
 
-* * *
+A short branch, 1¼ mile, turns off to the left here, by which the tourist is enabled to visit
 
-[Retracing our route to Acton](/stations/acton), and pursuing our course onward a mile and a half, we are brought to our destination at [Kew](/stations/kew).
+(station: hammersmith)
+
+Retracing our route to Acton, and pursuing our course onward a mile and a half, we are brought to our destination at
+
+(station: kew)

@@ -12,7 +12,7 @@ company:
 - london-chatham-and-dover
 ----
 route:
-- london-to-chatham-and-dover
+- farringdon-street-to-herne-hill
 ----
 links:
 The original *Blackfriars Bridge* station closed to passengers in 1885, and closed completely in 1964.

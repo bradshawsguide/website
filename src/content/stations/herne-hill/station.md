@@ -11,4 +11,4 @@ company:
 ----
 route:
 - london-to-chatham-and-dover
-- victoria-to-herne-hill
+- farringdon-street-to-herne-hill

@@ -10,4 +10,4 @@ company:
 - london-chatham-and-dover
 ----
 route:
-- sevenoaks-junction-to-sevenoaks
+- london-to-chatham-and-dover

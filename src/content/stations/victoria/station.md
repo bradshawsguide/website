@@ -11,5 +11,5 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- victoria-to-herne-hill
+- london-to-chatham-and-dover
 - victoria-to-crystal-palace

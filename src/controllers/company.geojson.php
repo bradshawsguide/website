@@ -1,7 +1,7 @@
 <?
 
 return function($site, $pages, $page) {
-  $routes = page('routes')->children()->filterBy('company', '*=', $page->uid());
+  $routes = page('routes')->children()->filterBy('company', '*=', $page->uid())->flip();
 
   // Filter by section
   if ($sectionParam = param('section')) {

@@ -55,7 +55,7 @@
     }
 
     &[href^="/stations/"] {
-      font-feature-settings: "smcp" on;
+      font-variant-caps: small-caps;
     }
 
     &[href^="/routes/"] {
@@ -209,6 +209,24 @@
 
   .frac-denom {
     margin-left: 0.05em;
+  }
+
+  // Station links
+  .station {
+    display: block;
+    margin: 1.25em 0 0.5em;
+    letter-spacing: 0.025em;
+    text-indent: 0;
+    text-transform: uppercase;
+
+    a {
+      text-decoration: none;
+    }
+
+    a::after {
+      content: "\0020\261E"; // ☞
+      font-family: serif;
+    }
   }
 
   // Footnotes

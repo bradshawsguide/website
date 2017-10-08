@@ -13,4 +13,4 @@ route:
 - charing-cross-to-greenwich
 ----
 notes:
-- A telegraph station; and the latter with that of Commercial Dock, a telegraph station.
+- A telegraph station

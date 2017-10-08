@@ -12,4 +12,4 @@ company:
 - london-chatham-and-dover
 ----
 route:
-- victoria-to-herne-hill
+- london-to-chatham-and-dover

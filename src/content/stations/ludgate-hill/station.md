@@ -10,4 +10,4 @@ company:
 - london-chatham-and-dover
 ----
 route:
-- london-to-chatham-and-dover
+- farringdon-street-to-herne-hill

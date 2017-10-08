@@ -16,3 +16,5 @@ stops:
 ----
 links:
 - (wikipedia: Crystal_Palace_and_South_London_Junction_Railway)
+----
+text: The line used for the [Crystal Palace](/stations/crystal-palace) traffic takes rather a circuitous course eastward from [Brixton](/stations/brixton) station, passing [Denmark Hill](/stations/denmark-hill), [Peckham Rye](/stations/peckham-rye), [Honor Oak](/stations/honor-oak), and [Lordship Lane](/stations/lordship-lane), to the [Crystal Palace](/stations/crystal-palace-high-level).
