@@ -27,6 +27,9 @@ stops:
 - wokingham
 - reading-southern
 ----
+links:
+- (wikipedia: Waterloo–Reading_line)
+----
 text: ### Wandsworth to Barnes
 The Richmond line properly branches off about the point where the road to the village of Battersea leaves the Wandsworth road, and at a short distance from Battersea. It then pursues a pretty course through the villas, orchards, and nursery gardens which stud that locality, till it reaches Wandsworth. The river Wandle and the valley are crossed by a splendid viaduct.
 

@@ -35,6 +35,9 @@ stops:
 - broad-clyst
 - exeter-queen-street
 ----
+links:
+- (wikipedia: West_of_England_line)
+----
 text: After leaving Basingstoke the line proceeds through a chalky range, from which various parks may be seen extending on every side--blended with scattered villages Passing the stations of [Oakley](/stations/oakley), [Overton](/stations/overton), and [Whitchurch](/stations/whitchurch), we arrive at the important station of [Andover](/stations/andover).
 
 At [Chard Road](/stations/chard-road) the railway diverges to the right, three miles long, to the town of [Chard](/stations/chard).

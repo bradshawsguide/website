@@ -19,3 +19,6 @@ stops:
 - pewsey
 - woodborough
 - devizes
+----
+links:
+- (wikipedia: Berks_and_Hants_Railway)

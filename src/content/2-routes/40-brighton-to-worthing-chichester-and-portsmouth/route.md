@@ -32,4 +32,7 @@ stops:
 - havant
 - portsmouth
 ----
+links:
+- (wikipedia: West_Coastway_line)
+----
 text: On leaving the terminus the line turns off abruptly towards the east, and passing through the New England tunnel, cut in the chalk cliff beneath Henfield Road, reaches the station at [Hove](/stations/hove).

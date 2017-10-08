@@ -38,6 +38,9 @@ stops:
 - keynsham
 - bristol
 ----
+links:
+- (wikipedia: Great_Western_main_line)
+----
 text: ### London to Slough
 
 The *Metropolitan Terminus* of the Great Western Railway is situated on the western side of the Paddington Canal, in a line with Praed-street, Paddington, at the north-west extremity of London, and at a short distance from the northern avenues to Hyde Park, thus affording an easy access to and from all parts of town. Omnibuses leave the City one hour before the departure of each train, and call at all the booking-offices on their way, winch, in addition to the cabs, leave the passenger at no loss for a prompt conveyance to this Terminus--one of the largest and most commodious stations in London. Its external appearance is not very remarkable,--but the booking-offices are convenient, the waiting rooms comfortable, the platforms, for the arrival and departure trains, spacious enough to accommodate the largest number of excursionists ever accumulated,--and the vast area embraced by the immense roofs by which the station is covered, impart to the mind of the traveller the impression that he is about to start by the railway of a first-rate company.

@@ -10,3 +10,6 @@ stops:
 - twyford
 - shiplake
 - henley
+----
+links:
+- (wikipedia: Henley_branch_line)

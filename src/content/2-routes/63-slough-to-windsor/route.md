@@ -10,3 +10,6 @@ stops:
 - slough
 - eton
 - windsor-central
+----
+links:
+- (wikipedia: Slough–Windsor_%26_Eton_line)

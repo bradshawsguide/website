@@ -22,6 +22,9 @@ stops:
 - littlemore
 - oxford
 ----
+links:
+- (wikipedia: Wycombe_Railway)
+----
 text: From Maidenhead we pass [Taplow](/stations/taplow), [Cookham](/stations/cookham), [Marlow Road](/stations/marlow-road), [Woburn Green](/stations/woburn-green), and [Loudwater](/stations/loudwater), stations of no great importance, and arrive at [High Wycombe](/stations/high-wycombe).
 
 Wycombe is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.

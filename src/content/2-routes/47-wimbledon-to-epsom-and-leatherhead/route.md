@@ -14,4 +14,7 @@ stops:
 - ashtead
 - leatherhead
 ----
+links:
+- (wikipedia: Sutton_and_Mole_Valley_lines)
+----
 text: This branch is intended subsequently to unite with the London and Portsmouth Direct, at Godalming, *via* Epsom.--At present it is opened to Leatherhead, about half-way.

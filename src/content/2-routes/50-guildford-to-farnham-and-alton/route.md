@@ -4,6 +4,8 @@ title: Guildford to Farnham and Alton
 ----
 line: Alton Branch
 ----
+line_later: Alton Line
+----
 company: london-and-south-western
 ----
 stops:
@@ -17,3 +19,6 @@ stops:
 - alresford
 - itchen-abbas
 - winchester
+----
+links:
+- (wikipedia: Alton_line)
