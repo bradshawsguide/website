@@ -4,6 +4,8 @@ title: Horsham to Guildford
 ----
 line: Cranley Line
 ----
+line_later: Cranleigh Line
+----
 company: london-brighton-and-south-coast
 ----
 stops:
@@ -14,6 +16,9 @@ stops:
 - cranley
 - bramley
 - guildford
+----
+links:
+- (wikipedia: Cranleigh_line)
 ----
 text: This line passes this station of [Slinford](/stations/slinford) to [Rudgwick](/stations/rudgwick), immediately on clearing which we enter the county of Surrey, pass the antiquated farms of [Baynards](/stations/baynards) and Knowle, and arrive at
 

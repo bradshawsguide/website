@@ -20,6 +20,9 @@ stops:
 - st-leonards
 - hastings
 ----
+links:
+- (wikipedia: East_Coastway_line)
+----
 text: ### Hayward's Heath to Lewes and Newhaven.
 The line passes through an undulating, and in some places a hilly, country to [Cook's Bridge](/stations/cooks-bridge), in the vicinity of which is *Coneyburrow Park*. We have here a full view of the lofty range of the south downs, the highest point of which, *Ditching Beacon*, a little to the right, is 858 feet above the sea.
 

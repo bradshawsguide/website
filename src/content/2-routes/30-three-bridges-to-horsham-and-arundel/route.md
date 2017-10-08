@@ -4,6 +4,8 @@ title: Three Bridges to Horsham, Petworth, and Arundel
 ----
 line: Horsham Branch
 ----
+line_later: Arun Valley Line
+----
 company: london-brighton-and-south-coast
 ----
 stops:
@@ -15,6 +17,9 @@ stops:
 - [pulborough, petworth]
 - amberley
 - arundel
+----
+links:
+- (wikipedia: Arun_Valley_line)
 ----
 text: This branch is 8½ miles in length. The line proceeds from [Three Bridges](/stations/crawley) in a west-south-west direction to the station at [Crawley](/stations/crawley).
 

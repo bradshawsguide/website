@@ -15,3 +15,6 @@ stops:
 - steyning
 - bramber
 - new-shoreham
+----
+links:
+- (wikipedia: Steyning_Line)

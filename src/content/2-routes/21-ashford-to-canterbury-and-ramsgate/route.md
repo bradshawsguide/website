@@ -2,7 +2,7 @@
 ----
 title: Ashford to Canterbury, Ramsgate, &c.
 ----
-line: Ashford and Canterbury Branch
+line: Ashford to Ramsgate Line
 ----
 company: south-eastern
 ----
@@ -16,6 +16,9 @@ stops:
 - minster-junction
 - ramsgate
 - margate
+----
+links:
+- (wikipedia: Ashford_to_Ramsgate_line)
 ----
 text: ### Ashford to Canterbury
 At [Ashford](/stations/ashford), the line branches off to Canterbury, Whitstable, Sandwich, Deal, Ramsgate, and Margate, and, from the accommodation it affords to the towns through which it passes, and the exquisite beauty of the scenery along its route, will not suffer in comparison with any line of similar length in the kingdom. It follows throughout the meanderings of the river Stour, and traversing the most fertile district in the country, has one uninterrupted panorama of luxuriant fertility during its whole length.

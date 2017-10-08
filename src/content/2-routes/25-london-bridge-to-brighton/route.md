@@ -28,6 +28,9 @@ stops:
 - hassocks-gate
 - brighton
 ----
+links:
+- (wikipedia: Brighton_main_line)
+----
 text: ### London to Croydon
 The London terminus of the Brighton Railway, though approached by the same line as the South Eastern Railway, is a distinct building, occupying a considerable place to the south, at the right hand or furthest corner of the fabric, and embraces in its arrangements every thing calculated to promote the convenience of the passengers, and all that can contribute to their security. This company conveys the traffic of the counties of Surrey and Sussex, and also that with France, *via* Newhaven and Dieppe; also the passengers of the Sydenham Railway to and from the Crystal Palace.
 
