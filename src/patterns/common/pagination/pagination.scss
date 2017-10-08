@@ -1,24 +1,5 @@
 .c-pagination {
-  @include typeset("label");
-  display: flex;
-}
-
-.c-pagination__title {
-  margin-right: auto;
-}
-
-.c-pagination__link {
-  font-weight: 600;
-
-  &:last-of-type {
-    margin-left: 1rem;
-  }
-}
-
-.c-pagination__link[rel="prev"]::before {
-  content: "← ";
-}
-
-.c-pagination__link[rel="next"]::after {
-  content: " →";
+  --link-decoration: none;
+  border-top: $__rule;
+  padding: $__space-xxsmall 0 $__space-small;
 }

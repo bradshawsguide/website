@@ -1,34 +1,26 @@
 <? snippet('head') ?>
 
 <section class="c-page">
-  <?
-    pattern('common/page/header', [
-      'title' => $title
-    ])
-  ?>
+<?
+  pattern('common/page/header', [
+    'title' => $title
+  ]);
 
-  <div class="c-page__content">
-  <? if(count($results)): ?>
-    <ul class="c-list c-list--grid">
-      <? foreach($results as $result): ?>
-      <li class="c-list__item">
-        <?
-          pattern('common/card', [
-            'item' => $result
-          ])
-        ?>
-      </li>
-      <? endforeach ?>
-    </ul>
-    <?
-      pattern('common/pagination', [
-        'pagination' => $results->pagination()
-      ])
-    ?>
-  <? else: ?>
-    <p>No results for <strong><?= $query ?></strong></p>
-  <? endif ?>
-  </div>
+  if(count($results)) {
+    pattern('common/section/results', [
+      'title' => $results->pagination()->items().' pages found',
+      'results' => $results
+    ]);
+
+    pattern('common/pagination', [
+      'pagination' => $results->pagination()
+    ]);
+  } else {
+    pattern('common/section/results', [
+      'title' => 'No matches found'
+    ]);
+  }
+?>
 </section>
 
 <? snippet('foot') ?>

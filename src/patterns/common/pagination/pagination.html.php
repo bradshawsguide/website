@@ -1,16 +1,19 @@
+<? if($pagination->hasPages()): ?>
 <nav class="c-pagination">
-  <h1 class="c-pagination__title">
-    <strong><?= $pagination->items() ?></strong> results.
-    <? if($pagination->hasNextPage()): ?>
-      Showing <strong><?= $pagination->numStart() ?></strong> - <strong><?= $pagination->numEnd() ?></strong>
-    <? endif ?>
-  </h1>
+  <? if($pagination->hasPrevPage()): ?>
+    <a class="c-pagination__prev" rel="prev" href="<?= $pagination->prevPageURL() ?>" aria-label="Previous results page">Previous</a>
+  <? else: ?>
+    <span class="c-pagination__prev" aria-hidden="true">Previous</span>
+  <? endif ?>
 
-<? if($pagination->hasPrevPage()): ?>
-  <a class="c-traverse__link" rel="prev" href="<?= $pagination->prevPageURL() ?>">Previous</a>
-<? endif ?>
+  <? foreach($pagination->range(10) as $paging): ?>
+    <a href="<?= $pagination->pageURL($paging); ?>"><?= $paging; ?></a>
+  <? endforeach ?>
 
-<? if($pagination->hasNextPage()): ?>
-  <a class="c-traverse__link" rel="next" href="<?= $pagination->nextPageURL() ?>">Next</a>
-<? endif ?>
+  <? if($pagination->hasNextPage()): ?>
+    <a class="c-pagination__next" rel="next" href="<?= $pagination->nextPageURL() ?>" aria-label="Next results page">Next</a>
+  <? else: ?>
+    <span class="c-pagination__prev" aria-hidden="true">Next</span>
+  <? endif ?>
 </nav>
+<? endif ?>

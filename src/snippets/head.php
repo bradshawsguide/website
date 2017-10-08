@@ -31,7 +31,7 @@
   <meta property="og:description" content="<?= str::xml($site->desc()) ?>"/>
 <? endif ?>
 <? if($image = $page->image('cover.jpg')): ?>
-  <meta property="og:image" content="<?= $image()->crop(640, 360)->url() ?>"/>
+  <meta property="og:image" content="<?= $image->crop(640, 360)->url() ?>"/>
   <meta name="twitter:card" content="summary_large_image"/>
 <? else: ?>
   <meta property="og:image" content="<?= url('/assets/icons/app.jpg') ?>"/>

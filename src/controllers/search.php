@@ -3,11 +3,21 @@
 return function($site, $pages, $page) {
   $geo = get('g');
   $query = get('q');
-  $pages = 12;
+  $pages = 10;
+  $options = [
+    'minlength' => 2,
+    'fields' => ['title','text'],
+    'words' => true,
+    'score' => [
+      'title' => 10,
+      'route' => 2,
+      'text' => 1
+    ]
+  ];
 
   if ($query == true) { // Free text search
-    $results = $site->search($query, 'title|text');
-    $results = $results->paginate($pages);
+    $results = $site->search($query, $options);
+    $results = $results->paginate($pages, ['method' => 'query']);
     $title = "Search results for ‘".esc(get('q'))."’";
   } elseif ($geo == true) { // Geo located search
     $point = geo::point($geo);

@@ -15,8 +15,8 @@
 }
 
 .c-route-list__label {
+  @include typeset("label", $font-weight: bold);
   text-decoration: underline;
-  font-weight: bold;
 }
 
 .c-route-list__desc {
