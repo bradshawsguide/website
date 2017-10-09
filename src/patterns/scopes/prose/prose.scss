@@ -210,26 +210,88 @@
     margin-left: 0.05em;
   }
 
-  // Station links
-  .station {
-    display: block;
-    margin: 1.25em 0 0.5em;
-    letter-spacing: 0.025em;
-    text-indent: 0;
-    text-transform: uppercase;
-
-    a {
-      text-decoration: none;
-    }
-
-    a::after {
-      content: "\0020\261E"; // ☞
-      font-family: serif;
-    }
-  }
-
   // Footnotes
   .footnotes {
     @include typeset("caption");
+  }
+}
+
+.s-prose--route {
+  position: relative;
+  margin-bottom: $__space-medium;
+  box-shadow: inset 0.125rem 0 0 $__color-neutral-lighter;
+  padding: $__space-xxsmall $__space-small;
+
+  &::before,
+  &::after {
+    display: block;
+    position: absolute;
+    left: -0.4375rem;
+    width: 1rem;
+    height: 0.125rem;
+    background-color: $__color-neutral-lighter;
+    content: "";
+  }
+
+  &::before { // ┳
+    top: 0;
+  }
+
+  &::after { // ┻
+    bottom: 0;
+  }
+
+  // Station links
+  .station {
+    position: relative;
+    margin: $__space-medium ($__space-small * -1) $__space-medium ($__space-small * -2);
+    padding: $__space-small;
+    padding-left: ($__space-large + $__text-indent);
+    background-color: $__color-neutral-lighter;
+    text-decoration: none;
+
+    &::before,
+    &::after {
+      display: block;
+      position: absolute;
+      color: $__color-neutral-light;
+      content: "";
+    }
+
+    &::before { // |
+      top: 0;
+      bottom: 0;
+      left: $__space-small;
+      width: 0.125rem;
+      background-color: currentColor;
+    }
+
+    &::after { // o
+      top: $__space-large;
+      left: 0.3125rem;
+      height: 1rem;
+      width: 1rem;
+      border: 0.125rem solid;
+      border-radius: 100%;
+      margin-top: (0.5rem * -1);
+      background-color: $__color-neutral-lighter;
+    }
+
+    &:hover .station-title {
+      text-decoration: underline;
+    }
+  }
+
+  .station-title {
+    @include typeset("display3");
+  }
+
+  .station-desc {
+    @include typeset("text");
+    display: block;
+    margin-top: $__space-xxsmall;
+    margin-left: 0;
+    text-decoration: none;
+    color: initial;
   }
 }

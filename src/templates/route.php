@@ -12,6 +12,11 @@
     'subtitle' => $subtitle
   ]);
 
+  pattern('common/section/map', [
+    'title' => 'Route map',
+    'url' => $page->uri().'.geojson/'
+  ]);
+
   pattern('common/page/content');
 
   pattern('common/section/links', [

@@ -13,12 +13,6 @@
     ]);
   }
 
-  if(!$page->stops()->empty()) {
-    pattern('common/aside/route', [
-      'stops' => $page->stops()->yaml()
-    ]);
-  }
-
   if ($page->type() == 'child') {
     pattern('scopes/navigation', [
       'items' => $page->siblings()
@@ -31,7 +25,8 @@
 
   if(!$page->text()->empty()) {
     pattern('scopes/prose', [
-      'content' => $page->text()
+      'content' => $page->text(),
+      'modifier' => $page->template()
     ]);
 
     if(!isset($editable)) {
