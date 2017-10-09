@@ -17,4 +17,6 @@ stops:
 links:
 - (wikipedia: Wealden_Line)
 ----
-text: From [Lewes](/stations/lewes) this line, 7 miles long, passes through the villages of [Barcombe](/stations/barcombe) and [Isfield](/stations/isfield) to [Uckfield](/stations/uckfield).
+text: From [Lewes](/stations/lewes) this line, 7 miles long, passes through the villages of [Barcombe](/stations/barcombe) and [Isfield](/stations/isfield) to
+
+(station: uckfield)

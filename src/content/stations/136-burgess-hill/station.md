@@ -18,5 +18,3 @@ info:
 ----
 notes:
 - A telegraph station.
-----
-text: The line passes through a beautiful, cultivated, and fertile country to [Hassock's Gate](/stations/hassocks-gate).

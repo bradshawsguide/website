@@ -23,5 +23,3 @@ info:
 notes:
 - Distance from station, 1 mile.
 - A telegraph station.
-----
-text: Short lines branch off here in opposite directions to [Hailsham](/routes/polegate-to-hailsham) and [Eastbourne](/routes/polegate-to-eastbourne).

@@ -11,5 +11,3 @@ company:
 ----
 route:
 - croydon-to-epsom
-----
-text: A small town with some little trade, and a very large sheep fair.

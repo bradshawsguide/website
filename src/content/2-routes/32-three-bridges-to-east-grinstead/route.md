@@ -16,4 +16,6 @@ stops:
 links:
 - (wikipedia: Three_Bridges_to_Tunbridge_Wells_Central_Line)
 ----
-text: This branch is 6½ miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of [East Grinstead](/stations/east-grinstead).
+text: This branch is 6½ miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of
+
+(station: east-grinstead)

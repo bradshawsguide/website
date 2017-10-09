@@ -12,7 +12,6 @@ company:
 route:
 - haywards-heath-to-lewes-and-hastings
 - lewes-to-uckfield
-- lewes-to-newhaven
 - brighton-to-lewes
 ----
 info:

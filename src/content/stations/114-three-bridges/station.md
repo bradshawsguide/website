@@ -16,5 +16,3 @@ route:
 ----
 notes:
 - A telegraph station.
-----
-text: This is the junction point of the [Horsham Branch](/routes/three-bridges-to-horsham-and-arundel).

@@ -53,5 +53,3 @@ Along the great walk the water of the upper basin flows down in a series of casc
 On ordinary occasions the basins and fountains give life and freshness to the garden, but on fete days the vast waters are unloosed, and rushing upwards in a thousand streams, or dashing over the colonnades, make the whole garden ring with their tumultuous murmurings, producing a magnificent effect, a splendid brilliancy in the sunbeam, joined to the fragrance and freshness of the flowers, of which few can form a conception who have not witnessed it. One of the most curious features of the Palace is the Geological Islands, and the specimens of the extinct animals, life-like gigantic models of which are distributed over the islands and lakes.
 
 There is a splendid Refreshment Room for the first class visitors, where parties can have hot dinners served in first-rate style, at not unreasonable prices.
-
-Resuming our seats in the train we arrive at [Anerley](/stations/anerley) Station.

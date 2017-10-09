@@ -36,5 +36,3 @@ text: The town of Croydon derives its name from *croie*, chalk, and "dune", or h
 The Archbishops of Canterbury, for several centuries made the old manor house, near the church, then occasional residence A mile and a half from the town is Addiscombe, at which there is a college for the education of military students. In the vicinity likewise, is *Addington Park* (2½ miles), the present residence of the archbishops, in a very retired and rural neighbourhood.
 
 At this point there are four distinct lines of rails, an arrangement which insures the safety of travellers at the station, the main line being left free for the passage of any express or special train, and the current train turned off into what are technically termed the "sidings."
-
-The line now passes through a fine open country, and shortly reaches the junction of the [Epsom Branch](/routes/croydon-to-epsom) of the Croydon Railway.

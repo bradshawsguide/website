@@ -12,3 +12,5 @@ stops:
 ----
 links:
 - (wikipedia: Cuckoo_Line)
+----
+text: (station: hailsham)

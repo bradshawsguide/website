@@ -61,31 +61,29 @@
 
     &[href^="/routes/"] {
       position: relative;
-      margin-left: 0.25rem;
+      margin-left: 0.5rem;
       padding-left: 0.25rem;
-      white-space: nowrap;
 
       &::before,
       &::after {
         position: absolute;
         display: inline-block;
+        height: 0.625em;
         width: 6px;
         border-style: double;
         content: "";
       }
 
       &::before {
-        top: 6px;
+        top: 0.25em;
         left: -6px;
-        height: 50%;
         border-width: 3px 3px 0 0;
         border-top-right-radius: 12px;
       }
 
       &::after {
-        bottom: 0;
+        top: 0.875em;
         left: -3px;
-        height: 50%;
         border-width: 0 0 3px 3px;
         border-bottom-left-radius: 12px;
       }

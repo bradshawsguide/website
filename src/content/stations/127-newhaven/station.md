@@ -12,7 +12,7 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- lewes-to-newhaven
+- haywards-heath-to-lewes-and-hastings
 ----
 info:
 - term: Hotel

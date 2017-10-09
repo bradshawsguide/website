@@ -9,3 +9,5 @@ company: london-brighton-and-south-coast
 stops:
 - polegate
 - eastbourne
+----
+text: (station: eastbourne)
