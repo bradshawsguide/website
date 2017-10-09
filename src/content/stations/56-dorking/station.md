@@ -126,5 +126,3 @@ text: Dorking is situated in a valley near the river Mole, nearly surrounded wit
 It is a favourite summer resort of invalids and lovers of rural scenery, and it would be difficult to name any place better calculated for both classes, as the salubrity of the air and the beauty of the surrounding country cannot be surpassed or equalled within so short a distance of the metropolis. There are several very beautiful country-seats villas, and mansions around the town, too numerous, however, to be enumerated in our pages.
 
 (distances:)
-
-The line, still skirting the Downs, soon brings us to the station of [Gomshall and Sheire](/stations/gomshall-and-sheire).

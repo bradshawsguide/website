@@ -77,5 +77,3 @@ text: This town was formerly called Epiton, and received its present name from b
 The mingled scene of hill and dale, wood and village, presents one of those fair spots in nature which refresh the traveller, who, hurrying through tunnel and cutting, to annihilate time and space, too often disregards the beauty of the country through which he passes.
 
 (distances:)
-
-Four miles further is [St. Leonards](/stations/st-leonards) station.

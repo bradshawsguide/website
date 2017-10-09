@@ -12,3 +12,7 @@ stops:
 ----
 links:
 - (wikipedia: Canterbury_and_Whitstable_Railway)
+----
+text: (station: canterbury)
+
+(station: whitstable)

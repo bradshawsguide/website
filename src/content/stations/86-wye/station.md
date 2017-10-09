@@ -22,5 +22,3 @@ notes:
 - A telegraph station.
 ----
 text: The town of Wye is close to the river Stour, and consists of two main streets. It has a handsome church, and was once a royal manor, granted by William the Conqueror to the Abbey of Battle. Here was a monastic college, the remains of which are still to be seen.
-
-Emerging from a tolerably deep cutting, we next trace to the left a most charming and picturesque village, and shortly reach [Chilham](/stations/chilham).

@@ -19,6 +19,7 @@
   h3 {
     @include typeset("heading");
     margin-bottom: 0.25em;
+    text-align: center;
   }
 
   * + h3 {

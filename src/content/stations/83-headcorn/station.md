@@ -27,5 +27,3 @@ notes:
 - A telegraph station.
 ----
 text: This village possesses no feature of particular or general interest, beyond the splendid old oak tree in the churchyard. The churches of Chart Sutton, Sutton Valence, and Sutton Castle, are worth visiting.
-
-From Headcorn the railway passes the villages of Smarden and Bedenham on the right side, and then reaches [Pluckley](/stations/pluckley).

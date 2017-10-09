@@ -17,5 +17,3 @@ notes:
 - A telegraph station.
 ----
 text: On an eminence in the vicinity, and towards the south, is St. Martha's ancient chapel. *Chilworth Manor* is the property of Godwin Austin, Esq.
-
-About two miles further is [Shalford](/stations/shalford).

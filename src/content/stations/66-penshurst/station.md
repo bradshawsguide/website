@@ -57,5 +57,3 @@ text: This is a small but exceedingly pretty village, celebrated for its fine ol
 *Wilderness*, the seat of the Marquis of Camden, about two miles beyond Seven Oaks, is a more modern mansion, but most beautifully situated.
 
 (distances:)
-
-A few miles more, in the course of which we thrice cross the winding Medway, brings us to [Tunbridge](/stations/tunbridge).

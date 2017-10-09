@@ -90,5 +90,3 @@ The village of Chiddingstone, near Hever, is one of the prettiest in the county,
 The neighbourhood here begins to get thronged with objects of attraction sufficient to draw the tourist from his main route.
 
 (distances:)
-
-From Edenbridge station to the next, there are succession of agreeable prospects, diversified by a few impediments to a good view in the form of an intervening cutting.

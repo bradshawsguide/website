@@ -48,7 +48,7 @@ links:
 ----
 text: This company has now two termini in London; both conveniently situated to accommodate pleasure and business traffic. The West End terminus is a portion of the extensive Victoria station, Pimlico, whilst the City station is at Farringdon Street, where it unites with the Metropolitan or under-ground railway to King's Cross and Paddington. This section of the line, under the name of [the Metropolitan Extension](/routes/farringdon-street-to-herne-hill), joins with that of the Western at Herne Hill, and has become very much crowded with local traffic.
 
-Leaving [Victoria](/stations/victoria), we almost immediately cross the Thames, pass [Battersea Park](/stations/battersea-park), and arrive at [Stewart's Lane](/stations/stewarts-lane), at which are situate extensive works belonging to the company. From thence we pass [Wandsworth Road](/stations/wandsworth-road), [Clapham](/stations/clapham), and [Brixton](/stations/brixton) to [Herne Hill](/stations/herne-hill), the point of connection with the City or eastern section of the line, from whence we proceed over a viaduct of 30 arches, 1,000 feet in extent, and which has from a distance a very picturesque appearance, Beyond this is an embankment of a mile and a quarter, in the middle of which is Dulwich station. Following the embankment is a cutting of one third of a mile in extent, with slopes of 4 to 1, This brings us when at the depth of 60 feet, to the tunnel under Sydenham hill, and at the face of which there is now erected a station for the accommodation of the neighbourhood. Immediately beyond the tunnel, the line passes under nine lines of railway belonging to the South Eastern and Brighton Companies. We next come to a small cutting which brings us to
+Leaving [Victoria](/stations/victoria), we almost immediately cross the Thames, pass [Battersea Park](/stations/battersea-park), and arrive at [Stewart's Lane](/stations/stewarts-lane), at which are situate extensive works belonging to the company. From thence we pass [Wandsworth Road](/stations/wandsworth-road), [Clapham](/stations/clapham), and [Brixton](/stations/brixton) to [Herne Hill](/stations/herne-hill), the point of connection with the City or eastern section of the line, from whence we proceed over a viaduct of 30 arches, 1,000 feet in extent, and which has from a distance a very picturesque appearance, Beyond this is an embankment of a mile and a quarter, in the middle of which is Dulwich station. Following the embankment is a cutting of one third of a mile in extent, with slopes of 4 to 1, This brings us when at the depth of 60 feet, to the tunnel under Sydenham hill, and at the face of which there is now erected a station for the accommodation of the neighbourhood. Immediately beyond the tunnel, the line passes under nine lines of railway belonging to the [South Eastern](/companies/south-eastern) and [Brighton](/companies/london-brighton-and-south-coast) Companies. We next come to a small cutting which brings us to
 
 [Penge](/stations/penge), and an embankment, similar in character to the one already mentioned, brings us to [Beckenham](/stations/beckenham). We next pass the station of [Shortlands](/stations/shortlands), and at the distance of three quarters of a mile further, arrive at
 
@@ -72,4 +72,18 @@ One of the villages on the Old Roman road, Watling Street, passing which, and th
 
 (station: sittingbourne)
 
-[A branch](/routes/sittingbourne-to-sheerness) 7 miles long turns off to the left at this place.
+[A branch](/routes/sittingbourne-to-sheerness) 7 miles long turns off to the left at this place. Continuing the route we pass the station of
+
+(station: teynham)
+
+and arrive at
+
+(station: faversham)
+
+On retaking our seats at Faversham, a few minutes brings us to the station of
+
+[Selling](/stations/selling), and a distance of 6½ miles further, the archiepiscopal city of [Canterbury](/stations/canterbury).
+
+A distance of 15 miles brings us through the little villages of [Bekesbourne](/stations/bekesbourne), [Adisham](/stations/adisham) (the station for Wingham), [Shepherd's Well](/stations/shepherds-well), and [Ewell](/stations/temple-ewell) to
+
+(station: dover)
