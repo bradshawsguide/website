@@ -1,44 +1,57 @@
 <?
   $stops = $page->stops()->yaml();
 
-  // Create `LineString` for route and add to $geometries[]
+  // Create `LineString` for main line and add to $geometries[]
   $geometries = [
     generateLineString(UIDStoStationPages($stops))
   ];
 
-  // Create `LineString` for route and add to $geometries[]
+  // Create `LineString` for branches and add to $geometries[]
   foreach ($stops as $stop) {
-    if (is_array($stop)) { // Stop is a branch (an array of stops)
+    if (is_array($stop)) {
       array_push($geometries, generateLineString(UIDStoStationPages($stop)));
     }
   }
 
-  // Create `Point`s for each stop
+  // Create `Feature` from main and branch lines
+  $features[] = [
+    'type' => 'Feature',
+    'geometry' => [
+      'type' => 'GeometryCollection',
+      'geometries' => $geometries
+    ],
+    'properties' => [
+      'title' => (string) $page->title(),
+      'url' => (string) $page->url()
+    ]
+  ];
+
+  // Create a `Feature` for each stop
   foreach (flatten_array($stops) as $stop) {
     $stop = page('/stations/'.$stop);
 
-    // Add `Point` to $geometries[]
-    array_push($geometries, generatePoint($stop));
+    if ($stop->isVisible()) {
+      $markerSize = 'large';
+    } else {
+      $markerSize = 'small';
+    };
+
+    $features[] = [
+      'type' => 'Feature',
+      'geometry' => generatePoint($stop),
+      'properties' => [
+        'title' => (string) $stop->title(),
+        'url' => (string) $stop->url(),
+        'marker-size' => $markerSize
+      ]
+    ];
   }
 
-  // Create `GeometryCollection` from $geometries[]
-  $geometryCollection = [
-    'type' => 'GeometryCollection',
-    'geometries' => $geometries
-  ];
-
-  // Create properties from page information
-  $properties = [
-    'title' => (string) $page->title(),
-    'url' => (string) $page->url()
-  ];
-
-  // Create `Feature`
-  $feature = [
-    'type' => 'Feature',
-    'geometry' => $geometryCollection,
-    'properties' => $properties
+  // Create `FeatureCollection` from $features array
+  $featureCollection = [
+    'type' => 'FeatureCollection',
+    'features' => $features
   ];
 
   // Encode as JSON
-  echo json_encode($feature);
+  echo json_encode($featureCollection);

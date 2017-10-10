@@ -17,6 +17,7 @@ stops:
 - [pulborough, petworth]
 - amberley
 - arundel
+- ford
 ----
 links:
 - (wikipedia: Arun_Valley_line)

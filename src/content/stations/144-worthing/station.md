@@ -72,5 +72,3 @@ text: This market town has lately become very fashionable as a watering-place. I
 In the immediate vicinity is *Broadwater*, with its beautiful church in the richest style of mingled Saxon and Norman ornamental architecture. The capitals of the lofty columns are surmounted by palm branches, an ornament introduced by the Crusaders. The date of its erection is uncertain. It has some splendid monuments of the De la Warr's family. *Highdown Hill*, and the tomb of the Miller who would have his bones laid surrounded by the scenery he loved most to dwell upon in his lifetime, is an object of interest with excursionists; whilst close by, at *Cissbury*, are the remains of a British encampment.
 
 (distances:)
-
-The line proceeds three miles further on, and reaches the station at [Goring](/stations/goring).

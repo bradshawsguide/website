@@ -22,5 +22,3 @@ notes:
 - A telegraph station.
 ----
 text: This village is situated on the right of the line; it has a harbour and wharf, and is said to be prosperous and thriving.
-
-The line proceeds along the shore, presenting no feature worth remarking, and reaches [New Shoreham](/stations/new-shoreham).

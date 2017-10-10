@@ -12,13 +12,29 @@ export default function (el, url) {
   });
 
   const featurePoint = function (feature, latlng) {
+    const prop = feature.properties || {};
+    let fillColor;
+    let opacity;
+
+    switch (prop['marker-size']) {
+      case 'small':
+        fillColor = '#d63636';
+        opacity = 0;
+        break;
+      case 'large':
+        fillColor = '#f9f7f5';
+        opacity = 1;
+        break;
+      default:
+    }
+
     return Leaflet.circleMarker(latlng, {
       color: '#d63636',
-      fillColor: '#fff',
+      opacity,
+      fillColor,
       fillOpacity: 1,
       radius: zoom * (1 / 4),
-      weight: zoom * (1 / 3),
-      opacity: 1
+      weight: zoom * (1 / 3)
     });
   };
 
@@ -51,7 +67,7 @@ export default function (el, url) {
 
       map.on('zoomend', () => {
         const currentZoom = map.getZoom();
-        const myRadius = currentZoom * (1 / 2);
+        const myRadius = currentZoom * (1 / 4);
         const myWeight = currentZoom * (1 / 3);
         geojsonLayer.setStyle({
           radius: myRadius,

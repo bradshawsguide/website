@@ -88,6 +88,6 @@ distances:
 - location: Westergate
   miles: "1¼"
 ----
-text: This station forms the junction of a short line to [Bognor](/stations/bognor).
-
-(distances:)
+desc: A telegraph station.
+----
+text: (distances:)

@@ -20,5 +20,3 @@ info:
 ----
 notes:
 - Telegraph station at Worthing, 2½ miles.
-----
-text: After which an additional four miles bring us to the station at [Angmering](/stations/angmering)

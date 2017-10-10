@@ -25,6 +25,6 @@ info:
 notes:
 - A telegraph station.
 ----
-text: In this vicinity is *Belmont Castle*, *Woodlands*, *Stanstead House*, formerly the seat of the Earl of Halifax, and *Leigh Park*, Sir G, Staunton; *Hayling Island* is adjacent likewise, of some importance as a watering place. The island itself is a flat pasture tract, posessing no peculiar feature or beauty.
-
-The junction of the South Coast and South Western Lines is at Portcreek, between Havent and Cosham, but it is necessary to go to Portsmouth to pass from one line to the other.
+desc: In this vicinity is *Belmont Castle*, *Woodlands*, *Stanstead House*, and *Leigh Park*; *Hayling Island* is adjacent likewise, of some importance as a watering place.
+----
+text: In this vicinity is *Belmont Castle*, *Woodlands*, *Stanstead House*, formerly the seat of the Earl of Halifax, and *Leigh Park*, Sir G, Staunton; *Hayling Island* is adjacent likewise, of some importance as a watering place. The island itself is a flat pasture tract, possessing no peculiar feature or beauty.

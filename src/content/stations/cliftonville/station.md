@@ -13,3 +13,6 @@ company:
 ----
 route:
 - brighton-to-worthing-chichester-and-portsmouth
+----
+notes:
+- Telegraph Station at Brighton, 1 mile.

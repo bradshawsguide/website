@@ -21,4 +21,6 @@ info:
 notes:
 - A telegraph station.
 ----
-text: Bognor is a pleasant bathing place, with good beach, crescent, &c., and much frequented, the air being very pure, and the situation delightful. It was made a market town in 1822, and owes its rise to Sir Richard Hotham, in 1785.
+desc: Bognor is a pleasant bathing place, with good beach, crescent, &c., and much frequented, the air being very pure, and the situation delightful.
+----
+text: <span class="smcp">Bognor</span> is a pleasant bathing place, with good beach, crescent, &c., and much frequented, the air being very pure, and the situation delightful. It was made a market town in 1822, and owes its rise to Sir Richard Hotham, in 1785.
