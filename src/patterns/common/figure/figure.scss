@@ -2,6 +2,11 @@
   margin-bottom: $__space-large;
 }
 
+.c-figure__map {
+  width: 100%;
+  height: 30rem;
+}
+
 .c-figure__caption {
   @include typeset("caption");
   padding-top: $__space-medium;

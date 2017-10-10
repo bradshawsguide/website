@@ -14,9 +14,9 @@
   pattern('common/tablist');
 
   if (param('view') == 'map') {
-    pattern('common/map', [
+    pattern('common/figure/map', [
       'url' => '/stations.geojson/'.$kirby->request()->params(),
-      'class' => 'l-bleed'
+      'class' => 'cover'
     ]);
   } else {
     pattern('common/section/featured', [

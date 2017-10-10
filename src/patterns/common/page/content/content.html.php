@@ -1,7 +1,7 @@
 <div class="c-page__content">
 <?
   if($page->hasImages()) {
-    pattern('common/figure', [
+    pattern('common/figure/image', [
       'image' => $page->image()
     ]);
   }

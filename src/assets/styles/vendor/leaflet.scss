@@ -16,7 +16,6 @@
 
 .leaflet-container {
   overflow: hidden;
-  border: 1px solid $__color-neutral-lighter;
 
   &.leaflet-touch-zoom { touch-action: pan-x pan-y; }
   &.leaflet-touch-drag { touch-action: pinch-zoom; }

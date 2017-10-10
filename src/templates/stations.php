@@ -16,9 +16,9 @@
   pattern('common/tablist');
 
   if (param('view') == 'map') {
-    pattern('common/map', [
+    pattern('common/figure/map', [
       'url' => $page->uri().'.geojson/'.$kirby->request()->params(),
-      'class' => 'l-bleed'
+      'class' => 'cover'
     ]);
   } else {
     foreach(alphabetise($stations) as $letter => $items):
