@@ -4,48 +4,49 @@
   foreach ($routes as $route) {
     $stops = $route->stops()->yaml();
 
-    // Create `LineString` for route and add to $geometries[]
+    // Create `LineString` for main line and add to $geometries[]
     $geometries = [
       generateLineString(UIDStoStationPages($stops))
     ];
 
-    // Create `LineString` for each branch and add to $geometries[]
+    // Create `LineString` for any branches and add to $geometries[]
     foreach ($stops as $stop) {
       if (is_array($stop)) {
         array_push($geometries, generateLineString(UIDStoStationPages($stop)));
       }
     }
 
-    // Create `Point`s for each stop
+    // Create `Feature` from main and branch lines
+    $features[] = [
+      'type' => 'Feature',
+      'geometry' => [
+        'type' => 'GeometryCollection',
+        'geometries' => $geometries
+      ],
+      'properties' => [
+        'title' => (string) $route->title(),
+        'url' => (string) $route->url()
+      ]
+    ];
+
+    // Create a `Feature` for each stop
     foreach (flatten_array($stops) as $stop) {
       $stop = page('/stations/'.$stop);
 
-      // Add `Point` to $geometries[]
-      array_push($geometries, generatePoint($stop));
-    }
+      if ($stop->isVisible()) {
+        $markerSize = 'large';
+      } else {
+        $markerSize = 'small';
+      };
 
-    // Create `GeometryCollection` from $geometries[]
-    foreach ($geometries as $geometryCollection) {
-      $geometryCollection = [
-        'type' => 'GeometryCollection',
-        'geometries' => $geometries
-      ];
-    }
-
-    // Create properties from route information
-    $properties = [
-      'title' => (string) $route->title(),
-      'url' => (string) $route->url()
-    ];
-
-    // Create $features array
-    // Empty coordinates break maps. Create `Feature` only
-    // if `GeometryCollection` has geometries
-    if (!empty($geometryCollection)) {
       $features[] = [
         'type' => 'Feature',
-        'geometry' => $geometryCollection,
-        'properties' => $properties,
+        'geometry' => generatePoint($stop),
+        'properties' => [
+          'title' => (string) $stop->title(),
+          'url' => (string) $stop->url(),
+          'marker-size' => $markerSize
+        ]
       ];
     }
   }

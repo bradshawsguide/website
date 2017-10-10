@@ -6,7 +6,7 @@
     generateLineString(UIDStoStationPages($stops))
   ];
 
-  // Create `LineString` for branches and add to $geometries[]
+  // Create `LineString` for any branches and add to $geometries[]
   foreach ($stops as $stop) {
     if (is_array($stop)) {
       array_push($geometries, generateLineString(UIDStoStationPages($stop)));

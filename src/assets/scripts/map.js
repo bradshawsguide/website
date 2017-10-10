@@ -33,7 +33,7 @@ export default function (el, url) {
       opacity,
       fillColor,
       fillOpacity: 1,
-      radius: zoom * (1 / 4),
+      radius: zoom * (1 / 3),
       weight: zoom * (1 / 3)
     });
   };
@@ -67,7 +67,7 @@ export default function (el, url) {
 
       map.on('zoomend', () => {
         const currentZoom = map.getZoom();
-        const myRadius = currentZoom * (1 / 4);
+        const myRadius = currentZoom * (1 / 3);
         const myWeight = currentZoom * (1 / 3);
         geojsonLayer.setStyle({
           radius: myRadius,
