@@ -72,6 +72,8 @@ distances:
 - location: Whatlington
   miles: "3"
 ----
+desc: This town was formerly called Epiton, and received its present name from being the spot on which the Saxons, under Harold, were defeated by William, the Duke of Normandy, in 1066.
+----
 text: This town was formerly called Epiton, and received its present name from being the spot on which the Saxons, under Harold, were defeated by William, the Duke of Normandy, in 1066. After the contest the Conqueror founded a magnificent abbey to commemorate his victory, and the high altar in the church is said to have stood on the very spot where the body of the heroic Saxon prince was found. The noble gateway of the abbey has a fine effect when seen from the town. In the abbey was formerly preserved the celebrated Battle Abbey Roll, which formed a list of those families which came over from Normandy with the Duke.
 
 The mingled scene of hill and dale, wood and village, presents one of those fair spots in nature which refresh the traveller, who, hurrying through tunnel and cutting, to annihilate time and space, too often disregards the beauty of the country through which he passes.

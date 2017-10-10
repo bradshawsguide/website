@@ -19,6 +19,7 @@ stops:
 - caterham-junction
 - merstham
 - red-hill
+- reigate
 - godstone
 - edenbridge
 - penshurst
@@ -60,6 +61,8 @@ After this the line enters the Great Junction Station at
 
 (station: red-hill)
 
+This is one of the most important junctions of the Kent and Sussex Railways. The [Reigate and Reading Branch](/routes/reigate-to-reading) goes to the west, through the vale of Dorking to Guildford and Reading, communicating thence to any part of the kingdom.
+
 ### Red Hill to Tunbridge
 On leaving Reigate, the railway turns off towards the south-east, past the village of Nutfield, a short distance beyond which is Bletchingly, both situated on a range of hills. Bletchingley church is a handsome building containing several line monuments and there are the remains of a castle in the neighbourhood.
 
@@ -73,11 +76,13 @@ Passing over Stafford's Wood Common, the line now traverses a fine and open coun
 
 From Edenbridge station to the next, there are succession of agreeable prospects, diversified by a few impediments to a good view in the form of an intervening cutting.
 
-(station: penhurst)
+(station: penshurst)
 
 A few miles more, in the course of which we thrice cross the winding Medway, brings us to
 
 (station: tunbridge)
+
+This, besides being the branch station for passengers [to Tunbridge Wells](/routes/tunbridge-to-hastings), has a convenient refreshment-room appended.
 
 ### Tunbridge to Paddock Wood
 On leaving Tunbridge, the line passes through the beautiful park of *Summerhill* the property of Baron de Goldschmidt, and thence, on past the villages of Tudely and Capel to the

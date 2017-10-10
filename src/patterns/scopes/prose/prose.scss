@@ -8,8 +8,12 @@
     margin-bottom: 1em;
   }
 
-  p + p {
+  p {
     text-indent: $__text-indent;
+  }
+
+  > p:first-of-type {
+    text-indent: 0;
   }
 
   > *:not(p) {
@@ -19,7 +23,6 @@
   h3 {
     @include typeset("heading");
     margin-bottom: 0.25em;
-    text-align: center;
   }
 
   * + h3 {

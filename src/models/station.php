@@ -42,6 +42,17 @@ class StationPage extends Page {
     return $currentTitle;
   }
 
+  // Return `desc` if exists, else excerpt of text
+  public function excerpt() {
+    if (!$this->desc()->empty()) {
+      $excerpt = $this->desc();
+    } else {
+      $excerpt = excerpt($this->text(), $length = 40, $mode = 'words');
+    };
+
+    return $excerpt;
+  }
+
   // Convert UIDs listed under `route:` to array of pages
   public function routes() {
     $routes = $this->route()->yaml();

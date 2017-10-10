@@ -20,6 +20,8 @@ route:
 notes:
 - A telegraph station.
 ----
+desc: *Cuckfield*, 1½ mile to the right, a pleasantly situated market town, with a handsome church, in the English decorated style.
+----
 text: *Cuckfield*, 1½ mile to the right, a pleasantly situated market town, with a handsome church, in the English decorated style. Market day, Friday. Fairs, September 16, and Thursday in Whit-week.
 
 *Lindfield*, 2 miles, a pretty little village.

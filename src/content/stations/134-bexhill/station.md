@@ -21,6 +21,8 @@ info:
 notes:
 - Telegraph station at St. Leonards, 3 miles.
 ----
+desc: Many persons prefer the retirement, of Bexhill, with its fine bracing air, to the excitement and bustle of the neighbouring towns.
+----
 text: The village of which name is situated on a rising ground not far from the sea. It is a quiet, retired place, having some good iron springs, and is situated in a beautiful country.
 
 Many persons prefer the retirement, of Bexhill, with its fine bracing air, to the excitement and bustle of the neighbouring towns.

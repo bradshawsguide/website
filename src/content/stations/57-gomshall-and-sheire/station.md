@@ -6,7 +6,7 @@ title_later: Gomshall
 ----
 region: surrey
 ----
-location: 51.219, -0.442
+location: 51.219462, -0.441349
 ----
 company:
 - south-eastern

@@ -8,8 +8,8 @@ kirbytext::$tags['station'] = array(
       $title = brick('dt')->html($link);
       $title->attr('class', 'station-title');
 
-      if($desc = $station->desc()->isNotEmpty()) {
-        $desc = brick('dd')->html($station->desc());
+      if($desc = $station->excerpt()) {
+        $desc = brick('dd')->html(kirbytextRaw($station->excerpt()));
         $desc->attr('class', 'station-desc');
       }
 

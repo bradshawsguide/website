@@ -30,6 +30,8 @@ notes:
 - Distance from station at Strood, 2 miles.
 - A telegraph station.
 ----
+desc: A parliamentary borough, returning one member, but best known for its naval dockyard, on a bend of the Medway.
+----
 text: A parliamentary borough, returning one member, but best known for its naval dockyard, on a bend of the Medway, 19 miles from the Nore, and about 2 miles from the Strood terminus of the North Kent Railway. Omnibuses run through Rochester to meet every tram, and the Sheerness steamer touches here. Population, 36,177, including 7,000 or 8,000 dockyard men and soldiers. Depots of the marines, of several regiments of the line, and East India service, are stationed at Chatham. It was a fishing-village in Saxon times. In the disgraceful reign of Charles II., the Dutch Admiral De Ruyter came up so far as to burn the ships and carry off the Royal Charles.
 
 After passing through a tunnel of l¼ mile, under Higham Down, a chalk ridge is seen stretching out into the river oppositeChatham. Rochester and Chatham form one straggling dirty town, hemmed in by chalk downs, which, on the Chatham side, rise up rather steeply to a very considerable height, There are the "Lines," which are strengthened by Fort Pitt, Fort Clarence, and other military works. They should be ascended for the extensive view of the towns, the Medway and Thames, they offer, &c, Chatham is here seen stuck like a wedge in a gap of the downs.

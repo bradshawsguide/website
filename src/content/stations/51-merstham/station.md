@@ -17,4 +17,6 @@ route:
 notes:
 - A telegraph station.
 ----
+desc: Merstham is situated to the right of the line--formerly famous for its apple orchards.
+----
 text: Merstham is situated to the right of the line--formerly famous for its apple orchards. There are valuable stone quarries in the vicinity. The old church on the hill contains some curious monuments and tombs. The seat of Sir W. G. H. Joliffe, Bart., M.P., is a noble looking mansion.

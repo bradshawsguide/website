@@ -25,11 +25,9 @@ info:
 notes:
 - A telegraph station.
 ----
-text: This is one of the most important junctions of the Kent and Sussex Railways.
-
-The [Reigate and Reading Branch](/routes/reigate-to-reading) goes to the west, through the vale of Dorking to Guildford and Reading, communicating thence to any part of the kingdom.
-
-On alighting at this station the traveller will find himself in the midst of the celebrated valley of Holmesdale, surrounded on all sides by elevated hills. To the north appears the great chalk range, bearing a rugged and abrupt front, broken into precipitous cliffs, or crowned with undulating heights. To the south is seen the sand-stone ridge, with the celebrated mount of coloured stone, known as the "Red Hill".
+desc: To the south is seen the sand-stone ridge, with the celebrated mount of coloured stone, known as the "Red Hill".
+----
+text: On alighting at this station the traveller will find himself in the midst of the celebrated valley of Holmesdale, surrounded on all sides by elevated hills. To the north appears the great chalk range, bearing a rugged and abrupt front, broken into precipitous cliffs, or crowned with undulating heights. To the south is seen the sand-stone ridge, with the celebrated mount of coloured stone, known as the "Red Hill".
 
 * * *
 

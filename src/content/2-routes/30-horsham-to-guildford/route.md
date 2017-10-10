@@ -28,4 +28,4 @@ Running parallel with the Sussex and Surrey Canal we pass the station of [Bramle
 
 (station: guildford)
 
-the county team.
+the county town.

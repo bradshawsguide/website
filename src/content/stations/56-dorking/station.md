@@ -2,9 +2,11 @@ section: 1
 ----
 title: Dorking
 ----
+title_later: Dorking West
+----
 region: surrey
 ----
-location: 51.241, -0.324
+location: 51.236061, -0.340514
 ----
 company:
 - south-eastern
@@ -120,6 +122,13 @@ distances:
   miles: "1½"
 - location: Wotten
   miles: "2"
+----
+links:
+Station renamed *Dorking West* in 1987.
+- (nationalrail: DKT)
+- (wikipedia: Dorking_West_railway_station)
+----
+desc: Dorking is situated in a valley near the river Mole, nearly surrounded with hills, and commands some of the finest views in the kingdom.
 ----
 text: Dorking is situated in a valley near the river Mole, nearly surrounded with hills, and commands some of the finest views in the kingdom. This town is of considerable antiquity, and so conveniently situated that it carries on a large trade in flour and corn and employs several mills on the Mole. The church is a fine old edifice and contains several handsome monuments. It is celebrated for its poultry, particularly for a five-toed breed, called Dorkings, supposed to have been introduced by the Romans.
 

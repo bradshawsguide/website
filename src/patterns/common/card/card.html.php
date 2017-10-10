@@ -11,12 +11,14 @@
     </div>
     <? endif; ?>
 
+    <? if($item->excerpt()): ?>
     <div class="c-card__main">
       <?
         pattern('scopes/text', [
-          'content' => !$item->desc()->empty() ? $item->desc() : excerpt($item->text(), $length=240)
+          'content' => $item->excerpt()
         ]);
       ?>
     </div>
+    <? endif; ?>
   </a>
 </article>

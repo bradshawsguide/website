@@ -19,4 +19,6 @@ route:
 notes:
 - A telegraph station.
 ----
+desc: To the right we see Dulwich, famous for the picture gallery.
+----
 text: To the right we see Dulwich, famous for the picture gallery, in "Dulwich, or God's Gift, College, founded by Edward Alleyne, the Player, the 'Proteus, for shape, and the Roscius, for tongue.'" Built in 1619, supported by an income of £8,637 arising from landed property and bequests, and which, is open for view to the public by ticket. (See *Bradshaw's Guide to London*.)

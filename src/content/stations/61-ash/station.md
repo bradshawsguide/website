@@ -78,4 +78,6 @@ distances:
 - location: Winchfield Station
   miles: "9"
 ----
+desc: A telegraph station.
+----
 text: (distances:)

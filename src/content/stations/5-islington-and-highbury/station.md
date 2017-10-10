@@ -29,5 +29,3 @@ info:
 notes:
 - Distance from station, ½ mile.
 - A telegraph station.
-----
-text:

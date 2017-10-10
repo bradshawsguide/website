@@ -24,6 +24,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: New Shoreham is a borough town and a port, situated at the mouth of the River Adur, over which there is a suspension bridge.
+----
 text: Old <span class="smcp">Shoreham</span>, on the right of the line, has a fine old Saxon church, which has been recently restored, and is much admired as a beautiful specimen of Saxon architecture.
 
 <span class="smcp">New Shoreham</span> is a borough town and a port, situated at the mouth of the River Adur, over which there is a suspension bridge. The harbour is about a mile to the eastward of the town.

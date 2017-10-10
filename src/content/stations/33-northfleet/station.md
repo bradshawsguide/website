@@ -19,6 +19,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Northfleet has an ancient church, one of the largest in Kent, containing several monuments of interesting antiquity.
+----
 text: On the London side of Northfleet, on the left of our line may be seen the beautiful asylum for decayed merchants, founded by the philanthropic merchant, Mr. Huggens, still living, and well known on the London corn exchange.
 
 Northfleet has an ancient church, one of the largest in Kent, containing several monuments of interesting antiquity, among which will be found one to Dr. Brown, physician to Charles II., and some curious brasses of the fourteenth century. The extensive excavations about here, forming a sort of miniature Switzerland, not only give the scenery a wild and romantic aspect, but furnish valuable materials for the potteries.

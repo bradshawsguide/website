@@ -63,6 +63,8 @@ distances:
 - location: Thorndean Wood
   miles: "2¾"
 ----
+desc: The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
+----
 text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
 
 (distances:)

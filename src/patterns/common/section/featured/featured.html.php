@@ -3,7 +3,8 @@
   <?
     if(isset($content)):
       pattern('scopes/prose', [
-        'content' => $content
+        'content' => $content,
+        'modifier' => 'section'
       ]);
     endif
   ?>

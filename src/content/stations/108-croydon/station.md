@@ -31,6 +31,8 @@ notes:
 - Distance from station, 1 mile,
 - A telegraph station.
 ----
+desc: Croydon is situated in the midst of a beautiful country, and is a place of considerable antiquity.
+----
 text: The town of Croydon derives its name from *croie*, chalk, and "dune", or hill, from which latter term we obtain our English word "downs" as signifying an extensive range of hills. It is situated in the midst of a beautiful country, and is a place of considerable antiquity. It consists of one principal street more than a mile in length, and a number of smaller ones. The church is a noble building, and has a lofty square tower adorned with pinnacles
 
 The Archbishops of Canterbury, for several centuries made the old manor house, near the church, then occasional residence A mile and a half from the town is Addiscombe, at which there is a college for the education of military students. In the vicinity likewise, is *Addington Park* (2½ miles), the present residence of the archbishops, in a very retired and rural neighbourhood.

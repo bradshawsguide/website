@@ -80,9 +80,7 @@ and arrive at
 
 (station: faversham)
 
-On retaking our seats at Faversham, a few minutes brings us to the station of
-
-[Selling](/stations/selling), and a distance of 6½ miles further, the archiepiscopal city of [Canterbury](/stations/canterbury).
+On retaking our seats at Faversham, a few minutes brings us to the station of [Selling](/stations/selling), and a distance of 6½ miles further, the archiepiscopal city of [Canterbury](/stations/canterbury).
 
 A distance of 15 miles brings us through the little villages of [Bekesbourne](/stations/bekesbourne), [Adisham](/stations/adisham) (the station for Wingham), [Shepherd's Well](/stations/shepherds-well), and [Ewell](/stations/temple-ewell) to
 

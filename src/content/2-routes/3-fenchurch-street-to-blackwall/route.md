@@ -19,6 +19,8 @@ text: This line originally proceeded for a considerable distance under a covered
 
 (station: stepney)
 
+We next descend into a deep cutting, and, passing under the Bow Road, arrive at the junction station on the main line of the [North London Railway](/routes/fenchurch-street-to-chalk-farm).
+
 The stations of [Limehouse](/stations/limehouse), [West India Docks](/stations/west-india-docks), and [Poplar](/stations/poplar), are respectively passed, and the train stops at
 
 (station: blackwall)

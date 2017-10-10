@@ -38,6 +38,8 @@ So entangled is the mighty maze of London with its suburbs that on emerging from
 
 (station: new-cross)
 
+From this station the line passes through cuttings that exclude all view of the country; the passengers, however, cannot fail to admire the ingenuity with which the declivities on each side have been converted into flower and kitchen gardens. Emerging from this cutting a wide and extensive prospect of undulating ground is opened on both sides. To the east appears a succession of gardens; to the west, a glimpse of the cemetery at Nunhead is obtained. Sydenham and Norwood appear next in succession, studded with white villas, and on every side a range of wooded and picturesque scenery is unfolded to the view.
+
 (station: forest-hill)
 
 To the left lies the village of Sydenham, celebrated for its beauty and salubrity, and shortly after we reach the station at

@@ -22,4 +22,6 @@ notes:
 notes:
 - A telegraph station.
 ----
+desc: To the left, on the hills, is Wakehurst Place, the estate of Sir A. Cockburn, St. Leonard's Forest on the right.
+----
 text: To the left, on the hills, is Wakehurst Place, the estate of Sir A. Cockburn, St. Leonard's Forest on the right. The rivers Adur, Arun, and Ouse have their source in this forest, within a circle of three or four miles in diameter.

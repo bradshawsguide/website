@@ -20,5 +20,3 @@ links:
 Station renamed *Waterloo East* in 1977.
 - (nationalrail: WAE)
 - (wikipedia: London_Waterloo_East_railway_station)
-----
-text: In two minutes from first starting the train stops at [Blackfriars](/stations/blackfriars).

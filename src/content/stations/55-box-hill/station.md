@@ -21,6 +21,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Tourists alight at this station for the hill with its celebrated prospects. It took its name from the Box trees planted thereon in the reign of Charles I. and is now a resort for picnic parties.
+----
 text: Tourists alight at this station for the hill with its celebrated prospects. It took its name from the Box trees planted thereon in the reign of Charles I. and is now a resort for picnic parties.
 
 This is the nearest station likewise for *Mickleham*, a charming village. 2¼ miles distant.

@@ -60,6 +60,8 @@ distances:
 - location: Yalding Down
   miles: "1"
 ----
+desc: Wateringbury is a large and handsome village, retaining its rural character, combined with an unusual degree of charming neatness and taste.
+----
 text: Wateringbury is a large and handsome village, retaining its rural character, combined with an unusual degree of charming neatness and taste. The cottage gardens are sweetly pretty. The church is rather handsome, and contains several tombs of the Style family. Wateringbury Place in the vicinity is a fine mansion, situated in very beautiful grounds.
 
 (distances:)

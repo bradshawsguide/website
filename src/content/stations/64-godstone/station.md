@@ -124,6 +124,8 @@ distances:
 - location: Wonham
   miles: "3"
 ----
+desc: The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked.
+----
 text: The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked. There was formerly a mineral spring of some repute a short distance, from Godstone. The parks and mansions in this neighbourhood are much admired, and from some of the hills there are beautiful views of the surrounding country of Surrey and Kent. Tandridge and Limpsfield are pretty villages, about two miles distant.
 
 (distances:)

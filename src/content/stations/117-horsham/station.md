@@ -27,4 +27,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This town stands on the River Arun, and is considered, in a commercial point of view, one of the most important in the county.
+----
 text: This town stands on the River Arun, and is considered, in a commercial point of view, one of the most important in the county. The church is a large ancient structure, having some fine old tombs. Here is a fine Gothic court house, a county gaol, built on Howard's plan, and an excellent foundation school of Richard Collier's, founded in 1532.

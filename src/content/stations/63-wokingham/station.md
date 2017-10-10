@@ -77,6 +77,8 @@ distances:
 - location: Wokingham
   miles: "1"
 ----
+desc: Wokingham is situated on the River Wey, on the borders of Windsor Forest. The town consists of three streets, with a handsome new Town Hall and Market Place in the centre.
+----
 text: Wokingham is situated on the River Wey, on the borders of Windsor Forest. The town consists of three streets, with a handsome new Town Hall (modern Gothic) and Market Place in the centre. The Parish Church is picturesque, and undergoing restoration. A new church is also being built by J. Walter, Esq., proprietor of the Times. The railways have given considerable impetus to trade here, and house property has become valuable.
 
 (distances:)

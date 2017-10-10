@@ -50,4 +50,6 @@ A mile beyond, above the line, is the neat village of Teston, the scenery around
 
 (station: east-farleigh)
 
+Two miles beyond this the train enters the present terminus of this line at Maidstone. It is a very neat and commodious structure, within a few minutes' walk of the High-street.
+
 (station: maidstone)

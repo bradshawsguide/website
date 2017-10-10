@@ -52,4 +52,6 @@ distances:
 - location: Yaldiug
   miles: "3½"
 ----
+desc: A telegraph station.
+----
 text: (distances:)

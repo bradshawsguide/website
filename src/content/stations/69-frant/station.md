@@ -22,4 +22,6 @@ notes:
 - Distance from station, 1 mile.
 - A telegraph station.
 ----
+desc: A short distance from this station is Bridge Castle, the demesne of the Earl of Abergavenny, situated in a noble park, well stocked with deer.
+----
 text: A short distance from this station is Bridge Castle, the demesne of the Earl of Abergavenny, situated in a noble park, well stocked with deer. There are several handsome villas in the neighbourhood, the scenery of which is exceedingly varied, and some of the views of the country around are both extensive and beautiful.
