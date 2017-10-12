@@ -15,6 +15,7 @@ kirbytext::$tags['station'] = array(
 
       $html = brick('dl')->html($title.$desc);
       $html->attr('class', 'station');
+      $html->attr('id', $station->uid());
 
       return $html;
     }

@@ -51,10 +51,24 @@ Of all the many alluring rambles held forth to the tourist who wishes to avail h
 The [Metropolitan terminus](/stations/waterloo-bridge) of the [South Western](/companies/london-and-south-western) is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company. The gentle pace at which the trains first move afford time for observing the extensive engine houses and workshops at Nine Elms. The line passes over viaducts or arches through a part of the densely populated parish of Lambeth, over the tops of houses, past the grounds of Lambeth Palace, in a line with which is Lambeth Church, and across the river may be seen the splendid towers of the new Houses of Parliament.
 
 ### London to Clapham
-Thence we pass on through [Vauxhall](/stations/vauxhall). We next find ourselves bounded on each side by spacious market gardens, and we see Battersea new town and the park on the one hand, and Battersea Rise, the region of Clapham, on the other. In Battersea church the great statesman, Bolingbroke, lies buried. At this point, the [Richmond, Staines, and Windsor line](/routes/london-to-richmond-staines-wokingham-and-reading) diverges to the right, while the main line turns oft towards the left to Wimbledon.
+Thence we pass on through
+
+(station: vauxhall)
+
+We next find ourselves bounded on each side by spacious market gardens, and we see Battersea new town and the park on the one hand, and Battersea Rise, the region of Clapham, on the other. In Battersea church the great statesman, Bolingbroke, lies buried. At this point, the [Richmond, Staines, and Windsor line](/routes/london-to-richmond-and-staines) diverges to the right, while the main line turns oft towards the left to Wimbledon.
 
 ### Clapham to Kingston
 Soon after rejoining the Main Line at Clapham Common, [a branch to the left](/routes/victoria-to-crystal-palace) leads to the Crystal Palace, *via* [Balham](/stations/balham), [Streatham](/stations/streatham), and [Norwood](/stations/norwood-lower).
+
+(station: clapham)
+
+The adjacent country now begins to assume a very pleasant and diversified appearance, and the patches of woodland scenery that break forth in bold relief against the distant horizon furnish an agreeable foretaste of the picturesque views yet to come. Passing beneath a few arches which connect the roads leading from various adjacent villages, we reach the station at
+
+(station: wimbledon)
+
+[Merton](/stations/merton).--Distance from the Wimbledon station, ¾ mile. Telegraph station at Wimbledon, ¾ mile. Hotel--White Hart. The pretty village of Merton, where Lord Nelson lived, is a favourite resort of excursionists.
+
+(route: wimbledon-to-epsom-and-leatherhead)
 
 Emerging from the excavation, we proceed onwards over an embankment, which affords one continued series of delightful views across a country which art has contributed in the highest degree to adorn, at the extremity of which a cursory glimpse of the old square tower of Kingston church is obtained.
 

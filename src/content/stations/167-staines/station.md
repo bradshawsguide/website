@@ -8,10 +8,12 @@ location: 51.432, -0.503
 ----
 company:
 - london-and-south-western
+- staines-wokingham-and-reading
 ----
 route:
-- london-to-richmond-staines-wokingham-and-reading
+- london-to-richmond-and-staines
 - staines-to-windsor
+- staines-to-wokingham-and-reading
 ----
 info:
 - term: Population
@@ -26,6 +28,8 @@ info:
 notes:
 - Distance from station, ¾ mile,
 - A telegraph station.
+----
+desc: Staines is a pleasant market town, in the county of Middlesex, standing on the north bank of the Thames, over which is thrown a bridge, which connects the counties of Middlesex and Surrey.
 ----
 text: Staines is a pleasant market town, in the county of Middlesex, standing on the north bank of the Thames, over which is thrown a bridge, which connects the counties of Middlesex and Surrey. In the old records it is called Stana, a Saxon word for a stone, and Camden supposes that the name was derived from a stone which was fixed on the banks of the river, to mark the extent of the authority of the city of London over the Thames, westward. This town contains a handsome church, besides which there are other places of public worship for dissenters. Nearly all the houses extend along the sides of the high road, but there are a considerable number built in other directions.
 

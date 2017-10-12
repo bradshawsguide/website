@@ -7,7 +7,7 @@ region: berkshire
 location: 51.391805, -0.632412
 ----
 company:
-- london-and-south-western
+- staines-wokingham-and-reading
 ----
 route:
-- london-to-richmond-staines-wokingham-and-reading
+- staines-to-wokingham-and-reading

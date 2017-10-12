@@ -8,11 +8,11 @@ location: 51.411, -0.843
 ----
 company:
 - south-eastern
-- london-and-south-western
+- staines-wokingham-and-reading
 ----
 route:
 - reigate-to-reading
-- london-to-richmond-staines-wokingham-and-reading
+- staines-to-wokingham-and-reading
 ----
 info:
 - term: Population

@@ -1,6 +1,8 @@
 section: 1
 ----
-title: Reading Southern
+title: Reading
+----
+title_later: Reading Southern
 ----
 region: berkshire
 ----
@@ -8,10 +10,10 @@ location: 51.458203, -0.97012
 ----
 company:
 - south-eastern
-- london-and-south-western
+- staines-wokingham-and-reading
 ----
 route:
 - reigate-to-reading
-- london-to-richmond-staines-wokingham-and-reading
+- staines-to-wokingham-and-reading
 ----
 text: See [Reading](/stations/reading)

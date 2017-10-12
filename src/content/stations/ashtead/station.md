@@ -11,5 +11,3 @@ company:
 ----
 route:
 - wimbledon-to-epsom-and-leatherhead
-----
-text: *Ashtead Park*, the seat of Colonel Howard.

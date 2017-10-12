@@ -7,10 +7,10 @@ region: surrey
 location: 51.402, -0.562
 ----
 company:
-- london-and-south-western
+- staines-wokingham-and-reading
 ----
 route:
-- london-to-richmond-staines-wokingham-and-reading
+- staines-to-wokingham-and-reading
 ----
 info:
 - term: Hotel

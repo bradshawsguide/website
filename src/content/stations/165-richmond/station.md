@@ -10,7 +10,7 @@ company:
 - london-and-south-western
 ----
 route:
-- london-to-richmond-staines-wokingham-and-reading
+- london-to-richmond-and-staines
 ----
 info:
 - term: Population
@@ -56,5 +56,3 @@ It would be worth while to read the noble lines which follow this quotation in t
 The Wesleyan body have a college here for their theological student--a handsome Tudor range, 250 feet long, in which is a good statue of their founder. Close to the bridge (built in 1747, and still taxed) are three small aits or wooded islands. The railway viaduct strides across on three wide arches below.
 
 Within a few miles are Kew Gardens and its pagoda; Twickenham, the favourite retreat of Pope; East Sheen, where Sir W. Temple lived. Ham, the ancient seat of the Dysart family, in which the famous John, Duke of Argyle was born (Scott, in his "Heart of Mid Lothian" brings him to Richmond Park, to introduce Jeanie Deans to Queen Caroline), and Hampton Court, with its half Tudor, half French palace, pictures, cartoons, Lely beauties, gardens, and other attractions.
-
-The line crosses the Thames over the railway bridge at Richmond--a very handsome structure of three arches.

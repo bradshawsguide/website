@@ -40,5 +40,3 @@ The royal pleasure grounds are open to the public on Thursdays and Sundays, from
 > Imperial Kew, by Thames's glistening side.
 > Obedient sails from realms unfurrow'd bring
 > For her the unnamed progeny of spring.
-
-Passing the extensive works of the West London Water Company, the line continues principally through market gardens to Boston Lane, where the [Brentford](/stations/brentford) station is conveniently placed.

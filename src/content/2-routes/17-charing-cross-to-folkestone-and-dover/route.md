@@ -19,7 +19,6 @@ stops:
 - caterham-junction
 - merstham
 - red-hill
-- reigate
 - godstone
 - edenbridge
 - penshurst

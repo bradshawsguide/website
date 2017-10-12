@@ -10,5 +10,5 @@ company:
 - london-and-south-western
 ----
 route:
-- london-to-richmond-staines-wokingham-and-reading
+- london-to-richmond-and-staines
 - barnes-to-hounslow-and-feltham
