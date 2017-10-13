@@ -13,10 +13,6 @@
   color: $__color-neutral-lightest;
 }
 
-.c-navigation__title {
-  @include visually-hidden;
-}
-
 .c-navigation__list {
   display: flex;
   justify-content: flex-end;

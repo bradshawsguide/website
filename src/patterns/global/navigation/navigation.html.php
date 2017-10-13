@@ -1,7 +1,6 @@
-<nav class="c-navigation">
-  <h2 class="c-navigation__title">Explore <?= $site->title() ?></h2>
+<nav class="c-navigation" aria-label="Main navigation">
   <ul class="c-navigation__list">
-  <? foreach($pages->visible() as $page): ?>
+  <? foreach($pages->find('search', 'places', 'routes') as $page): ?>
     <li class="c-navigation__item c-navigation__item--<?= str::lower($page->title_short()) ?>">
       <a href="<?= $page->url() ?>" aria-label="<?= $page->title() ?>"<? e($page->isOpen(), ' aria-current="page"') ?>>
       <?
