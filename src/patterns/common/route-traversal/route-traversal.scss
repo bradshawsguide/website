@@ -7,7 +7,7 @@
     "prev  next";
   grid-gap: $__space-xsmall $__space-large;
   border-top: $__rule;
-  padding: $__space-xxsmall 0 $__space-small;
+  padding: $__space-xxsmall $__space-xxsmall $__space-small;
   color: $__color-neutral-mid;
 
   @media screen and (min-width: $__breakpoint-medium) {
@@ -23,6 +23,10 @@
     content: "\0020\261E"; // ☞
     font-family: serif;
   }
+}
+
+.c-route-traversal--current {
+  background-color: $__color-neutral-lighter;
 }
 
 .c-route-traversal__title {
