@@ -36,6 +36,8 @@ notes:
 - Distance from station, 1 mile.
 - A telegraph station.
 ----
+desc: This ancient town, which in Saxon times was noted for its college, founded by Wulfruna, sister of King Egbert, and thence called *Wulfrunes-hampton*.
+----
 text: This ancient town, which in Saxon times was noted for its college, founded by Wulfruna, sister of King Egbert, and thence called *Wulfrunes-hampton*, from which it derives the modem name, is now a parliamentary borough (two members), and the capital of the iron trade. By the North Western, or narrow-gauge line, it is 126 miles from London (or 13 miles from Birmingham); by the broad gauge, via Oxford and Worcester, 142 miles. The branch covers about 30 square miles of barren soil, beneath which are rich crops of coal, iron, and stone. Population 147,670.
 
 All kinds of articles in iron, brass, tin-plate, japan work, &c., are made here, as locks and keys, hinges, fenders, coffee mills, tea trays, bolts, files, screws, and other tools, besides engines, &c. Smeltmg-houses and foundries abound on all sides (see <cite>Bradshaw's Hand-Book to the Manufacturing Districts</cite>). The making of tin-plate, that is, of iron tinned over, is a staple business. That of japanning was first introduced by Baskerville, the Birmingham printer, whose portrait may be seen in the counting-house of Messrs. Longman, in Paternoster Row.

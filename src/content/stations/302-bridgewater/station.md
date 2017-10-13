@@ -26,6 +26,8 @@ notes:
 - Distance from station, ¼ mile.
 - A telegraph station.
 ----
+desc: A port and borough in Somersetshire, on the Great Western Railway, 29 miles from Bristol, a bay, and the mouth of the Parret.
+----
 text: A port and borough in Somersetshire, on the Great Western Railway, 29 miles from Bristol, a bay, and the mouth of the Parret. Common red bricks of an excellent quality, and the white scouring "Bath Brick" as it is called, though peculiar to Bridge water, is only made here by two or three firms. They are manufactured from the slime deposited on the banks of the Parret, where untouched by the salt water (which spoils it), and burnt at the top of the kiln, above the red bricks.
 
 It returns two members, and has a population of 11,320. About 8,500  tons of shipping belong to the. port; small vessels of 200 tons come up to the quay. Admiral Blake was born here in 1599, the son of a merchant He sat for his native town in parliament. "He was the first man (says Clarendon) who brought ships to contemn castles on shore, which...... were discovered by him to make a noise only; and...... who infused that proportion of courage into the seamen, by making them see what mighty things they could do if they were resolved." There was a fortress on Castle Hill, built after the Conquest, by Walter de Douai, from whom, or from the bridge which he began, the town takes its name, Bridge-Walter.

@@ -28,4 +28,6 @@ notes:
 - Distance from station, 2 miles.
 - Telegraph station at Evesham, 5½ miles.
 ----
+desc: The staple manufacture here is stockings. At this place the nuns of the Abbey House, the only relics of a large monastic establishment, may be seen.
+----
 text: The staple manufacture here is stockings. At this place the nuns of the Abbey House, the only relics of a large monastic establishment, may be seen. The situation of the town is very beautiful and the surrounding scenery is picturesque, particularly Aylesborough, about a mile from the town.

@@ -26,4 +26,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: The village of Ruabon is most pleasantly situated, and there are mansions, iron and coal works in the neighbourhood.
+----
 text: The village of Ruabon is most pleasantly situated, and there are mansions, iron and coal works in the neighbourhood. Ruabon Church is well worthy of a visit. It contains several fine monuments, particularly one to the memory of Sir Watkin Wm. Wynne, Bart., which is much admired.

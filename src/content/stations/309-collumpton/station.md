@@ -28,4 +28,6 @@ notes:
 - Distance from station, ¼ mile.
 - A telegraph station.
 ----
+desc: This little town, though containing a population of only 2,205, is one of great antiquity, having been in the possession of Alfred the Great, and afterwards belonging to Buckland Abbey.
+----
 text: This little town, though containing a population of only 2,205, is one of great antiquity, having been in the possession of Alfred the Great, and afterwards belonging to Buckland Abbey. It has some manufactories for woollen and paper.

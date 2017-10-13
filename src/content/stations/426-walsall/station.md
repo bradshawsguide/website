@@ -29,4 +29,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This is a borough town, population 37,760, who return one member.
+----
 text: This is a borough town, population 37,760, who return one member. The principal buildings are the church (rebuilt in 1821 on the site of an old one), old Town Hall, Queen Mary's grammar school (in which Lord Chancellor Saunders and Bishop Hough were educated), Harper's almshouses, and the manufactories of sadlers' ironmongery, which constitutes the principal trade of the place. In the vicinity are *Springfield*, R. Jesson, Esq., and *Bentley Hall*, E. Anson, Esq.

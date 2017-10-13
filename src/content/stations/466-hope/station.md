@@ -25,6 +25,8 @@ info:
 - term: Fairs
   desc: are held here on Shrove Tuesday, May 10th, August 12th, and October 27th.
 ----
+desc: Situated on Watts' Dyke and the Alyn, over which there is an old bridge, has the ruins of a castle where Queen Eleanor (Edward I.'s wife) remained on her way to Carnarvon. Hope church contains the Trevor's tombs.
+----
 text: Situated on Watts' Dyke and the Alyn, over which there is an old bridge, has the ruins of a castle where Queen Eleanor (Edward I.'s wife) remained on her way to Carnarvon. Hope church contains the Trevor's tombs.
 
 In the vicinity are the borough of Caergwrle, with a population of 844, who return one member; Plas Tey, seat of C. Trevor, Esq., and Bryn Yorkyn, E. Yonge, Esq.

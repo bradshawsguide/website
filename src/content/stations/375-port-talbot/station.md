@@ -23,4 +23,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Here is an orangery, 327 feet by 81 which contains the produce of a cargo from Holland intended for Queen Mary, but wrecked here in 1694.
+----
 text: Three miles distant is *Margam Park*, the seat of C. R. M. Talbot, Esq., M.P., the descendant of the Mansells. Here is an orangery, 327 feet by 81 which contains the produce of a cargo from Holland intended for Queen Mary, but wrecked here in 1694. A bay tree, 60 feet high, and 45 in diameter, spread, and a magnificent forest of oak trees, for which the Government, in 1800 offered £40,000.

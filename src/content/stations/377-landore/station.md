@@ -14,4 +14,6 @@ company:
 route:
 - gloucester-to-newport-swansea-carmarthen-and-milford-haven
 ----
+desc: Here passengers change carriages for Swansea two miles distant. The view they obtain here of the valley down to Swansea is very striking.
+----
 text: Here passengers change carriages for Swansea two miles distant. The view they obtain here of the valley down to Swansea is very striking. If at night, the lurid glare from countless coke ovens--if by day, the dense clouds proceeding from hundreds of chimney stalks overhanging the valley, and at all times, the arsenical sulphurous vapour rilling the air and which you may both smell and taste, give the scene a character scarcely to be seen elsewhere.

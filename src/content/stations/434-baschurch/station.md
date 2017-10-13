@@ -26,6 +26,8 @@ info:
 notes:
 - Telegraph station at Shrewsbury, 7½ miles.
 ----
+desc: The village of Baschurch is of great antiquity, and its salubrity and general cleanliness render it a desirable place of residence.
+----
 text: The village of Baschurch is of great antiquity, and its salubrity and general cleanliness render it a desirable place of residence. It has an old British fortress, with a fine prospect from Ness Cliff.
 
 The British prince, Cynddylan, was buried here.

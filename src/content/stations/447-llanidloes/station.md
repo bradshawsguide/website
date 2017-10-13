@@ -20,7 +20,9 @@ Station closed in 1962.
 notes:
 - A telegraph station.
 ----
-text:  Situated at the confluence of the rivers Clywedog and Severn, returns one member to parliament, and. has a population of 3,127, principally engaged in the manufacture of woollen and coarse flannels. The church contains some interesting remains.
+desc: Situated at the confluence of the rivers Clywedog and Severn, returns one member to parliament, and has a population of 3,127, principally engaged in the manufacture of woollen and coarse flannels.
+----
+text: Situated at the confluence of the rivers Clywedog and Severn, returns one member to parliament, and has a population of 3,127, principally engaged in the manufacture of woollen and coarse flannels. The church contains some interesting remains.
 
 From this we may visit the source of the Rheidol, and *Blaen Hafran*, the source of the Severn on the edge of Plinlimmon. The road hence to *Machynlleth* is full of grand scenery (a distance of 18 miles), and we may add, the wildest road in the kingdom.
 

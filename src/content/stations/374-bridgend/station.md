@@ -23,4 +23,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Five miles from this improving town, at which the county elections are held, lies situated, on the coast, *Dunraven Castle*.
+----
 text: Five miles from this improving town, at which the county elections are held, lies situated, on the coast, *Dunraven Castle* (anciently called Dindryfan, and the residence of Caractacus), the beautiful and romantic seat of the Dowager Countess of Dunraven, the heiress of the late Thomas Wyndham, Esq., who represented the county of Glamorgan in parliament for upwards of 40 years.

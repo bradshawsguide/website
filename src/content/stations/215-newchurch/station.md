@@ -55,6 +55,8 @@ distances:
 - location: Winham
   miles: "2"
 ----
+desc: Newchurch, with its white spire, stands at the end of a short village, near the stream which runs into Brading harbour.
+----
 text: Newchurch, with its white spire, stands at the end of a short village, near the stream which runs into Brading harbour. The parish is the largest in the island, with a population of 14,003, stretching across it so as to take in both Ryde and Ventnor. Fine views on both sides of the Down, which is 6 miles from Ryde.
 
 (distances: title: Distances of Places from Newchurch)

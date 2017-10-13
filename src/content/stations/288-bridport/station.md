@@ -21,4 +21,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: A small port on the river Brit, noted from the earliest period for its hempen manufactures. Its staple productions are twine, fishing nets, and canvas, and much hemp for the purpose is grown.
+----
 text: A small port on the river Brit, noted from the earliest period for its hempen manufactures. Its staple productions are twine, fishing nets, and canvas, and much hemp for the purpose is grown. "He was stabbed with a Bridport dagger" was an old saying for a man that was hung.

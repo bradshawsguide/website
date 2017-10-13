@@ -25,6 +25,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Totness is situated on the river Dart. The ancient Roman fosseway forms a prominent feature in this town.
+----
 text: Totness is situated on the river Dart. The ancient Roman fosseway forms a prominent feature in this town. There is a good deal of woollen cloth manufactured here, but the chief employment of the inhabitants is in the fishery. Its principal attractions are a Guildhall, assembly room, and theatre, banks, Libraries &c.
 
 After a very brief stoppage at Brent and Kingsbripge Road stations, we arrive at [Ivy Bridge](/stations/ivy-bridge).

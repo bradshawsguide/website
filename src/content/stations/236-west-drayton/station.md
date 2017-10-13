@@ -22,6 +22,8 @@ notes:
 - Distance from station, ¼ mile.
 - A telegraph station.
 ----
+desc: Here descends many a brother of the rod and line, who, in the confluence of the Colne and Crane, finds a prolific source of pleasure from his favourite pastime.
+----
 text: Here, in the early mornings of summer and golden evenings of autumn, descends many a brother of the rod and line, who, in the confluence of the Colne and Crane, finds a prolific source of pleasure from his favourite pastime.
 
 We now cross the western boundary of Middlesex, and then pass over a small corner of Buckinghamshire, between West Drayton and Maidenhead, into the county of Berks.

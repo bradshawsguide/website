@@ -30,6 +30,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This is a very ancient town, famous as being the site of the conflict between Penda and Oswald in 642, when the latter lost his life.
+----
 text: This is a very ancient town, famous as being the site of the conflict between Penda and Oswald in 642, when the latter lost his life. It took its name from this circumstance. Its early importance may be gathered from a description given of it by a Welsh poet of the 15th century, who describes it as <q>the London of Powis</q>--and Churchyard apostrophizes it as <q>a prettie towne, full fine.</q> There are but few fragments of the castle left, but these are interesting from the fact that here the Duke of Hereford (Henry IV.) and the Duke of Norfolk met to settle the dispute between them. The church is a large and handsome building. It is of great antiquity.
 
 Oswestry stands upon higher ground than any other town in Shropshire. The country for several miles round is delightfully varied with hills, vales, wood, and water, and abounds in rich scenery.

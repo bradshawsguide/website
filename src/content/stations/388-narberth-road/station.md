@@ -28,6 +28,8 @@ notes:
 - Distance of town from station, 3¾ miles.
 - Telegraph station at Haverfordwest, 11¾ miles.
 ----
+desc: Narberth is a small neat own in the county of Carmarthen, with a population of 2,546.
+----
 text: Narberth is a small neat own in the county of Carmarthen, with a population of 2,546. It has the privilege of being represented in parliament in connection with the borough of Haverfordwest, Fishguard, and St. Davids.
 
 Those who wish to shorten their journey to Tenby may do so by taking a coach at this station, the road from whence runs direct, a distance of about nine miles.

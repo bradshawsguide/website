@@ -22,6 +22,8 @@ notes:
 - Distance from station, ¾ mile.
 - Telegraph station at Chippenham, 4¼ miles.
 ----
+desc: King Ethclred had a palace here, and it was once the favourite residence of the Earls of Cornwall.
+----
 text: King Ethclred had a palace here, and it was once the favourite residence of the Earls of Cornwall. *Corsham House*, the seat of Lord Methuen, has a very fine collection of paintings.
 
 Sir Richard Blackmore, the poet, was a native.

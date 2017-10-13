@@ -22,4 +22,6 @@ info:
 - term: Hotel
   desc: The Bell.
 ----
+desc: *Ditchley* (2 miles), Lord Dillon, was the birthplace of the notorious Lord Rochester. Near it is *Kiddington*, with an old church, of which Wharton was rector.
+----
 text: *Ditchley* (2 miles), Lord Dillon, was the birthplace of the notorious Lord Rochester. Near it is *Kiddington*, with an old church, of which Wharton was rector. 6 miles distant is *Heythorpe*, another seat of the Duke of Beaufort. *Glympton*, on the river Gline, E. Way, Esq. From this station *Wychwood Forest*, (a fine wooded track of much sylvan beauty) soon to be reclaimed, may be visited. Warton the poet has immortalised the scenery about here. Still passing along the valley of the Evenlode, we pass [Ascott](/stations/ascott) station, arriving at [Shipton](/stations/shipton).

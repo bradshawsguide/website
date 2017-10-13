@@ -21,6 +21,8 @@ info:
 notes:
 - Telegraph station at Leominster, 13¾ miles.
 ----
+desc: Pleasantly situated under the Bradnor Mountain. It has a little clothing trade, and a church, with a detached tower, its spire resembling three hollow cones, placed one above the other.
+----
 text: Pleasantly situated under the Bradnor Mountain. It has a little clothing trade, and a church, with a detached tower, its spire resembling three hollow cones, placed one above the other. Five miles north is the old border town of *Presteign*.
 
 The tourist may now, if he please, avail himself of conveyances by which he may reach the sources of the Wye, Plinlimmon, and Aberystwith The route, laying through *Radnor*, with its old border castle of the Mortimers; by the glens and cascades of Radnor Forest to *Rhayader*, with its crags, and pools (full of fish), and old castles, and thence as described under the head of Brecon and Merthyr.

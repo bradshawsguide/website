@@ -39,6 +39,8 @@ distances:
 - location: Sandown Lake
   miles: "1"
 ----
+desc: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
+----
 text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
 
 (distances: title: Distances of Places from Sandown)

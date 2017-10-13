@@ -20,6 +20,8 @@ info:
 - term: Market Days
   desc: Tuesday and Saturday.
 ----
+desc: The town of Milford has a population of 3,007 partially engaged in ship-building.
+----
 text: The town of Milford has a population of 3,007 partially engaged in ship-building. It is pleasantly situated; but since the removal of the royal dockyard and Irish packet station from here, about 1815, to Pater and Pembroke, on the opposite side of the Haven, its importance in a commercial point of view has much declined.
 
 Milford is prettily situated on a sloping point of land, about six miles from the entrance of the Haven, to which it gives its name. Milford Haven ought to be viewed from the water. The lower and broadest portion of the Haven runs in an easterly direction for about twelve miles, and then turns abruptly to the north, forming several reaches towards Haverfordwest. The scenery around Milford is very picturesque.

@@ -26,4 +26,6 @@ notes:
 - Distance from station, ½ mile.
 - A telegraph station
 ----
+desc: An ancient town, the seat of a considerable glove trade.
+----
 text: An ancient town, the seat of a considerable glove trade. Population, 7,957. It has a fine Gothic church, and a large market house, well calculated for its large market, which occurs on Fridays. In the vicinity is *Brympton House* the old seat of the Fane family.

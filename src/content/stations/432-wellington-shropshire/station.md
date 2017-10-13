@@ -32,4 +32,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Situated between the canal and Watling Street, from which it derives its name (*Watling-town*).
+----
 text: Situated between the canal and Watling Street, from which it derives its name (*Watling-town*). Some interest attaches to it as a watering place, having its mineral springs and baths; also its churches, chapels, saving's bank, &c., &c. About 3 miles south is the noble peak of the *Wrekin*, 1,320 feet above the plain, the top of which commands a most extensive prospect.

@@ -21,6 +21,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This is a charmingly situated and rapidly improving watering place, much frequented by the citizens of Bristol during the summer season.
+----
 text: This is a charmingly situated and rapidly improving watering place, much frequented by the citizens of Bristol during the summer season. Situated on the margin of the Bristol Channel, with rugged and precipitous rocks rising boldly up from the
 
 > Deep waters of the dark blue sea,

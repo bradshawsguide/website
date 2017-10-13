@@ -27,4 +27,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Neath is a busy place, from its being a coal and mineral port.
+----
 text: From the station, the old castle gateway, with its two flanking towers, and the huge embattled tower, now a portion of the church, frowning upon it in gloomy majesty, is very striking. Neath is a busy place, from its being a coal and mineral port. Here the flue Vale of Neath may be ascended to the beautiful waterfalls at its summit.

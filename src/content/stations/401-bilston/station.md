@@ -33,4 +33,6 @@ notes:
 - Distance from station, 1 mile.
 - A telegraph station.
 ----
+desc: This place forms a great centre of the iron trade, and has become one of growing importance.
+----
 text: This place forms a great centre of the iron trade, and has become one of growing importance. The people are engaged in the manufacture of almost everything useful in iron and steel wares, and the districts around are rich in the products of iron coal, quarry-stone, &c., &c.

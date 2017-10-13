@@ -60,6 +60,8 @@ distances:
 - location: Tapnel
   miles: "2½"
 ----
+desc: Yarmouth, another decayed borough, originally founded by the Rivers family.
+----
 text: Yarmouth, another decayed borough, originally founded by the Rivers family. There is a town hall, one of Henry VIII.'s forts, and a church in which is a monument of Sir Robert Holmes, Captain of the Island, at the visit of Charles II. in 1671. He resided at what is now the King's Head Inn. Hurst Castle is opposite.
 
 (distances: title: Distances of Places from Yarmouth)

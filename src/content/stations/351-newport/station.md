@@ -26,6 +26,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This is a sea port town of some importance, having a population of 23,249.
+----
 text: This is a sea port town of some importance, having a population of 23,249. It has a constant steam packet communication with Bristol and various parts of South Wales; and by means of its ready access by railway with the many iron districts in the neighbourhood, its traffic in that mineral, as well as coal, of late years has greatly increased. With the exception of the church, which presents various styles of architecture, the town itself has no prepossessing attractions. The scenery from the church-yard is very imposing, taking in, as it does, a wide expanse of country, as well as an extensive view of the Severn. Outside the town a stone bridge of five arches crosses the river Usk. It was erected at a cost of something over 10,000*l*.
 
 The [Eastern](/routes/newport-to-blaenavon) and [Western](/routes/newport-to-blaina) Valleys Lines turn off at this point to the right, passing through districts rich in mineral products, but not of essential importance to the general tourist.

@@ -30,4 +30,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This is a very old market town, having a population of 15,298, almost entirely engaged in the iron trade--every description of cast-iron work being done here.
+----
 text: This is a very old market town, having a population of 15,298, almost entirely engaged in the iron trade--every description of cast-iron work being done here. Its products of coal and iron are of a very valuable description, the coal beds varying in thickness from three to fourteen feet. It is of a very superior quality. There are some traces of an old fort of Saxon origin. The interior of the church, a neat Gothic structure of the eighth century, has some beautiful carving, with several monuments of the predecessors of the families of Lords Dudley and Harcourt.

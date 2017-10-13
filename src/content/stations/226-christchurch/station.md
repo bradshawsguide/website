@@ -23,4 +23,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Christchurch is a town containing some beautiful relics of the past in the ruins of its ancient collegiate church and priory, which are well worthy of notice.
+----
 text: Christchurch (at the confluence of the Avon and Stour) is a town containing some beautiful relics of the past in the ruins of its ancient collegiate church and priory, which are well worthy of notice. The church, which has been restored, is 310 feet long. It has a trade in knit and silk stockings, &c.

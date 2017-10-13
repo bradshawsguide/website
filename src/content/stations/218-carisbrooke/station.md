@@ -21,8 +21,6 @@ notes:
 - Distance from station at Portsmouth, 16 miles.
 - Telegraph station at Newport, 1 mile.
 ----
-desc: The former capital, where the governor used to reside.
-----
 distances:
 - location: "Atherfield"
   miles: "6"
@@ -40,6 +38,8 @@ distances:
   miles: "1"
 - location: "Well, The"
   miles: "6½"
+----
+desc: The former capital, where the governor used to reside.
 ----
 text: Carisbrooke, the former capital, where the governor used to reside. Old Church, close to some slight traces of a priory, founded after the Conquest, by William Fitz-Osborne, a Norman Knight, who built the *Castle*. This stands on a hill beyond the village and, including the wards, occupies a site of two acres within the walls. The fine gateway is machicolated, *i.e.*, provided with slits for shooting arrows, &c., down on any one below. The keep commands a good view. There are some remains of the outer walls and towers; and they show (but this is doubtful) the window through which the unfortunate Charles I. tried to make his escape when imprisoned here 1648, in Colonel Hamond's charge.
 

@@ -29,6 +29,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Wrexham is a populous town in the county of Denbigh. Population 7,562, who return one member. It stands in a fertile plain adjoining the Royal Vale of Cheshire.
+----
 text: <span class="smcp">Wrexham</span> is a populous town in the county of Denbigh. Population 7,562, who return one member. It stands in a fertile plain adjoining the Royal Vale of Cheshire. It is well built, the church is a very handsome edifice, built in the 15th century, and is equal in point of beauty to many of our Cathedrals. It is 178 feet long, 72 feet wide, and has a tower 185 feet in height, which portion is considered a masterpiece of architectural display; it also contains a chaste monument by Roubiliac to Mary Middleton, with some fine monuments of the neighbouring gentry. In addition to this edifice there are several other places of worship. The town being situated in the centre of an extensive mining and manufacturing district is considered the metropolis of North Wales. The town-hall is a large edifice at the top of High Street.
 
 In the vicinity is *Gardden Lodge*, the seat of G. Walmsley, Esq., on a hill to the right, built on the site of an old fortress and encampment, in the vicinity of which a battle was fought, between the English and the Welsh in 1161-2.

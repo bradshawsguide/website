@@ -17,4 +17,6 @@ route:
 notes:
 - A telegraph station.
 ----
+desc: A town prettily situated on the right bank of the river Lymington. Its maritime operations are chiefly confined to the Isle of Wight, with which it has frequent communication.
+----
 text: A town prettily situated on the right bank of the river Lymington. Its maritime operations are chiefly confined to the Isle of Wight, with which it has frequent communication. Salt is extensively manufactured in the neighbourhood. The parish church, dedicated to Thomas a Becket, has many striking monuments.

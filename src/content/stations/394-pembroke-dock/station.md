@@ -12,5 +12,7 @@ company:
 route:
 - new-milford-to-tenby
 ----
+desc: Terminus of the South Wales section of the Great Western.
+----
 text: A royal dockyard, at the head of the magnificent inlet called Milford Haven, opposite to [New Milford](/stations/new-milford) (from which it is distant 1½ mile), and the terminus of the South Wales section of the Great Western. From hence, by rail, about 1 mile, brings us to the town of
 [Pembroke](/stations/pembroke).

@@ -26,4 +26,6 @@ notes:
 - Distance from station, 3½ miles.
 - Telegraph station at Steventon, 7½ miles.
 ----
+desc: This ancient market town is memorable as the birth-place of our *great* Alfred in 849, and his jubilee in 1849; and during the time of the Saxons it was a royal residence.
+----
 text: This ancient market town is memorable as the birth-place of our *great* Alfred in 849, and his jubilee in 1849; and during the time of the Saxons it was a royal residence. The famous Wayland Smith's Cave, on Childry Downs, is not far from the town. In the romance of "Kenilworth," Wayland Smith plays a prominent part, and his character--though founded on a slight foundation--has been drawn by the author of Waverley with amazing power and freshness, forming another of those poetical creations which his wizard pen has left to solace sickness, console sorrow, inspire genius, and defy imitation.

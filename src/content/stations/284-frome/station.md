@@ -23,4 +23,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Is agreeably situated on the north-east declivity of several hills contiguous to Selwood Forest. It has considerable manufactures of woollen cloth, and an excellent grammar school, founded by Edward VI.
+----
 text: Is agreeably situated on the north-east declivity of several hills contiguous to Selwood Forest. It has considerable manufactures of woollen cloth, and an excellent grammar school, founded by Edward VI. At *Nunney* (3 miles) are the ruins of a castle. *Marston Biggot* (2 miles) Earl of Cork and Orrery. *Mells Park* (4 miles). *Longleat Park* (3½ miles) the extensive domain of the Marquis of Bath.

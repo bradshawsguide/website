@@ -25,6 +25,8 @@ info:
 notes:
 - Telegraph station at Gobowen, 3 miles.
 ----
+desc: Pleasantly situated on the brow of a hill, surrounded by fertile meadows and wooded banks. The neighbourhood affords various rural entertainments for tourists and visitors.
+----
 text: Pleasantly situated on the brow of a hill, surrounded by fertile meadows and wooded banks. The neighbourhood affords various rural entertainments for tourists and visitors. Chirk Viaduct is considered a beautiful engineering gem, and viewed from a hill on the south-west side of the valley, near Pont Feun, is seen to great advantage, and discloses through its arches the lovely vale of Ceiriog.
 
 Parallel with the Chirk viaduct is the aqueduct, built by Telford, which conveys the Ellesmere canal over the vale of Ceiriog.

@@ -75,6 +75,8 @@ distances:
 - location: Woodchester
   miles: "2"
 ----
+desc: Stroud is a market, town, situated near the confluence of the river Frome and the Slade Water.
+----
 text: Stroud is a market, town, situated near the confluence of the river Frome and the Slade Water. Woollen cloth forms the staple, manufacture of the town and its environs. Returns two members to Parliament.
 
 (distances:)

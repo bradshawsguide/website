@@ -31,4 +31,6 @@ info:
 notes:
 - Telegraph station at Rhyl, 4¼ miles
 ----
+desc: This station is close to the sea side, and at little distance from the town. Its situation is very beautiful, the Clwydian range of hills forming a most picturesque and varied back ground to it.
+----
 text: This station is close to the sea side, and at little distance from the town. Its situation is very beautiful, the Clwydian range of hills forming a most picturesque and varied back ground to it; and *Gwrych Castle*, the elegant seat of Lloyd Bamford Hesketh, Esq., adding a peculiar charm to the whole. It consists of only one wide street, but the salubrity of the air, and its sea shore, render it a favourite watering place for bathing. The scenery in the neighbourhood is magnificent, and is adorned with gentlemen's seats and thickly-wooded parks. In the vicinity are British and Roman camps, Cefn Oge cave, where Richard II. lay concealed until betrayed to Bolingbroke by Percy, and the Lysfaen telegraph 709 feet high, which communicates with Liverpool. From Abergele the railway keeps close to the sea side for some distance, and then winds round to Conway.

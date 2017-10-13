@@ -27,4 +27,6 @@ notes:
 - Distance from station, ½ mile.
 - A telegraph station.
 ----
+desc: The neighbourhood abounds with religious monuments.
+----
 text: The scenery around here becomes exquisitely pastoral, and almost immediately after quitting the station, the majestic hill known as Glastonbury Tor is seen in the distance, and can be distinctly discerned, with its ruined temple on the summit, though 13 miles off. The neighbourhood abounds with religious monuments.

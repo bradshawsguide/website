@@ -64,7 +64,9 @@ distances:
 - location: Stroud
   miles: "2"
 ----
-text: Cirencester is one of the greatest marts in England for wool. The magnificence of the church in this place entitles it. to rank amongst the first in the kingdom. Here throe Roman roads meet, and from the variety of Roman coins, tessellated pavement, and other antiquities found in the neighbourhood, it seems to have covered a much wider area than at present.
+desc: Cirencester is one of the greatest marts in England for wool. The magnificence of the church in this place entitles it to rank amongst the first in the kingdom.
+----
+text: Cirencester is one of the greatest marts in England for wool. The magnificence of the church in this place entitles it to rank amongst the first in the kingdom. Here throe Roman roads meet, and from the variety of Roman coins, tessellated pavement, and other antiquities found in the neighbourhood, it seems to have covered a much wider area than at present.
 
 Cirencester was formerly fortified, and the ruins of the walls and streets may still be seen in the adjacent meadows.
 

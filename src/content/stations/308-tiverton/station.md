@@ -25,4 +25,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Tiverton has a population of 10,447, returning two members to parliament. It is a place of considerable antiquity.
+----
 text: Tiverton has a population of 10,447, returning two members to parliament. It is a place of considerable antiquity, being a small village in the time of Alfred the Great, and described in the Doomsday Survey as belonging to the king. The manorial rights originally, by virtue of a gift from Henry I., belonged to Richard Rivers, afterwards Earl of Devon, who built a castle, and, residing here, greatly added to the prosperity of the place.

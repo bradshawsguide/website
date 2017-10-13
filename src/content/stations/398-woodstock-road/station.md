@@ -31,6 +31,8 @@ notes:
 - Distance from station, 3 miles.
 - A telegraph station.
 ----
-text: The town of Woodstock has a population of 7,827, and returns one representative to parliament Its principal trade consists in the manufacture of doeskin gloves and other leather productions. Great historical interest attaches to this place, as having been occasionally the residence of Henrys I. and II. It was here that Henry II. constructed the "bower" for fair Rosamond Clifford.
+desc: Great historical interest attaches to this place, as having been occasionally the residence of Henrys I. and II.
+----
+text: The town of Woodstock has a population of 7,827, and returns one representative to parliament. Its principal trade consists in the manufacture of doeskin gloves and other leather productions. Great historical interest attaches to this place, as having been occasionally the residence of Henrys I. and II. It was here that Henry II. constructed the "bower" for fair Rosamond Clifford.
 
 [Kirtlington](/stations/kirtlington), [Heyford](/stations/heyford), [Somerton](/stations/somerton), and [Aynho](/stations/aynho) stations.
