@@ -1,8 +1,8 @@
 <footer class="c-contentinfo">
   <ul class="c-contentinfo__links">
     <li><a href="/about/">About</a></li>
-    <li><a href="/stations/">Station Index</a></li>
-    <li><a href="/companies/">Company Index</a></li>
+    <li><a href="/stations/">Stations</a></li>
+    <li><a href="/companies/">Companies</a></li>
   </ul>
 
   <div class="c-contentinfo__social">

@@ -12,12 +12,12 @@ class RoutePage extends Page {
     return $shortTitle;
   }
 
-  // Return `title_later` if exists, else normal title
+  // Return `line` name if exists, else defer to company title
   public function currentTitle() {
     if (!$this->line()->empty()) {
       $currentTitle = $this->line();
     } else {
-      $currentTitle = $this->title();
+      $currentTitle = page('companies/'.$this->company())->title();
     };
 
     return $currentTitle;

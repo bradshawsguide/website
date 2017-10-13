@@ -56,9 +56,13 @@ The train passes through a lovely and picturesque country.
 
 (station: croydon)
 
-The line now passes through a fine open country, and shortly reaches the junction of the [Epsom Branch](/routes/croydon-to-epsom) of the Croydon Railway.
+The line now passes through a fine open country, and shortly reaches the junction of the Epsom Branch of the Croydon Railway.
 
-Returning to Croydon we will now pass over the [Croydon and Wimbledon branch](/routes/croydon-to-wimbledon).
+(route: croydon-to-epsom)
+
+Returning to Croydon we will now pass over the
+
+(route: croydon-to-wimbledon)
 
 ### Croydon to Three Bridges
 After leaving Croydon we pass through a short cutting, and emerge upon an embankment upwards of two miles long, which affords delightful views of the surrounding scenery; and at the distance of about 4½ miles from Croydon, arrive at the station of
@@ -83,7 +87,11 @@ Four miles beyond, the railway passes over the boundary line into the county of 
 
 (station: three-bridges)
 
-This is the junction point of the [Horsham Branch](/routes/three-bridges-to-horsham-and-arundel).
+This is the junction point of the
+
+(route: three-bridges-to-horsham-and-arundel)
+
+(route: three-bridges-to-east-grinstead)
 
 ### Three Bridges to Hayward's Heath.
 The line now passes over an embankment of considerable length, and the railway thence commences a descent. Passing through a series of cuttings, we enter the Balcombe tunnel, the second of the great tunnels along the line, soon after emerging from which we arrive at the [Balcombe](/stations/balcombe) station.
@@ -97,6 +105,8 @@ A short distance further on the line crosses the Ouse by the viaduct of that nam
 As we are whirled along it, the prospect presents us with an unbounded scene of beauty, the country round being steeped in the most luxuriant verdure, and hill and dale, woodland and pasture land, succeed each other in infinite variety to the very verge of the horizon.
 
 (station: haywards-heath)
+
+(route: haywards-heath-to-lewes-and-hastings)
 
 ### Hayward's Heath to Brighton.
 Retracing our way to Hayward's Heath we pass through a short tunnel, and then perceive a beautiful pastoral country, on which is dotted pretty seats of the gentry, and the farms of substantial yeomen, occasionally enlivened by a church steeple peering above its wooded covert. A short four miles and we arrive at

@@ -32,11 +32,11 @@ The line then passes through a rural district, to
 
 (station: horsham)
 
-[A line to Guilford](/routes/horsham-to-guildford) branches off here.
+A line to Guilford branches off here.
 
-On leaving Horsham we pass the little village of [Billingshurst](/stations/billingshurst), and very soon arrive at
+(route: horsham-to-guildford)
 
-[Pulborough](/stations/pulborough), the junction of a short line to
+On leaving Horsham we pass the little village of [Billingshurst](/stations/billingshurst), and very soon arrive at [Pulborough](/stations/pulborough), the junction of a short line to
 
 (station: petworth)
 

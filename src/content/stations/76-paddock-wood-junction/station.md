@@ -15,7 +15,7 @@ company:
 ----
 route:
 - charing-cross-to-folkestone-and-dover
-- strood-to-maidstone-and-paddock-wood
+- paddock-wood-to-maidstone
 ----
 info:
 - term: Money Order Office

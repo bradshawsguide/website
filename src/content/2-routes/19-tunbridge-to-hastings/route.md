@@ -2,7 +2,7 @@
 ----
 title: Tunbridge to Hastings
 ----
-line: Hastings Line
+line: Tunbridge Well and Hastings Branch
 ----
 company: south-eastern
 ----

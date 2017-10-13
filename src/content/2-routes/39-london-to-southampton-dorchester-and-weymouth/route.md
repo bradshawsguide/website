@@ -13,8 +13,7 @@ stops:
 - wimbledon
 - merton
 - coombe-and-malden
-- surbiton
-- kingston
+- surbiton-and-kingston
 - esher
 - walton-and-hersham
 - weybridge
@@ -51,14 +50,16 @@ Of all the many alluring rambles held forth to the tourist who wishes to avail h
 The [Metropolitan terminus](/stations/waterloo-bridge) of the [South Western](/companies/london-and-south-western) is at Waterloo Road. Omnibuses convey passengers to and from all parts of town. The terminus is a spacious building, admirably adapted for the different railway offices and the various departments connected with the Company. The gentle pace at which the trains first move afford time for observing the extensive engine houses and workshops at Nine Elms. The line passes over viaducts or arches through a part of the densely populated parish of Lambeth, over the tops of houses, past the grounds of Lambeth Palace, in a line with which is Lambeth Church, and across the river may be seen the splendid towers of the new Houses of Parliament.
 
 ### London to Clapham
-Thence we pass on through
-
 (station: vauxhall)
+
+As the Richmond and Windsor Railway is the first branch of the South Western, we will commence our description with that.
+
+(route: london-to-richmond-and-staines)
 
 We next find ourselves bounded on each side by spacious market gardens, and we see Battersea new town and the park on the one hand, and Battersea Rise, the region of Clapham, on the other. In Battersea church the great statesman, Bolingbroke, lies buried. At this point, the [Richmond, Staines, and Windsor line](/routes/london-to-richmond-and-staines) diverges to the right, while the main line turns oft towards the left to Wimbledon.
 
 ### Clapham to Kingston
-Soon after rejoining the Main Line at Clapham Common, [a branch to the left](/routes/victoria-to-crystal-palace) leads to the Crystal Palace, *via* [Balham](/stations/balham), [Streatham](/stations/streatham), and [Norwood](/stations/norwood-lower).
+Soon after rejoining the Main Line at Clapham Common, [a branch to the left](/routes/victoria-to-crystal-palace) leads to the Crystal Palace, *via* Balham, Streatham, and Norwood.
 
 (station: clapham)
 
@@ -72,15 +73,57 @@ The adjacent country now begins to assume a very pleasant and diversified appear
 
 Emerging from the excavation, we proceed onwards over an embankment, which affords one continued series of delightful views across a country which art has contributed in the highest degree to adorn, at the extremity of which a cursory glimpse of the old square tower of Kingston church is obtained.
 
-### Weybridge to Woking
-From the hill before [Weybridge](/stations/weybridge) to [Woking](/stations/woking), a distance of six miles, there is a gradual descent After crossing the bridge which spans the Basingstoke Canal, here intersected by the canal from Guildford, and passing several villages, we pass over the Woking embankment, whence a succession of picturesque views will delight the traveller. Ottershaw Park affords a pleasing specimen of English forest scenery. The fine effect of these majestic trees, with nothing behind them but the sunny splendour of a summer morning, or the rich glow of an evening sky, realises all that Claude has embodied in his pictures.
+[Coombe and Malden](/stations/coombe-and-malden).--The line now passes beneath two bridges, and we reach the station at
 
-Three-quarters of a mile beyond [Woking](/stations/woking) a line branches off to the left to Guildford and Godalming, [direct to Portsmouth](/routes/woking-to-godalming-and-portsmouth), from which [another branch](/routes/guildford-to-farnham-and-alton) diverges at Guildford and extends to Ash, Farnham, and Alton.
+(station: surbiton-and-kingston)
+
+(route: surbiton-to-hampton-court)
+
+### Surbiton to Weybridge
+
+(station: esher)
+
+From the Ditton station we cross Walton Heath, and reach the station at
+
+(station: walton-and-hersham)
+
+Emerging from the Walton cutting we gain a somewhat lofty embankment, affording some picturesque views, through which the translucent Wey meanders like a glistening thread.
+
+(station: weybridge)
+
+A little distance beyond Weybridge station a short line branches off to Addlestone and Chertsey.
+
+(route: weybridge-to-chertsey)
+
+### Weybridge to Woking
+From the hill before Weybridge to Woking, a distance of six miles, there is a gradual descent After crossing the bridge which spans the Basingstoke Canal, here intersected by the canal from Guildford, and passing several villages, we pass over the Woking embankment, whence a succession of picturesque views will delight the traveller. Ottershaw Park affords a pleasing specimen of English forest scenery. The fine effect of these majestic trees, with nothing behind them but the sunny splendour of a summer morning, or the rich glow of an evening sky, realises all that Claude has embodied in his pictures.
+
+(station: woking)
+
+(route: woking-to-godalming-and-portsmouth)
 
 ### Woking to Basingstoke
 From Woking the line shortly crosses the road by a viaduct of one arch, and then enters the Goldworthy Hill excavation, on emerging from which it proceeds over the Frimley embankment, about four miles in length, whence an almost unbounded view of the surrounding country bursts upon the sight.
 
-The eye ranges over one vast landscape of hills and valleys thickly wooded, and presenting a *coup d'oeil* of surpassing beauty, above which may be seen the Surrey hills stretching away for miles, and bounding one of nature's panoramas which defy description. Crossing a small streamlet, called Blackwater Brook, we leave the county of Surrey for Hampshire, and passing beneath a road, we reach [Farnborough](/stations/farnborough) Station.
+The eye ranges over one vast landscape of hills and valleys thickly wooded, and presenting a *coup d'oeil* of surpassing beauty, above which may be seen the Surrey hills stretching away for miles, and bounding one of nature's panoramas which defy description. Crossing a small streamlet, called Blackwater Brook, we leave the county of Surrey for Hampshire, and passing beneath a road, we reach Farnborough Station.
+
+(station: farnborough)
+
+At this station the Farnborough cutting ends, and we proceed along an embankment which again reveals some pleasing rural scenery, but the country between here and Winchfield does not demand any lengthened description. This is the nearest station for the Camp at Aldershott.
+
+Passing [Fleetpond](/stations/fleetpond), we soon arrive at
+
+(station: winchfield)
+
+Leaving the station we enter a deep excavation, and soon after a short tunnel; a lofty embankment follows, which presents us with a series of delightful prospects, amongst which the Odiham hills and their singular clump of trees on the summit figure conspicuously on the left.
+
+Prior to entering on the Hook Common excavation we pass beneath Odiham bridge, which leads to the seat of the late and present Duke of Wellington, Strathfieldsaye, situated about six miles off to the right.
+
+The Heriot hills, crested by lofty firs, soon burst into view, and not long after we pass the interesting ruins of Old Basing, which was, in the Saxon era, a place of considerable note, and the scene of contests during the civil wars. The viaduct the line now passes over affords a good view of the old town, and a short distance beyond we reach
+
+(station: basingstoke)
+
+(route: basingstoke-to-salisbury-and-exeter)
 
 ### Basingstoke to Bishopstoke
 The line now passes through a country bearing the true Hampshire characteristics of forest scenery, until we reach [Winchester](/stations/winchester).

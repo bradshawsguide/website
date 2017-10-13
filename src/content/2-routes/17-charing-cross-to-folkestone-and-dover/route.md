@@ -60,7 +60,7 @@ After this the line enters the Great Junction Station at
 
 (station: red-hill)
 
-This is one of the most important junctions of the Kent and Sussex Railways. The [Reigate and Reading Branch](/routes/reigate-to-reading) goes to the west, through the vale of Dorking to Guildford and Reading, communicating thence to any part of the kingdom.
+(route: reigate-to-reading)
 
 ### Red Hill to Tunbridge
 On leaving Reigate, the railway turns off towards the south-east, past the village of Nutfield, a short distance beyond which is Bletchingly, both situated on a range of hills. Bletchingley church is a handsome building containing several line monuments and there are the remains of a castle in the neighbourhood.
@@ -81,12 +81,16 @@ A few miles more, in the course of which we thrice cross the winding Medway, bri
 
 (station: tunbridge)
 
-This, besides being the branch station for passengers [to Tunbridge Wells](/routes/tunbridge-to-hastings), has a convenient refreshment-room appended.
+This, besides being the branch station for passengers to Tunbridge Wells, has a convenient refreshment-room appended.
+
+(route: tunbridge-to-hastings)
 
 ### Tunbridge to Paddock Wood
 On leaving Tunbridge, the line passes through the beautiful park of *Summerhill* the property of Baron de Goldschmidt, and thence, on past the villages of Tudely and Capel to the
 
 (station: paddock-wood-junction)
+
+(route: paddock-wood-to-maidstone)
 
 ### Paddock Wood to Ashford
 From Paddock the main line proceeds rapidly in the direction of the coast, and although the country presents very charming alternations of waste and woodland scenery, yet it does not offer objects of sufficient interest to describe in detail. Views of hop fields are shut in by excavations which, like the change of slides in dissolving views, transform, the landscape every moment.
@@ -104,6 +108,10 @@ From Headcorn the railway passes the villages of Smarden and Bedenham on the rig
 (station: pluckley)
 
 (station: ashford)
+
+(route: ashford-to-canterbury-and-ramsgate)
+
+(route: ashford-to-hastings)
 
 ### Ashford to Folkestone and Dover
 The main line on leaving Ashford makes a gradual approach towards the coast, swerving slightly to the south-east, and having on each side a delightful champaign country.

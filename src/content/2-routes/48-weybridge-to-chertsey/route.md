@@ -13,3 +13,7 @@ stops:
 ----
 links:
 - (wikipedia: Chertsey_branch_line)
+----
+text: [Addlestone](/stations/addlestone) station.
+
+(station: chertsey)

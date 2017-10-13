@@ -3,7 +3,7 @@
 kirbytext::$tags['route'] = array(
   'html' => function($tag) {
     if($route = page('routes/'.$tag->attr('route'))) {
-      $link = html::a($route->url(), $route->line());
+      $link = html::a($route->url(), $route->currentTitle());
 
       $title = brick('dt')->html($link);
       $title->attr('class', 'route-title');

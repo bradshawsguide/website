@@ -1,12 +1,10 @@
 section: 1
 ----
-title: Kingston
-----
-title_later: Surbiton
+title: Surbiton
 ----
 region: surrey
 ----
-location: 51.394, -0.307
+location: 51.3926, -0.3044
 ----
 company:
 - london-and-south-western
@@ -25,6 +23,8 @@ info:
 ----
 notes:
 - A telegraph station.
+----
+desc: Within a mile to the north of which is the modern town of Kingston.
 ----
 text: <span class="smcp">Kingston-on-Railway</span>, situated in a charming verdant cutting, is a new place which has sprung up in the course of a few years, from its vicinity to the railway station. It has a good street, and contains some elegant houses. The neighbouring Common is the spot on which took place the last straggle of the Royalists, in favour of Charles I., then a prisoner in Carisbrooke Castle.
 

@@ -37,6 +37,8 @@ text: The North Kent line commences at [New Cross](/stations/new-cross), from wh
 
 (station: lewisham)
 
+(route: lewisham-to-beckenham-and-croydon)
+
 (station: blackheath)
 
 From this station we can pass through a tunnel 1,680 yards long to arrive at

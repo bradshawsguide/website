@@ -36,6 +36,8 @@ On emerging from the cutting and passing this station, we proceed over a level c
 
 (station: barnes)
 
+(route: barnes-to-hounslow-and-feltham)
+
 ### Barnes to Windsor
 A great portion of the line is but a few feet above the natural surface of the country, and many of the roads are crossed on a level. The country through which it passes does not present many picturesque views, the property almost throughout being circumscribed by orchards and market gardens. The want, however, of the beautiful along the line is amply compensated by the lovely views in the neighbourhood of Richmond; and from Richmond to Datchet there is a succession of splendid scenery.
 
@@ -51,8 +53,16 @@ The line crosses the Thames over the railway bridge at Richmond--a very handsome
 
 (station: twickenham)
 
-[A line of railway](/routes/twickenham-to-kingston) here turns off to the left. The [Thames Valley railway](/routes/twickenham-to-shepperton) here cuts off a small part of the county of Middlesex, and thence toward Shepperton.
+A line of railway here turns off to the left.
+
+(route: twickenham-to-kingston)
+
+(route: twickenham-to-shepperton)
 
 [Feltham](/stations/feltham) and [Ashford](/stations/ashford).
 
 (station: staines)
+
+(route: staines-to-windsor)
+
+(route: staines-to-wokingham-and-reading)

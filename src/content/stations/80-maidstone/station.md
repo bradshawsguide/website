@@ -12,7 +12,8 @@ company:
 - south-eastern
 ----
 route:
-- strood-to-maidstone-and-paddock-wood
+- paddock-wood-to-maidstone
+- strood-to-maidstone
 ----
 info:
 - term: Population

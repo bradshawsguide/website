@@ -72,13 +72,17 @@ One of the villages on the Old Roman road, Watling Street, passing which, and th
 
 (station: sittingbourne)
 
-[A branch](/routes/sittingbourne-to-sheerness) 7 miles long turns off to the left at this place. Continuing the route we pass the station of
+(route: sittingbourne-to-sheerness)
+
+Continuing the route we pass the station of
 
 (station: teynham)
 
 and arrive at
 
 (station: faversham)
+
+(route: faversham-to-ramsgate-harbour)
 
 On retaking our seats at Faversham, a few minutes brings us to the station of [Selling](/stations/selling), and a distance of 6½ miles further, the archiepiscopal city of [Canterbury](/stations/canterbury).
 

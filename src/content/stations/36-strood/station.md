@@ -13,6 +13,7 @@ company:
 route:
 - charing-cross-to-woolwich-gravesend-strood-and-rochester
 - london-to-chatham-and-dover
+- strood-to-maidstone
 ----
 info:
 - term: Hotel

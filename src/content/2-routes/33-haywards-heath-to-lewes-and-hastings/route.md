@@ -44,7 +44,11 @@ Four miles beyond, the line reaches the station at
 
 (station: polegate)
 
-Short lines branch off here in opposite directions to [Hailsham](/routes/polegate-to-hailsham) and [Eastbourne](/routes/polegate-to-eastbourne).
+Short lines branch off here in opposite directions to Hailsham and Eastbourne.
+
+(route: polegate-to-hailsham)
+
+(route: polegate-to-eastbourne)
 
 Immediately on leaving Polegate, eastward, commences the Pevensey level, the scene of the Norman Conquest; and the coast from hence to Hastings is rich in association with this grand chapter of our civilisation.
 
