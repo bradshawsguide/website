@@ -7,6 +7,14 @@
       sizes="100vw"
       alt=""/>
   </div>
+<? elseif($image->name() == 'illustration'): ?>
+  <div class="c-figure__img u-artwork" style="background-image: url(<?= $image->crop(3, 2)->dataUri() ?>)">
+    <img
+      srcset="<?= $image->crop(1200, 800, 80)->url() ?> 1280w, <?= $image->crop(600, 400, 80)->url() ?> 640w, <?= $image->crop(300, 200, 80)->url() ?> 320w"
+      src="<?= $image->crop(300, 200, 80)->url() ?>"
+      sizes="100vw"
+      alt=""/>
+  </div>
 <? else: ?>
   <div class="c-figure__img u-artwork" style="background-image: url(<?= $image->crop(3, 4)->dataUri() ?>)">
     <img
@@ -16,7 +24,7 @@
       alt=""/>
   </div>
 <? endif ?>
-<? if ($image->caption()): ?>
+<? if (!$image->caption()->empty()): ?>
   <figcaption class="c-figure__caption">
     <?= smartypants(kirbytext($image->caption())) ?>
   </figcaption>

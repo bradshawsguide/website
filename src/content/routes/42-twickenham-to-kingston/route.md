@@ -12,7 +12,7 @@ stops:
 - twickenham
 - teddington
 - hampton-wick
-- kingston
+- surbiton-and-kingston
 ----
 links:
 - (wikipedia: Kingston_loop_line)

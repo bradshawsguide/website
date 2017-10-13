@@ -23,6 +23,14 @@
   }
 }
 
+// Pull image to the right
+.c-figure--illustration {
+  .c-figure__img {
+    border: 3px double $__color-neutral-mid;
+    padding-top: percentage(2/3);
+  }
+}
+
 // Bleed to the edges of the viewport
 .c-figure--cover {
   margin-right: calc(var(--page-gutter) * -1);

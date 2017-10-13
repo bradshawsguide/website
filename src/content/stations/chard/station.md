@@ -13,5 +13,3 @@ company:
 ----
 route:
 - basingstoke-to-salisbury-and-exeter
-----
-text: A well-built market town, trading in silks and broad cloths.

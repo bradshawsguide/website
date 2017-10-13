@@ -50,6 +50,4 @@ In the season provisions are scarce, and therefore dear, a drawback felt at Shan
 
 About three miles inland is **Appuldercombe,** the seat of the Earl of Yarborough, a building of the last century, in a large park on the slope of a down, at the comer of which is the Worsley pillar. Sir R. Worsley here made a collection of marbles and paintings. Many of the family are buried in Godshill church, which is one of the best in. the island, and about four miles further.
 
-From Ventnor to Black Gang the road winds along through *Undercliff*, among rocks, gardens, fields, seats, farm-houses, &c., dispersed most picturesquely about in a rocky ledge or strand formed by successive landslips from the neighbouring cliff, which rises up like a wall on your right, 100 to 150 feet high, the road itself being nearly as much above the sea, to your left. It is worth while to walk along the edge of this cliff for the sake of the panorama to be obtained of the scene below. Do lot take this path at Ventnor, as it may be reached by leaving the road near St. Lawrence's Well, and walking up the steps cut in the face of the cliff. A footpath also winds close to the sea out of sight of the road.
-
 (distances: title: Distances of Places from Ventnor)

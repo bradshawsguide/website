@@ -26,13 +26,13 @@ stops:
 - winchester
 - bishopstoke
 - portswood
-- southampton
+- [southampton, portswood, bitterne-road, woolston, netley-abbey]
 - redbridge
 - totton
 - lyndhurst-road
 - brockenhurst
 - [ringwood, herne, christchurch]
-- wimborne
+- [wimborne, sturminster, spettisbury, blandford]
 - [poole-junction, poole]
 - wareham
 - wool
@@ -126,12 +126,70 @@ The Heriot hills, crested by lofty firs, soon burst into view, and not long afte
 (route: basingstoke-to-salisbury-and-exeter)
 
 ### Basingstoke to Bishopstoke
-The line now passes through a country bearing the true Hampshire characteristics of forest scenery, until we reach [Winchester](/stations/winchester).
+[Micheldever](/stations/micheldever) station.--The line now passes through a country bearing the true Hampshire characteristics of forest scenery, until we reach
+
+(station: winchester)
+
+After leaving the station at Winchester the line proceeds through the Barracks Hill excavation, above which are the Barracks, erected on the site of an old palace, where Henry III was born.
+
+The village of *Twyford*, where Pope was educated at the school of the Rev. Mr. Wyeham, is in the vicinity; thence passing Otterbourne, another straggling village to the right, we reach the station of
+
+(station: bishopstoke)
+
+This station is the junction point with the branch line to Salisbury, and also the point of union between the Gosport and Southampton trains, the line to the former diverging slightly to the left.
+
+(route: bishopstoke-to-salisbury)
+
+(route: bishopstoke-to-gosport-and-portsmouth)
 
 ### Bishopstoke to Southampton
 The line traverses a country skirted in each direction by thick woody undulations. On passing [Portswood](/stations/portswood), near to which are the remains of St. Dennis's Priory, and approaching the town, however, the scenery becomes somewhat less interesting.
 
-### Southampton to Dorchester and Weymouth.
-This line of railway passes through a country of picturesque character and antiquarian interest. It branches off from the South Western Railway at the upper end of the town of Southampton, and passes through a tunnel under the old road to London. The tunnel is nearly 531 yards in length, and is cut through a soil of gravel and clay. The railway then passes on *viâ* the stations of [Redbridge](/stations/redbridge), [Totton](/stations/totton) (for Eling), and [Lyndhurst Road](/stations/lyndhurst-road), (none of which require special notice), to [Brockenhurst](/stations/brockenhurst).
+(station: southampton)
 
-[Ringwood](/stations/ringwood) forms the junction of a short line, about seven miles in length. It passes the station of [Herne](/stations/herne), near wich is *Heron Court*, the seat of the Earl of Malmesbury. It is the Elizabethan style of architecture, and has some choice pictures.
+A line of railway, about three miles long, extends along the eastern shores of the Southampton Water to Netley Abbey, a place of universal attraction to Southampton visitors. We cross the Itchen, near to which has been erected a noble Military College, and pass by the stations of [Portswood](/stations/portswood), [Bitterne Road](/stations/bitterne-road), and [Woolston](/stations/woolston), to
+
+(station: netley-abbey)
+
+A fine excursion may be taken from Southhampton to the Channel Islands, a distance of 104 miles; and, as the communication  is frequent, and the passage to Guernsey averages about eight hours only, we would introduce [a brief sketch of these islands](/places/channel-islands) before proceeding to the [Isle of Wight](/places/england/isle-of-wight). The fares run about 18s and 12s.
+
+### Southampton to Dorchester and Weymouth.
+This line of railway passes through a country of picturesque character and antiquarian interest. It branches off from the South Western Railway at the upper end of the town of Southampton, and passes through a tunnel under the old road to London. The tunnel is nearly 531 yards in length, and is cut through a soil of gravel and clay. The railway then passes on *viâ* the stations of [Redbridge](/stations/redbridge), [Totton](/stations/totton) (for Eling), and [Lyndhurst Road](/stations/lyndhurst-road), (none of which require special notice), to
+
+(station: brockenhurst)
+
+(route: brockenhurst-to-lymington)
+
+(station: ringwood)
+
+Forms the junction of a short line, about seven miles in length. It passes the station of [Herne](/stations/herne), near to which is *Heron Court*, the seat of the Earl of Malmesbury. It is in the Elizabethan style of architecture, and has some choice pictures.
+
+The railway continues its course along the Avon to
+
+(station: christchurch)
+
+The line now passes from the county of Hans into [Dorsetshire](/places/england/dorsetshire).
+
+(station: wimborne)
+
+
+### Wimborne to Blandford
+[Sturminster](/stations/sturminster) and [Spettisbury](/stations/spettisbury) Stations.
+
+(station: blandford)
+
+The line proceeds from Wimborne over the wooden viaduct across the river Stour, and the next station we reach is Poole Junction, to which town a *branch rail* of 1¾ mile runs.
+
+[Poole Junction](/stations/poole-junction)
+
+(station: poole)
+
+(station: wareham)
+
+[Wool](/stations/wool) (Near which are the ruins of Bindon Abbey), and [Moreton](/stations/moreton) stations.
+
+(station: dorchester-south)
+
+(station: weymouth)
+
+Further along the coast is [Bridport](/stations/bridport).

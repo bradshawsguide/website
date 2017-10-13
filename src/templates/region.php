@@ -2,7 +2,7 @@
 
 <article class="c-page">
 <?
-  $mods = $page->hasImages() ? 'poster' : null;
+  $mods = $page->image('cover') ? 'poster' : null;
   pattern('common/page/header', [
     'title' => $page->title(),
     'parent' => $page->parent(),

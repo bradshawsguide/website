@@ -59,4 +59,4 @@ In the neighbouring isle of Purbeck are the ruins of Corfe Castle, memorable for
 
 The latitude of Weymouth is one degree farther south than London, and many plants which require protection from the cold in other parts of the country here flourish through the winter in the open air. The geranium grows luxuriantly, and requires little care, and the large and small-leaved myrtle are out-of-door plants. Indeed, so salubrious is the climate, that Dr. Arbuthnot, who came in his early days to settle at Weymouth, observed that no physician could either live or die there. This, however, savours more of flattery than fact, as present observation will fully testify.
 
-*Abbotsbury*, near the west end of the fleet or lake inside the Chesil bank, is the seat of the Earl of Ilchester, and has a decoy and swannery. Further along the coast is [Bridport](/stations/bridport).
+*Abbotsbury*, near the west end of the fleet or lake inside the Chesil bank, is the seat of the Earl of Ilchester, and has a decoy and swannery.
