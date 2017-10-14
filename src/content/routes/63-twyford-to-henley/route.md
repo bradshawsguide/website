@@ -13,3 +13,7 @@ stops:
 ----
 links:
 - (wikipedia: Henley_branch_line)
+----
+text: [Shiplake](/stations/shiplake).
+
+(station: henley)

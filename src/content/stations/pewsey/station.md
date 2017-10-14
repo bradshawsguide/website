@@ -11,5 +11,3 @@ company:
 ----
 route:
 - reading-to-hungerford-and-devizes
-----
-text: A small village on the Avon, at which petty sessions are held.

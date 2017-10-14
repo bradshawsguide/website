@@ -11,6 +11,3 @@ company:
 ----
 route:
 - reading-to-hungerford-and-devizes
-----
-notes:
-- A telegraph station.

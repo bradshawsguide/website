@@ -19,8 +19,7 @@ stops:
 - reading
 - pangbourne
 - goring
-- wallingford-road
-- wallingford
+- [wallingford-road, wallingford]
 - didcot
 - steventon
 - wantage-road
@@ -53,21 +52,103 @@ On the departure of the train, it threads the sinuosities of the station at an e
 
 The route at first lies through the Thames Valley, then, after passing the. elevated plains to the north of Marborough Downs, it gradually descends down into the fertile and picturesque valley of the Avon. Emerging from a slight excavation, we came to an embankment crossing Old Oak Common so named from its having been the site of a thick forest of oaks. The village of Acton, which lies to the left is linked to the metropolis by one almost uninterrupted line of houses, through which the North-Western Junction Railway passes, connecting the North-Western Railway with those of the South-Western.
 
+[Ealing Station](/stations/ealing).--*Gunnersbury Park*, Baron Rothschild; *Castlebear Hill*, and *Twyford Abbey*, close by. Thence passing the pretty hamlet of *Drayton Green*, we stop at
+
+(station: hanwell)
+
+(station: southall)
+
+At this station a short branch, 3¾ miles, turns of to the left, by which a connection with the South Western is formed at
+
+(station: brentford)
+
+Crossing the Paddington and *Grand Junction* Canal, we pass alternately through excavation and embankment on to
+
+(station: west-drayton)
+
+We now cross the western boundary of Middlesex, and then pass over a small corner of Buckinghamshire, between West Drayton and Maidenhead, into the county of Berks.
+
+(station: uxbridge)
+
+Soon after leaving West Drayton we cross the river Colne and its branches, with *Hunt's Moor Park*, and the beautifully sequestered village of Iver (which, alike to artist or antiquary, will be found replete with objects of interest and attraction), on the right, and enter Buckinghamshire, arriving at the station at
+
+(station: langley)
+
+A few minutes more brings us to
+
+(station: slough)
+
+(route: slough-to-windsor)
+
 ### Slough to Maidenhead
 Between the lofty and luxuriant foliage of Stoke Park, about two miles to the right of Slough, may be descried, modestly peering through the surrounding trees, the spire of Stoke Pogis Church, the scene of Gray's "Elegy." The following inscription to his memory is on the east wall of the church:--"Opposite to this stone, in the same tomb upon which he has so feelingly recorded his grief at the loss of a beloved parent, lie deposited the remains of Thomas Gray, the author of the 'Elegy written in a Country Churchyard,' &c, &c, &c. He was buried August 6th, 1771." The church itself has no internal beauty, being over-crowded with pews; but the churchyard is one of the prettiest in England. The cloister is worth a visit. As the train proceeds, the broad and verdant fields spread out on each side of us in all the pride of luxuriant vegetation.
 
 Burnham Village is close by, situate in the midst of picturesque woodland scenery, popularised by the adventures of Albert Smith's Mr. Ledbury.
 
-### Maidenhead to Reading
-Upon leaving Maidenhead the railway soon spans, by a bridge, of ten arches, the river Thames which here glides through a flat, but most charming country. Having crossed the Windsor road, and diverged gradually to the southward we suddenly dip into an excavation of considerable depth; the characteristic chalky sides of which are replete with geological interest. This cutting, which continues for upwards of five miles, completely shuts out the surrounding country; but coming suddenly upon the Ruscombe embankment, we are amply repaid by a magnificent expanse of landscape. Hill and dale, dotted with elegant villas and noble mansions, woodland and water scenery, together with wide far-stretching meadow and corn-land, follow each other in varied succession to the very verge of the horizon. We have scarcely had time, however, to feast our vision with this delightful prospect, before we are again buried in a cutting, though of shorter duration, and through this we reach the station at Twyford.
+(station: maidenhead)
 
-Within a few minutes after quitting the station, we emerge from the excavation, and cross, on an embankment, the river Loddon. From this we enter into another cutting of great depth conducting us to an embankment which affords a pleasing view of the county bordering on the woody lands of Oxfordshire. Crossing, on a level embankment, the river Kennet, we soon after reach the station at Reading.
+(route: maidenhead-to-wycombe-and-oxford)
+
+### Maidenhead to Reading
+Upon leaving Maidenhead the railway soon spans, by a bridge, of ten arches, the river Thames which here glides through a flat, but most charming country. Having crossed the Windsor road, and diverged gradually to the southward we suddenly dip into an excavation of considerable depth; the characteristic chalky sides of which are replete with geological interest. This cutting, which continues for upwards of five miles, completely shuts out the surrounding country; but coming suddenly upon the Ruscombe embankment, we are amply repaid by a magnificent expanse of landscape. Hill and dale, dotted with elegant villas and noble mansions, woodland and water scenery, together with wide far-stretching meadow and corn-land, follow each other in varied succession to the very verge of the horizon. We have scarcely had time, however, to feast our vision with this delightful prospect, before we are again buried in a cutting, though of shorter duration, and through this we reach the station at
+
+(station: twyford)
+
+A short line hence branches off to Henley-upon-Thames, passing by *Wargrave*.
+
+(route: twyford-to-henley)
+
+Within a few minutes after quitting the station, we emerge from the excavation, and cross, on an embankment, the river Loddon. From this we enter into another cutting of great depth conducting us to an embankment which affords a pleasing view of the county bordering on the woody lands of Oxfordshire. Crossing, on a level embankment, the river Kennet, we soon after reach the station at
+
+(station: reading)
+
+(route: reading-to-basingstoke)
 
 ### Reading to Didcot
 Passing slowly from the station at a pace that affords us a pleasing bird's eye view of the town, we are earned forward on the same level embankment, and crossing the valley of the Thames soon reach the Roebuck excavation. An embankment, followed by a brief though deep cutting, through the grounds of Purley Park, gives us some charming prospects on the Oxfordshire side, with a mass of woodland scenery scattered over the undulating ground, and cresting even the high summits of the Mapledurham hills beyond.
 
+(station: pangbourne)
+
+Soon after leaving the station the railway takes a north-westerly direction, and at the village of *Basildon*, crossing a viaduct over the Thames leaves behind it the county of Berks, and enters that of Oxford. Pursuing this northerly direction for a short distance, on the borders of the two counties, we pass a deep cutting, whence, crossing on an embankment the river Thames for the last time, we reach the station of
+
+[Goring](/stations/goring).--Here are still visible the remains of a Nunnery for Augustines, founded in the reign of Henry II.
+
+[Wallingford Road](/stations/wallingford-road) station.
+
+(station: wallingford)
+
+On leaving the station the railway returns into the county of Berks, and the country assumes a more agricultural and less romantic aspect than that which we had previously traversed. Alternately dipping into excavation, and flitting over embankment, we are carried across Hagbourne Marsh, and passing over the Wantage and Wallingford road, we arrive at
+
+(station: didcot)
+
+(route: didcot-to-oxford)
+
 ### Didcot to Swindon Junction
-Leaving Didcot on a rise of seven feet in a mile, we now enter an excavation of about half-a-mile, and emerging thence, bend gradually to the west on an embankment, when again plunging into a short cutting, we are carried past Milton, a small village to the left, and in a few minutes afterwards stop at Steventon.
+Leaving Didcot on a rise of seven feet in a mile, we now enter an excavation of about half-a-mile, and emerging thence, bend gradually to the west on an embankment, when again plunging into a short cutting, we are carried past Milton, a small village to the left, and in a few minutes afterwards stop at
+
+(station: steventon)
+
+Borne over the Wiltshire and Berks Canal, we soon after reach [Wantage Road](/stations/wantage-road) Station for
+
+(station: wantage)
+
+[Challow](/stations/challow), the station for East and West Challow, about 1½ mile to the south.
+
+[Uffington](/stations/uffington).--Here a short line, about three miles, runs out to our right to
+
+(station: faringdon)
+
+Leaving the station, and progressing on an ascent of about "seven feet in a mile, we are carried on an embankment past the village of Baulking, about two miles distant from which is Kingston Lisle, with its celebrated "Blowing Stone," in which there are several apertures, and by blowing into any one of these a sound is produced that can be heard for miles distant Uffington Castle is close by, and a little further on is seen the celebrated *White Horse* which was carved by order of Alfred, in memory of the triumphant victory which, in 873, he gained over the. Danes, at Ashbury.
+
+(station: shrivenham)
+
+On leaving this station we pass through an excavation, and thence on to an embankment, which commands a fine view of *Highworth* on the right and *Beacon Hill* and *Liddington Castle* on the summit to the left.
+
+(station: swindon-junction)
+
+The valley of **Stroud** through which the railway passes from Swindon to Gloucester, is well known to travellers and tourists as presenting a continuous series of lovely landscapes. The valley is almost in the character of a mountain gorge, with a branching stream in the bottom, which partially furnishes the motive powder for the numerous cloth and fulling mills of the district, the quality of the water, too, being peculiarly adapted for dyeing purposes.
+
+(route: swindon-to-gloucester-and-cheltenham)
 
 ### Swindon to Chippenham.
 About a mile to the left is the market town which gives its name to the station, and which is now rapidly rising into importance. The old town is pleasantly situated on the summit of a considerable eminence, commanding extensive views of Berkshire and Gloucestershire.

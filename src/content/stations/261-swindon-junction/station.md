@@ -31,5 +31,3 @@ desc: Swindon, on the Great Western, like Wolverton and Crewe on the North Weste
 text: Swindon, on the Great Western, like Wolverton and Crewe on the North Western, is one of the extraordinary products of the railway enterprise of the present age. It is a colony of engineers and handicraft men. The company manufacture their own engines at the factory, where cleaning and everything connected with constructive repair is carried on.
 
 The refreshment room at this station is admirably conducted, and abundantly supplied with every article of fare to tempt the best as well as the most delicate appetites, and the prices are moderate, considering the extortions to which travellers are occasionally exposed.
-
-The valley of **Stroud** through which the railway passes from Swindon to Gloucester, is well known to travellers and tourists as presenting a continuous series of lovely landscapes. The valley is almost in the character of a mountain gorge, with a branching stream in the bottom, which partially furnishes the motive powder for the numerous cloth and fulling mills of the district, the quality of the water, too, being peculiarly adapted for dyeing purposes.

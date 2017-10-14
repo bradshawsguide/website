@@ -1,10 +1,10 @@
 section: 2
 ----
-title: Wantage Road
+title: Wantage
 ----
 region: oxfordshire
 ----
-location: 51.6197, -1.4085
+location: 51.61949, -1.409914
 ----
 company:
 - great-western

@@ -1,6 +1,6 @@
 section: 2
 ----
-title: Swindon to Gloucester, and Cheltenham
+title: Swindon to Cirencester, Stroud, Gloucester, and Cheltenham
 ----
 line: Cheltenham Branch
 ----
@@ -16,3 +16,5 @@ stops:
 - stonehouse
 - gloucester
 - cheltenham
+----
+text:

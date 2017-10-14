@@ -19,4 +19,4 @@ info:
 notes:
 - A telegraph station at Slough, 1¼ mile.
 ----
-text: To the right, at a short distance, is *Langley Park*. A few minutes more brings us to [Slough](/stations/slough).
+text: To the right, at a short distance, is *Langley Park*.

@@ -24,4 +24,4 @@ notes:
 ----
 desc: In the neighbourhood are *Stanlake*. *Shottesbrooke Church*, a beautiful miniature cross, with a tall tower and spire, formerly attached to an ancient college here.
 ----
-text: In the neighbourhood are *Stanlake* (1 mile). *Shottesbrooke Church* (2½ miles), a beautiful miniature cross, with a tall tower and spire, formerly attached to an ancient college here. A short line hence [branches off](/routes/twyford-to-henley) to Henley-upon-Thames, passing by *Wargrave*.
+text: In the neighbourhood are *Stanlake* (1 mile). *Shottesbrooke Church* (2½ miles), a beautiful miniature cross, with a tall tower and spire, formerly attached to an ancient college here.

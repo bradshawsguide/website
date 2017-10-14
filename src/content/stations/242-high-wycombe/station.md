@@ -25,4 +25,4 @@ info:
 notes:
 - A telegraph station.
 ----
-text: Wycombe is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.
+text: <span class="smcp">Wycombe</span> is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.

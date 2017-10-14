@@ -1,0 +1,25 @@
+section: 2
+----
+title: Reading to Basingstoke
+----
+line: Basingstoke Branch
+----
+company: great-western
+----
+stops:
+- reading
+- mortimer
+- basingstoke
+----
+links:
+- (wikipedia: Reading–Basingstoke_line)
+----
+text: This line passes though a very pretty level country, surrounded by numerous parks, and handsome seats and mansions.
+
+[Mortimer](/stations/mortimer) (Stratfield) station.
+
+(station: basingstoke)
+
+is delightfully situated in a well wooded part of Hampshire, and derives considerable advantage from the junction of several roads which meet together at this town. It has a handsome market-house and sessions court. On an eminence at the northern extremity of the town are the ruins of an elegant chapel, which possessed great architectural beauty, but which has been suffered to fall into ruins.
+
+(For further particulars see [Basingstoke](/stations/basingstoke))

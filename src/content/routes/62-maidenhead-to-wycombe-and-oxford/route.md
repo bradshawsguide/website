@@ -25,12 +25,14 @@ stops:
 links:
 - (wikipedia: Wycombe_Railway)
 ----
-text: From Maidenhead we pass [Taplow](/stations/taplow), [Cookham](/stations/cookham), [Marlow Road](/stations/marlow-road), [Woburn Green](/stations/woburn-green), and [Loudwater](/stations/loudwater), stations of no great importance, and arrive at [High Wycombe](/stations/high-wycombe).
+text: From Maidenhead we pass [Taplow](/stations/taplow), [Cookham](/stations/cookham), [Marlow Road](/stations/marlow-road), [Woburn Green](/stations/woburn-green), and [Loudwater](/stations/loudwater), stations of no great importance, and arrive at
 
-Wycombe is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.
+(station: high-wycombe)
 
 The line continues hence through [West Wycombe](/stations/high-wycombe), the old market town of [Princes Risborough](/stations/princess-risborough), from whence there is a continuation of the line to Aylesbury. Leaving Princes Risborough, the line takes a westerly curve through [Bledlow](/stations/bledlow), and, immediately leaving the county of Bucks, enters that of Oxford, and very soon after arrives at
 
 [Thame](/stations/thame), a small market town, consisting of one long street. The church is very old, and built in the form of a cross, has a fine tower, and its windows of stained glass.
 
-[Wheatley](/stations/wheatley) and [Ltttlemore](/stations/littlemore), the latter of which has a very considerable pile of buildings used as a Pauper Lunatic Asylum. **[Oxford](/stations/oxford)**.
+[Wheatley](/stations/wheatley) and [Littlemore](/stations/littlemore), the latter of which has a very considerable pile of buildings used as a Pauper Lunatic Asylum.
+
+(station: oxford)

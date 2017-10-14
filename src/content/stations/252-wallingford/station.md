@@ -29,5 +29,3 @@ notes:
 desc: Wallingford, to which the station affords easy access, is an ancient and somewhat picturesque town, agreeably situated on the banks of the venerable Thames.
 ----
 text: Wallingford, to which the station affords easy access, is an ancient and somewhat picturesque town, agreeably situated on the banks of the venerable Thames, and includes among its "lions" the remains of a formidable castle. The churches of St. Leonard's and St. Mary are of great antiquity. St. Peter's, a modern edifice, has a tower of very peculiar construction. A massive stone bridge, with nineteen arches, spans the river. It has a considerable trade in corn and malt.
-
-On leaving the station the railway returns into the county of Berks, and the country assumes a more agricultural and less romantic aspect than that which we had previously traversed. Alternately dipping into excavation, and flitting over embankment, we are carried across Hagbourne Marsh, and passing over the Wantage and Wallingford road, we arrive at [Didcot](/stations/didcot).
