@@ -1,0 +1,37 @@
+.c-route {
+  position: relative;
+  margin: $__space-medium ($__space-small * -1) $__space-medium ($__space-small * -2);
+  padding: $__space-small;
+  padding-left: ($__space-large + $__text-indent);
+
+  &::before {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: $__space-small;
+    width: 1.25rem;
+    height: 1.5rem;
+    border: solid $__color-neutral-lighter;
+    border-bottom-left-radius: 1rem;
+    border-width: 0 0 0.125rem 0.125rem;
+    content: "";
+  }
+}
+
+.c-route__title {
+  @include typeset("heading");
+
+  &::after {
+    content: "\0020\261E";
+    font-family: serif;
+  }
+}
+
+.c-route__desc {
+  @include typeset("text");
+  display: block;
+  margin-top: $__space-xxsmall;
+  margin-left: 0;
+  text-decoration: none;
+  color: initial;
+}
