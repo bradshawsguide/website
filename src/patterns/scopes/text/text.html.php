@@ -1,3 +1,3 @@
 <div class="s-text">
-  <?= smartypants(kirbytext($content)) ?>
+    <?= smartypants(kirbytext($content)) ?>
 </div>

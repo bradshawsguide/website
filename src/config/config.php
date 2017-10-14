@@ -1,7 +1,9 @@
-<?
+<?php
 
 // Direct access protection
-if(!defined('KIRBY')) die('Direct access is not allowed');
+if (!defined('KIRBY')) {
+    die('Direct access is not allowed');
+}
 
 // Kirby license key
 c::set('license', '');
@@ -11,18 +13,18 @@ c::set('url', 'https://bradshaws.test');
 
 // Routes
 c::set('routes', array(
-  array(
-    'pattern' => 'app.webmanifest',
-    'action'  => function() {
-      tpl::load(kirby()->roots()->templates().DS.'app.webmanifest.php', array('site' => kirby()->site()), false);
-    }
-  ),
-  array(
-    'pattern' => 'map',
-    'action'  => function() {
-      tpl::load(kirby()->roots()->templates().DS.'map.php', null, false);
-    }
-  )
+    array(
+        'pattern' => 'app.webmanifest',
+        'action'    => function () {
+            tpl::load(kirby()->roots()->templates().DS.'app.webmanifest.php', array('site' => kirby()->site()), false);
+        }
+    ),
+    array(
+        'pattern' => 'map',
+        'action'    => function () {
+            tpl::load(kirby()->roots()->templates().DS.'map.php', null, false);
+        }
+    )
 ));
 
 // Rewrite URLs

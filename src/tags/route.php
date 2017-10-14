@@ -1,20 +1,20 @@
-<?
+<?php
 
 kirbytext::$tags['route'] = array(
-  'html' => function($tag) {
-    if($route = page('routes/'.$tag->attr('route'))) {
-      $link = html::a($route->url(), $route->currentTitle());
+    'html' => function ($tag) {
+        if ($route = page('routes/'.$tag->attr('route'))) {
+            $link = html::a($route->url(), $route->currentTitle());
 
-      $title = brick('dt')->html($link);
-      $title->attr('class', 'route-title');
+            $title = brick('dt')->html($link);
+            $title->attr('class', 'route-title');
 
-      $desc = brick('dd')->html(kirbytextRaw($route->title()));
-      $desc->attr('class', 'route-desc');
+            $desc = brick('dd')->html(kirbytextRaw($route->title()));
+            $desc->attr('class', 'route-desc');
 
-      $html = brick('dl')->html($title.$desc);
-      $html->attr('class', 'route');
+            $html = brick('dl')->html($title.$desc);
+            $html->attr('class', 'route');
 
-      return $html;
+            return $html;
+        }
     }
-  }
 );

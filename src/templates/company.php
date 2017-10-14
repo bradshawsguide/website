@@ -1,45 +1,45 @@
-<?
-  snippet('head', [
+<?php
+snippet('head', [
     'alternate' => $page->url().'.geojson'
-  ]);
+]);
 ?>
 
 <article class="c-page">
-<?
-  pattern('common/page/header', [
+<?php
+pattern('common/page/header', [
     'parent' => page('companies'),
     'title' => $page->title()
-  ]);
+]);
 
-  pattern('common/page/content');
+pattern('common/page/content');
 
-  pattern('common/section/map', [
+pattern('common/section/map', [
     'title' => 'Network map',
     'url' => $page->uri().'.geojson/'
-  ]);
+]);
 
-  if (count($page->featured())) {
+if (count($page->featured())) {
     pattern('common/section/featured', [
-      'title' => 'Key stations served',
-      'items' => $page->featured()
+        'title' => 'Key stations served',
+        'items' => $page->featured()
     ]);
-  };
+};
 
-  pattern('common/section/list', [
+pattern('common/section/list', [
     'title' => 'All stations',
     'items' => $page->stations()
-  ]);
+]);
 
-  pattern('common/section/routes', [
+pattern('common/section/routes', [
     'title' => 'Routes operated',
     'items' => page('routes')->children()->filterBy('company', '*=', $page->uid())
-  ]);
+]);
 
-  pattern('common/section/links', [
+pattern('common/section/links', [
     'title' => 'Further reading',
     'links' => $page->links()
-  ]);
+]);
 ?>
 </article>
 
-<? snippet('foot') ?>
+<?php snippet('foot') ?>

@@ -1,7 +1,7 @@
-<?
+<?php
 
 return [
-  'defaults' => [
-    'content' => page('about')->text()
-  ]
+    'defaults' => [
+        'content' => page('about')->text()
+    ]
 ];

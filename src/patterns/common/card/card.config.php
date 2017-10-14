@@ -1,7 +1,7 @@
-<?
+<?php
 
 return [
-  'defaults' => [
-    'item' => page('stations/brighton')
-  ]
+    'defaults' => [
+        'item' => page('stations/brighton')
+    ]
 ];

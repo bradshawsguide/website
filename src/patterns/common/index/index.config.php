@@ -1,8 +1,8 @@
 <?php
 
 return [
-  'defaults' => [
-    'items' => page('stations')->children(),
-    'letter' => '#'
-  ]
+    'defaults' => [
+        'items' => page('stations')->children(),
+        'letter' => '#'
+    ]
 ];

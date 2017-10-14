@@ -1,8 +1,8 @@
-<?
+<?php
 
 return [
-  'defaults' => [
-    'title' => 'Group title',
-    'noresult' => 'No items'
-  ]
+    'defaults' => [
+        'title' => 'Group title',
+        'noresult' => 'No items'
+    ]
 ];

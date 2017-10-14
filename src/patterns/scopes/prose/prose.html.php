@@ -1,3 +1,3 @@
 <div class="s-prose s-prose--<?= $modifier ?>">
-  <?= smartypants(kirbytext($content)) ?>
+    <?= smartypants(kirbytext($content)) ?>
 </div>

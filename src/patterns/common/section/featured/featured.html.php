@@ -1,24 +1,24 @@
 <section class="c-section">
-  <?= brick('h'.(isset($level) ? $level : 2))->html($title)->attr('class', 'c-section__title') ?>
-  <?
-    if(isset($content)):
-      pattern('scopes/prose', [
-        'content' => $content,
-        'modifier' => 'section'
-      ]);
-    endif
-  ?>
-  <? if(count($items)): ?>
-  <ul class="c-list c-list--grid">
-    <? foreach($items as $item):?>
-    <li class="c-list__item">
-      <?
-        pattern('common/card', [
-          'item' => $item
+<?= brick('h'.(isset($level) ? $level : 2))->html($title)->attr('class', 'c-section__title') ?>
+<?php
+    if (isset($content)):
+        pattern('scopes/prose', [
+            'content' => $content,
+            'modifier' => 'section'
         ]);
-      ?>
+    endif
+?>
+<?php if (count($items)): ?>
+<ul class="c-list c-list--grid">
+    <?php foreach ($items as $item):?>
+    <li class="c-list__item">
+        <?php
+            pattern('common/card', [
+                'item' => $item
+            ]);
+        ?>
     </li>
-    <? endforeach ?>
-  </ul>
-  <? endif ?>
+    <?php endforeach ?>
+</ul>
+<?php endif ?>
 </section>

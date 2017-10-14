@@ -1,4 +1,4 @@
-<?
+<?php
 
 // Enable caching
 c::set('cache', true);

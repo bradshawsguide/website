@@ -1,57 +1,57 @@
-<?
-  $stops = $page->stops()->yaml();
+<?php
+$stops = $page->stops()->yaml();
 
-  // Create `LineString` for main line and add to $geometries[]
-  $geometries = [
+// Create `LineString` for main line and add to $geometries[]
+$geometries = [
     generateLineString(UIDStoStationPages($stops))
-  ];
+];
 
-  // Create `LineString` for any branches and add to $geometries[]
-  foreach ($stops as $stop) {
+// Create `LineString` for any branches and add to $geometries[]
+foreach ($stops as $stop) {
     if (is_array($stop)) {
-      array_push($geometries, generateLineString(UIDStoStationPages($stop)));
+        array_push($geometries, generateLineString(UIDStoStationPages($stop)));
     }
-  }
+}
 
-  // Create `Feature` from main and branch lines
-  $features[] = [
+// Create `Feature` from main and branch lines
+$features[] = [
     'type' => 'Feature',
     'geometry' => [
-      'type' => 'GeometryCollection',
-      'geometries' => $geometries
+        'type' => 'GeometryCollection',
+        'geometries' => $geometries
     ],
     'properties' => [
-      'title' => (string) $page->title(),
-      'url' => (string) $page->url()
+        'title' => (string) $page->title(),
+        'url' => (string) $page->url()
     ]
-  ];
+];
 
-  // Create a `Feature` for each stop
-  foreach (flatten_array($stops) as $stop) {
+// Create a `Feature` for each stop
+foreach (flatten_array($stops) as $stop) {
     $stop = page('/stations/'.$stop);
 
     if ($stop->isVisible()) {
-      $markerSize = 'large';
+        $markerSize = 'large';
     } else {
-      $markerSize = 'small';
+        $markerSize = 'small';
     };
 
     $features[] = [
-      'type' => 'Feature',
-      'geometry' => generatePoint($stop),
-      'properties' => [
-        'title' => (string) $stop->title(),
-        'url' => (string) $stop->url(),
-        'marker-size' => $markerSize
-      ]
+        'type' => 'Feature',
+        'geometry' => generatePoint($stop),
+        'properties' => [
+            'title' => (string) $stop->title(),
+            'url' => (string) $stop->url(),
+            'marker-size' => $markerSize
+        ]
     ];
-  }
+}
 
-  // Create `FeatureCollection` from $features array
-  $featureCollection = [
+// Create `FeatureCollection` from $features array
+$featureCollection = [
     'type' => 'FeatureCollection',
     'features' => $features
-  ];
+];
 
-  // Encode as JSON
-  echo json_encode($featureCollection);
+// Encode as JSON
+echo json_encode($featureCollection);

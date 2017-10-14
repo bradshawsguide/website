@@ -1,7 +1,7 @@
-<?
+<?php
 
 return [
-  'defaults' => [
-    'url' => '/stations'
-  ]
+    'defaults' => [
+        'url' => '/stations'
+    ]
 ];

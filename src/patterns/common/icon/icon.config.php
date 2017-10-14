@@ -1,7 +1,7 @@
-<?
+<?php
 
 return [
-  'defaults' => [
-    'glyph' => 'locate'
-  ]
+    'defaults' => [
+        'glyph' => 'locate'
+    ]
 ];

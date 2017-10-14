@@ -1,8 +1,8 @@
-<? if(count($items)): ?>
+<?php if (count($items)): ?>
 <nav class="s-navigation" role="navigation">
-<? foreach($items->visible() as $item): ?>
-  <? $title = (!$item->title_short()->empty()) ? $item->title_short() : $item->title(); ?>
-  <a href="<?= $item->url() ?>"<? e($item->isActive(), ' aria-current="page"') ?>><?= smartypants($title) ?></a>
-<? endforeach ?>
+<?php foreach ($items->visible() as $item): ?>
+    <?php $title = (!$item->title_short()->empty()) ? $item->title_short() : $item->title(); ?>
+    <a href="<?= $item->url() ?>"<?php e($item->isActive(), ' aria-current="page"') ?>><?= smartypants($title) ?></a>
+<?php endforeach ?>
 </nav>
-<? endif ?>
+<?php endif ?>

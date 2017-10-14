@@ -1,26 +1,26 @@
-<? snippet('head') ?>
+<?php snippet('head') ?>
 
 <section class="c-page">
-<?
-  pattern('common/page/header', [
+<?php
+pattern('common/page/header', [
     'title' => $title
-  ]);
+]);
 
-  if(count($results)) {
+if (count($results)) {
     pattern('common/section/results', [
-      'title' => $results->pagination()->items().' pages found',
-      'results' => $results
+        'title' => $results->pagination()->items().' pages found',
+        'results' => $results
     ]);
 
     pattern('common/pagination', [
-      'pagination' => $results->pagination()
+        'pagination' => $results->pagination()
     ]);
-  } else {
+} else {
     pattern('common/section/results', [
-      'title' => 'No matches found'
+        'title' => 'No matches found'
     ]);
-  }
+}
 ?>
 </section>
 
-<? snippet('foot') ?>
+<?php snippet('foot') ?>

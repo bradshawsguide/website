@@ -1,7 +1,7 @@
-<?
+<?php
 
 return [
-  'defaults' => [
-    'items' => page('places/england/london/summary')->siblings(),
-  ]
+    'defaults' => [
+        'items' => page('places/england/london/summary')->siblings(),
+    ]
 ];

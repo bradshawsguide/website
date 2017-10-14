@@ -1,18 +1,18 @@
-<?
-  if (!$page->location()->empty()) {
+<?php
+if (!$page->location()->empty()) {
     // Create properties from page information
     $properties = [
-      'title' => (string) $page->title(),
-      'url' => (string) $page->url()
+        'title' => (string) $page->title(),
+        'url' => (string) $page->url()
     ];
 
     // Create `Feature`
     $feature = [
-      'type' => 'Feature',
-      'geometry' => generatePoint($page),
-      'properties' => $properties
+        'type' => 'Feature',
+        'geometry' => generatePoint($page),
+        'properties' => $properties
     ];
-  }
+}
 
-  // Encode array as JSON
-  echo json_encode($feature);
+// Encode array as JSON
+echo json_encode($feature);

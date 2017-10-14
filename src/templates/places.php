@@ -1,37 +1,37 @@
-<?
-  if (param('view') == null) {
+<?php
+if (param('view') == null) {
     go($page->uri().'/section:1/view:list');
-  }
-  snippet('head')
+}
+snippet('head')
 ?>
 
 <section class="c-page">
-<?
-  pattern('common/page/header', [
+<?php
+pattern('common/page/header', [
     'title' => $page->title()
-  ]);
+]);
 
-  pattern('common/tablist');
+pattern('common/tablist');
 
-  if (param('view') == 'map') {
+if (param('view') == 'map') {
     pattern('common/figure/map', [
-      'url' => '/stations.geojson/'.$kirby->request()->params(),
-      'class' => 'cover'
+        'url' => '/stations.geojson/'.$kirby->request()->params(),
+        'class' => 'cover'
     ]);
-  } else {
+} else {
     pattern('common/section/featured', [
-      'title' => 'Towns with pictorial illustrations',
-      'items' => $places
+        'title' => 'Towns with pictorial illustrations',
+        'items' => $places
     ]);
-  };
+};
 
-  foreach($countries as $country) {
+foreach ($countries as $country) {
     pattern('common/section/list', [
-      'title' => html::a($country->url(), smartypants($country->title())),
-      'items' => $country->children()
+        'title' => html::a($country->url(), smartypants($country->title())),
+        'items' => $country->children()
     ]);
-  }
+}
 ?>
 </section>
 
-<? snippet('foot') ?>
+<?php snippet('foot') ?>

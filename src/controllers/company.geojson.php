@@ -1,12 +1,12 @@
-<?
+<?php
 
-return function($site, $pages, $page) {
-  $routes = page('routes')->children()->filterBy('company', '*=', $page->uid())->flip();
+return function ($site, $pages, $page) {
+    $routes = page('routes')->children()->filterBy('company', '*=', $page->uid())->flip();
 
-  // Filter by section
-  if ($sectionParam = param('section')) {
-    $routes = $routes->filterBy('section', $sectionParam);
-  };
+    // Filter by section
+    if ($sectionParam = param('section')) {
+        $routes = $routes->filterBy('section', $sectionParam);
+    }
 
-  return compact('routes');
+    return compact('routes');
 };

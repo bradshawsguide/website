@@ -1,8 +1,8 @@
-  </main>
+    </main>
 
-  <? pattern('global/navigation') ?>
-  <? pattern('global/search') ?>
-  <? pattern('global/contentinfo') ?>
-  <? //pattern('global/analytics') ?>
+    <?php pattern('global/navigation') ?>
+    <?php pattern('global/search') ?>
+    <?php pattern('global/contentinfo') ?>
+    <?php //pattern('global/analytics')?>
 </body>
 </html>

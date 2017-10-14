@@ -1,7 +1,7 @@
-<?
+<?php
 
 return [
-  'defaults' => [
-    'image' => page('about')->image(),
-  ]
+    'defaults' => [
+        'image' => page('about')->image(),
+    ]
 ];
