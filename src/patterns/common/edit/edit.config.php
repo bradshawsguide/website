@@ -2,7 +2,7 @@
 
 return [
   'defaults' => [
-    'host' => 'https://github.com/paulrobertlloyd/bradshawsguide/edit/master/',
+    'host' => 'https://github.com/bradshawsguide/website/edit/master/',
     'ext' => '.'.c::get('content.file.extension')
   ]
 ];
