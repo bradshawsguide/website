@@ -15,14 +15,22 @@ c::set('url', 'https://bradshaws.test');
 c::set('routes', array(
     array(
         'pattern' => 'app.webmanifest',
-        'action'    => function () {
+        'action' => function () {
             tpl::load(kirby()->roots()->templates().DS.'app.webmanifest.php', array('site' => kirby()->site()), false);
         }
     ),
     array(
         'pattern' => 'map',
-        'action'    => function () {
+        'action' => function () {
             tpl::load(kirby()->roots()->templates().DS.'map.php', null, false);
+        }
+    ),
+    array(
+        'pattern' => 'robots.txt',
+        'action' => function () {
+            return new Response('User-agent: *
+Disallow: /www/kirby/
+Sitemap: '.url('sitemap.xml'), 'txt');
         }
     )
 ));
