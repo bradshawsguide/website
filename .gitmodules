@@ -19,3 +19,6 @@
 [submodule "src/plugins/minifyhtml"]
 	path = src/plugins/minifyhtml
 	url = git@github.com:ian-cox/Kirby-MinifyHTML.git
+[submodule "src/plugins/sitemap"]
+	path = src/plugins/sitemap
+	url = https://github.com/jpangborn/kirby-sitemap.git
