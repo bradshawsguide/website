@@ -10,7 +10,7 @@ c::set('license', '');
 
 // Database setup
 c::set('db.type', 'sqlite');
-c::set('db.database', kirby()->roots()->site().DS.'/data/app.db');
+c::set('db.database', kirby()->roots()->site().DS.'data/app.db');
 
 // URL setup
 c::set('url', 'https://bradshaws.test');
@@ -75,7 +75,7 @@ c::set('debug', true);
 c::set('troubleshoot', true);
 
 // Whoops error reporting
-c::set('whoops', true);
+c::set('whoops', false);
 
 // Disable HTML minification
 c::set('MinifyHTML', true);

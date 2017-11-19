@@ -55,7 +55,7 @@
     "browser-sync": "latest",
     "del": "^3.0.0",
     "gulp": "github:gulpjs/gulp#4.0",
-    "gulp-imagemin": "^3.4.0",
+    "gulp-imagemin": "^4.0.0",
     "gulp-postcss": "latest",
     "gulp-sass": "latest",
     "gulp-sass-glob": "latest",
