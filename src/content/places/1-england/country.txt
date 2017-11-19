@@ -1,7 +1,0 @@
-title: England
-----
-feature:
-- england/sussex/brighton
-- england/surrey/crystal-palace
-# england/gloucestershire/bristol
-# england/oxfordshire/oxford

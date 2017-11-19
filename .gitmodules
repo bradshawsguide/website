@@ -22,3 +22,6 @@
 [submodule "src/plugins/sitemap"]
 	path = src/plugins/sitemap
 	url = https://github.com/jpangborn/kirby-sitemap.git
+[submodule "src/content"]
+	path = src/content
+	url = git@github.com:bradshawsguide/content.git

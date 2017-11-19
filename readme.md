@@ -57,7 +57,7 @@ bradshawsguide
 │   │   └── vectors   # Global SVG images
 │   │
 │   ├── config        # Kirby configuration
-│   ├── content       # Site content
+│   ├── [content]     # Site content [submodule]
 │   ├── controllers   # Template controllers
 │   ├── data          # Databases
 │   ├── models        # Page models
@@ -81,7 +81,7 @@ bradshawsguide
 ├── package-lock.json # Package lock file
 ├── package.json      # Package manifest
 ├── LICENSE           # License (TBD)
-└── readme.md         # This file
+└── README.md         # This file
 ```
 
 © 2013 [Paul Robert Lloyd](https://paulrobertlloyd.com)

@@ -1,9 +1,0 @@
-section: 3
-----
-title: Lichfield
-----
-company:
-- london-and-north-western
-----
-route:
-- dudley-to-walsall-derby-and-burton
