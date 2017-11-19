@@ -35,6 +35,6 @@ text: (place: england/surrey/guildford)
 
 (place: england/hampshire/alton)
 
-[Ropley](stations/ropley), [Alresford](/stations/alresford) and [Itchen Abbas](/stations/itchen-abbas) Stations.
+[Ropley](/stations/ropley), [Alresford](/stations/alresford) and [Itchen Abbas](/stations/itchen-abbas) Stations.
 
 (place: england/hampshire/winchester)

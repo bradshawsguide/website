@@ -16,7 +16,7 @@ stops:
 - derwydd-road
 - ffairfach
 - [llandilo, llandilo-bridge, golden-grove, llanarthney, nantgaredig, abergwilly, carmarthen]
-- talley-road-halt
+- talley-road
 - glanrhyd
 - llangadock
 - lampeter-road

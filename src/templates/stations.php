@@ -8,6 +8,10 @@ pattern('common/page/header', [
 
 $stations = get_table('stations')->all();
 
+foreach ($stations as $station) {
+    $station->url = '/stations/'.$station->uid;
+}
+
 foreach (alphabetise($stations) as $letter => $items) {
     pattern('common/index', [
         'items' => $items,

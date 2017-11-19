@@ -23,7 +23,7 @@ stops:
 - berrington
 - shrewsbury
 ----
-text: Taking a north-westerly direction, this line runs *via* [Stourport](/stations/stourport/), a small town trading in glass, corn, timber, &c, to the town of
+text: Taking a north-westerly direction, this line runs *via* [Stourport](/stations/stourport), a small town trading in glass, corn, timber, &c, to the town of
 
 (place: england/worcestershire/bewdley)
 

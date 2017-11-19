@@ -24,7 +24,7 @@ stops:
 links:
 - (wikipedia: Wycombe_Railway)
 ----
-text: From Maidenhead we pass [Taplow](/stations/taplow), [Cookham](/stations/cookham), [Marlow Road](/stations/marlow-road), [Woburn Green](/stations/woburn-green), and [Loudwater](/stations/loudwater), stations of no great importance, and arrive at
+text: From Maidenhead we pass [Taplow](/stations/maidenhead), [Cookham](/stations/cookham), [Marlow Road](/stations/marlow-road), [Woburn Green](/stations/woburn-green), and [Loudwater](/stations/loudwater), stations of no great importance, and arrive at
 
 (place: england/buckinghamshire/high-wycombe)
 

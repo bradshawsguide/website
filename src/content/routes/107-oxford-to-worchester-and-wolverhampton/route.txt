@@ -34,7 +34,7 @@ stops:
 - round-oak
 - netherton
 - dudley
-- tipton-five-ways
+- tipton
 - princes-end
 - daisy-bank
 - bilston-west

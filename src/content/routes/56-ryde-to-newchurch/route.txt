@@ -17,23 +17,23 @@ stops:
 - newchurch
 ----
 distances:
-- location: '[Ryde](/stations/ryde/) to Brading'
+- location: '[Ryde](/stations/ryde) to Brading'
   miles: 4
-- location: '[Brading](/stations/brading/) to Sandown'
+- location: '[Brading](/stations/brading) to Sandown'
   miles: 2
-- location: '[Sandown](/stations/sandown/) to Shanklin'
+- location: '[Sandown](/stations/sandown) to Shanklin'
   miles: 3
-- location: '[Shanklin](/stations/shanklin/) to Succombe'
+- location: '[Shanklin](/stations/shanklin) to Succombe'
   miles: 2
 - location: 'Succombe to Bonchurch'
   miles: 1
-- location: '[Bonchurch](/stations/bonchurch/) to Ventnor'
+- location: '[Bonchurch](/stations/bonchurch) to Ventnor'
   miles: 2
-- location: '[Ventnor](/stations/ventnor/) to St. Lawrence'
+- location: '[Ventnor](/stations/ventnor) to St. Lawrence'
   miles: 2
-- location: '[St. Lawrence](/stations/st-lawrence/) to Niton'
+- location: '[St. Lawrence](/stations/st-lawrence) to Niton'
   miles: 3
-- location: '[Niton](/stations/niton/) to Blackgang'
+- location: '[Niton](/stations/niton) to Blackgang'
   miles: 2
 - location: 'Blankgang to Gatcombe'
   miles: 4

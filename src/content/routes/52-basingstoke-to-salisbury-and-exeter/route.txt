@@ -48,7 +48,7 @@ A deviation of the [Andover and Redbridge](/routes/andover-to-redbridge), a line
 
 (place: england/wiltshire/salisbury)
 
-[Wilton](/stations/wilton) Station.
+[Wilton](/stations/wilton-south) Station.
 
 [Dinton](/stations/dinton).--*Dinton House*, seat of W. Wyndham, Esq., is on the river Nadder, and was the birth-place of the great Lord Clarendon, 1608. Wickhall Camp, an ancient encampment, is near.
 

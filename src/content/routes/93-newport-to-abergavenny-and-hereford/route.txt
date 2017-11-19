@@ -20,7 +20,7 @@ stops:
 - tram-inn
 - hereford
 ----
-text: In ten minutes after leaving Newport we reach [Pontnewydd](/stations/pontnewydd), and in ten minutes more, the station of
+text: In ten minutes after leaving Newport we reach [Pontnewydd](/stations/upper-pontnewydd), and in ten minutes more, the station of
 
 (place: england/monmouthshire/pontypool-road)
 

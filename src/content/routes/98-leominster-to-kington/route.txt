@@ -10,7 +10,7 @@ stops:
 - leominster
 - kingsland
 - pembridge
-- titley-junction
+- titley
 - kington
 ----
 text: The first station is [Kingsland](/stations/kingsland), 2 miles from which is Mortimer's Cross, the scene of the last severe conflict, which settled Edward IV. on the throne of England. *Yatton Court* near.

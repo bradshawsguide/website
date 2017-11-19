@@ -19,7 +19,7 @@ links:
 ----
 text: This branch is intended subsequently to unite with the London and Portsmouth Direct, at Godalming, *via* Epsom.--At present it is opened to Leatherhead, about half-way. The stations *en route* from Wimbledon are [Old Malden](/stations/old-malden),
 
-[Ewell](/stations/ewell), the church of which has some curious monuments,
+[Ewell](/stations/ewell-west), the church of which has some curious monuments,
 
 [Epsom](/stations/epsom).
 

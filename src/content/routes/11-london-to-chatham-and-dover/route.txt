@@ -56,7 +56,7 @@ Leaving [Victoria](/stations/victoria), we almost immediately cross the Thames, 
 
 [Bickley](/stations/bickley) and [St. Mary's Cray](/stations/st-marys-cray) stations.
 
-[Sevenoaks Junction](/stations/sevenoaks-junction).--A line here [turns off to the right](/routes/sevenoaks-junction-to-sevenoaks), 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to
+[Sevenoaks Junction](/stations/sevenoaks-junction).--A line here turns off to the right, 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to
 
 (place: england/kent/sevenoaks)
 
@@ -84,7 +84,7 @@ and arrive at
 
 (route: faversham-to-ramsgate-harbour)
 
-On retaking our seats at Faversham, a few minutes brings us to the station of [Selling](/stations/selling), and a distance of 6½ miles further, the archiepiscopal city of [Canterbury](/stations/canterbury).
+On retaking our seats at Faversham, a few minutes brings us to the station of [Selling](/stations/selling), and a distance of 6½ miles further, the archiepiscopal city of [Canterbury](/stations/canterbury-east).
 
 A distance of 15 miles brings us through the little villages of [Bekesbourne](/stations/bekesbourne), [Adisham](/stations/adisham) (the station for Wingham), [Shepherd's Well](/stations/shepherds-well), and [Ewell](/stations/temple-ewell) to
 

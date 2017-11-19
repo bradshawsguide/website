@@ -10,7 +10,7 @@ stops:
 - swansea-wind-street
 - briton-ferry
 - neath
-- aberdylais-halt
+- aberdylais
 - resolven
 - glyn-neath
 - hirwain

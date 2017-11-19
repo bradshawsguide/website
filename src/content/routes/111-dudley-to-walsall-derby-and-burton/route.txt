@@ -26,7 +26,7 @@ stops:
 ----
 text: (place: england/worcestershire/dudley)
 
-On leaving Dudley, we pass the stations of [Dudley Port](/stations/dudley-port), [Great Bridge](/stations/dudley-bridge), and [Wednesbury](/stations/wednesbury), and arrive at
+On leaving Dudley, we pass the stations of [Dudley Port](/stations/dudley-port-low-level), [Great Bridge](/stations/great-bridge), and [Wednesbury](/stations/wednesbury), and arrive at
 
 (place: england/staffordshire/walsall)
 

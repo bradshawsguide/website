@@ -242,12 +242,12 @@ Leaving the station at Helsby we are borne along the base of a range of hills to
 
 (place: england/cheshire/frodsham)
 
-Next in succession is [Runcorn Road](/stations/runcord-road), three miles to the left of which is Runcorn, where markets are held on Fridays. It has a population of 10,434, employed in the salt and coal trade. *Weston Point*, under the cliffs, lies about a mile lower down the river, at the confluence of the Weaver, and Runcorn Gap on the opposite side of the Mersey. *Halton Castle* commands fine views; it was built by Fitz Nigel, and a little beyond is *Aston Hall*, the seat of Sir A. Aston, for many years Ambassador at the Court of Spain. The canal suddenly falls here by ten locks.
+Next in succession is [Runcorn Road](/stations/runcorn-road), three miles to the left of which is Runcorn, where markets are held on Fridays. It has a population of 10,434, employed in the salt and coal trade. *Weston Point*, under the cliffs, lies about a mile lower down the river, at the confluence of the Weaver, and Runcorn Gap on the opposite side of the Mersey. *Halton Castle* commands fine views; it was built by Fitz Nigel, and a little beyond is *Aston Hall*, the seat of Sir A. Aston, for many years Ambassador at the Court of Spain. The canal suddenly falls here by ten locks.
 
 [Norton](/stations/norton) and [Daresbury](/stations/daresbury) stations.
 
 (place: england/cheshire/warrington)
 
-The arrival of the train at Newton Bridge, the junction of the line with the London and North Western, is soon announced; and passing the stations of [Kenyon](/stations/kenyon_junction), [Bury Lane](/stations/bury-lane), [Astley](/stations/astley), [Patricroft](/stations/patricroft), [Eccles](/stations/eccles), and [Ordsal](/stations/ordsal), we arrive at
+The arrival of the train at Newton Bridge, the junction of the line with the London and North Western, is soon announced; and passing the stations of [Kenyon](/stations/kenyon-junction), [Bury Lane](/stations/bury-lane), [Astley](/stations/astley), [Patricroft](/stations/patricroft), [Eccles](/stations/eccles), and [Ordsall](/stations/ordsall-lane), we arrive at
 
 (place: england/lancashire/manchester)

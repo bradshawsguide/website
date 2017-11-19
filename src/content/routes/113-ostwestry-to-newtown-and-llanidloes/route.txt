@@ -24,7 +24,7 @@ stops:
 - dolwen
 - llanidloes
 ----
-text: Running through the stations of [Llynclys](/stations/llynclys), [Pant](/stations/pant), [Llanymynech](/stations/llanymynech) (the junction of a short line, *via* [Llansaintffraid](/stations/llansaintffraid) and [Llanfechain](/stations/llanfechain), to [Llanfyllin](/stations/llanfyllin), a place celebrated for its ponies), [Four Crosses](/stations/four-crosses), [Arddleen](/stations/arddleen), [Pool Quay](/stations/pool-quay), and [Buttington](/stations/buttington), to [Welshpool](/stations/welshpool); but, should time permit, we recommend the tourist to leave the road at Oswestry, and pass by the vale of *Tanat* for its beautiful scenery, *Llangynog*, and old cell of St, Melangel, near it, to *Llanfyllin*, thence by *Guilsfield* Church (at *Garvn*, close by a Roman camp and road) to
+text: Running through the stations of [Llynclys](/stations/llynclys), [Pant](/stations/pant-salop), [Llanymynech](/stations/llanymynech) (the junction of a short line, *via* [Llansaintffraid](/stations/llansaintffraid) and [Llanfechain](/stations/llanfechain), to [Llanfyllin](/stations/llanfyllin), a place celebrated for its ponies), [Four Crosses](/stations/four-crosses), [Arddleen](/stations/arddleen), [Pool Quay](/stations/pool-quay), and [Buttington](/stations/buttington), to [Welshpool](/stations/welshpool); but, should time permit, we recommend the tourist to leave the road at Oswestry, and pass by the vale of *Tanat* for its beautiful scenery, *Llangynog*, and old cell of St, Melangel, near it, to *Llanfyllin*, thence by *Guilsfield* Church (at *Garvn*, close by a Roman camp and road) to
 
 (place: wales/montgomeryshire/welshpool)
 

@@ -27,7 +27,7 @@ text: This line commences by a junction with the [Blackwall](/companies/london-a
 
 (place: england/essex/barking)
 
-The route from Bishopsgate, *via* [Ilford](/stations/ilford), unites here, when the trains proceed together, *via* [Rainham](/stations/rainham), to
+The route from Bishopsgate, *via* [Ilford](#), unites here, when the trains proceed together, *via* [Rainham](/stations/rainham), to
 
 [Purfleet](/stations/purfleet).--Here are immense powder magazines belonging to Government; also *Belvedere*, seat of R. Webb, Esq.
 

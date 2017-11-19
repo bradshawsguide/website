@@ -44,7 +44,7 @@ distances:
   miles: 3
 - location: 'Wooton to Newport'
   miles: 4
-- location: '[Newport](/stations/newport) to Carisbrooke'
+- location: '[Newport](/stations/newport-isle-of-wight) to Carisbrooke'
   miles: 1
 - location: '[Carisbrooke](/stations/carisbrooke) to Calbourne'
   miles: 4½

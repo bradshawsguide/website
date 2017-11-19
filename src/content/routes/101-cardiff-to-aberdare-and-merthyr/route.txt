@@ -24,7 +24,7 @@ Leaving Llandaff we very soon arrive at [Walnut Tree], the junction of a line *v
 
 [Treforest](/stations/treforest) station
 
-[Pontypridd](/stations/pontypridd) junction.--Here the Rhondda Valley line branches off, and runs *via* [Havod](/stations/havod), [Porth](/stations/porth), [Pandy](/stations/tonypandy), and [Ystrad](/stations/ystrad), to [Treherbert](/stations/treherbert).
+[Pontypridd](/stations/pontypridd) junction.--Here the Rhondda Valley line branches off, and runs *via* [Havod](/stations/havod), [Porth](/stations/porth), [Pandy](/stations/tonypandy), and [Ystrad](/stations/ystrad-rhondda), to [Treherbert](/stations/treherbert).
 
 [Aberdare](/stations/aberdare-junction) junction.
 
