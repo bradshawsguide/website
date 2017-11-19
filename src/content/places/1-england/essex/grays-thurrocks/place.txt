@@ -1,0 +1,24 @@
+section: 1
+----
+title: Gray's Thurrocks
+----
+title_later: Grays
+----
+region: essex
+----
+company:
+- london-tilbury-and-southend
+----
+route:
+- stepney-and-ilford-to-tilbury-and-southend
+----
+info:
+- term: Population
+  desc: 2,209.
+- term: Market Day
+  desc: Thursday.
+- term: Fair
+  desc: May 23rd.
+----
+notes:
+- Telegraph station at Tilbury, 2½ miles.

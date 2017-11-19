@@ -1,0 +1,18 @@
+﻿section: 1
+----
+title: Canterbury to Whitstable
+----
+line: Canterbury and Whitstable Railway
+----
+company: south-eastern
+----
+stops:
+- canterbury-west
+- whitstable
+----
+links:
+- (wikipedia: Canterbury_and_Whitstable_Railway)
+----
+text: (place: england/kent/canterbury)
+
+(place: england/kent/whitstable)

@@ -1,0 +1,52 @@
+section: 2
+----
+title: Truro to Hayle, Penzance, &c.
+----
+line: West Cornwall Railway
+----
+company: great-western
+----
+stops:
+- truro
+- chacewater
+- scorrier-gate
+- redruth
+- pool
+- camborne
+- gwinear-road
+- hayle
+- [st-ives-road, st-ives]
+- marazion-road
+- penzance
+----
+links:
+- (wikipedia: West_Cornwall_Railway)
+----
+text: The first station we pass is [Chacewater](/stations/chacewater), where we cross the valley by means of a lofty wooden viaduct, [Scorrier Gate](/stations/scorrier-gate) station next succeeds, and with all the mixed desolate and wild appearances, always allied to mining districts, such as heaps of debris of abandoned mines, the remains of engine houses, and chimney shafts tottering to their fall, we arrive at
+
+(place: england/cornwall/redruth)
+
+Passing [Pool](/stations/pool), a few minutes more brings us to [Camborne](/stations/camborne). After passing [Gwinear Road](/stations/gwinear-road) we soon arrive at
+
+(place: england/cornwall/hayle)
+
+Passing along the lower end of the Hayle estuary, we arrive at the station of [St. Ives Road](/stations/st-ives-road), near the village of St. Erth, about three miles from which is
+
+(place: england/cornwall/st-ives)
+
+Proceeding on our way from [Marazion Road](/stations/marazion-road), winding round the margin of this beautiful bay, we soon arrive at
+
+(place: england/cornwall/penzance)
+
+### Coast Route from Penzance to Bude.
+In returning the traveller will do well to follow the north coast of the comity to *Bude*, a route affording more enjoyment than the one through the centre to *Launceston*, but certainly one of more difficulty. Reaching *St. Agnes*, from the Redruth station, we find a peculiar-looking hill, 621 feet high, called *St. Agnes Beacon* (Opie, the painter, was a native), proceeding past which, by way of the sands and *Cliggor Head*, we come to Piran Sands, or *Perranzabuloe*, where may be seen an amphitheatre, and the remains of an old church of St. Piran, an ancient British edifice, which had been covered by the shifting sands for many centuries. The discovery gave rise to Mr. Trelawney's work, the "Lost Church Found," in which he shows what the primitive English church was before corrupted by Popery. This and other parishes were named from the famous St. Piran, the patron of tinners.
+
+We can now proceed to *St. Columb Major*, which has a spacious early cross, church, and some ancient buildings, In the vicinity is *Rialton Priory*, founded by Pinor Vivian, a picturesque ruin. To the south is a fine earthwork, in a lofty situation, called King Arthur's Castle, or *Castle-an-Dinas*. Thence by *Mawgan* in the beautiful vale of Lanherne, where there is a fine old church, with some monuments and brasses, and a beautiful church-yard cross, *Lanherne Nunnery*, still inhabited by its recluses, in the neighbourhood--a most beautiful part of the coast this from Mawgan Point, by *Trevose Head*, to Padstow. *Prideaux Castle*, or Place House, a fine Tudor building, close by. Crossing the ferry here we may see more churches half buried in sand.
+
+We may now proceed to *Camelford*, a very ancient town, near which are the celebrated slate quarries of Delabole, belonging to the Trevanion family. Four miles north is *Bossiney* and the old castle of *Tintagel*, situated on a stupendous crag, washed by the ever-fretful waves of the Atlantic. As the palace and home of the renowned Arthur, we cannot but look on the deserted wails with a degree of enthusiasm. *Cadon Barrow*, near, is 1,011 feet high. A wild and picturesque road leads to *Boscastle*, or Bottreaux Castle, with the remains of its old castle, and some ecclesiastical buildings. From this place we pass *St. Gennis* and *Poundstock* to
+
+**Bude**--a small port and picturesque village in the north-eastern extremity of Cornwall--has, within the last half-dozen years, risen to the dignity of a fashionable marine resort, to which distinction the excellent facilities it affords to bathers, and the picturesque scenery of its environs, have in a great measure contributed. The bed of the harbour, which is dry at low water, is composed of a fine bright yellow sand, chiefly consisting of small shells. The sea view is of a striking, bold, and sublime description--the rocks rising on every side to lofty broken elevations; and those who desire a sequestered and romantic retreat will find in Bude the very object of their wish. The Bude Canal was commenced in 1819, and completed in 1826, at a cost of £128,000. It terminates within three miles of Launceston, forming an internal communication through Devon and Cornwall of nearly forty miles. Bude is fifty-two miles from Exeter.
+
+At *Stratton*, two miles further, a severe battle was fought between the Earl of Stamford and the parliamentarians, and the royalists, under Sir Ralph Hopton. The remains of the ancient castle of Bimomy and *Kilhampton* Norman church are at hand.
+
+Instead of proceeding to Bude as above, the traveller may, if he choose, when at Wadebridge, continue his course through Bodmin to Launceston, but the route has not much interest until the high tors, *Rough Tor* and *Brown Willy*, rise above the desolate and lonely moors around. From the village of *Temple* a stout walker may visit many interesting localities and romantic scenes, the huge peaks here rising to 1,000 and 1,300 feet high; or he may turn to the right and see *Dozmeri Pool*, the *Cheesewring*, and the *Hurlers*, regaining the road by the Fowey river. Which way, however, he may take, he will find new beauties and new scenes to interest and astonish him, but which the space at our disposal will not allow us to enter upon.

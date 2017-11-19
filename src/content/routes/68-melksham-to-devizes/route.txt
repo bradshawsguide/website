@@ -1,0 +1,18 @@
+section: 2
+----
+title: Melksham to Devizes
+----
+line: Devizes Branch
+----
+company: great-western
+----
+stops:
+- holt-junction
+- seend
+- devizes
+----
+text: (place: england/wiltshire/melksham)
+
+This branch, also an appendage of the Wilts, Somerset, and Weymouth line, turns off about a mile to the south of Melksham. It runs *via* [Holt Junction](/stations/holt-junction) and [Seend](/stations/seend), to [Devizes](/stations/devizes).
+
+(place: england/wiltshire/devizes)

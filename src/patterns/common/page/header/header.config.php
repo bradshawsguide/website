@@ -1,6 +1,6 @@
 <?php
 
-$page = page('stations/forest-hill');
+$page = page('places/england/sussex/brighton');
 
 return [
     'defaults' => [

@@ -1,0 +1,20 @@
+section: 2
+----
+title: Church Stretton
+----
+company:
+- shrewsbury-and-hereford
+----
+route:
+- hereford-to-shrewsbury
+----
+info:
+- term: Hotel
+  desc: Crown.
+- term: Market Day
+  desc: Thursday.
+- term: Fairs
+  desc: March 10th, May 14th, July 3rd, and September 25th.
+----
+notes:
+- A telegraph station.

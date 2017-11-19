@@ -1,0 +1,17 @@
+section: 2
+----
+title: Conway to Llandudno
+----
+line: St. George's Harbour
+----
+company:
+- london-and-north-western
+----
+stops:
+- llandudno-junction
+- deganwy
+- llandudno
+----
+text: The distant landscapes and marine views presented to the eye of the tourist as he passes along this little line, commanding as it does the full scope of the beautiful Bay of Beaumaris, are of a most varied and interesting character. In ten minutes after passing the junction and the station of [Deganwy](/stations/deganwy), the arrival of the train is announced at
+
+(place: wales/carnarvonshire/llandudno)

@@ -2,6 +2,6 @@
 
 return [
     'defaults' => [
-        'item' => page('stations/brighton')
+        'item' => page('places/england/sussex/brighton')
     ]
 ];

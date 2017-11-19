@@ -1,0 +1,125 @@
+section: 2
+----
+title: Oxford to Worcester and Wolverhampton
+----
+line: West Midland Section
+----
+company: great-western
+----
+stops:
+- oxford
+- handborough
+- charlbury
+- ascott
+- [shipton, chipping-norton]
+- [shipton, bourton-on-the-water]
+- addlestrop-and-stow-road
+- moreton-in-the-marsh
+- blockley
+- campden
+- [honeybourne, long-marston, milcote, stratford-upon-avon]
+- evesham
+- fladbury
+- pershore
+- worcester-shrub-hill
+- fearnall-heath
+- droitwich
+- hartlebury
+- kidderminster
+- churchill
+- hagley
+- [stourbridge, lye, cradley]
+- brettel-lane
+- brierley-hill
+- round-oak
+- netherton
+- dudley
+- tipton-five-ways
+- princes-end
+- daisy-bank
+- bilston-west
+- priestfield
+- wolverhampton-low-level
+----
+text: ### Oxford to Chipping Norton Junction
+
+(place: england/oxfordshire/handborough)
+
+Thence crossing the Evenlode several times in our course, and skirting the park rails of the Duke of Beaufort's princely domain, *Blandford Park*, we arrive at
+
+(place: england/oxfordshire/charlbury)
+
+Still passing along the valley of the Evenlode, we pass [Ascott](/stations/ascott) station, arriving at
+
+(place: england/oxfordshire/shipton)
+
+Three miles beyond Shipton we arrive at the junction of the
+
+### Chipping Norton Branch,
+and at a distance of four miles further, at the ancient town of
+
+(place: england/oxfordshire/chipping-norton)
+
+Another branch line turns off to the left from this junction to [Bourton-on-the-Water](/stations/bourton-on-the-water), a small village on the side of a Roman Foss-way, leading from Cirencester to Stow-on-the-Wold.
+
+Returning to the junction of the Main line, we pursue our journey onwards to
+
+(place: england/gloucestershire/addlestrop-and-stow-road)
+
+Again proceeding on our way, we soon arrive at
+
+(place: england/gloucestershire/moreton-in-the-marsh)
+
+[Blockley](/stations/blockley), [Campden](/stations/campden), and [Honeybourne](/stations/honeybourne) stations, the last of which is the junction of the branch to the classic town of Stratford.
+
+### Stratford-upon-Avon Branch
+The stations *en route* are [Long Marston](/stations/long-marston), and [Milcote](/stations/milcote).
+
+(place: england/warwickshire/stratford-upon-avon)
+
+### Honeybourne to Worcester and Wolverhampton
+Again on the Main Line, we next pay a visit to the small town of
+
+(place: england/worcestershire/evesham)
+
+Another branch, belonging to the Midland Company, here interrupts our course.
+
+(route: evesham-to-ashchurch)
+
+[Fladbury](/stations/fladbury) station.
+
+(place: england/worcestershire/pershore)
+
+(place: england/worcestershire/worcester)
+
+(route: worchester-to-hereford)
+
+(place: england/worcestershire/fearnall-heath)
+
+(place: england/worcestershire/droitwich)
+
+(place: england/worcestershire/hartlebury)
+
+(route: hartlebury-to-shrewsbury)
+
+### West Midland Main Line continued
+
+(place: england/worcestershire/kidderminster)
+
+[Churchill](/stations/churchill) station.
+
+[Hagley](/stations/hagley).--Here is the splendid mansion of the first Lord Lyttleton; its picture gallery is attractive and the scenery afforded by the situation of the hall itself beautiful and extensive. The family tomb may be seen in the church.
+
+(place: england/worcestershire/stourbridge)
+
+A line of 2¼ miles diverges from here to the right, *via* the station of [Lye](/stations/lye) to the village of [Cradley](/stations/cradley), in the vicinity of which some hops are grown.
+
+[Brettel Lane](/stations/brettel-lane), [Brierley Hill](/stations/brierley-hill), [Round Oak](/stations/round-oak), and [Netherton](/stations/netherton) stations.
+
+(place: england/worcestershire/dudley)
+
+(route: dudley-to-walsall-derby-and-burton)
+
+We again retrace our route to Dudley, and in resuming our journey north-west, pass the stations of [Tipton](/stations/tipton), [Prince's End](/stations/princes-end), [Daisy Bank](/stations/daisy-bank), [Bilston](/stations/bilston-west), and [Priestfeild](/stations/priestfield) (in a distance of five miles only), arriving at
+
+(place: england/staffordshire/wolverhampton)

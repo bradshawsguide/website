@@ -1,0 +1,17 @@
+section: 2
+----
+title: Moreton-on-Lugg
+----
+company:
+- great-western
+- london-and-north-western
+----
+route:
+- hereford-to-shrewsbury
+----
+info:
+- term: Hotels
+  desc: White Hart; Railway.
+----
+notes:
+- Telegraph station at Hereford, 3½ miles.

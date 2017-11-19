@@ -1,8 +1,10 @@
 <?php
 
+$page = page('routes/london-bridge-to-brighton');
+
 return [
     'defaults' => [
-        'title' => page('routes/london-bridge-to-brighton')->title(),
-        'route' => page('routes/london-bridge-to-brighton')
+        'title' => $page->title(),
+        'route' => $page
     ]
 ];

@@ -8,7 +8,7 @@ class CountryPage extends Page
         $featured = $this->feature()->yaml();
 
         array_walk($featured, function (&$value, $key) {
-            $value = page('stations/'.$value);
+            $value = page('places/'.$value);
         });
 
         return $featured;

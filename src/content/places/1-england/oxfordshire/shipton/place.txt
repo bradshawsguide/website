@@ -1,0 +1,13 @@
+section: 2
+----
+title: Shipton
+----
+company:
+- great-western
+----
+route:
+- oxford-to-worchester-and-wolverhampton
+----
+desc: 4 miles south is the old town of *Burford*, full of quaint houses, with paneled gables and tracery work.
+----
+text: 4 miles south is the old town of *Burford*, full of quaint houses, with paneled gables and tracery work. The church is cruciform, with several large chapels attached, all partaking of the Norman or early perpendicular character. A battle took place here in 752 between the rival Kings of Wessex and Mercia. Three miles on the Northleach road is Lord Dynevor's elegant mansion at *Barrington*.

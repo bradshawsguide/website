@@ -1,0 +1,80 @@
+section: 2
+----
+title: Chippenham to Frome, Yeovil, Dorchester, and Weymouth
+----
+title_short: Chippenham to Dorchester, and Weymouth
+----
+line: Wilts, Somerset and Weymouth Railway
+----
+company: great-western
+----
+stops:
+- chippenham
+- melksham
+- holt-junction
+- [trowbridge, bradford-on-avon, freshford, limpley-stoke, bathampton, bath]
+- westbury
+- frome
+- witham-junction
+- bruton
+- castle-cary
+- sparkford
+- marston
+- yeovil-pen-mill
+- yetminster
+- evershot
+- maiden-newton
+- grimstone
+- dorchester-west
+- [weymouth, portland]
+----
+text: (place: england/wiltshire/melksham)
+
+(route: melksham-to-devizes)
+
+(place: england/wiltshire/trowbridge)
+
+A short branch here turns of at
+
+(place: england/wiltshire/bradford-on-avon)
+
+This line continues its course, *via* [Freshford](/stations/freshford), [Limpley Stoke](/stations/limpley-stoke), and [Bathampton](/stations/bathampton) to
+
+(place: england/somerset/bath)
+
+a distance of 12½ miles from Trowbridge. From Trowbridge we continue by the Valley of the Avon, with the grounds of *Rowed Ashton* and *Heywood House* on the left, and arrive at
+
+(place: england/wiltshire/westbury)
+
+We now bear to the left, leaving the Weymouth line, on the
+
+(route: westbury-to-salisbury)
+
+### Westbury to Dorchester and Weymouth
+Crossing the borders of the county from Westbury we soon arrive at
+
+(place: england/somerset/frome)
+
+[Witham Junction](/stations/witham-junction), near which is *Witham Park*.
+
+(route: witham-junction-to-wells)
+
+[Bruton](/stations/bruton), situated on the banks of the Brue; has a fine old English perpendicular church, an endowed hospital founded by Saxey, auditor to Queen Elizabeth, and a free grammar school by Edward VI.
+
+(place: england/somerset/castle-cray)
+
+(place: england/somerset/sparkford)
+
+Passing [Marston](/stations/marston) station, we cross the river Yeo and stop at the station at
+
+(place: england/somerset/yeovil)
+
+From Yeovil a branch line to the right, of nearly 20 miles in length, joins the [Bristol and Exeter](/routes/bristol-to-exeter) line. We proceed southward, and passing the ancient village of *Bradford Abbas* and the stations of [Yetminster](/stations/yetminster) and [Evershot](/stations/evershot) (near which are *Woolcombe House* and *Melbury House* at Redlynch, the seat of the Earl of Ilchester, from the grounds of which a view may be had of an immeasurable tract of country), we arrive at [Maiden Newton](/stations/maiden-newton), from which a branch to the right takes us to Bridport.
+
+(route: maiden-newton-to-bridport)
+
+Leaving Maiden Newton and passing along the Valley of the Frome, by the station of [Grimstone](/stations/grimstone), we arrive at
+
+(place: england/dorsetshire/dorchester)
+
+(place: england/dorsetshire/weymouth)

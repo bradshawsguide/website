@@ -1,0 +1,18 @@
+section: 2
+----
+title: Southall
+----
+company:
+- great-western
+----
+route:
+- london-to-reading-bath-and-bristol
+----
+info:
+- term: Hotel
+  desc: Red Lion.
+- term: Market Day
+  desc: Wednesday.
+----
+notes:
+- A telegraph station.

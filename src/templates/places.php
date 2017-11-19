@@ -15,13 +15,13 @@ pattern('common/tablist');
 
 if (param('view') == 'map') {
     pattern('common/figure/map', [
-        'url' => '/stations.geojson/'.$kirby->request()->params(),
+        'url' => '/places.geojson/'.$kirby->request()->params(),
         'class' => 'cover'
     ]);
 } else {
     pattern('common/section/featured', [
         'title' => 'Towns with pictorial illustrations',
-        'items' => $places
+        'items' => $featured
     ]);
 };
 

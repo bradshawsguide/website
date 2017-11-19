@@ -1,0 +1,15 @@
+section: 1
+----
+title: New Cross
+----
+company:
+- south-eastern
+- london-brighton-and-south-coast
+----
+route:
+- charing-cross-to-woolwich-gravesend-strood-and-rochester
+- charing-cross-to-folkestone-and-dover
+- london-bridge-to-brighton
+----
+notes:
+- A telegraph station.

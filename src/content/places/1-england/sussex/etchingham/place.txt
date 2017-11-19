@@ -1,0 +1,19 @@
+section: 1
+----
+title: Etchingham
+----
+company:
+- south-eastern
+----
+route:
+- tunbridge-to-hastings
+----
+info:
+- term: Money Order Office
+  desc: at Wadhurst.
+----
+notes:
+- Distance from station, 1 mile.
+- A telegraph station.
+----
+text: The church at Etchingham is a fine old edifice, reputed to be one of the best specimens of Norman architecture in the country.

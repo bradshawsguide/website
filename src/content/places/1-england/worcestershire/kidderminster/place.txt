@@ -1,0 +1,25 @@
+section: 2
+----
+title: Kidderminster
+----
+company:
+- great-western
+----
+route:
+- oxford-to-worchester-and-wolverhampton
+----
+info:
+- term: Hotels
+  desc: Lion, Black Horse.
+- term: Market Day
+  desc: Thursday.
+- term: Fairs
+  desc: Palm Monday, Holy Thursday, June 20th, and September 4th.
+----
+notes:
+- Distance from station, 1 mile.
+- A telegraph station.
+----
+desc: Kidderminster stands on both banks of the river Stour, which divides it into two unequal parts and the buildings extend in a continued range from north to south-east.
+----
+text: Kidderminster stands on both banks of the river Stour, which divides it into two unequal parts and the buildings extend in a continued range from north to south-east, nearly a mile in length, and taken as a whole it forms a very regular and compact town, consisting principally of two good streets one parallel to the canal, and the other forming part of the road to Birmingham. It returns one member. Population, 15,399. The church stands at the end of a street leading from the market-place, in a commanding situation, on the brow of a hill. It is a handsome Gothic building—the windows have very rich tracery, and the view of the town is uncommonly fine. There is a well-conducted and amply-endowed grammar school, founded by Charles the First. Kidderminster has long been celebrated for its manufactures, which are now on a very extensive scale, especially that of carpets, which has become very extensive, and has most essentially promoted the trade, wealth, and population of the town.

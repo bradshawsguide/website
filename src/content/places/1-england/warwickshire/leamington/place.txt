@@ -1,0 +1,9 @@
+section: 3
+----
+title: Leamington
+----
+company:
+- great-western
+----
+route:
+- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester

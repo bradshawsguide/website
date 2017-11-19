@@ -1,0 +1,26 @@
+﻿section: 1
+----
+title: Freshwater
+----
+route:
+- ryde-to-the-needles
+----
+info:
+- term: Hotels
+  desc: Lambert's Hotel; Royal Albion.
+- term: Coaches
+  desc: to and from Ryde, Cowes, and Newport, daily.
+- term: Money Order Office
+  desc: at Yarmouth.
+----
+notes:
+- Distance from station at Portsmouth, 24 miles.
+- Telegraph station at Yarmouth, 2 miles.
+----
+desc: Half a mile from the village, on the south side of the Downs in a gap of the cliffs, which rise up 500 and 600 feet above the sea, white and dazzling, producing a grand effect.
+----
+text: Freshwater Gate, where the baths and lodging houses are stationed, is half a mile from the village, on the south side of the Downs in a gap of the cliffs, which rise up 500 and 600 feet above the sea, white and dazzling, producing a grand effect. They are streaked with parallel lines of flint. Lobsters, &c., are good. Here is the residence of Alfred Tennyson, the poet laureate.
+
+Between this and the Needles are several remarkable objects, most of which can be visited only in a boat (10s. or 20s. the trip), when there is little sea. Even with fine weather the long swell is apt to be disagreeable.
+
+In Freshwater Bay, fronting the baths are Deer Island; Neshanter cave, 120 feet deep, 35 wide; the Arch Rock, 600 feet out from the shore; Watcombe bay and its caves; Neptune's cave, 200 feet long; Beak cave, 90 feet; High Down Cliff, 217 feet high, swarming with puffins, razor-birds, &c.; Frenchman's Hole, 90 feet; Holmes's Parlour and Kitchen; Roe's Hall, 600 feet long, close to the *Wedge Rock*, so called because of a great block jammed in a gap, into which it has fallen; Old Pepper Rock; Main Bench Cliff, full of birds; Scratchell's Bay and Scratchell's Cave, 200 feet high, with an overhanging roof; Needles Cave, 300 feet long; the *Needles Rocks*, four or five blunt peaks, with deep water round them, at the west end of the Island. There was a sharp rock 120 feet high, but it fell down in 1776. On the cliffs above, 469 feet high, is the lighthouse, seen 27 miles.

@@ -1,0 +1,38 @@
+section: 2
+----
+title: Swindon to Cirencester, Stroud, Gloucester, and Cheltenham
+----
+line: Cheltenham Branch
+----
+company: great-western
+----
+stops:
+- swindon-junction
+- purton
+- minety
+- [tetbury-road, cirencester]
+- brimscomb
+- stroud
+- stonehouse
+- gloucester
+- cheltenham
+----
+text: (place: england/wiltshire/purton)
+
+The next station is [Minety](/stations/minety), soon after leaving which, we enter [Gloucestershire](/places/england/gloucestershire).
+
+At a distance of 6¼ miles beyond Minety, the train stops at
+
+(place: england/gloucestershire/tetbury)
+
+(place: england/gloucestershire/cirencester)
+
+(place: england/gloucestershire/brimscomb)
+
+(place: england/gloucestershire/stroud)
+
+(place: england/gloucestershire/stonehouse)
+
+(place: england/gloucestershire/gloucester)
+
+(place: england/gloucestershire/cheltenham)

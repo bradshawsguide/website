@@ -6,8 +6,7 @@
     <ul class="c-list<?= $listStyle ?>">
     <?php foreach ($items as $item): ?>
         <li class="c-list__item">
-            <?php $title = (!$item->title_short()->empty()) ? $item->title_short() : $item->title(); ?>
-            <a href="<?= $item->url() ?>"><?= smartypants($title) ?></a>
+            <a href="<?= $item->url() ?>"><?= smartypants($item->title()) ?></a>
         </li>
     <?php endforeach ?>
     </ul>

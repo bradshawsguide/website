@@ -1,0 +1,21 @@
+section: 2
+----
+title: Stonehouse
+----
+company:
+- great-western
+----
+route:
+- swindon-to-gloucester-and-cheltenham
+----
+info:
+- term: Population
+  desc: 2,609.
+- term: Hotels
+  desc: Crown and Anchor; Plough.
+----
+notes:
+- Distance from station, ½ mile.
+- A telegraph station.
+----
+text: At this point the line joins the Bristol and Birmingham rail, which proceeds on the left to Bristol, and on the right to Gloucester and Cheltenham.

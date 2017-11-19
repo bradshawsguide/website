@@ -1,0 +1,21 @@
+section: 2
+----
+title: Twyford
+----
+company:
+- great-western
+----
+route:
+- london-to-reading-bath-and-bristol
+- twyford-to-henley
+----
+info:
+- term: Hotels
+  desc: Station Hotel; King's Arms.
+----
+notes:
+- A telegraph station.
+----
+desc: In the neighbourhood are *Stanlake*. *Shottesbrooke Church*, a beautiful miniature cross, with a tall tower and spire, formerly attached to an ancient college here.
+----
+text: In the neighbourhood are *Stanlake* (1 mile). *Shottesbrooke Church* (2½ miles), a beautiful miniature cross, with a tall tower and spire, formerly attached to an ancient college here.

@@ -1,6 +1,0 @@
-section: 2
-----
-title: Monmouthshire Railway and Canal Company
-----
-links:
-- (wikipedia: Monmouthshire_Railway_and_Canal_Company)

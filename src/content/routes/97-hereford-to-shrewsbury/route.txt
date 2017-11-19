@@ -1,0 +1,70 @@
+section: 2
+----
+title: Hereford to Shrewsbury
+----
+line: Shrewsbury and Hereford Railway
+----
+company:
+- great-western
+- london-and-north-western
+----
+stops:
+- hereford
+- moreton-on-lugg
+- dinmore
+- ford-bridge
+- leominster
+- berrington-and-eye
+- [wooferton, easton-court, tenbury, newnham-bridge, neen-sollers, cleobury-mortimer, bewdley]
+- ludlow
+- bromfield
+- onibury
+- craven-arms
+- marsh-brook
+- church-stretton
+- leebotwood
+- dorrington
+- condover
+- shrewsbury
+----
+text: (place: england/herefordshire/hereford)
+
+(place: england/herefordshire/moreton-on-lugg)
+
+[Dinmore](/stations/dinmore) and [Ford Bridge](/stations/ford-bridge) stations.
+
+(place: england/herefordshire/leominster)
+
+Nearest station to *Bromyard* 9 miles to the right. We here branch off to the left on the
+
+(route: leominster-to-kington)
+
+Pursuing our way from Leominster, we soon pass the station of [Berrington and Eye](/stations/berrington-and-eye); near which is *Berrington Park* (Lord Rodney).
+
+[Wooferton](/stations/wooferton).--At this point a branch, 19¼ miles long, turns off to the right, running *via* [Easton Court](/stations/easton-court), to the small town of
+
+(place: england/shropshire/tenbury)
+
+Passing along the south-eastern borders of the Southern Section of Shropshire, the line passes the stations of [Newnham](/stations/newnham), [Neen Sollers](/stations/neen-sollers), and the market town of [Cleobury Mortimer](/stations/cleobury-mortimer), to **[Bewdley](/stations/bewdley)**, an important town on the Severn Valley railway.
+
+Leaving Wooferton, and passing along, with the river Teme on our right, we arrive at
+
+(place: england/shropshire/ludlow)
+
+[Bromfield](/stations/bromfield) and [Onibury](/stations/onibury) are stations of no great importance.
+
+[Craven Arms](/stations/craven-arms).--This forms the junction of the
+
+(route: craven-arms-to-bishops-castle)
+
+(route: craven-arms-to-knighton-and-llandrindod)
+
+[Marsh Brook](/stations/marsh-brook) station.
+
+(place: england/shropshire/church-stretton)
+
+[Leebotwood](/stations/leebotwood) and [Dorrington](/stations/dorrington) stations.
+
+(place: england/shropshire/condover)
+
+(place: england/shropshire/shrewsbury)

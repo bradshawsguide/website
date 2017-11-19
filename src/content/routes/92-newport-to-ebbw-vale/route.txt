@@ -1,0 +1,32 @@
+section: 2
+----
+title: Newport to Blaenavon, Rhymney, Sirhowy, Blaina and Ebbw Vale
+----
+line: Monmouthshire Line
+----
+company: monmouthshire
+----
+stops:
+- newport-dock-street
+- [newport-mill-street, llantarnam, cwmbran, upper-pontnewydd, pontrhydyrun, pontypool-crane-street, pontnewynydd, abersychan, cwm-avon, blaenavon]
+- [bassaleg-junction, rhiwderin, church-road, machen, bedwas, maesycwmmer, pengam, bargoed, new-tredegar, rhymney]
+- tydee
+- [risca, tredegar-junction, blackwood, argoed, tredegar, sirhowy]
+- cross-keys
+- chapel-bridge
+- abercarne
+- newbridge
+- crumlin-low-level
+- llanhilleth
+- [aberbeeg, abertillery, blaina]
+- cwm
+- victoria-ebbw-vale
+- ebbw-vale-low-level
+----
+text: The Eastern and Western Lines turn off at this point to the right, passing through districts rich in mineral products, but not of essential importance to the general tourist. The first station on the Western Line is [Bassalleg Junction](/stations/bassaleg-junction); and here the Rhymney and Newport section of the Brecon Line branches off to the left, skirting the boundary of the country, passing the Stations of [Rhiwderin](/stations/rhiwderin), [Church Road](/stations/church-road), [Machen](/stations/machen), [Bedwas](/stations/bedwas), and [Maesycwmmer](/stations/maesycwmmer), to [Pengam](/stations/pengam), and from thence to [Bargoed](/stations/bargoed), [New Tredegar](/stations/new-tredegar), and [Rhymney](/stations/rhymney).
+
+Passing along the Western Valley Line, from Bassaleg and [Tydee](/stations/tydee), we arrive at [Risca](/stations/risca), the point of deviation of the Sirhowy Railway, a line about fifteen miles long, traversing the valley of that name, rich in mineral products. Its course lies *via* [Tredeger Junction](/stations/tredegar-junction). [Blackwood](/stations/blackwood), [Argoed](/stations/argoed), and [Tredegar](/stations/tredegar), the seat of some very extensive iron works, to [Sirhowy](/stations/sirhowy).
+
+Again on the Western Valley Line, we pass on to [Cross Keys](/stations/cross-keys), [Chapel Bridge](/stations/chapel-bridge), [Abercarne](/stations/abercarne), [Newbridge](/stations/newbridge), [Crumlin](/stations/crumlin-low-level), [Llanhilleth](/stations/llanhilleth), [Aberbeeg](/stations/aberbeeg), [Cwm](/stations/cwm), [Victoria](/stations/victoria-ebbw-vale), [Ebbw Vale](/stations/ebbw-vale), [Abertillery](/stations/abertillery), and [Blaina](/stations/blaina).
+
+Those on the Eastern Branch, [Llantarnam](/stations/llantarnam), [Cwmbran](/stations/cwmbran), [Pontnewydd](/stations/pontnewydd), [Pontrhydyrun](/stations/pontrhydyrun), [Pontypool](/stations/pontypool-crane-street), [Pontnewynnydd](/stations/pontnewynydd), [Abersychan](/stations/abersychan), [Cwm Avon](/stations/cwm-avon) and [Blaenavon](/stations/blaenavon).

@@ -1,8 +1,10 @@
 <?php
 
+$page = page('places/england/sussex/brighton');
+
 return [
     'defaults' => [
-        'info' => page('stations/brighton')->info()->yaml(),
-        'notes' => page('stations/brighton')->notes()->yaml()
+        'info' => $page->info()->yaml(),
+        'notes' => $page->notes()->yaml()
     ]
 ];

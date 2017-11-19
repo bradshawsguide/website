@@ -20,7 +20,7 @@ if (count($page->featured())) {
 
 pattern('common/section/list', [
     'title' => 'Places in '.$page->title(),
-    'items' => page('stations')->children()->filterBy('region', $page->uid())
+    'items' => $page->children()
 ]);
 ?>
 </article>

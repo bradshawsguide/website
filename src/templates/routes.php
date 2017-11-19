@@ -21,6 +21,11 @@ if (param('view') == 'map') {
         'class' => 'cover'
     ]);
 } else {
+    pattern('common/section/featured', [
+        'title' => 'Featured routes',
+        'items' => $featured
+    ]);
+
     foreach ($companies as $company) {
         pattern('common/section/routes', [
             'title' => html::a($company->url(), $company->title()),

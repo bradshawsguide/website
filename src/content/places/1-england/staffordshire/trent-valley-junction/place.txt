@@ -1,0 +1,11 @@
+section: 2
+----
+title: Trent Valley Junction
+----
+company:
+- london-and-north-western
+----
+route:
+- dudley-to-walsall-derby-and-burton
+----
+text: At this point an important connection takes place with the main line of the London and North Western, enabling parties to go to almost any part, north or south, of England.

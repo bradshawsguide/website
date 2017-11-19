@@ -1,0 +1,18 @@
+﻿section: 1
+----
+title: Winchfield
+----
+company:
+- london-and-south-western
+----
+route:
+- london-to-southampton-dorchester-and-weymouth
+----
+info:
+- term: Hotel
+  desc: Beauclerk Arms.
+- term: Omnibuses
+  desc: to Odiham, North Warnborough, Hartley, Hartley Row, Hartford Bridge, Wintney and Phoenix, five times daily, and to Bromhill, Hickfield, Strathfieldsaye, and Wokingham.
+----
+notes:
+- Telegraph station at Farnborough, 6 miles.

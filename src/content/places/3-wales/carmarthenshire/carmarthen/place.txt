@@ -1,0 +1,28 @@
+section: 2
+----
+title: Carmarthen
+----
+company:
+- llanelly-railway-and-docks
+- great-western
+- carmathen-and-cardigan
+----
+route:
+- llanelly-to-llandilo-and-llandovery
+- gloucester-to-newport-swansea-carmarthen-and-milford-haven
+- carmarthen-to-cardigan
+----
+info:
+- term: Hotels
+  desc: Ivy Bush, and Boar's Head.
+- term: Market Days
+  desc: Wednesday and Saturday.
+- term: Fairs
+  desc: April loth, June 3rd, July 10th, August 12th, Sept. 9th, Oct 9th, and Nov. 14th.
+----
+notes:
+- A telegraph station.
+----
+desc: Carmarthen is the capital of *Carmarthenshire* on the South Wales Railway, and the river Towey, with a population of 9,993. It is one of the most healthy towns, and commands a view of one of the finest vales in the principality.
+----
+text: Carmarthen is the capital of *Carmarthenshire* on the South Wales Railway, and the river Towey, with a population of 9,993, who, jointly with Llanelly, return one member. It is one of the most healthy towns, and commands a view of one of the finest vales in the principality. It has a good foreign and coasting trade; and boasts of a handsome town hall and market house, a Presbyterian college, free grammar school, &c., &c. A column to the memory of Sir T. Picton, who represented the borough in parliament, stands on the west of the town near the old Guildhall; also the Assembly Rooms, with a beautiful front built of freestone, in which are Reading Rooms, supported by public subscriptions. General Nott (to the memory of whom a handsome monument in bronze has been erected in Nott Square), together with Lewis Bailey, Bishop of Bangor, and author of the "Practice of Piety," were natives. The shire prison is on the castle site. A large *diocesan training school* for South Wales occupies 10 acres, and has a Gothic, front of 200 feet long. In the old church is a monument to *Sir R. Steele*, who married Miss Scurlock, of Ty Gwyn, and died at the Ivy Bush, in King Street, to whom the Inn is reported to have belonged; the effigy of Rhys ap Thomas; with a good copy of the Transfiguration. Shipping of a small class come up to the quay; the harbour is 3 miles lower down near the bay, which makes a fine semicircular sweep, 17 miles across. On the east side are the wild limestone cliffs of Worm's Head, 300 feet high, singularly shaped, and on the other Tenby, a beautiful watering place, near the lighthouse on Caldy Island.

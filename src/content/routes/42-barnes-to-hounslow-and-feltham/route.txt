@@ -1,0 +1,37 @@
+﻿section: 1
+----
+title: Barnes to Hounslow and Feltham
+----
+line: Hounslow Loop Line
+----
+company: london-and-south-western
+----
+stops:
+- barnes
+- chiswick
+- kew-bridge
+- brentford
+- isleworth
+- hounslow
+- feltham
+----
+links:
+- (wikipedia: Hounslow_Loop_Line)
+----
+text: It diverges from the Richmond line at Barnes station, and is earned across the river Thames, in front of Barnes-terrace, by means of a light end elegant bridge, consisting of three arches. From this the line proceeds through the property of the Duke of Devonshire; and the first station, Chiswick is placed at the southernmost corner of his Grace's park.
+
+(place: england/middlesex/chiswick)
+
+The railway then passes beneath the old Great Western coach road, and arrives at Kew station, close to the junction with the North and South Western Junction Railway. A walk across the bridge brings us to
+
+(place: england/surrey/kew)
+
+Passing the extensive works of the West London Water Company, the line continues principally through market gardens to Boston Lane, where the Brentford station is conveniently placed.
+
+(place: england/middlesex/brentford)
+
+(place: england/middlesex/isleworth)
+
+(place: england/middlesex/hounslow)
+
+A short distance beyond is *Whitton Park*, which we skirt, and soon after join the Windsor line. We will, however, now [retrace our steps to Barnes](/routes/london-to-richmond-and-staines#barnes).

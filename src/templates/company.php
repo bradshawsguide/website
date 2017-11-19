@@ -7,7 +7,7 @@ snippet('head', [
 <article class="c-page">
 <?php
 pattern('common/page/header', [
-    'parent' => page('companies'),
+    'parent' => $page->parent(),
     'title' => $page->title()
 ]);
 

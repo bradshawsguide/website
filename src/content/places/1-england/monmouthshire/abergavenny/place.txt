@@ -1,0 +1,32 @@
+section: 2
+----
+title: Abergavenny
+----
+company:
+- great-western
+- merthyr-tredegar-and-abergavenny
+----
+route:
+- newport-to-abergavenny-and-hereford
+- abergavenny-to-tredegar
+----
+info:
+- term: Hotel
+  desc: Angel.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: Third Tuesday in March, May 14th, June 24th (wool), Tuesday before July 20th, September 25th, and November 19th.
+- term: Races
+  desc; in April.
+----
+notes:
+- A telegraph station.
+----
+desc: This interesting old place, of 4,621 inhabitants, stands among the Monmouthshire Hills, near the Sugar Loaf, Blorenge, and other peaks.
+----
+text: This interesting old place, of 4,621 inhabitants, stands among the Monmouthshire Hills, near the Sugar Loaf, Blorenge, and other peaks, in a fine part of the Usk, where the Gavenny joins it, and gives name to the town, which the Romans who had a station here, called *Gobannium*. It was formerly noted for its old castle and springs, founded by Hammeline de Balun at the Conquest, the former for the purpose of guarding the pass into Wales. This feudal structure afterwards came to the Nevilles, who still take their title from it. A Tudor gate, from which there is a fine prospect, is the chief remain. Later still Abergavenny became celebrated for its Welsh wigs, made of goats hair, some of which sold at 40 guineas each. Physicians also used to send patients here to drink goats' whey. But its present prosperity arises from its flannel weaving, and the valuable coal and ironworks at Clydach, Blaenavon, &c., in its neighbourhood--a state of things likely to be much increased by the Newport, Abergavenny, and Hereford Railway, part of that important chain which unites South Wales to Liverpool and the north of England.
+
+The old bridge of 15 arches crosses the Usk. The church has some ancient tombs of the Beauchamps, and other possessors of the lordship. Traces of the priory exist near it. There is also an old grammar school, and a modern Cymreidiggion Society's Hall for Welsh bardic meetings--Monmouth being essentially Welsh, though separated from the principality since Henry VIII's time. Antiquaries say that, until feudal tenures were abolished by Charles II., Abergavenny castle used to give its holders their title by mere possession--like Arundel Castle, in Sussex, instead of by writ or by patent
+
+The views from the Sugar Loaf, which is 1,856 feet high, are magnificent. It takes three hours to ascend it. A still more beautiful prospect is enjoyed from St. Michael's old Chapel on Skyrrid Vawr. The White Castle is near this mountain. *Raglan Castle*, which the famous Marquis of Worcester held out so stoutly against Cromwell, is also near (8 miles), on the Monmouth road. Its machicolated gate, hall, chapel, the yellow tower, &c., are in excellent preservation, through the care of its owner, the Duke of Beaufort. *Llanthony Abbey* stands in a wild part of the Rhondu. The scenery of the Usk, from Abergavenny up to Brecon, is very romantic, as it winds round the black mountains, in one of the highest peaks of which it rises above Trecastle. Excellent trout fishing.

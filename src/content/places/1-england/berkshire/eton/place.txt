@@ -1,0 +1,22 @@
+section: 2
+----
+title: Eton
+----
+company:
+- great-western
+----
+route:
+- slough-to-windsor
+----
+info:
+- term: Population
+  desc: 3,122.
+- term: Hotels
+  desc: Great Western; George; Upper Ship.
+----
+notes:
+- A telegraph station.
+----
+desc: Eton is celebrated for its college, founded in 1440, by Henry VI., to which resort annually about 850 students, chiefly the sons of noble and opulent families.
+----
+text: Eton is celebrated for its college, founded in 1440, by Henry VI., to which resort annually about 850 students, chiefly the sons of noble and opulent families. The triennial celebration of *Eton Montem* on Salt Hill, but now discontinued, the "salt," or money, given to the captain of the school, for his support at the University, frequently realising nearly a thousand pounds.

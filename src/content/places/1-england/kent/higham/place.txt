@@ -1,0 +1,18 @@
+section: 1
+----
+title: Higham
+----
+company:
+- south-eastern
+----
+route:
+- charing-cross-to-woolwich-gravesend-strood-and-rochester
+----
+notes:
+- A telegraph station.
+----
+desc: Here is Mr. Charles Dicken's Country House.
+----
+text: *Gad's Hill*, (1 mile); *Cliffe*, (3 miles); *Cowling*, with its castle, (3¼ mile)--an embattled gateway forming a picturesque object.
+
+Here is Mr. Charles Dicken's Country House.

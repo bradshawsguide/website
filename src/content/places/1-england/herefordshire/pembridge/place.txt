@@ -1,0 +1,18 @@
+section: 2
+----
+title: Pembridge
+----
+company:
+- great-western
+----
+route:
+- leominster-to-kington
+----
+info:
+- term: Population
+  desc: 1,500.
+----
+notes:
+- Telegraph station at Leominster, 8 miles.
+----
+text: 1½ mile to the right, *Shobdon Court*, the seat of the Hanbury family.

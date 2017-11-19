@@ -1,0 +1,15 @@
+section: 2
+----
+title: Montgomery
+----
+company:
+- cambrian
+----
+route:
+- ostwestry-to-newtown-and-llanidloes
+----
+info:
+- term: Population
+  desc: 1,276.
+----
+text: At this place are the remains of two castles, and an immense camp with four ditches to be seen. The church is cruciform, and contains some interesting monuments.

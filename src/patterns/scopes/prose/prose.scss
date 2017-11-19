@@ -61,36 +61,6 @@
     &[href^="/stations/"] {
       font-variant-caps: small-caps;
     }
-
-    &[href^="/routes/"] {
-      position: relative;
-      margin-left: 0.5rem;
-      padding-left: 0.25rem;
-
-      &::before,
-      &::after {
-        position: absolute;
-        display: inline-block;
-        height: 0.625em;
-        width: 6px;
-        border-style: double;
-        content: "";
-      }
-
-      &::before {
-        top: 0.25em;
-        left: -6px;
-        border-width: 3px 3px 0 0;
-        border-top-right-radius: 12px;
-      }
-
-      &::after {
-        top: 0.875em;
-        left: -3px;
-        border-width: 0 0 3px 3px;
-        border-bottom-left-radius: 12px;
-      }
-    }
   }
 
   em {
@@ -100,6 +70,10 @@
   strong {
     font-family: $__font-family-slab;
     line-height: 0; // Kameron affects line-height
+
+    a[href^="/stations/"] {
+      font-variant-caps: normal;
+    }
   }
 
   ul li {

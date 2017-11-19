@@ -1,0 +1,23 @@
+section: 2
+----
+title: Faringdon
+----
+company:
+- great-western
+----
+route:
+- london-to-reading-bath-and-bristol
+----
+info:
+- term: Hotels
+  desc: Bell, Crown.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: February 13th, Whit Tuesday, Tuesdays before and after Michaelmas, and October 29th.
+----
+desc: Its church is a very ancient structure, erected on the hill, and contains within several noble monuments.
+----
+text: Its church is a very ancient structure, erected on the hill, and contains within several noble monuments; whilst the exterior displays evidence of the havoc committed upon it during the civil wars, the spire having been destroyed by the artillery of the Parliamentary forces. Edward the Elder, one of the Saxon kings, died in a palace here in 925.
+
+To those who duly estimate the worth of a fine prospect, we recommend a visit up the hill to Farringdon High Trees, which, in its extensive survey, includes the major portion of three counties--Oxfordshire, Wiltshire, and Gloucestershire. By sunrise or sunset, a view from this spot is amongst the finest panoramas from nature's exhaustless pencil.

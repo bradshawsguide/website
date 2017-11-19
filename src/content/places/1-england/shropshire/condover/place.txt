@@ -1,0 +1,12 @@
+section: 2
+----
+title: Condover
+----
+company:
+- shrewsbury-and-hereford
+----
+route:
+- hereford-to-shrewsbury
+----
+notes:
+- Telegraph station at Shrewsbury, 4½ miles.

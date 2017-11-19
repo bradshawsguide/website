@@ -1,6 +1,0 @@
-section: 2
-----
-title: South Devon and Tavistock Railway
-----
-links:
-- (wikipedia: South_Devon_and_Tavistock_Railway)

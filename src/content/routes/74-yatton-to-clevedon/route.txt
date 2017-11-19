@@ -1,0 +1,15 @@
+section: 2
+----
+title: Yatton to Clevedon
+----
+line: Clevedon Branch
+----
+company: bristol-and-exeter
+----
+stops:
+- yatton
+- clevedon
+----
+text: Continuing our journey to the right, we reach, in about four miles further, by alternate embankment and excavation,
+
+(place: england/somerset/clevedon)

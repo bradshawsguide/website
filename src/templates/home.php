@@ -10,7 +10,7 @@ foreach (page('sections')->children() as $section) {
     $featured = page('sections/'.$section->dirname())->feature()->yaml();
 
     array_walk($featured, function (&$value, $key) {
-        $value = page('stations/'.$value);
+        $value = page('places/'.$value);
     });
 
     pattern('common/section/featured', [

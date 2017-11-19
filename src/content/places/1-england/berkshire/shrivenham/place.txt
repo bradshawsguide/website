@@ -1,0 +1,13 @@
+section: 2
+----
+title: Shrivenham
+----
+company:
+- great-western
+----
+route:
+- london-to-reading-bath-and-bristol
+----
+notes:
+- Distance from station, 1 mile.
+- A telegraph station.

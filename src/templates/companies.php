@@ -6,7 +6,9 @@ pattern('common/page/header', [
     'title' => $page->title()
 ]);
 
-foreach (alphabetise($page->children()) as $letter => $items):
+$companies = $page->children();
+
+foreach (alphabetise($companies) as $letter => $items):
     pattern('common/index', [
         'items' => $items,
         'letter' => $letter

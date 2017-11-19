@@ -1,0 +1,35 @@
+section: 2
+----
+title: Chester to Birkenhead and Liverpool
+----
+line: Birkenhead Railway
+----
+company:
+- great-western
+- london-and-north-western
+----
+stops:
+- chester
+- mollington
+- ledsham
+- hooton
+- bromborough
+- spital
+- bebington
+- rock-ferry
+- birkenhead
+- liverpool-pier-head
+----
+text: Leaving Chester, the first stations we pass are [Mollington](/stations/mollington), [Ledsham](/stations/ledsham), and [Hooton](/stations/hooton), from the latter of which *Parkgate* is accessible by omnibus; the next place arrived at is
+
+[Bromborough](/stations/bromborough).--Near to which is Eastham Ferry, the landing place for the Mersey steamers. It is a charming spot, and a place of great resort in the summer by pic-nic parties from Liverpool. Bromborough Mill, situated in a delightful dell.
+
+[Spital](/stations/spital) station.
+
+[Bebbington](/stations/bebington).--Here is an old spire church, and just beyond are Upper Bebbington and the Stamton Stone Quarries, in which ripple marks have been found.
+
+[Rock Ferry](/stations/rock-ferry), between wich and Liverpool steamers are constantly plying.
+
+(place: england/cheshire/birkenhead)
+
+[Liverpool Pier Head](/stations/liverpool-pier-head)

@@ -44,29 +44,32 @@ To run with HTTPS locally on macOS, you should follow the setup [as described he
 
 ```
 bradshawsguide
-├── etc/              # CONFIGURATION
-│   ├── nginx/        # Nginx server
-│   └── ssl/          # SSL certificates (ignored by git)
+├── etc               # CONFIGURATION
+│   ├── nginx         # Nginx server
+│   └── (ssl)         # SSL certificates (ignored by git)
 │
-├── src/              # SOURCE
-│   ├── assets/
-│   │   ├── fonts/    # Webfonts
-│   │   ├── icons/    # Favicon and home screen icons
-│   │   ├── scripts/  # Global JavaScript files
-│   │   ├── styles/   # Global CSS files
-│   │   └── vectors/  # Global SVG images
+├── src               # SOURCE
+│   ├── assets
+│   │   ├── fonts     # Web fonts
+│   │   ├── icons     # Favicon and home screen icons
+│   │   ├── scripts   # Global JavaScript files
+│   │   ├── styles    # Global CSS files
+│   │   └── vectors   # Global SVG images
 │   │
-│   ├── config/       # Kirby configuration
-│   ├── content/      # Site content
-│   ├── controllers/  # Template controllers
-│   ├── models/       # Page models
-│   ├── patterns/     # Template patterns
-│   ├── plugins/      # Kirby plugins
-│   ├── snippets/     # Template snippets
-│   └── templates/    # Templates
+│   ├── config        # Kirby configuration
+│   ├── content       # Site content
+│   ├── controllers   # Template controllers
+│   ├── data          # Databases
+│   ├── models        # Page models
+│   ├── patterns      # Template patterns
+│   ├── plugins       # Kirby plugins
+│   ├── snippets      # Template snippets
+│   ├── tags          # Kirbytext tags
+│   └── templates     # Templates
 │
-├── www/              # COMPILED/RUNTIME
+├── www               # COMPILED/RUNTIME
 │   ├── (assets)      # Compiled assets (ignored by git)
+│   ├── (cache)       # Cache files (ignored by git)
 │   ├── [kirby]       # Kirby [submodule]
 │   ├── (thumbs)      # Thumbnail cache (ignored by git)
 │   └── index.php     # Kirby launch script

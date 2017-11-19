@@ -1,0 +1,48 @@
+﻿section: 1
+----
+title: Charing Cross and London Bridge to Greenwich
+----
+title_short: London to Greenwich
+----
+line: London and Greenwich Railway
+----
+company: south-eastern
+----
+stops:
+- charing-cross
+- waterloo-junction
+- blackfriars-road
+- london-bridge
+- spa-road
+- commercial-dock
+- deptford
+- greenwich
+----
+links:
+- (wikipedia: London_and_Greenwich_Railway)
+----
+text: (place: england/middlesex/charing-cross)
+
+Notwithstanding the competition of river steamers and omnibuses there are as many as 60 trains daily by this railway to and from Greenwich. The line runs over viaducts the whole distance, and passengers are generally on a level with the attics of the houses surrounding them. Passing over the new Hungerford bridge, which hardly vibrates more than does the solid ground, we reach, by a sharp curve, the
+
+(place: england/surrey/waterloo-junction)
+
+And in two minutes the train stops at
+
+(place: england/surrey/blackfriars-road)
+
+Whence it steams over the Borough market (St. Saviour's fine church on our left), to
+
+(place: england/surrey/london-bridge)
+
+We next proceed through the populous districts of Bermondsey and Rotherhithe, the first of which is accommodated with the station of
+
+(place: england/surrey/spa-road)
+
+A telegraph station; and the latter with that of [Commercial Dock](/stations/commercial-dock), a telegraph station.
+
+(place: england/kent/deptford)
+
+On quitting Deptford the train crosses the river Ravensbourne, and in a few moments reaches
+
+(place: england/kent/greenwich)

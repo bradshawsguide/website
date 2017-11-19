@@ -1,0 +1,16 @@
+section: 1
+----
+title: Bow
+----
+company:
+- north-london
+----
+route:
+- fenchurch-street-to-chalk-farm
+----
+info:
+- term: Money Order Office
+  desc: No. 28, Southside.
+----
+notes:
+- A telegraph station.

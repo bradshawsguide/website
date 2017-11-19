@@ -1,0 +1,28 @@
+section: 2
+----
+title: Gloucester to Ross and Hereford
+----
+line: Hereford, Ross and Gloucester Railway
+----
+company: great-western
+----
+stops:
+- grange-court-junction
+- longhope
+- mitcheldean-road
+- ross
+- fawley
+- holme-lacey
+- hereford
+----
+text: (place: england/gloucestershire/longhope)
+
+(place: england/herefordshire/ross)
+
+[Fawley](/stations/fawley) station.
+
+(place: england/herefordshire/holme-lacey)
+
+(place: england/herefordshire/hereford)
+
+(route: hereford-to-hay-and-brecon)

@@ -1,0 +1,16 @@
+section: 2
+----
+title: Gresford
+----
+company:
+- great-western
+----
+route:
+- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
+----
+notes:
+- Telegraph station at Wrexham, 3 miles.
+----
+desc: The station is built in the English villa style, and its picturesque simplicity harmonises exceedingly well with the beautiful and romantic scenery around.
+----
+text: The station is built in the English villa style, and its picturesque simplicity harmonises exceedingly well with the beautiful and romantic scenery around. The church is seated on the brow of a lofty eminence, commanding a very fine view of the Vale Royal of Cheshire; it is seen at a great distance off, and is famed as one of the seven wonders of Wales, for its beautiful Gothic architecture. *Gresford Lodge*, R. Ormsby Gore, Esq. Passing along the beautiful and highly picturesque Vale of Gresford, *Mount Alyn*, the residence of the late Col. M. Goodwin, on the left, and through a cutting, interspersed with streaks of coal, we cross the river Alyn, to the right of which is seen *Trevalyn Hall*, the seat of Sir John Trevor.

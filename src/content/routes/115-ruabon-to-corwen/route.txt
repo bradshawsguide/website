@@ -1,0 +1,27 @@
+section: 2
+----
+title: Ruabon to Llangollen
+----
+line: Vale of Llangollen Railway
+----
+company: great-western
+----
+stops:
+- ruabon
+- acrefair
+- trevor
+- llangollen
+- berwyn
+- glyndyfrdwy
+- carrog
+- corwen
+----
+text: This line leads into the very heart of the picturesque and beautiful. From [Ruabon](/stations/ruabon) the line runs *via* the stations of [Acrefair](/stations/acrefair) and [Trevor](/stations/trevor) to
+
+(place: wales/denbighshire/llangollen)
+
+The Vale of Llangollen is said to equal any of the beauties of the Rhine, and it no doubt surpasses them in works of art, the aqueduct and viaduct being splendid ornaments to this lovely work of nature.
+
+Pursuing our course along the valley of the Dee, we pass the stations of [Berwyn](/stations/berwyn) and [Glyndyfrdwy](/stations/glyndyfrdwy) to [Carrog](/stations/carrog), in the neighbourhood of which is *Llantysilio Hall*, the seat of A. Reid, Esq., near the canal resorvoir, and *Glyndwr's Mount*, marking the site of Sycarth, or Sychuant, the seat of the famous Owen Glyndwr, or Glendower, to whom the county belonged.
+
+[Corwen](/stations/corwen).--Here the line unites with the Vale of Clwyd, through Ruthin and Denbigh, to [Rhyl](/stations/rhyl), and will ultimately proceed to Bala, Dolgelley, and Barmouth westward. At this place, the great Holyhead road strikes off through the mountains to Capel Curig (19 miles), Snowdon, and Bangor; while another follows the Dee to Bala Lake (10 miles), which has its source in the Arran Mowddwy mountains. These range 2,950 feet high at the most, and fall as a continuation of the Berwyn mountains, which appear nearer Llangollen, and at Moel Ferna (*Moel* means *bald*), within a few miles of it, are 2,100 feet high, and at Cader Berwyn, about 2,560 feet high. Under this last point (12 miles south-west) is the famous *waterfall* of *Pistyll Rhaiadyr*. Here in a dark well-wooded hollow one of the head springs of the Tanat runs down 140 feet at once, thence through a rock, and down another fall of 70 feet. There are several paths to it over the hills. It gives name to Llanrhaiadyr church, in the valley below.

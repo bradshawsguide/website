@@ -1,0 +1,14 @@
+section: 1
+----
+title: Sevenoaks
+----
+company:
+- london-chatham-and-dover
+----
+route:
+- london-to-chatham-and-dover
+----
+notes:
+- A telegraph station.
+----
+text: A town of some importance, deriving its name from that of its found, Sir W. Sevenocke.

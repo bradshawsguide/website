@@ -3,17 +3,16 @@ $features = [];
 
 foreach ($routes as $route) {
     $stops = $route->stops()->yaml();
+    $linestring = [];
 
-    // Create `LineString` for main line and add to $geometries[]
-    $geometries = [
-        generateLineString(UIDStoStationPages($stops))
-    ];
+    // Create `LineString` for lines (and any of their branches)
+    foreach (array_extract_arrays($stops) as $line) {
+        // For each UID in $line array, convert to StationPage array
+        array_walk($line, function (&$value, $key) {
+            $value = UIDtoStationPage($value);
+        });
 
-    // Create `LineString` for any branches and add to $geometries[]
-    foreach ($stops as $stop) {
-        if (is_array($stop)) {
-            array_push($geometries, generateLineString(UIDStoStationPages($stop)));
-        }
+        $linestring[] = generateLineString($line);
     }
 
     // Create `Feature` from main and branch lines
@@ -21,7 +20,7 @@ foreach ($routes as $route) {
         'type' => 'Feature',
         'geometry' => [
             'type' => 'GeometryCollection',
-            'geometries' => $geometries
+            'geometries' => $linestring
         ],
         'properties' => [
             'title' => (string) $route->title(),
@@ -30,10 +29,10 @@ foreach ($routes as $route) {
     ];
 
     // Create a `Feature` for each stop
-    foreach (flatten_array($stops) as $stop) {
-        $stop = page('/stations/'.$stop);
+    foreach (array_flatten($stops) as $stop) {
+        $page = UIDtoStationPage($stop);
 
-        if ($stop->isVisible()) {
+        if ($page->place()) {
             $markerSize = 'large';
         } else {
             $markerSize = 'small';
@@ -41,10 +40,10 @@ foreach ($routes as $route) {
 
         $features[] = [
             'type' => 'Feature',
-            'geometry' => generatePoint($stop),
+            'geometry' => generatePoint($page),
             'properties' => [
-                'title' => (string) $stop->title(),
-                'url' => (string) $stop->url(),
+                'title' => (string) $page->title(),
+                'url' => (string) url('stations/'.$page->uid()),
                 'marker-size' => $markerSize
             ]
         ];

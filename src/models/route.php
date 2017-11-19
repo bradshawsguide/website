@@ -25,4 +25,16 @@ class RoutePage extends Page
 
         return $currentTitle;
     }
+
+    // Return `desc` if exists, else excerpt of text
+    public function excerpt()
+    {
+        if (!$this->desc()->empty()) {
+            $excerpt = $this->desc();
+        } else {
+            $excerpt = excerpt($this->text(), $length = 40, $mode = 'words');
+        };
+
+        return $excerpt;
+    }
 }

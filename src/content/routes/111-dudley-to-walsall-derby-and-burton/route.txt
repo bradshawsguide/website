@@ -1,0 +1,51 @@
+section: 2
+----
+title: Dudley to Walsall, Derby, and Burton
+----
+line: South Staffordshire Railway
+----
+company: london-and-north-western
+----
+stops:
+- dudley
+- dudley-port-low-level
+- great-bridge
+- wednesbury-town
+- walsall
+- rushall
+- pelsall
+- brownhills
+- hammerwich
+- lichfield
+- trent-valley-junction
+- alrewas
+- barton
+- burton-on-trent
+- willington
+- derby
+----
+text: (place: england/worcestershire/dudley)
+
+On leaving Dudley, we pass the stations of [Dudley Port](/stations/dudley-port), [Great Bridge](/stations/dudley-bridge), and [Wednesbury](/stations/wednesbury), and arrive at
+
+(place: england/staffordshire/walsall)
+
+Passing [Rushall](/stations/rushall) station, we then reach
+
+(place: england/staffordshire/pelsall)
+
+Passing [Brownhills](/stations/brownhills), [Hammerwich](/stations/hammerwich) stations, we come to [Lichfield](/stations/lichfield).
+
+(place: england/staffordshire/trent-valley-junction)
+
+(place: england/staffordshire/alrewas)
+
+(place: england/staffordshire/wichnor)
+
+[Barton](/stations/barton) station.
+
+(place: england/staffordshire/burton-on-trent)
+
+[Barton](/stations/willington) station.
+
+(place: england/derbyshire/derby)

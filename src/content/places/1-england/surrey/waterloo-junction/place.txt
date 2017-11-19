@@ -1,0 +1,11 @@
+section: 1
+----
+title: Waterloo Junction
+----
+title_short: Waterloo Jct.
+----
+company:
+- south-eastern
+----
+route:
+- charing-cross-to-greenwich

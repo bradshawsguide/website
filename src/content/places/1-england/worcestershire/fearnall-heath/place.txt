@@ -1,0 +1,13 @@
+section: 2
+----
+title: Fearnall Heath
+----
+company:
+- great-western
+----
+route:
+- oxford-to-worchester-and-wolverhampton
+----
+desc: *Henlip* or *Hindlip*, the seat of Viscount Southwell, stands on the site of an old building in which Thomas Abingdon lived when he hid away some of the Powder Plotters in the secret passages which abounded in it.
+----
+text: In this immediate vicinity is *Henlip* or *Hindlip* the seat of Viscount Southwell, stands on the site of an old building in which Thomas Abingdon lived when he hid away some of the Powder Plotters in the secret passages which abounded in it. It was the wife of this Thomas who wrote the anonymous letter to her brother, Lord Monteagle, which led James I. to discover the plot.

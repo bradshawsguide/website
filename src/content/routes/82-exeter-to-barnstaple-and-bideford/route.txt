@@ -1,0 +1,40 @@
+section: 2
+----
+title: Exeter to Crediton, Barnstaple & Bideford
+----
+title_short: Exeter to Barnstaple and Bideford
+----
+company: north-devon
+----
+stops:
+- exeter-st-davids
+- st-cyres
+- crediton
+- [yeoford, bow-devon, north-tawton]
+- copplestone
+- morchard-road
+- lapford
+- eggesford
+- south-molton-road
+- portsmouth-arms
+- umberleigh
+- barnstaple
+- fremington
+- instow
+- bideford
+----
+text: (place: england/devonshire/st-cyres)
+
+(place: england/devonshire/crediton)
+
+[Yeoford](/stations/yeoford), the junction of a line *via* [Bow](/stations/bow-devon) to [North Tawton](/stations/north-tawton).
+
+We next pass through the stations of [Copplestone](/stations/copplestone), [Morchard Road](/stations/morchard-road), [Lapford](/stations/lapford), [Eggesford](/stations/eggesford), [South Molton Road](/stations/south-molton-road), [Portsmouth Arms](/stations/portsmouth-arms), and [Umberleigh](/stations/umberleigh), having no particular attraction and arrive at
+
+(place: england/devonshire/barnstable)
+
+(place: england/devonshire/ilfracombe)
+
+[Fremington](/stations/fremington) and [Instow](/stations/instow) stations.
+
+(place: england/devonshire/bideford)

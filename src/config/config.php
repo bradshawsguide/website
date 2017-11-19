@@ -8,6 +8,10 @@ if (!defined('KIRBY')) {
 // Kirby license key
 c::set('license', '');
 
+// Database setup
+c::set('db.type', 'sqlite');
+c::set('db.database', kirby()->roots()->site().DS.'/data/app.db');
+
 // URL setup
 c::set('url', 'https://bradshaws.test');
 
@@ -16,7 +20,9 @@ c::set('routes', array(
     array(
         'pattern' => 'app.webmanifest',
         'action' => function () {
-            tpl::load(kirby()->roots()->templates().DS.'app.webmanifest.php', array('site' => kirby()->site()), false);
+            tpl::load(kirby()->roots()->templates().DS.'app.webmanifest.php', [
+                'site' => kirby()->site()
+            ], false);
         }
     ),
     array(
@@ -32,7 +38,28 @@ c::set('routes', array(
 Disallow: /www/kirby/
 Sitemap: '.url('sitemap.xml'), 'txt');
         }
-    )
+    ),
+    array(
+        'pattern' => 'stations/(:any)',
+        'method' => 'GET',
+        'action' => function ($uid) {
+            $db = new Database(array(
+                'type'     => c::get('db.type'),
+                'database' => c::get('db.database')
+            ));
+            $stations = $db->table('stations');
+            $station = $stations->where('uid', '=', $uid)->first();
+
+            if (!$station) {
+                return site()->errorPage();
+            } else {
+                tpl::load(kirby()->roots()->templates().DS.'station.php', [
+                    'site' => kirby()->site(),
+                    'page' => $station
+                ], false);
+            }
+        }
+    ),
 ));
 
 // Rewrite URLs
@@ -56,7 +83,7 @@ c::set('MinifyHTML', true);
 // Tiny URL Setup
 c::set('tinyurl.enabled', true);
 c::set('tinyurl.folder', 'x');
-c::set('tinyurl.url', 'http://bradshaws.test');
+c::set('tinyurl.url', 'https://bradshaws.test');
 
 // Cache
 c::set('cache', false);
@@ -68,9 +95,6 @@ c::set('cache.ignore', array('search', 'sitemap'));
 // Patterns
 c::set('patterns.preview.css', 'assets/app.css');
 c::set('patterns.preview.js', 'assets/app.js');
-
-// Content file extension
-c::set('content.file.extension', 'md');
 
 // Markdown options
 c::set('markdown.extra', true);

@@ -1,0 +1,41 @@
+section: 2
+----
+title: Llanelly to Llandilo and Llandovery
+----
+company: llanelly-railway-and-docks
+----
+stops:
+- llanelly
+- dock
+- bynea
+- llangennech
+- pontardulais
+- [pantyffynnon, cross-inn, garnant, brynamman]
+- duffryn
+- llandebie
+- derwydd-road
+- ffairfach
+- [llandilo, llandilo-bridge, golden-grove, llanarthney, nantgaredig, abergwilly, carmarthen]
+- talley-road-halt
+- glanrhyd
+- llangadock
+- lampeter-road
+- llandovery
+----
+text: Again, turning to the right from Llanelly, we pass through [Dock](/stations/dock), [Bynea](/stations/bynea), [Llangennech](/stations/llangennech), [Pontardulais](/stations/pontardulais), and [Pantyffynnon](/stations/pantyffynnon).
+
+[Cross Inn](/stations/cross-inn), [Garnant](/stations/garnant). and [Brynamman](/stations/brynamman) stations, on a short branch to the right.
+
+[Duffryn](/stations/duffryn), [Llandebie](/stations/llandebie), [Derwydd Road](/stations/derwydd-road), and [Ffairfach](/stations/ffairfach) stations.
+
+(place: wales/carmarthenshire/llandilo)
+
+A short line, 15½ miles long, turns off here to the left. Crossing the Towy, it runs, *via* [Llandilo Bridge](/stations/llandilo-bridge), [Golden Grove](/stations/golden-grove), [Llanarthney](/stations/llanarthney), [Nantgaredig](/stations/nantgaredig), and [Abergwilly](/stations/abergwilly) to [Carmarthen](/stations/carmarthen).
+
+[Talley Road](/stations/talley-road) and [Glanrhyd](/stations/glanrhyd) stations.
+
+(place: wales/carmarthenshire/llangadock)
+
+[Lampeter Road](/stations/lampeter-road) station.
+
+(place: wales/carmarthenshire/llandovery)

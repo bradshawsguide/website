@@ -3,6 +3,6 @@
 return [
     'defaults' => [
         'title' => 'Related links',
-        'links' => page('stations/brighton')->links()
+        'links' => page('places/england/sussex/brighton')->links()
     ]
 ];

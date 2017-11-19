@@ -1,0 +1,46 @@
+section: 2
+----
+title: Newport to Abergavenny and Hereford
+----
+line: West Midlands Section
+----
+company: great-western
+----
+stops:
+- newport-mill-street
+- upper-pontnewydd
+- pontypool-road
+- nantyderry
+- penpergwm
+- abergavenny
+- llanvihangel
+- pandy
+- pontrilas
+- st-devereux
+- tram-inn
+- hereford
+----
+text: In ten minutes after leaving Newport we reach [Pontnewydd](/stations/pontnewydd), and in ten minutes more, the station of
+
+(place: england/monmouthshire/pontypool-road)
+
+This forms the junction with the
+
+(route: pontypool-road-to-merthyr)
+
+(route: pontypool-road-to-monmouth)
+
+### Pontypool Road to Abergavenny
+Passing the station of [Nantyderry](/stations/nantyderry), or Goitre, we arrive at [Penpergwm](/stations/penpergwm), near which is Llanover, the seat of Lord Llanover, and three miles to the right is Glytha. Proceeding along the valley of the Usk, we soon arrive at
+
+(place: england/monmouthshire/abergavenny)
+
+(route: abergavenny-to-tredegar)
+
+[Llanfihangel](/stations/llanvihangel) and [Pandy](/stations/pandy).
+
+(place: england/herefordshire/pontrilas)
+
+[St. Devereux](/stations/st-devereux) and [Tram Inn](/stations/tram-inn) stations being passed, we shortly arrive at
+
+(place: england/herefordshire/hereford)

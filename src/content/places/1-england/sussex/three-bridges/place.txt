@@ -1,0 +1,14 @@
+section: 1
+----
+title: Three Bridges
+----
+company:
+- london-brighton-and-south-coast
+----
+route:
+- london-bridge-to-brighton
+- three-bridges-to-horsham-and-arundel
+- three-bridges-to-east-grinstead
+----
+notes:
+- A telegraph station.

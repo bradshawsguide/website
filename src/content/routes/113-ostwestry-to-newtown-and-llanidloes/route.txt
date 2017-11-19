@@ -1,0 +1,51 @@
+section: 2
+----
+title: Oswestry to Newtown and Llanidloes
+----
+company: cambrian
+----
+stops:
+- oswestry
+- llynclys
+- pant-salop
+- [llanymynech, llansaintffraid, llanfechain, llanfyllin]
+- four-crosses
+- arddleen
+- pool-quay
+- buttington
+- welshpool
+- forden
+- montgomery
+- [abermule, kerry]
+- newtown
+- scafell
+- [moat-lane, caersws, carno, llanbrynmair, cemmes-road, machynlleth]
+- llandinam
+- dolwen
+- llanidloes
+----
+text: Running through the stations of [Llynclys](/stations/llynclys), [Pant](/stations/pant), [Llanymynech](/stations/llanymynech) (the junction of a short line, *via* [Llansaintffraid](/stations/llansaintffraid) and [Llanfechain](/stations/llanfechain), to [Llanfyllin](/stations/llanfyllin), a place celebrated for its ponies), [Four Crosses](/stations/four-crosses), [Arddleen](/stations/arddleen), [Pool Quay](/stations/pool-quay), and [Buttington](/stations/buttington), to [Welshpool](/stations/welshpool); but, should time permit, we recommend the tourist to leave the road at Oswestry, and pass by the vale of *Tanat* for its beautiful scenery, *Llangynog*, and old cell of St, Melangel, near it, to *Llanfyllin*, thence by *Guilsfield* Church (at *Garvn*, close by a Roman camp and road) to
+
+(place: wales/montgomeryshire/welshpool)
+
+[Forden](/stations/forden) station.
+
+(place: wales/montgomeryshire/montgomery)
+
+Making for the banks of the Severn, we come to the pretty little village of [Abermule](/stations/abermule), (the junction of a short, line to [Kerry](/stations/kerry)) situated at the junction of the rivers Mule and Severn, a little to the left of which is *Castell Dolforgan*, an old ruin on a hill--but surrounded by beautiful scenery. About four miles beyond is the busy little town of
+
+(place: wales/montgomeryshire/newtown)
+
+Passing the station of [Scafell](/stations/scafell), we next come to that of [Moat Lane](/stations/moat-lane), the junction of the Machynlleth section of the Cambrian line.
+
+Leaving the station westward we soon come to the small hamlet of [Caersws](/stations/caersws), which has the remains of two Roman camps. The river Carno falls into the Severn at this point. We then leave the latter, and, taking a direction parallel with the former, come to the town of
+
+[Carno](/stations/carno), remarkable for the bloody contentions which, in the earlier history of the principality, from time to time took place amongst its princes.
+
+[Llanbrynmair](/stations/llanbrynmair) and [Cemmes Road](/stations/cemmes-road) are respectively passed and our arrival announced at
+
+(place: wales/montgomeryshire/machynlleth)
+
+Returning again to the station at Moat Lane, we pursue our course *via* [Llandinam](/stations/llandinam) and [Dolwen](/stations/dolwen) to [Llanidloes](/stations/llanidloes).
+
+On the completion of the lines of railway from Llanidloes to Llandovery and the south, the whole of central Wales, abounding in rugged defiles, in secluded glens, darksome rivers (but full of fish), the sources of the Severn and the Wye, and many a relic of our stalwart ancestors, will be opened up to the tourist.

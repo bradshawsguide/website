@@ -1,0 +1,24 @@
+section: 2
+----
+title: High Wycombe
+----
+company:
+- great-western
+----
+route:
+- maidenhead-to-wycombe-and-oxford
+----
+info:
+- term: Population
+  desc: 4,221.
+- term: Hotel
+  desc: Red Lion.
+- term: Market Day
+  desc: Friday.
+- term: Fairs
+  desc: Monday before New Michaelmas.
+----
+notes:
+- A telegraph station.
+----
+text: <span class="smcp">Wycombe</span> is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.

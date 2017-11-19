@@ -1,34 +1,34 @@
 <?php
-    $class = $page->hasImages() ? 'has-poster' : null;
-    snippet('head', [
-        'alternate' => $page->url().'.geojson',
-        'class' => $class
+
+// If station relates to a place, redirect to corresponding page
+if ($page->place()) {
+    if ($route = get('route')) {
+        $route = '?route='.$route;
+    }
+    redirect::to('places/'.$page->country().DS.$page->region().DS.$page->place().$route);
+} else {
+    pattern('common/page/header', [
+        'title' => $page->title(),
+        'parent' => page('stations')
     ]);
-?>
 
-<article class="c-page">
-<?php
-$mods = $page->hasImages() ? 'poster' : 'inverted';
-pattern('common/page/header', [
-    'title' => $page->displayTitle(),
-    'notes' => $page->notes(),
-    'parent' => $page->parent(),
-    'modifiers' => [$mods]
-]);
+    if ($page->location()) {
+        echo '<p><code>Location: '.$page->location().'</code></p>';
+        echo '<p><code>Country: '.$page->country().'</code></p>';
+        echo '<p><code>Region: '.$page->region().'</code></p>';
+    };
 
-pattern('common/page/content');
+    if ($page->wikipedia()) {
+        $wiki = brick('a');
+        $wiki->attr('href', 'https://en.wikipedia.org/wiki/'.$page->wikipedia());
+        $wiki->html($page->title().' station on Wikipedia');
+        echo '<p>'.$wiki.'</p>';
+    }
 
-pattern('common/section/links', [
-    'title' => 'Further reading',
-    'links' => $page->links()
-]);
-
-pattern('common/section/route-traversal', [
-    'title' => 'Routes serving this station',
-    'level' => 3,
-    'routes' => $page->routes()
-]);
-?>
-</article>
-
-<?php snippet('foot') ?>
+    if ($page->disused()) {
+        $disused = brick('a');
+        $disused->attr('href', 'http://www.disused-stations.org.uk/'.$page->disused());
+        $disused->html('Site record on Disused Stations');
+        echo '<p>'.$disused.'</p>';
+    }
+};

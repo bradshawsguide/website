@@ -2,6 +2,6 @@
 
 return [
     'defaults' => [
-        'url' => '/stations'
+        'url' => '/places'
     ]
 ];

@@ -1,8 +1,10 @@
 <?php
 
+$page = page('places/england/surrey/reigate');
+
 return [
     'defaults' => [
-        'title' => 'Distances of Places from '.page('stations/ventnor')->title(),
-        'distances' => page('stations/ventnor')->distances()->yaml()
+        'title' => 'Distances of Places from '.$page->title(),
+        'distances' => $page->distances()->yaml()
     ]
 ];

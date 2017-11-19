@@ -2,7 +2,7 @@
 
 return [
     'defaults' => [
-        'items' => page('stations')->children(),
+        'items' => page('companies')->children(),
         'letter' => '#'
     ]
 ];

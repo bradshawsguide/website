@@ -1,0 +1,25 @@
+﻿section: 1
+----
+title: Bishopstoke to Salisbury
+----
+line: Salisbury Branch
+----
+company: london-and-south-western
+----
+stops:
+- bishopstoke
+- chandlers-ford
+- romsey
+- dunbridge
+- dean
+- salisbury
+----
+text: [Chandlers Ford](/stations/chandlers-ford) station.
+
+(place: england/hampshire/romsey)
+
+(place: england/hampshire/dunbridge)
+
+[Dean](/stations/dean) station.
+
+(place: england/wiltshire/salisbury)

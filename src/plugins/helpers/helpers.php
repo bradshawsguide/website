@@ -1,74 +1,92 @@
 <?php
 
+// Access table in database
+function get_table($table)
+{
+    $db = new Database(array(
+        'type'     => c::get('db.type'),
+        'database' => c::get('db.database')
+    ));
+    $table = $db->table($table);
+    return $table;
+}
+
+// Transform UID to a Kirby StationPage array
+function UIDtoStationPage($uid)
+{
+    $stations = get_table('stations');
+    $page = $stations->where('uid', '=', $uid)->first();
+
+    return $page;
+}
+
 // Flatten array
 // $array = Array you wish to flatten
 // https://gist.github.com/kohnmd/11197713
-function flatten_array(array $array)
+// Returns a single dimensional array
+function array_flatten(array $array)
 {
-    $flattened_array = array();
+    $flattened_array = [];
+
     array_walk_recursive($array, function ($a) use (&$flattened_array) {
         $flattened_array[] = $a;
     });
+
     return $flattened_array;
 }
 
-// Transform array of UIDs to a Kirby Page array
-// $uids = Simple array, e.g [brighton, hove]
-function UIDStoStationPages($uids)
+// Extract arrays from multidimensional array
+// $array = Array you wish to extract arrays from
+// https://forum.getkirby.com/t/9042
+// Returns an array of single dimensional arrays
+function array_extract_arrays(array $array)
 {
-    array_walk($uids, function (&$value, $key) {
-        if (is_array($value)) {
-            $value = page('stations/'.$value[0]);
-        } else {
-            $value = page('stations/'.$value);
-        }
-    });
+    $chunks = [];
 
-    return $uids;
+    foreach ($array as $key => $value) {
+        if (is_array($value)) {
+            $chunks[0][$key] = $value[0];
+            $chunks = array_merge($chunks, array_extract_arrays($value));
+        } else {
+            $chunks[0][$key] = $value;
+        }
+    }
+
+    return $chunks;
 }
 
 // Generate `LineString` object for use in GeoJSON
-// $pages = Kirby Page array
+// $pages = Array of StationPages
 function generateLineString($pages)
 {
     foreach ($pages as $page) {
-        // Get latlng coordinates from page
-        if (!$page->location()->empty()) {
+        if ($page->geolng() && $page->geolat()) {
             $coords[] = [
-                $page->location()->coordinates()->lng(),
-                $page->location()->coordinates()->lat()
+                (float) $page->geolng(),
+                (float) $page->geolat()
             ];
-        };
+        }
     }
 
-    if (!empty($coords)) {
-        // Create `LineString`
-        $lineString = [
-            'type' => 'LineString',
-            'coordinates' => $coords
-        ];
+    $lineString = [
+        'type' => 'LineString',
+        'coordinates' => $coords
+    ];
 
-        return $lineString;
-    }
+    return $lineString;
 }
 
 // Generate `Point` object for use in GeoJSON
-// $page = Kirby Page e.g. page('/stations/brighton')
+// $page = StationPage
 function generatePoint($page)
 {
-    // Get latlng coordinates from page
-    if (!$page->location()->empty()) {
-        $coords = [
-            $page->location()->coordinates()->lng(),
-            $page->location()->coordinates()->lat()
-        ];
-    }
-
-    if (!empty($coords)) {
-        // Create `Point`
+    if ($page->geolng() && $page->geolat()) {
         $point = [
             'type' => 'Point',
-            'coordinates' => $coords
+            'coordinates' => [
+                (float) $page->geolng(),
+                (float) $page->geolat()
+            ]
         ];
 
         return $point;
