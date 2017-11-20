@@ -2,7 +2,7 @@
 
 return [
     'defaults' => [
-        'host' => 'https://github.com/bradshawsguide/website/edit/master/',
+        'host' => 'https://github.com/bradshawsguide/content/edit/master/',
         'ext' => '.txt'
     ]
 ];
