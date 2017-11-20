@@ -80,7 +80,7 @@ bradshawsguide
 ├── gulpfile.js       # Configuration file for Gulp
 ├── package-lock.json # Package lock file
 ├── package.json      # Package manifest
-├── LICENSE           # License (TBD)
+├── LICENSE           # License
 └── README.md         # This file
 ```
 
