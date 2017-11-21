@@ -12,11 +12,16 @@ if ($page->place()) {
         'parent' => page('stations')
     ]);
 
-    if ($page->location()) {
-        echo '<p><code>Location: '.$page->location().'</code></p>';
-        echo '<p><code>Country: '.$page->country().'</code></p>';
-        echo '<p><code>Region: '.$page->region().'</code></p>';
-    };
+    echo '<p><code>Country: '.$page->country().'</code></p>';
+    echo '<p><code>Region: '.$page->region().'</code></p>';
+
+    echo '<code>';
+    echo '&lt;meta name="ICBM" content="'.$page->geolat().', '.$page->geolng().'"&gt;<br/>';
+    echo '&lt;meta name="geo.position" content="'.$page->geolat().';'.$page->geolng().'"&gt;<br/>';
+    echo '&lt;meta name="geo.region" content="country[-state]"&gt;';
+    echo '&lt;!--GB-ENG, GB-WLS, GB-SCT, GB-NIR, IE, GG, JE--&gt;<br/>';
+    echo '&lt;meta name="geo.placename" content="'.$page->title().'"&gt;';
+    echo '</code>';
 
     if ($page->wikipedia()) {
         $wiki = brick('a');
