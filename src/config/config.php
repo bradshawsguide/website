@@ -40,7 +40,10 @@ Sitemap: '.url('sitemap.xml'), 'txt');
         }
     ),
     array(
-        'pattern' => 'stations/(:any)',
+        'pattern' => [
+            'stations/(:any)',
+            'stations/(:any)/'
+        ],
         'method' => 'GET',
         'action' => function ($uid) {
             $db = new Database(array(
