@@ -12,6 +12,10 @@ if ($page->place()) {
         'parent' => page('stations')
     ]);
 
+    if ($page->title_today()) {
+        echo '<p><em>'.$page->title_today().'</em></p>';
+    }
+
     echo '<p><code>Country: '.$page->country().'</code></p>';
     echo '<p><code>Region: '.$page->region().'</code></p>';
 
@@ -23,10 +27,29 @@ if ($page->place()) {
     echo '&lt;meta name="geo.placename" content="'.$page->title().'"&gt;';
     echo '</code>';
 
+    if ($page->code()) {
+        if ($page->title_today()) {
+            $title = $page->title_today();
+            $slug = str::slug($page->title_today());
+        } else {
+            $title = $page->title();
+            $slug = $page->uid();
+        }
+        $trainline = brick('a');
+        $trainline->attr('href', 'https://www.thetrainline.com/stations/'.$slug);
+        $trainline->html($title.' station on the Trainline');
+        echo '<p>'.$trainline.'</p>';
+    }
+
     if ($page->wikipedia()) {
+        if ($page->title_today()) {
+            $title = $page->title_today();
+        } else {
+            $title = $page->title();
+        }
         $wiki = brick('a');
         $wiki->attr('href', 'https://en.wikipedia.org/wiki/'.$page->wikipedia());
-        $wiki->html($page->title().' station on Wikipedia');
+        $wiki->html($title.' station on Wikipedia');
         echo '<p>'.$wiki.'</p>';
     }
 
