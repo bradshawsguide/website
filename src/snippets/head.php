@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-gb" prefix="og: http://ogp.me/ns#" class="no-js">
 <head>
+    <meta charset="utf-8"/>
+
     <link rel="preload" href="/assets/fonts/linuxlibertine-regular.woff2" as="font" type="font/woff2" crossorigin/>
     <link rel="stylesheet" href="/assets/app.css"/>
     <link rel="manifest" href="/app.webmanifest" type="application/manifest+json"/>
@@ -16,7 +18,6 @@
     </script>
     <script src="/assets/app.js" async></script>
 
-    <meta charset="utf-8"/>
     <meta name="apple-mobile-web-app-title" content="<?= $site->title_short() ?>"/>
     <meta name="referrer" content="origin"/>
     <meta name="robots" content="index, follow"/>
