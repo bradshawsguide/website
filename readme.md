@@ -5,7 +5,7 @@
 ## Installation
 1. `git clone git@github.com:paulrobertlloyd/bradshawsguide.git`
 2. `git submodule update --init --recursive`
-3. `mkdir src/cache`
+3. `mkdir www/cache`
 4. `npm build`
 
 ## Development
