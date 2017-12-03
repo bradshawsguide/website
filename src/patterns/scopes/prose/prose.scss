@@ -8,12 +8,8 @@
     margin-bottom: 1em;
   }
 
-  p {
+  p + p {
     text-indent: $__text-indent;
-  }
-
-  > p:first-of-type {
-    text-indent: 0;
   }
 
   > *:not(p) {
@@ -161,7 +157,16 @@
   }
 
   table {
+    margin-bottom: 0.75em;
+    font-size: 85%;
     font-variant-numeric: lining-nums tabular-nums;
+    line-height: 1.25;
+  }
+
+  th,
+  td {
+    font-weight: normal;
+    padding-right: $__space-medium;
   }
 
   // Typesetting
