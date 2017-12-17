@@ -1,13 +1,16 @@
 .c-info {
   font-family: $__font-family-serif;
+  line-height: $__line-height-loose;
+  font-variant-numeric: lining-nums;
+  hyphens: none;
 
   p {
-    margin-bottom: 0.25em;
+    margin-bottom: $__space-xsmall;
   }
 
   dt {
     float: left;
-    font-feature-settings: "smcp" on;
+    font-variant-caps: small-caps;
     font-weight: normal;
 
     &::after {
@@ -17,10 +20,10 @@
 
   dd {
     margin-left: $__text-indent;
-    hyphens: auto;
+    hyphens: none;
 
     &:not(:last-of-type) {
-      margin-bottom: 0.25em;
+      margin-bottom: $__space-xsmall;
     }
   }
 

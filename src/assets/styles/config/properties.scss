@@ -15,12 +15,11 @@
   }
 
   @media screen and (min-width: $__breakpoint-small) {
-    --font-size-prose: 1.125rem;
     --page-gutter: $__space-large;
   }
 
   @media screen and (min-width: $__breakpoint-large) {
-    --font-size-prose: 1.25rem;
+    --font-size-prose: 1.125rem;
     --page-gutter: 15vw;
   }
 }

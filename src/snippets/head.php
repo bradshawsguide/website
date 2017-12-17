@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
 
-    <link rel="preload" href="/assets/fonts/linuxlibertine-regular.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="preload" href="/assets/fonts/scotchtext-roman.woff2" as="font" type="font/woff2" crossorigin/>
     <link rel="stylesheet" href="/assets/app.css"/>
     <link rel="manifest" href="/app.webmanifest" type="application/manifest+json"/>
     <link rel="shortcut icon" href="/assets/icons/app.ico" type="image/ico"/>

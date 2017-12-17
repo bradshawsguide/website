@@ -48,7 +48,7 @@
     ]
   },
   "devDependencies": {
-    "autoprefixer": "^7.1.6",
+    "autoprefixer": "^7.2.3",
     "babel-core": "^6.26.0",
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-preset-latest": "^6.24.0",
@@ -61,18 +61,19 @@
     "gulp-sass-glob": "latest",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-util": "^3.0.0",
-    "rollup": "^0.51.0",
+    "rollup": "^0.52.0",
     "rollup-plugin-babel": "^3.0.0",
     "rollup-plugin-commonjs": "^8.2.6",
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-plugin-uglify": "^2.0.0",
-    "stylelint": "^8.2.0",
-    "stylelint-config-standard": "^17.0.0",
+    "stylelint": "^8.4.0",
+    "stylelint-config-standard": "^18.0.0",
     "xo": "^0.18.0"
   },
   "dependencies": {
     "fontfaceobserver": "^2.0.0",
     "leaflet": "^1.2.0",
+    "node-sass": "^4.7.2",
     "turbolinks": "^5.0.0"
   }
 }

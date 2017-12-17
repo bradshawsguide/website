@@ -1,34 +1,28 @@
 .s-prose {
   @include typeset("prose");
-  max-width: 70ch;
+  max-width: 60ch;
   hyphens: auto;
-  word-break: break-word;
-
-  > :last-child {
-    margin-bottom: 1em;
-  }
 
   p + p {
     text-indent: $__text-indent;
   }
 
-  > *:not(p) {
-    margin-top: $__space-xsmall;
+  > * {
+    margin-bottom: $__space-small;
   }
 
   h3 {
     @include typeset("heading");
-    margin-bottom: 0.25em;
+    margin-bottom: $__space-xsmall;
   }
 
   * + h3 {
-    margin-top: 2.5rem;
+    margin-top: $__space-xlarge;
   }
 
   h4 {
     @include typeset("prose");
-    margin-top: 1.5rem;
-    margin-bottom: 0.5rem;
+    margin-top: $__space-large;
     font-variant-caps: small-caps;
     text-align: center;
   }
@@ -43,6 +37,7 @@
   }
 
   a {
+    hyphens: none;
     text-decoration: underline;
     text-decoration-color: rgba($__color-link, 0.33);
 
@@ -61,12 +56,12 @@
 
   cite,
   em {
-    line-height: 0; // Libertine Italic affects line-height
+    line-height: 0;
   }
 
   strong {
     font-family: $__font-family-slab;
-    line-height: 0; // Kameron affects line-height
+    font-size: 110%;
 
     a[href^="/stations/"] {
       font-variant-caps: normal;

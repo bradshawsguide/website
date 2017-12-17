@@ -12,11 +12,11 @@ export default function () {
   const storageId = 'fonts-loaded';
   const classLoaded = 'has-fonts';
   const fonts = [
-    (new FontFaceObserver('Linux Libertine', {
+    (new FontFaceObserver('Scotch Text', {
       weight: 'normal',
       style: 'normal'
     })).load(),
-    (new FontFaceObserver('Linux Libertine', {
+    (new FontFaceObserver('Scotch Text', {
       weight: 'normal',
       style: 'italic'
     })).load(),
@@ -39,7 +39,7 @@ export default function () {
   // Init
   function init() {
     Promise.all(fonts).then(eventFontsLoaded).catch(err => {
-      console.log(err);
+      console.error(err);
     });
   }
 

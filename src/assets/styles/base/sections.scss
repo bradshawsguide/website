@@ -6,15 +6,14 @@
 // 1. Prevent adjustments of font size after orientation
 //    change in IE on Windows Phone and iOS
 html {
-  box-sizing: border-box;
   height: 100%;
   text-size-adjust: 100%; // [1]
 }
 
 *,
-*::before,
-*::after {
-  box-sizing: inherit;
+::before,
+::after {
+  box-sizing: border-box;
 }
 
 ::selection {
@@ -29,8 +28,6 @@ body {
   background-color: $__color-neutral-lightest;
   font-family: $__font-family-sans;
   color: $__color-neutral-darkest;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
 }
 
 h1,
