@@ -25,3 +25,6 @@
 [submodule "src/content"]
 	path = src/content
 	url = git@github.com:bradshawsguide/content.git
+[submodule "src/plugins/kirby-csv-handler"]
+	path = src/plugins/kirby-csv-handler
+	url = git@github.com:texnixe/kirby-csv-handler.git

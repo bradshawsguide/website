@@ -59,7 +59,6 @@ bradshawsguide
 │   ├── config        # Kirby configuration
 │   ├── [content]     # Site content [submodule]
 │   ├── controllers   # Template controllers
-│   ├── data          # Databases
 │   ├── models        # Page models
 │   ├── patterns      # Template patterns
 │   ├── plugins       # Kirby plugins
