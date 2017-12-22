@@ -6,7 +6,7 @@ pattern('common/page/header', [
     'title' => $page->title()
 ]);
 
-$stations = page('stations')->children();
+$stations = $page->children()->sortBy('title', 'asc');
 
 foreach (alphabetise($stations) as $letter => $items) {
     pattern('common/index', [
