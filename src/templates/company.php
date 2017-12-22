@@ -15,7 +15,7 @@ pattern('common/page/content');
 
 pattern('common/section/map', [
     'title' => 'Network map',
-    'url' => $page->uri().'.geojson/'
+    'url' => $page->uri().'.geojson'
 ]);
 
 if (count($page->featured())) {

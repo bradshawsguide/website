@@ -11,6 +11,11 @@ pattern('common/page/header', [
     'title' => $page->title()
 ]);
 
+pattern('common/section/map', [
+    'title' => 'Station location',
+    'url' => $page->uri().'.geojson'
+]);
+
 if (!$page->place()->empty()) {
     pattern('common/card', [
         'item' => page('places/'.$page->country().DS.$page->region().DS.$page->place())
