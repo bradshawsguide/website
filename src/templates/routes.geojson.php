@@ -9,7 +9,7 @@ foreach ($routes as $route) {
     foreach (array_extract_arrays($stops) as $line) {
         // For each UID in $line array, convert to StationPage array
         array_walk($line, function (&$value, $key) {
-            $value = UIDtoStationPage($value);
+            $value = page('stations/'.$value);
         });
 
         $linestring[] = generateLineString($line);

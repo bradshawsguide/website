@@ -1,7 +1,7 @@
 <?php
 $features = [];
 
-foreach ($routes as $route) {
+foreach ($page->routes() as $route) {
     $stops = $route->stops()->yaml();
     $linestring = [];
 
@@ -9,7 +9,7 @@ foreach ($routes as $route) {
     foreach (array_extract_arrays($stops) as $line) {
         // For each UID in $line array, convert to StationPage array
         array_walk($line, function (&$value, $key) {
-            $value = UIDtoStationPage($value);
+            $value = page('stations/'.$value);
         });
 
         $linestring[] = generateLineString($line);
@@ -30,7 +30,7 @@ foreach ($routes as $route) {
 
     // Create a `Feature` for each stop
     foreach (array_flatten($stops) as $stop) {
-        $page = UIDtoStationPage($stop);
+        $page = page('stations/'.$stop);
 
         if ($page->place()) {
             $markerSize = 'large';
@@ -43,7 +43,7 @@ foreach ($routes as $route) {
             'geometry' => generatePoint($page),
             'properties' => [
                 'title' => (string) $page->title(),
-                'url' => (string) url('stations/'.$page->uid()),
+                'url' => (string) $page->url(),
                 'marker-size' => $markerSize
             ]
         ];

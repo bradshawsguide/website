@@ -9,7 +9,7 @@ snippet('head', [
 pattern('common/page/header', [
     'parent' => $page->parent(),
     'title' => $page->title(),
-    'subtitle' => $subtitle
+    'subtitle' => $page->subtitle()
 ]);
 
 pattern('common/figure/map', [

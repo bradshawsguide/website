@@ -1,25 +1,5 @@
 <?php
 
-// Access table in database
-function get_table($table)
-{
-    $db = new Database(array(
-        'type'     => c::get('db.type'),
-        'database' => c::get('db.database')
-    ));
-    $table = $db->table($table);
-    return $table;
-}
-
-// Transform UID to a Kirby StationPage array
-function UIDtoStationPage($uid)
-{
-    $stations = get_table('stations');
-    $page = $stations->where('uid', '=', $uid)->first();
-
-    return $page;
-}
-
 // Flatten array
 // $array = Array you wish to flatten
 // https://gist.github.com/kohnmd/11197713
@@ -62,8 +42,8 @@ function generateLineString($pages)
     foreach ($pages as $page) {
         if ($page->geolng() && $page->geolat()) {
             $coords[] = [
-                (float) $page->geolng(),
-                (float) $page->geolat()
+                $page->geolng()->float(),
+                $page->geolat()->float()
             ];
         }
     }
@@ -80,12 +60,12 @@ function generateLineString($pages)
 // $page = StationPage
 function generatePoint($page)
 {
-    if ($page->geolng() && $page->geolat()) {
+    if ($page->geolng()) {
         $point = [
             'type' => 'Point',
             'coordinates' => [
-                (float) $page->geolng(),
-                (float) $page->geolat()
+                $page->geolng()->float(),
+                $page->geolat()->float()
             ]
         ];
 

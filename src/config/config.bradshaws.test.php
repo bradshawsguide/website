@@ -1,7 +1,7 @@
 <?php
 
 // Debugging
-c::set('debug', false);
+c::set('debug', true);
 c::set('whoops', false);
 
 // URLs
@@ -13,17 +13,17 @@ c::set('tinyurl.url', 'https://bradshaws.test');
 // Disable caching
 c::set('cache', false);
 
-// Routes
-c::set('routes', array(
-    array(
-        'pattern' => 'import',
-        'action' => function () {
-            $filepath = kirby()->roots()->content().DS.'stations.csv';
-            $csv = csv($filepath, $parse_header = 'false', $delimiter = ',', $length = 8000);
-            $csv->createPages('stations', 'uid', $template = 'station');
-        }
-    )
-));
+// Route required to import stations CSV
+// c::set('routes', array(
+//     array(
+//         'pattern' => 'import',
+//         'action' => function () {
+//             $filepath = kirby()->roots()->content().DS.'stations.csv';
+//             $csv = csv($filepath, $parse_header = 'false', $delimiter = ',', $length = 8000);
+//             $csv->createPages('stations', 'uid', $template = 'station');
+//         }
+//     )
+// ));
 
 // Ensure text files are automatically formatted using preferred style
 data::$adapters['kd']['encode'] = function($data) {

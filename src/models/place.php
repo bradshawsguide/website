@@ -5,24 +5,17 @@ class PlacePage extends Page
     // Get location information from corresponding station
     public function geolng()
     {
-        $station = UIDtoStationPage($this->uid());
-
-        return $station->geolng();
+        if ($station = page('stations/'.$this->uid())) {
+            return $station->geolng();
+        }
     }
 
     // Get location information from corresponding station
     public function geolat()
     {
-        $station = UIDtoStationPage($this->uid());
-
-        return $station->geolat();
-    }
-
-    public function station()
-    {
-        $station = UIDtoStationPage($this->uid());
-
-        return $station->uid();
+        if ($station = page('stations/'.$this->uid())) {
+            return $station->geolat();
+        }
     }
 
     // Make title_full() include `suffix:` if provided

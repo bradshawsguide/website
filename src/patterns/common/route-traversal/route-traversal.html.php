@@ -2,25 +2,19 @@
 // Test if $route == ?route query
 $currentRoute = kirby()->request()->query()->route();
 
-// Get station information from database
-$stations = get_table('stations');
-
 // Flatten array so that branch stops appear on main route
 $stops = array_flatten($route->stops()->yaml());
 
 // Get key by finding the name of this (nearest) station in stops
-$stopKey = array_search($page->station(), $stops);
+$stopKey = array_search($page->uid(), $stops);
 
 if (array_key_exists(($stopKey - 1), $stops)) {
     $prevUID = $stops[$stopKey - 1];
-    $prev = $stations->where('uid', '=', $prevUID)->first();
-    $prev->url = '/stations/'.$prevUID;
+    $prev = page('stations/'.$prevUID);
 }
-
 if (array_key_exists(($stopKey + 1), $stops)) {
     $nextUID = $stops[$stopKey + 1];
-    $next = $stations->where('uid', '=', $nextUID)->first();
-    $next->url = '/stations/'.$nextUID;
+    $next = page('stations/'.$nextUID);
 }
 ?>
 

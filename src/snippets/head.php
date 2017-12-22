@@ -24,6 +24,12 @@
     <meta name="theme-color" content="<?= $site->theme_color() ?>"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
+<?php if ($page->geolat() && $page->geolng()): ?>
+    <meta name="ICBM" content="<?= $page->geolat() ?>, <?= $page->geolng() ?>"/>
+    <meta name="geo.position" content="<?= $page->geolat() ?>;<?= $page->geolng() ?>"/>
+    <meta name="geo.placename" content="<?= $page->title() ?>"/>
+<?php endif ?>
+
     <meta property="og:url" content="<?= $page->url() ?>"/>
     <meta property="og:title" content="<?= str::unhtml($page->title()) ?>"/>
 <?php if (!$page->desc()->empty()): ?>
