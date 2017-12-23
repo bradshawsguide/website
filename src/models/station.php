@@ -17,7 +17,7 @@ class StationPage extends Page
     // API consistency
     public function links()
     {
-        $links = array (
+        $links = array(
             'wikipedia' => (!$this->wikipedia()->empty()) ?
                 '- (wikipedia: '.urlencode($this->wikipedia()).')' : '',
             'trainline' => (!$this->code()->empty()) ?
@@ -27,5 +27,25 @@ class StationPage extends Page
         );
 
         return implode("\n", $links);
+    }
+
+    // Corresponding PlacePage
+    public function placePage()
+    {
+        $place = page('places/'.$this->country().DS.$this->region().DS.$this->place());
+
+        return $place;
+    }
+
+    public function routesCount()
+    {
+        $number = new NumberFormatter("en", NumberFormatter::SPELLOUT);
+        $routes = count($this->placePage()->routes());
+
+        if ($routes > 1) {
+            return $number->format($routes).' routes';
+        } else {
+            return $number->format($routes).' route';
+        }
     }
 }

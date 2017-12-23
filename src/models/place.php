@@ -55,6 +55,19 @@ class PlacePage extends Page
         return $currentTitle;
     }
 
+    // Return region information
+    public function region()
+    {
+        return $this->parent()->title();
+    }
+
+    // Return region information
+    public function country()
+    {
+        $parent = $this->parent();
+        return $parent->parent()->title();
+    }
+
     // Return `desc` if exists, else excerpt of text
     public function excerpt()
     {
@@ -77,5 +90,17 @@ class PlacePage extends Page
         });
 
         return $routes;
+    }
+
+    // Convert UIDs listed under `company:` to array of pages
+    public function companies()
+    {
+        $companies = $this->company()->yaml();
+
+        array_walk($companies, function (&$value, $key) {
+            $value = page('companies/'.$value);
+        });
+
+        return $companies;
     }
 }

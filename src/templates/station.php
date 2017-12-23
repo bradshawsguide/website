@@ -11,21 +11,37 @@ pattern('common/page/header', [
     'title' => $page->title()
 ]);
 
-pattern('common/section/map', [
-    'title' => 'Station location',
-    'url' => $page->uri().'.geojson'
-]);
-
-if (!$page->place()->empty()) {
-    pattern('common/card', [
-        'item' => page('places/'.$page->country().DS.$page->region().DS.$page->place())
-    ]);
+if (!$page->title_later()->empty()) {
+    $currentTitle = ' (today known as '.$page->title_later();
+} else {
+    $currentTitle = '';
 }
+
+echo 'This railway station in '.$page->placePage()->region().', '.$page->placePage()->country().$currentTitle.', provides services on '.$page->routesCount();
+
+// pattern('common/section/map', [
+//     'title' => 'Station location',
+//     'url' => $page->uri().'.geojson'
+// ]);
+
+pattern('common/page/content');
+
+pattern('common/section/route-traversal', [
+    'title' => 'Routes serving this station',
+    'level' => 3,
+    'routes' => $page->placePage()->routes()
+]);
 
 pattern('common/section/links', [
     'title' => 'Further reading',
     'links' => $page->links()
 ]);
+
+if (!$page->place()->empty()) {
+    pattern('common/card', [
+        'item' => $page->placePage()
+    ]);
+}
 ?>
 </article>
 
