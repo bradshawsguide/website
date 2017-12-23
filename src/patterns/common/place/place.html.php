@@ -1,4 +1,4 @@
-<dl class="c-place" id="<?= $place->uid() ?>">
+<dl class="c-place<?= $modifier ? ' c-place--'.$modifier : '' ?>" id="<?= $place->uid() ?>">
     <dt class="c-place__title"><?= html::a($place->url(), $place->title()) ?></dt>
     <?php if ($desc = $place->excerpt()): ?>
     <dd class="c-place__desc"><?= kirbytextRaw($place->excerpt()) ?></dd>

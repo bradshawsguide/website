@@ -37,6 +37,16 @@
   }
 }
 
+.c-place--branch {
+  margin-left: $__space-medium;
+  padding-left: $__space-small;
+
+  &::before,
+  &::after {
+    content: none;
+  }
+}
+
 .c-place__title {
   @include typeset("display3");
 }
