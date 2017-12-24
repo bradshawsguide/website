@@ -10,10 +10,10 @@
 
 <article class="c-page">
 <?php
-$mods = $page->image('cover') ? 'poster' : null;
 pattern('common/page/header', [
+    'pretitle' => 'A descriptive guide to',
     'title' => $page->title(),
-    'modifiers' => [$mods]
+    'modifiers' => ['index']
 ]);
 
 pattern('common/page/content');

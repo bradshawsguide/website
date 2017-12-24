@@ -3,7 +3,8 @@
 <section class="c-page">
 <?php
 pattern('common/page/header', [
-    'title' => $page->title()
+    'title' => 'Stations A-Z',
+    'modifiers' => ['index']
 ]);
 
 $stations = $page->children()->sortBy('title', 'asc');

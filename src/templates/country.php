@@ -11,7 +11,9 @@
 <section class="c-page">
 <?php
 pattern('common/page/header', [
-    'title' => $page->title()
+    'pretitle' => 'A descriptive guide to places in',
+    'title' => $page->title(),
+    'modifiers' => ['index']
 ]);
 
 if (count($page->featured())) {

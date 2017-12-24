@@ -3,7 +3,9 @@
 <section class="c-page">
 <?php
 pattern('common/page/header', [
-    'title' => $page->title()
+    'pretitle' => 'A descriptive guide to places in',
+    'title' => 'Great Britain & Ireland',
+    'modifiers' => ['index']
 ]);
 
 foreach (page('places')->children() as $country) {

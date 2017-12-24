@@ -3,7 +3,8 @@
 <section class="c-page">
 <?php
 pattern('common/page/header', [
-    'title' => $page->title()
+    'title' => $page->title(),
+    'modifiers' => ['index']
 ]);
 
 $companies = $page->children()->sortBy('title', 'asc');

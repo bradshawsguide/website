@@ -94,9 +94,22 @@
   @else if $preset == "heading" {
     font-family: $__font-family-slab;
     font-size: $__font-size-display-small;
-    font-weight: if($font-weight, $font-weight, bold);
+    font-weight: bold;
     font-variant: common-ligatures discretionary-ligatures proportional-nums;
     line-height: if($line-height, $line-height, $__line-height-default);
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+  }
+
+  @else if $preset == "display0" {
+    @include fluid-type(
+      $__breakpoint-xsmall,
+      $__breakpoint-medium,
+      $__font-size-display-small,
+      $__font-size-display-xlarge
+    );
+    font-family: $__font-family-slab;
+    line-height: if($line-height, $line-height, $__line-height-reset);
     text-rendering: optimizeLegibility;
   }
 
@@ -107,10 +120,10 @@
       $__font-size-display-medium,
       $__font-size-display-large
     );
-    font-family: $__font-family-block;
+    font-family: $__font-family-serif;
+    letter-spacing: -0.025em;
     line-height: if($line-height, $line-height, $__line-height-reset);
     text-rendering: optimizeLegibility;
-    text-transform: uppercase;
   }
 
   @else if $preset == "display2" {

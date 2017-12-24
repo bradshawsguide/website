@@ -17,10 +17,6 @@
   display: flex;
   justify-content: flex-end;
   box-shadow: 0 1px 0 rgba($__color-neutral-lightest, 0.25);
-
-  .has-poster & {
-    box-shadow: none;
-  }
 }
 
 .c-navigation__item {
