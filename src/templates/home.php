@@ -2,23 +2,24 @@
 
 <div class="c-page">
 <?php
-pattern('common/page/content', [
-    'editable' => false
-]);
+    foreach (sections() as $section) {
+        $routesCount = count($section['routes']);
 
-foreach (page('sections')->children() as $section) {
-    $featured = page('sections/'.$section->dirname())->feature()->yaml();
+        if ($routesCount > 0) {
+            $continue = html::a($section['url'], $routesCount.' routes');
+        } else {
+            $continue = '<em>Coming soon</em>';
+        }
 
-    array_walk($featured, function (&$value, $key) {
-        $value = page('places/'.$value);
-    });
-
-    pattern('common/section/featured', [
-        'title' => html::a('/routes/section:'.$section->dirname(), $section->title()),
-        'content' => $section->subtitle(),
-        'items' => $featured
-    ]);
-}
+        pattern('common/section/section', [
+            'uid' => $section['title'],
+            'url' => $section['url'],
+            'title' => $section['title'],
+            'label' => $section['label'],
+            'content' => $section['desc'],
+            'continue' => $continue
+        ]);
+    };
 ?>
 </div>
 

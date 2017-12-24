@@ -72,3 +72,18 @@ function generatePoint($page)
         return $point;
     }
 }
+
+// Create globally available of section information
+function sections()
+{
+    $sections = site()->sections()->yaml();
+
+    array_walk($sections, function (&$value, $key) {
+        $value['uid'] = (string) $value['uid'];
+        $value['url'] = '/routes/section:'.$value['uid'];
+        $value['label'] = 'Section '.$value['uid'];
+        $value['routes'] = page('routes')->children()->filterBy('section', '==', $value['uid']);
+    });
+
+    return $sections;
+}

@@ -1,23 +1,14 @@
 <?php
     $currentSection = param('section', 1);
-    $currentView = param('view', 'list');
     $currentURL = $kirby->request()->url();
-
-    foreach (page('sections')->children() as $section) {
-        $sectionTabs[] = array(
-            'href' => '/'.$page->uri().'/section:'.$section->dirname().'/view:'.$currentView,
-            'label' => $section->title()
-        );
-    };
-
     $viewTabs = [
         array(
-            'href' => '/'.$page->uri().'/section:'.$currentSection.'/view:list',
+            'href' => '/'.$page->uri().'/section:'.$currentSection.'?view=list',
             'label' => 'List view',
             'value' => 'list'
         ),
         array(
-            'href' => '/'.$page->uri().'/section:'.$currentSection.'/view:map',
+            'href' => '/'.$page->uri().'/section:'.$currentSection.'?view=map',
             'label' => 'Map view',
             'value' => 'map'
         )
@@ -25,15 +16,6 @@
 ?>
 
 <nav class="c-tabs">
-    <p class="c-tabs__list">
-    <?php foreach ($sectionTabs as $sectionTab): ?>
-        <?php $sectionURL = url($sectionTab['href']) ?>
-        <a class="c-tabs__label" href="<?= $sectionTab['href'] ?>"<?php e($currentURL == $sectionURL, ' aria-current="page"') ?>>
-            <?= $sectionTab['label'] ?>
-        </a>
-    <?php endforeach ?>
-    </p>
-
     <p class="c-tabs__list">
     <?php foreach ($viewTabs as $viewTab): ?>
         <?php $viewURL = url($viewTab['href']) ?>

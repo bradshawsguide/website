@@ -1,0 +1,18 @@
+.c-section-nav {
+  --link-decoration: none;
+  display: flex;
+  background-color: $__color-neutral-lighter;
+  padding: 0 var(--page-gutter);
+  color: $__color-neutral-mid;
+}
+
+.c-section-nav__item {
+  flex: 1;
+  padding: $__space-small 0;
+  text-align: center;
+
+  &[aria-current] {
+    box-shadow: inset 0 -2px 0 $__color-neutral-light;
+    font-weight: 600;
+  }
+}

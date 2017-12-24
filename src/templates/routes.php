@@ -1,21 +1,24 @@
 <?php
-    if (param('view') == null) {
-        go($page->uri().'/section:1/view:list');
+    if (get('view') == null) {
+        go($page->uri().'/section:'.param('section').'?view=list');
     };
     snippet('head', [
         'alternate' => $page->url().'.geojson'.'/section:'.param('section')
     ]);
+    pattern('common/section-nav');
 ?>
 
 <section class="c-page">
 <?php
 pattern('common/page/header', [
-    'title' => $page->title()
+    'title' => $title,
+    'subtitle' => $subtitle,
+    'modifiers' => ['index']
 ]);
 
 pattern('common/tablist');
 
-if (param('view') == 'map') {
+if (get('view') == 'map') {
     pattern('common/figure/map', [
         'url' => $page->uri().'.geojson/'.$kirby->request()->params(),
         'class' => 'cover'
