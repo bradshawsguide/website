@@ -2,16 +2,10 @@
 
 return function ($site, $pages, $page) {
     $sectionParam = param('section');
-    $sectionIndex = $sectionParam - 1;
 
-    // Page information
+    // Default page information
     $title = $page->title();
     $subtitle = null;
-
-    if ($sectionIndex <= 3) {
-        $title = sections()[$sectionIndex]['subtitle'];
-        $subtitle = sections()[$sectionIndex]['desc'];
-    }
 
     // Companies
     $companies = page('companies')->children()->sortBy('dirname');
@@ -23,6 +17,13 @@ return function ($site, $pages, $page) {
     });
 
     if ($sectionParam) {
+        $sectionIndex = $sectionParam - 1;
+
+        if ($sectionIndex <= 3) {
+            $title = sections()[$sectionIndex]['subtitle'];
+            $subtitle = sections()[$sectionIndex]['desc'];
+        }
+
         $routes = $routes->filterBy('section', $sectionParam);
         $featured = $featured->filterBy('section', $sectionParam);
     };
