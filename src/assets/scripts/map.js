@@ -64,6 +64,8 @@ export default function (el, url) {
       }).addTo(map);
 
       map.fitBounds(geojsonLayer.getBounds());
+      map.touchZoom.disable();
+      map.scrollWheelZoom.disable();
 
       map.on('zoomend', () => {
         const currentZoom = map.getZoom();
