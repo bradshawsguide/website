@@ -3,13 +3,15 @@ import Leaflet from 'leaflet';
 export default function (el, url) {
   const $ = document.querySelector.bind(document);
   const container = $(el);
-  const zoom = 8;
+  const zoomDefault = 8;
+  const zoomValue = container.dataset.zoom;
 
-  const map = Leaflet.map(container, {
-    center: [51.5, -1.25],
-    minZoom: 2,
-    zoom
-  });
+  const getZoom = function () {
+    if (zoomValue) {
+      return zoomValue;
+    }
+    return zoomDefault;
+  };
 
   const featurePoint = function (feature, latlng) {
     const prop = feature.properties || {};
@@ -33,8 +35,8 @@ export default function (el, url) {
       opacity,
       fillColor,
       fillOpacity: 1,
-      radius: zoom * (1 / 3),
-      weight: zoom * (1 / 3)
+      radius: getZoom() * (1 / 3),
+      weight: getZoom() * (1 / 3)
     });
   };
 
@@ -49,31 +51,40 @@ export default function (el, url) {
     }
   };
 
-  Leaflet.tileLayer('https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}@2x.png?apikey=d3e9601592c94e29ba6a599abb5b0e93', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-    subdomains: ['a', 'b', 'c']
-  }).addTo(map);
-
   fetch(url)
     .then(response => response.json())
     .then(data => {
-      const geojsonLayer = Leaflet.geoJSON(data, {
+      const map = Leaflet.map(container, {
+        center: [51.5, -1.25],
+        zoom: getZoom(),
+        minZoom: 2,
+        scrollWheelZoom: false,
+        touchZoom: false
+      });
+
+      const geoJSONLayer = Leaflet.geoJSON(data, {
         style: featureStyle,
         pointToLayer: featurePoint,
         onEachFeature: featurePopup
       }).addTo(map);
 
-      map.fitBounds(geojsonLayer.getBounds());
-      map.touchZoom.disable();
-      map.scrollWheelZoom.disable();
+      Leaflet.tileLayer('https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}@2x.png?apikey=d3e9601592c94e29ba6a599abb5b0e93', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        subdomains: ['a', 'b', 'c']
+      }).addTo(map);
+
+      if (zoomValue) {
+        map.setView(geoJSONLayer.getBounds().getCenter());
+      } else {
+        map.fitBounds(geoJSONLayer.getBounds());
+      }
 
       map.on('zoomend', () => {
         const currentZoom = map.getZoom();
-        const myRadius = currentZoom * (1 / 3);
-        const myWeight = currentZoom * (1 / 3);
-        geojsonLayer.setStyle({
-          radius: myRadius,
-          weight: myWeight
+
+        geoJSONLayer.setStyle({
+          radius: currentZoom * (1 / 3),
+          weight: currentZoom * (1 / 3)
         });
       });
     });

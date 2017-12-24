@@ -42,6 +42,11 @@ if (!$page->place()->empty()) {
         'item' => $page->placePage()
     ]);
 }
+
+pattern('common/figure/map', [
+    'url' => $page->uri().'.geojson/'.$kirby->request()->params().'&zoom=14',
+    'class' => 'cover'
+]);
 ?>
 </article>
 

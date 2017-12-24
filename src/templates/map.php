@@ -4,7 +4,7 @@
         <script src="/assets/map.js"></script>
     </head>
     <body>
-        <div id="map"></div>
+        <div id="map" data-zoom="<?= get('zoom') ?>"></div>
         <script>
             map('#map','<?= url(kirby()->request()->query()->geojson()) ?>');
         </script>

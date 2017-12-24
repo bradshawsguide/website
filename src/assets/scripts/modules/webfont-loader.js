@@ -20,7 +20,7 @@ export default function () {
       weight: 'normal',
       style: 'italic'
     })).load(),
-    (new FontFaceObserver('Kameron', {
+    (new FontFaceObserver('Trocchi', {
       weight: 'bold',
       style: 'normal'
     })).load(),
