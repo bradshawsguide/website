@@ -1,11 +1,18 @@
-<?php snippet('head') ?>
+<?php
+    snippet('head');
+
+    pattern('common/traversal-nav', [
+        'parent' => $page->parent(),
+        'prev' => $page->prev(),
+        'next' => $page->next()
+    ]);
+?>
 
 <article class="c-page">
 <?php
 $mods = $page->image('cover') ? 'poster' : null;
 pattern('common/page/header', [
     'title' => $page->title(),
-    'parent' => $page->parent(),
     'modifiers' => [$mods]
 ]);
 
