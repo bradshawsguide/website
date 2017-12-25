@@ -3,7 +3,7 @@
 class RoutePage extends Page
 {
     // Return subtitle
-    public function subtitle()
+    public function operator()
     {
         $companies = $this->company()->yaml();
 
@@ -15,19 +15,12 @@ class RoutePage extends Page
 
         // If route jointly operated, show links to both companies
         if (count($companies) > 1) {
-            $companyLink = implode(' & ', $companies).' (Joint)';
+            $operator = implode(' & ', $companies).' (Joint)';
         } else {
-            $companyLink = $companies[0];
+            $operator = $companies[0];
         };
 
-        // If route has a line name, show that after company name
-        if (!$this->line()->empty()) {
-            $subtitle = $this->line()."&#160;—&#160;".$companyLink;
-        } else {
-            $subtitle = $companyLink;
-        };
-
-        return $subtitle;
+        return $operator;
     }
 
     // Return `title_short` if exists, else normal title

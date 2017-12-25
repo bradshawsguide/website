@@ -35,7 +35,7 @@ if (get('view') == 'map') {
     foreach ($companies as $company) {
         pattern('common/section/routes', [
             'title' => html::a($company->url(), $company->title()),
-            'items' => $routes->filterBy('company', '*=', $company->uid())
+            'items' => $company->routes()
         ]);
     }
 }

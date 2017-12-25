@@ -1,11 +1,7 @@
 <?php
     snippet('head');
 
-    pattern('common/traversal-nav', [
-        'parent' => $page->parent(),
-        'prev' => $page->prev(),
-        'next' => $page->next()
-    ]);
+    pattern('common/traversal-nav');
 ?>
 
 <section class="c-page">

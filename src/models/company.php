@@ -26,7 +26,7 @@ class CompanyPage extends Page
         // TODO: Create more exact filter that only finds routes by exact
         // company UID in array of company UIDs. Currently Great Western
         // and Midland Great Western are returned as being one in the same.
-        $routes = page('routes')->children()->filterBy('company', '*=', $this->uid());
+        $routes = page('routes')->children()->filterBy('company', '==', $this->uid());
 
         return $routes;
     }

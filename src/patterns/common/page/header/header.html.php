@@ -5,7 +5,9 @@
 ?>
 <header class="c-page__header<?= $mods ?? '' ?>">
 <?php if (isset($parent)): ?>
-    <nav class="c-page__parent"><?= html::a($parent->url(), smartypants($parent->title())) ?></nav>
+    <nav class="c-page__parent">
+        <?= $parent ?>
+    </nav>
 <?php endif ?>
     <h2 class="c-page__title">
         <?php if (isset($pretitle)): ?>

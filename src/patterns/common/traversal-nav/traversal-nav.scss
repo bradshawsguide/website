@@ -6,25 +6,41 @@
     "title title"
     "prev  next";
   grid-gap: $__space-xsmall $__space-large;
+  align-items: center;
   background-color: $__color-neutral-lighter;
-  padding: $__space-small var(--page-gutter);
+  padding: 0 var(--page-gutter);
   color: $__color-neutral-mid;
 
   @media screen and (min-width: $__breakpoint-medium) {
     grid-template-columns: repeat(3, 1fr);
     grid-template-areas: "prev title next";
   }
+}
 
-  [rel="prev"]::before {
-    content: "\261C\0020"; // ☜
+.c-traversal-nav__item {
+  padding: $__space-medium 0;
+
+  &::before,
+  &::after {
     font-family: serif;
     line-height: 0;
   }
 
-  [rel="next"]::after {
-    content: "\0020\261E"; // ☞
-    font-family: serif;
-    line-height: 0;
+  &[rel="prev"] {
+    grid-area: prev;
+
+    &::before {
+      content: "\261C\0020"; // ☜
+    }
+  }
+
+  &[rel="next"] {
+    grid-area: next;
+    text-align: right;
+
+    &::after {
+      content: "\0020\261E"; // ☞
+    }
   }
 }
 
@@ -32,13 +48,9 @@
   grid-area: title;
   font-weight: bold;
   text-align: center;
-}
 
-.c-traversal-nav__prev {
-  grid-area: prev;
-}
-
-.c-traversal-nav__next {
-  grid-area: next;
-  text-align: right;
+  a {
+    display: block;
+    padding: $__space-medium 0;
+  }
 }
