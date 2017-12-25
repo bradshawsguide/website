@@ -7,7 +7,7 @@
 
         <?php if ($item->hasImages()): ?>
         <div class="c-card__img u-artwork" style="background-image: url(<?= $item->image()->crop(16, 9)->dataUri() ?>)">
-            <img src="<?= $item->image()->crop(336, 192, 80)->url() ?>" alt="" width="224" height="128"/>
+            <img src="<?= $item->image()->crop(480, 270, 80)->url() ?>" alt="" width="224" height="128"/>
         </div>
         <?php endif; ?>
 
