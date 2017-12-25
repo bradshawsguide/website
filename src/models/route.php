@@ -36,15 +36,15 @@ class RoutePage extends Page
     }
 
     // Return `line` name if exists, else defer to company title
-    public function currentTitle()
+    public function lineTitle()
     {
-        if (!$this->line()->empty()) {
-            $currentTitle = $this->line();
+        if (!$this->subtitle()->empty()) {
+            $lineTitle = $this->subtitle();
         } else {
-            $currentTitle = page('companies/'.$this->company())->title();
+            $lineTitle = page('companies/'.$this->company())->title();
         };
 
-        return $currentTitle;
+        return $lineTitle;
     }
 
     // Return `desc` if exists, else excerpt of text

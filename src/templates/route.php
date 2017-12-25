@@ -10,7 +10,8 @@ pattern('common/traversal-nav');
 <?php
 pattern('common/page/header', [
     'parent' => $page->operator(),
-    'title' => $page->title()
+    'title' => $page->title(),
+    'subtitle' => $page->subtitle()
 ]);
 
 if (!$page->stops()->empty()) {

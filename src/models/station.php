@@ -2,16 +2,6 @@
 
 class StationPage extends Page
 {
-    // Return `title_later` if exists, else normal title
-    public function currentTitle()
-    {
-        if (!$this->subtitle()->empty()) {
-            return $this->subtitle();
-        } else {
-            return $this->title();
-        };
-    }
-
     // Location
     public function location()
     {
