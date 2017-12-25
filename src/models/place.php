@@ -36,8 +36,7 @@ class PlacePage extends Page
     // Return region information
     public function country()
     {
-        $parent = $this->parent();
-        return $parent->parent()->title();
+        return $this->parent()->parent()->title();
     }
 
     // Return `desc` if exists, else excerpt of text

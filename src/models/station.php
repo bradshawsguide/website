@@ -32,11 +32,13 @@ class StationPage extends Page
     public function placePage()
     {
         if (!$this->place()->empty()) {
-            return page('places/'.$this->country().DS.$this->region().DS.$this->place());
+            $placePage = page('places/'.$this->country().DS.$this->region().DS.$this->place());
             ;
         } else {
-            return $this;
+            $placePage = $this;
         }
+
+        return $placePage;
     }
 
     public function routesCount()

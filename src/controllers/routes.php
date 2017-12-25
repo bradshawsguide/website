@@ -1,8 +1,6 @@
 <?php
 
 return function ($site, $pages, $page) {
-    $sectionParam = param('section');
-
     // Default page information
     $title = $page->title();
     $subtitle = null;
@@ -16,16 +14,13 @@ return function ($site, $pages, $page) {
         return $page->hasImages();
     });
 
-    if ($sectionParam) {
+    if ($sectionParam = param('section')) {
         $sectionIndex = $sectionParam - 1;
 
         if ($sectionIndex <= 3) {
             $title = sections()[$sectionIndex]['subtitle'];
             $subtitle = sections()[$sectionIndex]['desc'];
         }
-
-        $routes = $routes->filterBy('section', $sectionParam);
-        $featured = $featured->filterBy('section', $sectionParam);
     };
 
     return compact('title', 'subtitle', 'companies', 'routes', 'featured');

@@ -29,13 +29,13 @@ if (get('view') == 'map') {
 } else {
     pattern('common/section/featured', [
         'title' => 'Featured routes',
-        'items' => $featured
+        'items' => $featured->filterBy('section', param('section'))
     ]);
 
     foreach ($companies as $company) {
         pattern('common/section/routes', [
             'title' => html::a($company->url(), $company->title()),
-            'items' => $company->routes()
+            'items' => $company->routes()->filterBy('section', param('section'))
         ]);
     }
 }
