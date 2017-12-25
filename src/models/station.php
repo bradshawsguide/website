@@ -14,6 +14,17 @@ class StationPage extends Page
         return $currentTitle;
     }
 
+    // Location
+    public function location()
+    {
+        $location = array(
+            $this->geolat()->float(),
+            $this->geolng()->float()
+        );
+
+        return implode(',', $location);
+    }
+
     // API consistency
     public function links()
     {
@@ -29,12 +40,15 @@ class StationPage extends Page
         return implode("\n", $links);
     }
 
-    // Corresponding PlacePage
+    // Return corresponding `PlacePage` if exists, else return `StationPage`
     public function placePage()
     {
-        $place = page('places/'.$this->country().DS.$this->region().DS.$this->place());
-
-        return $place;
+        if (!$this->place()->empty()) {
+            return page('places/'.$this->country().DS.$this->region().DS.$this->place());
+            ;
+        } else {
+            return $this;
+        }
     }
 
     public function routesCount()

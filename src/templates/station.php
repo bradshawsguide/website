@@ -19,11 +19,6 @@ if (!$page->title_later()->empty()) {
 
 echo 'This railway station in '.$page->placePage()->region().', '.$page->placePage()->country().$currentTitle.', provides services on '.$page->routesCount();
 
-// pattern('common/section/map', [
-//     'title' => 'Station location',
-//     'url' => $page->uri().'.geojson'
-// ]);
-
 pattern('common/page/content');
 
 pattern('common/section/route-traversal', [

@@ -27,6 +27,7 @@ return function ($site, $pages, $page) {
             'lng' => $point->lng(),
             'radius' => 15
         ]);
+
         $results = $results->paginate($pages);
         $title = "Stations near you";
         $query = esc($geo);

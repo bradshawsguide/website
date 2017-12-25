@@ -3,7 +3,7 @@
 <?php
     foreach ($results as $result) {
         pattern('common/result', [
-            'result' => $result
+            'result' => $result->placePage()
         ]);
     }
 ?>
