@@ -2,10 +2,7 @@
 snippet('head', [
     'alternate' => $page->url().'.geojson'
 ]);
-?>
 
-<article class="c-page">
-<?php
 pattern('common/page/header', [
     'parent' => html::a($page->parent()->url(), $page->parent()->title()),
     'title' => $page->title()
@@ -39,7 +36,5 @@ pattern('common/section/links', [
     'title' => 'Further reading',
     'links' => $page->links()
 ]);
-?>
-</article>
 
-<?php snippet('foot') ?>
+snippet('foot');

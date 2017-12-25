@@ -2,10 +2,7 @@
 snippet('head', [
     'alternate' => $page->url().'.geojson'
 ]);
-?>
 
-<article class="c-page">
-<?php
 pattern('common/page/header', [
     'parent' => html::a($page->parent()->url(), $page->parent()->title()),
     'title' => $page->title(),
@@ -29,11 +26,9 @@ if (!$page->place()->empty()) {
     ]);
 }
 
-pattern('common/figure/map', [
+pattern('common/map', [
     'url' => $page->uri().'.geojson/'.$kirby->request()->params().'&zoom=14',
     'class' => 'cover'
 ]);
-?>
-</article>
 
-<?php snippet('foot') ?>
+snippet('foot');

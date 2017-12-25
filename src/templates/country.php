@@ -1,11 +1,8 @@
 <?php
-    snippet('head');
+snippet('head');
 
-    pattern('common/traversal-nav');
-?>
+pattern('common/traversal-nav');
 
-<section class="c-page">
-<?php
 pattern('common/page/header', [
     'pretitle' => 'A descriptive guide to places in',
     'title' => $page->title(),
@@ -23,7 +20,5 @@ pattern('common/section/list', [
     'title' => $page->subdivision(),
     'items' => $page->children()
 ]);
-?>
-</section>
 
-<?php snippet('foot') ?>
+snippet('foot');

@@ -1,10 +1,6 @@
 <?php
 
 return function ($site, $pages, $page) {
-    // Default page information
-    $title = $page->title();
-    $subtitle = null;
-
     // Companies
     $companies = page('companies')->children()->sortBy('dirname');
 
@@ -18,10 +14,10 @@ return function ($site, $pages, $page) {
         $sectionIndex = $sectionParam - 1;
 
         if ($sectionIndex <= 3) {
-            $title = sections()[$sectionIndex]['subtitle'];
-            $subtitle = sections()[$sectionIndex]['desc'];
+            $sectionTitle = sections()[$sectionIndex]['subtitle'];
+            $sectionDesc = sections()[$sectionIndex]['desc'];
         }
     };
 
-    return compact('title', 'subtitle', 'companies', 'routes', 'featured');
+    return compact('sectionTitle', 'sectionDesc', 'companies', 'routes', 'featured');
 };

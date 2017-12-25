@@ -1,9 +1,17 @@
 .c-section {
   margin-bottom: $__space-xlarge;
+  box-shadow: inset 0 1px 0 $__color-neutral-alpha;
 
   .s-prose {
     --flow-space: $__space-medium;
   }
+}
+
+.c-section--offset {
+  margin: 0 calc(var(--page-gutter) * -1);
+  padding: 0 var(--page-gutter) $__space-medium;
+  background-color: $__color-neutral-lighter;
+  box-shadow: inset 0 1px 0 $__color-neutral-alpha;
 }
 
 .c-section__title {
@@ -11,7 +19,6 @@
 
   --link-color: currentColor;
   --link-decoration: none;
-  border-top: $__rule;
   padding-top: $__space-small;
   padding-bottom: $__space-small;
   color: $__color-neutral-dark;

@@ -1,10 +1,15 @@
-.c-figure {
-  margin-bottom: $__space-large;
+$banner-height: 5rem;
+
+.c-figure__container {
+  display: flex;
+  align-items: center;
+  max-height: calc(90vh - #{$banner-height});
+  overflow: hidden;
 }
 
-.c-figure__map {
-  width: 100%;
-  height: 55vh;
+.c-figure__img {
+  flex: 1;
+  padding-top: percentage(2/3);
 }
 
 .c-figure__caption {
@@ -23,8 +28,8 @@
   }
 }
 
-// Pull image to the right
-.c-figure--illustration {
+// Map illustration
+.c-figure--map {
   .c-figure__img {
     border: 3px double $__color-neutral-mid;
     padding-top: percentage(2/3);

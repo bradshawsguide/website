@@ -1,0 +1,9 @@
+.c-map {
+  height: 55vh;
+}
+
+.c-map--cover {
+  width: 100vw;
+  margin-right: calc(var(--page-gutter) * -1);
+  margin-left: calc(var(--page-gutter) * -1);
+}

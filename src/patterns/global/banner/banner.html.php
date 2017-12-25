@@ -1,5 +1,5 @@
 <header class="c-banner<?php e($page->isHomePage(), ' c-banner--home') ?>">
-    <h1 class="c-banner__title">
+    <p class="c-banner__title">
     <?php if ($page->isHomePage()): ?>
         <span class="c-banner__masthead">
             <span>Bradshaw’s Guide</span>
@@ -11,7 +11,7 @@
             Bradshaw’s <span class="u-hidden@small">Guide</span>
         </a>
     <?php endif ?>
-    </h1>
+    </p>
     <?php if ($page->isHomePage()): ?>
         <p class="c-banner__edition">1866 Edition</p>
     <?php endif ?>

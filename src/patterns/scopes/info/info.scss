@@ -4,7 +4,7 @@
   font-variant-numeric: lining-nums;
   hyphens: none;
 
-  p {
+  p:not(:last-child) {
     margin-bottom: $__space-xsmall;
   }
 
@@ -14,20 +14,24 @@
     font-weight: normal;
 
     &::after {
-      content: "—";
+      content: ".";
     }
+  }
+
+  dt + dd::before {
+    content: "—";
   }
 
   dd {
     margin-left: $__text-indent;
     hyphens: none;
 
+    & + dd {
+      text-indent: $__text-indent;
+    }
+
     &:not(:last-of-type) {
       margin-bottom: $__space-xsmall;
     }
-  }
-
-  dd + dd {
-    text-indent: $__text-indent;
   }
 }

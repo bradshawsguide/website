@@ -4,23 +4,19 @@ snippet('head', [
 ]);
 
 pattern('common/traversal-nav');
-?>
 
-<article class="c-page">
-<?php
+if (!$page->stops()->empty()) {
+    pattern('common/map', [
+        'url' => $page->uri().'.geojson/',
+        'class' => 'cover'
+    ]);
+}
+
 pattern('common/page/header', [
     'parent' => $page->operator(),
     'title' => $page->title(),
     'subtitle' => $page->subtitle()
 ]);
-
-if (!$page->stops()->empty()) {
-    pattern('common/figure/map', [
-        'url' => $page->uri().'.geojson/',
-        'caption' => 'Route map',
-        'class' => 'cover'
-    ]);
-}
 
 pattern('common/page/content');
 
@@ -28,7 +24,5 @@ pattern('common/section/links', [
     'title' => 'Further reading',
     'links' => $page->links()
 ]);
-?>
-</article>
 
-<?php snippet('foot') ?>
+snippet('foot');

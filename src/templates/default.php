@@ -1,7 +1,6 @@
-<?php snippet('head') ?>
-
-<article class="c-page">
 <?php
+snippet('head');
+
 pattern('common/page/header', [
     'title' => $page->title()
 ]);
@@ -9,7 +8,5 @@ pattern('common/page/header', [
 pattern('common/page/content', [
     'editable' => false
 ]);
-?>
-</article>
 
-<?php snippet('foot') ?>
+snippet('foot');

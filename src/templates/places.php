@@ -1,7 +1,6 @@
-<?php snippet('head') ?>
-
-<section class="c-page">
 <?php
+snippet('head');
+
 pattern('common/page/header', [
     'pretitle' => 'A descriptive guide to places in',
     'title' => 'Great Britain & Ireland',
@@ -14,7 +13,5 @@ foreach (page('places')->children() as $country) {
         'items' => $country->children()
     ]);
 }
-?>
-</section>
 
-<?php snippet('foot') ?>
+snippet('foot');

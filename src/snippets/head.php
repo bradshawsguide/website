@@ -37,7 +37,7 @@
 <?php else: ?>
     <meta property="og:description" content="<?= str::xml($site->desc()) ?>"/>
 <?php endif ?>
-<?php if ($image = $page->image('cover')): ?>
+<?php if ($image = $page->image('cover.jpg')): ?>
     <meta property="og:image" content="<?= $image->crop(640, 360)->url() ?>"/>
     <meta name="twitter:card" content="summary_large_image"/>
 <?php else: ?>
@@ -52,4 +52,4 @@
 <body<?= isset($class) ? ' class="'.$class.'"' : null; ?>>
     <?php pattern('global/banner') ?>
 
-    <main class="c-main">
+    <main class="c-page">

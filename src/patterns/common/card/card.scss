@@ -6,12 +6,12 @@ $_card-growth: $__space-xxsmall;
   overflow: hidden;
   background-color: white;
   outline: 1px solid rgba($__color-neutral-darkest, 0.1);
-  box-shadow: 0 0 12px 0 rgba($__color-neutral-darkest, 0.1);
+  box-shadow: 0 4px 12px 0 rgba($__color-neutral-darkest, 0.1);
   transition-duration: 0.15s;
   transition-property: box-shadow, margin, padding;
 
   &:hover {
-    box-shadow: 0 0 24px 0 rgba($__color-neutral-darkest, 0.25);
+    box-shadow: 0 8px 24px 0 rgba($__color-neutral-darkest, 0.25);
     margin: ($_card-growth * -1);
     padding: $_card-growth;
   }

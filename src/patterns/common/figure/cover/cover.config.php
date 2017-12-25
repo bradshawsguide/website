@@ -2,6 +2,6 @@
 
 return [
     'defaults' => [
-        'url' => '/places'
+        'image' => page('about')->image(),
     ]
 ];

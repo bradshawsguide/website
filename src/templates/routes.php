@@ -1,28 +1,29 @@
 <?php
-    if (get('view') == null) {
-        go($page->uri().'/section:'.param('section').'?view=list');
-    };
-    if (param('section') == null) {
-        go($page->uri().'/section:1');
-    };
-    snippet('head', [
-        'alternate' => $page->url().'.geojson'.'/section:'.param('section')
-    ]);
-    pattern('common/section-nav');
-?>
+if (get('view') == null) {
+    go($page->uri().'/section:'.param('section').'?view=list');
+};
+if (param('section') == null) {
+    go($page->uri().'/section:1');
+};
 
-<section class="c-page">
-<?php
+snippet('head', [
+    'alternate' => $page->url().'.geojson'.'/section:'.param('section')
+]);
+
 pattern('common/page/header', [
-    'title' => $title,
-    'subtitle' => $subtitle,
+    'title' => $page->title(),
     'modifiers' => ['index']
 ]);
+
+pattern('common/section-nav');
+
+echo $sectionTitle.'<br>';
+echo $sectionDesc;
 
 pattern('common/tablist');
 
 if (get('view') == 'map') {
-    pattern('common/figure/map', [
+    pattern('common/map', [
         'url' => $page->uri().'.geojson/'.$kirby->request()->params(),
         'class' => 'cover'
     ]);
@@ -39,7 +40,5 @@ if (get('view') == 'map') {
         ]);
     }
 }
-?>
-</section>
 
-<?php snippet('foot') ?>
+snippet('foot');

@@ -2,6 +2,6 @@
 
 return [
     'defaults' => [
-        'items' => page('places/england/london/summary')->siblings(),
+        'items' => page('places/england/middlesex/london/summary')->siblings(),
     ]
 ];

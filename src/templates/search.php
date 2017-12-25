@@ -1,7 +1,6 @@
-<?php snippet('head') ?>
-
-<section class="c-page">
 <?php
+snippet('head');
+
 pattern('common/page/header', [
     'title' => $title
 ]);
@@ -20,7 +19,5 @@ if (count($results)) {
         'title' => 'No matches found'
     ]);
 }
-?>
-</section>
 
-<?php snippet('foot') ?>
+snippet('foot');

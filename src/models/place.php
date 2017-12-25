@@ -51,6 +51,23 @@ class PlacePage extends Page
         return $excerpt;
     }
 
+    // Get nearby places (with images)
+    public function nearby()
+    {
+        $point = geo::point($this->location());
+        $places = page('places')->grandChildren()->children()->filter(function ($page) {
+            return $page->hasImages();
+        });
+
+        $nearby = $places->filterBy('location', 'radius', [
+            'lat' => $point->lat(),
+            'lng' => $point->lng(),
+            'radius' => 50
+        ])->limit(4);
+
+        return $nearby;
+    }
+
     // Convert UIDs listed under `route:` to array of pages
     public function routes()
     {

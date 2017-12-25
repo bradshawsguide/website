@@ -1,19 +1,18 @@
 .s-prose {
   @include typeset("prose");
-  max-width: 60ch;
+  margin-bottom: $__space-xlarge;
   hyphens: auto;
+
+  > *:not(.c-figure) {
+    max-width: 40rem;
+  }
 
   p + p {
     text-indent: $__text-indent;
   }
 
-  > * {
-    margin-bottom: $__space-small;
-  }
-
   h3 {
     @include typeset("heading");
-    margin-bottom: $__space-xsmall;
 
     &::after {
       content: ".";
@@ -78,6 +77,14 @@
     &::before {
       content: "—\2009"; // EM DASH + THIN SPACE
     }
+  }
+
+  figure {
+    margin-bottom: $__space-xlarge;
+  }
+
+  * + figure {
+    margin-top: $__space-large;
   }
 
   blockquote {
@@ -194,6 +201,12 @@
   // Footnotes
   .footnotes {
     @include typeset("caption");
+  }
+}
+
+.s-prose--region {
+  > *:not(.c-figure) {
+    margin: 0 auto;
   }
 }
 

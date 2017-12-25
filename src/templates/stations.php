@@ -1,7 +1,6 @@
-<?php snippet('head') ?>
-
-<section class="c-page">
 <?php
+snippet('head');
+
 pattern('common/page/header', [
     'title' => 'Stations A-Z',
     'modifiers' => ['index']
@@ -15,8 +14,6 @@ foreach (alphabetise($stations) as $letter => $items) {
         'letter' => $letter,
         'listAs' => 'columns'
     ]);
-}
-?>
-</section>
+};
 
-<?php snippet('foot') ?>
+snippet('foot');

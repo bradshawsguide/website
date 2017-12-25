@@ -1,20 +1,28 @@
 <?php
-    snippet('head', [
-        'alternate' => $page->url().'.geojson'
+snippet('head', [
+    'alternate' => $page->url().'.geojson'
+]);
+
+if ($image = $page->image('cover.jpg')) {
+    pattern('common/figure/cover', [
+        'image' => $image
     ]);
+}
 
-    pattern('common/traversal-nav');
-?>
-
-<article class="c-page">
-<?php
 pattern('common/page/header', [
+    'parent' => html::a($page->parent()->url(), $page->parent()->title()),
     'title' => $page->title(),
     'subtitle' => $page->subtitle()
 ]);
 
 pattern('common/page/content');
-?>
-</article>
 
-<?php snippet('foot') ?>
+if ($page->location()) {
+    pattern('common/section/featured', [
+        'title' => 'Places nearby',
+        'items' => $page->nearby(),
+        'modifiers' => ['offset']
+    ]);
+}
+
+snippet('foot');

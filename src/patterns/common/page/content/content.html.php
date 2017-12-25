@@ -1,11 +1,5 @@
 <div class="c-page__content">
 <?php
-    if ($page->hasImages()) {
-        pattern('common/figure/image', [
-            'image' => $page->image()
-        ]);
-    }
-
     if (!$page->info()->empty() || !$page->notes()->empty()) {
         pattern('common/aside/info', [
             'info' => $page->info()->yaml(),

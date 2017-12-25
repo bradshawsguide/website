@@ -7,7 +7,10 @@
     "prev  next";
   grid-gap: $__space-xsmall $__space-large;
   align-items: center;
+  order: -1;
+  width: 100vw;
   background-color: $__color-neutral-lighter;
+  margin: 0 calc(var(--page-gutter) * -1);
   padding: 0 var(--page-gutter);
   color: $__color-neutral-mid;
 
