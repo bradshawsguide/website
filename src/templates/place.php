@@ -9,7 +9,8 @@
 <article class="c-page">
 <?php
 pattern('common/page/header', [
-    'title' => $page->displayTitle()
+    'title' => $page->title(),
+    'subtitle' => $page->subtitle()
 ]);
 
 pattern('common/page/content');

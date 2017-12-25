@@ -16,7 +16,7 @@
             </span>
         <?php endif ?>
         <?= smartypants($title) ?></h2>
-<?php if (isset($subtitle)): ?>
+<?php if ($subtitle): ?>
     <p class="c-page__subtitle"><?= $subtitle ?></p>
 <?php endif ?>
 </header>

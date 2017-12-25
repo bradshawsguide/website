@@ -5,22 +5,20 @@ class StationPage extends Page
     // Return `title_later` if exists, else normal title
     public function currentTitle()
     {
-        if (!$this->title_later()->empty()) {
-            $currentTitle = $this->title_later();
+        if (!$this->subtitle()->empty()) {
+            return $this->subtitle();
         } else {
-            $currentTitle = $this->title();
+            return $this->title();
         };
-
-        return $currentTitle;
     }
 
     // Location
     public function location()
     {
-        $location = array(
+        $location = [
             $this->geolat()->float(),
             $this->geolng()->float()
-        );
+        ];
 
         return implode(',', $location);
     }

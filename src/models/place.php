@@ -3,32 +3,16 @@
 class PlacePage extends Page
 {
     // Get location information from corresponding station
-    public function geolng()
+    public function location()
     {
         if ($station = page('stations/'.$this->uid())) {
-            return $station->geolng();
+            $location = [
+                $station->geolat()->float(),
+                $station->geolng()->float()
+            ];
+
+            return implode(',', $location);
         }
-    }
-
-    // Get location information from corresponding station
-    public function geolat()
-    {
-        if ($station = page('stations/'.$this->uid())) {
-            return $station->geolat();
-        }
-    }
-
-    // Make title_full() include `suffix:` if provided
-    public function displayTitle()
-    {
-        $suffix = $this->title_suffix();
-        $displayTitle = $this->title();
-
-        if (!$suffix->empty()) {
-            $displayTitle = $this->title().' <small>'.$suffix.'</small>';
-        };
-
-        return $displayTitle;
     }
 
     // Return `title_short` if exists, else normal title

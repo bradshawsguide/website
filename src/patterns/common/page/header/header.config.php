@@ -4,6 +4,7 @@ $page = page('places/england/sussex/brighton');
 
 return [
     'defaults' => [
-        'title' => $page->title()
+        'title' => $page->title(),
+        'subtitle' => null
     ]
 ];
