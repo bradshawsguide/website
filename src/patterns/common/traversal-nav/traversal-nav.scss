@@ -5,7 +5,6 @@
   grid-template-areas:
     "title title"
     "prev  next";
-  grid-gap: $__space-xsmall $__space-large;
   align-items: center;
   order: -1;
   width: 100vw;
@@ -21,7 +20,11 @@
 }
 
 .c-traversal-nav__item {
-  padding: $__space-medium 0;
+  padding: $__space-xsmall 0;
+
+  @media screen and (min-width: $__breakpoint-medium) {
+    padding: $__space-medium 0;
+  }
 
   &::before,
   &::after {
@@ -54,6 +57,10 @@
 
   a {
     display: block;
-    padding: $__space-medium 0;
+    padding: $__space-xsmall 0;
+
+    @media screen and (min-width: $__breakpoint-medium) {
+      padding: $__space-medium 0;
+    }
   }
 }

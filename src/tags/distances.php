@@ -5,7 +5,7 @@ kirbytext::$tags['distances'] = array(
         'title'
     ],
     'html' => function ($tag) {
-        return pattern('common/distances', [
+        return pattern('scopes/distances', [
             'title' => $tag->attr('title', 'Distances of Places from the Station'),
             'distances' => $tag->page()->distances()->yaml()
         ], true);

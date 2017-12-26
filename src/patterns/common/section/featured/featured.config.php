@@ -3,6 +3,7 @@
 return [
     'defaults' => [
         'title' => 'Group title',
-        'noresult' => 'No items'
+        'noresult' => 'No items',
+        'modifiers' => null
     ]
 ];

@@ -1,9 +1,4 @@
-<?php
-    if (isset($modifiers)) {
-        $mods = implode(preg_filter('/^/', ' c-page__header--', $modifiers));
-    }
-?>
-<header class="c-page__header<?= $mods ?? '' ?>">
+<header class="<?= classList('c-page__header', $modifiers) ?>">
 <?php if ($parent): ?>
     <nav class="c-page__parent">
         <?= $parent ?>

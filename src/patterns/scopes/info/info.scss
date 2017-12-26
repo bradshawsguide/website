@@ -1,7 +1,11 @@
-.c-info {
+.s-info {
+  @include pull-right;
+  margin-bottom: $__space-medium;
+  padding: $__space-small;
+  background-color: $__color-neutral-lighter;
   font-family: $__font-family-serif;
-  line-height: $__line-height-loose;
   font-variant-numeric: lining-nums;
+  line-height: $__line-height-loose;
   hyphens: none;
 
   p:not(:last-child) {

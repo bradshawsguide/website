@@ -6,6 +6,7 @@ return [
     'defaults' => [
         'parent' => null,
         'title' => $page->title(),
-        'subtitle' => null
+        'subtitle' => null,
+        'modifiers' => null,
     ]
 ];

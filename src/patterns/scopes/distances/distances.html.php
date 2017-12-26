@@ -1,5 +1,5 @@
-<table class="c-distances">
-    <caption class="c-distances__title"><?= smartypants($title) ?></caption>
+<table class="s-distances">
+    <caption><?= smartypants($title) ?></caption>
     <thead>
         <tr>
             <th>To:</th>

@@ -1,4 +1,4 @@
-.c-distances {
+.s-distances {
   width: 100%;
   margin: $__space-large auto $__space-xlarge;
   font-size: $__font-size-text-medium;
@@ -86,14 +86,14 @@
       white-space: nowrap;
     }
   }
-}
 
-.c-distances__title {
-  margin-bottom: $__space-medium;
-  text-align: center;
-  font-variant-caps: small-caps;
+  caption {
+    margin-bottom: $__space-medium;
+    text-align: center;
+    font-variant-caps: small-caps;
 
-  &::after {
-    content: ".";
+    &::after {
+      content: ".";
+    }
   }
 }

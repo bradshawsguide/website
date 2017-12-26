@@ -2,6 +2,7 @@
 
 return [
     'defaults' => [
-        'items' => page('places')->children()
+        'items' => page('places')->children(),
+        'modifiers' => null
     ]
 ];

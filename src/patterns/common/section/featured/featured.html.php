@@ -1,9 +1,4 @@
-<?php
-    if (isset($modifiers)) {
-        $mods = implode(preg_filter('/^/', ' c-section--', $modifiers));
-    }
-?>
-<section class="c-section<?= $mods ?? '' ?>">
+<section class="<?= classList('c-section', $modifiers) ?>">
 <?= brick('h'.(isset($level) ? $level : 2))->html($title)->attr('class', 'c-section__title') ?>
 <?php
     if (isset($content)):

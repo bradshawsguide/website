@@ -1,7 +1,7 @@
 <div class="c-page__content">
 <?php
     if (!$page->info()->empty() || !$page->notes()->empty()) {
-        pattern('common/aside/info', [
+        pattern('scopes/info', [
             'info' => $page->info()->yaml(),
             'notes' => $page->notes()->yaml()
         ]);
