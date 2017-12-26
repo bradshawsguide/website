@@ -18,7 +18,7 @@ if ($image = $page->image('cover.jpg')) {
 pattern('common/page/content');
 
 if ($page->location()) {
-    pattern('common/section/featured', [
+    pattern('common/section/features', [
         'title' => 'Places nearby',
         'items' => $page->nearby(),
         'modifiers' => ['offset']

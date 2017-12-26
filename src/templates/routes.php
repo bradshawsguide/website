@@ -28,7 +28,7 @@ if (get('view') == 'map') {
         'class' => 'cover'
     ]);
 } else {
-    pattern('common/section/featured', [
+    pattern('common/section/features', [
         'title' => 'Featured routes',
         'items' => $featured->filterBy('section', param('section'))
     ]);

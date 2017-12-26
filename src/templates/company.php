@@ -20,9 +20,9 @@ pattern('common/section/routes', [
     'items' => $page->routes()
 ]);
 
-pattern('common/section/links', [
+pattern('common/section/text', [
     'title' => 'Further reading',
-    'links' => $page->links()
+    'text' => $page->links()
 ]);
 
 pattern('common/map', [

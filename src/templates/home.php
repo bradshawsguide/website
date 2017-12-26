@@ -3,20 +3,22 @@ snippet('head');
 
 foreach (sections() as $section) {
     $routesCount = count($section['routes']);
+    $continue = brick('p');
 
     if ($routesCount > 0) {
-        $continue = html::a($section['url'], $routesCount.' routes');
+        $continue->html(html::a($section['url'], $routesCount.' routes'));
     } else {
-        $continue = '<em>Coming soon</em>';
+        $continue->html(kirbytext('*Coming soon*'));
     }
 
-    pattern('common/section/section', [
-        'uid' => $section['title'],
-        'url' => $section['url'],
-        'title' => $section['title'],
-        'label' => $section['label'],
-        'content' => $section['desc'],
-        'continue' => $continue
+    $title = brick('a');
+    $title->attr('href', $section['url']);
+    $title->attr('aria-label', $section['label']);
+    $title->html($section['title']);
+
+    pattern('common/section/text', [
+        'title' => $title,
+        'text' => $section['desc'].$continue
     ]);
 };
 

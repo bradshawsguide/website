@@ -10,7 +10,7 @@ pattern('common/page/header', [
 ]);
 
 if (!$page->place()->empty()) {
-    pattern('common/card', [
+    pattern('common/feature', [
         'item' => $page->placePage()
     ]);
 }
@@ -21,9 +21,9 @@ pattern('common/section/route-traversal', [
     'routes' => $page->routes()
 ]);
 
-pattern('common/section/links', [
+pattern('common/section/text', [
     'title' => 'Further reading',
-    'links' => $page->links()
+    'text' => $page->links()
 ]);
 
 pattern('common/map', [

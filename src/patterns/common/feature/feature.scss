@@ -1,6 +1,6 @@
 $_card-growth: $__space-xxsmall;
 
-.c-card {
+.c-feature {
   display: flex;
   flex: 1;
   overflow: hidden;
@@ -17,18 +17,18 @@ $_card-growth: $__space-xxsmall;
   }
 }
 
-.c-card__body {
+.c-feature__body {
   --link-decoration: none;
   display: flex;
   flex: 1;
   flex-direction: column;
 }
 
-.c-card__header {
+.c-feature__header {
   padding: $__space-xsmall;
 }
 
-.c-card__parent {
+.c-feature__parent {
   @include typeset("prose");
 
   --font-size-prose: $__font-size-text-small;
@@ -36,17 +36,17 @@ $_card-growth: $__space-xxsmall;
   color: $__color-neutral-mid;
 }
 
-.c-card__title {
+.c-feature__title {
   @include typeset("display3");
   color: $__color-link;
 }
 
-.c-card__main {
+.c-feature__main {
   padding: $__space-xsmall;
   color: $__color-neutral-dark;
 }
 
-.c-card__img {
+.c-feature__img {
   display: flex;
   order: -1;
   margin: ($_card-growth * -1);

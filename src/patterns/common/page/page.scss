@@ -85,12 +85,12 @@
 }
 
 .c-page--company {
-  .c-section--routes { grid-area: main / body; }
+  .c-section--routes { grid-area: footer / body; }
   .c-section--links { grid-area: auto / body; }
-  .c-map { grid-area: main / aside; }
+  .c-map { grid-area: footer / aside; }
 }
 
 .c-page--station {
-  .c-card { grid-area: main / aside; }
+  .c-feature { grid-area: main / aside; }
   .c-map { grid-area: auto / page; }
 }

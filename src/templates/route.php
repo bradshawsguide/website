@@ -20,9 +20,9 @@ pattern('common/page/header', [
 
 pattern('common/page/content');
 
-pattern('common/section/links', [
+pattern('common/section/text', [
     'title' => 'Further reading',
-    'links' => $page->links()
+    'text' => $page->links()
 ]);
 
 snippet('foot');
