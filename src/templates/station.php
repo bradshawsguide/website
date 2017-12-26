@@ -9,6 +9,12 @@ pattern('common/page/header', [
     'subtitle' => $page->subtitle()
 ]);
 
+if (!$page->place()->empty()) {
+    pattern('common/card', [
+        'item' => $page->placePage()
+    ]);
+}
+
 pattern('common/section/route-traversal', [
     'title' => 'Routes serving this station',
     'level' => 3,
@@ -19,12 +25,6 @@ pattern('common/section/links', [
     'title' => 'Further reading',
     'links' => $page->links()
 ]);
-
-if (!$page->place()->empty()) {
-    pattern('common/card', [
-        'item' => $page->placePage()
-    ]);
-}
 
 pattern('common/map', [
     'url' => $page->uri().'.geojson/'.$kirby->request()->params().'&zoom=14',

@@ -13,14 +13,26 @@ class StationPage extends Page
         return implode(',', $location);
     }
 
+    // Trainline slug
+    public function trainline()
+    {
+        if (!$this->subtitle()->empty()) {
+            $trainline = str::slug($this->subtitle());
+        } else {
+            $trainline = $this->uid();
+        }
+
+        return $trainline;
+    }
+
     // API consistency
     public function links()
     {
         $links = array(
             'wikipedia' => (!$this->wikipedia()->empty()) ?
                 '- (wikipedia: '.urlencode($this->wikipedia()).')' : '',
-            'trainline' => (!$this->code()->empty()) ?
-                '- (trainline: '.$this->uid().')' : '',
+            'trainline' => (!$this->nationalrail()->empty()) ?
+                '- (trainline: '.$this->trainline().')' : '',
             'disused' => (!$this->disused()->empty()) ?
                 '- (disused: '.$this->disused().')' : '',
         );
