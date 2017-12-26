@@ -55,10 +55,16 @@ class PlacePage extends Page
     public function nearby()
     {
         $point = geo::point($this->location());
+
+        // Find all PlacePages with images
         $places = page('places')->grandChildren()->children()->filter(function ($page) {
             return $page->hasImages();
         });
 
+        // Exclude this page from query
+        $places = $places->filterBy('title', '!=', $this->title());
+
+        // Return nearby places
         $nearby = $places->filterBy('location', 'radius', [
             'lat' => $point->lat(),
             'lng' => $point->lng(),
