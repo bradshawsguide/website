@@ -7,16 +7,6 @@
         ]);
     }
 
-    if ($page->type() == 'child') {
-        pattern('scopes/navigation', [
-            'items' => $page->siblings()
-        ]);
-    } else {
-        pattern('scopes/navigation', [
-            'items' => $page->children()
-        ]);
-    }
-
     if (!$page->text()->empty()) {
         pattern('scopes/prose', [
             'content' => $page->text(),

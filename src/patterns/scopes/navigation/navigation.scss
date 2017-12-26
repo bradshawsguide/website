@@ -2,10 +2,10 @@
   @include pull-right;
   display: flex;
   flex-direction: column;
-  outline: 4px solid red;
 
   a {
-    padding: $__space-xsmall $__space-small;
+    @include typeset("label");
+    padding: $__space-small;
     background-color: $__color-neutral-lighter;
     box-shadow: 0 -1px $__color-neutral-lightest;
 
