@@ -6,7 +6,7 @@
 .c-list--columns {
   columns: 12rem 5;
   column-fill: balance;
-  column-gap: $__space-small;
+  column-gap: $__gutter;
 
   .c-list__item {
     break-inside: avoid;
@@ -17,7 +17,7 @@
 .c-list--grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
-  grid-gap: $__space-small;
+  grid-gap: $__gutter;
 
   .c-list__item {
     display: flex;

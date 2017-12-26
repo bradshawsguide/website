@@ -1,6 +1,5 @@
 .s-prose {
   @include typeset("prose");
-  margin-bottom: $__space-xlarge;
   hyphens: auto;
 
   > *:not(.c-figure) {
@@ -203,7 +202,7 @@
   }
 }
 
-.s-prose--region {
+.s-prose--centered {
   > *:not(.c-figure) {
     margin: 0 auto;
   }

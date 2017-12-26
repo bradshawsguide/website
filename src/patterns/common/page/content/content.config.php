@@ -2,6 +2,7 @@
 
 return [
     'defaults' => [
-        'page' => page('places/england/sussex/brighton')
+        'page' => page('places/england/sussex/brighton'),
+        'proseModifiers' => null
     ]
 ];

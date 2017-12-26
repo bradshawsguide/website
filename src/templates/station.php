@@ -28,6 +28,7 @@ pattern('common/section/links', [
 
 pattern('common/map', [
     'url' => $page->uri().'.geojson/'.$kirby->request()->params().'&zoom=14',
+    'title' => 'Location of this station',
     'class' => 'cover'
 ]);
 

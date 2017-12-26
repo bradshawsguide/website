@@ -52,4 +52,4 @@
 <body<?= isset($class) ? ' class="'.$class.'"' : null; ?>>
     <?php pattern('global/banner') ?>
 
-    <main class="c-page">
+    <main class="c-page c-page--<?= $page->template() ?>">

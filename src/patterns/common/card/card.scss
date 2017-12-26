@@ -25,8 +25,6 @@ $_card-growth: $__space-xxsmall;
 }
 
 .c-card__header {
-  display: flex;
-  flex-direction: column;
   padding: $__space-xsmall;
 }
 
@@ -36,7 +34,6 @@ $_card-growth: $__space-xxsmall;
   --font-size-prose: $__font-size-text-small;
   font-style: italic;
   color: $__color-neutral-mid;
-  order: -1;
 }
 
 .c-card__title {
@@ -50,6 +47,7 @@ $_card-growth: $__space-xxsmall;
 }
 
 .c-card__img {
+  display: flex;
   order: -1;
   margin: ($_card-growth * -1);
   margin-bottom: 0;

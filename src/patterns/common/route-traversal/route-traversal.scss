@@ -5,7 +5,7 @@
   grid-template-areas:
     "title title"
     "prev  next";
-  grid-gap: $__space-xsmall $__space-large;
+  grid-gap: $__space-xsmall $__gutter;
   border-top: $__rule;
   padding: $__space-xxsmall $__space-xxsmall $__space-small;
   color: $__color-neutral-mid;

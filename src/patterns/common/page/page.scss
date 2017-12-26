@@ -1,8 +1,12 @@
 .c-page {
   position: relative;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-auto-flow: row;
+  grid-auto-rows: auto;
   flex: 1 0 auto;
+  grid-column-gap: $__gutter;
+  grid-template-columns: [page-start body-start] 3fr [body-end aside-start] 2fr [aside-end page-end];
+  grid-template-rows: [page-start header-start] auto [header-end main-start] 1fr [main-end footer-start] auto [footer-end page-end];
   padding-right: var(--page-gutter);
   padding-left: var(--page-gutter);
 
@@ -26,6 +30,7 @@
 }
 
 .c-page__header {
+  grid-area: header / page;
   margin: 0 calc(var(--page-gutter) * -1);
   padding: 3vw var(--page-gutter);
 
@@ -66,5 +71,26 @@
 }
 
 .c-page__content {
-  @include clearfix;
+  grid-area: main / page;
+  margin-bottom: $__space-xlarge;
+}
+
+// Page layouts
+.c-page--route {
+  .c-map { grid-area: header -1 / page; }
+}
+
+.c-page--place {
+  .c-figure--cover { grid-area: header -1 / page; }
+}
+
+.c-page--company {
+  .c-section--routes { grid-area: main / body; }
+  .c-section--links { grid-area: auto / body; }
+  .c-map { grid-area: main / aside; }
+}
+
+.c-page--station {
+  .c-card { grid-area: main / aside; }
+  .c-map { grid-area: auto / page; }
 }

@@ -1,13 +1,13 @@
 .c-traversal-nav {
   --link-decoration: none;
   display: grid;
+  grid-area: header -1 / page;
   grid-auto-flow: row dense;
   grid-template-areas:
     "title title"
     "prev  next";
   align-items: center;
-  order: -1;
-  width: 100vw;
+  align-self: auto;
   background-color: $__color-neutral-lighter;
   margin: 0 calc(var(--page-gutter) * -1);
   padding: 0 var(--page-gutter);

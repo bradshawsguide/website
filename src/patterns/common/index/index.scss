@@ -1,7 +1,8 @@
 .c-index {
   display: flex;
+  grid-area: auto / page;
   border-top: $__rule;
-  margin-bottom: $__space-xlarge;
+  margin-bottom: $__gutter;
   padding-top: $__space-small;
 }
 

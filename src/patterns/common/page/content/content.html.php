@@ -20,7 +20,7 @@
     if (!$page->text()->empty()) {
         pattern('scopes/prose', [
             'content' => $page->text(),
-            'modifier' => $page->template()
+            'proseModifiers' => $proseModifiers
         ]);
 
         if (!isset($editable)) {

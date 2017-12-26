@@ -52,7 +52,7 @@
       display: block;
       columns: 2;
       column-fill: balance;
-      column-gap: $__space-large;
+      column-gap: ($__gutter * 2);
       column-rule: 3px double $__color-neutral-alpha;
     }
 

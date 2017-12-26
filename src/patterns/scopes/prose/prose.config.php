@@ -2,6 +2,7 @@
 
 return [
     'defaults' => [
-        'content' => page('about')->text()
+        'content' => page('about')->text(),
+        'modifiers' => null
     ]
 ];

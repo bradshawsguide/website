@@ -1,8 +1,10 @@
 .c-map {
-  height: 55vh;
+  width: 100%;
+  align-self: stretch;
 }
 
 .c-map--cover {
+  height: 60vh;
   width: 100vw;
   margin-right: calc(var(--page-gutter) * -1);
   margin-left: calc(var(--page-gutter) * -1);

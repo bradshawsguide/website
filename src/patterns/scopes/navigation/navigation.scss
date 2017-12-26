@@ -2,6 +2,7 @@
   @include pull-right;
   display: flex;
   flex-direction: column;
+  outline: 4px solid red;
 
   a {
     padding: $__space-xsmall $__space-small;

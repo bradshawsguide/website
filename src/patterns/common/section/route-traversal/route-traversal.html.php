@@ -1,5 +1,5 @@
 <?php if (count($routes)): ?>
-<section class="c-section">
+<section class="c-section c-section--route-traversal">
     <?= brick('h'.(isset($level) ? $level : 2))->html($title)->attr('class', 'c-section__title') ?>
     <?php
         foreach ($routes as $route) {
