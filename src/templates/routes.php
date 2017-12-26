@@ -28,9 +28,11 @@ if (get('view') == 'map') {
         'class' => 'cover'
     ]);
 } else {
-    pattern('common/section/features', [
+    pattern('common/section/list', [
         'title' => 'Featured routes',
-        'items' => $featured->filterBy('section', param('section'))
+        'items' => $featured->filterBy('section', param('section')),
+        'component' => 'common/feature',
+        'display' => 'grid'
     ]);
 
     foreach ($companies as $company) {

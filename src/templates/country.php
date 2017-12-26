@@ -10,9 +10,11 @@ pattern('common/page/header', [
 ]);
 
 if (count($page->featured())) {
-    pattern('common/section/features', [
+    pattern('common/section/list', [
         'title' => 'Featured places',
-        'items' => $page->featured()
+        'items' => $page->featured(),
+        'component' => 'common/feature',
+        'display' => 'grid'
     ]);
 };
 

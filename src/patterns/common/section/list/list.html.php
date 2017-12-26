@@ -4,7 +4,8 @@
         <?php
             pattern('common/list', [
                 'items' => $items,
-                'modifiers' => ['columns']
+                'component' => $component,
+                'modifiers' => [$display]
             ]);
         ?>
     </section>

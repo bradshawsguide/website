@@ -18,10 +18,12 @@ if ($image = $page->image('cover.jpg')) {
 pattern('common/page/content');
 
 if ($page->location()) {
-    pattern('common/section/features', [
+    pattern('common/section/list', [
         'title' => 'Places nearby',
+        'modifiers' => ['offset'],
         'items' => $page->nearby(),
-        'modifiers' => ['offset']
+        'component' => 'common/feature',
+        'display' => 'grid'
     ]);
 }
 
