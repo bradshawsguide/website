@@ -1,8 +1,7 @@
-.c-route-list__item {
+.c-route-item {
   display: flex;
   flex-direction: column;
   align-items: baseline;
-  padding-bottom: $__space-xsmall;
   text-decoration: none;
 
   @media screen and (min-width: $__breakpoint-medium) {
@@ -14,12 +13,12 @@
   }
 }
 
-.c-route-list__label {
+.c-route-item__label {
   @include typeset("label", $font-weight: bold);
   text-decoration: underline;
 }
 
-.c-route-list__desc {
+.c-route-item__desc {
   @include typeset("caption");
   overflow: hidden;
   white-space: nowrap;

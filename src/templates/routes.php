@@ -36,9 +36,10 @@ if (get('view') == 'map') {
     ]);
 
     foreach ($companies as $company) {
-        pattern('common/section/routes', [
+        pattern('common/section/list', [
             'title' => html::a($company->url(), $company->title()),
-            'items' => $company->routes()->filterBy('section', param('section'))
+            'items' => $company->routes()->filterBy('section', param('section')),
+            'component' => 'common/route-item'
         ]);
     }
 }

@@ -15,9 +15,10 @@ pattern('common/section/list', [
     'items' => $page->stations()
 ]);
 
-pattern('common/section/routes', [
+pattern('common/section/list', [
     'title' => 'Routes operated',
-    'items' => $page->routes()
+    'items' => $page->routes(),
+    'component' => 'common/route-item'
 ]);
 
 pattern('common/section/text', [

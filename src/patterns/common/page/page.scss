@@ -85,8 +85,8 @@
 }
 
 .c-page--company {
-  .c-section--routes { grid-area: footer / body; }
-  .c-section--links { grid-area: auto / body; }
+  .c-section--list { grid-area: footer / body; }
+  .c-section--text { grid-area: auto / body; }
   .c-map { grid-area: footer / aside; }
 }
 

@@ -6,6 +6,6 @@ return [
         'title' => 'Stations served',
         'items' => page('routes')->children()->filterBy('company', 'south-eastern'),
         'component' => null,
-        'display' => 'columns'
+        'display' => null
     ]
 ];
