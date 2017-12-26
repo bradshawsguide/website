@@ -40,28 +40,34 @@ class StationPage extends Page
         return implode("\n", $links);
     }
 
-    // Return corresponding `PlacePage` if exists, else return `StationPage`
-    public function placePage()
+    // Convert UIDs listed under `route:` to array of pages
+    public function routes()
     {
-        if (!$this->place()->empty()) {
-            $placePage = page('places/'.$this->country().DS.$this->region().DS.$this->place());
-            ;
-        } else {
-            $placePage = $this;
-        }
+        $routes = page('routes')->children()->filterBy('stops', '*=', $this->uid());
 
-        return $placePage;
+        return $routes;
     }
 
     public function routesCount()
     {
         $number = new NumberFormatter("en", NumberFormatter::SPELLOUT);
-        $routes = count($this->placePage()->routes());
+        $routes = count($this->routes());
 
         if ($routes > 1) {
-            return $number->format($routes).' routes';
+            $routesCount = $number->format($routes).' routes';
         } else {
-            return $number->format($routes).' route';
+            $routesCount = $number->format($routes).' route';
+        }
+
+        return $routesCount;
+    }
+
+    // Return corresponding `PlacePage` if exists, else return `StationPage`
+    public function placePage()
+    {
+        if (!$this->place()->empty()) {
+            return page('places/'.$this->country().DS.$this->region().DS.$this->place());
+            ;
         }
     }
 }

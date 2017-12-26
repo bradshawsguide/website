@@ -18,7 +18,7 @@ if (!$page->place()->empty()) {
 pattern('common/section/route-traversal', [
     'title' => 'Routes serving this station',
     'level' => 3,
-    'routes' => $page->placePage()->routes()
+    'routes' => $page->routes()
 ]);
 
 pattern('common/section/links', [
