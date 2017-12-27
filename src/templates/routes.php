@@ -12,10 +12,15 @@ pattern('common/page/header', [
     'modifiers' => ['index']
 ]);
 
-pattern('common/tablist');
+pattern('common/tablist', [
+    'title' => 'Sections',
+    'currentURL' => '/routes/section:'.param('section')
+]);
 
-echo $sectionTitle.'<br>';
-echo $sectionDesc;
+pattern('common/page/content', [
+    'proseModifiers' => ['centered'],
+    'editable' => false
+]);
 
 pattern('common/switch');
 

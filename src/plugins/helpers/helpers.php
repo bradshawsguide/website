@@ -90,7 +90,7 @@ function classList($block, $modifiers, $seperator = '--')
 // Create globally available of section information
 function sections()
 {
-    $sections = site()->sections()->yaml();
+    $sections = page('routes')->sections()->yaml();
 
     array_walk($sections, function (&$value, $key) {
         $value['uid'] = (string) $value['uid'];

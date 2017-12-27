@@ -18,7 +18,7 @@ foreach (sections() as $section) {
 
     pattern('common/section/text', [
         'title' => $title,
-        'text' => $section['desc'].$continue
+        'text' => $section['text'].$continue
     ]);
 };
 

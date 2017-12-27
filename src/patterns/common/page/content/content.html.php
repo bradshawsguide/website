@@ -7,7 +7,7 @@
         ]);
     }
 
-    if (!$page->text()->empty()) {
+    if ($page->text() != '') {
         pattern('scopes/prose', [
             'content' => $page->text(),
             'proseModifiers' => $proseModifiers

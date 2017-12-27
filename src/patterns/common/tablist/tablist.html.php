@@ -1,12 +1,9 @@
-<nav class="c-tablist">
+<nav class="c-tablist" aria-label="<?= $title ?>">
+    <ul class="c-tablist__items">
 <?php foreach (sections() as $section): ?>
-    <?php
-        $currentURL = '/routes/section:'.param('section');
-        $currentView = $section['url'];
-        $current = ($currentURL == $currentView) ? 'aria-current="page"': null;
-    ?>
-    <a class="c-tablist__item" href="<?= $section['url'] ?>?view=<?= get('view') ?>" aria-label="<?= $section['label'] ?>" <?= $current ?>>
-        <?= $section['title'] ?>
-    </a>
+        <li class="c-tablist__item">
+            <a href="<?= $section['url'] ?>?view=<?= get('view') ?>" aria-label="<?= $section['label'] ?>"<?php e($currentURL == $section['url'], ' aria-current="page"') ?>><?= $section['title'] ?></a>
+        </li>
 <?php endforeach ?>
+    </ul>
 </nav>
