@@ -4,7 +4,7 @@ snippet('head');
 pattern('common/traversal-nav');
 
 pattern('common/page/header', [
-    'pretitle' => 'A descriptive guide to places in',
+    'pretitle' => 'A descriptive guide to',
     'title' => $page->title(),
     'modifiers' => ['index']
 ]);

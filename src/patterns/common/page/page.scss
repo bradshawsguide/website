@@ -10,10 +10,6 @@
   padding-right: var(--page-gutter);
   padding-left: var(--page-gutter);
 
-  > * {
-    outline: 10px solid red;
-  }
-
   &::after {
     height: 5px;
     width: 100%;
