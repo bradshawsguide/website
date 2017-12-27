@@ -37,11 +37,15 @@ if (get('view') == 'map') {
     ]);
 
     foreach ($companies as $company) {
-        pattern('common/section/list', [
-            'title' => html::a($company->url(), $company->title()),
-            'items' => $company->routes()->filterBy('section', param('section')),
-            'component' => 'common/route-item'
-        ]);
+        $items = $company->routes()->filterBy('section', param('section'));
+
+        if (count($items)) {
+            pattern('common/section/list', [
+                'title' => html::a($company->url(), $company->title()),
+                'items' => $items,
+                'component' => 'common/route-item'
+            ]);
+        }
     }
 }
 

@@ -51,10 +51,6 @@ $__line-height-relaxed: 1.6667;
 $__border-width-thin: 1px;
 $__border-width-thick: 2px;
 
-// Values
-$__text-indent: 1.5rem;
-$__gutter: 1.5rem;
-
 // Breakpoints
 $__breakpoint-xsmall: 320px;
 $__breakpoint-small: 480px;
@@ -77,6 +73,11 @@ $__z-index-default: 1;
 $__z-index-overlay: 1000;
 $__z-index-backdrop: 8000;
 $__z-index-modal: 9000;
+
+// Values
+$__text-indent: $__space-large;
+$__gutter-x: $__space-large;
+$__gutter-y: ($__gutter-x * 1.5);
 
 // Rules
 $__rule: $__border-width-thin solid $__color-neutral-alpha;

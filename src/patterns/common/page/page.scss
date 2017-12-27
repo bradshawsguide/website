@@ -4,7 +4,7 @@
   grid-auto-flow: row;
   grid-auto-rows: auto;
   flex: 1 0 auto;
-  grid-column-gap: $__gutter;
+  grid-column-gap: $__gutter-x;
   grid-template-columns: [page-start body-start] 3fr [body-end aside-start] 2fr [aside-end page-end];
   grid-template-rows: [page-start header-start] auto [header-end main-start] auto [main-end footer-start] 1fr [footer-end page-end];
   padding-right: var(--page-gutter);
@@ -32,7 +32,7 @@
 .c-page__header {
   grid-area: header / page;
   margin: 0 calc(var(--page-gutter) * -1);
-  padding: 3vw var(--page-gutter);
+  padding: $__gutter-y var(--page-gutter);
 
   &.c-page__header--index {
     text-align: center;
@@ -72,7 +72,7 @@
 
 .c-page__content {
   grid-area: main / page;
-  margin-bottom: $__space-xlarge;
+  margin-bottom: $__gutter-y;
 }
 
 // Page layouts
