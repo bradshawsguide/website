@@ -20,7 +20,7 @@ pattern('common/section-nav');
 echo $sectionTitle.'<br>';
 echo $sectionDesc;
 
-pattern('common/tablist');
+pattern('common/switch');
 
 if (get('view') == 'map') {
     pattern('common/map', [

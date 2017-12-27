@@ -15,11 +15,11 @@
     ];
 ?>
 
-<nav class="c-tabs">
-    <p class="c-tabs__list">
+<nav class="c-switch">
+    <p class="c-switch__list">
     <?php foreach ($viewTabs as $viewTab): ?>
         <?php $viewURL = url($viewTab['href']) ?>
-        <a class="c-tabs__label" href="<?= $viewTab['href'] ?>"<?php e($currentURL == $viewURL, ' aria-current="page"') ?>>
+        <a class="c-switch__label" href="<?= $viewTab['href'] ?>"<?php e($currentURL == $viewURL, ' aria-current="page"') ?>>
             <?= $viewTab['label'] ?>
         </a>
     <?php endforeach ?>

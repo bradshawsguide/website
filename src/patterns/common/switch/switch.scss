@@ -1,4 +1,4 @@
-.c-tabs {
+.c-switch {
   @include typeset("label");
   font-variant-caps: all-small-caps;
   display: flex;
@@ -6,7 +6,7 @@
   padding-bottom: $__space-medium;
 }
 
-.c-tabs__list {
+.c-switch__list {
   --link-decoration: none;
   display: inline-flex;
   justify-content: center;
@@ -14,7 +14,7 @@
   border: 1px solid $__color-crimson;
 }
 
-.c-tabs__label {
+.c-switch__label {
   flex: 1;
   display: inline-block;
   padding: $__space-xsmall $__space-medium;
@@ -27,7 +27,7 @@
     color: white;
   }
 
-  + .c-tabs__label {
+  + .c-switch__label {
     border-left: 1px solid $__color-crimson;
   }
 }
