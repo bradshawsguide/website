@@ -19,7 +19,7 @@ if (array_key_exists(($stopKey + 1), $stops)) {
 ?>
 
 <nav class="c-route-traversal<?php if ($currentRoute == $route->uid()): ?> c-route-traversal--current<?php endif ?>">
-    <?= brick('h'.$level)->html($title)->attr('class', 'c-route-traversal__title') ?>
+    <?= brick('h'.$level)->html($title)->addClass('c-route-traversal__title') ?>
 
     <?php if (isset($prev)): ?>
         <a class="c-route-traversal__prev" rel="prev" href="<?= $prev->url() ?>?route=<?= $route->uid() ?>" aria-label="Previous station: <?= $prev->title()?>">

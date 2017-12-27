@@ -10,7 +10,11 @@
     text-indent: $__text-indent;
   }
 
-  h3 {
+  * + h3 {
+    margin-top: $__space-xlarge;
+  }
+
+  h3:not([class]) {
     @include typeset("heading");
 
     &::after {
@@ -18,11 +22,7 @@
     }
   }
 
-  * + h3 {
-    margin-top: $__space-large;
-  }
-
-  h4 {
+  h4:not([class]) {
     @include typeset("prose");
     margin-top: $__space-large;
     font-variant-caps: small-caps;
@@ -210,17 +210,17 @@
 
 .s-prose--route {
   position: relative;
-  margin-bottom: $__space-medium;
-  box-shadow: inset 0.125rem 0 0 $__color-neutral-lighter;
-  padding: $__space-xxsmall $__space-small;
+  border-left: 0.25rem solid $__color-neutral-lighter;
+  padding-left: $__space-medium;
+  padding-bottom: $__space-xxsmall;
 
   &::before,
-  &::after {
+  &::after { // Termini
     display: block;
     position: absolute;
-    left: -0.4375rem;
-    width: 1rem;
-    height: 0.125rem;
+    left: -0.625rem;
+    width: $__space-medium;
+    height: 0.25rem;
     background-color: $__color-neutral-lighter;
     content: "";
   }
@@ -233,21 +233,17 @@
     bottom: 0;
   }
 
-  .branch {
-    position: relative;
-    margin-left: ($__space-small * -2);
-    padding-left: ($__space-large + $__text-indent);
+  .c-place {
+    margin-left: ($__space-small * -1);
 
-    &::after {
+    &::before {
       display: block;
       position: absolute;
-      top: 0;
-      left: $__space-small;
-      width: 1.25rem;
-      height: 1.5rem;
-      border: solid $__color-neutral-lighter;
-      border-bottom-left-radius: 1rem;
-      border-width: 0 0 0.125rem 0.125rem;
+      left: (0.25rem * -1);
+      top: $__space-large;
+      height: 0.25rem;
+      width: 0.25rem;
+      background-color: $__color-neutral-lighter;
       content: "";
     }
   }

@@ -1,7 +1,7 @@
 <article class="c-result">
     <a class="c-result__body" href="<?= $item->url() ?>">
         <header class="c-result__header">
-            <?= brick('h'.$level)->html($item->title())->attr('class', 'c-result__title') ?>
+            <?= brick('h'.$level)->html($item->title())->addClass('c-result__title') ?>
         </header>
 
         <div class="c-result__main">

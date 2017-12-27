@@ -1,5 +1,5 @@
 <section class="c-section c-section--route-traversal">
-    <?= brick('h'.$level)->html($title)->attr('class', 'c-section__title') ?>
+    <?= brick('h'.$level)->html($title)->addClass('c-section__title') ?>
     <?php
         foreach ($routes as $route) {
             pattern('common/route-traversal', [

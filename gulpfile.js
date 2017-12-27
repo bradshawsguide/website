@@ -89,8 +89,8 @@ function watch() {
   gulp.watch(paths.src + 'fonts', fonts);
   gulp.watch(paths.src + 'icons', icons);
   gulp.watch(paths.src + 'vectors', vectors);
-  gulp.watch(paths.src + '**/*.js', scripts);
-  gulp.watch(paths.src + '**/*.scss', styles);
+  gulp.watch('src/patterns/**/*.js', scripts);
+  gulp.watch('src/patterns/**/*.scss', styles);
 }
 
 // Task sets
