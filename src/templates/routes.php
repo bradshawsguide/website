@@ -15,7 +15,7 @@ pattern('common/page/header', [
     'modifiers' => ['index']
 ]);
 
-pattern('common/section-nav');
+pattern('common/tablist');
 
 echo $sectionTitle.'<br>';
 echo $sectionDesc;

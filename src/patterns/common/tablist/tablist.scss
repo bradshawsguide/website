@@ -1,4 +1,4 @@
-.c-section-nav {
+.c-tablist {
   --link-decoration: none;
   display: flex;
   box-shadow: inset 0 -1px 0 $__color-neutral-alpha;
@@ -6,7 +6,7 @@
   color: $__color-neutral-mid;
 }
 
-.c-section-nav__item {
+.c-tablist__item {
   flex: 1;
   padding: $__space-medium 0;
   text-align: center;
