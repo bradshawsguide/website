@@ -88,7 +88,6 @@
     font-weight: if($font-weight, $font-weight, bold);
     font-variant: common-ligatures discretionary-ligatures proportional-nums;
     line-height: if($line-height, $line-height, $__line-height-default);
-    text-rendering: optimizeLegibility;
   }
 
   @else if $preset == "heading" {
@@ -97,7 +96,6 @@
     font-weight: bold;
     font-variant: common-ligatures discretionary-ligatures proportional-nums;
     line-height: if($line-height, $line-height, $__line-height-default);
-    text-rendering: optimizeLegibility;
   }
 
   @else if $preset == "display0" {
@@ -109,7 +107,6 @@
     );
     font-family: $__font-family-slab;
     line-height: if($line-height, $line-height, $__line-height-reset);
-    text-rendering: optimizeLegibility;
   }
 
   @else if $preset == "display1" {
@@ -122,7 +119,6 @@
     font-family: $__font-family-serif;
     letter-spacing: -0.025em;
     line-height: if($line-height, $line-height, $__line-height-reset);
-    text-rendering: optimizeLegibility;
   }
 
   @else if $preset == "display2" {
@@ -134,21 +130,13 @@
     );
     font-family: $__font-family-block;
     line-height: if($line-height, $line-height, $__line-height-reset);
-    text-rendering: optimizeLegibility;
     text-transform: uppercase;
   }
 
   @else if $preset == "display3" {
-    @include fluid-type(
-      $__breakpoint-xsmall,
-      $__breakpoint-medium,
-      $__font-size-display-small,
-      $__font-size-display-medium
-    );
-    font-family: $__font-family-block;
+    font-size: $__font-size-display-small;
+    font-family: $__font-family-serif;
     line-height: if($line-height, $line-height, $__line-height-reset);
-    text-rendering: optimizeLegibility;
-    text-transform: uppercase;
   }
 
   @else if $preset == "poster" {
@@ -160,7 +148,6 @@
     );
     font-family: $__font-family-block;
     line-height: if($line-height, $line-height, $__line-height-reset);
-    text-rendering: optimizeLegibility;
     text-transform: uppercase;
   }
 

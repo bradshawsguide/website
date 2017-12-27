@@ -1,49 +1,20 @@
 .c-place {
   position: relative;
-  margin: $__space-medium ($__space-small * -1) $__space-medium ($__space-small * -2);
+  overflow: hidden;
+  margin: $__space-medium 0;
   padding: $__space-small;
-  padding-left: ($__space-large + $__text-indent);
-  background-color: $__color-neutral-lighter;
+  background-color: white;
+  outline: 1px solid rgba($__color-neutral-darkest, 0.1);
+  box-shadow: 0 4px 12px 0 rgba($__color-neutral-darkest, 0.1);
+  transition-duration: 0.15s;
+  transition-property: box-shadow, margin, padding;
 
-  &::before,
-  &::after {
-    display: block;
-    position: absolute;
-    color: $__color-neutral-light;
-    content: "";
-  }
-
-  &::before { // |
-    top: 0;
-    bottom: 0;
-    left: $__space-small;
-    width: 0.125rem;
-    background-color: currentColor;
-  }
-
-  &::after { // o
-    top: $__space-large;
-    left: 0.3125rem;
-    height: 1rem;
-    width: 1rem;
-    border: 0.125rem solid;
-    border-radius: 100%;
-    margin-top: (0.5rem * -1);
-    background-color: $__color-neutral-lighter;
+  &:hover {
+    box-shadow: 0 8px 24px 0 rgba($__color-neutral-darkest, 0.25);
   }
 
   &:hover .c-place__title {
     text-decoration: underline;
-  }
-}
-
-.c-place--branch {
-  margin-left: $__space-medium;
-  padding-left: $__space-small;
-
-  &::before,
-  &::after {
-    content: none;
   }
 }
 

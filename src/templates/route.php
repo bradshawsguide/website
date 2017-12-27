@@ -19,7 +19,9 @@ pattern('common/page/header', [
     'subtitle' => $page->subtitle()
 ]);
 
-pattern('common/page/content');
+pattern('common/page/content', [
+    'proseModifiers' => ['route']
+]);
 
 pattern('common/section/text', [
     'title' => 'Further reading',

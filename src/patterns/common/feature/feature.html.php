@@ -2,7 +2,7 @@
     <a class="c-feature__body" href="<?= $item->url() ?>">
         <header class="c-feature__header">
             <p class="c-feature__parent"><?= $item->parent()->title() ?></p>
-            <?= brick('h'.(isset($level) ? $level : 3))->html($item->title())->attr('class', 'c-feature__title') ?>
+            <?= brick('h'.$level)->html($item->shortTitle())->attr('class', 'c-feature__title') ?>
         </header>
 
         <?php if ($item->hasImages()): ?>
