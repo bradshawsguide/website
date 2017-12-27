@@ -25,11 +25,14 @@ if (count($page->featured())) {
 };
 
 if ($page->uid() != 'channel-islands') {
-    pattern('common/section/list', [
-        'title' => $page->listTitle(),
-        'items' => $page->children(),
-        'display' => 'columns'
-    ]);
+    $items = $page->children();
+    if (count($items)) {
+        pattern('common/section/list', [
+            'title' => $page->listTitle(),
+            'items' => $items,
+            'display' => 'columns'
+        ]);
+    }
 }
 
 snippet('foot');

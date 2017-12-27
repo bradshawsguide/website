@@ -1,7 +1,4 @@
 <?php
-if (get('view') == null) {
-    go($page->uri().'/section:'.param('section').'?view=list');
-};
 if (param('section') == null) {
     go($page->uri().'/section:1');
 };
