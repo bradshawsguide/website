@@ -76,6 +76,10 @@
 }
 
 // Page layouts
+.c-page--routes {
+  .c-map { grid-area: footer / page; }
+}
+
 .c-page--route {
   .c-map { grid-area: header -1 / page; }
 }

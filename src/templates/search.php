@@ -6,9 +6,10 @@ pattern('common/page/header', [
 ]);
 
 if (count($results)) {
-    pattern('common/section/results', [
+    pattern('common/section/list', [
         'title' => $results->pagination()->items().' pages found',
-        'results' => $results
+        'items' => $results,
+        'component' => 'common/result'
     ]);
 
     pattern('common/pagination', [

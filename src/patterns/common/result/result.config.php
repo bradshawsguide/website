@@ -2,6 +2,7 @@
 
 return [
     'defaults' => [
-        'result' => page('routes/london-bridge-to-brighton')
+        'level' => 3,
+        'item' => page('routes/london-bridge-to-brighton')
     ]
 ];

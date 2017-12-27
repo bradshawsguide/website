@@ -1,19 +1,19 @@
 <article class="c-result">
-    <a class="c-result__body" href="<?= $result->url() ?>">
+    <a class="c-result__body" href="<?= $item->url() ?>">
         <header class="c-result__header">
-            <?= brick('h'.(isset($level) ? $level : 3))->html($result->title())->attr('class', 'c-result__title') ?>
+            <?= brick('h'.$level)->html($item->title())->attr('class', 'c-result__title') ?>
         </header>
 
         <div class="c-result__main">
             <?php
                 pattern('scopes/text', [
-                    'content' => !$result->desc()->empty() ? $result->desc() : excerpt($result->text(), $length=240)
+                    'content' => !$item->desc()->empty() ? $item->desc() : excerpt($item->text(), $length=240)
                 ]);
             ?>
         </div>
 
         <footer class="c-result__footer">
-            <p><?= str::ucfirst($result->intendedTemplate()) ?></p>
+            <p><?= str::ucfirst($item->intendedTemplate()) ?></p>
         </footer>
     </a>
 </article>

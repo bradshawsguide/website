@@ -1,7 +1,5 @@
 .s-text {
   @include typeset("text");
-
-  --flow-space: 0.5em;
   max-width: 70ch;
   hyphens: auto;
   word-break: break-word;
