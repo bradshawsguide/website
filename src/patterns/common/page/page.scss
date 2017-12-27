@@ -6,9 +6,13 @@
   flex: 1 0 auto;
   grid-column-gap: $__gutter;
   grid-template-columns: [page-start body-start] 3fr [body-end aside-start] 2fr [aside-end page-end];
-  grid-template-rows: [page-start header-start] auto [header-end main-start] 1fr [main-end footer-start] auto [footer-end page-end];
+  grid-template-rows: [page-start header-start] auto [header-end main-start] auto [main-end footer-start] 1fr [footer-end page-end];
   padding-right: var(--page-gutter);
   padding-left: var(--page-gutter);
+
+  > * {
+    outline: 10px solid red;
+  }
 
   &::after {
     height: 5px;

@@ -4,7 +4,7 @@ snippet('head');
 pattern('common/traversal-nav');
 
 pattern('common/page/header', [
-    'pretitle' => 'A descriptive guide to',
+    'pretitle' => 'A descriptive guide to places in',
     'title' => $page->title(),
     'modifiers' => ['index']
 ]);
@@ -24,10 +24,12 @@ if (count($page->featured())) {
     ]);
 };
 
-pattern('common/section/list', [
-    'title' => 'Places in '.$page->title(),
-    'items' => $page->children(),
-    'display' => 'columns'
-]);
+if ($page->uid() != 'channel-islands') {
+    pattern('common/section/list', [
+        'title' => $page->listTitle(),
+        'items' => $page->children(),
+        'display' => 'columns'
+    ]);
+}
 
 snippet('foot');
