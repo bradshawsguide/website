@@ -1,6 +1,6 @@
 <?php
 
-$page = page('places/england/sussex/brighton');
+$page = page('about');
 
 return [
     'defaults' => [

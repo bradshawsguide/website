@@ -1,6 +1,6 @@
 <?php
     $currentSection = param('section', 1);
-    $currentURL = $kirby->request()->url();
+    $currentURL = kirby()->request()->url();
     $viewTabs = [
         array(
             'href' => '/'.$page->uri().'/section:'.$currentSection.'?view=list',

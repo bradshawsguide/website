@@ -8,6 +8,7 @@ pattern('common/traversal-nav');
 if (!$page->stops()->empty()) {
     pattern('common/map', [
         'url' => $page->uri().'.geojson/',
+        'title' => 'Map of this route',
         'class' => 'cover'
     ]);
 }

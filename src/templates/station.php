@@ -15,11 +15,13 @@ if (!$page->place()->empty()) {
     ]);
 }
 
-pattern('common/section/route-traversal', [
-    'title' => 'Routes serving this station',
-    'level' => 3,
-    'routes' => $page->routes()
-]);
+if ($page->routes()) {
+    pattern('common/section/route-traversal', [
+        'title' => 'Routes serving this station',
+        'level' => 3,
+        'routes' => $page->routes()
+    ]);
+}
 
 pattern('common/section/text', [
     'title' => 'Further reading',

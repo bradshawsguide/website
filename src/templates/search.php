@@ -12,12 +12,15 @@ if (count($results)) {
         'component' => 'common/result'
     ]);
 
-    pattern('common/pagination', [
-        'pagination' => $results->pagination()
-    ]);
+    if ($results->pagination()->hasPages()) {
+        pattern('common/pagination', [
+            'pagination' => $results->pagination()
+        ]);
+    }
 } else {
-    pattern('common/section/results', [
-        'title' => 'No matches found'
+    pattern('common/section/text', [
+        'title' => 'No matches found',
+        'text' => 'Make sure that all words are spelled correctly, or try using different keywords.'
     ]);
 }
 

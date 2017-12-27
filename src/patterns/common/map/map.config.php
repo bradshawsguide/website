@@ -2,6 +2,7 @@
 
 return [
     'defaults' => [
-        'url' => '/routes'
+        'url' => '/routes.geojson/section:1',
+        'title' => 'Map'
     ]
 ];

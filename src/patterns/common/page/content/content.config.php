@@ -1,8 +1,10 @@
 <?php
 
+$page = page('about');
+
 return [
     'defaults' => [
-        'page' => page('places/england/sussex/brighton'),
+        'page' => $page,
         'proseModifiers' => null
     ]
 ];

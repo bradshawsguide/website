@@ -8,8 +8,10 @@ kirbytext::$tags['navigation'] = array(
             $items = $tag->page()->siblings();
         }
 
-        return pattern('scopes/navigation', [
-            'items' => $items
-        ], true);
+        if (count($items)) {
+            return pattern('scopes/navigation', [
+                'items' => $items
+            ], true);
+        }
     }
 );

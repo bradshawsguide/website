@@ -10,7 +10,8 @@ pattern('common/page/header', [
 foreach (page('places')->children() as $country) {
     pattern('common/section/list', [
         'title' => html::a($country->url(), smartypants($country->title())),
-        'items' => $country->children()
+        'items' => $country->children(),
+        'display' => 'columns'
     ]);
 }
 

@@ -1,10 +1,11 @@
 <?php
 
-$page = page('routes/london-bridge-to-brighton');
+$page = page('stations/brighton');
 
 return [
     'defaults' => [
+        'level' => 3,
         'title' => $page->title(),
-        'route' => $page
+        'route' => page('places/england/sussex/brighton')->routes()[0]
     ]
 ];

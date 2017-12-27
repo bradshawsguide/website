@@ -9,9 +9,11 @@ pattern('common/page/header', [
     'modifiers' => ['index']
 ]);
 
-pattern('common/page/content', [
-    'proseModifiers' => ['centered']
-]);
+if (!$page->text()->empty()) {
+    pattern('common/page/content', [
+        'proseModifiers' => ['centered']
+    ]);
+}
 
 if (count($page->featured())) {
     pattern('common/section/list', [
@@ -24,7 +26,8 @@ if (count($page->featured())) {
 
 pattern('common/section/list', [
     'title' => 'Places in '.$page->title(),
-    'items' => $page->children()
+    'items' => $page->children(),
+    'display' => 'columns'
 ]);
 
 snippet('foot');

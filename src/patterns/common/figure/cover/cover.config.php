@@ -2,6 +2,6 @@
 
 return [
     'defaults' => [
-        'image' => page('about')->image(),
+        'image' => page('places/england/sussex/brighton')->image(),
     ]
 ];

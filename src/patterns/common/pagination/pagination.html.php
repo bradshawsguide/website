@@ -1,4 +1,3 @@
-<?php if ($pagination->hasPages()): ?>
 <nav class="c-pagination">
     <?php if ($pagination->hasPrevPage()): ?>
         <a class="c-pagination__prev" rel="prev" href="<?= $pagination->prevPageURL() ?>" aria-label="Previous results page">Previous</a>
@@ -16,4 +15,3 @@
         <span class="c-pagination__prev" aria-hidden="true">Next</span>
     <?php endif ?>
 </nav>
-<?php endif ?>
