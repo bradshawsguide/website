@@ -1,5 +1,55 @@
 .c-pagination {
   --link-decoration: none;
+  grid-area: auto / page;
+  margin-bottom: $__gutter-y;
   border-top: $__rule;
-  padding: $__space-xxsmall 0 $__space-small;
+}
+
+.c-pagination__items {
+  display: flex;
+  justify-content: center;
+}
+
+.c-pagination__item {
+  > * {
+    display: block;
+    padding: $__space-medium;
+  }
+
+  [aria-current] {
+    box-shadow: inset 0 2px 0 $__color-neutral-light;
+    font-weight: 600;
+  }
+
+  [aria-hidden] {
+    opacity: 0.5;
+  }
+}
+
+.c-pagination__item:first-child {
+  margin-right: auto;
+
+  > * {
+    padding-left: 0;
+  }
+
+  > *::before {
+    font-family: serif;
+    line-height: 0;
+    content: "\261C\0020"; // ☜
+  }
+}
+
+.c-pagination__item:last-child {
+  margin-left: auto;
+
+  > * {
+    padding-right: 0;
+  }
+
+  > *::after {
+    font-family: serif;
+    line-height: 0;
+    content: "\0020\261E"; // ☞
+  }
 }
