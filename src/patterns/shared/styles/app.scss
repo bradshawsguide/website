@@ -13,7 +13,9 @@
 @import "vendor/**/*.scss";
 
 // Patterns (components, scopes)
-@import "../../patterns/**/*.scss";
+@import "../../global/**/*.scss";
+@import "../../common/**/*.scss";
+@import "../../scopes/**/*.scss";
 
 // Vendor components
 @import "utilities/**/*.scss";

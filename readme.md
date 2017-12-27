@@ -44,43 +44,36 @@ To run with HTTPS locally on macOS, you should follow the setup [as described he
 
 ```
 bradshawsguide
-├── etc               # CONFIGURATION
-│   ├── nginx         # Nginx server
-│   └── (ssl)         # SSL certificates (ignored by git)
+├── etc                # CONFIGURATION
+│   ├── nginx          # Nginx server
+│   └── (ssl)          # SSL certificates (ignored by git)
 │
-├── src               # SOURCE
-│   ├── assets
-│   │   ├── fonts     # Web fonts
-│   │   ├── icons     # Favicon and home screen icons
-│   │   ├── scripts   # Global JavaScript files
-│   │   ├── styles    # Global CSS files
-│   │   └── vectors   # Global SVG images
-│   │
-│   ├── config        # Kirby configuration
-│   ├── [content]     # Site content [submodule]
-│   ├── controllers   # Template controllers
-│   ├── models        # Page models
-│   ├── patterns      # Template patterns
-│   ├── plugins       # Kirby plugins
-│   ├── snippets      # Template snippets
-│   ├── tags          # Kirbytext tags
-│   └── templates     # Templates
+├── src                # SOURCE
+│   ├── config         # Kirby configuration
+│   ├── [content]      # Site content [submodule]
+│   ├── controllers    # Template controllers
+│   ├── models         # Page models
+│   ├── patterns       # Template patterns
+│   ├── plugins        # Kirby plugins
+│   ├── snippets       # Template snippets
+│   ├── tags           # Kirbytext tags
+│   └── templates      # Templates
 │
-├── www               # COMPILED/RUNTIME
-│   ├── (assets)      # Compiled assets (ignored by git)
-│   ├── (cache)       # Cache files (ignored by git)
-│   ├── [kirby]       # Kirby [submodule]
-│   ├── (thumbs)      # Thumbnail cache (ignored by git)
-│   └── index.php     # Kirby launch script
+├── www                # COMPILED/RUNTIME
+│   ├── (assets)       # Compiled assets (ignored by git)
+│   ├── (cache)        # Cache files (ignored by git)
+│   ├── [kirby]        # Kirby [submodule]
+│   ├── (thumbs)       # Thumbnail cache (ignored by git)
+│   └── index.php      # Kirby launch script
 │
-├── .editorconfig     # Text editor preferences
-├── .gitignore        # List of files not tracked by git
-├── .gitmodules       # List of submodules tracked by git
-├── gulpfile.js       # Configuration file for Gulp
-├── package-lock.json # Package lock file
-├── package.json      # Package manifest
-├── LICENSE           # License
-└── README.md         # This file
+├── .editorconfig      # Text editor preferences
+├── .gitignore         # List of files not tracked by git
+├── .gitmodules        # List of submodules tracked by git
+├── gulpfile.js        # Configuration file for Gulp
+├── package-lock.json  # Package lock file
+├── package.json       # Package manifest
+├── LICENSE            # Project license
+└── readme.md          # This file
 ```
 
 © 2013 [Paul Robert Lloyd](https://paulrobertlloyd.com)

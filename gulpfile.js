@@ -17,53 +17,39 @@ const rollup = require('./etc/gulp/rollup');
 
 // Paths
 const paths = {
-  src: {
-    assets: 'src/assets/',
-    root: 'src/'
-  },
-  dest: {
-    assets: 'www/assets/',
-    root: 'www/'
-  }
+  src: 'src/patterns/shared/',
+  dest: 'www/assets/'
 };
 
 // Tasks
 function clean() {
-  return del([paths.dest.assets]);
+  return del([paths.dest]);
 }
 
 function fonts() {
-  return gulp.src(paths.src.assets + 'fonts/**/*')
-    .pipe(gulp.dest(paths.dest.assets + 'fonts'));
+  return gulp.src(paths.src + 'fonts/**/*')
+    .pipe(gulp.dest(paths.dest + 'fonts'));
 }
 
 function icons() {
-  return gulp.src(paths.src.assets + 'icons/**/*')
+  return gulp.src(paths.src + 'icons/**/*')
     .pipe(imagemin())
-    .pipe(gulp.dest(paths.dest.assets + 'icons'));
-}
-
-function images() {
-  return gulp.src(paths.src.root + 'content/**/*.{jpg,png}', {
-    base: './'
-  })
-    .pipe(imagemin())
-    .pipe(gulp.dest('.'));
+    .pipe(gulp.dest(paths.dest + 'icons'));
 }
 
 function vectors() {
-  return gulp.src(paths.src.assets + 'vectors/**/*')
-    .pipe(gulp.dest(paths.dest.assets + 'vectors'));
+  return gulp.src(paths.src + 'vectors/**/*')
+    .pipe(gulp.dest(paths.dest + 'vectors'));
 }
 
 function scripts(callback) {
   const modules = [{
-    input: paths.src.assets + 'scripts/app.js',
-    file: paths.dest.assets + 'app.js',
+    input: paths.src + 'scripts/app.js',
+    file: paths.dest + 'app.js',
     name: 'app'
   }, {
-    input: paths.src.assets + 'scripts/map.js',
-    file: paths.dest.assets + 'map.js',
+    input: paths.src + 'scripts/map.js',
+    file: paths.dest + 'map.js',
     name: 'map'
   }];
 
@@ -77,7 +63,7 @@ function styles() {
     })
   ];
 
-  return gulp.src(paths.src.assets + 'styles/*.scss')
+  return gulp.src(paths.src + 'styles/*.scss')
     .pipe(sourcemaps.init())
     .pipe(sassGlob())
     .pipe(sass({
@@ -85,7 +71,7 @@ function styles() {
     }).on('error', sass.logError))
     .pipe(postcss(processors))
     .pipe(sourcemaps.write('./'))
-    .pipe(gulp.dest(paths.dest.assets))
+    .pipe(gulp.dest(paths.dest))
     .pipe(browserSync.stream({
       match: '**/*.css'
     }));
@@ -100,15 +86,15 @@ function sync() {
 }
 
 function watch() {
-  gulp.watch(paths.src.assets + 'fonts', fonts);
-  gulp.watch(paths.src.assets + 'icons', icons);
-  gulp.watch(paths.src.assets + 'vectors', vectors);
-  gulp.watch(paths.src.root + '**/*.js', scripts);
-  gulp.watch(paths.src.root + '**/*.scss', styles);
+  gulp.watch(paths.src + 'fonts', fonts);
+  gulp.watch(paths.src + 'icons', icons);
+  gulp.watch(paths.src + 'vectors', vectors);
+  gulp.watch(paths.src + '**/*.js', scripts);
+  gulp.watch(paths.src + '**/*.scss', styles);
 }
 
 // Task sets
-const compile = gulp.series(clean, gulp.parallel(fonts, icons, images, vectors, scripts, styles));
+const compile = gulp.series(clean, gulp.parallel(fonts, icons, vectors, scripts, styles));
 
-gulp.task('build', compile);
-gulp.task('start', gulp.series(compile, gulp.parallel(watch, sync)));
+gulp.task('start', compile);
+gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));
