@@ -10,11 +10,11 @@
     text-indent: $__text-indent;
   }
 
-  * + h3 {
+  * + h2 {
     margin-top: $__space-xlarge;
   }
 
-  h3:not([class]) {
+  h2:not([class]) {
     @include typeset("heading");
 
     &::after {
@@ -22,7 +22,7 @@
     }
   }
 
-  h4:not([class]) {
+  h3:not([class]) {
     @include typeset("heading");
     margin-top: $__space-xsmall;
     margin-bottom: $__space-xsmall;

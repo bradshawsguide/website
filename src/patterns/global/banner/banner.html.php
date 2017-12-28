@@ -8,7 +8,7 @@
         </span>
     <?php else: ?>
         <a class="c-banner__homelink" href="<?= url() ?>" rel="home">
-            Bradshaw’s <span class="u-hidden@small">Guide</span>
+            Bradshaw’s <span>Guide</span>
         </a>
     <?php endif ?>
     </p>

@@ -7,6 +7,8 @@ patterns
 ├── common             # Components that may appear anywhere
 ├── global             # Components that appear on every page
 ├── scopes             # Components that style undecorated markup
+├── utilities          # CSS utility helpers
+├── vendor             # Components supporting third-party libraries
 ├── shared
 │   ├── fonts          # Web fonts
 │   ├── icons          # Favicon and home screen icons

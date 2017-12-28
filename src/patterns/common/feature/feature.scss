@@ -2,6 +2,7 @@ $_card-growth: $__space-xxsmall;
 
 .c-feature {
   display: flex;
+  flex: 1;
   flex-direction: column;
   position: relative;
   overflow: hidden;
@@ -16,12 +17,6 @@ $_card-growth: $__space-xxsmall;
     margin: ($_card-growth * -1);
     padding: $_card-growth;
   }
-}
-
-.c-feature__body {
-  --link-decoration: none;
-  display: flex;
-  flex: 1;
 }
 
 .c-feature__header {

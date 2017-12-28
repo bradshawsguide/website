@@ -1,7 +1,7 @@
 <?php
 snippet('head');
 
-pattern('common/traversal-nav');
+pattern('common/traverse');
 
 pattern('common/page/header', [
     'pretitle' => 'A descriptive guide to',

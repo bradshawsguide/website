@@ -3,7 +3,7 @@ snippet('head', [
     'alternate' => $page->url().'.geojson'
 ]);
 
-pattern('common/traversal-nav');
+pattern('common/traverse');
 
 if (!$page->stops()->empty()) {
     pattern('common/map', [
