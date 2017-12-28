@@ -1,4 +1,4 @@
-<section class="c-section c-section--route-traversal">
+<section class="<?= classList('c-section', $modifiers) ?>">
     <?= brick('h'.$level)->html($title)->addClass('c-section__title') ?>
     <?php
         foreach ($routes as $route) {
