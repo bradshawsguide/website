@@ -136,7 +136,6 @@
   @else if $preset == "display3" {
     font-size: $__font-size-display-small;
     font-family: $__font-family-serif;
-    line-height: if($line-height, $line-height, $__line-height-reset);
   }
 
   @else if $preset == "poster" {

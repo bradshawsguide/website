@@ -23,10 +23,9 @@
   }
 
   h4:not([class]) {
-    @include typeset("prose");
-    margin-top: $__space-large;
-    font-variant-caps: small-caps;
-    text-align: center;
+    @include typeset("heading");
+    margin-top: $__space-xsmall;
+    margin-bottom: $__space-xsmall;
   }
 
   hr {
@@ -212,7 +211,6 @@
   position: relative;
   border-left: 0.25rem solid $__color-neutral-lighter;
   padding-left: $__space-medium;
-  padding-bottom: $__space-xxsmall;
 
   &::before,
   &::after { // Termini
@@ -231,18 +229,22 @@
 
   &::after { // ┻
     bottom: 0;
+    margin-bottom: -0.25rem;
+  }
+
+  p + p {
+    margin-top: $__space-small;
+    text-indent: 0;
   }
 
   .c-place {
-    margin-left: ($__space-small * -1);
-
     &::before {
       display: block;
       position: absolute;
-      left: (0.25rem * -1);
+      left: ($__space-medium * -1);
       top: $__space-large;
       height: 0.25rem;
-      width: 0.25rem;
+      width: $__space-medium;
       background-color: $__color-neutral-lighter;
       content: "";
     }

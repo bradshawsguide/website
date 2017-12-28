@@ -88,14 +88,3 @@
 .c-page--place {
   .c-figure--cover { grid-area: header -1 / page; }
 }
-
-.c-page--company {
-  .c-section--list { grid-area: footer / body; }
-  .c-section--text { grid-area: auto / body; }
-  .c-map { grid-area: footer / aside; }
-}
-
-.c-page--station {
-  .c-feature { grid-area: main / aside; }
-  .c-map { grid-area: auto / page; }
-}

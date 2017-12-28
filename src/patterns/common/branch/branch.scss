@@ -4,7 +4,6 @@
   margin-bottom: $__gutter-y;
   border-left: 0.25rem solid $__color-neutral-lighter;
   padding-left: $__space-medium;
-  padding-bottom: $__space-xxsmall;
 
   &::before,
   &::after {
@@ -27,6 +26,7 @@
     left: -0.625rem;
     width: $__space-medium;
     height: 0.25rem;
+    margin-bottom: -0.25rem;
     background-color: $__color-neutral-lighter;
   }
 

@@ -2,14 +2,6 @@
 
 class CompanyPage extends Page
 {
-    // Provide a list of stations served by this company
-    public function stations()
-    {
-        $stations = page('stations')->children()->filterBy('company', '==', $this->uid());
-
-        return $stations;
-    }
-
     // Provide a list of routes served by this company
     public function routes()
     {
@@ -19,5 +11,21 @@ class CompanyPage extends Page
         $routes = page('routes')->children()->filterBy('company', '==', $this->uid());
 
         return $routes;
+    }
+
+    // Provide a list of stations served by this company
+    public function stations()
+    {
+        foreach ($this->routes() as $route) {
+            $stations[] = array_flatten($route->stops()->yaml());
+        };
+
+        $stations = array_flatten($stations);
+
+        array_walk($stations, function (&$value, $key) {
+            $value = page('stations/'.$value);
+        });
+
+        return $stations;
     }
 }

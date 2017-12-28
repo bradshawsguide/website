@@ -28,7 +28,7 @@ if (get('view') == 'map') {
     pattern('common/map', [
         'url' => $page->uri().'.geojson/'.$kirby->request()->params(),
         'title' => 'Routes plotted on a map',
-        'class' => 'cover'
+        'modifiers' => ['cover']
     ]);
 } else {
     pattern('common/section/list', [

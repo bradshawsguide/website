@@ -1,8 +1,8 @@
 <article class="c-place" id="<?= $place->uid() ?>">
-    <?=
+    <?php
         $title = html::a($place->url(), $place->title());
-        $suffix = ($suffix != null) ? ' ('.$suffix.')' : null;
-        brick('h'.$level)->html($title.$suffix)->addClass('c-place__title');
+        $suffix = isset($suffix) ? ' ('.$suffix.')' : '';
+        echo brick('h'.$level)->html($title.$suffix)->addClass('c-place__title');
     ?>
 
     <?php

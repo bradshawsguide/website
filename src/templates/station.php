@@ -23,15 +23,15 @@ if ($page->routes()) {
     ]);
 }
 
-pattern('common/section/text', [
-    'title' => 'Further reading',
-    'text' => $page->links()
-]);
-
 pattern('common/map', [
     'url' => $page->uri().'.geojson/'.$kirby->request()->params().'&zoom=14',
     'title' => 'Location of this station',
-    'class' => 'cover'
+    'modifiers' => ['cover']
+]);
+
+pattern('common/section/text', [
+    'title' => 'Further reading',
+    'text' => $page->links()
 ]);
 
 snippet('foot');

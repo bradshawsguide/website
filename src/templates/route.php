@@ -9,7 +9,7 @@ if (!$page->stops()->empty()) {
     pattern('common/map', [
         'url' => $page->uri().'.geojson/',
         'title' => 'Map of this route',
-        'class' => 'cover'
+        'modifiers' => ['cover']
     ]);
 }
 
@@ -23,9 +23,11 @@ pattern('common/page/content', [
     'proseModifiers' => ['route']
 ]);
 
-pattern('common/section/text', [
-    'title' => 'Further reading',
-    'text' => $page->links()
-]);
+if (!$page->links()->empty()) {
+    pattern('common/section/text', [
+        'title' => 'Further reading',
+        'text' => $page->links()
+    ]);
+}
 
 snippet('foot');

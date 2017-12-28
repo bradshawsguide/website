@@ -1,7 +1,6 @@
 .c-route {
   position: relative;
   margin: $__space-medium 0;
-  margin-left: $__space-xsmall;
   padding: $__space-xsmall $__space-small;
   outline: 1px solid $__color-neutral-lighter;
 
@@ -9,8 +8,8 @@
     display: block;
     position: absolute;
     top: 0;
-    left: -28px;
-    width: 1.75rem;
+    left: -20px;
+    width: 1.25rem;
     height: 1.5rem;
     border: solid $__color-neutral-lighter;
     border-bottom-left-radius: 1rem;

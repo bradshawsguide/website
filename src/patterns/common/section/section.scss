@@ -1,7 +1,7 @@
 .c-section {
   grid-area: auto / page;
   margin-bottom: $__gutter-y;
-  box-shadow: inset 0 1px 0 $__color-neutral-alpha;
+  box-shadow: 0 -1px 0 $__color-neutral-alpha;
 
   .s-prose {
     --flow-space: $__space-medium;
