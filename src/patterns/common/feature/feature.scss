@@ -2,7 +2,8 @@ $_card-growth: $__space-xxsmall;
 
 .c-feature {
   display: flex;
-  flex: 1;
+  flex-direction: column;
+  position: relative;
   overflow: hidden;
   background-color: white;
   outline: 1px solid rgba($__color-neutral-darkest, 0.1);
@@ -21,10 +22,11 @@ $_card-growth: $__space-xxsmall;
   --link-decoration: none;
   display: flex;
   flex: 1;
-  flex-direction: column;
 }
 
 .c-feature__header {
+  display: flex;
+  flex-direction: column-reverse;
   padding: $__space-xsmall;
 }
 
@@ -38,7 +40,19 @@ $_card-growth: $__space-xxsmall;
 
 .c-feature__title {
   @include typeset("display3");
-  color: $__color-link;
+
+  --link-decoration: none;
+
+  a::before {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    outline: 1px solid red;
+    content: "";
+  }
 }
 
 .c-feature__main {
