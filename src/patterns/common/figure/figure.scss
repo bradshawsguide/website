@@ -39,6 +39,7 @@ $banner-height: 5rem;
 // Bleed to the edges of the viewport
 .c-figure--cover {
   margin-right: calc(var(--page-gutter) * -1);
+  margin-bottom: $__gutter-y;
   margin-left: calc(var(--page-gutter) * -1);
 
   .c-figure__img {

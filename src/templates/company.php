@@ -16,16 +16,16 @@ pattern('common/section/list', [
     'component' => 'common/route-item'
 ]);
 
-pattern('common/section/list', [
-    'title' => 'All stations',
-    'items' => $page->stations(),
-    'display' => 'columns'
-]);
-
 pattern('common/map', [
     'url' => $page->uri().'.geojson',
     'title' => 'Network map',
     'modifiers' => ['cover']
+]);
+
+pattern('common/section/list', [
+    'title' => 'All stations',
+    'items' => $page->stations(),
+    'display' => 'columns'
 ]);
 
 pattern('common/section/text', [

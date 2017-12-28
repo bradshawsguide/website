@@ -1,12 +1,8 @@
 .c-page {
   position: relative;
-  display: grid;
-  grid-auto-flow: row;
-  grid-auto-rows: auto;
+  display: flex;
+  flex-direction: column;
   flex: 1 0 auto;
-  grid-column-gap: $__gutter-x;
-  grid-template-columns: [page-start body-start] 3fr [body-end aside-start] 2fr [aside-end page-end];
-  grid-template-rows: [page-start header-start] auto [header-end main-start] auto [main-end footer-start] 1fr [footer-end page-end];
   padding-right: var(--page-gutter);
   padding-left: var(--page-gutter);
 
@@ -30,7 +26,6 @@
 }
 
 .c-page__header {
-  grid-area: header / page;
   margin: 0 calc(var(--page-gutter) * -1);
   padding: $__gutter-y var(--page-gutter);
 
@@ -71,20 +66,25 @@
 }
 
 .c-page__content {
-  grid-area: main / page;
   margin-bottom: $__gutter-y;
 }
 
 // Page layouts
-.c-page--routes {
-  .c-map { grid-area: footer / page; }
+.c-page--place {
+  .c-figure--cover {
+    order: -1;
+    margin-bottom: 0;
+  }
 }
 
 .c-page--route {
-  .c-traverse { grid-area: header -2 / page; }
-  .c-map { grid-area: header -1 / page; }
+  .c-map--cover {
+    margin-bottom: 0;
+  }
 }
 
-.c-page--place {
-  .c-figure--cover { grid-area: header -1 / page; }
+.c-page--routes {
+  .c-switch {
+    margin: ($__space-large * -1) auto $__space-medium;
+  }
 }

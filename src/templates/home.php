@@ -1,6 +1,12 @@
 <?php
 snippet('head');
 
+if ($image = $page->image('cover.jpg')) {
+    pattern('common/figure/cover', [
+        'image' => $image
+    ]);
+}
+
 foreach (sections() as $section) {
     $routesCount = count($section['routes']);
     $continue = brick('p');

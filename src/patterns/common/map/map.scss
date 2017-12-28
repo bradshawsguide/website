@@ -8,5 +8,6 @@
   height: 60vh;
   width: 100vw;
   margin-right: calc(var(--page-gutter) * -1);
+  margin-bottom: $__gutter-y;
   margin-left: calc(var(--page-gutter) * -1);
 }

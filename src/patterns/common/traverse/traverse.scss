@@ -2,8 +2,6 @@
   --link-decoration: none;
   position: relative;
   z-index: 1;
-  grid-area: header -1 / page;
-  grid-auto-flow: row dense;
   background-color: $__color-neutral-lighter;
   margin: 0 calc(var(--page-gutter) * -1);
   color: $__color-neutral-mid;
