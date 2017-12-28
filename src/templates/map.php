@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="stylesheet" href="/assets/map.css"/>
+        <link rel="stylesheet" href="/assets/map.css">
         <script src="/assets/map.js"></script>
     </head>
     <body>

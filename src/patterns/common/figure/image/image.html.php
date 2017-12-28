@@ -5,7 +5,7 @@
             srcset="<?= $image->crop(600, 800, 80)->url() ?> 600w, <?= $image->crop(300, 400, 80)->url() ?> 300w, <?= $image->crop(150, 200, 80)->url() ?> 150w"
             src="<?= $image->crop(150, 200, 80)->url() ?>"
             sizes="(max-width: 640px) 100vw, 18em"
-            alt=""/>
+            alt="">
     </div>
 <?php else: ?>
     <div class="c-figure__img u-artwork" style="background-image: url(<?= $image->crop(3, 2)->dataUri() ?>)">
@@ -13,7 +13,7 @@
             srcset="<?= $image->crop(1200, 800, 80)->url() ?> 1280w, <?= $image->crop(600, 400, 80)->url() ?> 640w, <?= $image->crop(300, 200, 80)->url() ?> 320w"
             src="<?= $image->crop(300, 200, 80)->url() ?>"
             sizes="100vw"
-            alt=""/>
+            alt="">
     </div>
 <?php endif ?>
 <?php if (!$image->caption()->empty()): ?>

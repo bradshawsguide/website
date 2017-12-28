@@ -18,5 +18,5 @@
     })();
 </script>
 <noscript>
-    <img src="https://analytics.paulrobertlloyd.com/piwik.php?idsite=2" alt="" hidden/>
+    <img src="https://analytics.paulrobertlloyd.com/piwik.php?idsite=2" alt="" hidden>
 </noscript>
