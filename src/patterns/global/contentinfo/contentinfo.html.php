@@ -13,6 +13,13 @@
                 'size' => 24
             ]) ?>
         </a>
+        <a rel="me" href="https://github.com/bradshawsguide">
+            <?php pattern('common/icon', [
+                'glyph' => 'github',
+                'label' => 'Contribute on GitHub',
+                'size' => 24
+            ]) ?>
+        </a>
         <a rel="me" href="https://foursquare.com/bradshawsguide">
             <?php pattern('common/icon', [
                 'glyph' => 'foursquare',
