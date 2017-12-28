@@ -1,8 +1,17 @@
 <?php
+
+// Redirect
+$view = (get('view') == true) ? get('view') : 'list';
+
 if (param('section') == null) {
-    go($page->uri().'/section:1');
+    go($page->uri().'/section:1?view='.$view);
 };
 
+if (get('view') == null) {
+    go($page->uri().'/section:'.param('section').'?view=list');
+};
+
+// Page content
 snippet('head', [
     'alternate' => $page->url().'.geojson'.'/section:'.param('section')
 ]);
@@ -13,7 +22,6 @@ pattern('common/page/header', [
 ]);
 
 pattern('common/tablist', [
-    'title' => 'Sections',
     'currentURL' => '/routes/section:'.param('section')
 ]);
 

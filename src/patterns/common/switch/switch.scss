@@ -5,31 +5,37 @@
   padding-bottom: $__space-medium;
 }
 
-.c-switch__list {
+.c-switch__items {
   --link-decoration: none;
-  display: inline-flex;
-  justify-content: center;
-  width: max-content;
+  display: flex;
   border: 1px solid $__color-neutral-light;
 }
 
-.c-switch__label {
-  flex: 1;
-  display: inline-block;
-  box-shadow: inset 0 -1px 0 $__color-neutral-alpha;
-  background-color: rgba(white, 0.75);
-  padding: $__space-small $__space-medium;
-  white-space: nowrap;
-  color: $__color-neutral-dark;
+.c-switch__item {
+  a {
+    display: block;
+    box-shadow: inset 0 -1px 0 $__color-neutral-alpha;
+    background-color: rgba(white, 0.75);
+    padding: $__space-small $__space-medium;
+    color: $__color-neutral-dark;
 
-  &[aria-current] {
+    &:hover {
+      color: $__color-link-hover;
+    }
+
+    &:active {
+      color: $__color-link-active;
+    }
+  }
+
+  a[aria-current] {
     box-shadow: inset 0 1px 0 $__color-neutral-alpha;
     background-color: $__color-neutral-alpha;
     font-weight: bold;
     letter-spacing: -0.03125rem;
   }
 
-  + .c-switch__label {
+  + .c-switch__item {
     border-left: 1px solid $__color-neutral-light;
   }
 }
