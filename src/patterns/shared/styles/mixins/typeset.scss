@@ -40,7 +40,7 @@
 @mixin typeset($preset, $line-height: null, $font-weight: null) {
   @if $preset == "label" {
     font-family: $__font-family-sans;
-    font-size: $__font-size-text-medium;
+    font-size: $__font-size-text-small;
     font-weight: if($font-weight, $font-weight, normal);
     font-variant: proportional-nums;
     line-height: if($line-height, $line-height, $__line-height-baseline);

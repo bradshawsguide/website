@@ -1,6 +1,5 @@
 .c-switch {
   @include typeset("label");
-  font-variant-caps: all-small-caps;
   display: flex;
   justify-content: space-between;
   padding-bottom: $__space-medium;
@@ -11,23 +10,26 @@
   display: inline-flex;
   justify-content: center;
   width: max-content;
-  border: 1px solid $__color-crimson;
+  border: 1px solid $__color-neutral-light;
 }
 
 .c-switch__label {
   flex: 1;
   display: inline-block;
-  padding: $__space-xsmall $__space-medium;
+  box-shadow: inset 0 -1px 0 $__color-neutral-alpha;
+  background-color: rgba(white, 0.75);
+  padding: $__space-small $__space-medium;
   white-space: nowrap;
+  color: $__color-neutral-dark;
 
   &[aria-current] {
-    background-color: $__color-crimson;
-    font-weight: 600;
+    box-shadow: inset 0 1px 0 $__color-neutral-alpha;
+    background-color: $__color-neutral-alpha;
+    font-weight: bold;
     letter-spacing: -0.03125rem;
-    color: white;
   }
 
   + .c-switch__label {
-    border-left: 1px solid $__color-crimson;
+    border-left: 1px solid $__color-neutral-light;
   }
 }

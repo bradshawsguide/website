@@ -37,6 +37,12 @@ function icons() {
     .pipe(gulp.dest(paths.dest + 'icons'));
 }
 
+function images() {
+  return gulp.src(paths.src + 'images/**/*')
+    .pipe(imagemin())
+    .pipe(gulp.dest(paths.dest + 'images'));
+}
+
 function vectors() {
   return gulp.src(paths.src + 'vectors/**/*')
     .pipe(gulp.dest(paths.dest + 'vectors'));
@@ -88,13 +94,14 @@ function sync() {
 function watch() {
   gulp.watch(paths.src + 'fonts', fonts);
   gulp.watch(paths.src + 'icons', icons);
+  gulp.watch(paths.src + 'images', images);
   gulp.watch(paths.src + 'vectors', vectors);
   gulp.watch('src/patterns/**/*.js', scripts);
   gulp.watch('src/patterns/**/*.scss', styles);
 }
 
 // Task sets
-const compile = gulp.series(clean, gulp.parallel(fonts, icons, vectors, scripts, styles));
+const compile = gulp.series(clean, gulp.parallel(fonts, icons, images, vectors, scripts, styles));
 
 gulp.task('start', compile);
 gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));

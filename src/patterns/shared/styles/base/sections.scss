@@ -26,6 +26,9 @@ body {
   height: 100%;
   margin: 0;
   background-color: $__color-neutral-lightest;
+  background-image: url("/assets/images/body.png");
+  background-repeat: repeat;
+  background-size: 8rem;
   font-family: $__font-family-sans;
   color: $__color-neutral-darkest;
 }
