@@ -24,8 +24,15 @@
 
   h3:not([class]) {
     @include typeset("heading");
-    margin-top: $__space-xsmall;
+    font-variant-caps: all-small-caps;
+    letter-spacing: 0.025em;
+    margin-top: $__space-large;
     margin-bottom: $__space-xsmall;
+    opacity: 0.8;
+  }
+
+  h2 + h3:not([class]) {
+    margin-top: $__space-xsmall;
   }
 
   hr {
