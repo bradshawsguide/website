@@ -18,7 +18,7 @@ module.exports = (modules, logger, callback) => {
         babel({
           exclude: 'node_modules/**'
         }),
-        uglify()
+        // uglify()
       ]
     })
     .then(bundle => {

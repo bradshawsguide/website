@@ -40,19 +40,3 @@
     letter-spacing: -0.03125rem;
   }
 }
-
-.c-navigation__item--search {
-  order: -1;
-  margin-left: 0;
-
-  @media (min-width: $__breakpoint-medium) {
-    margin-right: auto;
-  }
-
-  .c-icon::after {
-    @media (min-width: $__breakpoint-medium) {
-      content: "Search";
-      margin-left: $__space-xxsmall;
-    }
-  }
-}

@@ -1,6 +1,6 @@
 export default function () {
   const $ = document.querySelector.bind(document);
-  const button = $('.c-search__button--geo');
+  const button = $('.c-search__geo');
 
   // If geolocation not supported, remove button
   if (!('geolocation' in navigator)) {
