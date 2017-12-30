@@ -9,6 +9,11 @@ geo();
 
 const $ = document.querySelector.bind(document);
 toggler({
-  toggleWith: $('.c-search__toggle'),
+  toggleWith: $('[aria-controls="search"]'),
   dismissWith: $('.c-search__dismiss')
+});
+
+toggler({
+  toggleWith: $('[aria-controls="navigation"]'),
+  dismissWith: $('.c-navigation__dismiss')
 });

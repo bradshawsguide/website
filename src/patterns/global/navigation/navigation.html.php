@@ -1,11 +1,12 @@
-<nav class="c-navigation" aria-label="Main navigation">
+<nav class="c-navigation" id="navigation" aria-label="Menu" hidden>
     <ul class="c-navigation__list">
-    <?php foreach ($pages->find('places', 'routes') as $page): ?>
+    <?php foreach ($pages->find($items) as $item): ?>
         <li class="c-navigation__item">
-            <a href="<?= $page->url() ?>" aria-label="<?= $page->title() ?>"<?php e($page->isOpen(), ' aria-current="page"') ?>>
-            <?= $page->title_short(); ?>
+            <a href="<?= $item->url() ?>"<?php e($item->isOpen(), ' aria-current="page"') ?>>
+                <?= $item->title(); ?>
             </a>
         </li>
     <?php endforeach ?>
     </ul>
+    <button class="c-navigation__dismiss" type="button" aria-label="Dismiss menu">✕</button>
 </nav>

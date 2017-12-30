@@ -50,6 +50,15 @@
 </head>
 
 <body<?= isset($class) ? ' class="'.$class.'"' : null; ?>>
-    <?php pattern('global/banner') ?>
+    <?php
+        if ($page->isHomePage()) {
+            pattern('common/masthead');
+        } else {
+            pattern('global/banner');
+        }
 
-    <main class="c-page c-page--<?= $page->template() ?>">
+        pattern('global/navigation');
+        pattern('global/search');
+    ?>
+
+    <main class="c-page c-page--<?= $page->template() ?>" id="main">

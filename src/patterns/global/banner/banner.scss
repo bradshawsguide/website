@@ -2,95 +2,62 @@
   --link-color: currentColor;
   --link-color-hover: $__color-mustard;
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-between;
   flex: 0 0 auto;
   padding: 0 var(--page-gutter);
   background-color: $__color-neutral-darkest;
-  text-rendering: optimizeLegibility;
-  text-transform: uppercase;
-  color: $__color-mustard;
-
-  @media (min-width: $__breakpoint-medium) {
-    justify-content: center;
-    text-align: center;
-  }
 }
 
-.c-banner--home {
-  flex-direction: column;
-  padding-top: calc(5vh + 5rem);
-  padding-bottom: 5vh;
-}
-
-.c-banner__masthead {
-  > span {
-    display: block;
-    line-height: 1;
-  }
-
-  > span:nth-child(1) {
-    font-family: $__font-family-block;
-    font-size: 10vw;
-  }
-
-  > span:nth-child(2) {
-    font-family: $__font-family-serif;
-    margin-bottom: 0.875em;
-    color: $__color-neutral-lighter;
-  }
-
-  > span:nth-child(3) {
-    font-family: $__font-family-slab;
-    font-size: 3.5vw;
-    font-weight: bold;
-    color: $__color-neutral-lightest;
-  }
-}
-
-.c-banner__edition {
-  display: flex;
-  align-items: center;
-  margin-top: 1vw;
-  font: italic 1.125rem/1 $__font-family-serif;
-  text-transform: capitalize;
-  color: $__color-neutral-lighter;
-
-  @media (min-width: $__breakpoint-medium) {
-    justify-content: center;
-
-    &::before,
-    &::after {
-      display: block;
-      background-color: currentColor;
-      width: 5vw;
-      height: 1px;
-      content: "";
-    }
-
-    &::before {
-      margin-right: $__space-xsmall;
-    }
-
-    &::after {
-      margin-left: $__space-xsmall;
-    }
-  }
-}
-
-.c-banner__homelink {
+.c-banner__home {
   --link-decoration: none;
   display: block;
-  padding: $__space-large 0 $__space-medium;
-  font: 2rem/0.5 $__font-family-block;
+  padding: $__space-medium;
+  font: 2rem/2.5rem $__font-family-block;
   white-space: nowrap;
-
-  @media (min-width: $__breakpoint-medium) {
-    padding-top: $__space-xlarge;
-  }
+  text-transform: uppercase;
+  color: $__color-mustard;
 
   span {
     @media (max-width: $__breakpoint-small) {
       @include visually-hidden;
     }
+  }
+}
+
+.c-banner__toggle {
+  @include typeset("label");
+  color: $__color-neutral-lightest;
+
+  &[aria-controls="search"] {
+    order: -1;
+  }
+}
+
+.c-banner__skip {
+  @include typeset("label");
+  display: block;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: $__z-index-overlay;
+  margin: 0 auto;
+  background-color: white;
+  padding: $__space-small;
+  transform: translateY(0);
+  white-space: nowrap;
+
+  &:hover {
+    color: $__color-link-hover;
+  }
+
+  &:active {
+    color: $__color-link-active;
+  }
+
+  &:not(:focus) {
+    @include visually-hidden;
+    transform: translateY(-100%);
+    transition: transform 0.5s ease-out;
   }
 }
