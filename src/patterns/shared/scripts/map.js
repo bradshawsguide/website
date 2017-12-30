@@ -40,8 +40,13 @@ export default function (el, url) {
     });
   };
 
-  const featureStyle = {
-    color: '#d63636'
+  const featureStyle = function (feature) {
+    const prop = feature.properties || {};
+
+    return {
+      color: '#d63636',
+      weight: prop['stroke-width']
+    };
   };
 
   const featurePopup = function (feature, layer) {
@@ -83,8 +88,7 @@ export default function (el, url) {
         const currentZoom = map.getZoom();
 
         geoJSONLayer.setStyle({
-          radius: currentZoom * (1 / 3),
-          weight: currentZoom * (1 / 3)
+          radius: currentZoom * (1 / 3)
         });
       });
     });

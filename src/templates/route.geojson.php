@@ -21,7 +21,8 @@ $features[] = [
     ],
     'properties' => [
         'title' => (string) $page->title(),
-        'url' => (string) $page->url()
+        'url' => (string) $page->url(),
+        'stroke-width' => 4
     ]
 ];
 
@@ -29,7 +30,7 @@ $features[] = [
 foreach (array_flatten($stops) as $stop) {
     $page = page('stations/'.$stop);
 
-    if ($page->place()) {
+    if (!$page->place()->empty()) {
         $markerSize = 'large';
     } else {
         $markerSize = 'small';

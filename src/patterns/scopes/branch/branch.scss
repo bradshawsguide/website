@@ -1,4 +1,4 @@
-.c-branch {
+.s-branch {
   position: relative;
   margin-top: $__space-large;
   margin-bottom: $__gutter-y;
@@ -30,7 +30,7 @@
     background-color: $__color-neutral-lighter;
   }
 
-  h3 {
+  h3:not([class]) {
     @include typeset("heading");
     text-transform: uppercase;
     letter-spacing: 0.025em;

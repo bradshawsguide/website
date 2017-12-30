@@ -24,7 +24,8 @@ foreach ($page->routes() as $route) {
         ],
         'properties' => [
             'title' => (string) $route->title(),
-            'url' => (string) $route->url()
+            'url' => (string) $route->url(),
+            'stroke-width' => 4
         ]
     ];
 
@@ -32,7 +33,7 @@ foreach ($page->routes() as $route) {
     foreach (array_flatten($stops) as $stop) {
         $page = page('stations/'.$stop);
 
-        if ($page->place()) {
+        if (!$page->place()->empty()) {
             $markerSize = 'large';
         } else {
             $markerSize = 'small';

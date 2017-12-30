@@ -134,8 +134,12 @@
   }
 
   @else if $preset == "display3" {
-    font-size: $__font-size-display-small;
-    font-family: $__font-family-serif;
+    font-size: $__font-size-display-medium;
+    font-family: $__font-family-slab;
+    font-variant-caps: all-small-caps;
+    font-weight: bold;
+    letter-spacing: 0.05rem;
+    line-height: 1;
   }
 
   @else if $preset == "poster" {
