@@ -1,9 +1,6 @@
 <?php
 
 kirbytext::$tags['wikipedia'] = array(
-    'attr' => array(
-        'text'
-    ),
     'html' => function ($tag) {
         $text = $tag->attr('wikipedia');
         $text = urldecode($text);

@@ -1,4 +1,10 @@
-<dl class="c-route" id="<?= $route->uid() ?>">
-    <dt class="c-route__title"><?= html::a($route->url(), $route->lineTitle()) ?></dt>
-    <dd class="c-route__desc"><?= kirbytextRaw($route->title()) ?></dd>
-</dl>
+<article class="c-route" id="<?= $route->uid() ?>">
+    <?php
+        $title = html::a($route->url(), $route->lineTitle());
+        echo brick('h'.$level)->html($title)->addClass('c-route__title');
+
+        pattern('scopes/text', [
+            'content' => $route->title()
+        ]);
+    ?>
+</article>

@@ -1,7 +1,7 @@
 .s-branch {
   position: relative;
   margin-top: $__space-large;
-  margin-bottom: $__gutter-y;
+  margin-bottom: $__space-large;
   border-left: 0.25rem solid $__color-neutral-lighter;
   padding-left: $__space-medium;
 
@@ -28,11 +28,5 @@
     height: 0.25rem;
     margin-bottom: -0.25rem;
     background-color: $__color-neutral-lighter;
-  }
-
-  h3:not([class]) {
-    @include typeset("heading");
-    text-transform: uppercase;
-    letter-spacing: 0.025em;
   }
 }

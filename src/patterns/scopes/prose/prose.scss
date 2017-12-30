@@ -22,7 +22,8 @@
     }
   }
 
-  h3:not([class]) {
+  h3:not([class]),
+  summary {
     @include typeset("heading");
     font-variant-caps: all-small-caps;
     letter-spacing: 0.025em;

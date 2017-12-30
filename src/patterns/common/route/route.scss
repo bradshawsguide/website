@@ -20,20 +20,20 @@
 
 .c-route__title {
   @include typeset("heading");
-  text-transform: uppercase;
-  letter-spacing: 0.025em;
+
+  a::before {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    content: "";
+  }
 
   &::after {
     content: "\0020\261E";
     font-family: serif;
   }
-}
-
-.c-route__desc {
-  @include typeset("text");
-  display: block;
-  margin-top: $__space-xxsmall;
-  margin-left: 0;
-  text-decoration: none;
-  color: initial;
 }
