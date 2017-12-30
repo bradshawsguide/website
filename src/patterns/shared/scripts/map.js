@@ -88,7 +88,8 @@ export default function (el, url) {
         const currentZoom = map.getZoom();
 
         geoJSONLayer.setStyle({
-          radius: currentZoom * (1 / 3)
+          radius: currentZoom * (1 / 3),
+          weight: currentZoom * (1 / 3)
         });
       });
     });
