@@ -29,10 +29,6 @@ body {
   background-color: $__color-neutral-darkest;
   font-family: $__font-family-sans;
   color: $__color-neutral-darkest;
-
-  &[data-modal="true"] {
-    overflow: hidden;
-  }
 }
 
 h1,

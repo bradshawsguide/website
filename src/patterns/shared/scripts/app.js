@@ -7,14 +7,16 @@ import toggler from './modules/toggler';
 loadWebfonts();
 geo();
 
-const $ = document.querySelector.bind(document);
+const inertEls = ['.c-banner', '.c-page', '.c-contentinfo'];
+
 toggler({
-  toggleWith: $('[aria-controls="search"]'),
-  dismissWith: $('.c-search__dismiss')
+  openWith: '[aria-controls="search"]',
+  dismissWith: '.c-search__dismiss',
+  inertEls
 });
 
 toggler({
-  toggleWith: $('[aria-controls="navigation"]'),
-  dismissWith: $('.c-navigation__dismiss'),
-  modal: true
+  openWith: '[aria-controls="navigation"]',
+  dismissWith: '.c-navigation__dismiss',
+  inertEls
 });
