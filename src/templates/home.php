@@ -13,8 +13,6 @@ foreach (sections() as $section) {
 
     if ($routesCount > 0) {
         $continue->html(html::a($section['url'], $routesCount.' routes'));
-    } else {
-        $continue->html(kirbytext('*Coming soon*'));
     }
 
     $title = brick('a');

@@ -59,10 +59,6 @@ if (count($routes)) {
             }
         }
     }
-} else {
-    pattern('scopes/text', [
-        'content' => '*Routes for this section will be added soon*'
-    ]);
 }
 
 snippet('foot');
