@@ -26,4 +26,12 @@ foreach (sections() as $section) {
     ]);
 };
 
+pattern('common/section/list', [
+    'title' => 'Best Of The Guide',
+    'modifiers' => ['offset'],
+    'items' => $page->featured(),
+    'component' => 'common/feature',
+    'display' => 'grid'
+]);
+
 snippet('foot');

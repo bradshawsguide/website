@@ -22,6 +22,7 @@ if (count($results)) {
         'title' => 'No matches found',
         'text' => 'Make sure that all words are spelled correctly, or try using different keywords.'
     ]);
+    pattern('common/search');
 }
 
 snippet('foot');
