@@ -1,6 +1,4 @@
 @mixin focus {
-  position: relative;
-  z-index: 1;
   outline: 0;
   box-shadow:
     0 0 0 1px $__color-mustard,

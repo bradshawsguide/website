@@ -19,7 +19,7 @@ export default function (opts) {
     const inertEls = Dialog.inertEls;
 
     this.dialogEl.hidden = false;
-    this.dialogEl.removeAttribute('aria-hidden');
+    this.dialogEl.setAttribute('aria-hidden', false);
 
     this.focusedElBeforeOpen = document.activeElement;
 

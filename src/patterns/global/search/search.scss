@@ -34,10 +34,6 @@
   background: none;
   font-size: 1rem; // Prevent form zooming
 
-  &:focus {
-    box-shadow: inset 0 -1px 0 $__color-neutral-lightest;
-  }
-
   .has-js & {
     padding-right: 4rem;
   }
@@ -51,10 +47,15 @@
   height: 4rem;
   width: 4rem;
   padding: $__space-large;
+
+  &:focus {
+    @include focus;
+  }
 }
 
 .c-search__submit {
   right: 4rem;
+  background-image: linear-gradient(to right, rgba($__color-neutral-darkest, 0), $__color-neutral-darkest 40%);
 }
 
 .c-search__geo {
