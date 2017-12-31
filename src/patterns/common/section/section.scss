@@ -17,7 +17,7 @@
 .c-section__title {
   @include typeset("display2");
 
-  --link-color: currentColor;
+  --color-link: currentColor;
   --link-decoration: none;
   padding-top: $__space-small;
   padding-bottom: $__space-small;

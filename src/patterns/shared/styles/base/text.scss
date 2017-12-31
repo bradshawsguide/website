@@ -7,15 +7,15 @@
 a {
   background-color: transparent; // [1]
   text-decoration: var(--link-decoration, underline);
-  color: $__color-link;
+  color: var(--color-link);
 
   &:hover {
     text-decoration: var(--link-decoration, underline);
-    color: $__color-link-hover;
+    color: var(--color-link-hover);
   }
 
   &:active {
-    color: $__color-link-active;
+    color: var(--color-link-active);
   }
 
   &:focus {

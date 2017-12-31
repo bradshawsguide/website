@@ -9,22 +9,6 @@ summary {
   display: block;
 }
 
-// Style summary text as a link
-summary {
-  text-decoration: var(--link-decoration, underline);
-  color: var(--link-color);
-  cursor: pointer;
-
-  &:hover {
-    text-decoration: var(--link-decoration, underline);
-    color: var(--link-color-hover);
-  }
-
-  &:active {
-    color: var(--link-color-active);
-  }
-}
-
 // Add correct display in IE 10-
 [hidden] {
   display: none;
