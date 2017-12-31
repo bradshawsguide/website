@@ -1,7 +1,6 @@
 .c-masthead {
   flex-direction: column;
-  padding-top: 4vh;
-  padding-bottom: 8vh;
+  padding: 4vh var(--page-gutter) 8vh;
   background-color: $__color-neutral-darkest;
   color: $__color-mustard;
 

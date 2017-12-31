@@ -8,7 +8,9 @@
                 alt="">
         </div>
     </div>
+<?php if (!$image->caption()->empty()): ?>
     <figcaption class="c-figure__caption">
         <?= smartypants(kirbytext($image->caption())) ?>
     </figcaption>
+<?php endif ?>
 </figure>

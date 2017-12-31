@@ -25,4 +25,5 @@
 .c-contentinfo__rights {
   @include typeset("caption");
   flex: 1 1 auto;
+  margin-bottom: $__space-xsmall;
 }
