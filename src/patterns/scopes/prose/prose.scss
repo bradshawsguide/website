@@ -90,19 +90,17 @@
   }
 
   blockquote {
-    margin-bottom: 0.75em;
-    margin-left: 10%;
+    margin: $__space-large 10% $__space-large;
     font-size: 85%;
     line-height: 1.4;
 
     hr {
-      margin-top: -1.5em;
-      margin-bottom: 1.5em;
+      margin: $__space-small 0;
       border: 0;
 
       &::after {
         display: block;
-        height: 0;
+        line-height: 0;
         letter-spacing: 1.5em;
         content: "\00A0 ∗ ∗ ∗ ∗ ";
       }
@@ -119,8 +117,8 @@
 
     + p > cite {
       display: block;
-      margin-top: -0.75rem;
-      margin-bottom: 0.75rem;
+      margin-top: ($__space-small * -1);
+      margin-bottom: $__space-medium;
       font-size: 75%;
       font-style: normal;
       font-variant-caps: small-caps;
