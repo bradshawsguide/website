@@ -69,7 +69,7 @@ class PlacePage extends Page
             'lat' => $point->lat(),
             'lng' => $point->lng(),
             'radius' => 50
-        ])->limit(4);
+        ])->limit(3);
 
         return $nearby;
     }

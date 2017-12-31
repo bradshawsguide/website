@@ -23,12 +23,14 @@ $_card-growth: $__space-xxsmall;
   display: flex;
   flex-direction: column-reverse;
   padding: $__space-xsmall;
+  padding-bottom: 0;
 }
 
 .c-feature__parent {
   @include typeset("prose");
 
   --font-size-prose: $__font-size-text-small;
+  margin-bottom: ($__space-xxsmall * -1);
   font-style: italic;
   color: $__color-neutral-mid;
 }

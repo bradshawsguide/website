@@ -17,7 +17,7 @@ if ($image = $page->image('cover.jpg')) {
 
 pattern('common/page/content');
 
-if ($page->location()) {
+if (count($page->nearby())) {
     pattern('common/section/list', [
         'title' => 'Places nearby',
         'modifiers' => ['offset'],

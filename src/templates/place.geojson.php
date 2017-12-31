@@ -9,7 +9,8 @@ $properties = [
 $feature = [
     'type' => 'Feature',
     'geometry' => generatePoint($page),
-    'properties' => $properties
+    'properties' => $properties,
+    'marker-size' => 'large'
 ];
 
 // Encode array as JSON
