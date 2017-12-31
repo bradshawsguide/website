@@ -15,5 +15,6 @@ toggler({
 
 toggler({
   toggleWith: $('[aria-controls="navigation"]'),
-  dismissWith: $('.c-navigation__dismiss')
+  dismissWith: $('.c-navigation__dismiss'),
+  modal: true
 });

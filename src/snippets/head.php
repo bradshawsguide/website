@@ -51,11 +51,11 @@
 
 <body<?= isset($class) ? ' class="'.$class.'"' : null; ?>>
     <?php
+        pattern('global/banner');
+
         if ($page->isHomePage()) {
             pattern('common/masthead');
-        } else {
-            pattern('global/banner');
-        }
+        };
 
         pattern('global/navigation');
         pattern('global/search');

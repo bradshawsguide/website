@@ -13,6 +13,7 @@ textarea {
   overflow: visible; // [1]
   margin: 0; // [2]
   font: inherit; // [3]
+  color: inherit;
 }
 
 // 1. Correct inability to style clickable types in Safari

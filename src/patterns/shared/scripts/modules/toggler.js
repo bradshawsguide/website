@@ -2,6 +2,7 @@ export default function (opts) {
   // Options
   const toggleButton = opts.toggleWith;
   const dismissButton = opts.dismissWith;
+  const modal = opts.modal || false;
 
   // Set up
   const targetName = toggleButton.getAttribute('aria-controls');
@@ -11,10 +12,20 @@ export default function (opts) {
     if (state === 'true') { // Show search
       target.setAttribute('aria-hidden', false);
       target.hidden = false;
+
+      if (modal === true) {
+        document.body.dataset.modal = true;
+      }
     } else { // Hide search
       target.setAttribute('aria-hidden', true);
       target.hidden = true;
+
+      if (modal === true) {
+        document.body.dataset.modal = false;
+      }
     }
+
+    console.log(state);
 
     // …and only then update the attribute for `aria-expanded`
     toggleButton.setAttribute('aria-expanded', state);

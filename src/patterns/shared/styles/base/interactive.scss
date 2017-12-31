@@ -29,3 +29,14 @@ summary {
 [hidden] {
   display: none;
 }
+
+// Add style for inert elements
+[inert] {
+  pointer-events: none;
+  cursor: default;
+}
+
+[inert],
+[inert] * {
+  user-select: none;
+}

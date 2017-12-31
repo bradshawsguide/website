@@ -2,17 +2,17 @@
   --link-color: currentColor;
   --link-color-hover: $__color-mustard;
   display: flex;
+  align-items: center;
   justify-content: space-between;
   flex: 0 0 auto;
-  padding: 0 var(--page-gutter);
   background-color: $__color-neutral-darkest;
+  color: $__color-neutral-lightest;
 }
 
 .c-banner__home {
   --link-decoration: none;
   display: block;
-  padding: $__space-medium;
-  font: 2rem/2.5rem $__font-family-block;
+  font: 2rem/4rem $__font-family-block;
   white-space: nowrap;
   text-transform: uppercase;
   color: $__color-mustard;
@@ -26,10 +26,18 @@
 
 .c-banner__toggle {
   @include typeset("label");
-  color: $__color-neutral-lightest;
+  padding: $__space-large;
 
   &[aria-controls="search"] {
     order: -1;
+  }
+
+  &:hover {
+    color: $__color-mustard;
+  }
+
+  &:active {
+    color: $__color-link-active;
   }
 }
 
