@@ -5,7 +5,10 @@ class PlacePage extends Page
     // Get location information from corresponding station
     public function location()
     {
-        if ($station = page('stations/'.$this->uid())) {
+        // If multiple stations serve place, `station:` key gives us preferred
+        $uid = !($this->station()->empty()) ? $this->station() : $this->uid();
+
+        if ($station = page('stations/'.$uid)) {
             $location = [
                 $station->geolat()->float(),
                 $station->geolng()->float()

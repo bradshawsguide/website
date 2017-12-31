@@ -6,9 +6,9 @@ $_card-growth: $__space-xxsmall;
   flex-direction: column;
   position: relative;
   overflow: hidden;
-  background-color: white;
-  outline: 1px solid rgba($__color-neutral-darkest, 0.1);
   box-shadow: 0 4px 12px 0 rgba($__color-neutral-darkest, 0.1);
+  outline: 1px solid rgba($__color-neutral-darkest, 0.1);
+  background-color: white;
   transition-duration: 0.15s;
   transition-property: box-shadow, margin, padding;
 
@@ -54,6 +54,7 @@ $_card-growth: $__space-xxsmall;
 
 .c-feature__main {
   padding: $__space-xsmall;
+  padding-bottom: $__space-small;
   color: $__color-neutral-dark;
 }
 

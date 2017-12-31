@@ -5,6 +5,7 @@
   flex: 0 0 auto;
   flex-flow: row wrap;
   align-items: flex-end;
+  justify-content: space-around;
   margin-top: auto;
   padding: 1rem var(--page-gutter);
   background-color: $__color-neutral-darkest;
@@ -15,6 +16,7 @@
   --link-decoration: none;
   flex: 0 0 auto;
   order: 2;
+  margin: 0 auto;
 
   a {
     display: inline-block;
@@ -24,6 +26,8 @@
 
 .c-contentinfo__rights {
   @include typeset("caption");
-  flex: 1 1 auto;
+  flex: 0 0 auto;
+  margin-right: auto;
   margin-bottom: $__space-xsmall;
+  margin-left: auto;
 }

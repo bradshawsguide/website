@@ -8,6 +8,7 @@
 html {
   height: 100%;
   text-size-adjust: 100%; // [1]
+  position: relative;
 }
 
 *,
@@ -25,10 +26,7 @@ body {
   flex-direction: column;
   height: 100%;
   margin: 0;
-  background-color: $__color-neutral-lightest;
-  background-image: url("/assets/images/body.png");
-  background-repeat: repeat;
-  background-size: 8rem;
+  background-color: $__color-neutral-darkest;
   font-family: $__font-family-sans;
   color: $__color-neutral-darkest;
 

@@ -5,6 +5,10 @@
   flex: 1 0 auto;
   padding-right: var(--page-gutter);
   padding-left: var(--page-gutter);
+  background-color: $__color-neutral-lightest;
+  background-image: url("/assets/images/body.png");
+  background-repeat: repeat;
+  background-size: 8rem;
 
   &::after {
     height: 5px;
@@ -67,6 +71,7 @@
 
 .c-page__content {
   margin-bottom: $__gutter-y;
+  flex: 1;
 }
 
 // Page layouts

@@ -16,7 +16,7 @@
 
   h2:not([class]) {
     @include typeset("heading");
-    margin-bottom: $__space-xsmall;
+    margin-bottom: $__space-small;
 
     &::after {
       content: ".";
@@ -83,10 +83,6 @@
     &::before {
       content: "—\2009"; // EM DASH + THIN SPACE
     }
-  }
-
-  figure {
-    margin-bottom: $__space-xlarge;
   }
 
   * + figure {

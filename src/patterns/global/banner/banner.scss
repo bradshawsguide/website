@@ -18,7 +18,7 @@
   color: $__color-mustard;
 
   span {
-    @media (max-width: $__breakpoint-small) {
+    @media (max-width: $__breakpoint-xsmall) {
       @include visually-hidden;
     }
   }
