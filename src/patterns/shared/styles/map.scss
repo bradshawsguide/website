@@ -6,6 +6,9 @@
 // Mixins
 @import "mixins/**/*.scss";
 
+// Base HTML elements
+@import "base/text.scss";
+
 // Vendor components
 @import "../../vendor/leaflet.scss";
 

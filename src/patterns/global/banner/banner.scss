@@ -12,10 +12,15 @@
 .c-banner__home {
   --link-decoration: none;
   display: block;
+  padding: 0 $__space-large;
   font: 2rem/4rem $__font-family-block;
   white-space: nowrap;
   text-transform: uppercase;
   color: $__color-mustard;
+
+  &:focus {
+    @include focus;
+  }
 
   span {
     @media (max-width: $__breakpoint-xsmall) {
@@ -39,6 +44,10 @@
   &:active {
     color: $__color-link-active;
   }
+
+  &:focus {
+    @include focus;
+  }
 }
 
 .c-banner__skip {
@@ -46,8 +55,8 @@
   display: block;
   position: fixed;
   top: 0;
-  right: 0;
-  left: 0;
+  // right: 0;
+  // left: 0;
   z-index: $__z-index-overlay;
   margin: 0 auto;
   background-color: white;
@@ -61,6 +70,10 @@
 
   &:active {
     color: $__color-link-active;
+  }
+
+  &:focus {
+    background-color: $__color-neutral-lightest;
   }
 
   &:not(:focus) {

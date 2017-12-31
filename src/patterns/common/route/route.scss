@@ -21,19 +21,31 @@
 .c-route__title {
   @include typeset("heading");
 
-  a::before {
-    display: block;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: 1;
-    content: "";
-  }
+  a {
+    &::before {
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 1;
+      content: "";
+    }
 
-  &::after {
-    content: "\0020\261E";
-    font-family: serif;
+    &::after {
+      content: "\0020\261E";
+      font-family: serif;
+    }
+
+    &:focus {
+      background-color: transparent;
+
+      &::before {
+        box-shadow:
+          0 0 0 1px $__color-mustard,
+          inset 0 0 0 3px rgba($__color-mustard, 0.5);
+      }
+    }
   }
 }

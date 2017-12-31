@@ -5,6 +5,15 @@
   background-color: $__color-neutral-lighter;
   margin: 0 calc(var(--page-gutter) * -1);
   color: $__color-neutral-mid;
+
+  a {
+    display: block;
+    padding: $__space-small;
+
+    &:focus {
+      @include focus;
+    }
+  }
 }
 
 .c-traverse__title {
@@ -12,11 +21,6 @@
   margin: 0 auto;
   font-weight: bold;
   text-align: center;
-
-  a {
-    display: block;
-    padding: $__space-small;
-  }
 }
 
 .c-traverse__items {
@@ -29,7 +33,6 @@
   bottom: 0;
   left: 0;
   z-index: -1;
-  padding: 0 $__space-medium;
 }
 
 .c-traverse__item {
@@ -38,6 +41,7 @@
   a {
     display: flex;
     align-items: center;
+    padding: 0 $__space-medium;
 
     &[rel=next] {
       flex-direction: row-reverse;

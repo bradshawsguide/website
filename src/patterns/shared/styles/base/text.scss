@@ -7,16 +7,21 @@
 a {
   background-color: transparent; // [1]
   text-decoration: var(--link-decoration, underline);
-  color: var(--link-color);
-}
+  color: $__color-link;
 
-a:hover {
-  text-decoration: var(--link-decoration, underline);
-  color: var(--link-color-hover);
-}
+  &:hover {
+    text-decoration: var(--link-decoration, underline);
+    color: $__color-link-hover;
+  }
 
-a:active {
-  color: var(--link-color-active);
+  &:active {
+    color: $__color-link-active;
+  }
+
+  &:focus {
+    outline: 0;
+    background-color: rgba($__color-mustard, 0.5);
+  }
 }
 
 // Reset font size for smallprint/legal text
