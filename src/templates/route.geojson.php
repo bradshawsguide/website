@@ -21,8 +21,7 @@ $features[] = [
     ],
     'properties' => [
         'title' => (string) $page->title(),
-        'url' => (string) $page->url(),
-        'stroke-width' => 4
+        'url' => (string) $page->url()
     ]
 ];
 

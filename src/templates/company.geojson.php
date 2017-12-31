@@ -24,8 +24,7 @@ foreach ($page->routes() as $route) {
         ],
         'properties' => [
             'title' => (string) $route->title(),
-            'url' => (string) $route->url(),
-            'stroke-width' => 4
+            'url' => (string) $route->url()
         ]
     ];
 

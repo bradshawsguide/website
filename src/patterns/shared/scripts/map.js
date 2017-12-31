@@ -44,8 +44,7 @@ export default function (el, url) {
     const prop = feature.properties || {};
 
     return {
-      color: '#d63636',
-      weight: prop['stroke-width']
+      color: '#d63636'
     };
   };
 
