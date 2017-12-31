@@ -10,12 +10,13 @@
     text-indent: $__text-indent;
   }
 
-  * + h2 {
+  * + h2:not([class]) {
     margin-top: $__space-xlarge;
   }
 
   h2:not([class]) {
     @include typeset("heading");
+    margin-bottom: $__space-xsmall;
 
     &::after {
       content: ".";

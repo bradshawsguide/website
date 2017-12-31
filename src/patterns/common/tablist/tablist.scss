@@ -13,9 +13,14 @@
 .c-tablist__item {
   > * {
     display: block;
-    padding: $__space-medium;
+    padding: $__space-medium $__space-xsmall;
     text-align: center;
-    white-space: nowrap;
+
+    @media screen and (min-width: $__breakpoint-small) {
+      white-space: nowrap;
+      padding-left: $__space-medium;
+      padding-right: $__space-medium;
+    }
   }
 
   [aria-current] {

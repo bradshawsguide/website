@@ -30,33 +30,39 @@ pattern('common/page/content', [
     'editable' => false
 ]);
 
-pattern('common/switch');
+if (count($routes)) {
+    pattern('common/switch');
 
-if (get('view') == 'map') {
-    pattern('common/map', [
-        'url' => $page->uri().'.geojson/'.$kirby->request()->params(),
-        'title' => 'Routes plotted on a map',
-        'modifiers' => ['cover']
-    ]);
-} else {
-    pattern('common/section/list', [
-        'title' => 'Featured routes',
-        'items' => $featured->filterBy('section', param('section')),
-        'component' => 'common/feature',
-        'display' => 'grid'
-    ]);
+    if (get('view') == 'map') {
+        pattern('common/map', [
+            'url' => $page->uri().'.geojson/'.$kirby->request()->params(),
+            'title' => 'Routes plotted on a map',
+            'modifiers' => ['cover']
+        ]);
+    } else {
+        pattern('common/section/list', [
+            'title' => 'Featured routes',
+            'items' => $featured->filterBy('section', param('section')),
+            'component' => 'common/feature',
+            'display' => 'grid'
+        ]);
 
-    foreach ($companies as $company) {
-        $items = $company->routes()->filterBy('section', param('section'));
+        foreach ($companies as $company) {
+            $items = $company->routes()->filterBy('section', param('section'));
 
-        if (count($items)) {
-            pattern('common/section/list', [
-                'title' => html::a($company->url(), $company->title()),
-                'items' => $items,
-                'component' => 'common/route-item'
-            ]);
+            if (count($items)) {
+                pattern('common/section/list', [
+                    'title' => html::a($company->url(), $company->title()),
+                    'items' => $items,
+                    'component' => 'common/route-item'
+                ]);
+            }
         }
     }
+} else {
+    pattern('scopes/text', [
+        'content' => '*Routes for this section will be added soon*'
+    ]);
 }
 
 snippet('foot');
