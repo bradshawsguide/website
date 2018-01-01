@@ -29,21 +29,7 @@
   }
 }
 
-.c-inquire__submit {
-  margin-left: -1px;
-}
-
-.c-inquire__geo {
-  margin-left: $__space-xsmall;
-
-  &[data-geo="false"] {
-    color: red;
-    text-decoration: line-through;
-  }
-}
-
-.c-inquire__submit,
-.c-inquire__geo {
+.c-inquire__button {
   display: flex;
   margin-bottom: $__space-small;
   border: 1px solid $__color-neutral-light;
@@ -52,6 +38,19 @@
   padding: $__space-small $__space-medium;
   text-align: center;
   color: $__color-neutral-dark;
+
+  &[type="submit"] {
+    margin-left: -1px;
+  }
+
+  &[data-geo] {
+    margin-left: $__space-xsmall;
+  }
+
+  &[data-geo="false"] {
+    color: red;
+    text-decoration: line-through;
+  }
 
   &:active {
     box-shadow: inset 0 1px 0 $__color-neutral-alpha;

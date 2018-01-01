@@ -3,13 +3,13 @@
         <legend class="c-inquire__title"><?= $title ?></legend>
         <div class="c-inquire__main">
             <input class="c-inquire__input" type="search" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey…" value="<?= esc(get('q')) ?>">
-            <button class="c-inquire__submit" type="submit">
+            <button class="c-inquire__button" type="submit">
                 <?php pattern('common/icon', [
                     'glyph' => 'search'
                 ]) ?>
                 <span class="c-inquire__label">Search</span>
             </button>
-            <button class="c-inquire__geo" type="button" data-geo>
+            <button class="c-inquire__button" type="button" data-geo>
                 <?php pattern('common/icon', [
                     'glyph' => 'locate'
                 ]) ?>

@@ -46,7 +46,7 @@ button:-moz-focusring,
 // 2. Correct outline style in Safari
 [type="search"] {
   -webkit-appearance: none; // [1]
-  outline-offset: -2px; // [2]
+  outline-offset: 0; // [2]
   border-radius: 0; // [1]
 }
 

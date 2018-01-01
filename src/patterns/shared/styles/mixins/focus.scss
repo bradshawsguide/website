@@ -1,6 +1,4 @@
 @mixin focus {
   outline: 0;
-  box-shadow:
-    0 0 0 1px $__color-mustard,
-    0 0 2px 3px rgba($__color-mustard, 0.5);
+  box-shadow: inset 0 0 0 1px $__color-mustard;
 }
