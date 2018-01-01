@@ -3,6 +3,6 @@
 return [
     'defaults' => [
         'level' => 3,
-        'route' => page('routes/london-bridge-to-brighton')
+        'route' => page('routes/london-to-brighton')
     ]
 ];
