@@ -22,10 +22,16 @@ $banner-height: 5rem;
 // Pull image to the right
 .c-figure--pull-right {
   @include pull-right;
+  margin-top: 0;
 
   .c-figure__img {
     padding-top: percentage(6/5);
   }
+}
+
+// Image
+.c-figure--image {
+  margin: $__space-large 0;
 }
 
 // Map illustration
