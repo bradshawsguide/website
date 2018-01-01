@@ -1,8 +1,7 @@
 <div class="c-search">
     <form class="c-search__form" id="search" role="search" action="/search" hidden>
         <div class="c-search__inner">
-            <label class="c-search__label" for="query">Search <?= $site->title() ?></label>
-            <input class="c-search__input" type="search" id="query" name="q" placeholder="e.g. Brighton, London Bridge…" value="<?= esc(get('q')) ?>">
+            <input class="c-search__input" type="search" name="q" placeholder="e.g. Brighton, London Bridge…" value="<?= esc(get('q')) ?>" title="Search <?= $site->title() ?>">
             <button class="c-search__submit" type="submit">
                 <?php pattern('common/icon', [
                     'glyph' => 'search',

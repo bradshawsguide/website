@@ -7,6 +7,8 @@ if ($image = $page->image('cover.jpg')) {
     ]);
 }
 
+pattern('common/inquire');
+
 foreach (sections() as $section) {
     $routesCount = count($section['routes']);
     $continue = brick('p');

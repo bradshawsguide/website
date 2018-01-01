@@ -1,0 +1,64 @@
+.c-inquire {
+  @include typeset("label");
+  padding: $__space-small $__space-small 0;
+  background-color: $__color-neutral-lighter;
+}
+
+.c-inquire__title {
+  font-weight: 600;
+  margin-bottom: $__space-xsmall;
+}
+
+.c-inquire__main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.c-inquire__input {
+  flex: 1;
+  margin-bottom: $__space-small;
+  border: 1px solid $__color-neutral-light;
+  box-shadow: inset 0 1px 0 $__color-neutral-alpha;
+  padding: $__space-small $__space-medium;
+  background-color: white;
+
+  &:focus {
+    @include focus;
+    position: relative;
+  }
+}
+
+.c-inquire__submit {
+  margin-left: -1px;
+}
+
+.c-inquire__geo {
+  margin-left: $__space-xsmall;
+}
+
+.c-inquire__submit,
+.c-inquire__geo {
+  display: flex;
+  margin-bottom: $__space-small;
+  border: 1px solid $__color-neutral-light;
+  box-shadow: inset 0 -1px 0 $__color-neutral-alpha;
+  background-color: rgba(white, 0.75);
+  padding: $__space-small $__space-medium;
+  text-align: center;
+  color: $__color-neutral-dark;
+
+  &:active {
+    box-shadow: inset 0 1px 0 $__color-neutral-alpha;
+    background-color: $__color-neutral-alpha;
+  }
+
+  &:focus {
+    @include focus;
+    position: relative;
+  }
+}
+
+.c-inquire__label {
+  margin-left: $__space-xxsmall;
+}

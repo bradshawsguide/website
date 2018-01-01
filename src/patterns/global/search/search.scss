@@ -20,10 +20,6 @@
   flex-direction: row-reverse;
 }
 
-.c-search__label {
-  @include visually-hidden;
-}
-
 .c-search__input {
   flex: 1;
   height: 4rem;
