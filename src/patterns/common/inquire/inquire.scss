@@ -1,12 +1,48 @@
-.c-inquire {
-  @include typeset("label");
-  padding: $__space-small $__space-small 0;
+.c-inquire--home {
   background-color: $__color-neutral-lighter;
+  margin: 0 calc(var(--page-gutter) * -1);
+  padding: 0 var(--page-gutter);
+
+  @media (min-width: $__breakpoint-medium) {
+    padding-top: 40vh;
+    padding-bottom: 5vh;
+    background-image: url("/assets/images/home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+}
+
+.c-inquire__body {
+  @include typeset("label");
+  position: relative;
+  padding: 2.5rem $__space-small 0;
+  background-color: $__color-neutral-lighter;
+
+  .c-inquire--home & {
+    background: transparent;
+
+    @media (min-width: $__breakpoint-medium) {
+      background-color: rgba(black, 0.6);
+    }
+  }
+}
+
+.c-inquire__header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: $__space-small;
 }
 
 .c-inquire__title {
   font-weight: 600;
-  margin-bottom: $__space-xsmall;
+
+  .c-inquire--home & {
+    @media (min-width: $__breakpoint-medium) {
+      color: white;
+    }
+  }
 }
 
 .c-inquire__main {
@@ -34,7 +70,7 @@
   margin-bottom: $__space-small;
   border: 1px solid $__color-neutral-light;
   box-shadow: inset 0 -1px 0 $__color-neutral-alpha;
-  background-color: rgba(white, 0.75);
+  background-color: white;
   padding: $__space-small $__space-medium;
   text-align: center;
   color: $__color-neutral-dark;

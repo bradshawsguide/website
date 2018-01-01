@@ -23,6 +23,10 @@
   padding-bottom: $__space-small;
   color: $__color-neutral-dark;
 
+  .c-section--offset & {
+    text-align: center;
+  }
+
   a::after {
     content: "\0020\261E";
     font-family: serif;

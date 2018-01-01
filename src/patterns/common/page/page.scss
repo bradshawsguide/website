@@ -35,6 +35,21 @@
 }
 
 // Page layouts
+.c-page--home {
+  .c-page__content {
+    display: grid;
+    grid-column-gap: $__gutter-x;
+
+    @media (min-width: $__breakpoint-small) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (min-width: $__breakpoint-medium) {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+}
+
 .c-page--place {
   .c-figure--cover {
     order: -1;

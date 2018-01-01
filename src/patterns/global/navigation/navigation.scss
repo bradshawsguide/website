@@ -32,6 +32,11 @@
     display: block;
     padding: $__space-medium $__space-small;
     color: inherit;
+
+    &:focus {
+      background-color: transparent;
+      text-decoration: underline;
+    }
   }
 
   a[aria-current] {
