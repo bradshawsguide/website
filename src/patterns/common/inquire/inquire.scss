@@ -35,6 +35,11 @@
 
 .c-inquire__geo {
   margin-left: $__space-xsmall;
+
+  &[data-geo="false"] {
+    color: red;
+    text-decoration: line-through;
+  }
 }
 
 .c-inquire__submit,

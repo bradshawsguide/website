@@ -8,7 +8,7 @@
                     'label' => 'Submit search query'
                 ]) ?>
             </button>
-            <button class="c-search__geo" type="button">
+            <button class="c-search__geo" type="button" data-geo>
                 <?php pattern('common/icon', [
                     'glyph' => 'locate',
                     'label' => 'Show stations near me'

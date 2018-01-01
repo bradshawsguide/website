@@ -9,7 +9,7 @@
                 ]) ?>
                 <span class="c-inquire__label">Search</span>
             </button>
-            <button class="c-inquire__geo" type="button">
+            <button class="c-inquire__geo" type="button" data-geo>
                 <?php pattern('common/icon', [
                     'glyph' => 'locate'
                 ]) ?>

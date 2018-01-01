@@ -58,7 +58,7 @@
   right: 0;
   border-left: 1px solid $__color-neutral-dark;
 
-  &.has-failed {
+  &[data-geo="false"] {
     color: red;
   }
 }
