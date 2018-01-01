@@ -30,7 +30,6 @@ $_card-growth: $__space-xxsmall;
   @include typeset("prose");
 
   --font-size-prose: $__font-size-text-small;
-  margin-bottom: ($__space-xxsmall * -1);
   font-style: italic;
   color: $__color-neutral-mid;
 }

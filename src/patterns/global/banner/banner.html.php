@@ -8,19 +8,15 @@
     </p>
 <?php endif ?>
     <button class="c-banner__toggle" aria-controls="search" aria-expanded="false">
-        <span>
-            <?php pattern('common/icon', [
-                'glyph' => 'search',
-                'label' => 'Search'
-            ]) ?>
-        </span>
+        <?php pattern('common/icon', [
+            'glyph' => 'search'
+        ]) ?>
+        <span class="c-banner__label">Search</span>
     </button>
     <button class="c-banner__toggle" aria-controls="navigation" aria-expanded="false">
-        <span>
-            <?php pattern('common/icon', [
-                'glyph' => 'navigation',
-                'label' => 'Navigation'
-            ]) ?>
-        </span>
+        <?php pattern('common/icon', [
+            'glyph' => 'navigation'
+        ]) ?>
+        <span class="c-banner__label">Menu</span>
     </button>
 </header>

@@ -12,7 +12,7 @@
 
 .c-banner__home {
   display: block;
-  padding: 0 $__space-large;
+  padding: 0 $__space-medium;
   font: 2rem/4rem $__font-family-block;
   white-space: nowrap;
   text-transform: uppercase;
@@ -31,10 +31,15 @@
 
 .c-banner__toggle {
   @include typeset("label");
+  display: flex;
   padding: $__space-large;
 
   &[aria-controls="search"] {
     order: -1;
+  }
+
+  &[aria-controls="navigation"] {
+    flex-direction: row-reverse;
   }
 
   &:hover {
@@ -47,6 +52,14 @@
 
   &:focus {
     @include focus;
+  }
+}
+
+.c-banner__label {
+  padding: 0 $__space-xsmall;
+
+  @media screen and (max-width: $__breakpoint-medium) {
+    @include visually-hidden;
   }
 }
 
