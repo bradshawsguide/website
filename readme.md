@@ -53,7 +53,7 @@ bradshawsguide
 │   ├── [content]      # Site content [submodule]
 │   ├── controllers    # Template controllers
 │   ├── models         # Page models
-│   ├── patterns       # Template patterns
+│   ├── [patterns]     # Template patterns [submodule]
 │   ├── plugins        # Kirby plugins
 │   ├── snippets       # Template snippets
 │   ├── tags           # Kirbytext tags
