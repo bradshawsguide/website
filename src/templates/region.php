@@ -3,7 +3,7 @@ snippet('head');
 
 pattern('common/traverse');
 
-pattern('common/page/header', [
+pattern('common/header', [
     'pretitle' => 'A descriptive guide to',
     'title' => $page->title(),
     'modifiers' => ['index']

@@ -3,7 +3,7 @@ snippet('head', [
     'alternate' => $page->url().'.geojson'
 ]);
 
-pattern('common/page/header', [
+pattern('common/header', [
     'parent' => html::a($page->parent()->url(), $page->parent()->title()),
     'title' => $page->title(),
     'subtitle' => $page->subtitle()

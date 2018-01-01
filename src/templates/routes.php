@@ -16,7 +16,7 @@ snippet('head', [
     'alternate' => $page->url().'.geojson'.'/section:'.param('section')
 ]);
 
-pattern('common/page/header', [
+pattern('common/header', [
     'title' => $page->title(),
     'modifiers' => ['index']
 ]);

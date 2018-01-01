@@ -1,7 +1,7 @@
 <?php
 snippet('head');
 
-pattern('common/page/header', [
+pattern('common/header', [
     'title' => $title
 ]);
 

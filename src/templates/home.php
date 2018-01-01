@@ -9,6 +9,13 @@ if ($image = $page->image('cover.jpg')) {
 
 pattern('common/inquire');
 
+pattern('common/header', [
+    'level' => 2,
+    'title' => 'Routes & Tours',
+    'subtitle' => '(In four sections), adapted to the railway system:',
+    'modifiers' => ['index']
+]);
+
 foreach (sections() as $section) {
     $routesCount = count($section['routes']);
     $continue = brick('p');
@@ -23,6 +30,7 @@ foreach (sections() as $section) {
     $title->html($section['title']);
 
     pattern('common/section/text', [
+        'level' => 3,
         'title' => $title,
         'text' => $section['text'].$continue
     ]);

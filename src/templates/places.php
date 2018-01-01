@@ -1,7 +1,7 @@
 <?php
 snippet('head');
 
-pattern('common/page/header', [
+pattern('common/header', [
     'pretitle' => 'A descriptive guide to places in',
     'title' => 'Great Britain & Ireland',
     'modifiers' => ['index']

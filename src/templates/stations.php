@@ -1,7 +1,7 @@
 <?php
 snippet('head');
 
-pattern('common/page/header', [
+pattern('common/header', [
     'title' => 'Stations A-Z',
     'modifiers' => ['index']
 ]);

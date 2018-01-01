@@ -13,7 +13,7 @@ if (!$page->stops()->empty()) {
     ]);
 }
 
-pattern('common/page/header', [
+pattern('common/header', [
     'parent' => $page->operator(),
     'title' => $page->title(),
     'subtitle' => $page->subtitle()
