@@ -32,7 +32,7 @@ foreach (sections() as $section) {
     pattern('common/section/text', [
         'level' => 3,
         'title' => $title,
-        'text' => $section['text'].$continue
+        'text' => $section['desc'].$continue
     ]);
 };
 

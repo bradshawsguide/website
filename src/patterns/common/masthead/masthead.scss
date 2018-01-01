@@ -18,13 +18,15 @@
 
   > span:nth-child(1) {
     font-family: $__font-family-block;
-    font-size: 10vw;
+    font-size: calc(2rem + 10vmin);
+    line-height: 0.8;
     text-transform: uppercase;
   }
 
   > span:nth-child(2) {
-    margin-bottom: $__space-small;
+    margin: $__space-xsmall 0;
     font-family: $__font-family-serif;
+    font-size: calc(0.7rem + 1vmin);
     font-variant-caps: all-small-caps;
     letter-spacing: 0.05em;
     color: $__color-neutral-lighter;
@@ -32,9 +34,9 @@
 
   > span:nth-child(3) {
     font-family: $__font-family-slab;
-    font-size: 4vw;
+    font-size: calc(0.8rem + 4vmin);
     font-weight: bold;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.0125em;
     color: $__color-neutral-lightest;
   }
 }
@@ -42,8 +44,11 @@
 .c-masthead__edition {
   display: flex;
   align-items: center;
-  margin-top: 1vw;
-  font: italic 1.125rem/1 $__font-family-serif;
+  margin-top: 2vh;
+  font-family: $__font-family-serif;
+  font-size: 0.875rem;
+  font-style: italic;
+  line-height: 1;
   text-transform: capitalize;
   color: $__color-neutral-lighter;
 

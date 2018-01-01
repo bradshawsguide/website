@@ -142,18 +142,6 @@
     line-height: 0.75;
   }
 
-  @else if $preset == "poster" {
-    @include fluid-type(
-      $__breakpoint-xsmall,
-      $__breakpoint-medium,
-      $__font-size-display-large,
-      $__font-size-poster-small
-    );
-    font-family: $__font-family-block;
-    line-height: if($line-height, $line-height, $__line-height-reset);
-    text-transform: uppercase;
-  }
-
   @else {
     @warn "The preset '#{$preset}' is not recognised";
   }
