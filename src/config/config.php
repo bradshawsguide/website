@@ -26,6 +26,9 @@ c::set('cache.data', true);
 c::set('cache.html', true);
 c::set('cache.ignore', array('search', 'sitemap'));
 
+// Sub-resource integrity
+c::set('plugin.kirby-sri', true);
+
 // Patterns
 c::set('patterns.preview.css', 'assets/app.css');
 c::set('patterns.preview.js', 'assets/app.js');

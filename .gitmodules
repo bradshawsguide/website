@@ -28,3 +28,6 @@
 [submodule "src/plugins/kirby-csv-handler"]
 	path = src/plugins/kirby-csv-handler
 	url = git@github.com:texnixe/kirby-csv-handler.git
+[submodule "src/plugins/kirby-sri"]
+	path = src/plugins/kirby-sri
+	url = https://github.com/S1SYPHOS/kirby-sri.git

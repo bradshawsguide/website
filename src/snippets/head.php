@@ -4,7 +4,7 @@
     <meta charset="utf-8">
 
     <link rel="preload" href="/assets/fonts/scotchtext-roman.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="stylesheet" href="/assets/app.css">
+    <?= css('/assets/app.css') ?>
     <link rel="manifest" href="/app.webmanifest" type="application/manifest+json">
     <link rel="shortcut icon" href="/assets/icons/app.ico" type="image/ico">
     <link rel="apple-touch-icon" href="/assets/icons/app.png" type="image/png">
@@ -16,7 +16,7 @@
         var docEl = document.documentElement;
         docEl.className = docEl.className.replace('no-js', 'has-js');
     </script>
-    <script src="/assets/app.js" async></script>
+    <?= js('/assets/app.js', true) ?>
 
     <meta name="apple-mobile-web-app-title" content="<?= $site->title_short() ?>">
     <meta name="referrer" content="origin">
