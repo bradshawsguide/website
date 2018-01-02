@@ -7,7 +7,7 @@ pattern('common/inquire', [
 
 pattern('common/header', [
     'level' => 2,
-    'title' => 'Routes & Tours',
+    'title' => html::a(page('routes')->url(), 'Routes & Tours'),
     'subtitle' => '(In four sections), adapted to the railway system:',
     'modifiers' => ['index']
 ]);
