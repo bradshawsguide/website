@@ -31,7 +31,7 @@ return function ($site, $pages, $page) {
             'lat' => $point->lat(),
             'lng' => $point->lng(),
             'radius' => 15
-        ]);
+        ])->sortBy('location');
 
         $results = $results->paginate($pages);
         $title = "Places near you";
