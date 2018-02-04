@@ -4,24 +4,24 @@
 
 ## Installation
 1. `git clone git@github.com:paulrobertlloyd/bradshawsguide.git`
-2. `git submodule update --init --recursive`
-3. `mkdir www/cache`
-4. `npm build`
+2. `cd bradshawsguide`
+3. `git submodule update --init --recursive`
+4. `mkdir www/cache`
+5. `npm build`
+
+Generated assets will be saved in the `www` directory.
 
 ## Development
-When developing the site, you may want assets automatically compiled and the browser to refresh automatically. To do this, run the following task:
+When developing the site, you may want assets automatically compiled and the browser to refresh automatically. To do this, run `gulp dev`.
 
-* `gulp dev`
-
-## Updating submodules
+### Updating submodules
 This project makes use of third-party libraries, included as git submodules. To update these, run `git submodule foreach git pull origin master`.
 
-## Running locally with HTTPS
-To run with HTTPS locally on macOS, you should follow the setup [as described here](https://gist.github.com/jed/6147872). To create the required SSL certificates, follow these steps:
+### Running locally with HTTPS
+To run with HTTPS locally on macOS first [follow the setup steps described here](https://gist.github.com/jed/6147872). To create the required SSL certificates, follow these steps:
 
-1. Open Terminal.app
-2. Change into the correct directory: `cd Sites/bradshaws/etc/ssl`
-3. Create the certificate files:
+1. Change into the correct directory: `cd etc/ssl`
+2. Create the certificate files:
 
   ```
   openssl req \
