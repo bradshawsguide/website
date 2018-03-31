@@ -7,7 +7,7 @@
 2. `cd bradshawsguide`
 3. `git submodule update --init --recursive`
 4. `mkdir www/cache`
-5. `npm build`
+5. `npm start`
 
 Generated assets will be saved in the `www` directory.
 
