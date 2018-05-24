@@ -60,7 +60,7 @@
     "gulp-sass-glob": "^1.0.9",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-util": "^3.0.0",
-    "gulp@next": "^4.0.0",
+    "gulp": "^4.0.0",
     "rollup": "^0.59.0",
     "rollup-plugin-babel": "^3.0.4",
     "rollup-plugin-commonjs": "^9.1.3",
