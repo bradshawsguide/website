@@ -1,5 +1,6 @@
 .DS_Store
 /etc/ssl/
+/www/.well-known/
 /www/assets/
 /www/cache/
 /www/thumbs/
