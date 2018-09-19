@@ -3,7 +3,7 @@
 *Let this digital revival of a Victorian favourite be your guide to Britain and Ireland’s burgeoning railway network, as it existed in 1866.*
 
 ## Installation
-1. `git clone git@github.com:paulrobertlloyd/bradshawsguide.git`
+1. `git clone git@github.com:bradshawsguide/website.git`
 2. `cd bradshawsguide`
 3. `git submodule update --init --recursive`
 4. `mkdir www/cache`
