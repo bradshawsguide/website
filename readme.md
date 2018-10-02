@@ -12,7 +12,7 @@
 Generated assets will be saved in the `www` directory.
 
 ## Development
-When developing the site, you may want assets automatically compiled and the browser to refresh automatically. To do this, run `gulp dev`.
+When developing the site, you may want assets automatically compiled and the browser to refresh automatically. To do this, run `npm run dev`.
 
 ### Updating submodules
 This project makes use of third-party libraries, included as git submodules. To update these, run `git submodule foreach git pull origin master`.

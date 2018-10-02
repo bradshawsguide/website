@@ -1,8 +1,7 @@
 const rollup = require('rollup');
-const babel = require('rollup-plugin-babel');
 const commonjs = require('rollup-plugin-commonjs');
 const resolve = require('rollup-plugin-node-resolve');
-const uglify = require('rollup-plugin-uglify');
+const {terser} = require('rollup-plugin-terser');
 
 module.exports = (modules, logger, callback) => {
   modules.forEach((module, i) => {
@@ -15,24 +14,21 @@ module.exports = (modules, logger, callback) => {
           main: true
         }),
         commonjs(),
-        babel({
-          exclude: 'node_modules/**'
-        }),
-        uglify()
+        terser()
       ]
     })
-    .then(bundle => {
-      bundle.write({
-        file: module.file,
-        format: 'iife',
-        sourcemap: true,
-        name: module.name
-      });
+      .then(bundle => {
+        bundle.write({
+          file: module.file,
+          format: 'iife',
+          sourcemap: true,
+          name: module.name
+        });
 
-      if (i === modules.length - 1) {
-        callback();
-      }
-    })
-    .catch(err => logger.log(err));
+        if (i === modules.length - 1) {
+          callback();
+        }
+      })
+      .catch(error => logger.log(error));
   });
 };
