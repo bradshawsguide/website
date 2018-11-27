@@ -1,36 +1,6 @@
-[submodule "www/kirby"]
-	path = www/kirby
-	url = git@github.com:getkirby-v2/kirby.git
-[submodule "src/plugins/patterns"]
-	path = src/plugins/patterns
-	url = git@github.com:getkirby-plugins/patterns-plugin.git
-[submodule "src/plugins/geo"]
-	path = src/plugins/geo
-	url = git@github.com:getkirby-plugins/geo-plugin.git
-[submodule "src/plugins/alphabetise"]
-	path = src/plugins/alphabetise
-	url = git@github.com:shoesforindustry/kirby-plugins-alphabetise.git
-[submodule "src/plugins/typography"]
-	path = src/plugins/typography
-	url = git@github.com:fabianmichael/kirby-typography.git
-[submodule "src/plugins/kirbytextraw"]
-	path = src/plugins/kirbytextraw
-	url = git@github.com:jbeyerstedt/kirby-plugin-kirbytextRaw
-[submodule "src/plugins/minifyhtml"]
-	path = src/plugins/minifyhtml
-	url = git@github.com:ian-cox/Kirby-MinifyHTML.git
-[submodule "src/plugins/sitemap"]
-	path = src/plugins/sitemap
-	url = https://github.com/jpangborn/kirby-sitemap.git
 [submodule "src/content"]
 	path = src/content
 	url = git@github.com:bradshawsguide/content.git
-[submodule "src/plugins/kirby-csv-handler"]
-	path = src/plugins/kirby-csv-handler
-	url = git@github.com:texnixe/kirby-csv-handler.git
-[submodule "src/plugins/kirby-sri"]
-	path = src/plugins/kirby-sri
-	url = https://github.com/S1SYPHOS/kirby-sri.git
 [submodule "src/patterns"]
 	path = src/patterns
 	url = git@github.com:bradshawsguide/patterns.git

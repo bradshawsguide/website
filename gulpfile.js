@@ -17,7 +17,7 @@ const rollup = require('./etc/gulp/rollup');
 
 // Paths
 const paths = {
-  src: 'src/patterns/shared/',
+  src: 'src/patterns/assets/',
   dest: 'www/assets/'
 };
 

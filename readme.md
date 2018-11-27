@@ -45,35 +45,31 @@ To run with HTTPS locally on macOS first [follow the setup steps described here]
 ```
 bradshawsguide
 ├── etc                # CONFIGURATION
-│   ├── nginx          # Nginx server
-│   └── (ssl)          # SSL certificates (ignored by git)
+│   └── nginx          # Nginx server
 │
 ├── src                # SOURCE
+│   ├── blueprints     # Kirby panel blueprints
 │   ├── config         # Kirby configuration
 │   ├── [content]      # Site content [submodule]
-│   ├── controllers    # Template controllers
-│   ├── models         # Page models
+│   ├── controllers    # Kirby template controllers
+│   ├── models         # Kirby page models
 │   ├── [patterns]     # Template patterns [submodule]
 │   ├── plugins        # Kirby plugins
-│   ├── snippets       # Template snippets
-│   ├── tags           # Kirbytext tags
-│   └── templates      # Templates
+│   └── templates      # Kirby templates
 │
 ├── www                # COMPILED/RUNTIME
-│   ├── (assets)       # Compiled assets (ignored by git)
-│   ├── (cache)        # Cache files (ignored by git)
-│   ├── [kirby]        # Kirby [submodule]
-│   ├── (thumbs)       # Thumbnail cache (ignored by git)
 │   └── index.php      # Kirby launch script
 │
 ├── .editorconfig      # Text editor preferences
 ├── .gitignore         # List of files not tracked by git
 ├── .gitmodules        # List of submodules tracked by git
+├── composer.lock      # Composer manifest lock file
+├── composer.json      # Composer manifest
 ├── gulpfile.js        # Configuration file for Gulp
-├── package-lock.json  # Package lock file
-├── package.json       # Package manifest
+├── package-lock.json  # NPM manifest lock file
+├── package.json       # NPM manifest
 ├── LICENSE            # Project license
-└── readme.md          # This file
+└── README.md          # This file
 ```
 
 © 2013 [Paul Robert Lloyd](https://paulrobertlloyd.com)

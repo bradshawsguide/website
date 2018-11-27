@@ -1,8 +1,13 @@
-.DS_Store
 /etc/ssl/
+/src/accounts/
+/src/plugins/*
+!/src/plugins/kirby-bradshawsguide
+/vendor/
 /www/.well-known/
 /www/assets/
 /www/cache/
-/www/thumbs/
+/www/media/
+/www/sessions/
 node_modules
 *.cache
+*.license

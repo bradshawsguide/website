@@ -29,7 +29,7 @@ $features[] = [
 foreach (array_flatten($stops) as $stop) {
     $page = page('stations/'.$stop);
 
-    if (!$page->place()->empty()) {
+    if ($page->place()->isNotEmpty()) {
         $markerSize = 'large';
     } else {
         $markerSize = 'small';

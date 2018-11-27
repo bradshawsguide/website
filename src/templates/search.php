@@ -1,28 +1,28 @@
 <?php
 snippet('head');
 
-pattern('common/header', [
+snippet('header', [
     'title' => $title
 ]);
 
-if (count($results)) {
-    pattern('common/section/list', [
-        'title' => $results->pagination()->items().' pages found',
+if (size($results)) {
+    snippet('section/list', [
+        'title' => $results->pagination()->total().' pages found',
         'items' => $results,
-        'component' => 'common/result'
+        'component' => 'result'
     ]);
 
     if ($results->pagination()->hasPages()) {
-        pattern('common/pagination', [
+        snippet('pagination', [
             'pagination' => $results->pagination()
         ]);
     }
 } else {
-    pattern('common/section/text', [
+    snippet('section/text', [
         'title' => 'No matches found',
         'text' => 'Make sure that all words are spelled correctly, or try using different keywords.'
     ]);
-    pattern('common/inquire', [
+    snippet('inquire', [
         'title' => 'Search again'
     ]);
 }

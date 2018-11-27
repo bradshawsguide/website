@@ -1,12 +1,12 @@
 <?php
 
-class PlacePage extends Page
+class PlacePage extends Kirby\Cms\Page
 {
     // Get location information from corresponding station
     public function location()
     {
         // If multiple stations serve place, `station:` key gives us preferred
-        $uid = !($this->station()->empty()) ? $this->station() : $this->uid();
+        $uid = ($this->station()->isNotEmpty()) ? $this->station() : $this->uid();
 
         if ($station = page('stations/'.$uid)) {
             $location = [
@@ -16,18 +16,6 @@ class PlacePage extends Page
 
             return implode(',', $location);
         }
-    }
-
-    // Return `title_short` if exists, else normal title
-    public function shortTitle()
-    {
-        if (!$this->title_short()->empty()) {
-            $shortTitle = $this->title_short();
-        } else {
-            $shortTitle = $this->title();
-        };
-
-        return $shortTitle;
     }
 
     // Return region information
@@ -42,19 +30,9 @@ class PlacePage extends Page
         return $this->parent()->parent()->title();
     }
 
-    // Return `desc` if exists, else excerpt of text
-    public function excerpt()
-    {
-        if (!$this->desc()->empty()) {
-            $excerpt = $this->desc();
-        } else {
-            $excerpt = excerpt($this->text(), $length = 40, $mode = 'words');
-        };
-
-        return $excerpt;
-    }
-
     // Get nearby places (with images)
+    // TODO: Add location information to place data
+    // IDEA: A named station UID in the content?
     public function nearby()
     {
         $point = geo::point($this->location());

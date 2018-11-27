@@ -1,20 +1,20 @@
 <?php
 
-class RoutePage extends Page
+class RoutePage extends Kirby\Cms\Page
 {
     // Return subtitle
     public function operator()
     {
-        $companies = $this->company()->yaml();
+        $companies = [];
 
-        // Convert UIDs listed under `company:` to HTML links
-        array_walk($companies, function (&$value, $key) {
-            $page = page('companies/'.$value);
-            $value = html::a($page->url(), $page->title());
-        });
+        // Convert pages listed under `company:` to HTML links
+        foreach ($this->company()->toPages() as $company) {
+            $company = Html::a($company->url(), $company->title());
+            array_push($companies, $company);
+        }
 
         // If route jointly operated, show links to both companies
-        if (count($companies) > 1) {
+        if (size($companies) > 1) {
             $operator = implode(' & ', $companies).' (Joint)';
         } else {
             $operator = $companies[0];
@@ -23,39 +23,10 @@ class RoutePage extends Page
         return $operator;
     }
 
-    // Return `title_short` if exists, else normal title
-    public function shortTitle()
-    {
-        if (!$this->title_short()->empty()) {
-            $shortTitle = $this->title_short();
-        } else {
-            $shortTitle = $this->title();
-        };
-
-        return $shortTitle;
-    }
-
     // Return `line` name if exists, else defer to company title
+    // Required by patterns/common/route
     public function lineTitle()
     {
-        if (!$this->subtitle()->empty()) {
-            $lineTitle = $this->subtitle();
-        } else {
-            $lineTitle = page('companies/'.$this->company())->title();
-        };
-
-        return $lineTitle;
-    }
-
-    // Return `desc` if exists, else excerpt of text
-    public function excerpt()
-    {
-        if (!$this->desc()->empty()) {
-            $excerpt = $this->desc();
-        } else {
-            $excerpt = excerpt($this->text(), $length = 40, $mode = 'words');
-        };
-
-        return $excerpt;
+        return $this->subtitle()->isNotEmpty() ? $this->subtitle() : $this->company()->toPage()->title();
     }
 }

@@ -3,28 +3,29 @@ snippet('head', [
     'alternate' => $page->url().'.geojson'
 ]);
 
-pattern('common/header', [
-    'parent' => html::a($page->parent()->url(), $page->parent()->title()),
+snippet('header', [
+    'parent' => Html::a($page->parent()->url(), $page->parent()->title()),
     'title' => $page->title(),
     'subtitle' => $page->subtitle()
 ]);
 
 if ($image = $page->image('cover.jpg')) {
-    pattern('common/figure/cover', [
+    snippet('figure/cover', [
         'image' => $image
     ]);
 }
 
-pattern('common/page/content');
+snippet('page/content');
 
-if (count($page->nearby())) {
-    pattern('common/section/list', [
-        'title' => 'Places nearby',
-        'modifiers' => ['offset'],
-        'items' => $page->nearby(),
-        'component' => 'common/feature',
-        'display' => 'grid'
-    ]);
-}
+// TODO: Add location information to place data
+// if (size($page->nearby())) {
+//     snippet('section/list', [
+//         'title' => 'Places nearby',
+//         'modifiers' => ['offset'],
+//         'items' => $page->nearby(),
+//         'component' => 'feature',
+//         'display' => 'grid'
+//     ]);
+// }
 
 snippet('foot');

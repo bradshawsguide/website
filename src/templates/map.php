@@ -1,12 +1,9 @@
 <html>
     <head>
         <?= css('/assets/map.css') ?>
-        <?= js('/assets/map.js', true) ?>
+        <?= js('/assets/map.js', ['type' => 'module']) ?>
     </head>
     <body>
-        <div id="map" data-zoom="<?= get('zoom') ?>"></div>
-        <script>
-            map('#map','<?= url(kirby()->request()->query()->geojson()) ?>');
-        </script>
+        <div id="map" data-zoom="<?= get('zoom') ?>" data-geojson="<?= url(get('geojson')) ?>"></div>
     </body>
 </html>
