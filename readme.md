@@ -7,12 +7,12 @@
 2. `cd bradshawsguide`
 3. `git submodule update --init --recursive`
 4. `mkdir www/cache`
-5. `npm start`
+5. `npm run build`
 
 Generated assets will be saved in the `www` directory.
 
 ## Development
-When developing the site, you may want assets automatically compiled and the browser to refresh automatically. To do this, run `npm run dev`.
+When developing the site, you may want assets automatically compiled and the browser to refresh automatically. To do this, run `npm run watch`.
 
 ### Updating submodules
 This project makes use of third-party libraries, included as git submodules. To update these, run `git submodule foreach git pull origin master`.
@@ -44,32 +44,34 @@ To run with HTTPS locally on macOS first [follow the setup steps described here]
 
 ```
 bradshawsguide
-├── etc                # CONFIGURATION
-│   └── nginx          # Nginx server
+├── etc                         # CONFIGURATION
+│   ├── nginx                   # Nginx server
+│   ├── browser-sync.config.js  # BrowserSync configuration
+│   ├── postcss.config.js       # PostCSS configuration
+│   └── rollup.config.js        # Rollup configuration
 │
-├── src                # SOURCE
-│   ├── blueprints     # Kirby panel blueprints
-│   ├── config         # Kirby configuration
-│   ├── [content]      # Site content [submodule]
-│   ├── controllers    # Kirby template controllers
-│   ├── models         # Kirby page models
-│   ├── [patterns]     # Template patterns [submodule]
-│   ├── plugins        # Kirby plugins
-│   └── templates      # Kirby templates
+├── src                         # SOURCE
+│   ├── blueprints              # Kirby panel blueprints
+│   ├── config                  # Kirby configuration
+│   ├── [content]               # Site content [submodule]
+│   ├── controllers             # Kirby template controllers
+│   ├── models                  # Kirby page models
+│   ├── [patterns]              # Template patterns [submodule]
+│   ├── plugins                 # Kirby plugins
+│   └── templates               # Kirby templates
 │
-├── www                # COMPILED/RUNTIME
-│   └── index.php      # Kirby launch script
+├── www                         # COMPILED/RUNTIME
+│   └── index.php               # Kirby launch script
 │
-├── .editorconfig      # Text editor preferences
-├── .gitignore         # List of files not tracked by git
-├── .gitmodules        # List of submodules tracked by git
-├── composer.lock      # Composer manifest lock file
-├── composer.json      # Composer manifest
-├── gulpfile.js        # Configuration file for Gulp
-├── package-lock.json  # NPM manifest lock file
-├── package.json       # NPM manifest
-├── LICENSE            # Project license
-└── README.md          # This file
+├── .editorconfig               # Text editor preferences
+├── .gitignore                  # List of files not tracked by git
+├── .gitmodules                 # List of submodules tracked by git
+├── composer.lock               # Composer manifest lock file
+├── composer.json               # Composer manifest
+├── package-lock.json           # NPM manifest lock file
+├── package.json                # NPM manifest
+├── LICENSE                     # Project license
+└── README.md                   # This file
 ```
 
 © 2013 [Paul Robert Lloyd](https://paulrobertlloyd.com)

@@ -17,24 +17,35 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/paulrobertlloyd/bradshawsguide.git"
+    "url": "https://github.com/bradshawsguide/website.git"
   },
-  "bugs": "https://github.com/paulrobertlloyd/bradshawsguide/issues",
+  "bugs": "https://github.com/bradshawsguide/website/issues",
   "scripts": {
-    "prestart": "npm install",
-    "start": "gulp start",
-    "dev": "gulp dev",
-    "test": "xo || stylelint **/*.scss"
+    "prebuild": "rm -rf www/assets && mkdir -p www/assets",
+    "build:fonts": "cpy src/patterns/assets/fonts www/assets/fonts --flat",
+    "build:icons": "imagemin src/patterns/assets/icons/* --out-dir=www/assets/icons",
+    "build:images": "imagemin src/patterns/assets/images/* --out-dir=www/assets/images",
+    "build:scripts": "rollup --config etc/rollup.config.js",
+    "build:styles": "postcss src/patterns/assets/styles/*.css --dir www/assets --config etc/postcss.config.cjs",
+    "build:vectors": "cpy src/patterns/assets/vectors www/assets/vectors --flat",
+    "build": "npm-run-all build:*",
+    "serve": "browser-sync start --config etc/browser-sync.config.js",
+    "test:scripts": "xo src/patterns/assets/**/*.js",
+    "test:styles": "stylelint src/patterns/assets/**/*.scss",
+    "test": "npm-run-all test:*",
+    "watch:scripts": "rollup --config etc/rollup.config.js --watch",
+    "watch:styles": "postcss src/patterns/assets/styles/*.css --dir www/assets --config etc/postcss.config.cjs --watch",
+    "watch": "npm-run-all --parallel serve watch:*"
   },
   "stylelint": {
     "extends": "stylelint-config-standard",
-    "files": "**/*.scss",
+    "files": "**/*.css",
     "rules": {
       "at-rule-no-unknown": [
         true,
         {
           "ignoreAtRules": [
-            "include",
+            "define-mixin",
             "mixin"
           ]
         }
@@ -49,31 +60,35 @@
     "ignores": [
       "src/plugins/**",
       "www/**"
-    ]
-  },
-  "devDependencies": {
-    "autoprefixer": "^9.3.1",
-    "browser-sync": "^2.26.3",
-    "del": "^3.0.0",
-    "gulp": "^4.0.0",
-    "gulp-imagemin": "^5.0.0",
-    "gulp-postcss": "^8.0.0",
-    "gulp-sass": "^4.0.2",
-    "gulp-sass-glob": "^1.0.9",
-    "gulp-sourcemaps": "^2.6.4",
-    "gulp-util": "^3.0.0",
-    "rollup": "^0.67.0",
-    "rollup-plugin-commonjs": "^9.2.0",
-    "rollup-plugin-node-resolve": "^3.4.0",
-    "rollup-plugin-terser": "^3.0.0",
-    "rollup-plugin-uglify": "^6.0.0",
-    "stylelint": "^9.9.0",
-    "stylelint-config-standard": "^18.2.0",
-    "xo": "^0.23.0"
+    ],
+    "rules": {
+      "camelcase": "warn"
+    }
   },
   "dependencies": {
-    "fontfaceobserver": "^2.0.0",
-    "leaflet": "^1.3.4",
-    "node-sass": "^4.10.0"
-  }
+    "fontfaceobserver": "^2.3.0",
+    "leaflet": "^1.9.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^24.1.0",
+    "@rollup/plugin-node-resolve": "^15.0.0",
+    "@rollup/plugin-terser": "^0.4.1",
+    "browser-sync": "^2.29.1",
+    "cpy-cli": "^4.2.0",
+    "cssnano": "^6.0.0",
+    "imagemin-cli": "^7.0.0",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.4.23",
+    "postcss-cli": "^10.1.0",
+    "postcss-color-mod-function": "^3.0.3",
+    "postcss-easy-import": "^4.0.0",
+    "postcss-extend-rule": "^4.0.0",
+    "postcss-nested": "^6.0.0",
+    "postcss-simple-vars": "^5.0.0",
+    "rollup": "^3.20.0",
+    "stylelint": "^15.5.0",
+    "stylelint-config-standard": "^33.0.0",
+    "xo": "^0.54.0"
+  },
+  "type": "module"
 }
