@@ -9,7 +9,7 @@ return [
     // Database
     'db' => [
         'type' => 'sqlite',
-        'database' => 'site.db'
+        'database' => __DIR__ . '/../content/site.db'
     ],
 
     // Routes
