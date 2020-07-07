@@ -1,6 +1,6 @@
 [submodule "www/kirby"]
 	path = www/kirby
-	url = git@github.com:getkirby/kirby.git
+	url = git@github.com:getkirby-v2/kirby.git
 [submodule "src/plugins/patterns"]
 	path = src/plugins/patterns
 	url = git@github.com:getkirby-plugins/patterns-plugin.git
