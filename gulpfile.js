@@ -64,9 +64,7 @@ function scripts(callback) {
 
 function styles() {
   const processors = [
-    autoprefixer({
-      browsers: ['> 5%']
-    })
+    autoprefixer()
   ];
 
   return gulp.src(paths.src + 'styles/*.scss')
@@ -103,5 +101,5 @@ function watch() {
 // Task sets
 const compile = gulp.series(clean, gulp.parallel(fonts, icons, images, vectors, scripts, styles));
 
-gulp.task('start', compile);
+gulp.task('build', compile);
 gulp.task('dev', gulp.series(compile, gulp.parallel(watch, sync)));

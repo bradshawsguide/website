@@ -1,6 +1,6 @@
 const rollup = require('rollup');
-const commonjs = require('rollup-plugin-commonjs');
-const resolve = require('rollup-plugin-node-resolve');
+const commonjs = require('@rollup/plugin-commonjs');
+const {nodeResolve} = require('@rollup/plugin-node-resolve');
 const {terser} = require('rollup-plugin-terser');
 
 module.exports = (modules, logger, callback) => {
@@ -8,10 +8,8 @@ module.exports = (modules, logger, callback) => {
     rollup.rollup({
       input: module.input,
       plugins: [
-        resolve({
-          browser: true,
-          jsnext: true,
-          main: true
+        nodeResolve({
+          browser: true
         }),
         commonjs(),
         terser()
