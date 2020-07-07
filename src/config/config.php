@@ -27,7 +27,7 @@ c::set('cache.html', true);
 c::set('cache.ignore', array('search', 'sitemap'));
 
 // Sub-resource integrity
-c::set('plugin.kirby-sri', true);
+c::set('plugin.kirby-sri', false); // Breaks on Mythic Beasts server
 
 // Patterns
 c::set('patterns.preview.css', 'assets/app.css');
