@@ -1,6 +1,6 @@
 [submodule "src/content"]
 	path = src/content
-	url = git@github.com:bradshawsguide/content.git
+	url = https://github.com/bradshawsguide/content.git
 [submodule "src/patterns"]
 	path = src/patterns
-	url = git@github.com:bradshawsguide/patterns.git
+	url = https://github.com/bradshawsguide/patterns.git
