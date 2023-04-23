@@ -1,20 +1,21 @@
 <?php
 snippet('head');
 
-pattern('common/inquire', [
+snippet('inquire', [
+    'title' => 'Search '.site()->title(),
     'modifiers' => ['home']
 ]);
 
-pattern('common/header', [
+snippet('header', [
     'level' => 2,
-    'title' => html::a(page('routes')->url(), 'Routes & Tours'),
+    'title' => Html::a(page('routes')->url(), 'Routes & Tours'),
     'subtitle' => '(In four sections), adapted to the railway system:',
     'modifiers' => ['index']
 ]);
 
-pattern('common/page/content');
+snippet('page/content');
 
-pattern('common/section/places', [
+snippet('section/places', [
     'modifiers' => ['offset']
 ]);
 

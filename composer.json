@@ -1,0 +1,43 @@
+{
+  "name": "bradshawsguide/website",
+  "version": "3.0.0-beta",
+  "type": "project",
+  "description": "Bradshaw's Guide for Tourists in Great Britain & Ireland",
+  "keywords": [
+    "railways",
+    "reference",
+    "travel"
+  ],
+  "homepage": "https://bradshaws.guide",
+  "license": "MIT",
+  "authors": [{
+    "name": "Paul Robert Lloyd",
+    "email": "noreply@paulrobertlloyd.com",
+    "homepage": "https://paulrobertlloyd.com"
+  }],
+  "support": {
+    "issues": "https://github.com/bradshawsguide/website/issues"
+  },
+  "minimum-stability": "beta",
+  "repositories": [{
+    "type": "vcs",
+    "url": "https://github.com/getkirby/geo"
+  }],
+  "require": {
+    "getkirby/cms": "^3.9",
+    "getkirby/geo": "dev-main",
+    "sylvainjule/locator": "^1.0",
+    "omz13/kirby3-xmlsitemap": "@dev",
+    "k-community/markdown-field": "^2.1"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  },
+  "extra": {
+    "kirby-cms-path": false,
+    "kirby-plugin-path": "src/plugins"
+  }
+}

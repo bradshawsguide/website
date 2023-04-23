@@ -1,9 +1,9 @@
 <?php
 
-return function ($site, $pages, $page) {
+return function ($site) {
     $geo = get('g');
     $query = get('q');
-    $pages = 10;
+    $paginate = 10;
     $options = [
         'minlength' => 2,
         'fields' => ['title','text'],
@@ -17,9 +17,9 @@ return function ($site, $pages, $page) {
     ];
 
     if ($query == true) { // Free text search
-        $results = $site->search($query, $options);
-        $results = $results->paginate($pages, ['method' => 'query']);
-        $title = "Search results for ‘".esc(get('q'))."’";
+        $results = $site->index()->search($query, $options);
+        $results = $results->paginate($paginate, ['method' => 'query']);
+        $title = "Search results for ‘".esc($query)."’";
     } elseif ($geo == true) { // Geo located search
         $point = geo::point($geo);
 
@@ -27,13 +27,13 @@ return function ($site, $pages, $page) {
         $places = page('places')->grandChildren()->children();
         $combined = $stations->merge($places)->sortBy('title');
 
-        $results = $combined->filterBy('location', 'radius', [
+        $results = $stations->filterBy('latlng', 'radius', [
             'lat' => $point->lat(),
             'lng' => $point->lng(),
             'radius' => 15
         ])->sortBy('location');
 
-        $results = $results->paginate($pages);
+        $results = $results->paginate($paginate);
         $title = "Places near you";
         $query = esc($geo);
     } else {

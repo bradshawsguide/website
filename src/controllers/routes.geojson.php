@@ -1,7 +1,7 @@
 <?php
 
 return function ($site, $pages, $page) {
-    $routes = page('routes')->children()->visible();
+    $routes = page('routes')->children()->listed();
 
     if ($param = param('section')) {
         $routes = $routes->filterBy('section', $param);

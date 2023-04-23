@@ -1,16 +1,12 @@
 <?php
 
-class RegionPage extends Page
+class RegionPage extends Kirby\Cms\Page
 {
     public function featured()
     {
-        if ($this->parent() == 'places') { // Country
-            $featured = $this->feature()->yaml();
-
-            array_walk($featured, function (&$value, $key) {
-                $value = page('places/'.$value);
-            });
-        } else { // County
+        if ($this->feature()->isNotEmpty()) {
+            $featured = $this->feature()->toPages();
+        } else {
             $featured = $this->children()->filter(function ($page) {
                 return $page->hasImages();
             });
@@ -28,17 +24,5 @@ class RegionPage extends Page
         }
 
         return $listTitle;
-    }
-
-    // Return `title_short` if exists, else normal title
-    public function shortTitle()
-    {
-        if (!$this->title_short()->empty()) {
-            $shortTitle = $this->title_short();
-        } else {
-            $shortTitle = $this->title();
-        };
-
-        return $shortTitle;
     }
 }

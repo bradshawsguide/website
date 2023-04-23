@@ -1,11 +1,9 @@
 <?php
 snippet('head');
 
-pattern('common/header', [
-    'title' => $page->title()
-]);
+snippet('header');
 
-pattern('common/page/content', [
+snippet('page/content', [
     'editable' => false
 ]);
 

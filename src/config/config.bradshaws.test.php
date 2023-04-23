@@ -1,35 +1,21 @@
 <?php
 
-// Debugging
-c::set('debug', true);
-c::set('whoops', false);
-
-// URLs
-c::set('url', 'https://bradshaws.test');
-
-// Tiny URL Setup
-c::set('tinyurl.url', 'https://bradshaws.test');
-
-// Disable caching
-c::set('cache', false);
-
-// Route required to import stations CSV
-// c::set('routes', array(
-//     array(
-//         'pattern' => 'import',
-//         'action' => function () {
-//             $filepath = kirby()->roots()->content().DS.'stations.csv';
-//             $csv = csv($filepath, $parse_header = 'false', $delimiter = ',', $length = 8000);
-//             $csv->createPages('stations', 'uid', $template = 'station');
-//         }
-//     )
-// ));
+return [
+    // Environment
+    'cache' => false,
+    'debug' => true,
+    'url' => 'https://bradshaws.test',
+    'whoops' => true,
+    'panel' =>[
+        'install' => true
+    ]
+];
 
 // Ensure text files are automatically formatted using preferred style
-data::$adapters['kd']['encode'] = function ($data) {
+Data::$adapters['kd']['encode'] = function ($data) {
     $result = array();
     foreach ($data as $key => $value) {
-        $key = str::lower(str::slug($key));
+        $key = Str::lower(Str::slug($key));
 
         if (empty($key) || is_null($value)) {
             continue;

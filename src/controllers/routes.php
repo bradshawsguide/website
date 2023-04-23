@@ -5,9 +5,9 @@ return function ($site, $pages, $page) {
     $companies = page('companies')->children()->sortBy('dirname');
 
     // Routes
-    $routes = page('routes')->children()->visible();
-    $featured = $routes->filter(function ($page) {
-        return $page->hasImages();
+    $routes = page('routes')->children()->listed();
+    $featured = $routes->filter(function ($route) {
+        return $route->hasImages();
     });
 
     if ($param = param('section')) {
