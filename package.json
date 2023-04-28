@@ -90,5 +90,9 @@
     "stylelint-config-standard": "^33.0.0",
     "xo": "^0.54.0"
   },
+  "engines": {
+    "node": "^20.0.0",
+    "npm": "^9.0.0"
+  },
   "type": "module"
 }
