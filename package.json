@@ -86,7 +86,7 @@
     "postcss-nested": "^6.0.0",
     "postcss-simple-vars": "^5.0.0",
     "rollup": "^3.20.0",
-    "stylelint": "^15.5.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-standard": "^33.0.0",
     "xo": "^0.54.0"
   },
