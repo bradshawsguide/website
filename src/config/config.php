@@ -13,24 +13,26 @@ return [
     ],
 
     // Routes
-    'routes' => [[
-        'pattern' => 'app.webmanifest',
-        'action' => function () {
-            return tpl::load(kirby()->root('templates').'/app.webmanifest.php', [
-                'site' => kirby()->site()
-            ]);
-        }
-    ],[
-        'pattern' => 'map',
-        'action' => function () {
-            return tpl::load(kirby()->root('templates').'/map.php', [], false);
-        }
-    ],[
-        'pattern' => 'robots.txt',
-        'action' => function () {
-            return new Response('User-agent: *
-Disallow: /www/kirby/
-Sitemap: '.url('sitemap.xml'), 'txt');
-        }
-    ]]
+    'routes' => [
+        [
+            'pattern' => 'app.webmanifest',
+            'action' => function () {
+                $json = snippet('app/webmanifest', ['site' => site()], true);
+                return new Response($json, 'application/manifest+json');
+            }
+        ],
+        [
+            'pattern' => 'map',
+            'action' => function () {
+                return snippet('app/map', [], true);
+            }
+        ],
+        [
+            'pattern' => 'robots.txt',
+            'action' => function () {
+                $txt = snippet('app/robots', [], true);
+                return new Response($txt, 'txt');
+            }
+        ]
+    ]
 ];
