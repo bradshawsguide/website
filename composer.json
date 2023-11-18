@@ -27,7 +27,6 @@
     "getkirby/cms": "^3.9",
     "getkirby/geo": "dev-main",
     "sylvainjule/locator": "^1.0",
-    "omz13/kirby3-xmlsitemap": "@dev",
     "k-community/markdown-field": "^2.1"
   },
   "config": {

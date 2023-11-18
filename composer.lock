@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "451e26aa1131c2cafa515d630c390667",
+    "content-hash": "04afdfb93a193f32ab3c438a7216d6c7",
     "packages": [
         {
             "name": "claviska/simpleimage",
@@ -646,67 +646,6 @@
                 "source": "https://github.com/michelf/php-smartypants/tree/1.8.1"
             },
             "time": "2016-12-13T01:01:17+00:00"
-        },
-        {
-            "name": "omz13/kirby3-xmlsitemap",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/omz13/kirby3-xmlsitemap.git",
-                "reference": "905940bbc171130e545423da16ec475cb7494be7"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/omz13/kirby3-xmlsitemap/zipball/905940bbc171130e545423da16ec475cb7494be7",
-                "reference": "905940bbc171130e545423da16ec475cb7494be7",
-                "shasum": ""
-            },
-            "require": {
-                "getkirby/composer-installer": "^1.1",
-                "php": ">=7.1"
-            },
-            "require-dev": {
-                "getkirby/cms": "^3.0.1",
-                "jakub-onderka/php-parallel-lint": "^1.0",
-                "localheinz/composer-normalize": "^1.0.0",
-                "omz13/omz13-coding-standard": "dev-master",
-                "phpcompatibility/php-compatibility": "^8.2",
-                "phpmd/phpmd": "^2.6",
-                "phpstan/phpstan": "^0.11",
-                "phpstan/phpstan-strict-rules": "^0.11",
-                "roave/security-advisories": "dev-master"
-            },
-            "default-branch": true,
-            "type": "kirby-plugin",
-            "autoload": {
-                "psr-4": {
-                    "omz13\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "David Somers",
-                    "email": "dsomers@omz13.com",
-                    "homepage": "https://meldingstuff.com",
-                    "role": "Developer"
-                }
-            ],
-            "description": "kirby3 plugin to generate an xml-based sitemap",
-            "keywords": [
-                "Sitemap",
-                "kirby3",
-                "plugin"
-            ],
-            "support": {
-                "issues": "https://github.com/omz13/kirby3-xmlsitemap/issues",
-                "source": "https://github.com/omz13/kirby3-xmlsitemap/tree/1.2.1"
-            },
-            "abandoned": true,
-            "time": "2019-04-24T20:37:51+00:00"
         },
         {
             "name": "phpmailer/phpmailer",
@@ -1369,8 +1308,7 @@
     "aliases": [],
     "minimum-stability": "beta",
     "stability-flags": {
-        "getkirby/geo": 20,
-        "omz13/kirby3-xmlsitemap": 20
+        "getkirby/geo": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
