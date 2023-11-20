@@ -1,7 +1,7 @@
 {
+  "private": true,
   "name": "bradshawsguide",
   "version": "3.0.0-beta",
-  "private": true,
   "description": "Bradshaw's Guide for Tourists in Great Britain & Ireland",
   "keywords": [
     "railways",
@@ -9,46 +9,38 @@
     "travel"
   ],
   "homepage": "https://bradshaws.guide",
-  "license": "MIT",
   "author": {
     "name": "Paul Robert Lloyd",
     "email": "noreply@paulrobertlloyd.com",
     "url": "https://paulrobertlloyd.com"
   },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradshawsguide/website/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bradshawsguide/website.git"
   },
-  "bugs": "https://github.com/bradshawsguide/website/issues",
+  "engines": {
+    "node": "^20.0.0",
+    "npm": "^10.0.0"
+  },
+  "type": "module",
   "scripts": {
     "prebuild": "rm -rf www/assets && mkdir -p www/assets",
     "build:fonts": "cpy src/patterns/assets/fonts www/assets/fonts --flat",
     "build:icons": "imagemin src/patterns/assets/icons/* --out-dir=www/assets/icons",
     "build:images": "imagemin src/patterns/assets/images/* --out-dir=www/assets/images",
     "build:scripts": "rollup --config etc/rollup.config.js",
-    "build:styles": "lightningcss --bundle --custom-media --minify --sourcemap --targets '>= 0.25%' ./src/patterns/assets/styles/*.css --output-dir=www/assets/",
+    "build:styles": "lightningcss --bundle --custom-media --minify --targets '>= 0.25%' ./src/patterns/assets/styles/*.css --output-dir=www/assets/",
     "build:vectors": "cpy src/patterns/assets/vectors www/assets/vectors --flat",
     "build": "npm-run-all build:*",
     "serve": "browser-sync start --config etc/browser-sync.config.js",
-    "test:scripts": "xo src/patterns/assets/**/*.js",
-    "test:styles": "stylelint src/patterns/assets/**/*.css",
-    "test": "npm-run-all test:*",
-    "watch:scripts": "rollup --config etc/rollup.config.js --watch",
-    "watch": "npm-run-all --parallel serve watch:*"
-  },
-  "stylelint": {
-    "extends": "stylelint-config-standard"
-  },
-  "xo": {
-    "space": true,
-    "envs": "browser",
-    "ignores": [
-      "src/plugins/**",
-      "www/**"
-    ],
-    "rules": {
-      "camelcase": "warn"
-    }
+    "lint:scripts": "eslint 'src/patterns/assets/**/*.js'",
+    "lint:styles": "stylelint 'src/patterns/assets/**/*.css'",
+    "lint": "npm-run-all lint:*",
+    "watch:scripts": "rollup --config etc/rollup.config.js --watch"
   },
   "dependencies": {
     "leaflet": "^1.9.0"
@@ -59,17 +51,45 @@
     "@rollup/plugin-terser": "^0.4.1",
     "browser-sync": "^2.29.1",
     "cpy-cli": "^5.0.0",
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-unicorn": "^49.0.0",
     "imagemin-cli": "^7.0.0",
     "lightningcss-cli": "^1.22.1",
     "npm-run-all": "^4.1.5",
     "rollup": "^4.5.0",
     "stylelint": "^15.5.0",
     "stylelint-config-standard": "^34.0.0",
-    "xo": "^0.56.0"
+    "stylelint-order": "^6.0.3"
   },
-  "engines": {
-    "node": "^20.0.0",
-    "npm": "^10.0.0"
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "es2021": true
+    },
+    "extends": [
+      "eslint:recommended",
+      "plugin:unicorn/recommended",
+      "prettier"
+    ],
+    "parserOptions": {
+      "ecmaVersion": "latest",
+      "sourceType": "module"
+    },
+    "plugins": ["unicorn"]
   },
-  "type": "module"
+  "stylelint": {
+    "extends": "stylelint-config-standard",
+    "plugins": [
+      "stylelint-order"
+    ],
+    "rules": {
+      "selector-class-pattern": null,
+      "order/order": [
+        "custom-properties",
+        "declarations"
+      ],
+      "order/properties-alphabetical-order": true
+    }
+  }
 }
