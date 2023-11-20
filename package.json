@@ -26,33 +26,18 @@
     "build:icons": "imagemin src/patterns/assets/icons/* --out-dir=www/assets/icons",
     "build:images": "imagemin src/patterns/assets/images/* --out-dir=www/assets/images",
     "build:scripts": "rollup --config etc/rollup.config.js",
-    "build:styles": "postcss src/patterns/assets/styles/*.css --dir www/assets --config etc/postcss.config.cjs",
+    "build:styles": "lightningcss --bundle --custom-media --minify --sourcemap --targets '>= 0.25%' ./src/patterns/assets/styles/*.css --output-dir=www/assets/",
     "build:vectors": "cpy src/patterns/assets/vectors www/assets/vectors --flat",
     "build": "npm-run-all build:*",
     "serve": "browser-sync start --config etc/browser-sync.config.js",
     "test:scripts": "xo src/patterns/assets/**/*.js",
-    "test:styles": "stylelint src/patterns/assets/**/*.scss",
+    "test:styles": "stylelint src/patterns/assets/**/*.css",
     "test": "npm-run-all test:*",
     "watch:scripts": "rollup --config etc/rollup.config.js --watch",
-    "watch:styles": "postcss src/patterns/assets/styles/*.css --dir www/assets --config etc/postcss.config.cjs --watch",
     "watch": "npm-run-all --parallel serve watch:*"
   },
   "stylelint": {
-    "extends": "stylelint-config-standard",
-    "files": "**/*.css",
-    "rules": {
-      "at-rule-no-unknown": [
-        true,
-        {
-          "ignoreAtRules": [
-            "define-mixin",
-            "mixin"
-          ]
-        }
-      ],
-      "declaration-empty-line-before": "never",
-      "string-quotes": "double"
-    }
+    "extends": "stylelint-config-standard"
   },
   "xo": {
     "space": true,
@@ -74,16 +59,9 @@
     "@rollup/plugin-terser": "^0.4.1",
     "browser-sync": "^2.29.1",
     "cpy-cli": "^5.0.0",
-    "cssnano": "^6.0.0",
     "imagemin-cli": "^7.0.0",
+    "lightningcss-cli": "^1.22.1",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.23",
-    "postcss-cli": "^10.1.0",
-    "postcss-color-mod-function": "^3.0.3",
-    "postcss-easy-import": "^4.0.0",
-    "postcss-extend-rule": "^4.0.0",
-    "postcss-nested": "^6.0.0",
-    "postcss-simple-vars": "^5.0.0",
     "rollup": "^4.5.0",
     "stylelint": "^15.5.0",
     "stylelint-config-standard": "^34.0.0",

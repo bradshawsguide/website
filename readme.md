@@ -52,7 +52,6 @@ website
 ├── etc                         # CONFIGURATION
 │   ├── nginx                   # Nginx server
 │   ├── browser-sync.config.js  # BrowserSync configuration
-│   ├── postcss.config.cjs      # PostCSS configuration
 │   └── rollup.config.js        # Rollup configuration
 │
 ├── src                         # SOURCE
