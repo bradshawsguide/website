@@ -27,7 +27,7 @@ export default ({ mode }) => ({
     kirby({
       watch: [
         '../site/(templates|snippets|controllers|models)/**/*.php',
-        '../site/content/**/*',
+        '../content/**/*',
       ],
     }),
     mkcert()

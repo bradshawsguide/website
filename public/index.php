@@ -9,7 +9,7 @@ $kirby = new Kirby([
         'cache' => $base.'/cache',
         'sessions' => $base.'/sessions',
         'site' => $base.'/site',
-        'content' => $base.'/site/content',
+        'content' => $base.'/content',
     ]
 ]);
 

@@ -27,10 +27,11 @@ When developing the site, you can automatically compile assets and refresh the b
 
 ```text
 website
+├── [content]                   # CONTENT [submodule]
+│
 ├── site                        # SOURCE
 │   ├── blueprints              # Kirby panel blueprints
 │   ├── config                  # Kirby configuration
-│   ├── [content]               # Site content [submodule]
 │   ├── controllers             # Kirby template controllers
 │   ├── models                  # Kirby page models
 │   ├── plugins                 # Kirby plugins

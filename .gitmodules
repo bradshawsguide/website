@@ -1,3 +1,3 @@
-[submodule "site/content"]
-	path = site/content
+[submodule "content"]
+	path = content
 	url = https://github.com/bradshawsguide/content.git
