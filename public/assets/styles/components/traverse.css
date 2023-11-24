@@ -36,6 +36,7 @@
   a {
     align-items: center;
     display: flex;
+    gap: var(--space-xs);
     padding: 0 var(--space-m);
 
     &[rel="next"] {
@@ -43,9 +44,15 @@
     }
   }
 
+  & b-visually-hidden {
+    @media (--from-m) {
+      all: initial;
+      color: inherit;
+    }
+  }
+
   [aria-label] { /* ☜ & ☞ */
-    font: 125%/0 serif;
-    padding: var(--space-s) var(--space-2xs);
+    font: 125%/1 serif;
   }
 }
 

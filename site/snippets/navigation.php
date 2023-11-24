@@ -1,7 +1,7 @@
 <b-dialog class="c-navigation" id="navigation" aria-labelledby="navigation-title">
     <b-dialog-toggle class="c-navigation__toggle" action="close" hidden>
         <?php snippet('icon', ['glyph' => 'close']) ?>
-        <span class="u-hidden-upto-medium">Close menu</span>
+        <b-visually-hidden>Close menu</b-visually-hidden>
     </b-dialog-toggle>
 
     <nav class="c-navigation__container">

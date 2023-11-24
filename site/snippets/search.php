@@ -1,7 +1,7 @@
 <b-dialog class="c-search" id="search" aria-label="Search">
     <b-dialog-toggle action="close" hidden>
         <?php snippet('icon', ['glyph' => 'close']) ?>
-        <span class="u-hidden">Close search</span>
+        <b-visually-hidden>Close search<b-visually-hidden>
     </b-dialog-toggle>
 
     <search>
@@ -11,13 +11,13 @@
                 <?php snippet('icon', [
                     'glyph' => 'search'
                 ]) ?>
-                <span class="u-hidden-upto-medium">Search</span>
+                <b-visually-hidden>Search</b-visually-hidden>
             </button>
             <button type="button" data-geo>
                 <?php snippet('icon', [
                     'glyph' => 'locate'
                 ]) ?>
-                <span class="u-hidden-upto-medium">Stations near me</span>
+                <b-visually-hidden>Stations near me</b-visually-hidden>
             </button>
         </form>
     </search>

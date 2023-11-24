@@ -11,12 +11,20 @@
   flex: 0 0 auto;
   justify-content: space-between;
 
+  & b-visually-hidden {
+    @media (--from-m) {
+      all: initial;
+      color: inherit;
+      font: inherit;
+      text-transform: inherit;
+    }
+  }
+
   & a[rel="home"] {
     color: var(--color-mustard);
     display: block;
     font: var(--font-heading);
     padding-block: var(--space-xs);
-    padding-inline: var(--space-l);
     text-transform: uppercase;
     white-space: nowrap;
   }

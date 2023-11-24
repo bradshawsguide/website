@@ -11,7 +11,9 @@
         <li class="c-traverse__item c-traverse__item--prev">
             <a rel="prev" href="<?= $page->prev()->url() ?>">
                 <span aria-label="Previous">&#9756;</span>
-                <span class="c-traverse__label u-hidden-upto-medium"><?= smartypants($page->prev()->shortTitle()) ?></span>
+                <b-visually-hidden>
+                    <?= smartypants($page->prev()->shortTitle()) ?>
+                </b-visually-hidden>
             </a>
         </li>
 <?php endif ?>
@@ -19,7 +21,9 @@
         <li class="c-traverse__item c-traverse__item--next">
             <a rel="next" href="<?= $page->next()->url() ?>">
                 <span aria-label="Next">&#9758;</span>
-                <span class="c-traverse__label u-hidden-upto-medium"><?= smartypants($page->next()->shortTitle()) ?></span>
+                <b-visually-hidden>
+                    <?= smartypants($page->next()->shortTitle()) ?>
+                </b-visually-hidden>
             </a>
         </li>
 <?php endif ?>

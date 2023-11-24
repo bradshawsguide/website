@@ -2,7 +2,7 @@
     <caption><?= smartypants($title ?? 'Distances of Places from the Station') ?></caption>
     <thead>
         <tr>
-            <th class="u-hidden">To:</th>
+            <th><b-visually-hidden>To:</b-visually-hidden></th>
             <th>Miles.</th>
         </tr>
     </thead>

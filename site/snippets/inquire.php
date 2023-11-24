@@ -9,13 +9,13 @@
                 <?php snippet('icon', [
                     'glyph' => 'search'
                 ]) ?>
-                <span class="c-inquire__label u-hidden-upto-medium">Search</span>
+                <b-visually-hidden>Search</b-visually-hidden>
             </button>
             <button class="c-inquire__button" type="button" data-geo>
                 <?php snippet('icon', [
                     'glyph' => 'locate'
                 ]) ?>
-                <span class="c-inquire__label u-hidden-upto-medium">Places near me</span>
+                <b-visually-hidden>Places near me</b-visually-hidden>
             </button>
         </div>
     </fieldset>
