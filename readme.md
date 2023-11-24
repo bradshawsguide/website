@@ -30,7 +30,6 @@ To run with HTTPS locally on macOS use [Laravel Herd](https://herd.laravel.com/)
 ```text
 website
 ├── etc                         # CONFIGURATION
-│   ├── nginx                   # Nginx server
 │   ├── browser-sync.config.js  # BrowserSync configuration
 │   └── rollup.config.js        # Rollup configuration
 │

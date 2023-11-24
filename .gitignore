@@ -1,4 +1,3 @@
-/etc/ssl/
 /src/accounts/
 /src/plugins/*
 !/src/plugins/kirby-bradshawsguide
