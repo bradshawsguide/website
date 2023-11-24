@@ -1,0 +1,20 @@
+/**
+ * Interactive elements
+ * https://w3c.github.io/html/interactive-elements.html
+ */
+
+/* Common focus styles */
+:is(a, button, input, textarea, summary):focus-visible {
+  outline: var(--focus-outline-size) solid var(--focus-outline-color);
+  outline-offset: var(--focus-outline-offset);
+  z-index: 99;
+}
+
+dialog {
+  border: 0;
+  padding: 0;
+
+  &::backdrop {
+    background: rgb(0 0 0 / 30%);
+  }
+}

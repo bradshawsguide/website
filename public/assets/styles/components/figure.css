@@ -1,0 +1,44 @@
+.c-figure__img {
+  width: 100%;
+}
+
+.c-figure__caption {
+  border-bottom: var(--line-solid);
+  font: var(--font-caption);
+  padding-bottom: var(--space-m);
+  padding-top: var(--space-m);
+}
+
+/* Bleed to the edges of the viewport */
+.c-figure--cover {
+  margin-bottom: var(--gap-y);
+  margin-left: calc(var(--page-gutter) * -1);
+  margin-right: calc(var(--page-gutter) * -1);
+
+  .c-figure__img {
+    --banner-height: 5rem;
+
+    aspect-ratio: 16 / 9;
+    max-height: calc(80vh - var(--banner-height));
+    object-fit: cover;
+  }
+
+  .c-figure__caption {
+    margin-left: var(--page-gutter);
+    margin-right: var(--page-gutter);
+  }
+}
+
+/* Map illustration */
+.c-figure.u-map {
+  margin-bottom: var(--space-l);
+
+  .c-figure__img {
+    border: var(--line-double);
+  }
+}
+
+/* Image */
+.c-figure--image {
+  margin: var(--space-l) 0;
+}

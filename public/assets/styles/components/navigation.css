@@ -1,0 +1,55 @@
+.c-navigation {
+  --focus-outline-color: currentcolor;
+  --focus-outline-offset: -0.25rem;
+  --link-decoration: none;
+
+  color: var(--color-neutral-lightest);
+
+  &[open] {
+    --navigation-direction: column;
+
+    background-color: var(--color-mustard);
+    block-size: 100dvh;
+    color: var(--color-neutral-darkest);
+    display: grid;
+    inline-size: min(90dvw, 40rem);
+    inset-inline: auto 0;
+    margin: var(--navigation-margin);
+    max-block-size: 100dvh;
+    place-content: center;
+  }
+
+  & h2 {
+    font: var(--font-body);
+    font-variant-caps: all-small-caps;
+    line-height: var(--line-height-solid);
+    margin-block-end: var(--space-s);
+    padding-inline: var(--space-l);
+  }
+
+  & li {
+    border-block-start: var(--line-solid);
+    font: var(--font-headline);
+    font-size: var(--font-size-m);
+
+    [open] & {
+      font-size: max(var(--font-size-l), 3vw)
+    }
+  }
+
+  & button {
+    display: flex;
+    font: var(--font-label);
+    gap: var(--space-xs);
+    inset-block-start: 0;
+    inset-inline-end: 0;
+    padding: var(--space-l);
+    position: fixed;
+  }
+
+  & a {
+    color: inherit;
+    display: block;
+    padding: var(--space-l);
+  }
+}

@@ -1,0 +1,14 @@
+.u-pull-right {
+  margin-bottom: calc(var(--gap-y) / 2);
+  margin-top: 0;
+
+  @media screen and (--from-s) {
+    float: right;
+    margin-left: 1.5rem;
+    width: 50%;
+  }
+
+  @media screen and (--from-m) {
+    width: 18em;
+  }
+}

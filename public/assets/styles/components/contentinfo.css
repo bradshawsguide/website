@@ -1,0 +1,35 @@
+.c-contentinfo {
+  --color-link: currentcolor;
+  --color-link-hover: var(--color-mustard);
+
+  align-items: flex-end;
+  background-color: var(--color-neutral-darkest);
+  color: var(--color-neutral-lighter);
+  display: flex;
+  flex: 0 0 auto;
+  flex-flow: row wrap;
+  font: var(--font-caption);
+  justify-content: space-around;
+  margin-top: auto;
+  padding: 1rem var(--page-gutter);
+}
+
+.c-contentinfo__social {
+  --link-decoration: none;
+
+  flex: 0 0 auto;
+  margin: 0 auto;
+  order: 2;
+
+  a {
+    display: inline-block;
+    padding: var(--space-2xs);
+  }
+}
+
+.c-contentinfo__rights {
+  flex: 0 0 auto;
+  margin-bottom: var(--space-xs);
+  margin-left: auto;
+  margin-right: auto;
+}

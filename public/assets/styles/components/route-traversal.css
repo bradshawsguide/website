@@ -1,0 +1,46 @@
+.c-route-traversal {
+  --link-decoration: none;
+
+  border-top: var(--line-solid);
+  color: var(--color-neutral-mid);
+  display: grid;
+  grid-auto-flow: row dense;
+  grid-gap: var(--space-xs);
+  grid-template-areas:
+    "title title"
+    "prev  next";
+  padding: var(--space-2xs) var(--space-2xs) var(--space-s);
+
+  @media screen and (--from-m) {
+    grid-template-areas: "prev title next";
+  }
+
+  [rel="prev"]::before {
+    content: "\261C\0020"; /* ☜ */
+    font-family: serif;
+  }
+
+  [rel="next"]::after {
+    content: "\0020\261E"; /* ☞ */
+    font-family: serif;
+  }
+}
+
+.c-route-traversal--current {
+  background-color: var(--color-neutral-lighter);
+}
+
+.c-route-traversal__title {
+  font-weight: bold;
+  grid-area: title;
+  text-align: center;
+}
+
+.c-route-traversal__prev {
+  grid-area: prev;
+}
+
+.c-route-traversal__next {
+  grid-area: next;
+  text-align: right;
+}

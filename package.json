@@ -28,39 +28,26 @@
   },
   "type": "module",
   "scripts": {
-    "prebuild": "rm -rf public/assets && mkdir -p public/assets",
-    "build:fonts": "cpy site/patterns/assets/fonts public/assets/fonts --flat",
-    "build:icons": "imagemin site/patterns/assets/icons/* --out-dir=public/assets/icons",
-    "build:images": "imagemin site/patterns/assets/images/* --out-dir=public/assets/images",
-    "build:scripts": "rollup --config etc/rollup.config.js",
-    "build:styles": "lightningcss --bundle --custom-media --minify --targets '>= 0.25%' ./site/patterns/assets/styles/*.css --output-dir=public/assets/",
-    "build:vectors": "cpy site/patterns/assets/vectors public/assets/vectors --flat",
-    "build": "npm-run-all build:*",
-    "serve": "browser-sync start --config etc/browser-sync.config.js",
-    "lint:scripts": "eslint 'site/patterns/assets/**/*.js'",
-    "lint:styles": "stylelint 'site/patterns/assets/**/*.css'",
-    "lint": "npm-run-all lint:*",
-    "watch:scripts": "rollup --config etc/rollup.config.js --watch"
+    "build": "vite build",
+    "dev": "vite",
+    "lint:scripts": "eslint 'public/assets/**/*.js'",
+    "lint:styles": "stylelint 'public/assets/**/*.css'",
+    "lint": "npm run lint:scripts && npm run lint:styles"
   },
   "dependencies": {
     "leaflet": "^1.9.0"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^25.0.0",
-    "@rollup/plugin-node-resolve": "^15.0.0",
-    "@rollup/plugin-terser": "^0.4.1",
-    "browser-sync": "^2.29.1",
-    "cpy-cli": "^5.0.0",
     "eslint": "^8.54.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-unicorn": "^49.0.0",
-    "imagemin-cli": "^7.0.0",
-    "lightningcss-cli": "^1.22.1",
-    "npm-run-all": "^4.1.5",
-    "rollup": "^4.5.0",
+    "lightningcss": "^1.22.1",
     "stylelint": "^15.5.0",
     "stylelint-config-standard": "^34.0.0",
-    "stylelint-order": "^6.0.3"
+    "stylelint-order": "^6.0.3",
+    "vite": "^5.0.2",
+    "vite-plugin-kirby": "^5.0.1",
+    "vite-plugin-mkcert": "^1.17.1"
   },
   "eslintConfig": {
     "env": {
@@ -76,7 +63,9 @@
       "ecmaVersion": "latest",
       "sourceType": "module"
     },
-    "plugins": ["unicorn"]
+    "plugins": [
+      "unicorn"
+    ]
   },
   "stylelint": {
     "extends": "stylelint-config-standard",

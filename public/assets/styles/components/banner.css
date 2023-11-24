@@ -1,0 +1,68 @@
+.c-banner {
+  --color-link: currentcolor;
+  --color-link-hover: var(--color-mustard);
+  --focus-outline-offset: -0.25rem;
+  --link-decoration: none;
+
+  align-items: center;
+  background-color: var(--color-neutral-darkest);
+  color: var(--color-neutral-lightest);
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+
+  & a[rel="home"] {
+    color: var(--color-mustard);
+    display: block;
+    font: var(--font-heading);
+    padding-block: var(--space-xs);
+    padding-inline: var(--space-l);
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  & button {
+    display: flex;
+    font: var(--font-label);
+    gap: var(--space-xs);
+    padding: var(--space-l);
+
+    &:hover {
+      color: var(--color-mustard);
+    }
+
+    &:active {
+      color: var(--color-link-active);
+    }
+  }
+}
+
+.c-banner__skip {
+  background-color: white;
+  display: block;
+  font: var(--font-label);
+  margin: 0 auto;
+  padding: var(--space-s);
+  position: fixed;
+  top: 0;
+  transform: translateY(0);
+  white-space: nowrap;
+  z-index: var(--z-index-overlay);
+
+  &:hover {
+    color: var(--color-link-hover);
+  }
+
+  &:active {
+    color: var(--color-link-active);
+  }
+
+  &:focus {
+    background-color: var(--color-focus);
+  }
+
+  &:not(:focus, :focus-within) {
+    transform: translateY(-100%);
+    transition: transform 0.5s ease-out;
+  }
+}

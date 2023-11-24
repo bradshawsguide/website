@@ -1,0 +1,27 @@
+/**
+ * Embedded content
+ * http://w3c.github.io/html/semantics-embedded-content.html
+ */
+
+img {
+  border-style: none;
+  display: block;
+
+  @media print {
+    page-break-inside: avoid;
+  }
+}
+
+/**
+ * 1. Hide overflow in IE
+ * 2. Fill with currentColor
+ */
+svg:not(:root) {
+  display: block;
+  fill: currentcolor; /* 2 */
+  overflow: hidden; /* 1 */
+}
+
+iframe {
+  border: 0;
+}

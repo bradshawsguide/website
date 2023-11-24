@@ -1,0 +1,39 @@
+.c-search {
+  --focus-outline-offset: -0.25rem;
+
+  background-color: var(--color-neutral-darkest);
+  color: var(--color-neutral-lightest);
+  inline-size: 100dvw;
+  outline: var(--line-solid);
+
+  &[open] {
+    display: flex;
+  }
+
+  & button {
+    border-inline-start: var(--line-solid);
+    display: flex;
+    font: var(--font-label);
+    gap: var(--space-xs);
+    padding: var(--space-l);
+  }
+
+  & search {
+    flex: 1;
+  }
+
+  & form {
+    display: flex;
+  }
+
+  & input {
+    background: none;
+    border: 0;
+    flex: 1 1 0;
+    font: var(--font-label);
+    inline-size: 100%;
+    outline: var(--line-solid);
+    padding-block: var(--space-m);
+    padding-inline: var(--space-l);
+  }
+}

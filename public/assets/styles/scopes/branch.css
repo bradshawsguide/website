@@ -1,0 +1,32 @@
+.s-branch {
+  border-left: 0.25rem solid var(--color-neutral-lighter);
+  margin-bottom: var(--space-l);
+  margin-top: var(--space-l);
+  padding-left: var(--space-m);
+  position: relative;
+
+  &::before,
+  &::after {
+    content: "";
+    display: block;
+    position: absolute;
+  }
+
+  &::before { /* Spur */
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='40'><path fill='none' stroke='#e8e5e3' stroke-width='0.25rem' d='M2 0s0 13 10 20a23 23 0 0 1 10 20'/></svg>");
+    height: 40px;
+    left: -24px;
+    top: -40px;
+    width: 24px;
+    z-index: 0;
+  }
+
+  &::after { /* Terminus */
+    background-color: var(--color-neutral-lighter);
+    bottom: 0;
+    height: 0.25rem;
+    left: -0.625rem;
+    margin-bottom: -0.25rem;
+    width: var(--space-m);
+  }
+}

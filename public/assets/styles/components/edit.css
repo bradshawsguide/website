@@ -1,0 +1,11 @@
+.c-edit {
+  --color-link: var(--color-neutral-mid);
+
+  color: var(--color-neutral-mid);
+  font: var(--font-caption);
+  padding: var(--space-xs) 0;
+}
+
+.s-prose--centered + .c-edit {
+  text-align: center;
+}

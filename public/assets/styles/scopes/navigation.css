@@ -1,0 +1,15 @@
+.s-navigation {
+  display: flex;
+  flex-direction: column;
+
+  a {
+    background-color: var(--color-neutral-lighter);
+    box-shadow: 0 -1px var(--color-neutral-lightest);
+    font: var(--font-label);
+    padding: var(--space-s);
+
+    &[aria-current] {
+      font-weight: bold;
+    }
+  }
+}

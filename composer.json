@@ -27,7 +27,8 @@
     "getkirby/cms": "^3.9",
     "getkirby/geo": "dev-main",
     "sylvainjule/locator": "^1.0",
-    "k-community/markdown-field": "^2.1"
+    "k-community/markdown-field": "^2.1",
+    "arnoson/kirby-vite": "^5.0"
   },
   "config": {
     "optimize-autoloader": true,

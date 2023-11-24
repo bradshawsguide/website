@@ -1,0 +1,34 @@
+.c-route-item {
+  align-items: baseline;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+
+  @media screen and (--from-m) {
+    flex-direction: row;
+  }
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.c-route-item__label {
+  font: var(--font-label);
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.c-route-item__desc {
+  font: var(--font-caption);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+  @media screen and (--from-m) {
+    &::before {
+      content: "—";
+      margin: 0 var(--space-2xs);
+    }
+  }
+}

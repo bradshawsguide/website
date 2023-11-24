@@ -1,0 +1,43 @@
+/**
+ * Webfonts
+ */
+
+@font-face {
+  font-display: fallback;
+  font-family: "Scotch Text";
+  font-style: normal;
+  font-weight: normal;
+  src:
+    url("/assets/fonts/scotchtext-roman.woff2") format("woff2"),
+    url("/assets/fonts/scotchtext-roman.woff") format("woff");
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: "Scotch Text";
+  font-style: italic;
+  font-weight: normal;
+  src:
+    url("/assets/fonts/scotchtext-italic.woff2") format("woff2"),
+    url("/assets/fonts/scotchtext-italic.woff") format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Trocchi;
+  font-style: normal;
+  font-weight: bold;
+  src:
+    url("/assets/fonts/trocchi-bold.woff2") format("woff2"),
+    url("/assets/fonts/trocchi-bold.woff") format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "League Gothic";
+  font-style: normal;
+  font-weight: normal;
+  src:
+    url("/assets/fonts/leaguegothic-regular.woff2") format("woff2"),
+    url("/assets/fonts/leaguegothic-regular.woff") format("woff");
+}

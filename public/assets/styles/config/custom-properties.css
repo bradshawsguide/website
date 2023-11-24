@@ -1,0 +1,98 @@
+/**
+ * Custom Properties
+ */
+
+:root {
+  --page-gutter: var(--space-s);
+  --color-neutral-darkest: hsl(24deg 25% 15%);
+  --color-neutral-darkest-alpha: hsl(24deg 25% 15% / 10%);
+  --color-neutral-dark: hsl(24deg 25% 30%);
+  --color-neutral-dark-alpha: hsl(24deg 25% 30% / 25%);
+  --color-neutral-mid: hsl(24deg 10% 45%);
+  --color-neutral-light: hsl(24deg 10% 75%);
+  --color-neutral-lighter: hsl(24deg 10% 90%);
+  --color-neutral-lightest: hsl(24deg 25% 97%);
+  --color-crimson: hsl(0deg 67% 33%);
+  --color-crimson-bright: hsl(0deg 75% 50%);
+  --color-mustard: hsl(24deg 100% 60%);
+  --color-mustard-alpha: hsl(24deg 100% 60%);
+  --color-link: var(--color-crimson);
+  --color-link-hover: var(--color-crimson-bright);
+  --color-link-active: var(--color-mustard);
+  --color-focus: var(--color-mustard);
+  --color-selection: hsl(24deg 100% 60% / 25%);
+  --focus-outline-size: 0.25rem;
+  --focus-outline-color: var(--color-mustard);
+  --focus-outline-offset: 0.25rem;
+
+  /* Font families */
+  --font-family-block: "League Gothic", "Avenir Next Condensed", serif;
+  --font-family-sans: system-ui;
+  --font-family-serif: "Scotch Text", "Georgia", serif;
+  --font-family-slab: "Trocchi", serif;
+
+  /* Fluid type scale: clamp(min=320, preferred, max=960) */
+  --font-size-xs: 0.875rem; /* 14 */
+  --font-size-s: clamp(0.875rem, 0.8125rem + 0.3125vw, 1rem); /* 14 → 16 */
+  --font-size-m: clamp(1rem, 0.9375rem + 0.3125vw, 1.125rem); /* 16 → 18 */
+  --font-size-l: clamp(1.125rem, 1rem + 0.625vw, 1.375rem); /* 18 → 22 */
+  --font-size-xl: clamp(1.5rem, 1.25rem + 1.25vw, 2rem); /* 24 → 32 */
+  --font-size-2xl: clamp(2rem, 1.625rem + 1.875vw, 2.75rem); /* 32 → 44 */
+  --font-size-3xl: clamp(2.5rem, 1.75rem + 3.75vw, 4rem); /* 40 → 64 */
+  --line-height-solid: 1;
+  --line-height-tight: 1.25;
+  --line-height-loose: 1.3334;
+  --line-height-relaxed: 1.6667;
+  --line-measure: 45rem;
+  --text-thickness: 0.0625em;
+
+  /* Font styles */
+  --font-headline: bold var(--font-size-3xl) / var(--line-height-solid) var(--font-family-slab);
+  --font-title: var(--font-size-2xl) / var(--line-height-solid) var(--font-family-serif);
+  --font-heading: var(--font-size-2xl) / var(--line-height-solid) var(--font-family-block);
+  --font-subhead: bold var(--font-size-l) / 0.75 var(--font-family-slab);
+  --font-body: normal var(--font-size-m) / var(--line-height-relaxed) var(--font-family-serif);
+  --font-meta: normal var(--font-size-s) / var(--line-height-loose) var(--font-family-serif);
+  --font-label: 425 var(--font-size-s) / var(--line-height-solid) var(--font-family-sans);
+  --font-caption: 400 var(--font-size-xs) / var(--line-height-loose) var(--font-family-sans);
+
+  /* Lines */
+  --line-size-thin: 1px;
+  --line-size-thick: 3px;
+  --line-solid: var(--line-size-thin) solid var(--color-neutral-dark-alpha);
+  --line-double: var(--line-size-thick) double var(--color-neutral-dark-alpha);
+
+  /* Spacing */
+  --space-2xs: 0.25rem; /* 4px */
+  --space-xs: 0.5rem; /* 8px */
+  --space-s: 0.75rem; /* 12px */
+  --space-m: 1rem; /* 16px */
+  --space-l: 1.5rem; /* 24px */
+  --space-xl: 3rem; /* 48px */
+
+  /* Values */
+  --text-indent: var(--space-l);
+  --gap-x: var(--space-l);
+  --gap-y: calc(var(--gap-x) * 1.5);
+
+  /* Shadows */
+  --drop-shadow-shallow: 0 4px 12px 0 var(--color-neutral-darkest-alpha);
+  --drop-shadow-deep: 0 8px 24px 0 var(--color-neutral-dark-alpha);
+
+  /* Z-indices */
+  --z-index-underlay: -1;
+  --z-index-default: 1;
+  --z-index-overlay: 1000;
+
+  @media screen and (--from-xs) {
+    --page-gutter: var(--space-m);
+  }
+
+  @media screen and (--from-s) {
+    --page-gutter: var(--space-l);
+  }
+
+  @media screen and (--from-l) {
+    --page-gutter: 15vw;
+  }
+}

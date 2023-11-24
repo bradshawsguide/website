@@ -1,0 +1,38 @@
+.s-info {
+  background-color: var(--color-neutral-lighter);
+  font: var(--font-meta);
+  font-variant-numeric: lining-nums;
+  hyphens: none;
+  padding: var(--space-s);
+
+  p:not(:last-child) {
+    margin-bottom: var(--space-xs);
+  }
+
+  dt {
+    float: left;
+    font-variant-caps: small-caps;
+    font-weight: normal;
+
+    &::after {
+      content: ".";
+    }
+  }
+
+  dt + dd::before {
+    content: "—";
+  }
+
+  dd {
+    hyphens: none;
+    margin-left: var(--text-indent);
+
+    & + dd {
+      text-indent: var(--text-indent);
+    }
+
+    &:not(:last-of-type) {
+      margin-bottom: var(--space-xs);
+    }
+  }
+}

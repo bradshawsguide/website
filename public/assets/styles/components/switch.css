@@ -1,0 +1,44 @@
+.c-switch {
+  --focus-outline-offset: -0.25em;
+
+  display: flex;
+  font: var(--font-label);
+  justify-content: space-between;
+  padding-bottom: var(--space-m);
+}
+
+.c-switch__items {
+  --link-decoration: none;
+
+  border: var(--line-solid);
+  display: flex;
+}
+
+.c-switch__item {
+  a {
+    background-color: white;
+    box-shadow: inset 0 -1px 0 var(--color-neutral-dark-alpha);
+    color: var(--color-neutral-dark);
+    display: block;
+    padding: var(--space-s) var(--space-m);
+
+    &[aria-current] {
+      background-color: var(--color-neutral-dark-alpha);
+      box-shadow: inset 0 1px 0 var(--color-neutral-dark-alpha);
+      font-weight: bold;
+      letter-spacing: -0.0313rem;
+    }
+
+    &:hover {
+      color: var(--color-link-hover);
+    }
+
+    &:active {
+      color: var(--color-link-active);
+    }
+  }
+
+  + .c-switch__item {
+    border-left: var(--line-solid);
+  }
+}

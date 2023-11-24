@@ -1,0 +1,8 @@
+@custom-media --upto-xs (width < 320px);
+@custom-media --from-xs (width >= 320px);
+@custom-media --upto-s (width < 480px);
+@custom-media --from-s (width >= 480px);
+@custom-media --upto-m (width < 640px);
+@custom-media --from-m (width >= 640px);
+@custom-media --upto-l (width < 960px);
+@custom-media --from-l (width >= 960px);

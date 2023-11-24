@@ -1,0 +1,32 @@
+.c-tablist {
+  --focus-outline-offset: -0.25em;
+  --link-decoration: none;
+
+  box-shadow: inset 0 -1px 0 var(--color-neutral-dark-alpha);
+  margin-bottom: var(--space-s);
+  padding: 0 var(--page-gutter);
+}
+
+.c-tablist__items {
+  display: flex;
+  justify-content: center;
+}
+
+.c-tablist__item {
+  > * {
+    display: block;
+    padding: var(--space-m) var(--space-xs);
+    text-align: center;
+
+    @media screen and (--from-s) {
+      padding-left: var(--space-m);
+      padding-right: var(--space-m);
+      white-space: nowrap;
+    }
+  }
+
+  [aria-current] {
+    box-shadow: inset 0 -2px 0 var(--color-neutral-light);
+    font-weight: bold;
+  }
+}

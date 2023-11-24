@@ -1,0 +1,33 @@
+.c-place {
+  background-color: white;
+  box-shadow: var(--drop-shadow-shallow);
+  margin: var(--space-m) 0;
+  outline: var(--line-solid);
+  padding: var(--space-xs) var(--space-s);
+  position: relative;
+  z-index: 2;
+}
+
+.c-place__title {
+  font: var(--font-subhead);
+  font-size: var(--font-size-xl);
+  font-variant-caps: all-small-caps;
+  margin-bottom: var(--space-s);
+
+  a {
+    --focus-outline-size: 0;
+
+    &::before {
+      content: "";
+      display: block;
+      inset: 0;
+      position: absolute;
+      z-index: 1;
+    }
+
+    &:focus::before {
+      outline: 0.125em solid var(--focus-outline-color);
+      outline-offset: 0;
+    }
+  }
+}

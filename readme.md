@@ -9,30 +9,24 @@
 3. `git submodule update --init --recursive`
 4. `mkdir public/cache`
 5. `npm install`
-6. `npm build`
+6. `npm run build`
 
 Generated assets will be saved in the `public` directory.
-
-## Development
-
-When developing the site, you may want assets automatically compiled and the browser to refresh automatically. To do this, run `npm run watch`.
 
 ### Updating submodules
 
 This project makes use of third-party libraries, included as git submodules. To update these, run `git submodule foreach git pull origin master`.
 
-### Running locally with HTTPS
+### Running locally
 
-To run with HTTPS locally on macOS use [Laravel Herd](https://herd.laravel.com/), a one click PHP development environment with zero dependencies
+To run locally on macOS use [Laravel Herd](https://herd.laravel.com/), a one click PHP development environment with zero dependencies.
+
+When developing the site, you can automatically compile assets and refresh the browser. To do this, run `npm run dev`.
 
 ## Repo structure
 
 ```text
 website
-├── etc                         # CONFIGURATION
-│   ├── browser-sync.config.js  # BrowserSync configuration
-│   └── rollup.config.js        # Rollup configuration
-│
 ├── site                        # SOURCE
 │   ├── blueprints              # Kirby panel blueprints
 │   ├── config                  # Kirby configuration
@@ -43,18 +37,28 @@ website
 │   ├── plugins                 # Kirby plugins
 │   └── templates               # Kirby templates
 │
-├── public                      # COMPILED/RUNTIME
-│   └── index.php               # Kirby launch script
+├── public                      # PUBLIC
+│   ├── index.php               # Kirby launch script
+│   └── assets
+│       ├── fonts               # Web fonts
+│       ├── icons               # Favicon and home screen icons
+│       ├── images              # Raster images
+│       ├── scripts             # JavaScript
+│       ├── styles              # CSS styles
+│       └── vectors             # Vector images
 │
 ├── .editorconfig               # Text editor preferences
 ├── .gitignore                  # List of files not tracked by git
 ├── .gitmodules                 # List of submodules tracked by git
+├── .htaccess                   # Apache server config
+├── .nvmrc                      # Node version to use
 ├── composer.lock               # Composer manifest lock file
 ├── composer.json               # Composer manifest
 ├── package-lock.json           # NPM manifest lock file
 ├── package.json                # NPM manifest
 ├── LICENSE                     # Project license
-└── readme.md                   # This file
+├── readme.md                   # This file
+└── vite.config.js              # Vite config
 ```
 
 © 2013 [Paul Robert Lloyd](https://paulrobertlloyd.com)

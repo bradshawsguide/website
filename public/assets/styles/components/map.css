@@ -1,0 +1,13 @@
+.c-map {
+  align-self: stretch;
+  box-shadow: 0 0 0 1px var(--color-neutral-dark-alpha);
+  width: 100%;
+}
+
+.c-map--cover {
+  height: 60vh;
+  margin-bottom: var(--gap-y);
+  margin-left: calc(var(--page-gutter) * -1);
+  margin-right: calc(var(--page-gutter) * -1);
+  width: 100vw;
+}

@@ -1,0 +1,26 @@
+.c-list__item {
+  padding-bottom: var(--space-xs);
+}
+
+/* Column list */
+.c-list--columns {
+  column-fill: balance;
+  column-gap: var(--gap-x);
+  columns: 9rem 5;
+
+  .c-list__item {
+    break-inside: avoid;
+  }
+}
+
+/* Grid list */
+.c-list--grid {
+  display: grid;
+  grid-gap: var(--gap-x);
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+
+  .c-list__item {
+    display: flex;
+    padding-bottom: 0;
+  }
+}
