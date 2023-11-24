@@ -10,7 +10,6 @@ $kirby = new Kirby([
         'sessions' => $base.'/sessions',
         'site' => $base.'/site',
         'content' => $base.'/site/content',
-        'snippets' => $base.'/site/patterns/components'
     ]
 ]);
 

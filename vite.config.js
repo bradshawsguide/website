@@ -26,7 +26,7 @@ export default ({ mode }) => ({
   plugins: [
     kirby({
       watch: [
-        '../site/(templates|patterns|controllers|models)/**/*.php',
+        '../site/(templates|snippets|controllers|models)/**/*.php',
         '../site/content/**/*',
       ],
     }),

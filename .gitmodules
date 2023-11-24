@@ -1,6 +1,3 @@
 [submodule "site/content"]
 	path = site/content
 	url = https://github.com/bradshawsguide/content.git
-[submodule "site/patterns"]
-	path = site/patterns
-	url = https://github.com/bradshawsguide/patterns.git

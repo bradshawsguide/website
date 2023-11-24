@@ -33,8 +33,8 @@ website
 │   ├── [content]               # Site content [submodule]
 │   ├── controllers             # Kirby template controllers
 │   ├── models                  # Kirby page models
-│   ├── [patterns]              # Template patterns [submodule]
 │   ├── plugins                 # Kirby plugins
+│   ├── snippets                # Template snippets
 │   └── templates               # Kirby templates
 │
 ├── public                      # PUBLIC
