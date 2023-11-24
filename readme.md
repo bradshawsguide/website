@@ -7,11 +7,11 @@
 1. `git clone git@github.com:bradshawsguide/website.git`
 2. `cd website`
 3. `git submodule update --init --recursive`
-4. `mkdir www/cache`
+4. `mkdir public/cache`
 5. `npm install`
 6. `npm build`
 
-Generated assets will be saved in the `www` directory.
+Generated assets will be saved in the `public` directory.
 
 ## Development
 
@@ -23,27 +23,7 @@ This project makes use of third-party libraries, included as git submodules. To 
 
 ### Running locally with HTTPS
 
-To run with HTTPS locally on macOS first [follow the setup steps described here](https://gist.github.com/jed/6147872). To create the required SSL certificates, follow these steps:
-
-1. Change into the correct directory: `cd etc/ssl`
-2. Create the certificate files:
-
-  ```sh
-  openssl req \
-    -new \
-    -newkey rsa:2048 \
-    -sha256 \
-    -days 3650 \
-    -nodes \
-    -x509 \
-    -keyout test.key \
-    -out test.crt \
-    -subj /CN=bradshaws.test \
-    -reqexts SAN \
-    -extensions SAN \
-    -config <(cat /System/Library/OpenSSL/openssl.cnf \
-      <(printf '[SAN]\nsubjectAltName=DNS:bradshaws.test'))
-  ```
+To run with HTTPS locally on macOS use [Laravel Herd](https://herd.laravel.com/), a one click PHP development environment with zero dependencies
 
 ## Repo structure
 
@@ -64,7 +44,7 @@ website
 │   ├── plugins                 # Kirby plugins
 │   └── templates               # Kirby templates
 │
-├── www                         # COMPILED/RUNTIME
+├── public                      # COMPILED/RUNTIME
 │   └── index.php               # Kirby launch script
 │
 ├── .editorconfig               # Text editor preferences

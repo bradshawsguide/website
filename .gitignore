@@ -2,12 +2,12 @@
 /src/accounts/
 /src/plugins/*
 !/src/plugins/kirby-bradshawsguide
+/public/.well-known/
+/public/cache/
+/public/dist/
+/public/media/
+/public/sessions/
 /vendor/
-/www/.well-known/
-/www/assets/
-/www/cache/
-/www/media/
-/www/sessions/
 node_modules
 *.cache
 *.license
