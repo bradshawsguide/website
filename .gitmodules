@@ -1,6 +1,6 @@
-[submodule "src/content"]
-	path = src/content
+[submodule "site/content"]
+	path = site/content
 	url = https://github.com/bradshawsguide/content.git
-[submodule "src/patterns"]
-	path = src/patterns
+[submodule "site/patterns"]
+	path = site/patterns
 	url = https://github.com/bradshawsguide/patterns.git

@@ -33,7 +33,7 @@ website
 │   ├── browser-sync.config.js  # BrowserSync configuration
 │   └── rollup.config.js        # Rollup configuration
 │
-├── src                         # SOURCE
+├── site                        # SOURCE
 │   ├── blueprints              # Kirby panel blueprints
 │   ├── config                  # Kirby configuration
 │   ├── [content]               # Site content [submodule]

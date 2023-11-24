@@ -1,6 +1,6 @@
-/src/accounts/
-/src/plugins/*
-!/src/plugins/kirby-bradshawsguide
+/site/accounts/
+/site/plugins/*
+!/site/plugins/kirby-bradshawsguide
 /public/.well-known/
 /public/cache/
 /public/dist/
