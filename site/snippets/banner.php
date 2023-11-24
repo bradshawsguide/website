@@ -3,8 +3,6 @@
         <?php snippet('icon', ['glyph' => 'search']) ?>
         <span class="u-hidden-upto-medium">Search</span>
     </b-dialog-toggle>
-
-    <a class="c-banner__skip u-hidden-focusable" href="#main">Skip to content</a>
 <?php if (!$page->isHomePage()): ?>
     <a href="<?= url() ?>" rel="home">
         Bradshaw’s<span class="u-hidden-upto-medium"> Guide</span>

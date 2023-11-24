@@ -44,6 +44,8 @@
 
 <body<?= isset($class) ? ' class="'.$class.'"' : null; ?>>
     <?php
+        snippet('skip-link');
+
         snippet('banner');
 
         if ($page->isHomePage()) {

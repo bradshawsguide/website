@@ -1,0 +1,8 @@
+.c-skip-link {
+  &:focus-within {
+    background-color: var(--color-focus);
+    display: block;
+    font: var(--font-label);
+    padding: var(--space-l);
+  }
+}
