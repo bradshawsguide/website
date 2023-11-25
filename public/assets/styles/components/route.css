@@ -1,7 +1,7 @@
 .c-route {
   margin: var(--space-m) 0;
   outline: var(--line-solid);
-  padding: var(--space-xs) var(--space-s);
+  padding: var(--space-s);
   position: relative;
 
   &::before {
@@ -16,13 +16,22 @@
     top: 0;
     width: 1.25rem;
   }
+
+  & b-icon {
+    inline-size: 1.5em;
+  }
 }
 
 .c-route__title {
   font: var(--font-subhead);
+  margin-block-end: var(--space-xs);
 
   a {
     --focus-outline-size: 0;
+
+    align-items: center;
+    display: flex;
+    gap: var(--space-xs);
 
     &::before {
       content: "";
@@ -34,12 +43,6 @@
 
     &:focus::before {
       outline: 0.125em solid var(--focus-outline-color);
-      outline-offset: 0;
-    }
-
-    &::after {
-      content: "\0020\261E";
-      font-family: serif;
     }
   }
 }
