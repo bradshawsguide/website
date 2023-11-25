@@ -6,15 +6,11 @@
         <div class="c-inquire__main">
             <input class="c-inquire__input" type="search" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey…" value="<?= esc(get('q', '')) ?>">
             <button class="c-inquire__button" type="submit">
-                <?php snippet('icon', [
-                    'glyph' => 'search'
-                ]) ?>
+                <b-icon name="search"></b-icon>
                 <b-visually-hidden>Search</b-visually-hidden>
             </button>
             <button class="c-inquire__button" type="button" data-geo>
-                <?php snippet('icon', [
-                    'glyph' => 'locate'
-                ]) ?>
+                <b-icon name="locate"></b-icon>
                 <b-visually-hidden>Places near me</b-visually-hidden>
             </button>
         </div>
