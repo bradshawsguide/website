@@ -1,3 +1,3 @@
 <div class="s-text">
-    <?= smartypants(kt($content)) ?>
+    <?= kt($content) ?>
 </div>

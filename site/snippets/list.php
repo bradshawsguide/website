@@ -7,7 +7,7 @@
                 'item' => $item
             ]);
         } elseif ($item) {
-            echo Html::a($item->url(), [smartypants($item->title())]);
+            echo Html::a($item->url(), [kti($item->title())]);
         }
     ?>
     </li>

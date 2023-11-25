@@ -9,7 +9,7 @@ snippet('header', [
 
 foreach (page('places')->children() as $country) {
     snippet('section/list', [
-        'title' => Html::a($country->url(), smartypants($country->title())),
+        'title' => Html::a($country->url(), kti($country->title())),
         'items' => $country->children(),
         'display' => 'columns'
     ]);

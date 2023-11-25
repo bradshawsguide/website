@@ -16,7 +16,7 @@
 <?php endif ?>
 <?php if ($image->caption()): ?>
     <figcaption class="c-figure__caption">
-        <?= smartypants(kt($image->caption())) ?>
+        <?= kt($image->caption()) ?>
     </figcaption>
 <?php endif ?>
 </figure>

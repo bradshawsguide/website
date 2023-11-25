@@ -29,7 +29,7 @@ if (array_key_exists(($stopKey + 1), $stops)) {
         <dt><b-visually-hidden>Previous station</b-visually-hidden></dt>
         <dd><?= (isset($prev))
             ? Html::a($prev->url().'?route='.$route->uid(),
-                [smartypants($prev->title()).'<b-icon name="prev"/></b-icon>'],
+                [kti($prev->title()).'<b-icon name="prev"/></b-icon>'],
                 ['rel' => 'prev']
             )
             : Html::tag('i', 'Terminus')
@@ -37,7 +37,7 @@ if (array_key_exists(($stopKey + 1), $stops)) {
         <dt><b-visually-hidden>Next station</b-visually-hidden></dt>
         <dd><?= (isset($next))
             ? Html::a($next->url().'?route='.$route->uid(),
-                [smartypants($next->title()).'<b-icon name="next"/></b-icon>'],
+                [kti($next->title()).'<b-icon name="next"/></b-icon>'],
                 ['rel' => 'next']
             )
             : Html::tag('i', 'Terminus')

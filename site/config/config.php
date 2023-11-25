@@ -6,6 +6,8 @@ return [
         'extra' => true
     ],
 
+    'smartypants' => true,
+
     // Database
     'db' => [
         'type' => 'sqlite',

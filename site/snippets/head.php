@@ -39,7 +39,7 @@
     <meta property="og:image" content="<?= url('/assets/icons/app.jpg') ?>">
 <?php endif ?>
 
-    <title><?= Str::unhtml($page->title()) ?><?php if (!$page->isHomePage()): ?> - <?= $site->title() ?><?php endif ?></title>
+    <title><?= kti($page->title()) ?><?php if (!$page->isHomePage()): ?> - <?= $site->title() ?><?php endif ?></title>
 </head>
 
 <body<?= isset($class) ? ' class="'.$class.'"' : null; ?>>

@@ -7,13 +7,15 @@
     <nav class="c-navigation__container">
         <h2 id="navigation-title">Explore <?= $site->title() ?></h2>
         <ul>
-        <?php foreach($site->children()->listed() as $item): ?>
-            <li>
-                <a href="<?= $item->url() ?>"<?php e($item->isOpen(), ' aria-current="page"') ?>>
-                    <?= smartypants($item->title()) ?>
-                </a>
-            </li>
-        <?php endforeach ?>
+<?php foreach($site->children()->listed() as $item): ?>
+            <li><?=
+                Html::a($item->url(), [kti($item->title())], [
+                    'aria-current' => $item->isOpen()
+                        ? 'page'
+                        : false
+                ])
+            ?></li>
+<?php endforeach ?>
         </ul>
     </nav>
 </b-dialog>

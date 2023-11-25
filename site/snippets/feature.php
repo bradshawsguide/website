@@ -7,7 +7,7 @@
                 'class' => 'c-feature__title'
             ]);
         ?>
-        <p class="c-feature__parent"><?= $item->parent()->title() ?></p>
+        <p class="c-feature__parent"><?= kti($item->parent()->title()) ?></p>
     </header>
 
     <?php if ($item->hasImages()): ?>

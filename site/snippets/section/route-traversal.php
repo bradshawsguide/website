@@ -7,7 +7,7 @@
 
     foreach ($routes as $route) {
         snippet('route-traversal', [
-            'title' => Html::a($route->url(), smartypants($route->shortTitle())),
+            'title' => Html::a($route->url(), kti($route->shortTitle())),
             'level' => $level + 1,
             'route' => $route
         ]);
