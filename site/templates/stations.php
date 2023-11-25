@@ -13,7 +13,7 @@ foreach (alphabetise($stations) as $letter => $items) {
     snippet('index', [
         'items' => $items,
         'letter' => $letter,
-        'listAs' => 'columns'
+        'listDisplay' => 'columns'
     ]);
 };
 

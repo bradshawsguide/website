@@ -1,26 +1,19 @@
-.c-list__item {
-  padding-bottom: var(--space-xs);
-}
-
-/* Column list */
-.c-list--columns {
-  column-fill: balance;
-  column-gap: var(--gap-x);
-  columns: 9rem 5;
-
-  .c-list__item {
-    break-inside: avoid;
+.c-list {
+  &[data-display="columns"] {
+    column-fill: balance;
+    column-gap: var(--gap-x);
+    columns: 9rem 5;
   }
-}
 
-/* Grid list */
-.c-list--grid {
-  display: grid;
-  grid-gap: var(--gap-x);
-  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  &[data-display="grid"] {
+    display: grid;
+    grid-gap: var(--gap-x);
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  }
 
-  .c-list__item {
+  & li {
+    break-inside: avoid;
     display: flex;
-    padding-bottom: 0;
+    padding-block-end: var(--space-xs);
   }
 }
