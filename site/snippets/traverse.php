@@ -1,29 +1,30 @@
-<nav class="c-traverse">
+<nav class="c-traverse" id="traverse" aria-labelledby="traverse-title">
     <?php
         snippet('title', [
             'title' => Html::a($page->parent()->url(), $page->parent()->title()),
             'level' => $level ?? 2,
-            'class' => 'c-traverse__title'
+            'id' => 'traverse-title'
         ]);
     ?>
-    <ul class="c-traverse__items">
+
+    <ul>
 <?php if ($page->hasPrev()): ?>
-        <li class="c-traverse__item c-traverse__item--prev">
+        <li>
             <a rel="prev" href="<?= $page->prev()->url() ?>">
-                <span aria-label="Previous">&#9756;</span>
-                <b-visually-hidden>
-                    <?= smartypants($page->prev()->shortTitle()) ?>
-                </b-visually-hidden>
+                <b-icon name="prev"></b-icon>
+                <b-visually-hidden><?=
+                    smartypants($page->prev()->shortTitle())
+                ?></b-visually-hidden>
             </a>
         </li>
 <?php endif ?>
 <?php if ($page->hasNext()): ?>
-        <li class="c-traverse__item c-traverse__item--next">
+        <li>
             <a rel="next" href="<?= $page->next()->url() ?>">
-                <span aria-label="Next">&#9758;</span>
-                <b-visually-hidden>
-                    <?= smartypants($page->next()->shortTitle()) ?>
-                </b-visually-hidden>
+                <b-icon name="next"></b-icon>
+                <b-visually-hidden><?=
+                    smartypants($page->next()->shortTitle())
+                ?></b-visually-hidden>
             </a>
         </li>
 <?php endif ?>
