@@ -1,4 +1,5 @@
 <?php
+
 // Populate manifest with $site data
 $manifest = [
     'lang' => 'en-gb',
