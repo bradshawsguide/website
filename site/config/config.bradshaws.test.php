@@ -6,7 +6,7 @@ return [
     'debug' => true,
     'url' => 'https://bradshaws.test',
     'whoops' => true,
-    'panel' =>[
+    'panel' => [
         'install' => true
     ]
 ];
@@ -29,11 +29,11 @@ Data::$adapters['kd']['encode'] = function ($data) {
         // Escape accidental dividers within a field
         $value = preg_replace('!\n----(.*?\R*)!', "\n ----$1", $value);
 
-        // Multi-line content
         if (preg_match('!\R!', $value, $matches)) {
+            // Multi-line content
             $result[$key] = $key . ": \n\n" . trim($value);
-            // Single-line content
         } else {
+            // Single-line content
             $result[$key] = $key . ': ' . trim($value);
         }
     }
