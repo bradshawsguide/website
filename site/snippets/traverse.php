@@ -1,12 +1,7 @@
-<nav class="c-traverse" id="traverse" aria-labelledby="traverse-title">
-    <?php
-        snippet('title', [
-            'title' => Html::a($page->parent()->url(), $page->parent()->title()),
-            'level' => $level ?? 2,
-            'id' => 'traverse-title'
-        ]);
-    ?>
-
+<nav class="c-traverse" aria-labelledby="traverse-title">
+    <h2 id="traverse-title">
+        <?= Html::a($page->parent()->url(), $page->parent()->title()) ?>
+    </h2>
     <ul>
 <?php if ($page->hasPrev()): ?>
         <li>
