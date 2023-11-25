@@ -4,14 +4,14 @@
 // processing/display.
 // https://github.com/shoesforindustry/kirby-plugins-alphabetise
 // Returns an array
-function alphabetise($parent, $options=[])
+function alphabetise($parent, $options = [])
 {
     // Default key values
     // As we are using ksort the default 'orderby' is SORT_REGULAR
     // To sort with number first you can use 'orderby' set to SORT_STRING
     // Other ksort sort_flags may be usuable but not tested!
     $defaults = [
-        'key'=> 'title',
+        'key' => 'title',
         'orderby' => SORT_REGULAR
     ];
 
@@ -26,7 +26,7 @@ function alphabetise($parent, $options=[])
         $array[$temp][] = $item;
     }
 
-    if (!empty ($array))  {
+    if (!empty($array)) {
         // Make an array of key and data
         foreach ($array as $temp => $item) {
             if (strlen($temp) < 2) {

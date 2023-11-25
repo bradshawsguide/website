@@ -4,7 +4,7 @@ return [
     'attr' => [
         'text'
     ],
-    'html' => function($tag) {
+    'html' => function ($tag) {
         $name = $tag->value();
         $name = urldecode($name);
         $name = str_replace('_', ' ', $name);
