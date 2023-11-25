@@ -28,8 +28,9 @@
     text-align: center;
   }
 
-  a::after {
-    content: "\0020\261E";
-    font-family: serif;
+  & a {
+    align-items: center;
+    display: flex;
+    gap: var(--space-xs);
   }
 }

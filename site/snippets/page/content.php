@@ -31,9 +31,10 @@
                 $continue = Html::tag('p', [$text]);
             }
 
-            $title = Html::a($sectionUrl, $section->title(), [
-                'aria-label' => $section->label()
-            ]);
+            $title = Html::a($sectionUrl,
+                [$section->title().'<b-icon name="next"></b-icon>'],
+                ['aria-label' => $section->label()]
+            );
 
             snippet('section/text', [
                 'level' => 3,
