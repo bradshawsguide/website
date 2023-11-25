@@ -18,7 +18,7 @@ if ($page->place()->isNotEmpty()) {
 if ($page->routes()) {
     snippet('section/route-traversal', [
         'title' => 'Routes serving this station',
-        'level' => 3,
+        'level' => 2,
         'routes' => $page->routes()
     ]);
 }

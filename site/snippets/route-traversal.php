@@ -18,26 +18,29 @@ if (array_key_exists(($stopKey + 1), $stops)) {
 }
 ?>
 
-<nav class="c-route-traversal<?php if ($currentRoute == $route->uid()): ?> c-route-traversal--current<?php endif ?>">
-    <?php
-        snippet('title', [
-            'title' => $title,
-            'level' => $level ?? 3,
-            'class' => 'c-route-traversal__title'
-        ]);
-    ?>
-    <?php if (isset($prev)): ?>
-        <a class="c-route-traversal__prev" rel="prev" href="<?= $prev->url() ?>?route=<?= $route->uid() ?>" aria-label="Previous station: <?= $prev->title()?>">
-            <?= smartypants($prev->title()) ?>
-        </a>
-    <?php else: ?>
-        <em class="c-route-traversal__prev">Terminus</em>
-    <?php endif ?>
-    <?php if (isset($next)): ?>
-        <a class="c-route-traversal__next" rel="next" href="<?= $next->url() ?>?route=<?= $route->uid() ?>" aria-label="Next station: <?= $next->title()?>">
-            <?= smartypants($next->title()) ?>
-        </a>
-    <?php else: ?>
-        <em class="c-route-traversal__next">Terminus</em>
-    <?php endif ?>
+<nav class="c-route-traversal" aria-labelledby="route-traversal-title"<?= e($currentRoute == $route->uid(), ' data-current') ?>>
+    <?= snippet('title', [
+        'title' => $title,
+        'level' => $level ?? 3,
+        'id' => 'route-traversal-title'
+    ]) ?>
+
+    <dl>
+        <dt><b-visually-hidden>Previous station</b-visually-hidden></dt>
+        <dd><?= (isset($prev))
+            ? Html::a($prev->url().'?route='.$route->uid(),
+                [smartypants($prev->title()).'<b-icon name="prev"/></b-icon>'],
+                ['rel' => 'prev']
+            )
+            : Html::tag('i', 'Terminus')
+        ?></dd>
+        <dt><b-visually-hidden>Next station</b-visually-hidden></dt>
+        <dd><?= (isset($next))
+            ? Html::a($next->url().'?route='.$route->uid(),
+                [smartypants($next->title()).'<b-icon name="next"/></b-icon>'],
+                ['rel' => 'next']
+            )
+            : Html::tag('i', 'Terminus')
+        ?></dd>
+    </dl>
 </nav>

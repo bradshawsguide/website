@@ -1,46 +1,60 @@
 .c-route-traversal {
   --link-decoration: none;
 
-  border-top: var(--line-solid);
+  border-block-start: var(--line-solid);
   color: var(--color-neutral-mid);
-  display: grid;
-  grid-auto-flow: row dense;
-  grid-gap: var(--space-xs);
-  grid-template-areas:
-    "title title"
-    "prev  next";
-  padding: var(--space-2xs) var(--space-2xs) var(--space-s);
+  position: relative;
 
-  @media screen and (--from-m) {
-    grid-template-areas: "prev title next";
+  &[data-current] {
+    background-color: var(--color-neutral-lighter);
   }
 
-  [rel="prev"]::before {
-    content: "\261C\0020"; /* ☜ */
-    font-family: serif;
+  & #route-traversal-title {
+    font-weight: bold;
+    text-align: center;
   }
 
-  [rel="next"]::after {
-    content: "\0020\261E"; /* ☞ */
-    font-family: serif;
+  & dl {
+    display: grid;
+    grid-template-areas: "prev next";
+    inset: 0;
+
+    @media screen and (--from-m) {
+      position: absolute;
+    }
   }
-}
 
-.c-route-traversal--current {
-  background-color: var(--color-neutral-lighter);
-}
+  & dd {
+    margin: 0;
 
-.c-route-traversal__title {
-  font-weight: bold;
-  grid-area: title;
-  text-align: center;
-}
+    &:first-of-type {
+      grid-area: prev;
+    }
 
-.c-route-traversal__prev {
-  grid-area: prev;
-}
+    &:last-of-type {
+      grid-area: next;
+      justify-self: end;
+    }
+  }
 
-.c-route-traversal__next {
-  grid-area: next;
-  text-align: right;
+  & a {
+    align-items: center;
+    display: inline-flex;
+    gap: var(--space-xs);
+    padding: var(--space-s);
+
+    &[rel="prev"] {
+      flex-direction: row-reverse;
+    }
+  }
+
+  & i {
+    align-self: end;
+    display: inline-flex;
+    padding: var(--space-s);
+  }
+
+  & b-icon {
+    inline-size: 1.5em;
+  }
 }
