@@ -3,9 +3,9 @@
 
   color: var(--color-neutral-mid);
   font: var(--font-caption);
-  padding: var(--space-xs) 0;
-}
+  padding-block: var(--space-l);
 
-.s-prose--centered + .c-edit {
-  text-align: center;
+  .s-prose--centered + & {
+    text-align: center;
+  }
 }

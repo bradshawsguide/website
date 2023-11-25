@@ -1,7 +1,7 @@
 <?php
     $src = kirby()->roots()->content().'/';
     $href = [
-        'git' => 'https://github.com/bradshawsguide/content/edit/master',
+        'git' => 'https://github.com/bradshawsguide/content/edit/main',
         'path' => str_replace($src, '', $page->root()),
         'file' => $page->template().'.txt'
     ];
