@@ -1,4 +1,5 @@
 <?php
+
 $stops = $page->stops()->yaml();
 $linestring = [];
 

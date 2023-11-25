@@ -1,4 +1,5 @@
 <?php
+
 snippet('head', [
     'alternate' => $page->url().'.geojson'
 ]);

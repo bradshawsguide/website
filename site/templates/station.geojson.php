@@ -1,4 +1,5 @@
 <?php
+
 // Create properties from page information
 $properties = [
     'title' => (string) $page->title(),

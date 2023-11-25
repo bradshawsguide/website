@@ -1,4 +1,5 @@
 <?php
+
 $features = [];
 
 foreach ($routes as $route) {
