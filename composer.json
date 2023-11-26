@@ -25,7 +25,7 @@
   }],
   "require": {
     "getkirby/cms": "^4.0",
-    "getkirby/geo": "dev-main",
+    "getkirby/geo": "^1.0",
     "sylvainjule/locator": "^1.0",
     "k-community/markdown-field": "dev-develop",
     "arnoson/kirby-vite": "^5.0"

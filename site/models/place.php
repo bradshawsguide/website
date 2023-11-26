@@ -2,19 +2,22 @@
 
 class PlacePage extends Kirby\Cms\Page
 {
-    // Get location information from corresponding station
-    public function location()
+    // Return geo coordinates from corresponding station
+    public function geo()
     {
-        // If multiple stations serve place, `station:` key gives us preferred
-        $uid = ($this->station()->isNotEmpty()) ? $this->station() : $this->uid();
+        // Get station that has the same name as this place
+        // If multiple stations serve place, `Station` key gives the nearest
+        $id = ($this->station()->isNotEmpty())
+            ? $this->station()
+            : 'stations/'.$this->uid();
 
-        if ($station = page('stations/'.$uid)) {
-            $location = [
-                $station->geolat()->float(),
-                $station->geolng()->float()
-            ];
+        if ($station = page($id)) {
+            // Get structured location values (saved using Locator plugin)
+            $yaml = $station->location()->yaml();
 
-            return implode(',', $location);
+            // Return field value in `{lat},{lng}` format for Geo plugin
+            // https://getkirby.com/plugins/getkirby/geo#radius-filter
+            return $yaml["lat"].", ".$yaml["lon"];
         }
     }
 
@@ -31,11 +34,9 @@ class PlacePage extends Kirby\Cms\Page
     }
 
     // Get nearby places (with images)
-    // TODO: Add location information to place data
-    // IDEA: A named station UID in the content?
     public function nearby()
     {
-        $point = geo::point($this->location());
+        $point = geo::point($this->geo());
 
         // Find all PlacePages with images
         $places = page('places')->grandChildren()->children()->filter(function ($page) {
@@ -46,7 +47,7 @@ class PlacePage extends Kirby\Cms\Page
         $places = $places->filterBy('title', '!=', $this->title());
 
         // Return nearby places
-        $nearby = $places->filterBy('location', 'radius', [
+        $nearby = $places->filterBy('geo', 'radius', [
             'lat' => $point->lat(),
             'lng' => $point->lng(),
             'radius' => 50

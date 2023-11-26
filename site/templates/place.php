@@ -18,15 +18,14 @@ if ($image = $page->image('cover.jpg')) {
 
 snippet('page/content');
 
-// TODO: Add location information to place data
-// if (size($page->nearby())) {
-//     snippet('section/list', [
-//         'title' => 'Places nearby',
-//         'modifiers' => ['offset'],
-//         'items' => $page->nearby(),
-//         'component' => 'feature',
-//         'display' => 'grid'
-//     ]);
-// }
+if (size($page->nearby())) {
+    snippet('section/list', [
+        'title' => 'Places nearby',
+        'modifiers' => ['offset'],
+        'items' => $page->nearby(),
+        'component' => 'feature',
+        'display' => 'grid'
+    ]);
+}
 
 snippet('foot');

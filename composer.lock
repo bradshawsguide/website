@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5993224eabc7f68e0da2e0cd01d7c774",
+    "content-hash": "78c81ee9dcf1222d491513834a9d29e2",
     "packages": [
         {
             "name": "arnoson/kirby-vite",
@@ -456,16 +456,16 @@
         },
         {
             "name": "getkirby/geo",
-            "version": "dev-main",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/geo.git",
-                "reference": "5169904b5944fe3c2eaab8eae1bcf7da0a822e50"
+                "reference": "a28887c682b0412772a98c1127e8b189ec07b254"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/geo/zipball/5169904b5944fe3c2eaab8eae1bcf7da0a822e50",
-                "reference": "5169904b5944fe3c2eaab8eae1bcf7da0a822e50",
+                "url": "https://api.github.com/repos/getkirby/geo/zipball/a28887c682b0412772a98c1127e8b189ec07b254",
+                "reference": "a28887c682b0412772a98c1127e8b189ec07b254",
                 "shasum": ""
             },
             "require": {
@@ -475,7 +475,6 @@
             "require-dev": {
                 "getkirby/cms": "^3.3"
             },
-            "default-branch": true,
             "type": "kirby-plugin",
             "scripts": {
                 "analyze": [
@@ -504,7 +503,7 @@
                 "plugin"
             ],
             "support": {
-                "source": "https://github.com/getkirby/geo/tree/main",
+                "source": "https://github.com/getkirby/geo/tree/1.0.2",
                 "issues": "https://github.com/getkirby/geo/issues"
             },
             "funding": [
@@ -513,7 +512,7 @@
                     "url": "https://getkirby.com/buy"
                 }
             ],
-            "time": "2022-12-12T11:16:03+00:00"
+            "time": "2022-10-05T10:20:02+00:00"
         },
         {
             "name": "k-community/markdown-field",
@@ -1399,7 +1398,6 @@
     "aliases": [],
     "minimum-stability": "beta",
     "stability-flags": {
-        "getkirby/geo": 20,
         "k-community/markdown-field": 20
     },
     "prefer-stable": false,
