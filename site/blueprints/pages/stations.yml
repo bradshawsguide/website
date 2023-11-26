@@ -1,0 +1,6 @@
+title: Stations
+sections:
+  stations:
+    headline: All stations
+    type: pages
+    info: "{{ page.subtitle }}"

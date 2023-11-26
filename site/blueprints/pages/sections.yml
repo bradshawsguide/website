@@ -1,0 +1,6 @@
+title: Sections
+sections:
+  sections:
+    headline: All sections
+    type: pages
+    info: "{{ page.desc }}"

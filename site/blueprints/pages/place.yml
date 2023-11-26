@@ -1,0 +1,51 @@
+title: Place
+num: zero
+columns:
+  - width: 2/3
+    sections:
+      images:
+        headline: Cover image
+        type: files
+        layout: cards
+        text: false
+        info: "{{ file.caption.kt }}"
+        max: 1
+        image:
+          cover: true
+          ratio: 16/9
+      meta:
+        type: fields
+        fields:
+          info:
+            label: Info
+            type: structure
+            fields:
+              term:
+                label: Term
+                type: text
+              desc:
+                label: Description
+                type: text
+          notes:
+            label: Notes
+            type: textarea
+            buttons: false
+      content:
+        extends: sections/content
+      distances:
+        type: fields
+        fields:
+          distances:
+            label: Distances
+            type: structure
+            fields:
+              location:
+                label: Location
+                type: text
+              miles:
+                label: Miles
+                type: text
+  - width: 1/3
+    sections:
+      common:
+        extends: sections/common

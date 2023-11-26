@@ -1,0 +1,11 @@
+title: Section
+fields:
+  desc:
+    label: Description
+    type: textarea
+  label:
+    label: Label
+    type: text
+  text:
+    label: Content
+    type: textarea

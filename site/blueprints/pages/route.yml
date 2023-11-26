@@ -1,0 +1,24 @@
+title: Route
+columns:
+  - width: 2/3
+    sections:
+      stops:
+        type: fields
+        fields:
+          stops:
+            label: Stops
+            type: pages
+            store: id
+      content:
+        extends: sections/content
+  - width: 1/3
+    sections:
+      common:
+        extends: sections/common
+      info:
+        type: fields
+        fields:
+          company:
+            label: Company
+            type: pages
+            store: id

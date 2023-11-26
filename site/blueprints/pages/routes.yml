@@ -1,0 +1,8 @@
+title: Routes
+sections:
+  routes:
+    headline: All routes
+    type: pages
+    info: "Section {{ page.section }}"
+    image:
+      cover: true

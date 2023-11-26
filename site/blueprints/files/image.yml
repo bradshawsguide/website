@@ -1,0 +1,6 @@
+title: Image
+
+fields:
+  caption:
+    label: Caption
+    type: textarea

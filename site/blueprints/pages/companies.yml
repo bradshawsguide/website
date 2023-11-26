@@ -1,0 +1,6 @@
+title: Companies
+sections:
+  companies:
+    headline: All companies
+    type: pages
+    info: "Section {{ page.section }}"

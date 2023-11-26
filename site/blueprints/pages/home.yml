@@ -1,0 +1,10 @@
+title: Homepage
+sections:
+  featured:
+    type: fields
+    fields:
+      feature:
+        label: Featured places
+        type: pages
+        store: id
+        max: 6

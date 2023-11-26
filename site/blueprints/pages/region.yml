@@ -1,0 +1,40 @@
+title: Region
+num: zero
+columns:
+  - width: 2/3
+    sections:
+      content:
+        extends: sections/content
+      featured:
+        type: fields
+        fields:
+          feature:
+            label: Featured places
+            type: pages
+            store: id
+            max: 6
+            layout: cards
+            image:
+              cover: true
+              ratio: 16/9
+  - width: 1/3
+    sections:
+      images:
+        headline: Images
+        type: files
+        layout: cards
+        text: false
+        info: "{{ file.caption.kt }}"
+        image:
+          cover: true
+          ratio: 3/2
+      children:
+        type: pages
+        info: "Section {{ page.section }}"
+        query: page.children
+        templates:
+          - place
+          - places
+          - region
+        image:
+          cover: true

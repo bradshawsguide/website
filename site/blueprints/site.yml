@@ -1,0 +1,58 @@
+title: Site
+
+tabs:
+  pages:
+    label: Pages
+    icon: page
+    sections:
+      main:
+        headline: Main site sections
+        type: pages
+        status: listed
+        image:
+          cover: true
+      unlisted:
+        headline: Other pages
+        type: pages
+        status: unlisted
+
+  information:
+    label: Information
+    icon: text
+    fields:
+      desc:
+        label: Description
+        type: text
+      keywords:
+        label: Keywords
+        type: tags
+      publisher:
+        label: Publisher
+        type: text
+        width: 1/2
+      publisher_url:
+        label: Publisher URL
+        type: url
+        width: 1/2
+      license:
+        label: License
+        type: text
+        width: 1/2
+      license_url:
+        label: License URL
+        type: url
+        width: 1/2
+      line:
+        type: line
+      title_short:
+        label: Short title
+        type: text
+        width: 4/6
+      theme_color:
+        label: Theme colour
+        type: text
+        width: 1/6
+      background_color:
+        label: Background colour
+        type: text
+        width: 1/6

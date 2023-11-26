@@ -1,0 +1,28 @@
+type: fields
+fields:
+  title_short:
+    label: Short title
+    type: text
+  subtitle:
+    label: Subtitle
+    type: text
+  desc:
+    label: Description
+    type: textarea
+    buttons: false
+  section:
+    label: Section
+    type: checkboxes
+    options:
+      type: query
+      query: site.page("sections").children
+      text: "{{ page.title }}"
+      value: "{{ page.uid }}"
+  children:
+    type: pages
+    store: id
+    info: Children
+    query: page.children
+  links:
+    label: Links
+    type: textarea
