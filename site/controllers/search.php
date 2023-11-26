@@ -3,7 +3,7 @@
 return function ($site) {
     $geo = get('g');
     $query = get('q');
-    $paginate = 10;
+    $paginate = 20;
     $options = [
         'minlength' => 2,
         'fields' => ['title','text'],
@@ -17,7 +17,7 @@ return function ($site) {
     ];
 
     if ($query == true) { // Free text search
-        $results = $site->index()->search($query, $options);
+        $results = $site->index()->listed()->search($query, $options);
         $results = $results->paginate($paginate, ['method' => 'query']);
         $title = "Search results for ‘".esc($query)."’";
     } elseif ($geo == true) { // Geo located search
