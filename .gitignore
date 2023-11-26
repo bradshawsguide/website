@@ -1,11 +1,10 @@
-/site/accounts/
-/site/plugins/*
-!/site/plugins/kirby-bradshawsguide
-/public/.well-known/
-/public/cache/
 /public/dist/
 /public/media/
-/public/sessions/
+/site/accounts/
+/site/cache/
+/site/plugins/*
+!/site/plugins/kirby-bradshawsguide
+/site/sessions/
 /vendor/
 node_modules
 *.cache
