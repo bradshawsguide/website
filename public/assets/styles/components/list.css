@@ -9,11 +9,14 @@
     display: grid;
     grid-gap: var(--gap-x);
     grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+
+    & li {
+      display: flex;
+    }
   }
 
   & li {
     break-inside: avoid;
-    display: flex;
     padding-block-end: var(--space-xs);
   }
 }
