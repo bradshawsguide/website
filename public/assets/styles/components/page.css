@@ -51,14 +51,14 @@
 }
 
 .c-page--place {
-  .c-figure--cover {
+  & .c-figure[data-display="cover"] {
     margin-bottom: 0;
     order: -1;
   }
 }
 
 .c-page--route {
-  .c-map--cover {
+  & .c-figure[data-display="cover"] {
     margin-bottom: 0;
   }
 }

@@ -1,4 +1,5 @@
-.u-pull-right {
+.u-pull-right,
+[data-display="pull-right"] {
   margin-bottom: calc(var(--gap-y) / 2);
   margin-top: 0;
 

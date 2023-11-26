@@ -14,6 +14,30 @@ return [
         'database' => __DIR__ . '/../../content/site.db'
     ],
 
+    // Thumbs
+    'thumbs' => [
+        'cover' => ['width' => 320, 'height' => 180, 'crop' => 'center', 'quality' => 80],
+        'map' => ['width' => 300, 'height' => 200, 'crop' => 'center', 'quality' => 80],
+        'pull-right' => ['width' => 150, 'height' => 200, 'crop' => 'center', 'quality' => 80],
+        'srcsets' => [
+            'cover' => [
+                '320w' => ['width' => 320, 'height' => 180, 'crop' => 'center', 'quality' => 80],
+                '640w' => ['width' => 640, 'height' => 360, 'crop' => 'center', 'quality' => 80],
+                '1280w' => ['width' => 1280, 'height' => 720, 'crop' => 'center', 'quality' => 80],
+            ],
+            'map' => [
+                '300w' => ['width' => 300, 'height' => 200, 'crop' => 'center', 'quality' => 80],
+                '600w' => ['width' => 600, 'height' => 400, 'crop' => 'center', 'quality' => 80],
+                '1200w' => ['width' => 1200, 'height' => 800, 'crop' => 'center', 'quality' => 80],
+            ],
+            'pull-right' => [
+                '150w' => ['width' => 150, 'height' => 200, 'crop' => 'center', 'quality' => 80],
+                '300w' => ['width' => 300, 'height' => 400, 'crop' => 'center', 'quality' => 80],
+                '600w' => ['width' => 600, 'height' => 800, 'crop' => 'center', 'quality' => 80],
+            ]
+        ],
+    ],
+
     // Routes
     'routes' => [
         [

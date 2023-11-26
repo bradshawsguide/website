@@ -11,7 +11,7 @@ snippet('header', [
 ]);
 
 if ($image = $page->image('cover.jpg')) {
-    snippet('figure/cover', [
+    snippet('figure', [
         'image' => $image
     ]);
 }
