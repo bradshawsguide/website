@@ -24,10 +24,10 @@
     "url": "https://github.com/getkirby/geo"
   }],
   "require": {
-    "getkirby/cms": "^3.9",
+    "getkirby/cms": "^4.0",
     "getkirby/geo": "dev-main",
     "sylvainjule/locator": "^1.0",
-    "k-community/markdown-field": "^2.1",
+    "k-community/markdown-field": "dev-develop",
     "arnoson/kirby-vite": "^5.0"
   },
   "config": {
