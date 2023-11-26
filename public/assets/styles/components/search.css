@@ -10,7 +10,8 @@
     display: flex;
   }
 
-  & button {
+  & button,
+  & b-toggle::part(button) {
     border-inline-start: var(--line-solid);
     display: flex;
     font: var(--font-label);

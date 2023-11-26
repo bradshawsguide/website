@@ -1,8 +1,5 @@
 <b-dialog class="c-search" id="search" aria-label="Search">
-    <b-dialog-toggle action="close" hidden>
-        <b-icon name="close"></b-icon>
-        <b-visually-hidden>Close search<b-visually-hidden>
-    </b-dialog-toggle>
+    <b-toggle action="close" icon="close" label="Close search"></b-toggle>
 
     <search>
         <form action="/search">

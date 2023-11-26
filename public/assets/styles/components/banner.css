@@ -11,15 +11,6 @@
   flex: 0 0 auto;
   justify-content: space-between;
 
-  & b-visually-hidden {
-    @media (--from-m) {
-      all: initial;
-      color: inherit;
-      font: inherit;
-      text-transform: inherit;
-    }
-  }
-
   & a[rel="home"] {
     color: var(--color-mustard);
     display: block;
@@ -29,11 +20,21 @@
     white-space: nowrap;
   }
 
-  & button {
-    display: flex;
-    font: var(--font-label);
-    gap: var(--space-xs);
-    padding: var(--space-l);
+  & b-toggle {
+    &::part(button) {
+      font: var(--font-label);
+      gap: var(--space-xs);
+      padding: var(--space-l);
+    }
+
+    &::part(label) {
+      @media (--from-m) {
+        all: initial;
+        color: inherit;
+        font: inherit;
+        text-transform: inherit;
+      }
+    }
 
     &:hover {
       color: var(--color-mustard);
