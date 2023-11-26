@@ -6,15 +6,15 @@ $currentRoute = get('route');
 $stops = array_flatten($route->stops()->yaml());
 
 // Get key by finding the name of this (nearest) station in stops
-$stopKey = array_search($page->uid(), $stops);
+$stopKey = array_search($page->id(), $stops);
 
 if (array_key_exists(($stopKey - 1), $stops)) {
-    $prevUID = $stops[$stopKey - 1];
-    $prev = page('stations/'.$prevUID);
+    $prevID = $stops[$stopKey - 1];
+    $prev = page($prevID);
 }
 if (array_key_exists(($stopKey + 1), $stops)) {
-    $nextUID = $stops[$stopKey + 1];
-    $next = page('stations/'.$nextUID);
+    $nextID = $stops[$stopKey + 1];
+    $next = page($nextID);
 }
 ?>
 
@@ -28,19 +28,21 @@ if (array_key_exists(($stopKey + 1), $stops)) {
     <dl>
         <dt><b-visually-hidden>Previous station</b-visually-hidden></dt>
         <dd><?= (isset($prev))
-            ? Html::a($prev->url().'?route='.$route->uid(),
+            ? Html::a(
+                $prev->url().'?route='.$route->uid(),
                 [kti($prev->title()).'<b-icon name="prev"/></b-icon>'],
                 ['rel' => 'prev']
             )
             : Html::tag('i', 'Terminus')
-        ?></dd>
+?></dd>
         <dt><b-visually-hidden>Next station</b-visually-hidden></dt>
         <dd><?= (isset($next))
-            ? Html::a($next->url().'?route='.$route->uid(),
-                [kti($next->title()).'<b-icon name="next"/></b-icon>'],
-                ['rel' => 'next']
-            )
-            : Html::tag('i', 'Terminus')
-        ?></dd>
+    ? Html::a(
+        $next->url().'?route='.$route->uid(),
+        [kti($next->title()).'<b-icon name="next"/></b-icon>'],
+        ['rel' => 'next']
+    )
+    : Html::tag('i', 'Terminus')
+?></dd>
     </dl>
 </nav>

@@ -4,16 +4,16 @@ $features = [];
 
 foreach ($routes as $route) {
     $stops = $route->stops()->yaml();
-    $linestring = [];
+    $lineString = [];
 
     // Create `LineString` for line (and any branches)
     foreach (array_extract_arrays($stops) as $line) {
         // For each UID in $line array, convert to StationPage array
         array_walk($line, function (&$value, $key) {
-            $value = page('stations/'.$value);
+            $value = page($value);
         });
 
-        $linestring[] = generateLineString($line);
+        $lineString[] = generateLineString($line);
     }
 
     // Create `Feature` from main and branch lines
@@ -21,7 +21,7 @@ foreach ($routes as $route) {
         'type' => 'Feature',
         'geometry' => [
             'type' => 'GeometryCollection',
-            'geometries' => $linestring
+            'geometries' => $lineString
         ],
         'properties' => [
             'title' => (string) $route->title(),
