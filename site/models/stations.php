@@ -1,9 +1,15 @@
 <?php
 
+use Kirby\Uuid\Uuid;
+
 class StationsPage extends Kirby\Cms\Page
 {
-    public function children()
+    public function children(): Pages
     {
+        if ($this->children instanceof Pages) {
+            return $this->children;
+        }
+
         $stations = [];
 
         foreach (Db::select('stations') as $station) {
