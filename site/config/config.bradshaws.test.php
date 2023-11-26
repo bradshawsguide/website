@@ -10,33 +10,3 @@ return [
         'install' => true
     ]
 ];
-
-// Ensure text files are automatically formatted using preferred style
-Data::$adapters['kd']['encode'] = function ($data) {
-    $result = array();
-    foreach ($data as $key => $value) {
-        $key = Str::lower(Str::slug($key));
-
-        if (empty($key) || is_null($value)) {
-            continue;
-        }
-
-        // Avoid problems with arrays
-        if (is_array($value)) {
-            $value = '';
-        }
-
-        // Escape accidental dividers within a field
-        $value = preg_replace('!\n----(.*?\R*)!', "\n ----$1", $value);
-
-        if (preg_match('!\R!', $value, $matches)) {
-            // Multi-line content
-            $result[$key] = $key . ": \n\n" . trim($value);
-        } else {
-            // Single-line content
-            $result[$key] = $key . ': ' . trim($value);
-        }
-    }
-
-    return implode("\n----\n", $result);
-};
