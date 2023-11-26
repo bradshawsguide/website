@@ -3,8 +3,11 @@
 return [
     'html' => function ($tag) {
         $image = (empty($tag->value())) ? $tag->parent()->image() : $tag->value();
-        return snippet('figure', [
-            'image' => $image
-        ], true);
+
+        if ($image) {
+            return snippet('figure', [
+                'image' => $image
+            ], true);
+        }
     }
 ];
