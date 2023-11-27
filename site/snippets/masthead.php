@@ -1,8 +1,8 @@
-<header class="c-masthead" id="top">
-    <h1 class="c-masthead__title">
+<header class="c-masthead">
+    <h1>
         <span>Bradshaw’s Guide</span>
         <span>for tourists in</span>
-        <span>Great Britain and&#160;Ireland</span>
+        <span>Great Britain and&nbsp;Ireland</span>
     </h1>
-    <p class="c-masthead__edition">1866 Edition</p>
+    <p>1866 Edition</p>
 </header>

@@ -1,75 +1,66 @@
 .c-masthead {
   background-color: var(--color-neutral-darkest);
-  color: var(--color-mustard);
+  color: var(--color-neutral-lighter);
   flex-direction: column;
-  padding: 2vh var(--page-gutter) 5vh;
+  padding-block: 3vh 5vh;
+  padding-inline: var(--page-gutter);
 
   @media (--from-m) {
     justify-content: center;
     text-align: center;
   }
-}
 
-.c-masthead__title {
-  > span {
+  & span {
     display: block;
-    line-height: 1;
-  }
 
-  > span:nth-child(1) {
-    font-family: var(--font-family-block);
-    font-size: calc(2rem + 10vmin);
-    line-height: 0.8;
-    text-transform: uppercase;
-  }
-
-  > span:nth-child(2) {
-    color: var(--color-neutral-lighter);
-    font-family: var(--font-family-serif);
-    font-size: calc(0.7rem + 1vmin);
-    font-variant-caps: all-small-caps;
-    letter-spacing: 0.05em;
-    margin: var(--space-xs) 0;
-  }
-
-  > span:nth-child(3) {
-    color: var(--color-neutral-lightest);
-    font-family: var(--font-family-slab);
-    font-size: calc(0.8rem + 4vmin);
-    font-weight: bold;
-    letter-spacing: 0.0125em;
-  }
-}
-
-.c-masthead__edition {
-  align-items: center;
-  color: var(--color-neutral-lighter);
-  display: flex;
-  font-family: var(--font-family-serif);
-  font-size: 0.875rem;
-  font-style: italic;
-  line-height: 1;
-  margin-top: 2vh;
-  text-transform: capitalize;
-
-  @media (--from-m) {
-    justify-content: center;
-
-    &::before,
-    &::after {
-      background-color: currentcolor;
-      content: "";
-      display: block;
-      height: 1px;
-      width: 5vw;
+    &:nth-of-type(1) {
+      color: var(--color-mustard);
+      font: var(--font-heading);
+      font-size: calc(2rem + 10vmin);
+      line-height: 0.7;
+      text-transform: uppercase;
     }
 
-    &::before {
-      margin-right: var(--space-xs);
+    &:nth-of-type(2) {
+      font: var(--font-body);
+      font-variant-caps: all-small-caps;
+      letter-spacing: 0.05em;
+      padding-block: var(--space-xs);
     }
 
-    &::after {
-      margin-left: var(--space-xs);
+    &:nth-of-type(3) {
+      color: var(--color-neutral-lightest);
+      font: var(--font-subhead);
+      font-size: calc(0.8rem + 4vmin);
+      letter-spacing: 0.0125em;
+    }
+  }
+
+  & p {
+    align-items: center;
+    display: flex;
+    font: var(--font-body);
+    font-style: italic;
+    margin-top: 2vh;
+
+    @media (--from-m) {
+      justify-content: center;
+
+      &::before,
+      &::after {
+        background-color: currentcolor;
+        content: "";
+        height: 1px;
+        width: 5vw;
+      }
+
+      &::before {
+        margin-inline-end: var(--space-xs);
+      }
+
+      &::after {
+        margin-inline-start: var(--space-xs);
+      }
     }
   }
 }
