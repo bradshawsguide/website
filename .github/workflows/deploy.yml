@@ -22,10 +22,15 @@ jobs:
         with:
           node-version-file: .nvmrc
           cache: npm
-      - name: Install dependencies
+      - name: Install Node dependencies
         run: npm i --package-lock=false
       - name: Build assets
         run: npm run-script build
+      - name: Install PHP dependencies
+        uses: php-actions/composer@v6
+        with:
+          php_version: 8.2
+          php_extensions: gd
       - name: Deploy to FTP server
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
