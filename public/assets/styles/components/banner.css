@@ -20,21 +20,10 @@
     white-space: nowrap;
   }
 
-  & b-toggle {
-    &::part(button) {
-      font: var(--font-label);
-      gap: var(--space-xs);
-      padding: var(--space-l);
-    }
-
-    &::part(label) {
-      @media (--from-m) {
-        all: initial;
-        color: inherit;
-        font: inherit;
-        text-transform: inherit;
-      }
-    }
+  & b-toggle::part(button) {
+    font: var(--font-label);
+    gap: var(--space-xs);
+    padding: var(--space-l);
 
     &:hover {
       color: var(--color-mustard);
@@ -42,6 +31,16 @@
 
     &:active {
       color: var(--color-link-active);
+    }
+  }
+
+  & b-toggle::part(label),
+  & b-visually-hidden {
+    @media (--from-m) {
+      all: initial;
+      color: inherit;
+      font: inherit;
+      text-transform: inherit;
     }
   }
 }
