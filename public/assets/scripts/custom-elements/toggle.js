@@ -36,6 +36,11 @@ export class ToggleElement extends LitElement {
       color: inherit;
       border: 0;
       display: flex;
+    }
+
+    :host button:focus-visible {
+      outline: var(--focus-outline-size) solid var(--focus-outline-color);
+      outline-offset: var(--focus-outline-offset);
     }`;
 
   #toggle() {
