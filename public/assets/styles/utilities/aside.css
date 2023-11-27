@@ -1,0 +1,9 @@
+[data-display="aside"] {
+  margin-block-end: var(--space-m);
+
+  @media screen and (--from-s) {
+    float: inline-end;
+    inline-size: min(30ch, 50%);
+    margin-inline-start: var(--gap-x);
+  }
+}

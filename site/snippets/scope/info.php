@@ -1,4 +1,4 @@
-<aside class="s-info u-pull-right">
+<aside class="s-info" data-display="aside">
 <?php foreach ($notes as $note): ?>
     <p><?= $note ?></p>
 <?php endforeach ?>
