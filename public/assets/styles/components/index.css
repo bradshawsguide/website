@@ -1,12 +1,16 @@
 .c-index {
-  border-top: var(--line-solid);
+  border-block-start: var(--line-solid);
   display: flex;
-  margin-bottom: var(--gap-y);
-  padding-top: var(--space-s);
-}
+  gap: var(--space-l);
+  margin-block-end: var(--gap-y);
+  padding-block-start: var(--space-s);
 
-.c-index__title {
-  font: var(--font-heading);
-  padding-right: var(--space-s);
-  text-transform: uppercase;
+  & h2 {
+    font: var(--font-heading);
+    text-transform: uppercase;
+  }
+
+  & >:last-child {
+    flex: 1;
+  }
 }
