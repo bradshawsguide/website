@@ -1,6 +1,6 @@
 .c-figure {
   & img {
-    width: 100%;
+    inline-size: 100%;
   }
 
   & figcaption {
@@ -10,7 +10,6 @@
   }
 
   &[data-display="cover"] {
-    margin-block-end: var(--gap-y);
     margin-inline: calc(var(--page-gutter) * -1);
 
     & img {
