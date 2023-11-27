@@ -1,20 +1,24 @@
 .c-place {
+  --link-decoration: none;
+
   background-color: white;
   box-shadow: var(--drop-shadow-shallow);
-  margin: var(--space-m) 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+  margin-block: var(--space-m);
   outline: var(--line-solid);
-  padding: var(--space-xs) var(--space-s);
+  padding: var(--space-s);
   position: relative;
-  z-index: 2;
-}
 
-.c-place__title {
-  font: var(--font-subhead);
-  font-size: var(--font-size-xl);
-  font-variant-caps: all-small-caps;
-  margin-bottom: var(--space-s);
+  & h3 {
+    font: var(--font-subhead);
+    letter-spacing: 0.025em;
+    margin-block: 0 !important;
+    text-transform: uppercase;
+  }
 
-  a {
+  & a {
     --focus-outline-size: 0;
 
     &::before {
