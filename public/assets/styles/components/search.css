@@ -10,30 +10,6 @@
     display: flex;
   }
 
-  & button,
-  & b-toggle::part(button) {
-    border-inline-start: var(--line-solid);
-    display: flex;
-    font: var(--font-label);
-    gap: var(--space-xs);
-    padding: var(--space-l);
-  }
-
-  & search {
-    flex: 1;
-  }
-
-  & form {
-    display: flex;
-
-    & b-visually-hidden {
-      @media (--from-m) {
-        all: initial;
-        color: inherit;
-      }
-    }
-  }
-
   & input {
     background: none;
     border: 0;
@@ -43,5 +19,34 @@
     outline: var(--line-solid);
     padding-block: var(--space-m);
     padding-inline: var(--space-l);
+  }
+
+  & button,
+  & ::part(button) {
+    border-inline-start: var(--line-solid);
+    display: flex;
+    font: var(--font-label);
+    gap: var(--space-xs);
+    padding: var(--space-l);
+  }
+
+  & b-locate[error]::part(button) {
+    opacity: 0.5;
+  }
+
+  & search {
+    flex: 1;
+  }
+
+  & form {
+    display: flex;
+
+    & b-locate::part(label),
+    & b-visually-hidden {
+      @media (--from-m) {
+        all: initial;
+        color: inherit;
+      }
+    }
   }
 }

@@ -8,10 +8,7 @@
                 <b-icon name="search"></b-icon>
                 <b-visually-hidden>Search</b-visually-hidden>
             </button>
-            <button type="button" data-geo>
-                <b-icon name="locate"></b-icon>
-                <b-visually-hidden>Stations near me</b-visually-hidden>
-            </button>
+            <b-locate label="Stations near me"></b-locate>
         </form>
     </search>
 </b-dialog>
