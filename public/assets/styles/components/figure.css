@@ -10,41 +10,27 @@
   }
 
   &[data-display="cover"] {
-    margin-bottom: var(--gap-y);
-    margin-left: calc(var(--page-gutter) * -1);
-    margin-right: calc(var(--page-gutter) * -1);
+    margin-block-end: var(--gap-y);
+    margin-inline: calc(var(--page-gutter) * -1);
 
     & img {
       --banner-height: 5rem;
 
       aspect-ratio: 16 / 9;
-      max-height: calc(80vh - var(--banner-height));
+      max-block-size: calc(80vh - var(--banner-height));
       object-fit: cover;
     }
 
     & figcaption {
-      margin-left: var(--page-gutter);
-      margin-right: var(--page-gutter);
+      margin-inline: var(--page-gutter);
     }
   }
 
   &[data-display="map"] {
-    margin-bottom: var(--space-l);
+    margin-block-end: var(--space-l);
 
     & img {
       border: var(--line-double);
     }
   }
-}
-
-
-
-/* Bleed to the edges of the viewport */
-
-
-/* Map illustration */
-
-/* Image */
-.c-figure--image {
-  margin: var(--space-l) 0;
 }
