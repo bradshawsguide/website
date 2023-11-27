@@ -5,34 +5,33 @@
   hyphens: none;
   padding: var(--space-s);
 
-  p:not(:last-child) {
-    margin-bottom: var(--space-xs);
+  & p:not(:last-child) {
+    margin-block-end: var(--space-xs);
   }
 
-  dt {
-    float: left;
+  & dt {
+    float: inline-start;
     font-variant-caps: small-caps;
-    font-weight: normal;
 
     &::after {
       content: ".";
     }
   }
 
-  dt + dd::before {
+  & dt + dd::before {
     content: "—";
   }
 
-  dd {
+  & dd {
     hyphens: none;
-    margin-left: var(--text-indent);
+    margin-inline-start: var(--text-indent);
 
     & + dd {
       text-indent: var(--text-indent);
     }
 
     &:not(:last-of-type) {
-      margin-bottom: var(--space-xs);
+      margin-block-end: var(--space-xs);
     }
   }
 }
