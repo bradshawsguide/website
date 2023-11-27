@@ -6,8 +6,7 @@
   display: flex;
   flex: 1 0 auto;
   flex-direction: column;
-  padding-left: var(--page-gutter);
-  padding-right: var(--page-gutter);
+  padding-inline: var(--page-gutter);
   position: relative;
 
   &::after {
@@ -47,24 +46,5 @@
     @media (--from-m) {
       grid-template-columns: repeat(4, 1fr);
     }
-  }
-}
-
-.c-page--place {
-  & .c-figure[data-display="cover"] {
-    margin-bottom: 0;
-    order: -1;
-  }
-}
-
-.c-page--route {
-  & .c-figure[data-display="cover"] {
-    margin-bottom: 0;
-  }
-}
-
-.c-page--routes {
-  .c-switch {
-    margin: calc(var(--space-l) * -1) auto var(--space-m);
   }
 }
