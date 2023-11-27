@@ -1,11 +1,13 @@
 .c-switch {
   --focus-outline-offset: 0;
+  --color-link: var(--color-neutral-dark);
   --link-decoration: none;
 
   display: flex;
   font: var(--font-label);
   justify-content: space-between;
-  padding-block-end: var(--space-m);
+  margin-block: var(--space-m);
+  margin-inline: auto;
 
   & ul {
     border: var(--line-solid);
@@ -15,7 +17,6 @@
   & a {
     background-color: white;
     box-shadow: inset 0 -1px 0 var(--color-neutral-dark-alpha);
-    color: var(--color-neutral-dark);
     display: block;
     padding-block: var(--space-s);
     padding-inline: var(--space-m);
@@ -25,14 +26,6 @@
       box-shadow: inset 0 1px 0 var(--color-neutral-dark-alpha);
       font-weight: bold;
       letter-spacing: -0.0313rem;
-    }
-
-    &:hover {
-      color: var(--color-link-hover);
-    }
-
-    &:active {
-      color: var(--color-link-active);
     }
 
     &:focus {
