@@ -1,5 +1,6 @@
 .c-feature {
   --card-growth: var(--space-2xs);
+  --link-decoration: none;
 
   background-color: white;
   box-shadow: var(--drop-shadow-shallow);
@@ -20,59 +21,52 @@
     padding: var(--card-growth);
   }
 
-  .c-page--station & {
-    margin-bottom: var(--gap-y);
-  }
-}
+  & header {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: var(--space-s);
+    padding-bottom: 0;
 
-.c-feature__header {
-  display: flex;
-  flex-direction: column-reverse;
-  padding: var(--space-xs);
-  padding-bottom: 0;
-}
-
-.c-feature__parent {
-  color: var(--color-neutral-mid);
-  font: var(--font-body);
-  font-style: italic;
-}
-
-.c-feature__title {
-  --link-decoration: none;
-
-  font: var(--font-subhead);
-  font-size: var(--font-size-xl);
-  font-variant-caps: all-small-caps;
-
-  a {
-    --focus-outline-size: 0;
-
-    &::before {
-      content: "";
-      display: block;
-      inset: 0;
-      position: absolute;
-      z-index: 1;
+    & h3 {
+      font: var(--font-subhead);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
     }
 
-    &:focus::before {
-      outline: 0.125em solid var(--focus-outline-color);
-      outline-offset: 0;
+    & p {
+      color: var(--color-neutral-mid);
+      font: var(--font-meta);
+      font-style: italic;
+      margin-block: var(--space-2xs);
+    }
+
+    & a {
+      --focus-outline-size: 0;
+
+      &::before {
+        content: "";
+        display: block;
+        inset: 0;
+        position: absolute;
+        z-index: 1;
+      }
+
+      &:focus::before {
+        outline: 0.125em solid var(--focus-outline-color);
+        outline-offset: 0;
+      }
     }
   }
-}
 
-.c-feature__main {
-  color: var(--color-neutral-dark);
-  padding: var(--space-xs);
-  padding-bottom: var(--space-s);
-}
+  & img {
+    aspect-ratio: 16 / 9;
+    inline-size: calc(100% + var(--card-growth) + var(--card-growth));
+    margin: calc(var(--card-growth) * -1);
+    order: -1;
+  }
 
-.c-feature__img {
-  height: auto;
-  margin: calc(var(--card-growth) * -1);
-  margin-bottom: 0;
-  order: -1;
-  width: calc(100% + var(--card-growth) + var(--card-growth));
+  & .s-text {
+    color: var(--color-neutral-dark);
+    padding: var(--space-s);
+  }
 }

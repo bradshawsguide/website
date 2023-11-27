@@ -17,6 +17,7 @@ return [
     // Thumbs
     'thumbs' => [
         'cover' => ['width' => 320, 'height' => 180, 'crop' => 'center', 'quality' => 80],
+        'feature' => ['width' => 480, 'height' => 270, 'crop' => 'center', 'quality' => 80],
         'map' => ['width' => 300, 'height' => 200, 'crop' => 'center', 'quality' => 80],
         'pull-right' => ['width' => 150, 'height' => 200, 'crop' => 'center', 'quality' => 80],
         'srcsets' => [
@@ -24,6 +25,11 @@ return [
                 '320w' => ['width' => 320, 'height' => 180, 'crop' => 'center', 'quality' => 80],
                 '640w' => ['width' => 640, 'height' => 360, 'crop' => 'center', 'quality' => 80],
                 '1280w' => ['width' => 1280, 'height' => 720, 'crop' => 'center', 'quality' => 80],
+            ],
+            'feature' => [
+                '320w' => ['width' => 320, 'height' => 180, 'crop' => 'center', 'quality' => 80],
+                '480w' => ['width' => 480, 'height' => 270, 'crop' => 'center', 'quality' => 80],
+                '960w' => ['width' => 960, 'height' => 540, 'crop' => 'center', 'quality' => 80],
             ],
             'map' => [
                 '300w' => ['width' => 300, 'height' => 200, 'crop' => 'center', 'quality' => 80],
