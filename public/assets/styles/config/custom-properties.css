@@ -50,7 +50,7 @@
   --font-headline: bold var(--font-size-3xl) / var(--line-height-solid) var(--font-family-slab);
   --font-title: var(--font-size-2xl) / var(--line-height-solid) var(--font-family-serif);
   --font-heading: var(--font-size-2xl) / var(--line-height-solid) var(--font-family-block);
-  --font-subhead: bold var(--font-size-l) / 0.75 var(--font-family-slab);
+  --font-subhead: bold var(--font-size-l) / var(--line-height-solid) var(--font-family-slab);
   --font-body: normal var(--font-size-m) / var(--line-height-relaxed) var(--font-family-serif);
   --font-meta: normal var(--font-size-s) / var(--line-height-loose) var(--font-family-serif);
   --font-label: 425 var(--font-size-s) / var(--line-height-solid) var(--font-family-sans);
