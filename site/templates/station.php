@@ -10,12 +10,6 @@ snippet('header', [
     'subtitle' => $page->subtitle()
 ]);
 
-if ($page->place()->isNotEmpty()) {
-    snippet('feature', [
-        'item' => $page->place()->toPage()
-    ]);
-}
-
 if ($page->routes()) {
     snippet('section/route-traversal', [
         'title' => 'Routes serving this station',
@@ -29,6 +23,16 @@ snippet('map', [
     'title' => 'Location of this station',
     'modifiers' => ['cover']
 ]);
+
+if ($page->place()->isNotEmpty()) {
+    snippet('section/list', [
+        'title' => 'Places nearby',
+        'modifiers' => ['offset'],
+        'items' => [$page->place()->toPage()],
+        'component' => 'feature',
+        'display' => 'grid'
+    ]);
+}
 
 snippet('section/text', [
     'title' => 'Further reading',
