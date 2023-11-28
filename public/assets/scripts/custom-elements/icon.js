@@ -1,11 +1,11 @@
-import { css, LitElement, html } from 'lit';
+import { css, LitElement, html } from "lit";
 
 export class IconElement extends LitElement {
-  constructor () {
+  constructor() {
     super();
-    this.name = '';
-    this.url = this.url || '/assets/vectors/icons.svg';
-  };
+    this.name = "";
+    this.url = this.url || "/assets/vectors/icons.svg";
+  }
 
   static properties = {
     name: {
@@ -13,7 +13,7 @@ export class IconElement extends LitElement {
     },
     url: {
       type: String,
-      attribute: 'src'
+      attribute: "src",
     },
   };
 
@@ -30,7 +30,8 @@ export class IconElement extends LitElement {
       block-size: 100%;
       display: block;
       inline-size: 100%;
-    }`;
+    }
+  `;
 
   render() {
     return html`
@@ -38,5 +39,5 @@ export class IconElement extends LitElement {
         <use part="use" href="${this.url}#${this.name}"></use>
       </svg>
     `;
-  };
+  }
 }

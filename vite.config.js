@@ -1,38 +1,38 @@
-import kirby from 'vite-plugin-kirby';
-import mkcert from'vite-plugin-mkcert'
+import kirby from "vite-plugin-kirby";
+import mkcert from "vite-plugin-mkcert";
 
 export default ({ mode }) => ({
-  root: 'public',
-  base: mode === 'development' ? '/' : '/dist/',
+  root: "public",
+  base: mode === "development" ? "/" : "/dist/",
   build: {
-    cssMinify: 'lightningcss',
+    cssMinify: "lightningcss",
     rollupOptions: {
       input: [
-        'public/assets/styles/app.css',
-        'public/assets/scripts/app.js',
-        'public/assets/styles/map.css',
-        'public/assets/scripts/map.js',
-      ]
+        "public/assets/styles/app.css",
+        "public/assets/scripts/app.js",
+        "public/assets/styles/map.css",
+        "public/assets/scripts/map.js",
+      ],
     },
   },
   css: {
-    transformer: 'lightningcss',
+    transformer: "lightningcss",
     lightningcss: {
       drafts: {
-        customMedia: true
-      }
-    }
+        customMedia: true,
+      },
+    },
   },
   plugins: [
     kirby({
       watch: [
-        '../site/(templates|snippets|controllers|models)/**/*.php',
-        '../content/**/*',
+        "../site/(templates|snippets|controllers|models)/**/*.php",
+        "../content/**/*",
       ],
     }),
-    mkcert()
+    mkcert(),
   ],
   server: {
-    https: true
-  }
+    https: true,
+  },
 });

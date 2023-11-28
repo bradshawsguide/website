@@ -1,7 +1,7 @@
-import Leaflet from 'leaflet';
+import Leaflet from "leaflet";
 
-async function getMap () {
-  const container = document.querySelector('#map');
+async function getMap() {
+  const container = document.querySelector("#map");
   const zoomDefault = 8;
   const zoomValue = container.dataset.zoom;
   const url = container.dataset.geojson;
@@ -18,14 +18,14 @@ async function getMap () {
     let fillColor;
     let opacity;
 
-    switch (property['marker-size']) {
-      case 'small': {
-        fillColor = '#d63636';
+    switch (property["marker-size"]) {
+      case "small": {
+        fillColor = "#d63636";
         opacity = 0;
         break;
       }
-      case 'large': {
-        fillColor = '#f9f7f5';
+      case "large": {
+        fillColor = "#f9f7f5";
         opacity = 1;
         break;
       }
@@ -33,18 +33,18 @@ async function getMap () {
     }
 
     return Leaflet.circleMarker(latlng, {
-      color: '#d63636',
+      color: "#d63636",
       opacity,
       fillColor,
       fillOpacity: 1,
       radius: getZoom() * (1 / 3),
-      weight: getZoom() * (1 / 3)
+      weight: getZoom() * (1 / 3),
     });
   };
 
   const featureStyle = function () {
     return {
-      color: '#d63636'
+      color: "#d63636",
     };
   };
 
@@ -68,19 +68,23 @@ async function getMap () {
     zoom: getZoom(),
     minZoom: 2,
     scrollWheelZoom: false,
-    touchZoom: false
+    touchZoom: false,
   });
 
   const geoJSONLayer = Leaflet.geoJSON(data, {
     style: featureStyle,
     pointToLayer: featurePoint,
-    onEachFeature: featurePopup
+    onEachFeature: featurePopup,
   }).addTo(map);
 
-  Leaflet.tileLayer('https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}@2x.png?apikey=d3e9601592c94e29ba6a599abb5b0e93', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-    subdomains: ['a', 'b', 'c']
-  }).addTo(map);
+  Leaflet.tileLayer(
+    "https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}@2x.png?apikey=d3e9601592c94e29ba6a599abb5b0e93",
+    {
+      attribution:
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      subdomains: ["a", "b", "c"],
+    },
+  ).addTo(map);
 
   if (zoomValue) {
     map.setView(geoJSONLayer.getBounds().getCenter());
@@ -88,16 +92,16 @@ async function getMap () {
     map.fitBounds(geoJSONLayer.getBounds());
   }
 
-  map.on('zoomend', () => {
+  map.on("zoomend", () => {
     const currentZoom = map.getZoom();
 
     geoJSONLayer.setStyle({
       radius: currentZoom * (1 / 3),
-      weight: currentZoom * (1 / 3)
+      weight: currentZoom * (1 / 3),
     });
   });
-};
+}
 
-document.addEventListener('DOMContentLoaded', async () => {
+document.addEventListener("DOMContentLoaded", async () => {
   await getMap();
 });

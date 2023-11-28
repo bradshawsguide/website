@@ -1,4 +1,4 @@
-import { css, LitElement, html } from 'lit';
+import { css, LitElement, html } from "lit";
 
 export class VisuallyHiddenElement extends LitElement {
   static styles = css`
@@ -12,9 +12,10 @@ export class VisuallyHiddenElement extends LitElement {
       padding: 0;
       position: absolute;
       white-space: nowrap;
-    }`;
+    }
+  `;
 
   render() {
     return html`<slot></slot>`;
-  };
+  }
 }

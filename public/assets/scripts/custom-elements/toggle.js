@@ -1,18 +1,18 @@
-import { css, LitElement, html } from 'lit';
-import { IconElement } from './icon.js';
-import { VisuallyHiddenElement } from './visually-hidden.js';
+import { css, LitElement, html } from "lit";
+import { IconElement } from "./icon.js";
+import { VisuallyHiddenElement } from "./visually-hidden.js";
 
 export class ToggleElement extends LitElement {
-  constructor () {
+  constructor() {
     super();
-    this.action = 'auto';
-    this.target = this.closest('dialog')?.id;
-    this.label = 'Toggle';
-  };
+    this.action = "auto";
+    this.target = this.closest("dialog")?.id;
+    this.label = "Toggle";
+  }
 
   static dependencies = {
-    'b-icon': IconElement,
-    'b-visually-hidden': VisuallyHiddenElement
+    "b-icon": IconElement,
+    "b-visually-hidden": VisuallyHiddenElement,
   };
 
   static properties = {
@@ -20,13 +20,13 @@ export class ToggleElement extends LitElement {
       type: String,
     },
     target: {
-      type: String
+      type: String,
     },
     icon: {
-      type: String
+      type: String,
     },
     label: {
-      type: String
+      type: String,
     },
   };
 
@@ -41,7 +41,8 @@ export class ToggleElement extends LitElement {
     :host button:focus-visible {
       outline: var(--focus-outline-size) solid var(--focus-outline-color);
       outline-offset: var(--focus-outline-offset);
-    }`;
+    }
+  `;
 
   #toggle() {
     const dialog = document.querySelector(`#${this.target}`);
@@ -52,21 +53,21 @@ export class ToggleElement extends LitElement {
 
     // Set `data-js-toggle` to enable styling dialog when opened by toggle
     dialog.dataset.jsToggle = this.action;
-    dialog.addEventListener('close', () => {
+    dialog.addEventListener("close", () => {
       delete dialog.dataset.jsToggle;
     });
 
     // Show/close dialog
     switch (true) {
-      case this.action === 'close': {
+      case this.action === "close": {
         dialog.close();
         break;
       }
-      case this.action === 'show': {
+      case this.action === "show": {
         dialog.show();
         break;
       }
-      case this.action === 'showModal': {
+      case this.action === "showModal": {
         dialog.showModal();
         break;
       }
@@ -77,7 +78,8 @@ export class ToggleElement extends LitElement {
   }
 
   render() {
-    const icon = this.icon && html`<b-icon part="icon" name=${this.icon}></b-icon>`;
+    const icon =
+      this.icon && html`<b-icon part="icon" name=${this.icon}></b-icon>`;
 
     return html`
       <button part="button" @click="${this.#toggle}">
@@ -85,5 +87,5 @@ export class ToggleElement extends LitElement {
         <b-visually-hidden part="label">${this.label}</b-visually-hidden>
       </button>
     `;
-  };
+  }
 }
