@@ -1,6 +1,6 @@
 # Bradshaw’s Guide For Tourists in Great Britain & Ireland
 
-*Let this digital revival of a Victorian favourite be your guide to Britain and Ireland’s burgeoning railway network, as it existed in 1866.*
+_Let this digital revival of a Victorian favourite be your guide to Britain and Ireland’s burgeoning railway network, as it existed in 1866._
 
 ## Installation
 
@@ -53,6 +53,7 @@ website
 ├── .gitmodules                 # List of submodules tracked by git
 ├── .htaccess                   # Apache server config
 ├── .nvmrc                      # Node version to use
+├── .prettierignore             # List of files not to format with Prettier
 ├── composer.lock               # Composer manifest lock file
 ├── composer.json               # Composer manifest
 ├── package-lock.json           # NPM manifest lock file

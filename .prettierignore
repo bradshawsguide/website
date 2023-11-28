@@ -1,0 +1,9 @@
+/content/
+/public/dist/
+/site/accounts/
+/site/config/vite.config.php
+/site/plugins/*
+!/site/plugins/kirby-bradshawsguide
+/vendor/
+node_modules
+composer.lock
