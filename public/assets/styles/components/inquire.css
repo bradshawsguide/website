@@ -29,8 +29,7 @@
 
       @media (--from-m) {
         background-color: hsl(0deg 0% 0% / 60%);
-        padding-left: var(--space-s);
-        padding-right: var(--space-s);
+        padding-inline: var(--space-s);
       }
     }
 
