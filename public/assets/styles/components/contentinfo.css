@@ -15,6 +15,9 @@
 
   & a[rel="me"] {
     display: flex;
+  }
+
+  & b-icon {
     font-size: var(--font-size-l);
     padding: var(--space-2xs);
   }
