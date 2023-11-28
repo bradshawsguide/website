@@ -25,7 +25,7 @@
   }
 
   & li:last-child:only-child {
-    margin-left: auto;
+    margin-inline-start: auto;
   }
 
   & a {
