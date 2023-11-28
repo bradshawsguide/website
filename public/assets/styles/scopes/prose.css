@@ -5,55 +5,52 @@
   hyphens: auto;
   letter-spacing: 0.005em;
 
-  > *:not(.c-figure) {
-    max-width: 40rem;
+  & > *:not(.c-figure) {
+    max-inline-size: 60ch;
   }
 
-  p + p {
+  & p + p {
     text-indent: var(--text-indent);
   }
 
-  * + h2:not([class]) {
-    margin-top: var(--space-xl);
+  & * + h2 {
+    margin-block-start: var(--space-xl);
   }
 
-  h2:not([class]) {
+  & h2 {
     font: var(--font-subhead);
-    margin-bottom: var(--space-xs);
+    margin-block-end: var(--space-xs);
 
     &::after {
       content: ".";
     }
   }
 
-  h3:not([class]),
-  summary {
+  & h3 {
     font: var(--font-subhead);
     font-variant-caps: all-small-caps;
-    margin-bottom: var(--space-2xs);
-    margin-top: var(--space-l);
+    margin-block: var(--space-l) var(--space-2xs);
     opacity: 0.8;
   }
 
-  h2 + h3:not([class]) {
-    margin-top: var(--space-xs);
+  & h2 + h3 {
+    margin-block-start: var(--space-xs);
   }
 
-  h4 {
+  & h4 {
     font-style: italic;
-    margin-top: var(--space-xs);
+    margin-block-start: var(--space-xs);
     text-align: center;
   }
 
-  hr {
+  & hr {
+    block-size: 2px;
     border: 0;
-    border-bottom: var(--line-solid);
-    border-top: var(--line-solid);
-    height: 2px;
+    border-block: var(--line-solid);
     margin: 1.5rem;
   }
 
-  a {
+  & a {
     hyphens: none;
 
     &[href^="/stations/"] {
@@ -61,20 +58,20 @@
     }
   }
 
-  cite,
-  em {
+  & cite,
+  & em {
     line-height: 0;
   }
 
-  strong {
+  & strong {
     font-family: var(--font-family-slab);
 
-    a[href^="/stations/"] {
+    & a[href^="/stations/"] {
       font-variant-caps: normal;
     }
   }
 
-  ul li {
+  & ul li {
     margin-left: var(--text-indent);
     text-indent: -1em;
 
@@ -83,14 +80,16 @@
     }
   }
 
-  blockquote {
+  & blockquote {
     font-size: 85%;
-    line-height: 1.4;
-    margin: var(--space-l) 10% var(--space-l);
+    line-height: var(--line-height-loose);
+    margin-block: var(--space-l);
+    margin-inline: 10%;
 
-    hr {
+    & hr {
       border: 0;
-      margin: var(--space-s) 0;
+      margin-block: var(--space-s);
+      margin-inline: 0;
 
       &::after {
         content: "\00A0 ∗ ∗ ∗ ∗ ";
@@ -100,22 +99,21 @@
       }
     }
 
-    p {
+    & p {
       text-indent: 0;
       white-space: pre-wrap;
     }
 
-    br {
+    & br {
       display: none;
     }
 
-    + p > cite {
+    & + p > cite {
       display: block;
       font-size: 75%;
       font-style: normal;
       font-variant-caps: small-caps;
-      margin-bottom: var(--space-m);
-      margin-top: calc(var(--space-s) * -1);
+      margin-block: calc(var(--space-s) * -1) var(--space-m);
       text-align: center;
 
       &::before {
@@ -123,139 +121,138 @@
       }
     }
 
-    > :first-child::before,
-    > :last-child::after {
+    & > :first-child::before,
+    & > :last-child::after {
       display: inline-block;
       font-size: 125%;
+      inline-size: 0.75rem;
+      inset-block-start: 0.25rem;
       line-height: 0;
       position: relative;
-      top: 0.25rem;
-      width: 0.75rem;
     }
 
-    > :first-child::before {
+    & > :first-child::before {
       content: "“";
       margin-left: -0.75rem;
     }
 
-    > :last-child::after {
+    & > :last-child::after {
       content: "”";
       text-align: right;
     }
   }
 
-  dt:not([class]) {
+  & dt {
     font-weight: 700;
   }
 
-  dd:not([class]) {
+  & dd {
     margin-left: var(--text-indent);
   }
 
-  small {
+  & small {
     font-size: 75%;
   }
 
-  table {
+  & table {
     font-size: 85%;
     font-variant-numeric: lining-nums tabular-nums;
-    line-height: 1.25;
-    margin-bottom: 0.75em;
+    line-height: var(--line-height-tight);
+    margin-block-end: var(--space-s);
   }
 
-  th,
-  td {
+  & th,
+  & td {
     font-weight: normal;
-    padding-bottom: var(--space-2xs);
-    padding-right: var(--space-m);
-    padding-top: var(--space-2xs);
+    padding-block: var(--space-2xs);
+    padding-inline-end: var(--space-m);
   }
 
-  th + th,
-  td + td {
-    border-left: var(--line-double);
+  & th + th,
+  & td + td {
+    border-inline-start: var(--line-double);
   }
 
-  th:not(:first-child),
-  td:not(:first-child) {
-    padding-left: var(--space-m);
+  & th:not(:first-child),
+  & td:not(:first-child) {
+    padding-inline-start: var(--space-m);
   }
 
   /* Typesetting */
-  .amp {
+  & .amp {
     font-family: var(--font-family-serif);
     font-style: italic;
   }
 
-  .c2sc {
+  & .c2sc {
     font-variant-caps: all-small-caps;
     letter-spacing: 0.025em;
   }
 
-  .smcp {
+  & .smcp {
     font-feature-settings: "smcp" on;
   }
 
-  .frac-nom {
+  & .frac-nom {
     margin-right: 0.05em;
   }
 
-  .frac-denom {
+  & .frac-denom {
     margin-left: 0.05em;
   }
 
   /* Footnotes */
-  .footnotes {
+  & .footnotes {
     font: var(--font-caption);
   }
 }
 
 .s-prose--centered {
-  > *:not(.c-figure) {
+  & > *:not(.c-figure) {
     margin: 0 auto;
   }
 }
 
 .s-prose--route {
-  border-left: 0.25rem solid var(--color-neutral-lighter);
-  padding-left: var(--space-m);
+  border-inline-start: 0.25rem solid var(--color-neutral-lighter);
+  padding-inline-start: var(--space-m);
   position: relative;
 
   &::before,
   &::after { /* Termini */
     background-color: var(--color-neutral-lighter);
+    block-size: 0.25rem;
     content: "";
     display: block;
-    height: 0.25rem;
-    left: -0.625rem;
+    inline-size: var(--space-m);
+    inset-inline-start: -0.625rem;
     position: absolute;
-    width: var(--space-m);
   }
 
   &::before { /* ┳ */
-    top: 0;
+    inset-block-start: 0;
   }
 
   &::after { /* ┻ */
     bottom: 0;
-    margin-bottom: -0.25rem;
+    margin-block-end: -0.25rem;
   }
 
-  p + p {
-    margin-top: var(--space-s);
+  & p + p {
+    margin-block-start: var(--space-s);
     text-indent: 0;
   }
 
-  .c-place {
+  & .c-place {
     &::before {
       background-color: var(--color-neutral-lighter);
+      block-size: 0.25rem;
       content: "";
       display: block;
-      height: 0.25rem;
-      left: calc(var(--space-m) * -1);
+      inline-size: var(--space-m);
+      inset-block-start: var(--space-l);
+      inset-inline-start: calc(var(--space-m) * -1);
       position: absolute;
-      top: var(--space-l);
-      width: var(--space-m);
     }
   }
 }
