@@ -1,49 +1,59 @@
 .s-distances {
   font: var(--font-meta);
-  margin: var(--space-l) auto var(--space-xl);
-  width: 100%;
+  inline-size: 100%;
+  margin-block: var(--space-l);
+  margin-inline: auto;
 
-  tr {
+  & caption {
+    font-variant-caps: all-small-caps;
+    margin-block: var(--space-xs);
+
+    &::after {
+      content: ".";
+    }
+  }
+
+  & tr {
     break-inside: avoid;
-    display: block;
-    width: 100%;
+    inline-size: 100%;
+
+    & > *:last-child {
+      text-align: end;
+    }
   }
 
-  th,
-  td {
-    border-left: 0 !important;
+  & th,
+  & td {
+    border-inline-start: 0 !important;
+    inline-size: 100%;
     vertical-align: bottom;
-    width: 100%;
   }
 
-  thead {
-    display: block;
-
-    th:nth-child(2) {
+  & thead {
+    @media screen and (--from-m) {
       display: block;
+      inline-size: 100%;
+      position: relative;
+    }
+
+    & th:nth-child(2) {
       font-size: 80%;
-      font-weight: normal;
-      text-align: right;
 
       @media screen and (--from-m) {
-        display: block;
-        position: relative;
-      }
-
-      &::after {
-        @media screen and (--from-m) {
+        &::after {
           content: "Miles.";
-          left: 0;
-          padding-right: calc(var(--space-l) / 2);
+          inset-block-start: 0;
+          inset-inline-end: calc(50% + var(--gap-x));
+          padding-block: var(--space-2xs);
+          padding-inline: var(--space-m);
           position: absolute;
-          text-align: right;
-          width: 50%;
+          text-align: end;
         }
       }
     }
   }
 
-  tbody {
+  & tbody {
     word-spacing: -0.025em;
 
     @media screen and (--from-m) {
@@ -54,44 +64,34 @@
       display: block;
     }
 
-    span {
+    & span {
       background-color: var(--color-neutral-lightest);
-      padding-right: var(--space-2xs);
+      padding-inline-end: var(--space-2xs);
+      position: relative;
+      z-index: var(--z-index-default);
     }
 
-    em {
+    & em {
       font-size: 80%;
     }
 
-    td:nth-child(1) {
+    & td:nth-child(1) {
       position: relative;
 
       &::after {
-        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='1.5' viewBox='0 0 4 2'%3E%3Ccircle cx='1' cy='1' r='1'/%3E%3C/svg%3E");
+        background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' height='1.5' viewBox='0 0 4 2'><circle cx='1' cy='1' r='1'/></svg>");
         background-position: bottom right;
         background-repeat: repeat-x;
-        bottom: 0.3334em;
+        block-size: var(--line-size-thick);
         content: "";
-        height: var(--line-size-thick);
-        left: var(--space-2xs);
+        inset-block-end: 0.67em;
+        inset-inline: var(--space-2xs);
         position: absolute;
-        right: var(--space-2xs);
-        z-index: var(--z-index-underlay);
       }
     }
 
-    td:nth-child(2) {
+    & td:nth-child(2) {
       white-space: nowrap;
-    }
-  }
-
-  caption {
-    font-variant-caps: all-small-caps;
-    margin-top: var(--space-m);
-    text-align: center;
-
-    &::after {
-      content: ".";
     }
   }
 }
