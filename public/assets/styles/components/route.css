@@ -1,37 +1,35 @@
 .c-route {
-  margin: var(--space-m) 0;
+  margin-block: var(--space-m);
   outline: var(--line-solid);
   padding: var(--space-s);
   position: relative;
 
   &::before {
-    border: solid var(--color-neutral-lighter);
-    border-bottom-left-radius: 1rem;
-    border-width: 0 0 0.25rem 0.25rem;
+    block-size: 1.5rem;
+    border: 0 solid var(--color-neutral-lighter);
+    border-block-end-width: 0.25rem;
+    border-end-start-radius: 1rem;
+    border-inline-start-width: 0.25rem;
     content: "";
     display: block;
-    height: 1.5rem;
-    left: -20px;
+    inline-size: 1.25rem;
+    inset-block-start: 0;
+    inset-inline-start: -20px;
     position: absolute;
-    top: 0;
-    width: 1.25rem;
   }
 
-  & b-icon {
-    inline-size: 1.5em;
+  & h3 {
+    font: var(--font-subhead);
+    letter-spacing: 0.025em;
+    margin-block-start: 0 !important;
   }
-}
 
-.c-route__title {
-  font: var(--font-subhead);
-  margin-block-end: var(--space-xs);
-
-  a {
+  & a {
     --focus-outline-size: 0;
 
     align-items: center;
     display: flex;
-    gap: var(--space-xs);
+    gap: var(--space-2xs);
 
     &::before {
       content: "";
@@ -44,5 +42,9 @@
     &:focus::before {
       outline: 0.125em solid var(--focus-outline-color);
     }
+  }
+
+  & b-icon {
+    inline-size: 1.25em;
   }
 }
