@@ -50,6 +50,13 @@ export class ToggleElement extends LitElement {
       return;
     }
 
+    // Set `data-js-toggle` to enable styling dialog when opened by toggle
+    dialog.dataset.jsToggle = this.action;
+    dialog.addEventListener('close', () => {
+      delete dialog.dataset.jsToggle;
+    });
+
+    // Show/close dialog
     switch (true) {
       case this.action === 'close': {
         dialog.close();

@@ -1,4 +1,4 @@
-<b-dialog class="c-navigation" id="navigation" aria-labelledby="navigation-title">
+<dialog open class="c-navigation" id="navigation" aria-labelledby="navigation-title">
     <b-toggle action="close" icon="close" label="Close menu"></b-toggle>
 
     <nav class="c-navigation__container">
@@ -15,4 +15,5 @@
 <?php endforeach ?>
         </ul>
     </nav>
-</b-dialog>
+</dialog>
+<script>document.querySelector("#navigation").open = false</script>

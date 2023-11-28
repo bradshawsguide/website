@@ -1,4 +1,4 @@
-<b-dialog class="c-search" id="search" aria-label="Search">
+<dialog open class="c-search" id="search" aria-label="Search">
     <b-toggle action="close" icon="close" label="Close search"></b-toggle>
 
     <search>
@@ -11,4 +11,5 @@
             <b-locate label="Stations near me"></b-locate>
         </form>
     </search>
-</b-dialog>
+</dialog>
+<script>document.querySelector("#search").open = false</script>

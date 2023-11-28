@@ -3,9 +3,13 @@
   --focus-outline-offset: -0.25rem;
   --link-decoration: none;
 
-  color: var(--color-neutral-lightest);
-
   &[open] {
+    background-color: transparent;
+    color: var(--color-neutral-lightest);
+    inline-size: 100vw;
+  }
+
+  &[data-js-toggle] {
     --navigation-direction: column;
 
     background-color: var(--color-mustard);
@@ -27,12 +31,26 @@
     padding-inline: var(--space-l);
   }
 
+  & ul {
+    display: flex;
+    flex-flow: column wrap;
+
+    @media (--from-m) {
+      flex-direction: row;
+    }
+
+    [data-js-toggle] & {
+      display: block;
+    }
+  }
+
   & li {
     border-block-start: var(--line-solid);
+    flex: 1;
     font: var(--font-headline);
     font-size: var(--font-size-m);
 
-    [open] & {
+    [data-js-toggle] & {
       font-size: max(var(--font-size-l), 3vw)
     }
   }

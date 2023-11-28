@@ -14,6 +14,17 @@ dialog {
   border: 0;
   padding: 0;
 
+  /* Search dialog is open by default to account for non-JS situations */
+  &[open] {
+    position: static;
+  }
+
+  /* `data-js-toggle` gets added by `b-toggle` element using JS */
+  &[data-js-toggle] {
+    display: flex;
+    position: absolute;
+  }
+
   &::backdrop {
     background: rgb(0 0 0 / 30%);
   }

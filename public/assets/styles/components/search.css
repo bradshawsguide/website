@@ -6,17 +6,13 @@
   inline-size: 100dvw;
   outline: var(--line-solid);
 
-  &[open] {
-    display: flex;
-  }
-
   & input {
     background: none;
     border: 0;
+    border-inline-start: var(--line-solid);
     flex: 1 1 0;
     font: var(--font-label);
     inline-size: 100%;
-    outline: var(--line-solid);
     padding-block: var(--space-m);
     padding-inline: var(--space-l);
   }
