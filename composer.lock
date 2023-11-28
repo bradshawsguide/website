@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "78c81ee9dcf1222d491513834a9d29e2",
+    "content-hash": "5937fd27fa65154465e54a16310f82b3",
     "packages": [
         {
             "name": "arnoson/kirby-vite",
@@ -306,16 +306,16 @@
         },
         {
             "name": "getkirby/cms",
-            "version": "4.0.0-rc.4",
+            "version": "4.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/kirby.git",
-                "reference": "02eea268819ddb770b91479370c62d53f1c38790"
+                "reference": "40eae8e8a4e1705412c64de63984376eeaa8b259"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/kirby/zipball/02eea268819ddb770b91479370c62d53f1c38790",
-                "reference": "02eea268819ddb770b91479370c62d53f1c38790",
+                "url": "https://api.github.com/repos/getkirby/kirby/zipball/40eae8e8a4e1705412c64de63984376eeaa8b259",
+                "reference": "40eae8e8a4e1705412c64de63984376eeaa8b259",
                 "shasum": ""
             },
             "require": {
@@ -338,7 +338,7 @@
                 "laminas/laminas-escaper": "2.13.0",
                 "michelf/php-smartypants": "1.8.1",
                 "php": "~8.1.0 || ~8.2.0 || ~8.3.0",
-                "phpmailer/phpmailer": "6.8.1",
+                "phpmailer/phpmailer": "6.9.1",
                 "symfony/polyfill-intl-idn": "1.28.0",
                 "symfony/polyfill-mbstring": "1.28.0",
                 "symfony/yaml": "6.3.8"
@@ -405,7 +405,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2023-11-24T19:47:33+00:00"
+            "time": "2023-11-28T09:04:45+00:00"
         },
         {
             "name": "getkirby/composer-installer",
@@ -520,12 +520,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fabianmichael/kirby-markdown-field.git",
-                "reference": "9dc956b474aae2b7505234d9cf3d4d582efb3ee9"
+                "reference": "f50e5bebd7c25b26a746ce5f5a4a6fc53477c12b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fabianmichael/kirby-markdown-field/zipball/9dc956b474aae2b7505234d9cf3d4d582efb3ee9",
-                "reference": "9dc956b474aae2b7505234d9cf3d4d582efb3ee9",
+                "url": "https://api.github.com/repos/fabianmichael/kirby-markdown-field/zipball/f50e5bebd7c25b26a746ce5f5a4a6fc53477c12b",
+                "reference": "f50e5bebd7c25b26a746ce5f5a4a6fc53477c12b",
                 "shasum": ""
             },
             "require": {
@@ -550,7 +550,8 @@
                     "email": "hallo@fabianmichael.de"
                 }
             ],
-            "description": "Super-sophisticated markdown editor for Kirby 3",
+            "description": "Super-sophisticated markdown editor for Kirby 4",
+            "homepage": "https://github.com/fabianmichael/kirby-markdown-field",
             "support": {
                 "issues": "https://github.com/fabianmichael/kirby-markdown-field/issues",
                 "source": "https://github.com/fabianmichael/kirby-markdown-field/tree/develop"
@@ -561,7 +562,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-11-16T21:04:47+00:00"
+            "time": "2023-11-28T08:30:29+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
@@ -742,16 +743,16 @@
         },
         {
             "name": "phpmailer/phpmailer",
-            "version": "v6.8.1",
+            "version": "v6.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPMailer/PHPMailer.git",
-                "reference": "e88da8d679acc3824ff231fdc553565b802ac016"
+                "reference": "039de174cd9c17a8389754d3b877a2ed22743e18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/e88da8d679acc3824ff231fdc553565b802ac016",
-                "reference": "e88da8d679acc3824ff231fdc553565b802ac016",
+                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/039de174cd9c17a8389754d3b877a2ed22743e18",
+                "reference": "039de174cd9c17a8389754d3b877a2ed22743e18",
                 "shasum": ""
             },
             "require": {
@@ -771,6 +772,7 @@
                 "yoast/phpunit-polyfills": "^1.0.4"
             },
             "suggest": {
+                "decomplexity/SendOauth2": "Adapter for using XOAUTH2 authentication",
                 "ext-mbstring": "Needed to send email in multibyte encoding charset or decode encoded addresses",
                 "ext-openssl": "Needed for secure SMTP sending and DKIM signing",
                 "greew/oauth2-azure-provider": "Needed for Microsoft Azure XOAUTH2 authentication",
@@ -810,7 +812,7 @@
             "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
             "support": {
                 "issues": "https://github.com/PHPMailer/PHPMailer/issues",
-                "source": "https://github.com/PHPMailer/PHPMailer/tree/v6.8.1"
+                "source": "https://github.com/PHPMailer/PHPMailer/tree/v6.9.1"
             },
             "funding": [
                 {
@@ -818,7 +820,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-08-29T08:26:30+00:00"
+            "time": "2023-11-25T22:23:28+00:00"
         },
         {
             "name": "psr/log",
