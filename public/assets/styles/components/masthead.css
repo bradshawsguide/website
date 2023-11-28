@@ -17,7 +17,6 @@
       color: var(--color-mustard);
       font: var(--font-heading);
       font-size: calc(2rem + 10vmin);
-      line-height: 0.7;
       text-transform: uppercase;
     }
 
@@ -25,7 +24,7 @@
       font: var(--font-body);
       font-variant-caps: all-small-caps;
       letter-spacing: 0.05em;
-      padding-block: var(--space-xs);
+      margin-block-end: var(--space-s);
     }
 
     &:nth-of-type(3) {
