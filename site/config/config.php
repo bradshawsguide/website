@@ -6,7 +6,14 @@ return [
         "extra" => true,
     ],
 
-    "smartypants" => true,
+    "smartypants" => [
+        'doublequote.open'  => '“',
+        'doublequote.close' => '”',
+        'singlequote.open' => '‘',
+        'singlequote.close' => '’',
+        'emdash' => ' — ',
+        'ellipsis' => '…',
+    ],
 
     // Database
     "db" => [
