@@ -10,6 +10,11 @@ export class ToggleElement extends LitElement {
     this.label = "Toggle";
   }
 
+  static shadowRootOptions = {
+    ...LitElement.shadowRootOptions,
+    delegatesFocus: true,
+  };
+
   static dependencies = {
     "b-icon": IconElement,
     "b-visually-hidden": VisuallyHiddenElement,
