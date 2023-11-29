@@ -15,11 +15,11 @@
 
   & a[rel="me"] {
     display: flex;
+    padding: var(--space-2xs);
   }
 
   & b-icon {
     font-size: var(--font-size-l);
-    padding: var(--space-2xs);
   }
 
   & small {
