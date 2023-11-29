@@ -11,7 +11,8 @@
     position: absolute;
   }
 
-  &::before { /* Spur */
+  /* Spur */
+  &::before {
     background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='40'><path fill='none' stroke='%23e8e5e3' stroke-width='0.25rem' d='M2 0s0 13 10 20a23 23 0 0 1 10 20'/></svg>");
     block-size: 40px;
     inline-size: 24px;
@@ -20,7 +21,8 @@
     z-index: 0;
   }
 
-  &::after { /* Terminus */
+  /* Terminus */
+  &::after {
     background-color: var(--color-neutral-lighter);
     block-size: 0.25rem;
     inline-size: var(--space-m);

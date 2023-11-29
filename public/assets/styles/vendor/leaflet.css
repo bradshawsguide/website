@@ -17,9 +17,15 @@
 .leaflet-container {
   overflow: hidden;
 
-  &.leaflet-touch-zoom { touch-action: pan-x pan-y; }
-  &.leaflet-touch-drag { touch-action: pinch-zoom; }
-  &.leaflet-touch-drag.leaflet-touch-zoom { touch-action: none; }
+  &.leaflet-touch-zoom {
+    touch-action: pan-x pan-y;
+  }
+  &.leaflet-touch-drag {
+    touch-action: pinch-zoom;
+  }
+  &.leaflet-touch-drag.leaflet-touch-zoom {
+    touch-action: none;
+  }
 }
 
 .leaflet-tile {
@@ -31,12 +37,24 @@
   visibility: inherit;
 }
 
-.leaflet-popup-pane { z-index: 700; }
-.leaflet-overlay-pane { z-index: 400; }
-.leaflet-pane { z-index: 400; }
-.leaflet-tile-pane { z-index: 200; }
-.leaflet-map-pane svg { z-index: 200; }
-.leaflet-map-pane canvas { z-index: 100; }
+.leaflet-popup-pane {
+  z-index: 700;
+}
+.leaflet-overlay-pane {
+  z-index: 400;
+}
+.leaflet-pane {
+  z-index: 400;
+}
+.leaflet-tile-pane {
+  z-index: 200;
+}
+.leaflet-map-pane svg {
+  z-index: 200;
+}
+.leaflet-map-pane canvas {
+  z-index: 100;
+}
 
 /* Cursors */
 .leaflet-interactive {
@@ -139,10 +157,18 @@
   z-index: 1000;
 }
 
-.leaflet-top { top: 0; }
-.leaflet-right { right: 0; }
-.leaflet-bottom { bottom: 0; }
-.leaflet-left { left: 0; }
+.leaflet-top {
+  top: 0;
+}
+.leaflet-right {
+  right: 0;
+}
+.leaflet-bottom {
+  bottom: 0;
+}
+.leaflet-left {
+  left: 0;
+}
 
 /* Zoom controls */
 .leaflet-control-zoom-in,

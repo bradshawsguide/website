@@ -10,7 +10,7 @@
     text-transform: uppercase;
   }
 
-  & >:last-child {
+  & > :last-child {
     flex: 1;
   }
 }

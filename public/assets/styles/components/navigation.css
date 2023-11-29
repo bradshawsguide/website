@@ -51,7 +51,7 @@
     font-size: var(--font-size-m);
 
     [data-js-toggle] & {
-      font-size: max(var(--font-size-l), 3vw)
+      font-size: max(var(--font-size-l), 3vw);
     }
   }
 
