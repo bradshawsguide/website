@@ -3,8 +3,10 @@
   "description": "A Kirby 3 plugin to support the development of Bradshaw’s Guide",
   "version": "0.0.1",
   "type": "kirby-plugin",
-  "authors": [{
-    "name": "Paul Robert Lloyd",
-    "email": "noreply@paulrobertlloyd.com"
-  }]
+  "authors": [
+    {
+      "name": "Paul Robert Lloyd",
+      "email": "noreply@paulrobertlloyd.com"
+    }
+  ]
 }
