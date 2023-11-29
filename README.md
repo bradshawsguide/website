@@ -15,13 +15,21 @@ Generated assets will be saved in the `public` directory.
 
 ### Updating submodules
 
-This project makes use of third-party libraries, included as git submodules. To update these, run `git submodule foreach git pull origin master`.
+This project incorporates content from [a second repo](https://github.com/bradshawsguide/content) which included as a git submodule. To update this submodule, run:
+
+```bash
+git submodule foreach git pull origin master
+```
 
 ### Running locally
 
 To run locally on macOS use [Laravel Herd](https://herd.laravel.com/), a one click PHP development environment with zero dependencies.
 
-When developing the site, you can automatically compile assets and refresh the browser. To do this, run `npm run dev`.
+When developing the site, you can automatically compile assets and refresh the browser. To start the Vite development server, run:
+
+```bash
+npm run dev
+```
 
 ## Repo structure
 
@@ -59,7 +67,7 @@ website
 ├── package-lock.json           # NPM manifest lock file
 ├── package.json                # NPM manifest
 ├── LICENSE                     # Project license
-├── readme.md                   # This file
+├── README.md                   # This file
 └── vite.config.js              # Vite config
 ```
 
