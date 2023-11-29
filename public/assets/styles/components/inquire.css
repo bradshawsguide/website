@@ -3,8 +3,8 @@
 
   &.c-inquire--home {
     background-color: var(--color-neutral-lighter);
-    margin-inline: calc(calc(var(--page-gutter) + var(--space-m)) * -1);
-    padding-inline: var(--page-gutter);
+    margin-inline: calc(var(--page-gutter) * -1);
+    padding-inline: calc(var(--page-gutter) - var(--space-m));
 
     @media (--from-m) {
       background-image: url("/assets/images/home.jpg");
@@ -20,9 +20,8 @@
     display: flex;
     flex-wrap: wrap;
     font: var(--font-label);
-    gap: var(--space-s);
+    gap: var(--space-m) var(--space-xs);
     padding: var(--space-m);
-    position: relative;
 
     .c-inquire--home & {
       background: transparent;
@@ -58,7 +57,7 @@
     border: var(--line-solid);
     box-shadow: inset 0 1px 0 var(--color-neutral-dark-alpha);
     flex: 1;
-    margin-inline-end: calc(calc(var(--space-s) + 1px) * -1);
+    margin-inline-end: calc(calc(var(--space-xs) + 1px) * -1);
     padding: var(--space-s);
   }
 
@@ -78,7 +77,11 @@
     }
   }
 
-  & b-locate[error]::part(button) {
-    opacity: 0.5;
+  & b-locate {
+    display: flex;
+
+    &[error]::part(button) {
+      opacity: 0.5;
+    }
   }
 }
