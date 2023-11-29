@@ -13,8 +13,7 @@
     flex: 1 1 0;
     font: var(--font-label);
     inline-size: 100%;
-    padding-block: var(--space-m);
-    padding-inline: var(--space-l);
+    padding: var(--space-m);
   }
 
   & button,
@@ -23,7 +22,12 @@
     display: flex;
     font: var(--font-label);
     gap: var(--space-xs);
-    padding: var(--space-l);
+    padding: var(--space-m);
+  }
+
+  & b-icon,
+  & ::part(icon) {
+    font-size: var(--font-size-l);
   }
 
   & b-locate[error]::part(button) {
