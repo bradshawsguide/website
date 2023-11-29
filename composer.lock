@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5937fd27fa65154465e54a16310f82b3",
+    "content-hash": "ab0efb8c2016c2c933a9c673cac40bcf",
     "packages": [
         {
             "name": "arnoson/kirby-vite",
@@ -513,6 +513,59 @@
                 }
             ],
             "time": "2022-10-05T10:20:02+00:00"
+        },
+        {
+            "name": "getkirby/staticache",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/getkirby/staticache.git",
+                "reference": "ce577e449f19547359860b0739b46523aad6140f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/getkirby/staticache/zipball/ce577e449f19547359860b0739b46523aad6140f",
+                "reference": "ce577e449f19547359860b0739b46523aad6140f",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/cms": "^3.8 || ^4.0",
+                "getkirby/composer-installer": "^1.2"
+            },
+            "type": "kirby-plugin",
+            "extra": {
+                "installer-name": "staticache",
+                "kirby-cms-path": false
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Bastian Allgeier",
+                    "email": "bastian@getkirby.com",
+                    "homepage": "https://getkirby.com/plugins/getkirby"
+                },
+                {
+                    "name": "Lukas Bestle",
+                    "email": "lukas@getkirby.com",
+                    "homepage": "https://getkirby.com/plugins/getkirby"
+                }
+            ],
+            "description": "Static site performance on demand",
+            "homepage": "https://getkirby.com/plugins/getkirby/staticache",
+            "support": {
+                "issues": "https://github.com/getkirby/staticache/issues",
+                "source": "https://github.com/getkirby/staticache/tree/1.0.2"
+            },
+            "funding": [
+                {
+                    "url": "https://getkirby.com/buy",
+                    "type": "custom"
+                }
+            ],
+            "time": "2023-06-03T19:36:26+00:00"
         },
         {
             "name": "k-community/markdown-field",
