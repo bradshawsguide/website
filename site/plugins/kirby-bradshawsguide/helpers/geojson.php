@@ -6,16 +6,13 @@ function generateLineString($pages)
 {
     foreach ($pages as $page) {
         if ($location = $page->location()->yaml()) {
-            $coords[] = [
-                $location['lon'],
-                $location['lat']
-            ];
+            $coords[] = [$location["lon"], $location["lat"]];
         }
     }
 
     $lineString = [
-        'type' => 'LineString',
-        'coordinates' => $coords
+        "type" => "LineString",
+        "coordinates" => $coords,
     ];
 
     return $lineString;
@@ -27,11 +24,8 @@ function generatePoint($page)
 {
     if ($location = $page->location()->yaml()) {
         $point = [
-            'type' => 'Point',
-            'coordinates' => [
-                $location['lon'],
-                $location['lat']
-            ]
+            "type" => "Point",
+            "coordinates" => [$location["lon"], $location["lat"]],
         ];
 
         return $point;

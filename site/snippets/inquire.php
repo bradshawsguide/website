@@ -1,7 +1,9 @@
-<search class="<?= classList('c-inquire', $modifiers ?? null) ?>">
+<search class="<?= classList("c-inquire", $modifiers ?? null) ?>">
     <form action="/search">
         <label for="q"><?= $title ?></label>
-        <input class="c-inquire__input" type="search" id="q" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey…" value="<?= esc(get('q', '')) ?>">
+        <input class="c-inquire__input" type="search" id="q" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey…" value="<?= esc(
+            get("q", "")
+        ) ?>">
         <button type="submit">
             <b-icon name="search"></b-icon>
             <b-visually-hidden>Search</b-visually-hidden>

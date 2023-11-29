@@ -15,10 +15,10 @@ class RoutePage extends Kirby\Cms\Page
 
         // If route jointly operated, show links to both companies
         if (size($companies) > 1) {
-            $operator = implode(' & ', $companies).' (Joint)';
+            $operator = implode(" & ", $companies) . " (Joint)";
         } else {
             $operator = $companies[0];
-        };
+        }
 
         return $operator;
     }
@@ -27,6 +27,10 @@ class RoutePage extends Kirby\Cms\Page
     // Required by patterns/common/route
     public function lineTitle()
     {
-        return $this->subtitle()->isNotEmpty() ? $this->subtitle() : $this->company()->toPage()->title();
+        return $this->subtitle()->isNotEmpty()
+            ? $this->subtitle()
+            : $this->company()
+                ->toPage()
+                ->title();
     }
 }

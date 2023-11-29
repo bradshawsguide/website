@@ -7,9 +7,9 @@ class PlacePage extends Kirby\Cms\Page
     {
         // Get station that has the same name as this place
         // If multiple stations serve place, `Station` key gives the nearest
-        $id = ($this->station()->isNotEmpty())
+        $id = $this->station()->isNotEmpty()
             ? $this->station()
-            : 'stations/'.$this->uid();
+            : "stations/" . $this->uid();
 
         if ($station = page($id)) {
             // Get structured location values (saved using Locator plugin)
@@ -17,7 +17,7 @@ class PlacePage extends Kirby\Cms\Page
 
             // Return field value in `{lat},{lng}` format for Geo plugin
             // https://getkirby.com/plugins/getkirby/geo#radius-filter
-            return $yaml["lat"].", ".$yaml["lon"];
+            return $yaml["lat"] . ", " . $yaml["lon"];
         }
     }
 
@@ -30,7 +30,9 @@ class PlacePage extends Kirby\Cms\Page
     // Return region information
     public function country()
     {
-        return $this->parent()->parent()->title();
+        return $this->parent()
+            ->parent()
+            ->title();
     }
 
     // Get nearby places (with images)
@@ -39,19 +41,24 @@ class PlacePage extends Kirby\Cms\Page
         $point = geo::point($this->geo());
 
         // Find all PlacePages with images
-        $places = page('places')->grandChildren()->children()->filter(function ($page) {
-            return $page->hasImages();
-        });
+        $places = page("places")
+            ->grandChildren()
+            ->children()
+            ->filter(function ($page) {
+                return $page->hasImages();
+            });
 
         // Exclude this page from query
-        $places = $places->filterBy('title', '!=', $this->title());
+        $places = $places->filterBy("title", "!=", $this->title());
 
         // Return nearby places
-        $nearby = $places->filterBy('geo', 'radius', [
-            'lat' => $point->lat(),
-            'lng' => $point->lng(),
-            'radius' => 50
-        ])->limit(3);
+        $nearby = $places
+            ->filterBy("geo", "radius", [
+                "lat" => $point->lat(),
+                "lng" => $point->lng(),
+                "radius" => 50,
+            ])
+            ->limit(3);
 
         return $nearby;
     }
@@ -62,7 +69,7 @@ class PlacePage extends Kirby\Cms\Page
         $routes = $this->route()->yaml();
 
         array_walk($routes, function (&$value, $key) {
-            $value = page('routes/'.$value);
+            $value = page("routes/" . $value);
         });
 
         return $routes;
@@ -74,7 +81,7 @@ class PlacePage extends Kirby\Cms\Page
         $companies = $this->company()->yaml();
 
         array_walk($companies, function (&$value, $key) {
-            $value = page('companies/'.$value);
+            $value = page("companies/" . $value);
         });
 
         return $companies;

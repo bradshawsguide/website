@@ -11,8 +11,8 @@ function alphabetise($parent, $options = [])
     // To sort with number first you can use 'orderby' set to SORT_STRING
     // Other ksort sort_flags may be usuable but not tested!
     $defaults = [
-        'key' => 'title',
-        'orderby' => SORT_REGULAR
+        "key" => "title",
+        "orderby" => SORT_REGULAR,
     ];
 
     // Merge defaults and options
@@ -20,7 +20,7 @@ function alphabetise($parent, $options = [])
 
     // Gets the input into a two dimensional array - uses '~' as separator;
     foreach ($parent as $item) {
-        $temp = explode('~', $item->{$options['key']}());
+        $temp = explode("~", $item->{$options["key"]}());
         $temp = $temp[0];
         $temp = strtolower($temp);
         $array[$temp][] = $item;
@@ -30,7 +30,7 @@ function alphabetise($parent, $options = [])
         // Make an array of key and data
         foreach ($array as $temp => $item) {
             if (strlen($temp) < 2) {
-                $temp = $temp.$temp;
+                $temp = $temp . $temp;
                 $array[substr($temp, 0, 2)][] = $item[0];
             } else {
                 $array[substr($temp, 0, 1)][] = $item[0];
@@ -39,11 +39,11 @@ function alphabetise($parent, $options = [])
         }
 
         // If all okay $array will be returned and sorted
-        ksort($array, $options['orderby']);
-
+        ksort($array, $options["orderby"]);
     } else {
         $array = [
-            'Alphabetise: Problem with array or invalid key! Make sure your array is valid, not empty and that the key is valid for this type of array.' => 'Error'
+            "Alphabetise: Problem with array or invalid key! Make sure your array is valid, not empty and that the key is valid for this type of array." =>
+                "Error",
         ];
     }
 

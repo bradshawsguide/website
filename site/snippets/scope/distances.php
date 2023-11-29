@@ -1,7 +1,7 @@
 <table class="s-distances">
-    <caption><?=
-        kti($title ?? 'Distances of Places from the Station')
-    ?></caption>
+    <caption><?= kti(
+        $title ?? "Distances of Places from the Station"
+    ) ?></caption>
     <thead>
         <tr>
             <th><b-visually-hidden>To:</b-visually-hidden></th>
@@ -11,9 +11,9 @@
     <tbody>
     <?php foreach ($distances as $distance): ?>
         <tr>
-            <td><span><?= kti($distance['location']) ?></span></td>
-            <td><?= $distance['miles'] ?></td>
+            <td><span><?= kti($distance["location"]) ?></span></td>
+            <td><?= $distance["miles"] ?></td>
         </tr>
-    <?php endforeach ?>
+    <?php endforeach; ?>
     </tbody>
 </table>

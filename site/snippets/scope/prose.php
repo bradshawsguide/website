@@ -1,3 +1,3 @@
-<div class="<?= classList('s-prose', $proseModifiers ?? null) ?>">
+<div class="<?= classList("s-prose", $proseModifiers ?? null) ?>">
     <?= kt($content) ?>
 </div>

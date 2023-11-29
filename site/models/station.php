@@ -4,19 +4,19 @@ class StationPage extends Kirby\Cms\Page
 {
     public function writeContent(array $data, string $languageCode = null): bool
     {
-        unset($data['title']);
+        unset($data["title"]);
 
-        if ($station = Db::first('stations', '*', ['uid' => $this->uid()])) {
-            return Db::update('stations', $data, ['uid' => $this->uid()]);
+        if ($station = Db::first("stations", "*", ["uid" => $this->uid()])) {
+            return Db::update("stations", $data, ["uid" => $this->uid()]);
         } else {
-            $data['uid'] = $this->uid();
-            return Db::insert('stations', $data);
+            $data["uid"] = $this->uid();
+            return Db::insert("stations", $data);
         }
     }
 
     public function delete(bool $force = false): bool
     {
-        return Db::delete('stations', ['uid' => $this->uid()]);
+        return Db::delete("stations", ["uid" => $this->uid()]);
     }
 
     // Trainline slug
@@ -35,16 +35,22 @@ class StationPage extends Kirby\Cms\Page
     public function latlng()
     {
         $location = $this->location()->yaml();
-        return $location['lat'].','.$location['lon'];
+        return $location["lat"] . "," . $location["lon"];
     }
 
     // API consistency
     public function links()
     {
         $links = [
-            'wikipedia' => $this->wikipedia()->isEmpty() ? null : '- (wikipedia: '.urlencode($this->wikipedia()).')',
-            'trainline' => $this->nationalrail()->isEmpty() ? null : '- (trainline: '.$this->trainline().')',
-            'disused' => $this->disused()->isEmpty() ? null : '- (disused: '.$this->disused().')',
+            "wikipedia" => $this->wikipedia()->isEmpty()
+                ? null
+                : "- (wikipedia: " . urlencode($this->wikipedia()) . ")",
+            "trainline" => $this->nationalrail()->isEmpty()
+                ? null
+                : "- (trainline: " . $this->trainline() . ")",
+            "disused" => $this->disused()->isEmpty()
+                ? null
+                : "- (disused: " . $this->disused() . ")",
         ];
 
         return implode("\n", $links);
@@ -56,7 +62,9 @@ class StationPage extends Kirby\Cms\Page
         // TODO: Update filter to only find routes by exact station UID in
         // array of station UIDs. Currently Brighton and Albrighton are
         // returned as being one in the same.
-        return page('routes')->children()->filterBy('stops', '*=', $this->uid());
+        return page("routes")
+            ->children()
+            ->filterBy("stops", "*=", $this->uid());
     }
 
     public function routesCount()
@@ -65,9 +73,9 @@ class StationPage extends Kirby\Cms\Page
         $routes = size($this->routes());
 
         if ($routes > 1) {
-            $routesCount = $number->format($routes).' routes';
+            $routesCount = $number->format($routes) . " routes";
         } else {
-            $routesCount = $number->format($routes).' route';
+            $routesCount = $number->format($routes) . " route";
         }
 
         return $routesCount;

@@ -17,10 +17,12 @@ class RegionPage extends Kirby\Cms\Page
 
     public function listTitle()
     {
-        if ($this->parent() == 'places') { // Country
-            $listTitle = 'Counties in '.$this->shortTitle();
-        } else { // County
-            $listTitle = 'Places in '.$this->title();
+        if ($this->parent() == "places") {
+            // Country
+            $listTitle = "Counties in " . $this->shortTitle();
+        } else {
+            // County
+            $listTitle = "Places in " . $this->title();
         }
 
         return $listTitle;

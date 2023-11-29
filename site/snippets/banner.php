@@ -4,6 +4,6 @@
     <a href="<?= url() ?>" rel="home">
         Bradshaw’s<b-visually-hidden> Guide</b-visually-hidden>
     </a>
-<?php endif ?>
+<?php endif; ?>
     <b-toggle target="navigation" action="showModal" icon="menu" label="Menu"></b-toggle>
 </header>

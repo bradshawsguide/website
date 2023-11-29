@@ -18,22 +18,22 @@ foreach ($routes as $route) {
 
     // Create `Feature` from main and branch lines
     $features[] = [
-        'type' => 'Feature',
-        'geometry' => [
-            'type' => 'GeometryCollection',
-            'geometries' => $lineString
+        "type" => "Feature",
+        "geometry" => [
+            "type" => "GeometryCollection",
+            "geometries" => $lineString,
         ],
-        'properties' => [
-            'title' => (string) $route->title(),
-            'url' => (string) $route->url()
-        ]
+        "properties" => [
+            "title" => (string) $route->title(),
+            "url" => (string) $route->url(),
+        ],
     ];
 }
 
 // Create `FeatureCollection` from $features array
 $featureCollection = [
-    'type' => 'FeatureCollection',
-    'features' => $features
+    "type" => "FeatureCollection",
+    "features" => $features,
 ];
 
 // Encode as JSON

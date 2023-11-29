@@ -10,7 +10,7 @@ foreach ($page->routes() as $route) {
     foreach (array_extract_arrays($stops) as $line) {
         // For each UID in $line array, convert to StationPage array
         array_walk($line, function (&$value, $key) {
-            $value = page('stations/'.$value);
+            $value = page("stations/" . $value);
         });
 
         $linestring[] = generateLineString($line);
@@ -18,43 +18,43 @@ foreach ($page->routes() as $route) {
 
     // Create `Feature` from main and branch lines
     $features[] = [
-        'type' => 'Feature',
-        'geometry' => [
-            'type' => 'GeometryCollection',
-            'geometries' => $linestring
+        "type" => "Feature",
+        "geometry" => [
+            "type" => "GeometryCollection",
+            "geometries" => $linestring,
         ],
-        'properties' => [
-            'title' => (string) $route->title(),
-            'url' => (string) $route->url()
-        ]
+        "properties" => [
+            "title" => (string) $route->title(),
+            "url" => (string) $route->url(),
+        ],
     ];
 
     // Create a `Feature` for each stop
     foreach (array_flatten($stops) as $stop) {
-        $page = page('stations/'.$stop);
+        $page = page("stations/" . $stop);
 
         if (!$page->place()->empty()) {
-            $markerSize = 'large';
+            $markerSize = "large";
         } else {
-            $markerSize = 'small';
-        };
+            $markerSize = "small";
+        }
 
         $features[] = [
-            'type' => 'Feature',
-            'geometry' => generatePoint($page),
-            'properties' => [
-                'title' => (string) $page->title(),
-                'url' => (string) $page->url(),
-                'marker-size' => $markerSize
-            ]
+            "type" => "Feature",
+            "geometry" => generatePoint($page),
+            "properties" => [
+                "title" => (string) $page->title(),
+                "url" => (string) $page->url(),
+                "marker-size" => $markerSize,
+            ],
         ];
     }
 }
 
 // Create `FeatureCollection` from $features array
 $featureCollection = [
-    'type' => 'FeatureCollection',
-    'features' => $features
+    "type" => "FeatureCollection",
+    "features" => $features,
 ];
 
 // Encode as JSON

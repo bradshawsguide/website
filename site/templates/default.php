@@ -1,11 +1,11 @@
 <?php
 
-snippet('head');
+snippet("head");
 
-snippet('header');
+snippet("header");
 
-snippet('page/content', [
-    'editable' => false
+snippet("page/content", [
+    "editable" => false,
 ]);
 
-snippet('foot');
+snippet("foot");

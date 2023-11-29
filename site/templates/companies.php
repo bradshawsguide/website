@@ -1,19 +1,19 @@
 <?php
 
-snippet('head');
+snippet("head");
 
-snippet('header', [
-    'title' => $page->title(),
-    'modifiers' => ['index']
+snippet("header", [
+    "title" => $page->title(),
+    "modifiers" => ["index"],
 ]);
 
-$companies = $page->children()->sortBy('title', 'asc');
+$companies = $page->children()->sortBy("title", "asc");
 
 foreach (alphabetise($companies) as $letter => $items) {
-    snippet('index', [
-        'items' => $items,
-        'letter' => $letter
+    snippet("index", [
+        "items" => $items,
+        "letter" => $letter,
     ]);
-};
+}
 
-snippet('foot');
+snippet("foot");

@@ -15,15 +15,15 @@ foreach (array_extract_arrays($stops) as $line) {
 
 // Create `Feature` for line (and any branches)
 $features[] = [
-    'type' => 'Feature',
-    'geometry' => [
-        'type' => 'GeometryCollection',
-        'geometries' => $lineString
+    "type" => "Feature",
+    "geometry" => [
+        "type" => "GeometryCollection",
+        "geometries" => $lineString,
     ],
-    'properties' => [
-        'title' => (string) $page->title(),
-        'url' => (string) $page->url()
-    ]
+    "properties" => [
+        "title" => (string) $page->title(),
+        "url" => (string) $page->url(),
+    ],
 ];
 
 // Create a `Feature` for each stop
@@ -31,30 +31,30 @@ foreach (array_flatten($stops) as $stop) {
     $page = page($stop);
 
     if ($page->place()->isNotEmpty()) {
-        $markerSize = 'large';
+        $markerSize = "large";
     } else {
-        $markerSize = 'small';
-    };
+        $markerSize = "small";
+    }
 
     $geometry = generatePoint($page);
 
     if ($geometry) {
         $features[] = [
-            'type' => 'Feature',
-            'geometry' => generatePoint($page),
-            'properties' => [
-                'title' => (string) $page->title(),
-                'url' => (string) $page->url(),
-                'marker-size' => $markerSize
-            ]
+            "type" => "Feature",
+            "geometry" => generatePoint($page),
+            "properties" => [
+                "title" => (string) $page->title(),
+                "url" => (string) $page->url(),
+                "marker-size" => $markerSize,
+            ],
         ];
     }
 }
 
 // Create `FeatureCollection` from $features array
 $featureCollection = [
-    'type' => 'FeatureCollection',
-    'features' => $features
+    "type" => "FeatureCollection",
+    "features" => $features,
 ];
 
 // Encode as JSON

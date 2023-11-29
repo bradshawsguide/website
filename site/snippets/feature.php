@@ -5,16 +5,22 @@
     </header>
 
     <?php if ($item->hasImages()) {
-        echo Html::img($item->image()->thumb('feature')->url(), [
-            'alt' => $item->image()->alt(),
-            'loading' => 'lazy',
-            'srcset' => $item->image()->srcset('feature')
-        ]);
+        echo Html::img(
+            $item
+                ->image()
+                ->thumb("feature")
+                ->url(),
+            [
+                "alt" => $item->image()->alt(),
+                "loading" => "lazy",
+                "srcset" => $item->image()->srcset("feature"),
+            ]
+        );
     } ?>
 
     <?php if ($item->excerpt()) {
-        snippet('scope/text', [
-            'content' => $item->excerpt()
+        snippet("scope/text", [
+            "content" => $item->excerpt(),
         ]);
     } ?>
 </article>
