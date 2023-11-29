@@ -24,18 +24,12 @@
     <meta name="theme-color" content="<?= $site->theme_color() ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<?php if ($page->geolat() && $page->geolng()): ?>
-    <meta name="ICBM" content="<?= $page->geolat() ?>, <?= $page->geolng() ?>">
-    <meta name="geo.position" content="<?= $page->geolat() ?>;<?= $page->geolng() ?>">
-    <meta name="geo.placename" content="<?= $page->title() ?>">
-<?php endif; ?>
-
     <meta property="og:url" content="<?= $page->url() ?>">
-    <meta property="og:title" content="<?= Str::unhtml($page->title()) ?>">
+    <meta property="og:title" content="<?= Str::unhtml(kti($page->title())) ?>">
 <?php if (!$page->desc()->empty()): ?>
-    <meta property="og:description" content="<?= Xml::encode($page->desc()) ?>">
+    <meta property="og:description" content="<?= kti($page->desc()) ?>">
 <?php else: ?>
-    <meta property="og:description" content="<?= Xml::encode($site->desc()) ?>">
+    <meta property="og:description" content="<?= kti($site->desc()) ?>">
 <?php endif; ?>
 <?php if ($image = $page->image("cover.jpg")): ?>
     <meta property="og:image" content="<?= $image->crop(640, 360)->url() ?>">
@@ -43,8 +37,10 @@
     <meta property="og:image" content="<?= url("/assets/icons/app.jpg") ?>">
 <?php endif; ?>
 
-    <title><?= kti($page->title()) .
-        e(!$page->isHomePage(), " - " . $site->title()) ?></title>
+    <title><?= e(!$page->isHomePage(),
+        kti($page->title()) . " - " . $site->title(),
+        kti($page->title())
+    ) ?></title>
 </head>
 
 <body<?= isset($class) ? ' class="' . $class . '"' : null ?>>
