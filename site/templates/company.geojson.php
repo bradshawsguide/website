@@ -4,7 +4,7 @@ $features = [];
 
 foreach ($page->routes() as $route) {
     $stops = $route->stops()->yaml();
-    $linestring = [];
+    $lineString = [];
 
     // Create `LineString` for lines (and any of their branches)
     foreach (array_extract_arrays($stops) as $line) {
@@ -13,7 +13,7 @@ foreach ($page->routes() as $route) {
             $value = page("stations/" . $value);
         });
 
-        $linestring[] = generateLineString($line);
+        $lineString[] = generateLineString($line);
     }
 
     // Create `Feature` from main and branch lines
@@ -21,7 +21,7 @@ foreach ($page->routes() as $route) {
         "type" => "Feature",
         "geometry" => [
             "type" => "GeometryCollection",
-            "geometries" => $linestring,
+            "geometries" => $lineString,
         ],
         "properties" => [
             "title" => (string) $route->title(),
