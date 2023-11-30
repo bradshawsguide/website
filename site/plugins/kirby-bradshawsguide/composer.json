@@ -8,5 +8,8 @@
       "name": "Paul Robert Lloyd",
       "email": "noreply@paulrobertlloyd.com"
     }
-  ]
+  ],
+  "require": {
+    "gajus/dindent": "^2.0"
+  }
 }
