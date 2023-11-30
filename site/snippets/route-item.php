@@ -1,19 +1,10 @@
 <article class="c-route-item">
-    <?php
-    snippet("title", [
-        "title" => Html::a($item->url(), $item->shortTitle()),
-        "level" => $level ?? 3,
-        "class" => "c-route-item__label",
-    ]);
-
-    if ($item->subtitle()->isNotEmpty()) {
-        echo Html::tag(
-            "p",
-            [$item->subtitle()],
-            [
-                "class" => "c-route-item__desc",
-            ]
-        );
-    };
-    ?>
+    <h3>
+        <a href="<?= $item->url() ?>">
+            <?= $item->shortTitle() ?>
+        </a>
+    </h3>
+    <?php if ($item->subtitle()->isNotEmpty()): ?>
+        <p><?= $item->subtitle() ?></p>
+    <?php endif; ?>
 </article>
