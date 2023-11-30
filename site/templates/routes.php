@@ -58,7 +58,7 @@ if (size($routes)) {
         snippet("map", [
             "url" =>
                 $page->uri() .
-                ".geojson/" .
+                ".geojson" .
                 $kirby
                     ->request()
                     ->url()
