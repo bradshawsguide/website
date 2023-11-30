@@ -32,8 +32,7 @@ if (array_key_exists($stopKey + 1, $stops)) {
         <dd>
             <?php if (isset($prev)): ?>
                 <a href="<?= $prevHref ?>" rel="prev">
-                    <b-icon name="prev"/></b-icon>
-                    <?= kti($prev->title()) ?>
+                    <b-icon name="prev"/></b-icon><?= kti($prev->title()) ?>
                 </a>
             <?php else: ?>
                 <i>Terminus</i>
@@ -43,8 +42,7 @@ if (array_key_exists($stopKey + 1, $stops)) {
         <dd>
             <?php if (isset($next)): ?>
                 <a href="<?= $nextHref ?>" rel="next">
-                    <?= kti($next->title()) ?>
-                    <b-icon name="next"/></b-icon>
+                    <?= kti($next->title()) ?><b-icon name="next"/></b-icon>
                 </a>
             <?php else: ?>
                 <i>Terminus</i>
