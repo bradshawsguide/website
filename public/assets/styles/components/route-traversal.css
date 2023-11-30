@@ -10,30 +10,29 @@
   }
 
   & #route-traversal-title {
+    display: flex;
     font-weight: bold;
-    text-align: center;
+    justify-content: center;
   }
 
   & dl {
-    display: grid;
-    grid-template-areas: "prev next";
+    display: flex;
+    flex-wrap: wrap;
     inset: 0;
+    justify-content: space-between;
 
     @media screen and (--from-m) {
+      pointer-events: none;
       position: absolute;
     }
   }
 
   & dd {
     margin: 0;
+    pointer-events: auto;
 
     &:first-of-type {
-      grid-area: prev;
-    }
-
-    &:last-of-type {
-      grid-area: next;
-      justify-self: end;
+      margin-inline-end: auto;
     }
   }
 
@@ -42,10 +41,6 @@
     display: inline-flex;
     gap: var(--space-xs);
     padding: var(--space-s);
-
-    &[rel="prev"] {
-      flex-direction: row-reverse;
-    }
   }
 
   & i {

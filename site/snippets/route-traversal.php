@@ -11,40 +11,44 @@ $stopKey = array_search($page->id(), $stops);
 if (array_key_exists($stopKey - 1, $stops)) {
     $prevID = $stops[$stopKey - 1];
     $prev = page($prevID);
-};
+    $prevHref = $prev->url() . "?route=" . $route->uid();
+}
 
 if (array_key_exists($stopKey + 1, $stops)) {
     $nextID = $stops[$stopKey + 1];
     $next = page($nextID);
-};
+    $nextHref = $next->url() . "?route=" . $route->uid();
+}
 ?>
-
-<nav class="c-route-traversal" aria-labelledby="route-traversal-title"<?= e(
+<nav class="c-route-traversal" aria-labelledby="route-traversal-title"<?php e(
     $currentRoute == $route->uid(),
     " data-current"
-) ?>>
-    <?= snippet("title", [
-        "title" => $title,
-        "level" => $level ?? 3,
-        "id" => "route-traversal-title",
-    ]) ?>
-
+); ?>>
+    <h3 id="route-traversal-title">
+        <?= $title ?>
+    </h3>
     <dl>
         <dt><b-visually-hidden>Previous station</b-visually-hidden></dt>
-        <dd><?= isset($prev)
-            ? Html::a(
-                $prev->url() . "?route=" . $route->uid(),
-                [kti($prev->title()) . '<b-icon name="prev"/></b-icon>'],
-                ["rel" => "prev"]
-            )
-            : Html::tag("i", "Terminus") ?></dd>
+        <dd>
+            <?php if (isset($prev)): ?>
+                <a href="<?= $prevHref ?>" rel="prev">
+                    <b-icon name="prev"/></b-icon>
+                    <?= kti($prev->title()) ?>
+                </a>
+            <?php else: ?>
+                <i>Terminus</i>
+            <?php endif; ?>
+        </dd>
         <dt><b-visually-hidden>Next station</b-visually-hidden></dt>
-        <dd><?= isset($next)
-            ? Html::a(
-                $next->url() . "?route=" . $route->uid(),
-                [kti($next->title()) . '<b-icon name="next"/></b-icon>'],
-                ["rel" => "next"]
-            )
-            : Html::tag("i", "Terminus") ?></dd>
+        <dd>
+            <?php if (isset($next)): ?>
+                <a href="<?= $nextHref ?>" rel="next">
+                    <?= kti($next->title()) ?>
+                    <b-icon name="next"/></b-icon>
+                </a>
+            <?php else: ?>
+                <i>Terminus</i>
+            <?php endif; ?>
+        </dd>
     </dl>
 </nav>
