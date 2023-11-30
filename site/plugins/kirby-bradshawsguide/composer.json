@@ -1,6 +1,6 @@
 {
   "name": "bradshawsguide/kirby",
-  "description": "A Kirby 3 plugin to support the development of Bradshaw’s Guide",
+  "description": "A Kirby plugin to support the development of Bradshaw’s Guide",
   "version": "0.0.1",
   "type": "kirby-plugin",
   "authors": [

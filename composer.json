@@ -23,11 +23,12 @@
   "minimum-stability": "beta",
   "repositories": [
     {
-      "type": "vcs",
-      "url": "https://github.com/getkirby/geo"
+      "type": "path",
+      "url": "site/plugins/kirby-bradshawsguide"
     }
   ],
   "require": {
+    "bradshawsguide/kirby": "*",
     "getkirby/cms": "^4.0",
     "getkirby/geo": "^1.0",
     "getkirby/staticache": "^1.0",
