@@ -10,7 +10,6 @@ export default ({ mode }) => ({
       input: [
         "public/assets/styles/app.css",
         "public/assets/scripts/app.js",
-        "public/assets/styles/map.css",
         "public/assets/scripts/map.js",
       ],
     },
