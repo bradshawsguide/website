@@ -33,10 +33,6 @@
     display: flex;
     gap: var(--space-xs);
     padding: var(--space-m);
-
-    &[rel="next"] {
-      flex-direction: row-reverse;
-    }
   }
 
   & b-icon {
