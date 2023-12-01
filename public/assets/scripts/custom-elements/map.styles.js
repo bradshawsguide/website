@@ -1,6 +1,10 @@
 import { css } from "lit";
 
 export default css`
+  :host {
+    block-size: 100%;
+  }
+
   #map {
     background-color: #addeff;
     block-size: 100%;
