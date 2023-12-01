@@ -1,14 +1,10 @@
-<?php
+<?php snippet("head"); ?>
 
-snippet("head");
+<?php snippet("header", compact("title")); ?>
 
-snippet("header", [
-    "title" => $title,
-]);
-
-if (size($results)) {
+<?php if (size($results)) {
     snippet("section/list", [
-        "title" => $results->pagination()->total() . " pages found",
+        "title" => "{$results->pagination()->total()} pages found",
         "items" => $results,
         "component" => "result",
     ]);
@@ -28,6 +24,6 @@ if (size($results)) {
         "title" => "Search again",
         "background" => null,
     ]);
-}
+} ?>
 
-snippet("foot");
+<?php snippet("foot"); ?>

@@ -14,31 +14,31 @@ if (param("section") == null) {
 if (get("view") == null) {
     go($page->uri() . "/section:" . param("section") . "?view=list");
 }
+?>
 
-// Page content
-snippet("head", [
+<?php snippet("head", [
     "alternate" => $page->url() . ".geojson" . "/section:" . param("section"),
-]);
+]); ?>
 
-snippet("header", [
+<?php snippet("header", [
     "title" => $page->title(),
     "modifiers" => ["index"],
-]);
+]); ?>
 
-snippet("tablist", [
+<?php snippet("tablist", [
     "title" => "Sections",
     "tabs" => $site->find("sections")->children(),
     "param" => "section",
     "view" => get("view"),
-]);
+]); ?>
 
-snippet("page/content", [
+<?php snippet("page/content", [
     "content" => $section->text(),
     "proseModifiers" => ["centered"],
     "editable" => false,
-]);
+]); ?>
 
-if (size($routes)) {
+<?php if (size($routes)) {
     snippet("switch", [
         "title" => "Change view",
         "queryName" => "view",
@@ -85,6 +85,6 @@ if (size($routes)) {
             }
         }
     }
-}
+} ?>
 
-snippet("foot");
+<?php snippet("foot");

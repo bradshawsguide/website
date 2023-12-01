@@ -1,24 +1,20 @@
-<?php
+<?php snippet("head", [
+    "alternate" => "{$page->url()}.geojson",
+]); ?>
 
-snippet("head", [
-    "alternate" => $page->url() . ".geojson",
-]);
+<?php if ($image = $page->image("cover.jpg")) {
+    snippet("figure", compact("image"));
+} ?>
 
-if ($image = $page->image("cover.jpg")) {
-    snippet("figure", [
-        "image" => $image,
-    ]);
-}
-
-snippet("header", [
+<?php snippet("header", [
     "parent" => Html::a($page->parent()->url(), $page->parent()->title()),
     "title" => $page->title(),
     "subtitle" => $page->subtitle(),
-]);
+]); ?>
 
-snippet("page/content");
+<?php snippet("page/content"); ?>
 
-if (size($page->nearby())) {
+<?php if (size($page->nearby())) {
     snippet("section/list", [
         "title" => "Places nearby",
         "modifiers" => ["offset"],
@@ -26,6 +22,6 @@ if (size($page->nearby())) {
         "component" => "feature",
         "display" => "grid",
     ]);
-}
+} ?>
 
-snippet("foot");
+<?php snippet("foot"); ?>

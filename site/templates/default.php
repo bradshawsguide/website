@@ -1,11 +1,9 @@
-<?php
+<?php snippet("head"); ?>
 
-snippet("head");
+<?php snippet("header"); ?>
 
-snippet("header");
-
-snippet("page/content", [
+<?php snippet("page/content", [
     "editable" => false,
-]);
+]); ?>
 
-snippet("foot");
+<?php snippet("foot"); ?>

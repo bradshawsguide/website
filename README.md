@@ -39,6 +39,7 @@ website
 │
 ├── site                 # SOURCE
 │   ├── blueprints       # Kirby panel blueprints
+│   ├── collections      # Kirby collections
 │   ├── config           # Kirby configuration
 │   ├── controllers      # Kirby template controllers
 │   ├── models           # Kirby page models

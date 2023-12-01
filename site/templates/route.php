@@ -1,33 +1,31 @@
-<?php
+<?php snippet("head", [
+    "alternate" => "{$page->url()}.geojson",
+]); ?>
 
-snippet("head", [
-    "alternate" => $page->url() . ".geojson",
-]);
+<?php snippet("traverse"); ?>
 
-snippet("traverse");
-
-if ($page->stops()->isNotEmpty()) {
+<?php if ($page->stops()->isNotEmpty()) {
     snippet("map", [
-        "url" => $page->uri() . ".geojson",
+        "url" => "{$page->url()}.geojson",
         "title" => "Map of this route",
     ]);
-}
+} ?>
 
-snippet("header", [
+<?php snippet("header", [
     "parent" => $page->operator(),
     "title" => $page->title(),
     "subtitle" => $page->subtitle()->isNotEmpty() ? $page->subtitle() : null,
-]);
+]); ?>
 
-snippet("page/content", [
+<?php snippet("page/content", [
     "proseModifiers" => ["route"],
-]);
+]); ?>
 
-if ($page->links()->isNotEmpty()) {
+<?php if ($page->links()->isNotEmpty()) {
     snippet("section/text", [
         "title" => "Further reading",
         "text" => $page->links(),
     ]);
-}
+} ?>
 
-snippet("foot");
+<?php snippet("foot"); ?>

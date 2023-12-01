@@ -1,25 +1,13 @@
-<?php
+<?php snippet("head"); ?>
 
-snippet("head");
-
-snippet("header", [
+<?php snippet("header", [
     "title" => $page->title(),
     "modifiers" => ["index"],
-]);
+]); ?>
 
-$companies = $page
-    ->children()
-    ->listed()
-    ->sortBy("title", "asc")
-    ->group(function ($page) {
-        return substr($page->title(), 0, 1);
-    });
+<?php foreach (collection("companies") as $letter => $items) {
+    snippet("index", compact("items", "letter"));
+} ?>
 
-foreach ($companies as $letter => $items) {
-    snippet("index", [
-        "items" => $items,
-        "letter" => $letter,
-    ]);
-}
+<?php snippet("foot"); ?>
 
-snippet("foot");

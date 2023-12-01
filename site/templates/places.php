@@ -1,19 +1,17 @@
-<?php
+<?php snippet("head"); ?>
 
-snippet("head");
-
-snippet("header", [
+<?php snippet("header", [
     "pretitle" => "A descriptive guide to places in",
     "title" => "Great Britain & Ireland",
     "modifiers" => ["index"],
-]);
+]); ?>
 
-foreach (page("places")->children() as $country) {
+<?php foreach (page("places")->children() as $country) {
     snippet("section/list", [
         "title" => Html::a($country->url(), kti($country->title())),
         "items" => $country->children(),
         "display" => "columns",
     ]);
-}
+} ?>
 
-snippet("foot");
+<?php snippet("foot"); ?>

@@ -1,24 +1,22 @@
-<?php
+<?php snippet("head", [
+    "alternate" => "{$page->url()}.geojson",
+]); ?>
 
-snippet("head", [
-    "alternate" => $page->url() . ".geojson",
-]);
-
-snippet("header", [
+<?php snippet("header", [
     "parent" => Html::a($page->parent()->url(), $page->parent()->title()),
     "title" => $page->title(),
     "subtitle" => $page->subtitle(),
-]);
+]); ?>
 
-if ($page->routes()) {
+<?php if ($page->routes()) {
     snippet("section/route-traversal", [
         "title" => "Routes serving this station",
         "level" => 2,
         "routes" => $page->routes(),
     ]);
-}
+} ?>
 
-snippet("map", [
+<?php snippet("map", [
     "url" =>
         $page->uri() .
         ".geojson" .
@@ -28,9 +26,9 @@ snippet("map", [
             ->params() .
         "&zoom=14",
     "title" => "Location of this station",
-]);
+]); ?>
 
-if ($page->place()->isNotEmpty()) {
+<?php if ($page->place()->isNotEmpty()) {
     snippet("section/list", [
         "title" => "Places nearby",
         "modifiers" => ["offset"],
@@ -38,11 +36,11 @@ if ($page->place()->isNotEmpty()) {
         "component" => "feature",
         "display" => "grid",
     ]);
-}
+} ?>
 
-snippet("section/text", [
+<?php snippet("section/text", [
     "title" => "Further reading",
     "text" => $page->links(),
-]);
+]); ?>
 
-snippet("foot");
+<?php snippet("foot"); ?>

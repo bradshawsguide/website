@@ -1,26 +1,24 @@
-<?php
+<?php snippet("head"); ?>
 
-snippet("head");
-
-snippet("inquire", [
+<?php snippet("inquire", [
     "title" => "Search " . site()->title(),
     "background" => $page
         ->image()
         ->thumb("cover")
         ->url(),
-]);
+]); ?>
 
-snippet("header", [
+<?php snippet("header", [
     "level" => 2,
     "title" => Html::a(page("routes")->url(), "Routes & Tours"),
     "subtitle" => "(In four sections), adapted to the railway system:",
     "modifiers" => ["index"],
-]);
+]); ?>
 
-snippet("page/content");
+<?php snippet("page/content"); ?>
 
-snippet("section/places", [
+<?php snippet("section/places", [
     "modifiers" => ["offset"],
-]);
+]); ?>
 
-snippet("foot");
+<?php snippet("foot"); ?>

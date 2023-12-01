@@ -1,36 +1,34 @@
-<?php
+<?php snippet("head", [
+    "alternate" => "{$page->url()}.geojson",
+]); ?>
 
-snippet("head", [
-    "alternate" => $page->url() . ".geojson",
-]);
-
-snippet("header", [
+<?php snippet("header", [
     "parent" => Html::a($page->parent()->url(), $page->parent()->title()),
     "title" => $page->title(),
-]);
+]); ?>
 
-snippet("page/content");
+<?php snippet("page/content"); ?>
 
-snippet("section/list", [
+<?php snippet("section/list", [
     "title" => "Routes operated",
     "items" => $page->routes(),
     "component" => "route-item",
-]);
+]); ?>
 
-snippet("map", [
-    "url" => $page->uri() . ".geojson",
+<?php snippet("map", [
+    "url" => "{$page->url()}.geojson",
     "title" => "Network map",
-]);
+]); ?>
 
-snippet("section/list", [
+<?php snippet("section/list", [
     "title" => "All stations",
     "items" => $page->stations(),
     "display" => "columns",
-]);
+]); ?>
 
-snippet("section/text", [
+<?php snippet("section/text", [
     "title" => "Further reading",
     "text" => $page->links(),
-]);
+]); ?>
 
-snippet("foot");
+<?php snippet("foot");
