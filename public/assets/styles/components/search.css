@@ -18,6 +18,7 @@
 
   & button,
   & ::part(button) {
+    align-items: center;
     border-inline-start: var(--line-solid);
     display: flex;
     font: var(--font-label);
@@ -46,6 +47,7 @@
       @media (--from-m) {
         all: initial;
         color: inherit;
+        font-family: inherit;
       }
     }
   }

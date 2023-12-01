@@ -41,6 +41,7 @@
       @media (--from-m) {
         all: initial;
         color: inherit;
+        font-family: inherit;
       }
     }
   }
