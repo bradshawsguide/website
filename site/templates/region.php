@@ -16,7 +16,7 @@
 
 <?php if ($page->uid() != "channel-islands") {
     if (size($page->children())) {
-        snippet("section/list", [
+        snippet("collection", [
             "title" => $page->listTitle(),
             "items" => $page->children(),
             "display" => "columns",
@@ -25,9 +25,8 @@
 } ?>
 
 <?php if (size($page->featured())) {
-    snippet("section/list", [
+    snippet("collection", [
         "title" => "Featured places",
-        "modifiers" => ["offset"],
         "items" => $page->featured(),
         "component" => "feature",
         "display" => "grid",

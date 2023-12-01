@@ -9,7 +9,7 @@
 
 <?php snippet("page/content"); ?>
 
-<?php snippet("section/list", [
+<?php snippet("collection", [
     "title" => "Routes operated",
     "items" => $page->routes(),
     "component" => "route-item",
@@ -20,15 +20,12 @@
     "title" => "Network map",
 ]); ?>
 
-<?php snippet("section/list", [
+<?php snippet("collection", [
     "title" => "All stations",
     "items" => $page->stations(),
     "display" => "columns",
 ]); ?>
 
-<?php snippet("section/text", [
-    "title" => "Further reading",
-    "text" => $page->links(),
-]); ?>
+<?php snippet("page/links"); ?>
 
 <?php snippet("foot");

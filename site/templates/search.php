@@ -3,7 +3,7 @@
 <?php snippet("header", compact("title")); ?>
 
 <?php if (size($results)) {
-    snippet("section/list", [
+    snippet("collection", [
         "title" => "{$results->pagination()->total()} pages found",
         "items" => $results,
         "component" => "result",
@@ -15,10 +15,8 @@
         ]);
     }
 } else {
-    snippet("section/text", [
-        "title" => "No matches found",
-        "text" =>
-            "Make sure that all words are spelled correctly, or try using different keywords.",
+    snippet("page/content", [
+        "editable" => false,
     ]);
     snippet("inquire", [
         "title" => "Search again",

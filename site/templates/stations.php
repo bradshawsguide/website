@@ -6,10 +6,11 @@
 ]); ?>
 
 <?php foreach (collection("stations") as $letter => $items) {
-    snippet("index", [
+    snippet("collection", [
+        "id" => $letter,
         "items" => $items,
-        "letter" => $letter,
-        "listDisplay" => "columns",
+        "title" => Str::upper($letter),
+        "display" => "index columns",
     ]);
 } ?>
 

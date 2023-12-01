@@ -9,10 +9,10 @@
 ]); ?>
 
 <?php if ($page->routes()) {
-    snippet("section/route-traversal", [
+    snippet("collection", [
         "title" => "Routes serving this station",
-        "level" => 2,
-        "routes" => $page->routes(),
+        "items" => $page->routes(),
+        "component" => "route-traversal",
     ]);
 } ?>
 
@@ -29,18 +29,14 @@
 ]); ?>
 
 <?php if ($page->place()->isNotEmpty()) {
-    snippet("section/list", [
+    snippet("collection", [
         "title" => "Places nearby",
-        "modifiers" => ["offset"],
         "items" => [$page->place()->toPage()],
         "component" => "feature",
         "display" => "grid",
     ]);
 } ?>
 
-<?php snippet("section/text", [
-    "title" => "Further reading",
-    "text" => $page->links(),
-]); ?>
+<?php snippet("page/links"); ?>
 
 <?php snippet("foot"); ?>

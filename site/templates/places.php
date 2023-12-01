@@ -7,7 +7,7 @@
 ]); ?>
 
 <?php foreach (page("places")->children() as $country) {
-    snippet("section/list", [
+    snippet("collection", [
         "title" => Html::a($country->url(), kti($country->title())),
         "items" => $country->children(),
         "display" => "columns",

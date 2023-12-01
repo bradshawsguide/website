@@ -22,10 +22,7 @@
 ]); ?>
 
 <?php if ($page->links()->isNotEmpty()) {
-    snippet("section/text", [
-        "title" => "Further reading",
-        "text" => $page->links(),
-    ]);
+    snippet("page/links");
 } ?>
 
 <?php snippet("foot"); ?>

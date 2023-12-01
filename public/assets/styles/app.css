@@ -14,14 +14,13 @@
 
 /* Components */
 @import url("components/banner.css");
+@import url("components/collection.css");
 @import url("components/contentinfo.css");
 @import url("components/edit.css");
 @import url("components/feature.css");
 @import url("components/figure.css");
 @import url("components/header.css");
-@import url("components/index.css");
 @import url("components/inquire.css");
-@import url("components/list.css");
 @import url("components/map.css");
 @import url("components/masthead.css");
 @import url("components/navigation.css");
@@ -33,7 +32,6 @@
 @import url("components/route-traversal.css");
 @import url("components/route.css");
 @import url("components/search.css");
-@import url("components/section.css");
 @import url("components/skip-link.css");
 @import url("components/switch.css");
 @import url("components/tablist.css");

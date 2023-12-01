@@ -2,26 +2,15 @@
   align-items: baseline;
   display: flex;
   flex-direction: column;
-  text-decoration: none;
+  font: var(--font-label);
+  line-height: var(--line-height-loose);
 
   @media screen and (--from-m) {
     flex-direction: row;
-  }
 
-  & h3 {
-    font: var(--font-caption);
-    font-weight: bold;
-    line-height: var(--line-height-loose);
-  }
-
-  & p {
-    font: var(--font-caption);
-
-    @media screen and (--from-m) {
-      &::before {
-        content: "—";
-        margin: 0 var(--space-2xs);
-      }
+    & p::before {
+      content: "—";
+      margin: 0 var(--space-2xs);
     }
   }
 }

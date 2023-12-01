@@ -6,7 +6,12 @@
 ]); ?>
 
 <?php foreach (collection("companies") as $letter => $items) {
-    snippet("index", compact("items", "letter"));
+    snippet("collection", [
+        "id" => $letter,
+        "items" => $items,
+        "title" => Str::upper($letter),
+        "display" => "index",
+    ]);
 } ?>
 
 <?php snippet("foot"); ?>

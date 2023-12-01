@@ -66,7 +66,7 @@ if (get("view") == null) {
             "title" => "Routes plotted on a map",
         ]);
     } else {
-        snippet("section/list", [
+        snippet("collection", [
             "title" => "Featured routes",
             "items" => $featured->filterBy("section", param("section")),
             "component" => "feature",
@@ -77,7 +77,7 @@ if (get("view") == null) {
             $items = $company->routes()->filterBy("section", param("section"));
 
             if (size($items)) {
-                snippet("section/list", [
+                snippet("collection", [
                     "title" => Html::a($company->url(), $company->title()),
                     "items" => $items,
                     "component" => "route-item",

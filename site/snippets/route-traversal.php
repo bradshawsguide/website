@@ -1,9 +1,9 @@
 <?php
-// Test if $route == ?route query
+// Test if $item == ?route query
 $currentRoute = get("route");
 
 // Flatten array so that branch stops appear on main route
-$stops = array_flatten($route->stops()->yaml());
+$stops = array_flatten($item->stops()->yaml());
 
 // Get key by finding the name of this (nearest) station in stops
 $stopKey = array_search($page->id(), $stops);
@@ -11,21 +11,23 @@ $stopKey = array_search($page->id(), $stops);
 if (array_key_exists($stopKey - 1, $stops)) {
     $prevID = $stops[$stopKey - 1];
     $prev = page($prevID);
-    $prevHref = $prev->url() . "?route=" . $route->uid();
+    $prevHref = $prev->url() . "?route=" . $item->uid();
 }
 
 if (array_key_exists($stopKey + 1, $stops)) {
     $nextID = $stops[$stopKey + 1];
     $next = page($nextID);
-    $nextHref = $next->url() . "?route=" . $route->uid();
+    $nextHref = $next->url() . "?route=" . $item->uid();
 }
 ?>
 <nav class="c-route-traversal" aria-labelledby="route-traversal-title"<?php e(
-    $currentRoute == $route->uid(),
+    $currentRoute == $item->uid(),
     " data-current"
 ); ?>>
     <h3 id="route-traversal-title">
-        <?= $title ?>
+        <a href="<?= $item->url() ?>">
+            <?= kti($item->shortTitle()) ?>
+        </a>
     </h3>
     <dl>
         <dt><b-visually-hidden>Previous station</b-visually-hidden></dt>

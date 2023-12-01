@@ -15,9 +15,8 @@
 <?php snippet("page/content"); ?>
 
 <?php if (size($page->nearby())) {
-    snippet("section/list", [
+    snippet("collection", [
         "title" => "Places nearby",
-        "modifiers" => ["offset"],
         "items" => $page->nearby(),
         "component" => "feature",
         "display" => "grid",
