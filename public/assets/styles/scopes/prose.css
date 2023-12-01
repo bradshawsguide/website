@@ -18,6 +18,7 @@
   }
 
   & h2 {
+    display: flex;
     font: var(--font-subhead);
     margin-block-end: var(--space-xs);
 
