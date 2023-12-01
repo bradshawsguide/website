@@ -15,7 +15,6 @@
   --color-crimson: hsl(0deg 67% 33%);
   --color-crimson-bright: hsl(0deg 75% 50%);
   --color-mustard: hsl(24deg 100% 60%);
-  --color-mustard-alpha: hsl(24deg 100% 60%);
   --color-link: var(--color-crimson);
   --color-link-hover: var(--color-crimson-bright);
   --color-link-active: var(--color-mustard);
