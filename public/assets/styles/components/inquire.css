@@ -1,33 +1,6 @@
 .c-inquire {
   --focus-outline-offset: 0;
 
-  &[style*="--background"] {
-    background-color: var(--color-neutral-lighter);
-    margin-inline: calc(var(--page-gutter) * -1);
-    padding-inline: calc(var(--page-gutter) - var(--space-m));
-
-    @media (--from-m) {
-      background-image: var(--background);
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      padding-block: 40vh 5vh;
-    }
-
-    & form {
-      background: transparent;
-
-      @media (--from-m) {
-        background-color: hsl(0deg 0% 0% / 60%);
-        padding-inline: var(--space-s);
-      }
-    }
-
-    & label {
-      color: white;
-    }
-  }
-
   & form {
     background-color: var(--color-neutral-lighter);
     display: flex;
@@ -81,6 +54,33 @@
 
     &[error]::part(button) {
       opacity: 0.5;
+    }
+  }
+
+  &[style*="--background"] {
+    background-color: var(--color-neutral-lighter);
+    margin-inline: calc(var(--page-gutter) * -1);
+    padding-inline: calc(var(--page-gutter) - var(--space-m));
+
+    @media (--from-m) {
+      background-image: var(--background);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding-block: 40vh 5vh;
+    }
+
+    & form {
+      background: transparent;
+
+      @media (--from-m) {
+        background-color: hsl(0deg 0% 0% / 60%);
+        padding-inline: var(--space-s);
+      }
+    }
+
+    & label {
+      color: white;
     }
   }
 }
