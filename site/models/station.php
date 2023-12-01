@@ -32,7 +32,7 @@ class StationPage extends Kirby\Cms\Page
     }
 
     // Location for search
-    public function latlng()
+    public function geo()
     {
         $location = $this->location()->yaml();
         return $location["lat"] . "," . $location["lon"];

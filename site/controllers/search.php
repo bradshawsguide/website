@@ -34,13 +34,11 @@ return function ($site) {
             ->children();
         $combined = $stations->merge($places)->sortBy("title");
 
-        $results = $stations
-            ->filterBy("latlng", "radius", [
-                "lat" => $point->lat(),
-                "lng" => $point->lng(),
-                "radius" => 15,
-            ])
-            ->sortBy("location");
+        $results = $stations->filterBy("geo", "radius", [
+            "lat" => $point->lat(),
+            "lng" => $point->lng(),
+            "radius" => 15,
+        ]);
 
         $results = $results->paginate($paginate);
         $title = "Places near you";

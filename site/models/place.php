@@ -12,12 +12,7 @@ class PlacePage extends Kirby\Cms\Page
             : "stations/" . $this->uid();
 
         if ($station = page($id)) {
-            // Get structured location values (saved using Locator plugin)
-            $yaml = $station->location()->yaml();
-
-            // Return field value in `{lat},{lng}` format for Geo plugin
-            // https://getkirby.com/plugins/getkirby/geo#radius-filter
-            return $yaml["lat"] . ", " . $yaml["lon"];
+            return $station->geo();
         }
     }
 

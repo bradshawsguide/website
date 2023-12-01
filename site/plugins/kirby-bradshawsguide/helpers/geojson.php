@@ -5,8 +5,9 @@
 function generateLineString($pages)
 {
     foreach ($pages as $page) {
-        if ($location = $page->location()->yaml()) {
-            $coords[] = [$location["lon"], $location["lat"]];
+        if ($location = $page->geo()) {
+            $geo = Str::split($location);
+            $coords[] = [$geo[1], $geo[0]];
         }
     }
 
