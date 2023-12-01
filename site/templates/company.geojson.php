@@ -10,7 +10,7 @@ foreach ($page->routes() as $route) {
     foreach (array_extract_arrays($stops) as $line) {
         // For each UID in $line array, convert to StationPage array
         array_walk($line, function (&$value, $key) {
-            $value = page("stations/" . $value);
+            $value = page($value);
         });
 
         $lineString[] = generateLineString($line);
@@ -31,7 +31,7 @@ foreach ($page->routes() as $route) {
 
     // Create a `Feature` for each stop
     foreach (array_flatten($stops) as $stop) {
-        $page = page("stations/" . $stop);
+        $page = page($stop);
 
         if (!$page->place()->empty()) {
             $markerSize = "large";
