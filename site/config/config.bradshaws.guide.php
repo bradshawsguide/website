@@ -4,7 +4,6 @@ return [
     "cache" => [
         "pages" => [
             "active" => true,
-            "type" => "static",
         ],
     ],
     "debug" => false,
