@@ -20,7 +20,6 @@ snippet("section/list", [
 snippet("map", [
     "url" => $page->uri() . ".geojson",
     "title" => "Network map",
-    "modifiers" => ["cover"],
 ]);
 
 snippet("section/list", [

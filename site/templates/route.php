@@ -10,7 +10,6 @@ if ($page->stops()->isNotEmpty()) {
     snippet("map", [
         "url" => $page->uri() . ".geojson",
         "title" => "Map of this route",
-        "modifiers" => ["cover"],
     ]);
 }
 

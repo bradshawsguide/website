@@ -64,7 +64,6 @@ if (size($routes)) {
                     ->url()
                     ->params(),
             "title" => "Routes plotted on a map",
-            "modifiers" => ["cover"],
         ]);
     } else {
         snippet("section/list", [

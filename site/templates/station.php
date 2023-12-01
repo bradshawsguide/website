@@ -28,7 +28,6 @@ snippet("map", [
             ->params() .
         "&zoom=14",
     "title" => "Location of this station",
-    "modifiers" => ["cover"],
 ]);
 
 if ($page->place()->isNotEmpty()) {
