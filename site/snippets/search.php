@@ -10,7 +10,7 @@
                 <b-icon name="search"></b-icon>
                 <b-visually-hidden>Search</b-visually-hidden>
             </button>
-            <b-locate label="Stations near me"></b-locate>
+            <b-locate label="Places near me"></b-locate>
         </form>
     </search>
 </dialog>

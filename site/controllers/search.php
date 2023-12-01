@@ -22,23 +22,21 @@ return function ($site) {
             ->index()
             ->listed()
             ->search($query, $options);
+
         $results = $results->paginate($paginate, ["method" => "query"]);
         $title = "Search results for ‘" . esc($query) . "’";
     } elseif ($geo == true) {
         // Geo located search
         $point = geo::point($geo);
 
-        $stations = page("stations")->children();
-        $places = page("places")
+        $results = page("places")
             ->grandChildren()
-            ->children();
-        $combined = $stations->merge($places)->sortBy("title");
-
-        $results = $stations->filterBy("geo", "radius", [
-            "lat" => $point->lat(),
-            "lng" => $point->lng(),
-            "radius" => 15,
-        ]);
+            ->children()
+            ->filterBy("geo", "radius", [
+                "lat" => $point->lat(),
+                "lng" => $point->lng(),
+                "radius" => 15,
+            ]);
 
         $results = $results->paginate($paginate);
         $title = "Places near you";
