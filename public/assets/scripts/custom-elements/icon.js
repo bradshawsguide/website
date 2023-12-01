@@ -36,7 +36,7 @@ export class IconElement extends LitElement {
   render() {
     return html`
       <svg part="svg" width="1em" height="1em" aria-hidden="true">
-        <use part="use" href="${this.url}#${this.name}"></use>
+        <use part="use" href="${this.url}#${this.name}" />
       </svg>
     `;
   }
