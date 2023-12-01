@@ -12,7 +12,8 @@
     margin-block-end: var(--space-s);
   }
 
-  & h1 {
+  & h1,
+  & h2 {
     --color-link: var(--color-neutral-darkest);
     --link-decoration: none;
 
