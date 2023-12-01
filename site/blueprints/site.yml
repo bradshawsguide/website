@@ -47,12 +47,25 @@ tabs:
       title_short:
         label: Short title
         type: text
-        width: 4/6
-      theme_color:
-        label: Theme colour
-        type: text
-        width: 1/6
+        width: 3/6
       background_color:
         label: Background colour
-        type: text
+        type: color
         width: 1/6
+        mode: options
+        options:
+          - "#f83"
+          - "#df2020"
+          - "#8d1c1c"
+      theme_color:
+        label: Theme colour
+        type: color
+        width: 2/6
+        mode: options
+        options:
+          - "#30241d"
+          - "#604939"
+          - "#7e7067"
+          - "#c6beb9"
+          - "#e8e5e3"
+          - "#f9f7f5"
