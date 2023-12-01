@@ -1,4 +1,7 @@
-<search class="<?= classList("c-inquire", $modifiers ?? null) ?>">
+<search class="c-inquire"<?php e(
+    $background,
+    Html::attr("style", "--background: url({$background})", before: " ")
+); ?>>
     <form action="/search">
         <label for="q"><?= $title ?></label>
         <input class="c-inquire__input" type="search" id="q" name="q" placeholder="e.g. Brighton, Windsor Castle, Surrey…" value="<?= esc(

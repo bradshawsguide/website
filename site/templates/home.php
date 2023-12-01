@@ -4,7 +4,10 @@ snippet("head");
 
 snippet("inquire", [
     "title" => "Search " . site()->title(),
-    "modifiers" => ["home"],
+    "background" => $page
+        ->image()
+        ->thumb("cover")
+        ->url(),
 ]);
 
 snippet("header", [

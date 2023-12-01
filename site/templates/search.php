@@ -26,6 +26,7 @@ if (size($results)) {
     ]);
     snippet("inquire", [
         "title" => "Search again",
+        "background" => null,
     ]);
 }
 

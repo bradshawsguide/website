@@ -1,17 +1,30 @@
 .c-inquire {
   --focus-outline-offset: 0;
 
-  &.c-inquire--home {
+  &[style*="--background"] {
     background-color: var(--color-neutral-lighter);
     margin-inline: calc(var(--page-gutter) * -1);
     padding-inline: calc(var(--page-gutter) - var(--space-m));
 
     @media (--from-m) {
-      background-image: url("/assets/images/home.jpg");
+      background-image: var(--background);
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
       padding-block: 40vh 5vh;
+    }
+
+    & form {
+      background: transparent;
+
+      @media (--from-m) {
+        background-color: hsl(0deg 0% 0% / 60%);
+        padding-inline: var(--space-s);
+      }
+    }
+
+    & label {
+      color: white;
     }
   }
 
@@ -22,15 +35,6 @@
     font: var(--font-label);
     gap: var(--space-m) var(--space-xs);
     padding: var(--space-m);
-
-    .c-inquire--home & {
-      background: transparent;
-
-      @media (--from-m) {
-        background-color: hsl(0deg 0% 0% / 60%);
-        padding-inline: var(--space-s);
-      }
-    }
 
     & b-locate::part(label),
     & b-visually-hidden {
@@ -44,12 +48,6 @@
   & label {
     font-weight: 600;
     inline-size: 100%;
-
-    .c-inquire--home & {
-      @media (--from-m) {
-        color: white;
-      }
-    }
   }
 
   & input {
