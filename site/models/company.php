@@ -24,7 +24,7 @@ class CompanyPage extends Kirby\Cms\Page
             $stations = array_flatten($stations);
 
             array_walk($stations, function (&$value, $key) {
-                $value = page("stations/" . $value);
+                $value = page($value);
             });
 
             return $stations;
