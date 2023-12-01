@@ -7,7 +7,7 @@ _Let this digital revival of a Victorian favourite be your guide to Britain and 
 1. `git clone git@github.com:bradshawsguide/website.git`
 2. `cd website`
 3. `git submodule update --init --recursive`
-4. `mkdir public/cache`
+4. `composer install`
 5. `npm install`
 6. `npm run build`
 
@@ -35,40 +35,40 @@ npm run dev
 
 ```text
 website
-├── [content]                   # CONTENT [submodule]
+├── [content]            # CONTENT [submodule]
 │
-├── site                        # SOURCE
-│   ├── blueprints              # Kirby panel blueprints
-│   ├── config                  # Kirby configuration
-│   ├── controllers             # Kirby template controllers
-│   ├── models                  # Kirby page models
-│   ├── plugins                 # Kirby plugins
-│   ├── snippets                # Template snippets
-│   └── templates               # Kirby templates
+├── site                 # SOURCE
+│   ├── blueprints       # Kirby panel blueprints
+│   ├── config           # Kirby configuration
+│   ├── controllers      # Kirby template controllers
+│   ├── models           # Kirby page models
+│   ├── plugins          # Kirby plugins
+│   ├── snippets         # Template snippets
+│   └── templates        # Kirby templates
 │
-├── public                      # PUBLIC
-│   ├── index.php               # Kirby launch script
+├── public               # PUBLIC
+│   ├── index.php        # Kirby launch script
 │   └── assets
-│       ├── fonts               # Web fonts
-│       ├── icons               # Favicon and home screen icons
-│       ├── images              # Raster images
-│       ├── scripts             # JavaScript
-│       ├── styles              # CSS styles
-│       └── vectors             # Vector images
+│       ├── fonts        # Web fonts
+│       ├── icons        # Favicon and home screen icons
+│       ├── images       # Raster images
+│       ├── scripts      # JavaScript
+│       ├── styles       # CSS styles
+│       └── vectors      # Vector images
 │
-├── .editorconfig               # Text editor preferences
-├── .gitignore                  # List of files not tracked by git
-├── .gitmodules                 # List of submodules tracked by git
-├── .htaccess                   # Apache server config
-├── .nvmrc                      # Node version to use
-├── .prettierignore             # List of files not to format with Prettier
-├── composer.lock               # Composer manifest lock file
-├── composer.json               # Composer manifest
-├── package-lock.json           # NPM manifest lock file
-├── package.json                # NPM manifest
-├── LICENSE                     # Project license
-├── README.md                   # This file
-└── vite.config.js              # Vite config
+├── .editorconfig        # Text editor preferences
+├── .gitignore           # List of files not tracked by git
+├── .gitmodules          # List of submodules tracked by git
+├── .htaccess            # Apache server config
+├── .nvmrc               # Node version to use
+├── .prettierignore      # List of files not to format with Prettier
+├── composer.lock        # Composer manifest lock file
+├── composer.json        # Composer manifest
+├── package-lock.json    # NPM manifest lock file
+├── package.json         # NPM manifest
+├── LICENSE              # Project license
+├── README.md            # This file
+└── vite.config.js       # Vite config
 ```
 
 © 2013 [Paul Robert Lloyd](https://paulrobertlloyd.com)
