@@ -42,8 +42,8 @@ return function ($site) {
         $title = "Places near you";
         $query = esc($geo);
     } else {
-        $results = null;
-        $title = $page->title();
+        $results = [];
+        $title = "Search results";
     }
 
     return compact("results", "title", "query");
