@@ -1,6 +1,6 @@
 .c-page {
   background-color: var(--color-neutral-lightest);
-  background-image: url("/assets/images/body.png");
+  background-image: url("/assets/vectors/page.svg");
   background-repeat: repeat;
   background-size: 8rem;
   display: flex;
