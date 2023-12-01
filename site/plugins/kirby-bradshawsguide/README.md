@@ -1,15 +1,19 @@
 # Bradshaw’s Guide: Kirby Plugin
 
-A Kirby 3 plugin to support the development of [Bradshaw’s Guide](https://bradshaws.guide).
+A Kirby plugin to support the development of [Bradshaw’s Guide](https://bradshaws.guide).
 
 ## Repo structure
 
-```
+```text
 kirby-bradshawsguide
-├── tags               # KirbyTags
-├── helpers            # Helper functions
+├── components       # Core component replacements
+├── helpers          # Helper functions
+├── page-methods     # Page methods
+├── tags             # KirbyTags
 │
-└── README.md          # This file
+├── composer.json    # Composer manifest
+├── index.php        # Plugin entrypoint
+└── README.md        # This file
 ```
 
 © [Paul Robert Lloyd](https://paulrobertlloyd.com)
