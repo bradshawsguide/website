@@ -27,9 +27,9 @@ snippet("header", [
 
 snippet("tablist", [
     "title" => "Sections",
-    "paramName" => "section",
-    "currentURL" => "/routes/section:" . param("section"),
     "tabs" => $site->find("sections")->children(),
+    "param" => "section",
+    "view" => get("view"),
 ]);
 
 snippet("page/content", [
