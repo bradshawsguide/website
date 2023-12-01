@@ -7,9 +7,15 @@ snippet("header", [
     "modifiers" => ["index"],
 ]);
 
-$companies = $page->children()->sortBy("title", "asc");
+$companies = $page
+    ->children()
+    ->listed()
+    ->sortBy("title", "asc")
+    ->group(function ($page) {
+        return substr($page->title(), 0, 1);
+    });
 
-foreach (alphabetise($companies) as $letter => $items) {
+foreach ($companies as $letter => $items) {
     snippet("index", [
         "items" => $items,
         "letter" => $letter,

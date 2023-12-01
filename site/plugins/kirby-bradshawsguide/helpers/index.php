@@ -1,6 +1,5 @@
 <?php
 
-require_once __DIR__ . "/alphabetise.php";
 require_once __DIR__ . "/ariacurrent.php";
 require_once __DIR__ . "/array.php";
 require_once __DIR__ . "/geojson.php";
