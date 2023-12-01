@@ -145,8 +145,9 @@ export class MapElement extends LitElement {
 
   render() {
     return html`
-      <div id="map"></div>
-      <slot name="attribution"></slot>
+      <div id="map">
+        <slot name="attribution"></slot>
+      </div>
     `;
   }
 }
