@@ -76,7 +76,9 @@
     }
 
     & label {
-      color: white;
+      @media (--from-m) {
+        color: white;
+      }
     }
   }
 }
