@@ -13,13 +13,11 @@ Kirby::plugin("bradshawsguide/kirby", [
     "tags" => [
         "branch" => require_once __DIR__ . "/tags/branch.php",
         "distances" => require_once __DIR__ . "/tags/distances.php",
-        "disused" => require_once __DIR__ . "/tags/disused.php",
         "figure" => require_once __DIR__ . "/tags/figure.php",
         "navigation" => require_once __DIR__ . "/tags/navigation.php",
         "place" => require_once __DIR__ . "/tags/place.php",
         "route" => require_once __DIR__ . "/tags/route.php",
         "smcp" => require_once __DIR__ . "/tags/smcp.php",
-        "trainline" => require_once __DIR__ . "/tags/trainline.php",
         "wikipedia" => require_once __DIR__ . "/tags/wikipedia.php",
     ],
 ]);

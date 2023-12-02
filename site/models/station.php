@@ -19,18 +19,6 @@ class StationPage extends Kirby\Cms\Page
         return Db::delete("stations", ["uid" => $this->uid()]);
     }
 
-    // Trainline slug
-    public function trainline()
-    {
-        if ($this->subtitle()->isNotEmpty()) {
-            $trainline = Str::slug($this->subtitle());
-        } else {
-            $trainline = $this->uid();
-        }
-
-        return $trainline;
-    }
-
     // Location for search
     public function geo()
     {
@@ -38,19 +26,30 @@ class StationPage extends Kirby\Cms\Page
         return $location["lat"] . "," . $location["lon"];
     }
 
+    // Trainline slug (uses current day station name stored in subtitle)
+    public function trainline(): string
+    {
+        return $this->subtitle()->isNotEmpty()
+            ? Str::slug($this->subtitle())
+            : $this->uid();
+    }
+
     // API consistency
     public function links()
     {
         $links = [
-            "wikipedia" => $this->wikipedia()->isEmpty()
-                ? null
-                : "- (wikipedia: " . urlencode($this->wikipedia()) . ")",
-            "trainline" => $this->nationalrail()->isEmpty()
-                ? null
-                : "- (trainline: " . $this->trainline() . ")",
-            "disused" => $this->disused()->isEmpty()
-                ? null
-                : "- (disused: " . $this->disused() . ")",
+            "wikipedia" => $this->wikipedia()->isNotEmpty()
+                ? "- (wikipedia: {$this->wikipedia()})"
+                : null,
+            "nationalrail" => $this->nationalrail()->isNotEmpty()
+                ? "- [{$this->title()} Station on National Rail](https://www.nationalrail.co.uk/stations/{$this->nationalrail()})"
+                : null,
+            "trainline" => $this->nationalrail()->isNotEmpty()
+                ? "- [{$this->title()} Station on Trainline](https://www.thetrainline.com/stations/{$this->trainline()})"
+                : null,
+            "disused" => $this->disused()->isNotEmpty()
+                ? "- [Site record on Disused Stations](http://www.disused-stations.org.uk/{$this->disused()})"
+                : null,
         ];
 
         return implode("\n", $links);
