@@ -56,7 +56,6 @@
   }
 
   & b-toggle::part(button) {
-    display: flex;
     font: var(--font-label);
     gap: var(--space-xs);
     inset-block-start: 0;

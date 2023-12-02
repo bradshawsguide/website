@@ -99,8 +99,6 @@
   }
 
   & b-toggle::part(button) {
-    align-items: center;
-    display: flex;
     font: var(--font-label);
     gap: var(--space-xs);
     padding: var(--space-m);

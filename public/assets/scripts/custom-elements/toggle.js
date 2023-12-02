@@ -37,9 +37,10 @@ export class ToggleElement extends LitElement {
 
   static styles = css`
     :host button {
+      align-items: center;
       background: none;
-      color: inherit;
       border: 0;
+      color: inherit;
       display: flex;
     }
 

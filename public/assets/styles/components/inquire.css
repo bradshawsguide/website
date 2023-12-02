@@ -49,12 +49,8 @@
     }
   }
 
-  & b-locate {
-    display: flex;
-
-    &[error]::part(button) {
-      opacity: 0.5;
-    }
+  & b-locate&[error]::part(button) {
+    opacity: 0.5;
   }
 
   &[style*="--background"] {
