@@ -1,26 +1,22 @@
 <article class="c-feature">
     <header>
-        <h3><?= Html::a($item->url(), $item->title()) ?></h3>
-        <p><?= kti($item->parent()->title()) ?></p>
+        <h3>
+            <span><?= kti($item->parent()->title()) ?></span>
+            <b-visually-hidden>:</b-visually-hidden>
+            <a href="<?= $item->url() ?>">
+                <?= $item->title() ?>
+            </a>
+        </h3>
     </header>
 
-    <?php if ($item->hasImages()) {
-        echo Html::img(
-            $item
-                ->image()
-                ->thumb("feature")
-                ->url(),
-            [
-                "alt" => $item->image()->alt(),
-                "loading" => "lazy",
-                "srcset" => $item->image()->srcset("feature"),
-            ]
-        );
-    } ?>
+    <?php if ($image = $item->image()): ?>
+        <img alt="<?= $image->alt() ?>"
+            loading="lazy"
+            src="<?= $image->thumb("feature")->url() ?>"
+            srcset="<?= $image->srcset("feature") ?>">
+    <?php endif; ?>
 
-    <?php if ($item->excerpt()) {
-        snippet("scope/text", [
-            "content" => $item->excerpt(),
-        ]);
-    } ?>
+    <?php snippet("scope/text", [
+        "content" => $item->excerpt(),
+    ]); ?>
 </article>

@@ -33,8 +33,10 @@
       text-transform: uppercase;
     }
 
-    & p {
+    & span {
+      all: initial;
       color: var(--color-neutral-mid);
+      display: block;
       font: var(--font-meta);
       font-style: italic;
       margin-block: var(--space-2xs);
