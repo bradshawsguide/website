@@ -37,21 +37,17 @@
     <meta property="og:image" content="<?= url("/assets/icons/app.jpg") ?>">
 <?php endif; ?>
 
-    <title><?= e(!$page->isHomePage(),
+    <title><?= e(
+        !$page->isHomePage(),
         kti($page->title()) . " - " . $site->title(),
         kti($page->title())
     ) ?></title>
 </head>
 
 <body<?= isset($class) ? ' class="' . $class . '"' : null ?>>
-    <?php
-    snippet("skip-link");
-    snippet("banner");
-    if ($page->isHomePage()) {
-        snippet("masthead");
-    }
-    snippet("navigation");
-    snippet("search");
-    ?>
+    <?php snippet("skip-link"); ?>
+    <?php snippet("banner"); ?>
+    <?php snippet("navigation"); ?>
+    <?php snippet("search"); ?>
 
     <main class="c-page c-page--<?= $page->template() ?>" id="main">
