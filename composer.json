@@ -33,7 +33,7 @@
     "getkirby/geo": "^1.0",
     "getkirby/staticache": "^1.0",
     "sylvainjule/locator": "^1.0",
-    "k-community/markdown-field": "dev-develop",
+    "k-community/markdown-field": "dev-main",
     "arnoson/kirby-vite": "^5.0"
   },
   "config": {

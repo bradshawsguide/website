@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "74e66e19f2e71d0aa9bfd84f63bc8fd3",
+    "content-hash": "be1b4fadb3c95bad0a20c413be0ee7a3",
     "packages": [
         {
             "name": "arnoson/kirby-vite",
@@ -634,24 +634,32 @@
         },
         {
             "name": "k-community/markdown-field",
-            "version": "dev-develop",
+            "version": "dev-main",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fabianmichael/kirby-markdown-field.git",
-                "reference": "4f346d9cbc0f27261cfcdea9bd31efafd5f117e6"
+                "reference": "d7fb8e4e53f31cbd6595638d3c3e972034ec8aad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fabianmichael/kirby-markdown-field/zipball/4f346d9cbc0f27261cfcdea9bd31efafd5f117e6",
-                "reference": "4f346d9cbc0f27261cfcdea9bd31efafd5f117e6",
+                "url": "https://api.github.com/repos/fabianmichael/kirby-markdown-field/zipball/d7fb8e4e53f31cbd6595638d3c3e972034ec8aad",
+                "reference": "d7fb8e4e53f31cbd6595638d3c3e972034ec8aad",
                 "shasum": ""
             },
             "require": {
                 "getkirby/composer-installer": "^1.2",
-                "php": ">=8.0.0"
+                "php": ">=8.1.0"
             },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "^3.13",
+                "phpmd/phpmd": "@stable",
+                "phpunit/phpunit": "^9",
+                "vimeo/psalm": "^5.1"
+            },
+            "default-branch": true,
             "type": "kirby-plugin",
             "extra": {
+                "kirby-cms-path": false,
                 "installer-name": "markdown-field"
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -672,7 +680,7 @@
             "homepage": "https://github.com/fabianmichael/kirby-markdown-field",
             "support": {
                 "issues": "https://github.com/fabianmichael/kirby-markdown-field/issues",
-                "source": "https://github.com/fabianmichael/kirby-markdown-field/tree/develop"
+                "source": "https://github.com/fabianmichael/kirby-markdown-field/tree/main"
             },
             "funding": [
                 {
@@ -680,7 +688,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-11-29T20:11:20+00:00"
+            "time": "2023-12-01T10:00:36+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
