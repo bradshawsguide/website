@@ -16,7 +16,9 @@
             srcset="<?= $image->srcset("feature") ?>">
     <?php endif; ?>
 
-    <?php snippet("scope/text", [
-        "content" => $item->excerpt(),
-    ]); ?>
+    <?php if ($content = $item->desc()->isNotEmpty()): ?>
+        <?php snippet("scope/text", [
+            "content" => $item->desc()->excerpt(),
+        ]); ?>
+    <?php endif; ?>
 </article>
