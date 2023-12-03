@@ -7,12 +7,12 @@ return [
     ],
 
     "smartypants" => [
-        'doublequote.open'  => '“',
-        'doublequote.close' => '”',
-        'singlequote.open' => '‘',
-        'singlequote.close' => '’',
-        'emdash' => ' — ',
-        'ellipsis' => '…',
+        "doublequote.open" => "“",
+        "doublequote.close" => "”",
+        "singlequote.open" => "‘",
+        "singlequote.close" => "’",
+        "emdash" => " — ",
+        "ellipsis" => "…",
     ],
 
     // Database
