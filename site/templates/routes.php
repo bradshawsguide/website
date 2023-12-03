@@ -1,23 +1,16 @@
 <?php
 
 // Redirect
-$view = get("view") == true ? get("view") : "list";
-$section = $pages
-    ->find("sections")
-    ->children()
-    ->findBy("uid", param("section"));
+$section = param("section");
+$view = get("view") ?: "list";
 
-if (param("section") == null) {
-    go($page->uri() . "/section:1?view=" . $view);
-}
-
-if (get("view") == null) {
-    go($page->uri() . "/section:" . param("section") . "?view=list");
+if ($section == null || get("view") == null) {
+    go("{$page->uri()}/section:1?view={$view}");
 }
 ?>
 
 <?php snippet("head", [
-    "alternate" => $page->url() . ".geojson" . "/section:" . param("section"),
+    "alternate" => "{$page->url()}.geojson/section:{$section}",
 ]); ?>
 
 <?php snippet("header", [
@@ -27,13 +20,15 @@ if (get("view") == null) {
 
 <?php snippet("tablist", [
     "title" => "Sections",
-    "tabs" => $site->find("sections")->children(),
+    "tabs" => collection("sections"),
     "param" => "section",
-    "view" => get("view"),
+    "view" => $view,
 ]); ?>
 
 <?php snippet("page/content", [
-    "content" => $section->text(),
+    "content" => collection("sections")
+        ->findBy("uid", $section)
+        ->text(),
     "proseModifiers" => ["centered"],
     "editable" => false,
 ]); ?>
@@ -53,29 +48,20 @@ if (get("view") == null) {
             ],
         ],
     ]);
-
-    if (get("view") == "map") {
+    if ($view == "map") {
         snippet("map", [
-            "url" =>
-                $page->uri() .
-                ".geojson" .
-                $kirby
-                    ->request()
-                    ->url()
-                    ->params(),
+            "url" => "{$page->uri()}.geojson/{$kirby->request()->url()->params()}",
             "title" => "Routes plotted on a map",
         ]);
     } else {
         snippet("collection", [
             "title" => "Featured routes",
-            "items" => $featured->filterBy("section", param("section")),
+            "items" => $featured->filterBy("section", $section),
             "component" => "feature",
             "display" => "grid",
         ]);
-
         foreach ($companies as $company) {
-            $items = $company->routes()->filterBy("section", param("section"));
-
+            $items = $company->routes()->filterBy("section", $section);
             if (size($items)) {
                 snippet("collection", [
                     "title" => Html::a($company->url(), $company->title()),
