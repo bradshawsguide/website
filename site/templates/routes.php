@@ -25,7 +25,7 @@ if ($section == null || get("view") == null) {
     "view" => $view,
 ]); ?>
 
-<?php snippet("page/content", [
+<?php snippet("content", [
     "content" => collection("sections")
         ->findBy("uid", $section)
         ->text(),

@@ -12,7 +12,7 @@
     "subtitle" => $page->subtitle(),
 ]); ?>
 
-<?php snippet("page/content"); ?>
+<?php snippet("content"); ?>
 
 <?php if (size($page->nearby())) {
     snippet("collection", [

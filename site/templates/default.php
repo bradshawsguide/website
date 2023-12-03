@@ -2,7 +2,7 @@
 
 <?php snippet("header"); ?>
 
-<?php snippet("page/content", [
+<?php snippet("content", [
     "editable" => false,
 ]); ?>
 

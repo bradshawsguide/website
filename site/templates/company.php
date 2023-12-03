@@ -7,7 +7,7 @@
     "title" => $page->title(),
 ]); ?>
 
-<?php snippet("page/content"); ?>
+<?php snippet("content"); ?>
 
 <?php snippet("collection", [
     "title" => "Routes operated",
@@ -26,6 +26,6 @@
     "display" => "columns",
 ]); ?>
 
-<?php snippet("page/links"); ?>
+<?php snippet("links"); ?>
 
 <?php snippet("foot");

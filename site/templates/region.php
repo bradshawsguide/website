@@ -9,7 +9,7 @@
 ]); ?>
 
 <?php if ($page->text()->isNotEmpty()) {
-    snippet("page/content", [
+    snippet("content", [
         "proseModifiers" => ["centered"],
     ]);
 } ?>

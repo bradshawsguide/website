@@ -15,7 +15,7 @@
         ]);
     }
 } else {
-    snippet("page/content", [
+    snippet("content", [
         "editable" => false,
     ]);
     snippet("inquire", [

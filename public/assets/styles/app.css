@@ -15,6 +15,7 @@
 /* Components */
 @import url("components/banner.css");
 @import url("components/collection.css");
+@import url("components/content.css");
 @import url("components/contentinfo.css");
 @import url("components/edit.css");
 @import url("components/feature.css");
@@ -23,7 +24,6 @@
 @import url("components/inquire.css");
 @import url("components/map.css");
 @import url("components/navigation.css");
-@import url("components/page.css");
 @import url("components/pagination.css");
 @import url("components/place.css");
 @import url("components/result.css");

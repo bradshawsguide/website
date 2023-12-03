@@ -37,6 +37,6 @@
     ]);
 } ?>
 
-<?php snippet("page/links"); ?>
+<?php snippet("links"); ?>
 
 <?php snippet("foot"); ?>
