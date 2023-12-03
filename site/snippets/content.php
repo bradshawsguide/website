@@ -7,10 +7,7 @@
     } ?>
 
     <?php if ($content = $content ?? $page->text()) {
-        snippet("scope/prose", [
-            "content" => $content,
-            "proseModifiers" => $proseModifiers ?? null,
-        ]);
+        snippet("scope/prose", compact("content"));
     } ?>
 
     <?php if (!isset($editable) && $page->gitUrl()) {

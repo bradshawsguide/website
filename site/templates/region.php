@@ -9,9 +9,7 @@
 ]); ?>
 
 <?php if ($page->text()->isNotEmpty()) {
-    snippet("content", [
-        "proseModifiers" => ["centered"],
-    ]);
+    snippet("content");
 } ?>
 
 <?php if ($page->uid() != "channel-islands") {

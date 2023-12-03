@@ -17,9 +17,7 @@
     "subtitle" => $page->subtitle()->isNotEmpty() ? $page->subtitle() : null,
 ]); ?>
 
-<?php snippet("content", [
-    "proseModifiers" => ["route"],
-]); ?>
+<?php snippet("content"); ?>
 
 <?php if ($page->links()->isNotEmpty()) {
     snippet("links");

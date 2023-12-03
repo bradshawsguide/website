@@ -5,7 +5,8 @@
   font: var(--font-caption);
   padding-block: var(--space-l);
 
-  .s-prose--centered + & {
+  [data-template="region"] &,
+  [data-template="routes"] & {
     text-align: center;
   }
 }

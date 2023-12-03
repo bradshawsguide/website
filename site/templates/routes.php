@@ -29,7 +29,6 @@ if ($section == null || get("view") == null) {
     "content" => collection("sections")
         ->findBy("uid", $section)
         ->text(),
-    "proseModifiers" => ["centered"],
     "editable" => false,
 ]); ?>
 

@@ -150,52 +150,53 @@
   & .footnotes {
     font: var(--font-caption);
   }
-}
 
-.s-prose--centered {
-  & > *:not(figure) {
-    margin-inline: auto;
-  }
-}
-
-.s-prose--route {
-  border-inline-start: 0.25rem solid var(--color-neutral-light);
-  padding-inline-start: var(--space-m);
-  position: relative;
-
-  /* Termini */
-  &::before,
-  &::after {
-    background-color: var(--color-neutral-light);
-    block-size: 0.25rem;
-    content: "";
-    display: block;
-    inline-size: var(--space-m);
-    inset-inline-start: -0.625rem;
-    position: absolute;
+  [data-template="region"] &,
+  [data-template="routes"] & {
+    & > * {
+      margin-inline: auto;
+    }
   }
 
-  /* ┳ */
-  &::before {
-    inset-block-start: 0;
-  }
+  [data-template="route"] & {
+    border-inline-start: 0.25rem solid var(--color-neutral-light);
+    padding-inline-start: var(--space-m);
+    position: relative;
 
-  /* ┻ */
-  &::after {
-    inset-block-end: 0;
-    margin-block-end: -0.25rem;
-  }
-
-  & .c-place {
-    &::before {
+    /* Termini */
+    &::before,
+    &::after {
       background-color: var(--color-neutral-light);
       block-size: 0.25rem;
       content: "";
       display: block;
       inline-size: var(--space-m);
-      inset-block-start: var(--space-l);
-      inset-inline-start: calc(var(--space-m) * -1);
+      inset-inline-start: -0.625rem;
       position: absolute;
+    }
+
+    /* ┳ */
+    &::before {
+      inset-block-start: 0;
+    }
+
+    /* ┻ */
+    &::after {
+      inset-block-end: 0;
+      margin-block-end: -0.25rem;
+    }
+
+    & .c-place {
+      &::before {
+        background-color: var(--color-neutral-light);
+        block-size: 0.25rem;
+        content: "";
+        display: block;
+        inline-size: var(--space-m);
+        inset-block-start: var(--space-l);
+        inset-inline-start: calc(var(--space-m) * -1);
+        position: absolute;
+      }
     }
   }
 }
