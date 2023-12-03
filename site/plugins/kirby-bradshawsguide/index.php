@@ -7,6 +7,7 @@ Kirby::plugin("bradshawsguide/kirby", [
         "template" => require_once __DIR__ . "/components/template.php",
     ],
     "pageMethods" => [
+        "gitUrl" => require_once __DIR__ . "/page-methods/git-url.php",
         "shortTitle" => require_once __DIR__ . "/page-methods/short-title.php",
     ],
     "tags" => [
