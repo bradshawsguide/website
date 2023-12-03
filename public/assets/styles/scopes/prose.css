@@ -1,7 +1,6 @@
 .s-prose {
   font: var(--font-body);
   font-variant: common-ligatures lining-nums;
-  hanging-punctuation: first;
   hyphens: auto;
   letter-spacing: 0.005em;
 

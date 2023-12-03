@@ -1,5 +1,6 @@
-/**
+/*
  * Text-level semantics
+ * ====================
  * https://w3c.github.io/html/textlevel-semantics
  */
 
@@ -7,7 +8,7 @@ a {
   color: var(--color-link);
   text-decoration: var(--link-decoration, underline);
 
-  a[aria-current] {
+  &[aria-current] {
     font-weight: bold;
   }
 
@@ -21,12 +22,10 @@ a {
   }
 }
 
-/* Reset font size for smallprint/legal text */
 small {
   font-size: 100%;
 }
 
-/* Correct text decoration in Chrome/Edge/IE/Opera/Safari */
 abbr[title] {
   text-decoration: none;
 }
@@ -41,9 +40,9 @@ sup {
 }
 
 sub {
-  bottom: -0.25em;
+  inset-block-end: -0.25em;
 }
 
 sup {
-  top: -0.5em;
+  inset-block-start: -0.5em;
 }

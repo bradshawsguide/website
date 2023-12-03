@@ -1,32 +1,3 @@
-.c-page {
-  background-color: var(--color-neutral-lightest);
-  background-image: url("/assets/vectors/page.svg");
-  background-repeat: repeat;
-  background-size: 8rem;
-  display: flex;
-  flex: 1 0 auto;
-  flex-direction: column;
-  padding-inline: var(--page-gutter);
-  position: relative;
-
-  &::after {
-    block-size: 5px;
-    box-shadow:
-      inset 0 -1px var(--color-neutral-light),
-      inset 0 -2px var(--color-neutral-lightest),
-      inset 0 -3px var(--color-neutral-light),
-      inset 0 -4px var(--color-neutral-lightest),
-      inset 0 -5px var(--color-neutral-light),
-      inset 0 -6px var(--color-neutral-lightest);
-    content: "";
-    display: block;
-    inline-size: 100%;
-    inset-block-end: 0;
-    inset-inline: 0;
-    position: absolute;
-  }
-}
-
 .c-page__content {
   margin-block-end: var(--gap-y);
 }

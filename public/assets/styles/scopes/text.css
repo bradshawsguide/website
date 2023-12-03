@@ -1,7 +1,6 @@
 .s-text {
   font: var(--font-meta);
   font-variant: common-ligatures lining-nums;
-  hanging-punctuation: first;
   hyphens: auto;
   max-inline-size: 70ch;
   word-break: break-word;

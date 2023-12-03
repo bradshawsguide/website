@@ -19,6 +19,8 @@
   & button,
   & ::part(button) {
     align-items: center;
+    background: none;
+    border: 0;
     border-inline-start: var(--line-solid);
     display: flex;
     font: var(--font-label);

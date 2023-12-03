@@ -1,19 +1,21 @@
-/**
+/*
  * Sections
- * https://w3c.github.io/html/sections
+ * ========
+ * https://html.spec.whatwg.org/#sections
  */
 
-/* 1. Prevent font size adjustment on orientation change in iOS. */
-html {
-  height: 100%;
-  position: relative;
-  text-size-adjust: 100%; /* 1 */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
-*,
-::before,
-::after {
-  box-sizing: border-box;
+html {
+  text-size-adjust: none;
+
+  &:focus-within {
+    scroll-behavior: smooth;
+  }
 }
 
 ::selection {
@@ -22,11 +24,11 @@ html {
 
 body {
   background-color: var(--color-neutral-darkest);
+  block-size: 100dvh;
   color: var(--color-neutral-darkest);
   display: flex;
   flex-direction: column;
   font-family: var(--font-family-sans);
-  height: 100%;
   margin: 0;
 
   &:has(dialog#navigation[open]) {
@@ -40,8 +42,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-size: inherit;
-  font-weight: inherit;
+  break-after: avoid;
+  font: inherit;
+  hanging-punctuation: first;
   margin: 0;
   text-rendering: optimizelegibility;
 
