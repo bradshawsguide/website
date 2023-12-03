@@ -4,50 +4,38 @@
   hyphens: auto;
   letter-spacing: 0.005em;
 
-  & > *:not(.c-figure) {
-    max-inline-size: 60ch;
+  & > * + * {
+    margin-block-start: var(--prose-flow-space, 0.75em);
   }
 
-  & p + p {
-    text-indent: var(--text-indent);
-  }
-
-  & * + h2 {
-    margin-block-start: var(--space-xl);
+  & > *:not(figure) {
+    max-inline-size: 65ch;
   }
 
   & h2 {
-    display: flex;
     font: var(--font-subhead);
-    margin-block-end: var(--space-xs);
+    margin-block-start: var(--space-xl);
 
     &::after {
       content: ".";
+      margin-inline-start: -0.25em;
     }
   }
 
   & h3 {
     font: var(--font-subhead);
     font-variant-caps: all-small-caps;
-    margin-block: var(--space-l) var(--space-2xs);
-    opacity: 0.8;
-  }
-
-  & h2 + h3 {
-    margin-block-start: var(--space-xs);
   }
 
   & h4 {
     font-style: italic;
-    margin-block-start: var(--space-xs);
     text-align: center;
   }
 
   & hr {
-    block-size: 2px;
     border: 0;
-    border-block: var(--line-solid);
-    margin: 1.5rem;
+    border-block-start: var(--line-double);
+    margin: var(--space-xl);
   }
 
   & a {
@@ -56,11 +44,6 @@
     &[href^="/stations/"] {
       font-variant-caps: small-caps;
     }
-  }
-
-  & cite,
-  & em {
-    line-height: 0;
   }
 
   & strong {
@@ -72,8 +55,7 @@
   }
 
   & ul li {
-    margin-left: var(--text-indent);
-    text-indent: -1em;
+    margin-inline-start: var(--text-indent);
 
     &::before {
       content: "—\2009"; /* EM DASH + THIN SPACE */
@@ -81,36 +63,28 @@
   }
 
   & blockquote {
-    font-size: 85%;
+    font-size: var(--font-size-s);
     line-height: var(--line-height-loose);
-    margin-block: var(--space-l);
     margin-inline: 10%;
+    quotes: "“" "”";
+
+    & p:first-child::before {
+      content: open-quote;
+    }
 
     & hr {
       border: 0;
-      margin-block: var(--space-s);
-      margin-inline: 0;
+      margin-block: 0;
 
       &::after {
         content: "\00A0 ∗ ∗ ∗ ∗ ";
-        display: block;
         letter-spacing: 1.5em;
-        line-height: 0;
       }
-    }
-
-    & p {
-      text-indent: 0;
-      white-space: pre-wrap;
-    }
-
-    & br {
-      display: none;
     }
 
     & + p > cite {
       display: block;
-      font-size: 75%;
+      font-size: var(--font-size-s);
       font-style: normal;
       font-variant-caps: small-caps;
       margin-block: calc(var(--space-s) * -1) var(--space-m);
@@ -120,45 +94,16 @@
         content: "— ";
       }
     }
-
-    & > :first-child::before,
-    & > :last-child::after {
-      display: inline-block;
-      font-size: 125%;
-      inline-size: 0.75rem;
-      inset-block-start: 0.25rem;
-      line-height: 0;
-      position: relative;
-    }
-
-    & > :first-child::before {
-      content: "“";
-      margin-left: -0.75rem;
-    }
-
-    & > :last-child::after {
-      content: "”";
-      text-align: right;
-    }
-  }
-
-  & dt {
-    font-weight: 700;
-  }
-
-  & dd {
-    margin-left: var(--text-indent);
   }
 
   & small {
-    font-size: 75%;
+    font-size: 85%;
   }
 
   & table {
     font-size: 85%;
     font-variant-numeric: lining-nums tabular-nums;
     line-height: var(--line-height-tight);
-    margin-block-end: var(--space-s);
   }
 
   & th,
@@ -190,15 +135,15 @@
   }
 
   & .smcp {
-    font-feature-settings: "smcp" on;
+    font-variant-caps: small-caps;
   }
 
   & .frac-nom {
-    margin-right: 0.05em;
+    margin-inline-end: 0.05em;
   }
 
   & .frac-denom {
-    margin-left: 0.05em;
+    margin-inline-start: 0.05em;
   }
 
   /* Footnotes */
@@ -208,20 +153,20 @@
 }
 
 .s-prose--centered {
-  & > *:not(.c-figure) {
-    margin: 0 auto;
+  & > *:not(figure) {
+    margin-inline: auto;
   }
 }
 
 .s-prose--route {
-  border-inline-start: 0.25rem solid var(--color-neutral-lighter);
+  border-inline-start: 0.25rem solid var(--color-neutral-light);
   padding-inline-start: var(--space-m);
   position: relative;
 
   /* Termini */
   &::before,
   &::after {
-    background-color: var(--color-neutral-lighter);
+    background-color: var(--color-neutral-light);
     block-size: 0.25rem;
     content: "";
     display: block;
@@ -237,18 +182,13 @@
 
   /* ┻ */
   &::after {
-    bottom: 0;
+    inset-block-end: 0;
     margin-block-end: -0.25rem;
-  }
-
-  & p + p {
-    margin-block-start: var(--space-s);
-    text-indent: 0;
   }
 
   & .c-place {
     &::before {
-      background-color: var(--color-neutral-lighter);
+      background-color: var(--color-neutral-light);
       block-size: 0.25rem;
       content: "";
       display: block;

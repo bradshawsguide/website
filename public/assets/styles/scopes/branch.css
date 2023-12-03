@@ -1,5 +1,5 @@
 .s-branch {
-  border-inline-start: 0.25rem solid var(--color-neutral-lighter);
+  border-inline-start: 0.25rem solid var(--color-neutral-light);
   margin-block: var(--space-l);
   padding-inline-start: var(--space-m);
   position: relative;
@@ -23,7 +23,7 @@
 
   /* Terminus */
   &::after {
-    background-color: var(--color-neutral-lighter);
+    background-color: var(--color-neutral-light);
     block-size: 0.25rem;
     inline-size: var(--space-m);
     inset-block-end: 0;

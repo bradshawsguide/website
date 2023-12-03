@@ -6,7 +6,7 @@
 
   &::before {
     block-size: 1.5rem;
-    border: 0 solid var(--color-neutral-lighter);
+    border: 0 solid var(--color-neutral-light);
     border-block-end-width: 0.25rem;
     border-end-start-radius: 1rem;
     border-inline-start-width: 0.25rem;

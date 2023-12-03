@@ -53,7 +53,7 @@
     var(--font-family-serif);
   --font-heading: var(--font-size-2xl) / var(--line-height-condensed)
     var(--font-family-block);
-  --font-subhead: bold var(--font-size-l) / var(--line-height-solid)
+  --font-subhead: bold var(--font-size-l) / var(--line-height-tight)
     var(--font-family-slab);
   --font-body: normal var(--font-size-m) / var(--line-height-relaxed)
     var(--font-family-serif);
