@@ -1,5 +1,7 @@
 # Bradshaw’s Guide For Tourists in Great Britain & Ireland
 
+<img src="https://github.com/bradshawsguide.png?s=200" width="100" height="100" align="right" alt="Bradshaw’s Guide logo.">
+
 _Let this digital revival of a Victorian favourite be your guide to Britain and Ireland’s burgeoning railway network, as it existed in 1866._
 
 ## Installation
