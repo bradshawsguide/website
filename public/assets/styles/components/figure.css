@@ -10,8 +10,6 @@
   }
 
   &[data-display="cover"] {
-    margin-inline: calc(var(--page-gutter) * -1);
-
     & img {
       --banner-height: 5rem;
 

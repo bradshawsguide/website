@@ -16,13 +16,13 @@
             "display" => "columns",
         ]); ?>
     <?php endif; ?>
-<?php endsnippet(); ?>
 
-<?php snippet("collection", [
-    "title" => "Featured places",
-    "items" => $page->featured(),
-    "component" => "feature",
-    "display" => "grid",
-]); ?>
+    <?php snippet("collection", [
+        "title" => "Featured places",
+        "items" => $page->featured(),
+        "component" => "feature",
+        "display" => "grid",
+    ]); ?>
+<?php endsnippet(); ?>
 
 <?php snippet("foot"); ?>

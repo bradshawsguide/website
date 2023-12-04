@@ -38,7 +38,6 @@ main {
   display: flex;
   flex: 1 0 auto;
   flex-direction: column;
-  padding-inline: var(--page-gutter);
   position: relative;
 
   &::after {

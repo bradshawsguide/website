@@ -1,4 +1,5 @@
 .c-content {
+  margin-inline: var(--page-gutter);
   padding-block: var(--gap-y);
 
   & > * + * {

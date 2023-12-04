@@ -70,7 +70,7 @@
     background: linear-gradient(var(--color-neutral-lighter) 90%, transparent);
     box-shadow: 0 -1px 0 var(--color-neutral-dark-alpha);
     margin-inline: calc(var(--page-gutter) * -1);
-    padding-block-start: var(--gap-y);
+    padding-block: var(--gap-y);
     padding-inline: var(--page-gutter);
   }
 

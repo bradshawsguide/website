@@ -24,15 +24,15 @@
     ]); ?>
 
     <?php snippet("links"); ?>
-<?php endsnippet(); ?>
 
-<?php if ($page->place()->isNotEmpty()) {
-    snippet("collection", [
-        "title" => "Places nearby",
-        "items" => [$page->place()->toPage()],
-        "component" => "feature",
-        "display" => "grid",
-    ]);
-} ?>
+    <?php if ($page->place()->isNotEmpty()) {
+        snippet("collection", [
+            "title" => "Places nearby",
+            "items" => [$page->place()->toPage()],
+            "component" => "feature",
+            "display" => "grid",
+        ]);
+    } ?>
+<?php endsnippet(); ?>
 
 <?php snippet("foot"); ?>

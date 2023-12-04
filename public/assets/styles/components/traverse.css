@@ -4,7 +4,6 @@
 
   background-color: var(--color-neutral-lighter);
   color: var(--color-neutral-mid);
-  margin: 0 calc(var(--page-gutter) * -1);
   position: relative;
   z-index: 1;
 

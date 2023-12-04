@@ -2,6 +2,5 @@
   align-self: stretch;
   block-size: 60vh;
   box-shadow: 0 0 0 1px var(--color-neutral-dark-alpha);
-  inline-size: 100vw;
-  margin-inline: calc(var(--page-gutter) * -1);
+  inline-size: 100%;
 }

@@ -55,7 +55,6 @@
 
   &[style*="--background"] {
     background-color: var(--color-neutral-lighter);
-    margin-inline: calc(var(--page-gutter) * -1);
     padding-inline: calc(var(--page-gutter) - var(--space-m));
 
     @media (--from-m) {
