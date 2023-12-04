@@ -52,29 +52,21 @@ if ($section == null || get("view") == null) {
                 "title" => "Routes plotted on a map",
             ]); ?>
         <?php else: ?>
-            <?php
-            $items = $featured->filterBy("section", $section);
-            if (size($items)): ?>
-                <?php snippet("collection", [
-                    "title" => "Featured routes",
-                    "items" => $items,
-                    "component" => "feature",
-                    "display" => "grid",
-                ]); ?>
-            <?php endif;
-            ?>
+            <?php snippet("collection", [
+                "title" => "Featured routes",
+                "items" => $featured->filterBy("section", $section),
+                "component" => "feature",
+                "display" => "grid",
+            ]); ?>
 
             <?php foreach ($companies as $company): ?>
-                <?php
-                $items = $company->routes()->filterBy("section", $section);
-                if (size($items)): ?>
-                    <?php snippet("collection", [
-                        "title" => Html::a($company->url(), $company->title()),
-                        "items" => $items,
-                        "component" => "route-item",
-                    ]); ?>
-                <?php endif;
-                ?>
+                <?php snippet("collection", [
+                    "title" => Html::a($company->url(), $company->title()),
+                    "items" => $company
+                        ->routes()
+                        ->filterBy("section", $section),
+                    "component" => "route-item",
+                ]); ?>
             <?php endforeach; ?>
         <?php endif; ?>
     <?php endif; ?>

@@ -8,13 +8,11 @@
 
 <?php snippet("content"); ?>
 
-<?php if (size($page->nearby())) {
-    snippet("collection", [
-        "title" => "Places nearby",
-        "items" => $page->nearby(),
-        "component" => "feature",
-        "display" => "grid",
-    ]);
-} ?>
+<?php snippet("collection", [
+    "title" => "Places nearby",
+    "items" => $page->nearby(),
+    "component" => "feature",
+    "display" => "grid",
+]); ?>
 
 <?php snippet("foot"); ?>

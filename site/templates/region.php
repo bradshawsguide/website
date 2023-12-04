@@ -10,23 +10,19 @@
     slots: true
 ); ?>
     <?php if ($page->uid() != "channel-islands"): ?>
-        <?php if (size($page->children())): ?>
-            <?php snippet("collection", [
-                "title" => $page->listTitle(),
-                "items" => $page->children(),
-                "display" => "columns",
-            ]); ?>
-        <?php endif; ?>
+        <?php snippet("collection", [
+            "title" => $page->listTitle(),
+            "items" => $page->children(),
+            "display" => "columns",
+        ]); ?>
     <?php endif; ?>
 <?php endsnippet(); ?>
 
-<?php if (size($page->featured())) {
-    snippet("collection", [
-        "title" => "Featured places",
-        "items" => $page->featured(),
-        "component" => "feature",
-        "display" => "grid",
-    ]);
-} ?>
+<?php snippet("collection", [
+    "title" => "Featured places",
+    "items" => $page->featured(),
+    "component" => "feature",
+    "display" => "grid",
+]); ?>
 
 <?php snippet("foot"); ?>
