@@ -1,27 +1,31 @@
 <?php snippet("head"); ?>
 
-<?php snippet("header", compact("title")); ?>
-
-<?php if (size($results)) {
-    snippet("collection", [
-        "title" => "{$results->pagination()->total()} pages found",
-        "items" => $results,
-        "component" => "result",
-    ]);
-
-    if ($results->pagination()->hasPages()) {
-        snippet("pagination", [
-            "pagination" => $results->pagination(),
-        ]);
-    }
-} else {
-    snippet("content", [
+<?php snippet(
+    "content",
+    [
+        "content" => !size($results) ? $page->text() : "",
         "editable" => false,
-    ]);
-    snippet("inquire", [
-        "title" => "Search again",
-        "background" => null,
-    ]);
-} ?>
+        "title" => $title,
+    ],
+    slots: true
+); ?>
+    <?php if (size($results)): ?>
+        <?php snippet("collection", [
+            "title" => "{$results->pagination()->total()} pages found",
+            "items" => $results,
+            "component" => "result",
+        ]); ?>
+        <?php if ($results->pagination()->hasPages()): ?>
+            <?php snippet("pagination", [
+                "pagination" => $results->pagination(),
+            ]); ?>
+        <?php endif; ?>
+    <?php else: ?>
+        <?php snippet("inquire", [
+            "title" => "Search again",
+            "background" => null,
+        ]); ?>
+    <?php endif; ?>
+<?php endsnippet(); ?>
 
 <?php snippet("foot"); ?>

@@ -6,12 +6,6 @@
     snippet("figure", compact("image"));
 } ?>
 
-<?php snippet("header", [
-    "parent" => Html::a($page->parent()->url(), $page->parent()->title()),
-    "title" => $page->title(),
-    "subtitle" => $page->subtitle(),
-]); ?>
-
 <?php snippet("content"); ?>
 
 <?php if (size($page->nearby())) {

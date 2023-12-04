@@ -2,25 +2,23 @@
 
 <?php snippet("traverse"); ?>
 
-<?php snippet("header", [
-    "pretitle" => "A descriptive guide to",
-    "title" => $page->title(),
-    "modifiers" => ["index"],
-]); ?>
-
-<?php if ($page->text()->isNotEmpty()) {
-    snippet("content");
-} ?>
-
-<?php if ($page->uid() != "channel-islands") {
-    if (size($page->children())) {
-        snippet("collection", [
-            "title" => $page->listTitle(),
-            "items" => $page->children(),
-            "display" => "columns",
-        ]);
-    }
-} ?>
+<?php snippet(
+    "content",
+    [
+        "pretitle" => "A descriptive guide to",
+    ],
+    slots: true
+); ?>
+    <?php if ($page->uid() != "channel-islands"): ?>
+        <?php if (size($page->children())): ?>
+            <?php snippet("collection", [
+                "title" => $page->listTitle(),
+                "items" => $page->children(),
+                "display" => "columns",
+            ]); ?>
+        <?php endif; ?>
+    <?php endif; ?>
+<?php endsnippet(); ?>
 
 <?php if (size($page->featured())) {
     snippet("collection", [

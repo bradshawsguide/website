@@ -1,3 +1,7 @@
 .c-content {
-  margin-block-end: var(--gap-y);
+  padding-block: var(--gap-y);
+
+  & > * + * {
+    margin-block-start: var(--gap-y);
+  }
 }

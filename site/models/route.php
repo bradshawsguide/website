@@ -3,7 +3,7 @@
 class RoutePage extends Kirby\Cms\Page
 {
     // Return subtitle
-    public function operator()
+    public function operators()
     {
         $companies = [];
 
@@ -15,12 +15,12 @@ class RoutePage extends Kirby\Cms\Page
 
         // If route jointly operated, show links to both companies
         if (size($companies) > 1) {
-            $operator = implode(" & ", $companies) . " (Joint)";
+            $operators = implode(" & ", $companies) . " (Joint)";
         } else {
-            $operator = $companies[0];
+            $operators = $companies[0];
         }
 
-        return $operator;
+        return $operators;
     }
 
     // Return `line` name if exists, else defer to company title

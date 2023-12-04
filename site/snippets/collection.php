@@ -1,7 +1,5 @@
 <article class="c-collection" data-display="<?= $display ?? "list" ?>">
-    <?php if ($header = $slots->header()): ?>
-        <?= $header ?>
-    <?php elseif (isset($title)): ?>
+    <?php if (isset($title)): ?>
         <h2><?= $title ?></h2>
     <?php endif; ?>
 

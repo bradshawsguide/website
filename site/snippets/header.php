@@ -1,12 +1,13 @@
-<header class="<?= classList("c-header", $modifiers ?? null) ?>">
-<?php if (isset($parent)): ?>
-    <nav><?= $parent ?></nav>
-<?php endif; ?>
+<header class="c-header">
+    <?php if (!$pretitle): ?>
+        <nav><?= $nav ?></nav>
+    <?php endif; ?>
+
     <h<?= $level ?? 1 ?>>
-        <?= isset($pretitle) ? Html::tag("span", $pretitle) : "" ?>
-        <?= isset($title) ? kti($title) : kti($page->title()) ?>
+        <?= $pretitle ? Html::tag("span", $pretitle) : "" ?>
+        <?= kti($title) ?>
     </h<?= $level ?? 1 ?>>
-<?php if (isset($subtitle)): ?>
-    <p><?= $subtitle ?></p>
-<?php endif; ?>
+    <?php if ($subtitle = $subtitle ?? $page->subtitle()): ?>
+        <p><?= $subtitle ?></p>
+    <?php endif; ?>
 </header>

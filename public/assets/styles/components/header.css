@@ -1,11 +1,5 @@
 .c-header {
-  margin-inline: calc(var(--page-gutter) * -1);
-  padding-block: var(--gap-y);
-  padding-inline: var(--page-gutter);
-
-  &.c-header--index {
-    text-align: center;
-  }
+  padding-block-start: var(--space-l);
 
   & nav {
     font: var(--font-label);
@@ -19,10 +13,6 @@
 
     font: var(--font-title);
     margin-block-end: var(--space-2xs);
-
-    .c-header--index & {
-      font: var(--font-headline);
-    }
   }
 
   & h1 span {
@@ -34,13 +24,25 @@
   }
 
   & p {
-    color: var(--color-neutral-dark);
-    font: var(--font-label);
+    font: var(--font-body);
+    font-variant-caps: all-small-caps;
+    line-height: var(--line-height-solid);
+  }
 
-    .c-header--index & {
-      font: var(--font-body);
-      font-variant-caps: all-small-caps;
-      line-height: var(--line-height-solid);
+  [data-template="companies"] &,
+  [data-template="home"] &,
+  [data-template="places"] &,
+  [data-template="region"] &,
+  [data-template="routes"] &,
+  [data-template="stations"] & {
+    & h1,
+    & h2 {
+      font: var(--font-headline);
+      text-align: center;
+    }
+
+    & p {
+      text-align: center;
     }
   }
 }

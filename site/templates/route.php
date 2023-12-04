@@ -11,16 +11,10 @@
     ]);
 } ?>
 
-<?php snippet("header", [
-    "parent" => $page->operator(),
-    "title" => $page->title(),
-    "subtitle" => $page->subtitle()->isNotEmpty() ? $page->subtitle() : null,
-]); ?>
-
-<?php snippet("content"); ?>
-
-<?php if ($page->links()->isNotEmpty()) {
-    snippet("links");
-} ?>
+<?php snippet("content", slots: true); ?>
+    <?php if ($page->links()->isNotEmpty()) {
+        snippet("links");
+    } ?>
+<?php endsnippet(); ?>
 
 <?php snippet("foot"); ?>
