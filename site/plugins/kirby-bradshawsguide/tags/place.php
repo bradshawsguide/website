@@ -3,11 +3,11 @@
 return [
     "attr" => ["suffix"],
     "html" => function ($tag) {
-        if ($place = page("places/" . $tag->value())) {
+        if ($item = page("places/" . $tag->value())) {
             return snippet(
-                "place",
+                "feature",
                 [
-                    "place" => $place,
+                    "item" => $item,
                     "suffix" => $tag->suffix(),
                 ],
                 true

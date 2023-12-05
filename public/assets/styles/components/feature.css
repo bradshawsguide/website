@@ -1,4 +1,9 @@
 .c-feature {
+  display: flex;
+  position: relative;
+}
+
+.c-feature__container {
   --card-growth: var(--space-2xs);
   --link-decoration: none;
 
@@ -9,29 +14,24 @@
   flex-direction: column;
   outline: var(--line-solid);
   overflow: hidden;
-  position: relative;
   transition-duration: 0.15s;
   transition-property: box-shadow, margin, padding;
+  z-index: var(--z-index-default);
 
   &:hover,
   &:has(:focus-visible) {
     box-shadow: var(--drop-shadow-deep);
-    margin: calc(var(--card-growth) * -1);
+    margin-block: calc(var(--card-growth) * -1);
+    margin-inline: calc(var(--card-growth) * -1);
     overflow: visible;
     padding: var(--card-growth);
   }
 
-  & header {
-    display: flex;
-    flex-direction: column-reverse;
+  & h3 {
+    font: var(--font-subhead);
+    letter-spacing: 0.05em;
     padding: var(--space-s);
-    padding-bottom: 0;
-
-    & h3 {
-      font: var(--font-subhead);
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-    }
+    text-transform: uppercase;
 
     & span {
       all: initial;
@@ -39,7 +39,6 @@
       display: block;
       font: var(--font-meta);
       font-style: italic;
-      margin-block: var(--space-2xs);
     }
 
     & a {
@@ -54,7 +53,7 @@
       }
 
       &:focus::before {
-        outline: 0.125em solid var(--focus-outline-color);
+        outline: 0.25em solid var(--focus-outline-color);
         outline-offset: 0;
       }
     }
@@ -70,5 +69,6 @@
   & .s-text {
     color: var(--color-neutral-dark);
     padding: var(--space-s);
+    padding-block-start: 0;
   }
 }

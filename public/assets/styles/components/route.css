@@ -1,27 +1,19 @@
 .c-route {
-  margin-block: var(--space-m);
-  outline: var(--line-solid);
-  padding: var(--space-s);
   position: relative;
 
+  /* ↳ */
   &::before {
     block-size: 1.5rem;
     border: 0 solid var(--color-neutral-light);
     border-block-end-width: 0.25rem;
-    border-end-start-radius: 1rem;
+    border-end-start-radius: 1.5rem;
     border-inline-start-width: 0.25rem;
     content: "";
     display: block;
-    inline-size: 1.25rem;
-    inset-block-start: 0;
-    inset-inline-start: -20px;
+    inline-size: 1.5rem;
+    inset-block-start: -0.5em;
+    inset-inline-start: -28px;
     position: absolute;
-  }
-
-  & h3 {
-    font: var(--font-subhead);
-    letter-spacing: 0.025em;
-    margin-block-start: 0 !important;
   }
 
   & a {
@@ -30,18 +22,6 @@
     align-items: center;
     display: flex;
     gap: var(--space-2xs);
-
-    &::before {
-      content: "";
-      display: block;
-      inset: 0;
-      position: absolute;
-      z-index: 1;
-    }
-
-    &:focus::before {
-      outline: 0.125em solid var(--focus-outline-color);
-    }
   }
 
   & b-icon {

@@ -25,6 +25,7 @@
   & h3 {
     font: var(--font-subhead);
     font-variant-caps: all-small-caps;
+    letter-spacing: 0.025em;
   }
 
   & h4 {
@@ -159,8 +160,11 @@
   }
 
   [data-template="route"] & {
+    --prose-flow-space: 1.5em;
+
     border-inline-start: 0.25rem solid var(--color-neutral-light);
-    padding-inline-start: var(--space-m);
+    padding-block-end: var(--space-s);
+    padding-inline-start: var(--space-l);
     position: relative;
 
     /* Termini */
@@ -186,14 +190,16 @@
       margin-block-end: -0.25rem;
     }
 
-    & .c-place {
+    & .c-feature {
+      margin-inline: calc(var(--space-s) * -1);
+
       &::before {
         background-color: var(--color-neutral-light);
         block-size: 0.25rem;
         content: "";
         display: block;
-        inline-size: var(--space-m);
-        inset-block-start: var(--space-l);
+        inline-size: var(--space-l);
+        inset-block-start: var(--space-m);
         inset-inline-start: calc(var(--space-m) * -1);
         position: absolute;
       }
