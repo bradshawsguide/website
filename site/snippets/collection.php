@@ -10,9 +10,12 @@
                     <?php if (isset($component)): ?>
                         <?= snippet($component, ["item" => $item]) ?>
                     <?php else: ?>
-                        <a href="<?= $item->url() ?>"><?= kti(
-    $item->title()
-) ?></a>
+                        <a href="<?= $item->url() ?>">
+                            <?= kti($item->title()) ?>
+                        </a>
+                        <?php if ($item->subtitle()->isNotEmpty()): ?>
+                            <span><?= $item->subtitle() ?></span>
+                        <?php endif; ?>
                     <?php endif; ?>
                 </li>
             <?php endforeach; ?>

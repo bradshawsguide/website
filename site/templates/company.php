@@ -6,7 +6,6 @@
     <?php snippet("collection", [
         "title" => "Routes operated",
         "items" => $page->routes(),
-        "component" => "route-item",
     ]); ?>
 
     <?php snippet("map", [

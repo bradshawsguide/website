@@ -59,7 +59,7 @@
     var(--font-family-serif);
   --font-meta: normal var(--font-size-s) / var(--line-height-loose)
     var(--font-family-serif);
-  --font-label: 425 var(--font-size-s) / var(--line-height-solid)
+  --font-label: 425 var(--font-size-m) / var(--line-height-solid)
     var(--font-family-sans);
   --font-caption: 400 var(--font-size-xs) / var(--line-height-loose)
     var(--font-family-sans);

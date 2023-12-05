@@ -25,14 +25,25 @@
 
   & li {
     break-inside: avoid;
-    padding-block-end: var(--space-xs);
+    display: flex;
+    flex-direction: column;
+    padding-block-end: var(--space-s);
+
+    & > a {
+      font: var(--font-label);
+      line-height: var(--line-height-loose);
+    }
+
+    & > span {
+      color: var(--color-neutral-dark);
+    }
   }
 
   &[data-display*="columns"] {
     & ul {
       column-fill: balance;
       column-gap: var(--gap-x);
-      columns: 9rem 5;
+      columns: 9rem 4;
     }
   }
 
@@ -59,7 +70,7 @@
     }
 
     & li {
-      display: flex;
+      flex-direction: row;
       max-inline-size: 45ch;
     }
   }

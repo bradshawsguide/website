@@ -65,7 +65,6 @@ if ($section == null || get("view") == null) {
                     "items" => $company
                         ->routes()
                         ->filterBy("section", $section),
-                    "component" => "route-item",
                 ]); ?>
             <?php endforeach; ?>
         <?php endif; ?>
