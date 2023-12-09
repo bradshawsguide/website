@@ -20,7 +20,7 @@ Generated assets will be saved in the `public` directory.
 This project incorporates content from [a second repo](https://github.com/bradshawsguide/content) which included as a git submodule. To update this submodule, run:
 
 ```bash
-git submodule foreach git pull origin master
+git submodule foreach git pull origin main
 ```
 
 ### Running locally
