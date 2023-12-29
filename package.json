@@ -30,10 +30,14 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite",
-    "prettier": "prettier . --write",
-    "lint:scripts": "eslint 'public/assets/**/*.js'",
-    "lint:styles": "stylelint 'public/assets/**/*.css'",
-    "lint": "npm run lint:scripts && npm run lint:styles"
+    "lint:format": "prettier . --check",
+    "lint:format:fix": "prettier . --write",
+    "lint:css": "stylelint 'public/assets/**/*.css'",
+    "lint:css:fix": "stylelint 'public/assets/**/*.css' --fix",
+    "lint:js": "eslint 'public/assets/**/*.js'",
+    "lint:js:fix": "eslint 'public/assets/**/*.js' --fix",
+    "lint": "npm run lint:format && run lint:css && npm run lint:js",
+    "lint:fix": "npm run lint:format:fix && run lint:css:fix && npm run lint:js:fix"
   },
   "dependencies": {
     "leaflet": "^1.9.0"
