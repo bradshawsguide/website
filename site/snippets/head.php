@@ -44,6 +44,5 @@
     <?php snippet("skip-link"); ?>
     <?php snippet("banner"); ?>
     <?php snippet("navigation"); ?>
-    <?php snippet("search"); ?>
 
     <main id="main">

@@ -43,14 +43,13 @@
 
   & form {
     display: flex;
+  }
 
-    & b-locate::part(label),
-    & b-visually-hidden {
-      @media (--from-m) {
-        all: initial;
-        color: inherit;
-        font-family: inherit;
-      }
+  & b-locate::part(label) {
+    @media (--from-m) {
+      all: initial;
+      color: inherit;
+      font-family: inherit;
     }
   }
 }

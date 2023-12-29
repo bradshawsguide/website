@@ -83,7 +83,7 @@
     color: var(--color-mustard);
     display: block;
     font: var(--font-heading);
-    padding-block: var(--space-xs);
+    padding: var(--space-xs);
     text-transform: uppercase;
     white-space: nowrap;
   }
@@ -112,7 +112,7 @@
     font-size: var(--font-size-l);
   }
 
-  & b-toggle::part(label),
+  & > b-toggle::part(label),
   & b-visually-hidden {
     @media (--from-m) {
       all: initial;

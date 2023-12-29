@@ -17,4 +17,6 @@
     <?php endif; ?>
 
     <b-toggle target="navigation" action="showModal" icon="menu" label="Menu"></b-toggle>
+
+    <?php snippet("search"); ?>
 </header>
