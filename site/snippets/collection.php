@@ -14,7 +14,7 @@
                             <?= kti($item->title()) ?>
                         </a>
                         <?php if ($item->subtitle()->isNotEmpty()): ?>
-                            <span><?= $item->subtitle() ?></span>
+                            <span><?= kti($item->subtitle()) ?></span>
                         <?php endif; ?>
                     <?php endif; ?>
                 </li>
