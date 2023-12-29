@@ -1,5 +1,5 @@
     </main>
 
-    <?php snippet("contentinfo") ?>
+    <?php snippet("contentinfo"); ?>
 </body>
 </html>
