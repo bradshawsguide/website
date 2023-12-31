@@ -24,6 +24,14 @@ class StationPage extends Kirby\Cms\Page
         return $location["lat"] . "," . $location["lon"];
     }
 
+    // Get the current name of the station
+    public function modernTitle(): string
+    {
+        return $this->subtitle()->isNotEmpty()
+            ? $this->subtitle()
+            : $this->title();
+    }
+
     // Trainline slug (uses current day station name stored in subtitle)
     public function trainline(): string
     {
@@ -40,10 +48,10 @@ class StationPage extends Kirby\Cms\Page
                 ? "- (wikipedia: {$this->wikipedia()})"
                 : null,
             "nationalrail" => $this->nationalrail()->isNotEmpty()
-                ? "- [{$this->title()} Station on National Rail](https://www.nationalrail.co.uk/stations/{$this->nationalrail()})"
+                ? "- [{$this->modernTitle()} Station on National Rail](https://www.nationalrail.co.uk/stations/{$this->nationalrail()})"
                 : null,
             "trainline" => $this->nationalrail()->isNotEmpty()
-                ? "- [{$this->title()} Station on Trainline](https://www.thetrainline.com/stations/{$this->trainline()})"
+                ? "- [{$this->modernTitle()} Station on Trainline](https://www.thetrainline.com/stations/{$this->trainline()})"
                 : null,
             "disused" => $this->disused()->isNotEmpty()
                 ? "- [Site record on Disused Stations](http://www.disused-stations.org.uk/{$this->disused()})"
