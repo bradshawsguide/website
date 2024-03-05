@@ -32,7 +32,7 @@ jobs:
           php_version: 8.2
           php_extensions: gd
       - name: Deploy to FTP server
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: lynx.mythic-beasts.com
           server-dir: www/bradshaws.guide/
