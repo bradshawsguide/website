@@ -14,4 +14,4 @@
         </ul>
     </nav>
 </dialog>
-<script>document.querySelector("#navigation").open = false</script>
+<script>document.querySelector("#navigation").close()</script>

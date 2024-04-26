@@ -14,4 +14,4 @@
         </form>
     </search>
 </dialog>
-<script>document.querySelector("#search").open = false</script>
+<script>document.querySelector("#search").close()</script>
