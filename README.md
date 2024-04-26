@@ -72,6 +72,7 @@ website
 ├── package.json         # NPM manifest
 ├── LICENSE              # Project license
 ├── README.md            # This file
+├── stylelint.config.js  # Stylelint configuration
 └── vite.config.js       # Vite config
 ```
 
