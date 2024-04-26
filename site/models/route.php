@@ -29,8 +29,6 @@ class RoutePage extends Kirby\Cms\Page
     {
         return $this->subtitle()->isNotEmpty()
             ? $this->subtitle()
-            : $this->company()
-                ->toPage()
-                ->title();
+            : $this->company()->toPage()->title();
     }
 }

@@ -5,10 +5,7 @@ return function () {
         return false;
     }
 
-    $src =
-        kirby()
-            ->roots()
-            ->content() . "/";
+    $src = kirby()->roots()->content() . "/";
     $href = [
         "git" => "https://github.com/bradshawsguide/content/edit/main",
         "path" => str_replace($src, "", $this->root()),

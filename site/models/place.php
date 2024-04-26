@@ -25,9 +25,7 @@ class PlacePage extends Kirby\Cms\Page
     // Return region information
     public function country()
     {
-        return $this->parent()
-            ->parent()
-            ->title();
+        return $this->parent()->parent()->title();
     }
 
     // Get nearby places (with images)

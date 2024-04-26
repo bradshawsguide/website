@@ -161,9 +161,7 @@ return [
         [
             "pattern" => "sitemap.xml",
             "action" => function () {
-                $pages = site()
-                    ->index()
-                    ->listed();
+                $pages = site()->index()->listed();
                 $ignore = kirby()->option("sitemap.ignore", ["error"]);
                 $xml = snippet("app/sitemap", compact("pages", "ignore"), true);
                 return new Response($xml, "application/xml");

@@ -15,10 +15,7 @@
         "url" =>
             $page->uri() .
             ".geojson" .
-            $kirby
-                ->request()
-                ->url()
-                ->params() .
+            $kirby->request()->url()->params() .
             "&zoom=14",
         "title" => "Location of this station",
     ]); ?>

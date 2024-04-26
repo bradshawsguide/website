@@ -18,10 +18,7 @@ return function ($site) {
 
     if ($query == true) {
         // Free text search
-        $results = $site
-            ->index()
-            ->listed()
-            ->search($query, $options);
+        $results = $site->index()->listed()->search($query, $options);
 
         $results = $results->paginate($paginate, ["method" => "query"]);
         $title = "Search results for ‘" . esc($query) . "’";

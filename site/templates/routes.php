@@ -16,9 +16,7 @@ if ($section == null || get("view") == null) {
 <?php snippet(
     "content",
     [
-        "content" => collection("sections")
-            ->findBy("uid", $section)
-            ->text(),
+        "content" => collection("sections")->findBy("uid", $section)->text(),
         "editable" => false,
     ],
     slots: true

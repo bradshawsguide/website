@@ -2,10 +2,7 @@
 
 <?php snippet("inquire", [
     "title" => "Search " . site()->title(),
-    "background" => $page
-        ->image()
-        ->thumb("cover")
-        ->url(),
+    "background" => $page->image()->thumb("cover")->url(),
 ]); ?>
 
 <?php snippet(

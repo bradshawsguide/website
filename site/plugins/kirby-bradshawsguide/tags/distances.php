@@ -9,10 +9,7 @@ return [
             "scope/distances",
             [
                 "title" => $tag->title(),
-                "distances" => $tag
-                    ->parent()
-                    ->$fieldname()
-                    ->yaml(),
+                "distances" => $tag->parent()->$fieldname()->yaml(),
             ],
             true
         );
