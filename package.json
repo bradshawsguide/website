@@ -57,10 +57,5 @@
     "vite": "^5.0.12",
     "vite-plugin-kirby": "^5.0.1",
     "vite-plugin-mkcert": "^1.17.1"
-  },
-  "prettier": {
-    "plugins": [
-      "@prettier/plugin-php"
-    ]
   }
 }

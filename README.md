@@ -70,6 +70,7 @@ website
 ├── eslint.config.js     # ESLint configuration
 ├── package-lock.json    # NPM manifest lock file
 ├── package.json         # NPM manifest
+├── prettier.config.js   # Prettier configuration
 ├── LICENSE              # Project license
 ├── README.md            # This file
 ├── stylelint.config.js  # Stylelint configuration
