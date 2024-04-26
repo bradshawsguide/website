@@ -20,7 +20,6 @@
   "support": {
     "issues": "https://github.com/bradshawsguide/website/issues"
   },
-  "minimum-stability": "beta",
   "repositories": [
     {
       "type": "path",
@@ -29,12 +28,12 @@
   ],
   "require": {
     "bradshawsguide/kirby": "*",
-    "getkirby/cms": "^4.0",
-    "getkirby/geo": "^1.0",
-    "getkirby/staticache": "^1.0",
-    "sylvainjule/locator": "^1.0",
-    "k-community/markdown-field": "dev-main",
-    "arnoson/kirby-vite": "^5.0"
+    "getkirby/cms": "^4.0.0",
+    "getkirby/geo": "^1.0.0",
+    "getkirby/staticache": "^1.0.0",
+    "sylvainjule/locator": "^1.0.0",
+    "k-community/markdown-field": "3.0.0.alpha.2",
+    "arnoson/kirby-vite": "^5.0.0"
   },
   "config": {
     "optimize-autoloader": true,
