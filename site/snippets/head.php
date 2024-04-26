@@ -2,6 +2,15 @@
 <html lang="en-gb" prefix="og: http://ogp.me/ns#">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title><?= e(
+        !$page->isHomePage(),
+        kti($page->title()) . " - " . $site->title(),
+        kti($page->title())
+    ) ?></title>
+
+    <?= vite()->js("assets/scripts/app.js", ["async" => true]) ?>
 
     <?= vite()->css("assets/styles/app.css") ?>
 
@@ -14,11 +23,8 @@
         isset($alternate)
     ): ?><link href="<?= $alternate ?>" rel="alternate" type="application/vnd.geo+json"><?php endif; ?>
 
-    <?= vite()->js("assets/scripts/app.js", ["async" => true]) ?>
-
     <meta name="referrer" content="origin">
     <meta name="robots" content="index, follow">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta property="og:url" content="<?= $page->url() ?>">
     <meta property="og:title" content="<?= kti($page->title()) ?>">
@@ -32,12 +38,6 @@
 <?php else: ?>
     <meta property="og:image" content="<?= url("/assets/icons/app.jpg") ?>">
 <?php endif; ?>
-
-    <title><?= e(
-        !$page->isHomePage(),
-        kti($page->title()) . " - " . $site->title(),
-        kti($page->title())
-    ) ?></title>
 </head>
 
 <body data-template="<?= $page->template() ?>">
