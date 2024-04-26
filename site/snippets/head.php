@@ -28,7 +28,7 @@
 
     <meta property="og:url" content="<?= $page->url() ?>">
     <meta property="og:title" content="<?= kti($page->title()) ?>">
-    <meta property="og:description" content="<?= kti(
+    <meta property="og:description" name="description" content="<?= kti(
         $page->desc()->isNotEmpty() ? $page->desc() : $site->desc()
     ) ?>">
 <?php if ($image = $page->image("cover.jpg")): ?>
