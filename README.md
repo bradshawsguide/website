@@ -67,6 +67,7 @@ website
 ├── .prettierignore      # List of files not to format with Prettier
 ├── composer.lock        # Composer manifest lock file
 ├── composer.json        # Composer manifest
+├── eslint.config.js     # ESLint configuration
 ├── package-lock.json    # NPM manifest lock file
 ├── package.json         # NPM manifest
 ├── LICENSE              # Project license
