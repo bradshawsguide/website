@@ -1,5 +1,7 @@
 <?php
 
+$kirby->response()->code(200)->type("application/geo+json");
+
 $stops = $page->stops()->yaml();
 $lineString = [];
 

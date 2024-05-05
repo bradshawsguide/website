@@ -1,5 +1,7 @@
 <?php
 
+$kirby->response()->code(200)->type("application/geo+json");
+
 // Create properties from page information
 $properties = [
     "title" => (string) $page->title(),

@@ -1,5 +1,7 @@
 <?php
 
+$kirby->response()->code(200)->type("application/geo+json");
+
 $features = [];
 
 foreach ($page->routes() as $route) {
