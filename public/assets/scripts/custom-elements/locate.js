@@ -43,7 +43,7 @@ export class LocateElement extends LitElement {
     const lat = position.coords.latitude.toFixed(4);
     const lng = position.coords.longitude.toFixed(4);
 
-    window.location.href = "/search?g=" + lat + "," + lng;
+    globalThis.location.href = "/search?g=" + lat + "," + lng;
   };
 
   #geoError = () => {
