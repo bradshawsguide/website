@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@prettier/plugin-php": "^0.22.0",
-    "eslint": "^9.0.0",
+    "eslint": "^9.13.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-unicorn": "^56.0.0",
     "eslint-plugin-wc": "^2.1.0",
