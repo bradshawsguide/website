@@ -32,14 +32,6 @@ class StationPage extends Kirby\Cms\Page
             : $this->title();
     }
 
-    // Trainline slug (uses current day station name stored in subtitle)
-    public function trainline(): string
-    {
-        return $this->subtitle()->isNotEmpty()
-            ? Str::slug($this->subtitle())
-            : $this->uid();
-    }
-
     // API consistency
     public function links()
     {
@@ -49,9 +41,6 @@ class StationPage extends Kirby\Cms\Page
                 : null,
             "nationalrail" => $this->nationalrail()->isNotEmpty()
                 ? "- [{$this->modernTitle()} Station on National Rail](https://www.nationalrail.co.uk/stations/{$this->nationalrail()})"
-                : null,
-            "trainline" => $this->nationalrail()->isNotEmpty()
-                ? "- [{$this->modernTitle()} Station on Trainline](https://www.thetrainline.com/stations/{$this->trainline()})"
                 : null,
             "disused" => $this->disused()->isNotEmpty()
                 ? "- [Site record on Disused Stations](http://www.disused-stations.org.uk/{$this->disused()})"
