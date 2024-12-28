@@ -40,6 +40,8 @@ class Indenter extends Template
 
         // Indent HTML
         if ($this->hasDefaultType() === true) {
+            // https://github.com/gajus/dindent/issues/15
+            $html = preg_replace("/à/u", "&agrave", $html);
             $html = $indenter->indent($html);
         }
 
