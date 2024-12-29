@@ -2,7 +2,6 @@
   --color-link: currentcolor;
   --color-link-hover: var(--color-mustard);
 
-  align-items: center;
   background-color: var(--color-neutral-darkest);
   color: var(--color-neutral-lighter);
   display: flex;
@@ -10,20 +9,21 @@
   font: var(--font-caption);
   gap: var(--space-s);
   padding-block: var(--space-m);
-  padding-inline: var(--page-gutter);
-  place-content: center;
+  padding-inline: calc(var(--page-gutter) - var(--space-s));
+  justify-content: space-between;
 
-  & a[rel="me"] {
+  p {
+    padding-block: var(--space-xs);
+    padding-inline: var(--space-s);
+  }
+
+  ul {
     display: flex;
-    padding: var(--space-2xs);
-  }
+    flex-wrap: wrap;
 
-  & b-icon {
-    font-size: var(--font-size-l);
-  }
-
-  & small {
-    margin-inline-end: auto;
-    text-align: center;
+    li {
+      padding-block: var(--space-xs);
+      padding-inline: var(--space-s);
+    }
   }
 }
