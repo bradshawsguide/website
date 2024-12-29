@@ -25,6 +25,10 @@ export class LocateElement extends LitElement {
   };
 
   static styles = css`
+    :host {
+      display: contents;
+    }
+
     :host button {
       align-items: center;
       background: none;
