@@ -1,5 +1,5 @@
 .c-header {
-  padding-block-start: var(--space-l);
+  padding-block: var(--space-l);
 
   & nav {
     font: var(--font-label);
