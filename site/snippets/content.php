@@ -15,6 +15,8 @@
         ]);
     } ?>
 
+    <?= $slots->beforeContent() ?>
+
     <?php if ($content = $content ?? $page->text()) {
         snippet("scope/prose", compact("content"));
     } ?>
@@ -23,5 +25,5 @@
         snippet("edit");
     } ?>
 
-    <?= $slot ?>
+    <?= $slots->default() ?>
 </article>

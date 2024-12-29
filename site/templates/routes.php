@@ -21,51 +21,55 @@ if (get("view") == null) {
     ],
     slots: true
 ); ?>
-    <?php snippet("tablist", [
-        "title" => "Sections",
-        "tabs" => collection("sections"),
-        "uid" => $section,
-        "view" => $view,
-    ]); ?>
+    <?php slot("beforeContent"); ?>
+        <?php snippet("tablist", [
+            "title" => "Sections",
+            "tabs" => collection("sections"),
+            "uid" => $section,
+            "view" => $view,
+        ]); ?>
+    <?php endslot(); ?>
 
     <?php if (size($routes)): ?>
-        <?php snippet("switch", [
-            "title" => "Change view",
-            "queryName" => "view",
-            "switches" => [
-                [
-                    "label" => "List view",
-                    "uid" => "list",
+        <?php slot(); ?>
+            <?php snippet("switch", [
+                "title" => "Change view",
+                "queryName" => "view",
+                "switches" => [
+                    [
+                        "label" => "List view",
+                        "uid" => "list",
+                    ],
+                    [
+                        "label" => "Map view",
+                        "uid" => "map",
+                    ],
                 ],
-                [
-                    "label" => "Map view",
-                    "uid" => "map",
-                ],
-            ],
-        ]); ?>
-
-        <?php if ($view == "map"): ?>
-            <?php snippet("map", [
-                "url" => "{$page->uri()}.geojson/{$kirby->request()->url()->params()}",
-                "title" => "Routes plotted on a map",
-            ]); ?>
-        <?php else: ?>
-            <?php snippet("collection", [
-                "title" => "Featured routes",
-                "items" => $featured->filterBy("section", $section),
-                "component" => "feature",
-                "display" => "grid",
             ]); ?>
 
-            <?php foreach ($companies as $company): ?>
-                <?php snippet("collection", [
-                    "title" => Html::a($company->url(), $company->title()),
-                    "items" => $company
-                        ->routes()
-                        ->filterBy("section", $section),
+            <?php if ($view == "map"): ?>
+                <?php snippet("map", [
+                    "url" => "{$page->uri()}.geojson/{$kirby->request()->url()->params()}",
+                    "title" => "Routes plotted on a map",
                 ]); ?>
-            <?php endforeach; ?>
-        <?php endif; ?>
+            <?php else: ?>
+                <?php snippet("collection", [
+                    "title" => "Featured routes",
+                    "items" => $featured->filterBy("section", $section),
+                    "component" => "feature",
+                    "display" => "grid",
+                ]); ?>
+
+                <?php foreach ($companies as $company): ?>
+                    <?php snippet("collection", [
+                        "title" => Html::a($company->url(), $company->title()),
+                        "items" => $company
+                            ->routes()
+                            ->filterBy("section", $section),
+                    ]); ?>
+                <?php endforeach; ?>
+            <?php endif; ?>
+        <?php endslot(); ?>
     <?php endif; ?>
 <?php endsnippet(); ?>
 

@@ -25,22 +25,26 @@ $tabs = array_map(function ($letter) {
 <?php snippet("head"); ?>
 
 <?php snippet("content", slots: true); ?>
-    <?php snippet("tablist", [
-        "title" => "Indices",
-        "tabs" => $tabs,
-        "uid" => $page->letter(),
-    ]); ?>
+    <?php slot("beforeContent"); ?>
+        <?php snippet("tablist", [
+            "title" => "Indices",
+            "tabs" => $tabs,
+            "uid" => $page->letter(),
+        ]); ?>
+    <?php endslot(); ?>
 
-    <?php snippet("collection", [
-        "id" => $page->letter(),
-        "items" => collection("stations")->filterBy(
-            "slug",
-            "^=",
-            $page->letter()
-        ),
-        "title" => Str::upper($page->letter()),
-        "display" => "index columns",
-    ]); ?>
+    <?php slot(); ?>
+        <?php snippet("collection", [
+            "id" => $page->letter(),
+            "items" => collection("stations")->filterBy(
+                "slug",
+                "^=",
+                $page->letter()
+            ),
+            "title" => Str::upper($page->letter()),
+            "display" => "index columns",
+        ]); ?>
+    <?php endslot(); ?>
 <?php endsnippet(); ?>
 
 <?php snippet("foot"); ?>
