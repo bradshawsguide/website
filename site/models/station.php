@@ -53,12 +53,20 @@ class StationPage extends Kirby\Cms\Page
     // Convert UIDs listed under `route:` to array of pages
     public function routes()
     {
-        // TODO: Update filter to only find routes by exact station UID in
-        // array of station UIDs. Currently Brighton and Albrighton are
-        // returned as being one in the same.
+        // Filters routes to find only those with the exact station UID in
+        // their list of stops. For example the station UID `abbey` matches
+        // on `- stations/abbey`, but not `- stations/abbey-wood`.
         return page("routes")
             ->children()
-            ->filterBy("stops", "*=", $this->uid());
+            ->filter(function ($child) {
+                if ($child->stops()->isNotEmpty()):
+                    $uid = "stations/{$this->uid()}";
+                    $regex = "/-\s" . preg_quote($uid, "/") . "(?![\w-])/";
+                    foreach ($child->stops() as $stop):
+                        return preg_match($regex, $stop);
+                    endforeach;
+                endif;
+            });
     }
 
     public function routesCount()
