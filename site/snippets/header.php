@@ -1,5 +1,5 @@
 <header class="c-header">
-    <?php if (!$pretitle): ?>
+    <?php if (!$pretitle && $nav): ?>
         <nav><?= $nav ?></nav>
     <?php endif; ?>
 
