@@ -37,7 +37,7 @@
   --font-size-l: clamp(1.125rem, 1rem + 0.625vw, 1.375rem); /* 18 → 22 */
   --font-size-xl: clamp(1.5rem, 1.25rem + 1.25vw, 2rem); /* 24 → 32 */
   --font-size-2xl: clamp(1.75rem, 1.5rem + 1.75vw, 2.5rem); /* 32 → 40 */
-  --font-size-3xl: clamp(2.5rem, 1.75rem + 3.75vw, 4rem); /* 40 → 64 */
+  --font-size-3xl: clamp(2.25rem, 1.75rem + 2.75vw, 3.5rem); /* 36 → 56 */
   --line-height-condensed: 0.9;
   --line-height-solid: 1;
   --line-height-tight: 1.25;
@@ -49,8 +49,6 @@
   /* Font styles */
   --font-headline: bold var(--font-size-3xl) / var(--line-height-solid)
     var(--font-family-slab);
-  --font-title: var(--font-size-2xl) / var(--line-height-solid)
-    var(--font-family-serif);
   --font-heading: var(--font-size-2xl) / var(--line-height-condensed)
     var(--font-family-block);
   --font-subhead: bold var(--font-size-l) / var(--line-height-tight)

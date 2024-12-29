@@ -11,7 +11,7 @@
     --color-link: var(--color-neutral-darkest);
     --link-decoration: none;
 
-    font: var(--font-title);
+    font: var(--font-headline);
     margin-block-end: var(--space-2xs);
   }
 
@@ -36,11 +36,7 @@
   [data-template="routes"] &,
   [data-template="stations"] & {
     & h1,
-    & h2 {
-      font: var(--font-headline);
-      text-align: center;
-    }
-
+    & h2,
     & p {
       text-align: center;
     }
