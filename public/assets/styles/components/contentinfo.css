@@ -8,9 +8,9 @@
   flex-flow: row wrap;
   font: var(--font-caption);
   gap: var(--space-s);
+  justify-content: space-between;
   padding-block: var(--space-m);
   padding-inline: calc(var(--page-gutter) - var(--space-s));
-  justify-content: space-between;
 
   p {
     padding-block: var(--space-xs);

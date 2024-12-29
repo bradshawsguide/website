@@ -1,6 +1,4 @@
 <header class="c-banner" id="top">
-    <b-toggle target="search" icon="search" label="Search"></b-toggle>
-
     <?php if ($page->isHomePage()): ?>
         <div>
             <h1>
@@ -16,7 +14,9 @@
         </a>
     <?php endif; ?>
 
-    <b-toggle target="navigation" action="showModal" icon="menu" label="Menu"></b-toggle>
+    <?php snippet("navigation"); ?>
+
+    <b-toggle target="search" icon="search" label="Search"></b-toggle>
 
     <?php snippet("search"); ?>
 </header>

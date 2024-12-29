@@ -4,22 +4,23 @@
   --focus-outline-offset: -0.25rem;
   --link-decoration: none;
 
+  align-items: center;
   background-color: var(--color-neutral-darkest);
   color: var(--color-neutral-lightest);
   display: grid;
-  grid-template-areas: "search masthead navigation";
+  grid-template-areas: "masthead navigation search";
   grid-template-columns: auto 1fr auto;
-  place-items: center;
+  padding-inline: calc(var(--page-gutter) - var(--space-s));
 
   &:has(h1) {
-    grid-template-areas: "search navigation" "masthead masthead";
+    grid-template-areas: "navigation search" "masthead masthead";
     grid-template-columns: auto;
   }
 
   & div {
     grid-area: masthead;
-    padding-block: 2vw 4vw;
-    padding-inline: var(--page-gutter);
+    padding-block: 3vw;
+    padding-inline: var(--space-m);
 
     @media (--from-m) {
       text-align: center;
@@ -84,18 +85,29 @@
     display: block;
     font: var(--font-heading);
     padding: var(--space-xs);
+    padding-block-end: var(--space-2xs);
     text-transform: uppercase;
     white-space: nowrap;
   }
 
   & b-toggle[target="search"] {
     grid-area: search;
-    justify-self: start;
+    justify-self: end;
   }
 
-  & b-toggle[target="navigation"] {
+  & nav {
     grid-area: navigation;
-    justify-self: end;
+    justify-self: start;
+
+    & ul {
+      display: flex;
+    }
+
+    & a {
+      display: block;
+      font: var(--font-label);
+      padding: var(--space-m);
+    }
   }
 
   & b-toggle::part(button) {
@@ -109,7 +121,7 @@
   }
 
   & b-toggle::part(icon) {
-    font-size: var(--font-size-l);
+    font-size: var(--font-size-m);
   }
 
   & > b-toggle::part(label),

@@ -1,17 +1,13 @@
-<dialog open class="c-navigation" id="navigation" aria-labelledby="navigation-title">
-    <b-toggle action="close" icon="close" label="Close menu"></b-toggle>
-    <nav class="c-navigation__container">
-        <h2 id="navigation-title">Explore <?= $site->title() ?></h2>
-        <ul>
-            <?php foreach ($site->children()->listed() as $item): ?>
-                <li>
-                    <a href="<?= $item->url() ?>"
-                        <?= ariacurrent($item->isOpen()) ?>>
-                        <?= kti($item->title()) ?>
-                    </a>
-                </li>
-            <?php endforeach; ?>
-        </ul>
-    </nav>
-</dialog>
-<script>document.querySelector("#navigation").close()</script>
+<nav class="c-navigation" aria-label="Explore <?= $site->title() ?>">
+    <ul>
+        <?php foreach (["places", "routes"] as $item): ?>
+            <li>
+                <a href="<?= $pages->find($item)->url() ?>"
+                    <?= ariacurrent($pages->find($item)->isOpen()) ?>>
+                    <?= kti($pages->find($item)->shortTitle()) ?>
+                </a>
+            </li>
+        <?php endforeach; ?>
+    </ul>
+</nav>
+

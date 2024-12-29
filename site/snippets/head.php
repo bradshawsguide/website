@@ -43,6 +43,5 @@
 <body data-template="<?= $page->template() ?>">
     <?php snippet("skip-link"); ?>
     <?php snippet("banner"); ?>
-    <?php snippet("navigation"); ?>
 
     <main id="main">

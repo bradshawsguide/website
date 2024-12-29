@@ -5,6 +5,7 @@
   color: var(--color-neutral-lightest);
   inline-size: 100dvw;
   outline: var(--line-solid);
+  padding-inline: calc(var(--page-gutter) - var(--space-s));
 
   & input {
     background: none;
@@ -30,7 +31,7 @@
 
   & b-icon,
   & ::part(icon) {
-    font-size: var(--font-size-l);
+    font-size: var(--font-size-m);
   }
 
   & b-locate[error]::part(button) {
