@@ -1,11 +1,15 @@
 <nav class="c-tablist" aria-label="<?= $title ?>">
     <ul>
         <?php foreach ($tabs as $tab):
-            $url = "{$page->url()}/{$param}:{$tab->uid()}?view={$view}"; ?>
+            if (isset($view)):
+                $url = "{$page->url()}/{$tab->uid()}?view={$view}";
+            else:
+                $url = "{$page->url()}/{$tab->uid()}";
+            endif; ?>
             <li>
                 <a href="<?= $url ?>"
                     aria-label="<?= $tab->label() ?>"
-                    <?= ariacurrent($tab->uid() == param($param)) ?>>
+                    <?= ariacurrent($tab->uid() == $uid) ?>>
                     <?= $tab->title() ?>
                 </a>
             </li>

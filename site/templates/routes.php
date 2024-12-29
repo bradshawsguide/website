@@ -1,11 +1,11 @@
 <?php
 
-// Redirect
-$section = param("section");
+$section = $page->section();
 $view = get("view") ?: "list";
 
-if ($section == null || get("view") == null) {
-    go("{$page->uri()}/section:1?view={$view}");
+// Redirect
+if (get("view") == null) {
+    go("{$page->uri()}/{$section}?view={$view}");
 }
 ?>
 
@@ -24,7 +24,7 @@ if ($section == null || get("view") == null) {
     <?php snippet("tablist", [
         "title" => "Sections",
         "tabs" => collection("sections"),
-        "param" => "section",
+        "uid" => $section,
         "view" => $view,
     ]); ?>
 

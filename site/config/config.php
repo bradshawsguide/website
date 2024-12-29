@@ -1,5 +1,7 @@
 <?php
 
+use Kirby\Uuid\Uuid;
+
 return [
     // Markdown
     "markdown" => [
@@ -165,6 +167,46 @@ return [
                 $ignore = kirby()->option("sitemap.ignore", ["error"]);
                 $xml = snippet("app/sitemap", compact("pages", "ignore"), true);
                 return new Response($xml, "application/xml");
+            },
+        ],
+        [
+            "pattern" => ["routes", "sections"],
+            "action" => function () {
+                return go("routes/1");
+            },
+        ],
+        [
+            "pattern" => ["routes/([1-4])", "sections/([1-4])"],
+            "action" => function ($section) {
+                return Page::factory([
+                    "slug" => "routes",
+                    "template" => "routes",
+                    "content" => [
+                        "title" => "Routes & Tours",
+                        "section" => $section,
+                        "uuid" => Uuid::generate(),
+                    ],
+                ]);
+            },
+        ],
+        [
+            "pattern" => "stations",
+            "action" => function () {
+                return go("stations/a");
+            },
+        ],
+        [
+            "pattern" => "stations/([a-z])",
+            "action" => function ($letter) {
+                return Page::factory([
+                    "slug" => "stations",
+                    "template" => "stations",
+                    "content" => [
+                        "title" => "Railway Stations",
+                        "letter" => $letter,
+                        "uuid" => Uuid::generate(),
+                    ],
+                ]);
             },
         ],
     ],
