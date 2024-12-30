@@ -5,6 +5,7 @@
 
   display: flex;
   font: var(--font-label);
+  font-size: var(--font-size-s);
   justify-content: space-around;
   margin-block: var(--space-m);
   margin-inline: auto;
