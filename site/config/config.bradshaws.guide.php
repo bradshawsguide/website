@@ -4,6 +4,7 @@ return [
     "cache" => [
         "pages" => [
             "active" => true,
+            "ignore" => fn($page) => $page->cacheable()->value() === false,
         ],
     ],
     "debug" => false,

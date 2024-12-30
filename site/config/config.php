@@ -182,6 +182,8 @@ return [
                     "slug" => "routes",
                     "template" => "routes",
                     "content" => [
+                        // Don’t add to static cache
+                        "cacheable" => false,
                         "title" => "Routes & Tours",
                         "section" => $section,
                         "uuid" => Uuid::generate(),
@@ -202,6 +204,8 @@ return [
                     "slug" => "stations",
                     "template" => "stations",
                     "content" => [
+                        // Don’t add to static cache
+                        "cacheable" => false,
                         "title" => "Railway Stations",
                         "letter" => $letter,
                         "uuid" => Uuid::generate(),
