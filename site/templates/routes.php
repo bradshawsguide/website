@@ -68,7 +68,8 @@ if (get("view") == null) {
                         "title" => Html::a($company->url(), $company->title()),
                         "items" => $company
                             ->routes()
-                            ->filterBy("section", $section),
+                            ->filterBy("section", $section)
+                            ->sortBy("title", "asc"),
                     ]); ?>
                 <?php endforeach; ?>
             <?php endif; ?>
