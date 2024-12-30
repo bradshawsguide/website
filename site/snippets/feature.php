@@ -4,7 +4,7 @@
             <span><?= kti($item->parent()->title()) ?></span>
             <b-visually-hidden>:</b-visually-hidden>
             <a href="<?= $item->url() ?>">
-                <?= $item->title() ?>
+                <?= kt($item->title()) ?>
                 <?php isset($suffix) ? "({$suffix})" : ""; ?>
             </a>
         </h3>
