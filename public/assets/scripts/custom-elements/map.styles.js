@@ -2,7 +2,7 @@ import { css } from "lit";
 
 export default css`
   :host {
-    block-size: 100%;
+    block-size: 100dvh;
   }
 
   #map {

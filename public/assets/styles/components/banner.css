@@ -10,11 +10,15 @@
   display: grid;
   grid-template-areas: "masthead navigation search";
   grid-template-columns: auto 1fr auto;
-  padding-inline: calc(var(--page-gutter) - var(--space-s));
+  inset-block-start: 0;
+  padding-inline: calc(var(--page-gutter) - var(--space-xs));
+  position: sticky;
+  z-index: 99;
 
   &:has(h1) {
     grid-template-areas: "navigation search" "masthead masthead";
     grid-template-columns: auto;
+    position: static;
   }
 
   & div {

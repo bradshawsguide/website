@@ -11,6 +11,7 @@
 }
 
 html {
+  block-size: 100vh;
   text-size-adjust: none;
 
   &:focus-within {
@@ -24,16 +25,12 @@ html {
 
 body {
   background-color: var(--color-neutral-darkest);
-  block-size: 100dvh;
   color: var(--color-neutral-darkest);
   display: flex;
   flex-direction: column;
   font-family: var(--font-family-sans);
   margin: 0;
-
-  &:has(dialog#navigation[open]) {
-    overflow: hidden;
-  }
+  min-block-size: 100dvh;
 }
 
 h1,
