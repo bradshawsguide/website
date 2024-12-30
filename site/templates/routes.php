@@ -54,10 +54,13 @@ if (get("view") == null) {
                 ]); ?>
             <?php else: ?>
                 <?php snippet("collection", [
-                    "title" => "Featured routes",
-                    "items" => $featured->filterBy("section", $section),
                     "component" => "feature",
                     "display" => "grid",
+                    "items" => collection("sections")
+                        ->findBy("uid", $section)
+                        ->feature()
+                        ->toPages(),
+                    "title" => "Featured routes and tours",
                 ]); ?>
 
                 <?php foreach ($companies as $company): ?>
