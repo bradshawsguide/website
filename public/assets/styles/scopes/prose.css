@@ -63,6 +63,24 @@
     }
   }
 
+  & ol {
+    counter-reset: --inline-list;
+    list-style: decimal;
+  }
+
+  & ol li {
+    display: inline;
+
+    &:not(:first-of-type) {
+      margin-inline-start: var(--text-indent);
+    }
+
+    &::before {
+      counter-increment: --inline-list;
+      content: counter(--inline-list) ". ";
+    }
+  }
+
   & blockquote {
     font-size: var(--font-size-s);
     line-height: var(--line-height-loose);
