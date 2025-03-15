@@ -3,7 +3,7 @@
   font-variant: common-ligatures lining-nums;
   hyphens: auto;
   max-inline-size: 70ch;
-  word-break: break-word;
+  overflow-wrap: anywhere;
 
   & * + * {
     margin-block-start: var(--space-xs);
