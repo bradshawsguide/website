@@ -22,6 +22,10 @@
     content: "—";
   }
 
+  & dt + dd:empty::before {
+    content: "\2002";
+  }
+
   & dd {
     hyphens: none;
     margin-inline-start: var(--text-indent);
