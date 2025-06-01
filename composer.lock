@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "arnoson/kirby-vite",
-            "version": "5.4.0",
+            "version": "5.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/arnoson/kirby-vite.git",
-                "reference": "7fa2ef00914af5f385aeb016d500a7c837cfa778"
+                "reference": "8d52a32d47fafbeebca7c296248f2d1932f43ab4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/7fa2ef00914af5f385aeb016d500a7c837cfa778",
-                "reference": "7fa2ef00914af5f385aeb016d500a7c837cfa778",
+                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/8d52a32d47fafbeebca7c296248f2d1932f43ab4",
+                "reference": "8d52a32d47fafbeebca7c296248f2d1932f43ab4",
                 "shasum": ""
             },
             "require": {
@@ -36,9 +36,9 @@
             "description": "Vite helper for Kirby CMS",
             "support": {
                 "issues": "https://github.com/arnoson/kirby-vite/issues",
-                "source": "https://github.com/arnoson/kirby-vite/tree/v5.4.0"
+                "source": "https://github.com/arnoson/kirby-vite/tree/v5.5.0"
             },
-            "time": "2024-12-03T19:43:04+00:00"
+            "time": "2025-05-07T08:43:52+00:00"
         },
         {
             "name": "bradshawsguide/kirby",
@@ -1516,7 +1516,7 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": {},
-    "platform-dev": {},
-    "plugin-api-version": "2.6.0"
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
 }
