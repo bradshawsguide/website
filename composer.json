@@ -28,9 +28,9 @@
   ],
   "require": {
     "bradshawsguide/kirby": "*",
-    "getkirby/cms": "^4.0.0",
-    "getkirby/geo": "^1.0.0",
-    "getkirby/staticache": "^1.0.0",
+    "getkirby/cms": "^5.0.0",
+    "getkirby/geo": "^2.0.0",
+    "getkirby/staticache": "^2.0.0",
     "sylvainjule/locator": "^2.0.0",
     "k-community/markdown-field": "3.0.0.alpha.2",
     "arnoson/kirby-vite": "^5.0.0"
