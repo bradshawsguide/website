@@ -535,16 +535,16 @@
         },
         {
             "name": "getkirby/geo",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/geo.git",
-                "reference": "18ea6cc77172e70e9b83a251557c7cfd08b67031"
+                "reference": "2535c072cfbbc7f08921a9816c994138eb78e91f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/geo/zipball/18ea6cc77172e70e9b83a251557c7cfd08b67031",
-                "reference": "18ea6cc77172e70e9b83a251557c7cfd08b67031",
+                "url": "https://api.github.com/repos/getkirby/geo/zipball/2535c072cfbbc7f08921a9816c994138eb78e91f",
+                "reference": "2535c072cfbbc7f08921a9816c994138eb78e91f",
                 "shasum": ""
             },
             "require": {
@@ -579,7 +579,7 @@
             ],
             "support": {
                 "issues": "https://github.com/getkirby/geo/issues",
-                "source": "https://github.com/getkirby/geo/tree/2.0.0"
+                "source": "https://github.com/getkirby/geo/tree/2.0.1"
             },
             "funding": [
                 {
@@ -587,7 +587,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2025-05-26T10:59:20+00:00"
+            "time": "2025-07-21T08:28:52+00:00"
         },
         {
             "name": "getkirby/staticache",
