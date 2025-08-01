@@ -45,7 +45,7 @@
   "devDependencies": {
     "@prettier/plugin-php": "^0.22.0",
     "eslint": "^9.0.0",
-    "eslint-config-prettier": "^10.0.0",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-unicorn": "^59.0.0",
     "eslint-plugin-wc": "^3.0.0",
     "lightningcss": "^1.22.1",
