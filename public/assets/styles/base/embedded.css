@@ -9,7 +9,7 @@ img {
   display: block;
 
   @media print {
-    page-break-inside: avoid;
+    break-inside: avoid;
   }
 }
 

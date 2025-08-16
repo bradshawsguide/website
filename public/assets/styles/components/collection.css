@@ -62,7 +62,7 @@
   &[data-display*="grid"] {
     & ul {
       display: grid;
-      grid-gap: var(--gap-x);
+      gap: var(--gap-x);
       grid-template-columns: repeat(
         auto-fit,
         minmax(min(100%, var(--grid-item-size)), 1fr)

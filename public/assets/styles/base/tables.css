@@ -16,6 +16,6 @@ table {
   }
 
   tr {
-    page-break-inside: avoid;
+    break-inside: avoid;
   }
 }
