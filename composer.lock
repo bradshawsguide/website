@@ -384,16 +384,16 @@
         },
         {
             "name": "getkirby/cms",
-            "version": "5.0.1",
+            "version": "5.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/kirby.git",
-                "reference": "ddd11f9b4a23e0b5d306b146ca5d6b7a1c1909a9"
+                "reference": "572dab320d31a84ebb140eb0a4268f91b8a0572c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/kirby/zipball/ddd11f9b4a23e0b5d306b146ca5d6b7a1c1909a9",
-                "reference": "ddd11f9b4a23e0b5d306b146ca5d6b7a1c1909a9",
+                "url": "https://api.github.com/repos/getkirby/kirby/zipball/572dab320d31a84ebb140eb0a4268f91b8a0572c",
+                "reference": "572dab320d31a84ebb140eb0a4268f91b8a0572c",
                 "shasum": ""
             },
             "require": {
@@ -484,7 +484,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2025-07-03T11:23:56+00:00"
+            "time": "2025-07-29T09:32:34+00:00"
         },
         {
             "name": "getkirby/composer-installer",
@@ -535,16 +535,16 @@
         },
         {
             "name": "getkirby/geo",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/geo.git",
-                "reference": "18ea6cc77172e70e9b83a251557c7cfd08b67031"
+                "reference": "2535c072cfbbc7f08921a9816c994138eb78e91f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/geo/zipball/18ea6cc77172e70e9b83a251557c7cfd08b67031",
-                "reference": "18ea6cc77172e70e9b83a251557c7cfd08b67031",
+                "url": "https://api.github.com/repos/getkirby/geo/zipball/2535c072cfbbc7f08921a9816c994138eb78e91f",
+                "reference": "2535c072cfbbc7f08921a9816c994138eb78e91f",
                 "shasum": ""
             },
             "require": {
@@ -579,7 +579,7 @@
             ],
             "support": {
                 "issues": "https://github.com/getkirby/geo/issues",
-                "source": "https://github.com/getkirby/geo/tree/2.0.0"
+                "source": "https://github.com/getkirby/geo/tree/2.0.1"
             },
             "funding": [
                 {
@@ -587,7 +587,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2025-05-26T10:59:20+00:00"
+            "time": "2025-07-21T08:28:52+00:00"
         },
         {
             "name": "getkirby/staticache",
@@ -1008,16 +1008,16 @@
         },
         {
             "name": "sylvainjule/locator",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sylvainjule/kirby-locator.git",
-                "reference": "af6e3fa24d6f333660a3fb6c26d1296158e6347a"
+                "reference": "07073fd141d47946b1e625560a91d429b0cd52e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sylvainjule/kirby-locator/zipball/af6e3fa24d6f333660a3fb6c26d1296158e6347a",
-                "reference": "af6e3fa24d6f333660a3fb6c26d1296158e6347a",
+                "url": "https://api.github.com/repos/sylvainjule/kirby-locator/zipball/07073fd141d47946b1e625560a91d429b0cd52e6",
+                "reference": "07073fd141d47946b1e625560a91d429b0cd52e6",
                 "shasum": ""
             },
             "require": {
@@ -1040,7 +1040,7 @@
             "description": "A map & geolocation field, built on top of open-source services / Mapbox",
             "support": {
                 "issues": "https://github.com/sylvainjule/kirby-locator/issues",
-                "source": "https://github.com/sylvainjule/kirby-locator/tree/2.0.0"
+                "source": "https://github.com/sylvainjule/kirby-locator/tree/2.1.0"
             },
             "funding": [
                 {
@@ -1052,7 +1052,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-03-08T20:23:19+00:00"
+            "time": "2025-08-04T17:17:20+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
