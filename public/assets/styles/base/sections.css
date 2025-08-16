@@ -47,6 +47,6 @@ h6 {
   text-wrap: balance;
 
   @media print {
-    page-break-after: avoid;
+    break-after: avoid;
   }
 }
