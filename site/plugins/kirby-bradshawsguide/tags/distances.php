@@ -11,7 +11,7 @@ return [
                 "title" => $tag->title(),
                 "distances" => $tag->parent()->$fieldname()->yaml(),
             ],
-            true
+            true,
         );
     },
 ];

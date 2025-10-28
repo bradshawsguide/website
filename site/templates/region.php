@@ -7,7 +7,7 @@
     [
         "pretitle" => "A descriptive guide to",
     ],
-    slots: true
+    slots: true,
 ); ?>
     <?php if ($page->uid() != "channel-islands"): ?>
         <?php snippet("collection", [

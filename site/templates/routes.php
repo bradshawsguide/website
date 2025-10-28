@@ -19,7 +19,7 @@ if (get("view") == null) {
         "content" => collection("sections")->findBy("uid", $section)->text(),
         "editable" => false,
     ],
-    slots: true
+    slots: true,
 ); ?>
     <?php slot("beforeContent"); ?>
         <?php snippet("tablist", [

@@ -8,7 +8,7 @@ return [
                 [
                     "route" => $route,
                 ],
-                true
+                true,
             );
         }
     },

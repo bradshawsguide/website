@@ -10,7 +10,7 @@ return [
                 [
                     "image" => $image,
                 ],
-                true
+                true,
             );
         }
     },

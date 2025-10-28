@@ -7,7 +7,7 @@
         "editable" => false,
         "title" => $title,
     ],
-    slots: true
+    slots: true,
 ); ?>
     <?php if (size($results)): ?>
         <?php snippet("collection", [

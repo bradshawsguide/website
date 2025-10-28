@@ -10,7 +10,7 @@
                 <a href="<?= $page->prev()->url() ?>" rel="prev">
                     <b-icon name="prev"></b-icon>
                     <b-visually-hidden><?= kti(
-                        $page->prev()->shortTitle()
+                        $page->prev()->shortTitle(),
                     ) ?></b-visually-hidden>
                 </a>
             </li>
@@ -19,7 +19,7 @@
             <li>
                 <a href="<?= $page->next()->url() ?>" rel="next">
                     <b-visually-hidden><?= kti(
-                        $page->next()->shortTitle()
+                        $page->next()->shortTitle(),
                     ) ?></b-visually-hidden>
                     <b-icon name="next"></b-icon>
                 </a>

@@ -4,7 +4,7 @@ class StationPage extends Kirby\Cms\Page
 {
     public function writeContent(
         array $data,
-        ?string $languageCode = null
+        ?string $languageCode = null,
     ): bool {
         if ($station = Db::first("stations", "*", ["uid" => $this->uid()])) {
             return Db::update("stations", $data, ["uid" => $this->uid()]);

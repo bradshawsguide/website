@@ -6,7 +6,7 @@
         "pretitle" => "A descriptive guide to places in",
         "title" => "Great Britain & Ireland",
     ],
-    slots: true
+    slots: true,
 ); ?>
     <?php foreach (page("places")->children() as $country): ?>
         <?php snippet("collection", [

@@ -7,7 +7,7 @@
     <title><?= e(
         !$page->isHomePage(),
         kti($page->title()) . " - " . $site->title(),
-        kti($page->title())
+        kti($page->title()),
     ) ?></title>
 
     <?= vite()->js("assets/scripts/app.js", ["async" => true]) ?>
@@ -29,7 +29,7 @@
     <meta property="og:url" content="<?= $page->url() ?>">
     <meta property="og:title" content="<?= kti($page->title()) ?>">
     <meta property="og:description" name="description" content="<?= kti(
-        $page->desc()->isNotEmpty() ? $page->desc() : $site->desc()
+        $page->desc()->isNotEmpty() ? $page->desc() : $site->desc(),
     ) ?>">
 <?php if ($image = $page->image("cover.jpg")): ?>
     <meta property="og:image" content="<?= $image

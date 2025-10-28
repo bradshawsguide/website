@@ -10,7 +10,7 @@ return [
                     "item" => $item,
                     "suffix" => $tag->suffix(),
                 ],
-                true
+                true,
             );
         }
     },

@@ -39,7 +39,7 @@ $tabs = array_map(function ($letter) {
             "items" => collection("stations")->filterBy(
                 "slug",
                 "^=",
-                $page->letter()
+                $page->letter(),
             ),
             "title" => Str::upper($page->letter()),
             "display" => "index columns",

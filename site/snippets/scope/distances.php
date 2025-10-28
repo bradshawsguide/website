@@ -1,6 +1,6 @@
 <table class="s-distances">
     <caption><?= kti(
-        $title ?? "Distances of Places from the Station"
+        $title ?? "Distances of Places from the Station",
     ) ?></caption>
     <thead>
         <tr>

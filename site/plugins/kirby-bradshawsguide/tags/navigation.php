@@ -14,7 +14,7 @@ return [
                 [
                     "items" => $items,
                 ],
-                true
+                true,
             );
         }
     },

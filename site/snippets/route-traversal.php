@@ -22,7 +22,7 @@ if (array_key_exists($stopKey + 1, $stops)) {
 ?>
 <nav class="c-route-traversal" aria-labelledby="route-traversal-title"<?php e(
     $currentRoute == $item->uid(),
-    " data-current"
+    " data-current",
 ); ?>>
     <h3 id="route-traversal-title">
         <a href="<?= $item->url() ?>">

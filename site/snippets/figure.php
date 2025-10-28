@@ -12,7 +12,7 @@ Html::figure(
     [
         "class" => "c-figure",
         "data-display" => $image->name(),
-    ]
+    ],
 )
 
 ?>

@@ -13,7 +13,7 @@
         "title" => Html::a(page("routes")->url(), "Routes & Tours"),
         "subtitle" => "(In four sections), adapted to the railway system:",
     ],
-    slots: true
+    slots: true,
 ); ?>
     <?php snippet("collection", [
         "component" => "section",
