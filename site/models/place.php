@@ -31,33 +31,11 @@ class PlacePage extends Kirby\Cms\Page
     // Get nearby places (with images)
     public function nearby()
     {
-        if ($geo = $this->geo()) {
-            $point = geo::point($geo);
-
-            // Find all PlacePages with images
-            $places = page("places")
-                ->grandChildren()
-                ->children()
-                ->filter(function ($page) {
-                    return $page->hasImages();
-                });
-
-            // Exclude this page from query
-            $places = $places->filterBy("title", "!=", $this->title());
-
-            // Return nearby places
-            $nearby = $places
-                ->filterBy("geo", "radius", [
-                    "lat" => $point->lat(),
-                    "lng" => $point->lng(),
-                    "radius" => 50,
-                ])
-                ->limit(3);
-
-            return $nearby;
-        } else {
-            return [];
-        }
+        return $this->siblings(false)
+            ->filter(function ($page) {
+                return $page->hasImages();
+            })
+            ->limit(6);
     }
 
     // Convert UIDs listed under `route:` to array of pages
