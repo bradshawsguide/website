@@ -8,6 +8,6 @@
         <?= kti($title) ?>
     </h<?= $level ?? 1 ?>>
     <?php if ($subtitle = $subtitle ?? $page->subtitle()): ?>
-        <p><?= $subtitle ?></p>
+        <?= kt($subtitle) ?>
     <?php endif; ?>
 </header>
