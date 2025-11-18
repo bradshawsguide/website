@@ -40,7 +40,7 @@
     "lint:fix": "npm run lint:format:fix && npm run lint:css:fix && npm run lint:js:fix"
   },
   "dependencies": {
-    "leaflet": "^1.9.0"
+    "leaflet": "^2.0.0-alpha.1"
   },
   "devDependencies": {
     "@prettier/plugin-php": "^0.24.0",

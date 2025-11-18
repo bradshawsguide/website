@@ -1,4 +1,4 @@
-import { circleMarker, map as createMap, geoJSON, tileLayer } from "leaflet";
+import { CircleMarker, Map, GeoJSON, TileLayer } from "leaflet";
 import { LitElement, html } from "lit";
 import styles from "./map.styles.js";
 
@@ -56,7 +56,7 @@ export class MapElement extends LitElement {
       default:
     }
 
-    return circleMarker(latLng, {
+    return new CircleMarker(latLng, {
       color: "#d63636",
       opacity,
       fillColor,
@@ -106,7 +106,7 @@ export class MapElement extends LitElement {
     const center = this.center.split(",");
 
     const mapElement = shadowRoot.querySelector("#map");
-    const map = createMap(mapElement, {
+    const map = new Map(mapElement, {
       center,
       zoom,
       minZoom,
@@ -114,11 +114,13 @@ export class MapElement extends LitElement {
       touchZoom: false,
     });
 
-    map.addLayer(tileLayer(urlTemplate, { attribution, subdomains, minZoom }));
+    map.addLayer(
+      new TileLayer(urlTemplate, { attribution, subdomains, minZoom }),
+    );
 
     if (src) {
       const data = await this.#geojson();
-      const geoJSONLayer = geoJSON(data, {
+      const geoJSONLayer = new GeoJSON(data, {
         style: this.#featureStyle,
         pointToLayer: this.#featurePoint,
         onEachFeature: this.#featurePopup,
