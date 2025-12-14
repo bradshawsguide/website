@@ -18,6 +18,7 @@ Kirby::plugin("bradshawsguide/kirby", [
         "place" => require_once __DIR__ . "/tags/place.php",
         "route" => require_once __DIR__ . "/tags/route.php",
         "smcp" => require_once __DIR__ . "/tags/smcp.php",
+        "statistic" => require_once __DIR__ . "/tags/statistic.php",
         "wikipedia" => require_once __DIR__ . "/tags/wikipedia.php",
     ],
 ]);
