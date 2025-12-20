@@ -6,7 +6,7 @@ import globals from "globals";
 
 export default [
   js.configs.recommended,
-  unicorn.configs["flat/recommended"],
+  unicorn.configs.recommended,
   webComponents.configs["flat/recommended"],
   {
     files: ["public/assets/**/*.js"],
