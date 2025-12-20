@@ -28,12 +28,12 @@
   ],
   "require": {
     "bradshawsguide/kirby": "*",
-    "getkirby/cms": "^5.0.0",
-    "getkirby/geo": "^2.0.0",
-    "getkirby/staticache": "^2.0.0",
-    "sylvainjule/locator": "^2.0.0",
-    "k-community/markdown-field": "3.0.0.alpha.2",
-    "arnoson/kirby-vite": "^5.0.0"
+    "getkirby/cms": "^5.3.3",
+    "getkirby/geo": "^2.0.2",
+    "getkirby/staticache": "^2.1.0",
+    "sylvainjule/locator": "^2.1.0",
+    "k-community/markdown-field": "4.0.0",
+    "arnoson/kirby-vite": "^5.7.1"
   },
   "config": {
     "optimize-autoloader": true,

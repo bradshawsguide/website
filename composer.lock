@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e97ebbd8af22759a1991a4884ccb41d0",
+    "content-hash": "00de4f3e852d24274f5eef02a8c07ffd",
     "packages": [
         {
             "name": "arnoson/kirby-vite",
-            "version": "5.6.1",
+            "version": "5.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/arnoson/kirby-vite.git",
-                "reference": "dc90a0cb165db094ff0bc505c3b46fea5c351a77"
+                "reference": "b643fcad65ad1142f53a05fe9e8effe974b2bb97"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/dc90a0cb165db094ff0bc505c3b46fea5c351a77",
-                "reference": "dc90a0cb165db094ff0bc505c3b46fea5c351a77",
+                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/b643fcad65ad1142f53a05fe9e8effe974b2bb97",
+                "reference": "b643fcad65ad1142f53a05fe9e8effe974b2bb97",
                 "shasum": ""
             },
             "require": {
@@ -42,9 +42,9 @@
             ],
             "support": {
                 "issues": "https://github.com/arnoson/kirby-vite/issues",
-                "source": "https://github.com/arnoson/kirby-vite/tree/v5.6.1"
+                "source": "https://github.com/arnoson/kirby-vite/tree/v5.7.1"
             },
-            "time": "2025-07-02T08:34:47+00:00"
+            "time": "2026-03-18T13:22:15+00:00"
         },
         {
             "name": "bradshawsguide/kirby",
@@ -380,16 +380,16 @@
         },
         {
             "name": "getkirby/cms",
-            "version": "5.2.0",
+            "version": "5.3.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/kirby.git",
-                "reference": "442466caa38fa35a73e5535f3d36aebc51c8e6eb"
+                "reference": "90c285c0c479ecbf2724c620e7e50f94008b9da4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/kirby/zipball/442466caa38fa35a73e5535f3d36aebc51c8e6eb",
-                "reference": "442466caa38fa35a73e5535f3d36aebc51c8e6eb",
+                "url": "https://api.github.com/repos/getkirby/kirby/zipball/90c285c0c479ecbf2724c620e7e50f94008b9da4",
+                "reference": "90c285c0c479ecbf2724c620e7e50f94008b9da4",
                 "shasum": ""
             },
             "require": {
@@ -412,10 +412,10 @@
                 "laminas/laminas-escaper": "2.18.0",
                 "michelf/php-smartypants": "1.8.1",
                 "php": "~8.2.0 || ~8.3.0 || ~8.4.0 || ~8.5.0",
-                "phpmailer/phpmailer": "7.0.1",
+                "phpmailer/phpmailer": "7.0.2",
                 "symfony/polyfill-intl-idn": "1.33.0",
                 "symfony/polyfill-mbstring": "1.33.0",
-                "symfony/yaml": "7.4.1"
+                "symfony/yaml": "7.4.6"
             },
             "replace": {
                 "symfony/polyfill-php72": "*"
@@ -476,7 +476,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2025-12-09T11:44:17+00:00"
+            "time": "2026-03-26T11:15:44+00:00"
         },
         {
             "name": "getkirby/composer-installer",
@@ -527,16 +527,16 @@
         },
         {
             "name": "getkirby/geo",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/geo.git",
-                "reference": "2535c072cfbbc7f08921a9816c994138eb78e91f"
+                "reference": "425f1ad64c1ac65e7130a7852d18a6ccb06b3f39"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/geo/zipball/2535c072cfbbc7f08921a9816c994138eb78e91f",
-                "reference": "2535c072cfbbc7f08921a9816c994138eb78e91f",
+                "url": "https://api.github.com/repos/getkirby/geo/zipball/425f1ad64c1ac65e7130a7852d18a6ccb06b3f39",
+                "reference": "425f1ad64c1ac65e7130a7852d18a6ccb06b3f39",
                 "shasum": ""
             },
             "require": {
@@ -571,7 +571,7 @@
             ],
             "support": {
                 "issues": "https://github.com/getkirby/geo/issues",
-                "source": "https://github.com/getkirby/geo/tree/2.0.1"
+                "source": "https://github.com/getkirby/geo/tree/2.0.2"
             },
             "funding": [
                 {
@@ -579,20 +579,20 @@
                     "type": "custom"
                 }
             ],
-            "time": "2025-07-21T08:28:52+00:00"
+            "time": "2026-03-31T13:17:21+00:00"
         },
         {
             "name": "getkirby/staticache",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/staticache.git",
-                "reference": "0713fba11aceec47136cf0c735e6c74e6546b8e9"
+                "reference": "3931e2a256b169d0341b96e913d531334dc3ecc2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/staticache/zipball/0713fba11aceec47136cf0c735e6c74e6546b8e9",
-                "reference": "0713fba11aceec47136cf0c735e6c74e6546b8e9",
+                "url": "https://api.github.com/repos/getkirby/staticache/zipball/3931e2a256b169d0341b96e913d531334dc3ecc2",
+                "reference": "3931e2a256b169d0341b96e913d531334dc3ecc2",
                 "shasum": ""
             },
             "require": {
@@ -624,7 +624,7 @@
             "homepage": "https://getkirby.com/plugins/getkirby/staticache",
             "support": {
                 "issues": "https://github.com/getkirby/staticache/issues",
-                "source": "https://github.com/getkirby/staticache/tree/2.0.0"
+                "source": "https://github.com/getkirby/staticache/tree/2.1.0"
             },
             "funding": [
                 {
@@ -632,25 +632,25 @@
                     "type": "custom"
                 }
             ],
-            "time": "2025-06-06T14:23:07+00:00"
+            "time": "2026-03-03T08:45:59+00:00"
         },
         {
             "name": "k-community/markdown-field",
-            "version": "3.0.0-alpha.2",
+            "version": "4.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fabianmichael/kirby-markdown-field.git",
-                "reference": "800fe5241abf85bd7309e982cdf0d4deea0b79ec"
+                "reference": "0e8e1552369e6bb176780f10c02431cfb2d3b953"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fabianmichael/kirby-markdown-field/zipball/800fe5241abf85bd7309e982cdf0d4deea0b79ec",
-                "reference": "800fe5241abf85bd7309e982cdf0d4deea0b79ec",
+                "url": "https://api.github.com/repos/fabianmichael/kirby-markdown-field/zipball/0e8e1552369e6bb176780f10c02431cfb2d3b953",
+                "reference": "0e8e1552369e6bb176780f10c02431cfb2d3b953",
                 "shasum": ""
             },
             "require": {
                 "getkirby/composer-installer": "^1.2",
-                "php": ">=8.1.0"
+                "php": ">=8.3.0"
             },
             "require-dev": {
                 "friendsofphp/php-cs-fixer": "^3.13",
@@ -681,7 +681,7 @@
             "homepage": "https://github.com/fabianmichael/kirby-markdown-field",
             "support": {
                 "issues": "https://github.com/fabianmichael/kirby-markdown-field/issues",
-                "source": "https://github.com/fabianmichael/kirby-markdown-field/tree/3.0.0-alpha.2"
+                "source": "https://github.com/fabianmichael/kirby-markdown-field/tree/4.0.0"
             },
             "funding": [
                 {
@@ -689,7 +689,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-11-30T09:05:03+00:00"
+            "time": "2026-02-05T08:58:54+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
@@ -869,16 +869,16 @@
         },
         {
             "name": "phpmailer/phpmailer",
-            "version": "v7.0.1",
+            "version": "v7.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPMailer/PHPMailer.git",
-                "reference": "360ae911ce62e25e11249f6140fa58939f556ebe"
+                "reference": "ebf1655bd5b99b3f97e1a3ec0a69e5f4cd7ea088"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/360ae911ce62e25e11249f6140fa58939f556ebe",
-                "reference": "360ae911ce62e25e11249f6140fa58939f556ebe",
+                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/ebf1655bd5b99b3f97e1a3ec0a69e5f4cd7ea088",
+                "reference": "ebf1655bd5b99b3f97e1a3ec0a69e5f4cd7ea088",
                 "shasum": ""
             },
             "require": {
@@ -939,7 +939,7 @@
             "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
             "support": {
                 "issues": "https://github.com/PHPMailer/PHPMailer/issues",
-                "source": "https://github.com/PHPMailer/PHPMailer/tree/v7.0.1"
+                "source": "https://github.com/PHPMailer/PHPMailer/tree/v7.0.2"
             },
             "funding": [
                 {
@@ -947,7 +947,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-11-25T07:18:09+00:00"
+            "time": "2026-01-09T18:02:33+00:00"
         },
         {
             "name": "psr/log",
@@ -1456,16 +1456,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v7.4.1",
+            "version": "v7.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "24dd4de28d2e3988b311751ac49e684d783e2345"
+                "reference": "58751048de17bae71c5aa0d13cb19d79bca26391"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/24dd4de28d2e3988b311751ac49e684d783e2345",
-                "reference": "24dd4de28d2e3988b311751ac49e684d783e2345",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/58751048de17bae71c5aa0d13cb19d79bca26391",
+                "reference": "58751048de17bae71c5aa0d13cb19d79bca26391",
                 "shasum": ""
             },
             "require": {
@@ -1508,7 +1508,7 @@
             "description": "Loads and dumps YAML files",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/yaml/tree/v7.4.1"
+                "source": "https://github.com/symfony/yaml/tree/v7.4.6"
             },
             "funding": [
                 {
@@ -1528,15 +1528,13 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-12-04T18:11:45+00:00"
+            "time": "2026-02-09T09:33:46+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "k-community/markdown-field": 15
-    },
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {},
